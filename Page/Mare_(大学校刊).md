@@ -1,3 +1,6 @@
+> 本文内容由[Mare \(大学校刊\)](https://zh.wikipedia.org/wiki/Mare_\(大学校刊\))转换而来。
+
+
 **Mare**是[莱顿大学的](https://zh.wikipedia.org/wiki/莱顿大学 "wikilink")[大学杂志](https://zh.wikipedia.org/wiki/校刊 "wikilink")。它是几乎每周出一期的[小型报](https://zh.wikipedia.org/wiki/小型报 "wikilink")，试图独立报道莱顿学术世界内发生的事件。该杂志是为莱顿大学学生和老师量身制作，也试图引起校外人士的阅读兴趣。该杂志创刊于1977年8月。它是Acta et Agenda （1968-1977年）和Leiden University Journal （1931-1970年）之后继者。其刊名Mare指三事：一是[荷兰文词语](https://zh.wikipedia.org/wiki/荷兰文 "wikilink")，意为“消息”；二是指流过莱顿的水道[Mare](https://zh.wikipedia.org/wiki/马雷_\(水道\) "wikilink")；三是（Mare-eh）指轻微形式的矛盾。该杂志以其许多高知名度专栏作家而闻名：[Ileen Montijn](https://zh.wikipedia.org/wiki/Ileen_Montijn "wikilink"), [Boudewijn Büch](https://zh.wikipedia.org/wiki/Boudewijn_Büch "wikilink"), [Piet Vroon](https://zh.wikipedia.org/wiki/Piet_Vroon "wikilink"), [Ferd Crone以及](https://zh.wikipedia.org/wiki/Ferd_Crone "wikilink")[Bas Haring](https://zh.wikipedia.org/wiki/Bas_Haring "wikilink")。
 
 ## 著名的（前）Mare雇员

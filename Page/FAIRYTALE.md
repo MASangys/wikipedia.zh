@@ -1,3 +1,6 @@
+> 本文内容由[FAIRYTALE](https://zh.wikipedia.org/wiki/FAIRYTALE)转换而来。
+
+
 是[F\&C](../Page/F&C.md "wikilink")的一個[十八禁遊戲品牌](../Page/日本成人遊戲.md "wikilink")。原本是從[JAST](../Page/JAST.md "wikilink")獨立的キララ公司以及改名後的IDES的品牌。
 
 1987年時代發售了首部作品，1989年[COCKTAIL SOFT發布首作以後](https://zh.wikipedia.org/wiki/Cocktail_soft "wikilink")，作為組成F\&C的兩支柱之一的品牌而存在

@@ -44,7 +44,7 @@ Vii 2代内置11款游戏（取消了「骰子」遊戲）。游戏32bit，画�
 
 [Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink") [Category:中华人民共和国侵犯版权事件](https://zh.wikipedia.org/wiki/Category:中华人民共和国侵犯版权事件 "wikilink") [Category:第七世代遊戲機](https://zh.wikipedia.org/wiki/Category:第七世代遊戲機 "wikilink") [Category:2007年面世的產品](https://zh.wikipedia.org/wiki/Category:2007年面世的產品 "wikilink")
 
-1.  [国产威力棒游戏机试用手记](http://digi.163.com/07/1123/14/3U07FPG8001624J7_2.html) 网易 2007-11-26
+1.  [国产威力棒游戏机试用手记](http://digi.163.com/07/1123/14/3U07FPG8001624J7_2.html)  网易 2007-11-26
 2.  [瘾科技Engadget独家报道：Vii火拼Wii](http://cn.engadget.com/2007/10/13/engadget-vii-vs-wii-first-shot/)
 3.  [毫无威力——国产游戏机威力棒Vii评测](http://www.yyjoy.com/html/62/n-8462.html)
 4.

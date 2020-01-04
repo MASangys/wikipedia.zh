@@ -1,3 +1,6 @@
+> 本文内容由[Google Voice](https://zh.wikipedia.org/wiki/Google_Voice)转换而来。
+
+
 **Google Voice**是由[Google推出的](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[VOIP服务](https://zh.wikipedia.org/wiki/VOIP "wikilink")，能够将个人所用的众多[电话号码集中成为一个号码](https://zh.wikipedia.org/wiki/电话号码 "wikilink")，同时提供许多[加值服务](https://zh.wikipedia.org/wiki/增值服务 "wikilink")，它在[美](https://zh.wikipedia.org/wiki/美國 "wikilink")[加地区提供的免费语音通话和短信服务](../Page/加拿大.md "wikilink")。该服务由Google于2009年3月11日收购GrandCentral后推出\[1\]，并且从2009年6月开始邀请一些志愿者参与实验。
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[Gov 2.0](https://zh.wikipedia.org/wiki/Gov_2.0)转换而来。
+
+
 **Gov 2.0**（**政府2.0**）是由[提姆·奥莱理于](https://zh.wikipedia.org/wiki/提姆·奥莱理 "wikilink")2009年9月4日在techcruch網頁提出，他認為[政府](../Page/政府.md "wikilink")應當視為一個平台（Government As A Platform）提供網路服務（Web Services），政府機構不應只是提供[網站](../Page/網站.md "wikilink")，而應該提供網路服務，這些服務實際上就是政府的[软件开发工具包](../Page/软件开发工具包.md "wikilink")。\[1\]
 
 **政府2.0**（**Government 2.0**，**Gov 2.0**）是[創新2.0](https://zh.wikipedia.org/wiki/創新2.0 "wikilink")（Innovation 2.0）時代的政府形態，通過以移動技術為代表的[雲端運算](../Page/雲端運算.md "wikilink")、[物聯網等新一代信息技術工具和](https://zh.wikipedia.org/wiki/物聯網 "wikilink")[SNS](https://zh.wikipedia.org/wiki/SNS "wikilink")、[社會媒體為代表的社會工具應用](https://zh.wikipedia.org/wiki/社會媒體 "wikilink")，實現以[用戶創新](https://zh.wikipedia.org/wiki/用戶創新 "wikilink")、[大眾創新](https://zh.wikipedia.org/wiki/大眾創新 "wikilink")、[開放創新](https://zh.wikipedia.org/wiki/開放創新 "wikilink")、[協同創新為特征的作為平臺的政府](https://zh.wikipedia.org/wiki/協同創新 "wikilink")，完成政府形態從生產範式向服務範式的轉變。政府2.0是作為平臺的政府、服務導向的政府、開放的政府，致力於以用戶為中心，通過政府、市場、社會的協同與互動塑造公共價值。\[2\]

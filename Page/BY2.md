@@ -1280,7 +1280,7 @@ Yumi</p></td>
 1.
 2.
 3.  Lee, Jocelyn (27 July 2009). [BY2 lonely in Taiwan](http://www.straitstimes.com/Breaking%2BNews/Lifestyle/Story/STIStory_408558.html), [海峡时报](https://zh.wikipedia.org/wiki/海峡时报 "wikilink"). Retrieved on 18 August 2009.
-4.  [BY2 湊熱鬧MINI CONCERT 短褲Tshirt趴](http://BY2girl.pixnet.net/blog/post/26692121-BY2-%E6%B9%8A%E7%86%B1%E9%AC%A7mini-concert-%E7%9F%AD%E8%A4%B2tshirt%E8%B6%B4)
-5.  [By2自曝最愛金賢重、李敏鎬，期待與韓庚合作](http://music.yule.sohu.com/20111130/n327417297.shtml)
-6.  [By2 By2 『2020觸動舞會』MINI CONCERT 11月10日台北首場舉辦](http://BY2girl.pixnet.net/blog/post/30267411-BY2-BY2-%E3%80%8E2020%E8%A7%B8%E5%8B%95%E8%88%9E%E6%9C%83%E3%80%8Fmini-concert-11%E6%9C%8810%E6%97%A5%E5%8F%B0%E5%8C%97)
-7.  [By2微電影首秀《三里屯》熱播 "三里屯體"走红](http://sg.xinhuanet.com/2013-05/28/c_124776645.htm)
+4.
+5.
+6.
+7.

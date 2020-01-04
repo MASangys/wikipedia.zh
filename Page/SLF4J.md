@@ -1,3 +1,6 @@
+> 本文内容由[SLF4J](https://zh.wikipedia.org/wiki/SLF4J)转换而来。
+
+
 **JAVA簡易日誌門面**（Simple Logging Facade for Java，縮寫SLF4J），是一套包裝[Logging 框架的介面程式](https://zh.wikipedia.org/wiki/Logging_框架 "wikilink")，以[外觀模式](../Page/外觀模式.md "wikilink")實现。可以在軟體部署的時候決定要使用的 Logging 框架，目前主要支援的有[Java Logging API](https://zh.wikipedia.org/wiki/Java_Logging_API "wikilink")、[log4j及](https://zh.wikipedia.org/wiki/log4j "wikilink")[logback等框架](https://zh.wikipedia.org/wiki/logback "wikilink")。以[MIT 授權方式發佈](https://zh.wikipedia.org/wiki/MIT_授權 "wikilink")。
 
 SLF4J 的作者就是 log4j 的作者 Ceki Gülcü，他宣稱 SLF4J 比 log4j 更有效率，而且比 [Apache Commons Logging](https://zh.wikipedia.org/wiki/Apache_Commons_Logging "wikilink") (JCL) 簡單、穩定。

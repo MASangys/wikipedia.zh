@@ -1,3 +1,6 @@
+> 本文内容由[Xbox 360故障問題](https://zh.wikipedia.org/wiki/Xbox_360故障問題)转换而来。
+
+
 [微軟公司在](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")2005年11月推出遊戲主機**[Xbox360](https://zh.wikipedia.org/wiki/Xbox360 "wikilink")**後，眾多用戶曾向微軟方面投訴遊戲主機經常出現不同程度的[故障](https://zh.wikipedia.org/wiki/故障 "wikilink")，而且[概率](../Page/概率.md "wikilink")偏高。有調查顯示，早期版本Xbox360返修率高達68%\[1\] ，而2007年7月的報告指出故障機率還是有33%\[2\]。
 
 微軟隨後將遊戲主機三紅故障部份保修期由一年延長至三年，但其他故障問題仍維持在一年保修。微軟聲稱將於新推出的版本主機改進製造工藝。\[3\]
@@ -42,7 +45,7 @@
 
 ### E代碼故障
 
-E代碼故障是指在Xbox360主機中出現故障的代碼，一般以E（Error）和兩位數字形式顯示，其中[E74故障較為嚴重](https://zh.wikipedia.org/wiki/E74 "wikilink")。一般出現在2007年推出的帶[HDMI](../Page/HDMI.md "wikilink")端子的Xbox360系列主機中，當故障發生時，遊戲視頻輸出畫面發生異常，產生[噪聲或條紋](https://zh.wikipedia.org/wiki/雪花 "wikilink")，而主機環繞電源按鈕的四盞指示燈其中閃爍一盞紅燈，而系統屏幕顯示「E74 系統錯誤，請聯繫Xbox客戶支持」\[13\]。有消息稱E74故障的產生是三紅燈警告故障顯示的另一種形式。而微軟方面指，出現E74故障的成因，是因為在2008年11月19日的系統更新中，加入Xbox Experience的新界面設計，而加大負責HDMI信號輸出的ANA/HANA芯片工作負荷，而產生E74故障。隨後微軟被迫將[E74故障也跟](https://zh.wikipedia.org/wiki/E74 "wikilink")[三紅列入三年保固條例中](https://zh.wikipedia.org/wiki/三紅 "wikilink")\[14\]。
+E代碼故障是指在Xbox360主機中出現故障的代碼，一般以E（Error）和兩位數字形式顯示，其中E74故障較為嚴重。一般出現在2007年推出的帶[HDMI](../Page/HDMI.md "wikilink")端子的Xbox360系列主機中，當故障發生時，遊戲視頻輸出畫面發生異常，產生[噪聲或條紋](https://zh.wikipedia.org/wiki/雪花 "wikilink")，而主機環繞電源按鈕的四盞指示燈其中閃爍一盞紅燈，而系統屏幕顯示「E74 系統錯誤，請聯繫Xbox客戶支持」\[13\]。有消息稱E74故障的產生是三紅燈警告故障顯示的另一種形式。而微軟方面指，出現E74故障的成因，是因為在2008年11月19日的系統更新中，加入Xbox Experience的新界面設計，而加大負責HDMI信號輸出的ANA/HANA芯片工作負荷，而產生E74故障。隨後微軟被迫將[E74故障也跟](https://zh.wikipedia.org/wiki/E74 "wikilink")[三紅列入三年保固條例中](https://zh.wikipedia.org/wiki/三紅 "wikilink")\[14\]。
 
 ### 風扇噪音
 
@@ -105,5 +108,5 @@ Xbox360從發售之初至今，故障問題一直十分嚴重。2005年8月，�
 19. [微軟正式承認三紅事件\!所有360延長保修期](http://game.china228.com/shtml/20070707/23064.shtml) 好得遊戲頻道
 20. [Xbox 360的失敗內幕](http://it.sohu.com/20080910/n259487410.shtml) 搜狐IT
 21. [微软竟在X360回收及修理上 花了超过30亿美元](http://www.gamedb.com.tw/NewsArticle.aspx?nid=2463l) GameDB
-22. [PS3與Wii的壞機率低於1% 而X360壞機率高達33%](http://www.ripten.com/2007/07/03/failure-rate-xbox-360-high-as-33-sony-ps3-less-than-1/)
+22.
 23.

@@ -44,7 +44,7 @@ P250在2007年11月推出了[.45 ACP口徑版本](../Page/.45_ACP.md "wikilink")
 
   - ：警察，特製的PPNL型號以取代[瓦爾特P5及](../Page/瓦爾特P5手槍.md "wikilink")[格洛克17](../Page/格洛克17.md "wikilink")；最後選擇[P99Q作為新佩槍](../Page/瓦爾特P99手槍.md "wikilink")。
 
-  - ：[內政部警政署](../Page/內政部警政署.md "wikilink")，現改採用[瓦爾特PPQ半自動手槍](https://zh.wikipedia.org/wiki/瓦爾特PPQ半自動手槍 "wikilink")。
+  - ：[內政部警政署](../Page/內政部警政署.md "wikilink")，現改採用[瓦爾特PPQ半自動手槍](../Page/瓦爾特PPQ半自動手槍.md "wikilink")。
 
   - ：[聯邦航空警察](https://zh.wikipedia.org/wiki/:en:_Federal_Air_Marshal_Service "wikilink")，以取代[SIG P229半自動手槍](../Page/SIG_P229半自動手槍.md "wikilink")
 

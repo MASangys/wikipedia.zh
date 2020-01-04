@@ -1,3 +1,6 @@
+> 本文内容由[穿透屋顶的High Kick！](https://zh.wikipedia.org/wiki/穿透屋顶的High_Kick！)转换而来。
+
+
 《**穿透屋顶的High Kick！**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2009年9月7日起播出的[情景喜剧](../Page/MBC情境喜劇.md "wikilink")，與《-{[不可阻挡的High Kick！](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick！ "wikilink")}-》同個製作組及導演，亦號稱其延續作，原先並打算找原班人馬出演，但不少因為檔期，只有部分演員繼續演出或[客串](https://zh.wikipedia.org/wiki/客串 "wikilink")，但依旧利用[夸张或](https://zh.wikipedia.org/wiki/夸张 "wikilink")[搞笑的方式诠释](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")、[亲情](https://zh.wikipedia.org/wiki/亲情 "wikilink")、[友情](../Page/友情.md "wikilink")、同事关系等日常生活中常见的情節。
 
 由于受到前一部受欢迎的程度，在首播时除了受到韩国欢迎，在[中国大陆](../Page/中国大陆.md "wikilink")、[日本](../Page/日本.md "wikilink")、[台湾等地亦得到一定迴響](https://zh.wikipedia.org/wiki/台湾 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Hofmann–Löffler–Freytag反应](https://zh.wikipedia.org/wiki/Hofmann–Löffler–Freytag反应)转换而来。
+
+
 **Hofmann–Löffler–Freytag反应**（Hofmann–Löffler–Freytag reaction），简称**HLF反应**，又称**Hofmann–Löffler反应**（Hofmann–Löffler reaction）
 
 加热或光照条件下，*N*-[卤代](https://zh.wikipedia.org/wiki/卤代 "wikilink")[胺合成相应的环胺](https://zh.wikipedia.org/wiki/胺 "wikilink")，如[吡咯烷](../Page/吡咯烷.md "wikilink")。\[1\]\[2\]\[3\]

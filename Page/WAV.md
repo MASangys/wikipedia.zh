@@ -35,32 +35,6 @@ WAV檔案不一定要用在音訊檔上。由於其取樣頻率範圍極廣(低�
 
 所以WAV檔案不一定是儲存聲音的[振幅與時間點](https://zh.wikipedia.org/wiki/振福 "wikilink")，只要是有需要使用到振幅與時間的形式，WAV檔案都能發揮它的功能。
 
-## 如何製作WAV檔
-
-WAV檔案通常可以使用音樂製作軟體製作，若想調整許多參數的話，可以付費使用商業軟體[MATLAB](../Page/MATLAB.md "wikilink")，以下附上一段範例碼可以生成WAV檔案。 需注意的是必須擁有[MATLAB](../Page/MATLAB.md "wikilink")的使用權才可使用。
-
-%a,b,c均是參數，T是訊號總時間長度，Fs是取樣頻率
-
-a=10; b=20; c=30; T=10; Fs=1000;
-
-%function gwave(a,b,c,T,Fs)
-
-%此為對 [餘弦](../Page/餘弦.md "wikilink")的相位去做變化的函數，從0到T，用Fs的取樣率去採樣並用[二進位](https://zh.wikipedia.org/wiki/二進位 "wikilink")[量化 (信號處理)](https://zh.wikipedia.org/wiki/量化_\(信號處理\) "wikilink")，以完成檔案
-
-t = 0:1/Fs:T;
-
-phase = 2\*pi\*((a\*(t.^3))/3+b\*(t.^2)/2+c\*t);
-
-wav = cos(phase);
-
-wavwrite(wav,Fs, '檔案名稱');
-
-sound(wav, Fs);
-
-%end
-
-如此一來，就會生出一個「檔案名稱.wav」的檔案，請自行修改檔案名稱與參數，達到你想創造的WAV檔。 [用matlab生出的wav檔範例.wav](https://zh.wikipedia.org/wiki/File:用matlab生出的wav檔範例.wav "fig:用matlab生出的wav檔範例.wav")
-
 ## 參考資料
 
 [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:音频格式](https://zh.wikipedia.org/wiki/Category:音频格式 "wikilink")

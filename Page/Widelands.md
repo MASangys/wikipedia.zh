@@ -19,7 +19,7 @@
 
 ## 外部链接
 
-  - [Widelands官方站](http://xoops.widelands.org/)
+  - [Widelands官方站](https://web.archive.org/web/20081220034900/http://xoops.widelands.org/)
 
   - [Widelands项目页──Sourceforge.net](http://www.sourceforge.net/projects/widelands)
 

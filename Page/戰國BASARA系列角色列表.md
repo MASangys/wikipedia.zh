@@ -1,3 +1,6 @@
+> 本文内容由[戰國BASARA系列角色列表](https://zh.wikipedia.org/wiki/戰國BASARA系列角色列表)转换而来。
+
+
 **戰国BASARA角色列表**為[卡普空](../Page/卡普空.md "wikilink")動作遊戲《[戰国BASARA](https://zh.wikipedia.org/wiki/戰国BASARA "wikilink")》系列中所登場的人物。
 
 （本記述並不包含除了原作外的一切媒體作品的獨自設定和二次設定。）

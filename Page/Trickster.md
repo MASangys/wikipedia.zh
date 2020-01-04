@@ -31,4 +31,4 @@
 [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:水樹奈奈單曲](https://zh.wikipedia.org/wiki/Category:水樹奈奈單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
 
 1.  [天極動漫：水树奈奈新曲ORICON周第二，登事业新高峰](http://comic.yesky.com/134/8339634.shtml)
-2.  [天極動漫：Rock最高断货预订，水树奈奈第18张单曲发售](http://comic.yesky.com/114/8334114.shtml)
+2.

@@ -1,3 +1,6 @@
+> 本文内容由[Buchwald–Hartwig偶联反应](https://zh.wikipedia.org/wiki/Buchwald–Hartwig偶联反应)转换而来。
+
+
 [JohnHartwig.jpg](https://zh.wikipedia.org/wiki/File:JohnHartwig.jpg "fig:JohnHartwig.jpg") **Buchwald–Hartwig偶联反应**（布赫瓦尔德-哈特维希反应），又称**Buchwald–Hartwig反应**；**Buchwald–Hartwig交叉偶联反应**；**Buchwald–Hartwig胺化反应**
 
 [钯](../Page/钯.md "wikilink")[催化](../Page/催化.md "wikilink")和[碱](../Page/碱.md "wikilink")存在下[胺与](https://zh.wikipedia.org/wiki/胺 "wikilink")[芳](https://zh.wikipedia.org/wiki/芳香族化合物 "wikilink")[卤的交叉](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")[偶联反应](../Page/偶联反应.md "wikilink")，产生 C－N 键，生成胺的 *N*-[芳基化产物](https://zh.wikipedia.org/wiki/芳基 "wikilink")。

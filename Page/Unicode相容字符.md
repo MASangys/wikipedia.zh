@@ -1,3 +1,6 @@
+> 本文内容由[Unicode相容字符](https://zh.wikipedia.org/wiki/Unicode相容字符)转换而来。
+
+
 當講解和談論[統一碼和](https://zh.wikipedia.org/wiki/Unicode "wikilink")[UCS時](https://zh.wikipedia.org/wiki/UCS "wikilink")，經常提到「**相容字符**」這個字眼。相容字符是指統一碼聯盟主張不要使用的圖像式字元，正如[統一碼聯盟](http://www.unicode.org/glossary/#compatibility_character)所說：
 
 > 若不是為了與其他標準間相容和能夠雙向對應轉換，就不會在統一碼中編碼的字符。

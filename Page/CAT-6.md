@@ -43,14 +43,8 @@
 
 {{-}}
 
-### 影音
-
-在2008年的[中國數字家庭產業高峰會上](https://zh.wikipedia.org/wiki/中國數字家庭產業高峰會 "wikilink")，[DIVA](../Page/数字高清互动接口.md "wikilink")（Digital Interface for Video and Audio）推廣聯盟使用了一條CAT-6線進行影音傳輸。\[1\] 使CAT-6線的用途變得更廣。
-
 ## 參考
 
 ## 參見
 
 [Category:網路技術](https://zh.wikipedia.org/wiki/Category:網路技術 "wikilink") [Category:訊號傳輸線](https://zh.wikipedia.org/wiki/Category:訊號傳輸線 "wikilink") [Category:網路硬體](https://zh.wikipedia.org/wiki/Category:網路硬體 "wikilink")
-
-1.  [DIVA推廣聯盟正式成立 利用CAT6線進行影音傳輸－電腦領域 HKEPC](http://www.hkepc.com/?id=1206&fs=c1n)

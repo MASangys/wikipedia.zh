@@ -1,3 +1,6 @@
+> 本文内容由[Alien Arena](https://zh.wikipedia.org/wiki/Alien_Arena)转换而来。
+
+
 *Alien Arena*是一个[免费第一人称射击游戏](https://zh.wikipedia.org/wiki/免费游戏 "wikilink")，使用改动的[id Tech 2](https://zh.wikipedia.org/wiki/id_Tech_2 "wikilink")。行动和武器的很多方面非常类似《[雷神之锤II](../Page/雷神之锤II.md "wikilink")》，也拥有全部的跳跃技巧。
 
 ## 特性

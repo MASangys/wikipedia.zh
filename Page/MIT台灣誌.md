@@ -1,7 +1,19 @@
 > 本文内容由[MIT台灣誌](https://zh.wikipedia.org/wiki/MIT台灣誌)转换而来。
 
 
-《**MIT台灣誌**》是[麥覺明](../Page/麥覺明.md "wikilink")執導與製作的社教節目，由[中國電視公司旗下](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[中視主頻自](../Page/中視_\(頻道\).md "wikilink")2002年4月7日起播出至今\[1\]。2013年6月9日起，[中視HD台開始同步首播](https://zh.wikipedia.org/wiki/中視HD台 "wikilink")。
+《**MIT台灣誌**》是[麥覺明](../Page/麥覺明.md "wikilink")執導與製作的社教節目，由[中國電視公司旗下](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[中視主頻自](../Page/中視_\(頻道\).md "wikilink")2002年4月7日起播出\[1\]至2019年12月29日，共播出906集，播出時間長達18年。2013年6月9日起，[中視HD台同步首播](https://zh.wikipedia.org/wiki/中視HD台 "wikilink")。
+
+## 節目
+
+### 主題
+
+《MIT台灣誌》是為[台灣探訪與見證前人留下](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歷史足跡](https://zh.wikipedia.org/wiki/歷史 "wikilink")，為台灣這塊[土地留下一段完整紀錄](https://zh.wikipedia.org/wiki/土地 "wikilink")，並參照資料[照片與麥覺明口頭解說](https://zh.wikipedia.org/wiki/照片 "wikilink")，令觀眾可以拼湊出當年歷史。在每段[廣告](../Page/廣告.md "wikilink")之前，《MIT台灣誌》會出現一則專題解說，是《MIT台灣誌》另一項特色。《MIT台灣誌》除富有歷史[文化](../Page/文化.md "wikilink")探訪紀錄外，在探訪路途上會不斷探究與發現值得紀錄之事，有：[生態介紹](https://zh.wikipedia.org/wiki/生態 "wikilink")、[地質變化](https://zh.wikipedia.org/wiki/地質 "wikilink")、新[物種發現](https://zh.wikipedia.org/wiki/物種 "wikilink")、辨認動植物、山岳特色與氣候、術語解說、人文風情寫實…等，這也見證了台灣前古後今、探史溯源的多元性紀錄，是一部具有生態[教學](https://zh.wikipedia.org/wiki/教學 "wikilink")、文化品味、[社會動態與](https://zh.wikipedia.org/wiki/社會 "wikilink")[價值變化的詮釋](https://zh.wikipedia.org/wiki/價值 "wikilink")，深深結合自台灣有開發歷史以來，歷經滄海桑田的歲月與[戰爭留下的烙痕](https://zh.wikipedia.org/wiki/戰爭 "wikilink")。
+
+### 停播
+
+2019年12月29日中午，麥覺明於《MIT台灣誌》[Facebook](../Page/Facebook.md "wikilink")[粉絲專頁](../Page/粉絲專頁.md "wikilink")直播，說明當天播出的第906集為最後一集\[2\]。中視回應：「《MIT台灣誌》開播至今18年，因收視不如預期，考量頻道經營，只好忍痛停播。中視感謝製作單位用心製作節目，並給予祝福。」\[3\]麥覺明表示，《MIT台灣誌》「過去在12點播出時，收視率都有維持在1%；後來改到1點播出後，雖有下滑，但也慢慢拉回水平」\[4\]。同一時間[批踢踢實業坊八卦板](https://zh.wikipedia.org/wiki/批踢踢實業坊 "wikilink")、[登山板皆有相關討論文章](https://zh.wikipedia.org/wiki/登山 "wikilink")。
+
+2019年12月30日，中視表示，最近幾年因為觀眾新鮮感不再，《MIT台灣誌》收視率從最高的1%逐漸腰斬到現在0.5%，粗估一年要虧損[新臺幣](../Page/新臺幣.md "wikilink")700萬至800萬元之間；中視肯定麥覺明的努力與付出，但收視率下滑導致入不敷出，連年虧損的中視實在無力再負擔\[5\]。
 
 ## 播出時間
 
@@ -57,23 +69,19 @@
 <tr class="odd">
 <td></td>
 <td><p>中視</p></td>
-<td><p>2016年8月14日－至今</p></td>
+<td><p>2016年8月14日－2019年12月29日</p></td>
 <td><p>每週日中午13:00-14:00</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>中視(MOD版)</p></td>
-<td><p>2019年7月10日－至今</p></td>
+<td><p>中視(MOD、立視線上影視、四季線上影視)</p></td>
+<td><p>2019年7月10日－2019年12月20日</p></td>
 <td><p>每週一至五17:00-18:00</p></td>
-<td></td>
+<td><p>該時段的數位無線電視、有線電視的訊號為《櫻桃小丸子第二季》（中視未取得《櫻桃小丸子第二季》的MOD及網路播映權）</p></td>
 </tr>
 </tbody>
 </table>
-
-## 節目介紹
-
-《MIT台灣誌》是為[台灣探訪與見證前人留下](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歷史足跡](https://zh.wikipedia.org/wiki/歷史 "wikilink")，為台灣這塊[土地留下一段完整紀錄](https://zh.wikipedia.org/wiki/土地 "wikilink")，並參照資料[照片與麥覺明口頭解說](https://zh.wikipedia.org/wiki/照片 "wikilink")，令觀眾可以拼湊出當年歷史。在每段[廣告](../Page/廣告.md "wikilink")之前，《MIT台灣誌》會出現一則專題解說，是《MIT台灣誌》另一項特色。《MIT台灣誌》除富有歷史[文化](../Page/文化.md "wikilink")探訪紀錄外，在探訪路途上會不斷探究與發現值得紀錄之事，有：[生態介紹](https://zh.wikipedia.org/wiki/生態 "wikilink")、[地質變化](https://zh.wikipedia.org/wiki/地質 "wikilink")、新[物種發現](https://zh.wikipedia.org/wiki/物種 "wikilink")、辨認動植物、山岳特色與氣候、術語解說、人文風情寫實…等，這也見證了台灣前古後今、探史溯源的多元性紀錄，是一部具有生態[教學](https://zh.wikipedia.org/wiki/教學 "wikilink")、文化品味、[社會動態與](https://zh.wikipedia.org/wiki/社會 "wikilink")[價值變化的詮釋](https://zh.wikipedia.org/wiki/價值 "wikilink")，深深結合自台灣有開發歷史以來，歷經滄海桑田的歲月與[戰爭留下的烙痕](https://zh.wikipedia.org/wiki/戰爭 "wikilink")。
 
 ### 各集內容
 
@@ -108,8 +116,8 @@
 
 *以下僅列紀錄人，非紀錄人主持則不列。如有遺漏，請添加。*
 
-  - [陳昇](../Page/陳昇.md "wikilink")\[2\]
-  - [夏光宇](https://zh.wikipedia.org/wiki/夏光宇 "wikilink")\[3\]
+  - [陳昇](../Page/陳昇.md "wikilink")\[6\]
+  - [夏光宇](https://zh.wikipedia.org/wiki/夏光宇 "wikilink")\[7\]
   - [蔣偉文](../Page/蔣偉文.md "wikilink")
   - [姚元浩](../Page/姚元浩.md "wikilink")
   - [麥覺明](../Page/麥覺明.md "wikilink")
@@ -119,13 +127,13 @@
 
 ## 體驗人
 
-  - [姚以緹](../Page/姚以緹.md "wikilink")（[莊雅玲](https://zh.wikipedia.org/wiki/莊雅玲 "wikilink")）\[4\]
+  - [姚以緹](../Page/姚以緹.md "wikilink")（[莊雅玲](https://zh.wikipedia.org/wiki/莊雅玲 "wikilink")）\[8\]
   - [陸廷威](../Page/陸廷威.md "wikilink")
   - [楊士萱](../Page/楊士萱.md "wikilink")
   - [張善傑](https://zh.wikipedia.org/wiki/張善傑 "wikilink")
   - [吳定謙](../Page/吳定謙.md "wikilink")
   - [蔡衍明](../Page/蔡衍明.md "wikilink")
-  - [馬俊麟](../Page/馬俊麟.md "wikilink")於節目中使用馬如龍一名
+  - [馬俊麟](../Page/馬俊麟.md "wikilink")於節目中使用本名馬如龍
 
 *節目中，有時會以 體驗人 的身分邀請藝人來賓與麥哥(麥覺明)一同參與主持並體驗大自然與人文之紀錄。如有遺漏，請添加。*
 
@@ -138,8 +146,9 @@
   - 監製：莊明龍
   - 總策劃：阮桂瓊
   - 撰稿：阮昌麟、麥子
+  - 執行企劃：尤理
   - 攝影師：劉志益、張翼謀、余瑞祥、麥覺明
-  - 剪輯：尤理
+  - 剪輯：王聖宇
   - 後製作：胡楠偉（大偉）
   - 執行製作：-{涂}-皓鈞
   - 視覺設計：謝如華
@@ -187,7 +196,7 @@
 
 ### 台灣媒體觀察教育基金會
 
-|- | | |台灣媒體觀察教育基金會「五顆星優質節目獎」 |  |- |2004年1月12日 | |[台灣媒體觀察教育基金會](../Page/台灣媒體觀察教育基金會.md "wikilink")2004年（第一屆）「台灣原住民族電視節目評鑑作業」評鑑「原住民優質節目推薦獎」\[5\] |  |- |}
+|- | | |台灣媒體觀察教育基金會「五顆星優質節目獎」 |  |- |2004年1月12日 | |[台灣媒體觀察教育基金會](../Page/台灣媒體觀察教育基金會.md "wikilink")2004年（第一屆）「台灣原住民族電視節目評鑑作業」評鑑「原住民優質節目推薦獎」\[9\] |  |- |}
 
 ### 電視金鐘獎
 
@@ -209,8 +218,12 @@
 
 [Category:中視電視節目](https://zh.wikipedia.org/wiki/Category:中視電視節目 "wikilink") [Category:台灣社教節目](https://zh.wikipedia.org/wiki/Category:台灣社教節目 "wikilink") [Category:電視金鐘獎節目獎獲獎作品](https://zh.wikipedia.org/wiki/Category:電視金鐘獎節目獎獲獎作品 "wikilink")
 
-1.  [中華民國電視學會](../Page/中華民國電視學會.md "wikilink")無線電視年鑑編纂委員 編纂，《[中華民國無線電視年鑑第十三輯](https://zh.wikipedia.org/wiki/中華民國無線電視年鑑 "wikilink")：民國九十一年至九十二年》，中華民國電視學會2004年7月30日-{出}-版，第47頁。
-2.  [陳昇主持「台灣誌」 玉山攻頂](http://www.libertytimes.com.tw/2002/new/apl/5/today-show6.htm) ，自由時報2002年4月5日，2010年9月19日查閱
-3.  [陳昇請辭 MIT台灣誌](http://www.taiwan123.com.tw/musicdata/newsdigital.asp?offset=1113) ，民生報2002年6月8日，2010年9月19日查閱
-4.  於MIT台灣誌 節目中使用原住民名字－巴奈，是節目中唯一的女性體驗者。其本名為 莊雅玲 藝名為 姚以緹。台東人(阿美族)，畢業於台北市立體育學院球類運動系；曾任手球國家代表隊
-5.  中華民國電視學會無線電視年鑑編纂委員 編纂，《中華民國無線電視年鑑第十四輯：民國九十三年至九十四年》，中華民國電視學會2006年6月30日-{出}-版，第155頁。
+1.  [中華民國電視學會](../Page/中華民國電視學會.md "wikilink")無線電視年鑑編纂委員 編纂，《[中華民國無線電視年鑑第十三輯](https://zh.wikipedia.org/wiki/中華民國無線電視年鑑 "wikilink")：民國九十一年至九十二年》，中華民國電視學會2004年7月30日出版，第47頁。
+2.
+3.
+4.
+5.
+6.  [陳昇主持「台灣誌」 玉山攻頂](http://www.libertytimes.com.tw/2002/new/apl/5/today-show6.htm) ，自由時報2002年4月5日，2010年9月19日查閱
+7.  [陳昇請辭 MIT台灣誌](http://www.taiwan123.com.tw/musicdata/newsdigital.asp?offset=1113) ，民生報2002年6月8日，2010年9月19日查閱
+8.  於MIT台灣誌 節目中使用原住民名字－巴奈，是節目中唯一的女性體驗者。其本名為 莊雅玲 藝名為 姚以緹。台東人(阿美族)，畢業於台北市立體育學院球類運動系；曾任手球國家代表隊
+9.  中華民國電視學會無線電視年鑑編纂委員 編纂，《中華民國無線電視年鑑第十四輯：民國九十三年至九十四年》，中華民國電視學會2006年6月30日-{出}-版，第155頁。

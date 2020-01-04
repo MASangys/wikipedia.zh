@@ -122,7 +122,7 @@ Jaŋalif (1928–1940)
 | 28 | [Y y](../Page/Y.md "wikilink")                                   | Ьj ьj      | ﻴﺋ      | Í í (ıy)                                                                                        | ый                    | inherited from Tatar-Bashkir alphabet project |
 | 29 | [Z z](../Page/Z.md "wikilink")                                   | Z z        | ﺯ       | Z z                                                                                             | З з                   |                                               |
 | 30 | [Ƶ ƶ](https://zh.wikipedia.org/wiki/Ƶ "wikilink")                | Ƶ ƶ        | ﮊ       | J j                                                                                             | Ж ж                   | 如同Jaŋalif                                     |
-| 31 | [Ш ш](https://zh.wikipedia.org/wiki/Ш "wikilink")                | Ş ş        | ﺵ       | Ş ş                                                                                             | Ш ш                   | 别具一格的变化，如同西里尔字母                               |
+| 31 | [Ш ш](../Page/Ш.md "wikilink")                                   | Ş ş        | ﺵ       | Ş ş                                                                                             | Ш ш                   | 别具一格的变化，如同西里尔字母                               |
 | 32 | [W w](../Page/W.md "wikilink")                                   | V v        | ﻭ       | W w, V v                                                                                        | В в                   | 一个字母表达两个音素，如同西里尔字母，但\[v\]音只存在于俄语借词中           |
 
 ## 衰落
@@ -384,7 +384,7 @@ alphabet</p></th>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ш" title="wikilink">Ш ш</a></p></td>
+<td><p><a href="../Page/Ш.md" title="wikilink">Ш ш</a></p></td>
 <td><p>Ш ш</p></td>
 <td><p>Ш ш</p></td>
 <td><p>Ş ş</p></td>

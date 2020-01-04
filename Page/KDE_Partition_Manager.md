@@ -1,3 +1,6 @@
+> 本文内容由[KDE Partition Manager](https://zh.wikipedia.org/wiki/KDE_Partition_Manager)转换而来。
+
+
 **KDE Partition Manager**是一個自由軟體的硬碟分割程式。
 
 它可用於創建、刪除、調整大小、移動、檢查和複製分區。這在創造新作業系統的空間、重組磁盤使用空間、複製硬盤的數據和鏡像一個分區與另一（磁盤映像）是有用的 。此外，KDE Partition Manager可以備份文件系統為文件和恢復備份等。

@@ -1,3 +1,6 @@
+> 本文内容由[小朋友齊打交Online](https://zh.wikipedia.org/wiki/小朋友齊打交Online)转换而来。
+
+
 《**小朋友齊打交Online**》（，台灣名稱：《**小鬥士大冒險Online**》），香港[大型多人線上遊戲](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")。
 
 ## 簡介

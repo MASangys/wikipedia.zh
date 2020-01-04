@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第十二章：皮肤和皮下组织疾病](https://zh.wikipedia.org/wiki/ICD-10_第十二章：皮肤和皮下组织疾病)转换而来。
+
+
 ## L00-L08 皮肤和皮下组织的感染
 
 L00-L08 [皮肤和](https://zh.wikipedia.org/wiki/皮肤 "wikilink")[皮下组织的感染](https://zh.wikipedia.org/wiki/皮下组织 "wikilink")

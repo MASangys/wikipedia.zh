@@ -1,7 +1,7 @@
 > 本文内容由[Poppy Mercury](https://zh.wikipedia.org/wiki/Poppy_Mercury)转换而来。
 
 
-**Poppy Mercury**（，本名**Poppy Yusfida**），1973年11月15日在[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加達出生](https://zh.wikipedia.org/wiki/雅加達 "wikilink")，是1990年代印尼的知名年青女歌手。1995年罹患[支氣管炎](https://zh.wikipedia.org/wiki/支氣管炎 "wikilink")，1995年8月21日在[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")逝世，終年21歲。
+**Poppy Mercury**（，本名**Poppy Yusfida**），1972年11月15日在[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加達出生](https://zh.wikipedia.org/wiki/雅加達 "wikilink")，是1990年代印尼的知名年青女歌手。1995年罹患[支氣管炎](https://zh.wikipedia.org/wiki/支氣管炎 "wikilink")，1995年8月28日在[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")逝世，終年21歲。
 
 ## 獎項
 

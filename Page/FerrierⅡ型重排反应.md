@@ -1,3 +1,6 @@
+> 本文内容由[FerrierⅡ型重排反应](https://zh.wikipedia.org/wiki/FerrierⅡ型重排反应)转换而来。
+
+
 **FerrierⅡ型重排反应**（Ferrier II reaction），又称**Ferrier成碳环反应**（Ferrier carbocyclization），1979年首先由[糖化学家](https://zh.wikipedia.org/wiki/糖化学 "wikilink")[罗伯特·费里尔](https://zh.wikipedia.org/wiki/罗伯特·费里尔 "wikilink")（Robert J. Ferrier）报道。\[1\]\[2\] 它是[金属](../Page/金属.md "wikilink")介导的[吡喃](../Page/吡喃.md "wikilink")[烯醇醚到](https://zh.wikipedia.org/wiki/烯醇醚 "wikilink")[环己酮](../Page/环己酮.md "wikilink")衍生物的[重排反应](../Page/重排反应.md "wikilink")，一般是以[汞](../Page/汞.md "wikilink")盐如[氯化汞](../Page/氯化汞.md "wikilink")或[三氟乙酸汞催化](https://zh.wikipedia.org/wiki/三氟乙酸汞 "wikilink")。烯碳上带有取代基，如连有 [-OAc](https://zh.wikipedia.org/wiki/乙酰氧基 "wikilink") 基时，反应也可发生。
 
 [Ferrier_carbocyclization.svg](https://zh.wikipedia.org/wiki/File:Ferrier_carbocyclization.svg "fig:Ferrier_carbocyclization.svg")

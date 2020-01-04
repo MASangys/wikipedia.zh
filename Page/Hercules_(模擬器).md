@@ -1,3 +1,6 @@
+> 本文内容由[Hercules \(模擬器\)](https://zh.wikipedia.org/wiki/Hercules_\(模擬器\))转换而来。
+
+
 **Hercules**是一套以 QPL [自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink") 許可證所發行的[模擬器](https://zh.wikipedia.org/wiki/模擬器 "wikilink")，用作模擬[IBM](../Page/IBM.md "wikilink")所開發的[大型计算机](../Page/大型计算机.md "wikilink") (System/370， System/390 以及 zSeries) 。
 
 ## 系統支援

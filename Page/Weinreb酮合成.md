@@ -1,3 +1,6 @@
+> 本文内容由[Weinreb酮合成](https://zh.wikipedia.org/wiki/Weinreb酮合成)转换而来。
+
+
 **Weinreb酮合成**（Weinreb ketone synthesis，温勒伯酮合成法）
 
 **Weinreb酰胺**（温勒伯[酰胺](../Page/酰胺.md "wikilink")，*N*-[甲氧基](https://zh.wikipedia.org/wiki/甲氧基 "wikilink")-*N*-[甲基酰胺](https://zh.wikipedia.org/wiki/甲基 "wikilink")）与[有机金属](https://zh.wikipedia.org/wiki/有机金属 "wikilink")[亲核试剂反应制备](https://zh.wikipedia.org/wiki/亲核试剂 "wikilink")[酮](../Page/酮.md "wikilink")。\[1\] Weinreb酰胺与金属[氢化物](../Page/氢化物.md "wikilink")如[氢化铝锂](../Page/氢化铝锂.md "wikilink")的反应也是制备[醛](../Page/醛.md "wikilink")的标准方法。\[2\]

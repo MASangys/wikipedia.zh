@@ -1,3 +1,6 @@
+> 本文内容由[Rekonq](https://zh.wikipedia.org/wiki/Rekonq)转换而来。
+
+
 **rekonq**是一個輕量級、基於[Qt](../Page/Qt.md "wikilink")[WebKit](../Page/WebKit.md "wikilink")的[网页瀏覽器](https://zh.wikipedia.org/wiki/网页瀏覽器 "wikilink")。它被整合到[KDE](../Page/KDE.md "wikilink")桌面系统，是[Kubuntu](../Page/Kubuntu.md "wikilink")10.10（及更新版本）\[1\]\[2\]以及[Chakra GNU/Linux](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")\[3\]\[4\]的預設網路瀏覽器。rekonq在2010年5月25日被列入KDE [Extragear](../Page/Extragear.md "wikilink")裡\[5\]。相對於[Konqueror](../Page/Konqueror.md "wikilink")，一個已經作為KDE很多年主要的網路瀏覽器，rekonq的目標是一的獨立的、易於使用的網路瀏覽器。其代碼是最初是基於[Qt發展框架的QtDemoBrowser](https://zh.wikipedia.org/wiki/Qt發展框架 "wikilink")，而現在在KDE專案的[Git](../Page/Git.md "wikilink")套件庫上進行開發\[6\]。
 
 ## 特色

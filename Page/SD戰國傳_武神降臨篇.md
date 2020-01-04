@@ -1,3 +1,6 @@
+> 本文内容由[SD戰國傳 武神降臨篇](https://zh.wikipedia.org/wiki/SD戰國傳_武神降臨篇)转换而来。
+
+
 《**SD戰國傳 武神降臨篇**》是2009年[SD高達系列的作品](https://zh.wikipedia.org/wiki/SD高達 "wikilink")。角色背景，是包括光之七人眾等武者，受到異世界（戰國時代）的武者附身，對抗織田信長的故事。同時迎合日本正在播放的[大河劇](../Page/大河劇.md "wikilink")《[天地人](../Page/天地人_\(大河劇\).md "wikilink")》所推出。
 
 本故事的設定，是套用自當年[Sunrise推出的電影](https://zh.wikipedia.org/wiki/Sunrise "wikilink")「天與地」上映期間，為了宣傳電影，便在「[SD戰國傳 風林火山篇](../Page/SD戰國傳_風林火山篇.md "wikilink")」中，新增了[武田信玄](../Page/武田信玄.md "wikilink")與[上杉謙信](../Page/上杉謙信.md "wikilink")附身在武者頑馱無與武者精太身上，成為信玄頑駄無及謙信頑駄無的安排。

@@ -1,3 +1,6 @@
+> 本文内容由[D膜](https://zh.wikipedia.org/wiki/D膜)转换而来。
+
+
 [right端點以](https://zh.wikipedia.org/wiki/file:D3-brane_et_D2-brane.PNG "wikilink")[狄利克雷邊界條件固定在其上](https://zh.wikipedia.org/wiki/狄利克雷邊界條件 "wikilink")\]\] 在[弦論中](https://zh.wikipedia.org/wiki/弦論 "wikilink")，**D-膜**是一種物體可以讓[開弦的端點以](https://zh.wikipedia.org/wiki/弦論 "wikilink")[狄利克雷边界条件固定的地方](https://zh.wikipedia.org/wiki/狄利克雷边界条件 "wikilink")。\[1\]
 
 D-模是1989年由Dai, Leigh和[約瑟夫·波爾欽斯基發現](https://zh.wikipedia.org/wiki/約瑟夫·波爾欽斯基 "wikilink")，另外較罕為人知的是，[切赫·荷拉伐在](https://zh.wikipedia.org/wiki/切赫·荷拉伐 "wikilink")1989年也曾獨立發現D-膜。[約瑟夫·波耳欽斯基在](https://zh.wikipedia.org/wiki/約瑟夫·波耳欽斯基 "wikilink")1995年發現了D-膜其實和[超重力的解](https://zh.wikipedia.org/wiki/超重力 "wikilink")－[黑p-膜是一樣的東西](https://zh.wikipedia.org/wiki/黑p-膜 "wikilink")。這個發現促使了第二次弦論革命，還有[全像對偶和](https://zh.wikipedia.org/wiki/全像對偶 "wikilink")[M理論對偶的發現](https://zh.wikipedia.org/wiki/M理論 "wikilink")。

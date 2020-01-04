@@ -1,3 +1,6 @@
+> 本文内容由[ASP.NET MVC Framework](https://zh.wikipedia.org/wiki/ASP.NET_MVC_Framework)转换而来。
+
+
 **ASP.NET MVC Framework**是微軟在[ASP.NET](../Page/ASP.NET.md "wikilink")中所添加的一組類別庫，這組類別庫可以使用[Model-View-Controller的](../Page/MVC.md "wikilink")[設計模式來開發ASP](https://zh.wikipedia.org/wiki/软件设计模式 "wikilink").NET的應用程式。它與現有的ASP.NET應用程式並沒有衝突，所以兩者是可以並行的。ASP.NET MVC Framework被包裝在System.Web.Mvc.dll中，並利用[ASP.NET Routing來支援動作流以及](https://zh.wikipedia.org/wiki/ASP.NET_Routing "wikilink")[URL Rewriting的能力](https://zh.wikipedia.org/wiki/URL_Rewriting "wikilink")，讓它可以更貼近Web的發展以及Web 2.0的特性。對於多數有[ASP開發經驗的開發人員來說看起來比較不陌生](https://zh.wikipedia.org/wiki/ASP "wikilink")，但對於沒有接觸過像ASP、[PHP](../Page/PHP.md "wikilink")、[JSP](../Page/JSP.md "wikilink")、[Perl](../Page/Perl.md "wikilink")這些Web開發工具的開發人員來說，相對的不容易入門。ASP.NET MVC 的第一個版本於2009年3月17日釋出RTM版本，最新的ASP.NET MVC 5.2則是於2014年12月24日正式發行。
 
 微軟於 ASP.NET Core 中提出下一代的 MVC 框架，稱為 [ASP.NET Core MVC](../Page/ASP.NET_Core_MVC.md "wikilink")。

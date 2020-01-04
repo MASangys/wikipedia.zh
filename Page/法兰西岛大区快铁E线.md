@@ -1,3 +1,6 @@
+> 本文内容由[法兰西岛大区快铁E线](https://zh.wikipedia.org/wiki/法兰西岛大区快铁E线)转换而来。
+
+
 **法兰西岛大区快铁E线**（，简称RER E）是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁](../Page/法兰西岛大区快铁.md "wikilink")的一条连接[巴黎](../Page/巴黎.md "wikilink")市中心和东部郊区的线路。该线路连接巴黎市区的（Haussmann - Saint-Lazare，E1分支），以及东部的[谢尔－古奈站](https://zh.wikipedia.org/wiki/谢尔－古奈站 "wikilink")（Chelles - Gournay，E2分支）和（Tournan，E4分支）。市中心的两个车站均可转乘[巴黎地铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink")，法兰西岛大区快铁及[远郊列车](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink")。
 
 RER E线的运营由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")（SNCF）负责。

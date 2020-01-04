@@ -1,3 +1,6 @@
+> 本文内容由[MIC](https://zh.wikipedia.org/wiki/MIC)转换而来。
+
+
 **Mic**或**MIC**可以指：
 
 ## 組織

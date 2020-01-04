@@ -11,6 +11,7 @@
 
 ### [台灣角川](../Page/台灣角川.md "wikilink")
 
+  - [不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink") ([丸戶史明](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink") /[深崎暮人](../Page/深崎暮人.md "wikilink"))
   - [驚爆危機](../Page/驚爆危機.md "wikilink")（[賀東招二](../Page/賀東招二.md "wikilink")/[四季童子](../Page/四季童子.md "wikilink")）
   - [風之聖痕](../Page/風之聖痕.md "wikilink")（[山門敬弘](https://zh.wikipedia.org/wiki/山門敬弘 "wikilink")/[納都花丸](../Page/納都花丸.md "wikilink")）
   - [BLACK BLOOD BROTHERS](../Page/BLACK_BLOOD_BROTHERS.md "wikilink")（/[草河遊也](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")）

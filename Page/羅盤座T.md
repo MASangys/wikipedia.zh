@@ -1,3 +1,6 @@
+> 本文内容由[羅盤座T](https://zh.wikipedia.org/wiki/羅盤座T)转换而来。
+
+
 **羅盤座T**是位於[羅盤座的一個](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")[聯星系統](https://zh.wikipedia.org/wiki/聯星系統 "wikilink")，距離[地球](../Page/地球.md "wikilink")大約4,783[秒差距](../Page/秒差距.md "wikilink")（15,600[光年](../Page/光年.md "wikilink")），由一顆與太陽相似的恆星和[白矮星](../Page/白矮星.md "wikilink")組成。由於白矮星強大的引力作用，它將伴星的物質牽引過來，導致表面發生周期性的熱核爆炸因而成為[新星](../Page/新星.md "wikilink")。
 
 通常這個系統的[視星等是](https://zh.wikipedia.org/wiki/視星等 "wikilink")15.5等，但是在1890年、1902年、1920年、1944年、和1966年發生爆炸時的最大視星等大約是7.0等。證據顯示儘管羅盤座T經歷了數次的[新星](../Page/新星.md "wikilink")爆發，但質量持續的在增加中，並且已經接近[錢卓極限](../Page/錢德拉塞卡極限.md "wikilink")\[1\]。當一顆[白矮星](../Page/白矮星.md "wikilink")達到這個質量限制時，它將塌陷成為[Ia超新星](../Page/Ia超新星.md "wikilink")。但是，在與科學美國人的Sion博士聯繫後，他說天文學上在新聞發布中所謂的“很快（soon）”，意味著“我們推導出羅盤座T的白矮星，還要上百万甚至上千萬年才會達到錢卓極限”\[2\]，介時他已遠離太陽系，因此對太陽系的影響很小。

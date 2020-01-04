@@ -1,3 +1,6 @@
+> 本文内容由[For You, For Me Tour](https://zh.wikipedia.org/wiki/For_You,_For_Me_Tour)转换而来。
+
+
 ***For You, For Me Tour***\[1\]，也就是***KylieUSA2009***，是[澳洲歌手](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、作曲家、[OBE](https://zh.wikipedia.org/wiki/OBE "wikilink")[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")举办的第11场巡演。这是凯莉在北美首次举办的巡演。
 
 ## 背景

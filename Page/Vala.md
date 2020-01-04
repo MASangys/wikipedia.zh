@@ -1,3 +1,6 @@
+> 本文内容由[Vala](https://zh.wikipedia.org/wiki/Vala)转换而来。
+
+
 **Vala**是一門[物件導向的](https://zh.wikipedia.org/wiki/物件導向 "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，由[編譯器](../Page/編譯器.md "wikilink")產生[C語言代碼和使用](https://zh.wikipedia.org/wiki/C語言 "wikilink")[GObject](../Page/GObject.md "wikilink")系統，允许在[Gnome运行时库的基础上使用一些现代的编程技巧](https://zh.wikipedia.org/wiki/Gnome "wikilink")。通过使用[GLib](../Page/GLib.md "wikilink")和[GObject](../Page/GObject.md "wikilink")，Vala提供了动态类型系统和补助内存管理的功能。
 
 

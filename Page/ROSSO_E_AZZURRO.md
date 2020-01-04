@@ -1,3 +1,6 @@
+> 本文内容由[ROSSO E AZZURRO](https://zh.wikipedia.org/wiki/ROSSO_E_AZZURRO)转换而来。
+
+
 《**ROSSO E AZZURRO**》為[堂本剛](../Page/堂本剛.md "wikilink")個人出道[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2002年8月7日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")發行。
 
 ## 解說

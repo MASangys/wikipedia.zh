@@ -1,3 +1,6 @@
+> 本文内容由[EMule CN Mod](https://zh.wikipedia.org/wiki/EMule_CN_Mod)转换而来。
+
+
 **eMule CN Mod**，简称**CN Mod**，是基于官方[eMule开发的一个](https://zh.wikipedia.org/wiki/eMule "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU [GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 CN Mod由包括**中国驴**论坛管理员在内的一些中国内地[程序员](../Page/程序员.md "wikilink")制作。中国驴论坛为其官方网站与发布点。最早的eMule CN Mod是eMule-CN-1-r46，于2004年8月24日在其论坛上发布\[1\]。

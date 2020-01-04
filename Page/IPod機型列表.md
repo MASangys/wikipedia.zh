@@ -1,3 +1,6 @@
+> 本文内容由[IPod機型列表](https://zh.wikipedia.org/wiki/IPod機型列表)转换而来。
+
+
 這是一個**iPod型號列表**。[IPod](../Page/IPod.md "wikilink")分為5個系列:[Classic](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")、[Mini](https://zh.wikipedia.org/wiki/iPod_Mini "wikilink")、[Nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")、[Shuffle及](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")[Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。各個系列都有不同的容量和設計。
 
 ## 型號

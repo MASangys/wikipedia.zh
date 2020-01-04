@@ -1,3 +1,6 @@
+> 本文内容由[RAIN \(堂本剛單曲\)](https://zh.wikipedia.org/wiki/RAIN_\(堂本剛單曲\))转换而来。
+
+
 《**RAIN**》為[堂本剛](../Page/堂本剛.md "wikilink")於2009年9月9日發行的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為[堂本剛](../Page/堂本剛.md "wikilink")關連的個人單曲中的第8張作品。
 
 ## 解說

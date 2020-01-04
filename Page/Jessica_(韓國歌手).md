@@ -1,3 +1,6 @@
+> 本文内容由[Jessica \(韓國歌手\)](https://zh.wikipedia.org/wiki/Jessica_\(韓國歌手\))转换而来。
+
+
 | 音樂類型 = [K-pop](../Page/韓國流行音樂.md "wikilink")、[J-pop](../Page/日本流行音樂.md "wikilink")、[Hip-Hop](../Page/嘻哈.md "wikilink")、[Electronica](../Page/Electronica.md "wikilink") | 出身地 = （少女時代）
 （個人） | 出道作 = [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：《[Into The New World](../Page/再次重逢的世界.md "wikilink")》
 個人： 《[With Love, J](../Page/With_Love,_J.md "wikilink")》 | 出道日期 = [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：
@@ -6,7 +9,7 @@
  - [Coridel娛樂](../Page/Coridel娛樂.md "wikilink")（2016年至今）
 \- （2018年5月至今） | 獎項 = | 網站 = [鄭秀妍官方網站](http://coridelent.com/artist/jessica/) | 相關團體 = [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（2007年至2014年9月）
 BLANC\&ECLARE（2014年至今）
-[SM Town](../Page/SM_Town.md "wikilink")（2007年至2015年） | IMDb = 4227335 | module =  | module2 =  }} **鄭秀妍**（，），本名**潔-{西卡}-·秀妍·鄭**（），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")及[設計師](https://zh.wikipedia.org/wiki/設計師 "wikilink") \[1\]，曾為韓國女子組合[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。創立品牌「BLANC & ECLARE」，為其[總裁兼](https://zh.wikipedia.org/wiki/總裁 "wikilink")[創意總監](https://zh.wikipedia.org/wiki/創意總監 "wikilink")。2000年前往韓國旅遊時被[SM娛樂](../Page/SM娛樂.md "wikilink")公司發掘，其後進入該公司當練習生。2007年以女子組合少女時代出道，隊內擔任第二主唱，為少女時代成員中訓練時間最長的成員，長達七年零六個月。2014年8月創立品牌BLANC\&ECLARE。2014年9月30日潔西卡在個人微博上宣布被公司通知退出少女時代，成為已離團成員。2015年8月6日，潔西卡正式與SM娛樂公司解除合約並離開公司。
+[SM Town](../Page/SM_Town.md "wikilink")（2007年至2015年） | IMDb = 4227335 | module =  | module2 =  }} **鄭秀妍**（，），本名**潔-{西卡}-·秀妍·鄭**（），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")及[設計師](https://zh.wikipedia.org/wiki/設計師 "wikilink") \[1\]，曾為韓國女子組合[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。創立品牌「BLANC & ECLARE」，為其[總裁兼](https://zh.wikipedia.org/wiki/總裁 "wikilink")[創意總監](https://zh.wikipedia.org/wiki/創意總監 "wikilink")。2000年前往韓國旅遊時被[SM娛樂](../Page/SM娛樂.md "wikilink")公司發掘，其後進入該公司當練習生。2007年以女子組合少女時代出道，在隊內為Vocalist之一，為少女時代成員中訓練時間最長的成員，長達七年零六個月。2014年8月創立品牌BLANC\&ECLARE。2014年9月30日潔西卡在個人微博上宣布被公司通知退出少女時代。2015年8月6日，潔西卡正式與SM娛樂公司解除合約並離開公司。
 
 2016年2月29日與[Coridel娛樂](../Page/Coridel娛樂.md "wikilink")簽約，宣布復出韓國歌壇。2016年5月16日發行首張迷你專輯《With Love, J》\[2\]。2016年6月14日，官方粉絲名確定為「Golden Stars」，意指潔西卡的粉絲在她艱苦歲月裏像璀璨的星光陪伴着她並為她閃耀\[3\]。2016年12月10日發行第二張迷你專輯《WONDERLAND》。2017年8月9日發行第三張迷你專輯《My Decade》，以紀念出道十週年。應援物為星形應援手燈。
 

@@ -1,3 +1,6 @@
+> 本文内容由[K9Copy](https://zh.wikipedia.org/wiki/K9Copy)转换而来。
+
+
 **K9Copy** 是一個自由、開源的DVD備份和DVD製作程序用於[Unix-like作業系統](https://zh.wikipedia.org/wiki/Unix-like "wikilink") ，如 [Linux](../Page/Linux.md "wikilink")和[BSD](../Page/BSD.md "wikilink") 。許可遵從[GNU General Public License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。
 
 ## 功能

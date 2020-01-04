@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第十八章：症状、体征和临床与实验室异常所见](https://zh.wikipedia.org/wiki/ICD-10_第十八章：症状、体征和临床与实验室异常所见)转换而来。
+
+
 ## R00-R09 涉及循环和呼吸系统的症状和体征
 
 R00-R09 涉及循环和[呼吸系统的症状和体征](https://zh.wikipedia.org/wiki/呼吸系统 "wikilink")

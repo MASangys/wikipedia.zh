@@ -22,16 +22,8 @@ Valgrind遵守[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wi
 ## 参考
 
   - {{ cite web | title = Using Valgrind to detect undefined value errors with bit-precision | author = Julian Seward and Nicholas Nethercote | work = Proceedings of the USENIX Annual Technical Conference 2005 | publisher = USENIX Association | url = <http://portal.acm.org/citation.cfm?id=1247362&dl=GUIDE&coll=GUIDE&CFID=8869850&CFTOKEN=10168503> }}
-  - {{ cite book
 
-` | author = J. Seward, N. Nethercote, J. Weidendorfer and the Valgrind Development Team`
-` | title = Valgrind 3.3 — Advanced Debugging and Profiling for GNU/Linux applications`
-` | publisher = Network Theory Ltd`
-` | date = March 2008`
-` | pages = 164 pages`
-` | url = `<http://www.network-theory.co.uk/valgrind/manual/>
-` | isbn = 0954612051 }}`
-
+  -
 ## 外部链接
 
   - [Valgrind官方网址](http://valgrind.org/)

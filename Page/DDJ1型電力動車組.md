@@ -1,3 +1,6 @@
+> 本文内容由[DDJ1型電力動車組](https://zh.wikipedia.org/wiki/DDJ1型電力動車組)转换而来。
+
+
 **DDJ1型“大白鲨”电力动车组**是[中国第一代](../Page/中華人民共和國鐵路運輸.md "wikilink")[高速铁路](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")[电力动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，由[株洲电力机车厂](https://zh.wikipedia.org/wiki/株洲电力机车厂 "wikilink")、[长春客车厂](https://zh.wikipedia.org/wiki/长春客车厂 "wikilink")、[四方机车车辆厂](https://zh.wikipedia.org/wiki/四方机车车辆厂 "wikilink")、[唐山机车车辆厂](https://zh.wikipedia.org/wiki/唐山机车车辆厂 "wikilink")、[南京浦镇车辆厂及](https://zh.wikipedia.org/wiki/南京浦镇车辆厂 "wikilink")[株洲电力机车研究所等单位于](https://zh.wikipedia.org/wiki/株洲电力机车研究所 "wikilink")1999年联合研制成功，属于实验性车型，仅试制一列并未投入批量生产，曾获“九五”国家重点科技攻关计划优秀科技成果。DDJ1型电力动车组为[动力集中式的单端动力推挽式列车组](https://zh.wikipedia.org/wiki/动力集中式 "wikilink")，采用交—直流电传动，最高运营速度为200公里/小时\[1\]。
 
 ## 发展历史

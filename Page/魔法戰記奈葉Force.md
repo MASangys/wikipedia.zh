@@ -1,3 +1,6 @@
+> 本文内容由[魔法戰記奈葉Force](https://zh.wikipedia.org/wiki/魔法戰記奈葉Force)转换而来。
+
+
 《**魔法戰記奈葉Force**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")第4期計畫的一部分，與《[魔法少女奈葉ViVid](../Page/魔法少女奈葉ViVid.md "wikilink")》一樣均為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[緋賀由香理](../Page/緋賀由香理.md "wikilink")，2009年4月30日起在《[娘TYPE](../Page/娘TYPE.md "wikilink")》連載。\[1\][台灣角川](../Page/台灣角川.md "wikilink")於2013年1月22日公告取得授權發行中文版。\[2\]现宣布自2013年11月号开始长期休刊。
 
 ## 概要

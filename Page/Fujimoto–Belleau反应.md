@@ -1,3 +1,6 @@
+> 本文内容由[Fujimoto–Belleau反应](https://zh.wikipedia.org/wiki/Fujimoto–Belleau反应)转换而来。
+
+
 **Fujimoto–Belleau反应**（Fujimoto–Belleau reaction）\[1\]\[2\]\[3\]
 
 δ-[烯醇](../Page/烯醇.md "wikilink")[内酯](../Page/内酯.md "wikilink")与[格氏试剂](../Page/格氏试剂.md "wikilink")作用，然后发生分子内[羟醛缩合](../Page/羟醛缩合.md "wikilink")，得到五、六元环的双环[α,β-不饱和酮](https://zh.wikipedia.org/wiki/α,β-不饱和羰基化合物 "wikilink")。

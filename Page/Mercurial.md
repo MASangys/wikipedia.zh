@@ -1,3 +1,6 @@
+> 本文内容由[Mercurial](https://zh.wikipedia.org/wiki/Mercurial)转换而来。
+
+
 **Mercurial**是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[分布式版本控制软件](https://zh.wikipedia.org/wiki/分布式版本控制 "wikilink")，主要由[Python](../Page/Python.md "wikilink")语言实现，但也包含用[C语言实现的二进制比较工具](https://zh.wikipedia.org/wiki/C语言 "wikilink")。Mercurial一开始的主要运行平台是[Linux](../Page/Linux.md "wikilink")，现在Mercurial已经移植到[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS X和大多数的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[类Unix系统中](https://zh.wikipedia.org/wiki/类Unix "wikilink")。Mercurial主要由[命令行程序组成](../Page/命令行界面.md "wikilink")，现在也有了[图形用户界面](../Page/图形用户界面.md "wikilink")。对Mercurial的所有操作都由用不同的关键字作为参数调用程序“hg”来实现，Hg是参考[水银的](https://zh.wikipedia.org/wiki/水银 "wikilink")[化学符号而取的名字](https://zh.wikipedia.org/wiki/化学符号 "wikilink")。
 
 Mercurial的主要设计目标包括高性能、可扩展性、分散性、完全分布式合作开发、能同时高效地处理[纯文本和](https://zh.wikipedia.org/wiki/文本 "wikilink")[二进制文件](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")，以及分支和合并功能，以此同时保持系统的简洁性\[1\]。Mercurial也包括一个集成的Web界面。

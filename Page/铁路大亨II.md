@@ -1,3 +1,6 @@
+> 本文内容由[铁路大亨II](https://zh.wikipedia.org/wiki/铁路大亨II)转换而来。
+
+
 《**铁路大亨II**》（*Railroad Tycoon II*）是[PopTop软件公司](https://zh.wikipedia.org/wiki/:en:PopTop_Software "wikilink")1998年开发的一款[模拟经营游戏](../Page/模拟经营游戏.md "wikilink")，是《[席德·梅尔的铁路大亨](https://zh.wikipedia.org/wiki/铁路大亨 "wikilink")》（[Railroad Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版权原属](https://zh.wikipedia.org/wiki/版权 "wikilink")[MicroProse公司](https://zh.wikipedia.org/wiki/:en:MicroProse "wikilink")）的续作。在PopTop软件公司获得其版权后，该系列就和[席德·梅尔没有了任何关系](https://zh.wikipedia.org/wiki/席德·梅尔 "wikilink")，所以其命名也仅保留了“铁路大亨”。2000年，[北京新天地](../Page/北京新天地.md "wikilink")在[中国大陆](../Page/中国大陆.md "wikilink")地区代理發行了[简体中文版](https://zh.wikipedia.org/wiki/简体中文 "wikilink")。
 
 ## 游戏简介

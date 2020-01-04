@@ -1,3 +1,6 @@
+> 本文内容由[Bodroux–Chichibabin醛合成](https://zh.wikipedia.org/wiki/Bodroux–Chichibabin醛合成)转换而来。
+
+
 **Bodroux–Chichibabin醛合成**（Bodroux-Chichibabin aldehyde synthesis）\[1\]\[2\]\[3\]\[4\]\[5\]
 
 [格氏试剂](../Page/格氏试剂.md "wikilink")与[原甲酸三乙酯](../Page/原甲酸三乙酯.md "wikilink")反应生成[缩醛](https://zh.wikipedia.org/wiki/缩醛 "wikilink")，缩醛经过[水解](../Page/水解.md "wikilink")得到比格氏试剂多一个碳的[醛](../Page/醛.md "wikilink")类。

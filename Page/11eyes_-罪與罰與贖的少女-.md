@@ -1,3 +1,6 @@
+> 本文内容由[11eyes -罪與罰與贖的少女-](https://zh.wikipedia.org/wiki/11eyes_-罪與罰與贖的少女-)转换而来。
+
+
 《**11eyes -罪與罰與贖的少女-**》（），是2008年4月25日[Lass所發售的第](https://zh.wikipedia.org/wiki/Lass "wikilink")4套18禁遊戲。在同一時間內，用不同角色來描述故事（也就是使用新系統「多重視角模式(cross vision)」），讓玩家對故事有更深入的了解。Lass剛開始製作時，只使用單一主角的視角編寫，之後逐一增加，造成本作品主角的視角設定呈現。世界觀一部份的設定，是承接[Lass的前一個作品](https://zh.wikipedia.org/wiki/Lass "wikilink")[3days 〜満ちてゆく刻の彼方で〜](https://zh.wikipedia.org/wiki/3days_〜満ちてゆく刻の彼方で〜 "wikilink")。
 
 2009年4月2日，[5pb.](../Page/5pb..md "wikilink")推出Xbox 360版《**11eyes CrossOver**》。

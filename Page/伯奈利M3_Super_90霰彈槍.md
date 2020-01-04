@@ -70,6 +70,11 @@
 
 ## 流行文化
 
+### 電影
+
+  - 1995年—《[-{zh-hans:盗火线; zh-hk:盜火線; zh-hant:烈火悍將;}-](https://zh.wikipedia.org/wiki/烈火悍將 "wikilink")》（Heat）：型號為M3 Super 90，只作泵動式射擊，由麥可·克里托（飾演）攻擊試圖逃走的打手司機及其車輛時所使用。
+  - 2014年—《》（No Tears for the Dead）
+
 ### 電子遊戲
 
   - 1999年—《[-{zh-hans:反恐精英; zh-hant:絕對武力;}-](../Page/反恐精英.md "wikilink")》以及除《[全球攻势](../Page/反恐精英：全球攻势.md "wikilink")》以外的所有衍生系列：型号为M3 Super 90，從1.6到CSS版本均命名為“Leone 12 Guage Super”，以泵动式霰弹枪之姿出现。8发弹仓，为反恐部隊和恐怖份子双方共有武器，购买代码为B21。武器模組採用鏡像佈局（右手持槍時拋殼口在左邊）。

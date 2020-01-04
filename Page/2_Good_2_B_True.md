@@ -1,3 +1,6 @@
+> 本文内容由[2 Good 2 B True](https://zh.wikipedia.org/wiki/2_Good_2_B_True)转换而来。
+
+
 ***2 Good 2 B True***是[美国](../Page/美国.md "wikilink")青年偶像[亞倫·卡特的第三张精选集](https://zh.wikipedia.org/wiki/亞倫·卡特 "wikilink")。
 
 ## 曲目列表

@@ -1,3 +1,6 @@
+> 本文内容由[ImgBurn](https://zh.wikipedia.org/wiki/ImgBurn)转换而来。
+
+
 **ImgBurn**是一款[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")，用来将多种类型的[CD](../Page/CD.md "wikilink")/[DVD映像刻录至可写介质](https://zh.wikipedia.org/wiki/DVD "wikilink")。（.cue文件在2.4.0.0版后被支持\[1\]）从2.0.0.0版开始，ImgBurn也可以直接将文件和数据刻录至CD/DVD。
 
 ## 历史

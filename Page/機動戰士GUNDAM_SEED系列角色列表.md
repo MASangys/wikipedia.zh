@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM SEED系列角色列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED系列角色列表)转换而来。
+
+
 **機動戰士GUNDAM SEED系列角色列表**，主要內容為日本動畫作品《[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》與第二季《[機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場的人物。
 
   -

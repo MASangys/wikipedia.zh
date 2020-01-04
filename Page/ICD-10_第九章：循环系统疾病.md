@@ -39,7 +39,7 @@
 
 肺原性心脏病和肺循环疾病（I26-I28）
 
-  - I26 [肺栓塞](https://zh.wikipedia.org/wiki/肺栓塞 "wikilink")
+  - I26 [肺栓塞](../Page/肺栓塞.md "wikilink")
   - I27 其他肺原性心脏病
   - I28 肺血管的其他疾病
 

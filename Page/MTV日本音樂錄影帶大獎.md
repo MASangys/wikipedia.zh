@@ -1,3 +1,6 @@
+> 本文内容由[MTV日本音樂錄影帶大獎](https://zh.wikipedia.org/wiki/MTV日本音樂錄影帶大獎)转换而来。
+
+
 **MTV日本音樂錄影帶大獎**（**MTV Video Music Awards Japan**，簡稱**VMAJ**）創辦於2002年，是日本的年度音樂獎之一，由[MTV Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 
 ## 各屆資訊
@@ -371,7 +374,7 @@
 <tr class="odd">
 <td><p>第17屆</p></td>
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/欅坂46" title="wikilink">欅坂46</a>《<a href="../Page/矛盾心理.md" title="wikilink">矛盾心理</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/欅坂46" title="wikilink">欅坂46</a>《<a href="../Page/矛盾心理_(榉坂46单曲).md" title="wikilink">矛盾心理</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>第18屆</p></td>

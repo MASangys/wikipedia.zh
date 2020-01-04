@@ -1,3 +1,6 @@
+> 本文内容由[Suzanne \(日本藝人\)](https://zh.wikipedia.org/wiki/Suzanne_\(日本藝人\))转换而来。
+
+
 **Suzanne**（，本名**山本紗衣**，[台灣翻譯為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**蘇珊娜**）是出身於[日本](../Page/日本.md "wikilink")[熊本縣](../Page/熊本縣.md "wikilink")[植木町](../Page/植木町.md "wikilink")的[寫真女星](https://zh.wikipedia.org/wiki/寫真女星 "wikilink")、[歌手](../Page/歌手.md "wikilink")，Pabo及aladdin的成員之一。以傻妹形象走紅演藝圈。前夫為[日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[投手](../Page/投手.md "wikilink")[齊藤和巳](../Page/齊藤和巳.md "wikilink")。
 
 ## 個人生活

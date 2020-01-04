@@ -33,6 +33,6 @@ Windows CE 5.0 或更早的版本使用[MapCallerPtr來控制](https://zh.wikipe
   - [Bor-Ming Hsieh and Sue Loh: 3rd Generation Kernel for Windows CE](http://channel9.msdn.com/Showpost.aspx?postid=233124) — Channel 9 Interview.
   - [Juggs Ravalia: Windows Embedded CE 6.0 Device Driver Model](http://channel9.msdn.com/Showpost.aspx?postid=233119) — Channel 9 Interview.
   - [1](http://blogs.msdn.com/mikehall) — Mike Hall's WEBlog.
-  - [2](http://www.bsquare.com/blog) — Jason Browne's Windows Embedded CE 6.0 Blog.
+  - [2](https://web.archive.org/web/20080218210744/http://www.bsquare.com/blog/) — Jason Browne's Windows Embedded CE 6.0 Blog.
 
 [Category:Windows_CE](https://zh.wikipedia.org/wiki/Category:Windows_CE "wikilink")

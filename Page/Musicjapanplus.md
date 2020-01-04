@@ -1,3 +1,6 @@
+> 本文内容由[Musicjapanplus](https://zh.wikipedia.org/wiki/Musicjapanplus)转换而来。
+
+
 **musicJAPANplus**（中文译名暂缺）是一份由[Cool JAPAN株式会社营运的每日更新的](https://zh.wikipedia.org/wiki/Cool_JAPAN株式会社 "wikilink")[网络杂志](https://zh.wikipedia.org/wiki/网络杂志 "wikilink")。它以[日本音乐为主](https://zh.wikipedia.org/wiki/日本音乐 "wikilink")，向日本海外传达日本文化的特色资讯。 杂志目前以[英语为主](https://zh.wikipedia.org/wiki/English "wikilink")，同时提供[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[葡萄牙语](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")、[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")、[印度尼西亚语](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[波兰语](https://zh.wikipedia.org/wiki/波兰语 "wikilink")、[瑞典语](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")、[荷兰语](https://zh.wikipedia.org/wiki/荷兰语 "wikilink")、[马来语](../Page/马来语.md "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")等15种语言版本。
 
 杂志的每个月封面会登出不同艺人名字，这些艺人的相关内容将会在这个月裡被特别更新。 近来主要的重大更新有[雅-miyavi-](../Page/雅-miyavi-.md "wikilink")、[LM.C](../Page/LM.C.md "wikilink")、[w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")、[VAMPS](../Page/VAMPS.md "wikilink")、[HAKUEI等等](https://zh.wikipedia.org/wiki/HAKUEI "wikilink")。

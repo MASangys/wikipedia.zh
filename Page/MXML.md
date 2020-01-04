@@ -1,3 +1,6 @@
+> 本文内容由[MXML](https://zh.wikipedia.org/wiki/MXML)转换而来。
+
+
 **MXML**是一种用于在[Adobe Flex布局用户界面组件的](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")[XML](../Page/XML.md "wikilink")语言。语言标签中使用**mx**作为前缀。MXML区分大小写，主要用于在[Flex中的程序编写](https://zh.wikipedia.org/wiki/Flex "wikilink")。
 
 Adobe系統，這在2005年12月收購了Macromedia公司，給出的縮寫MXML沒有官方意義。一些開發商認為這應該代表“可擴展標記語言”。這是可能的名字來自給發布於2002年和2004年，或者“Macromedia的可擴展標記語言”的Macromedia Studio產品的MX後綴。

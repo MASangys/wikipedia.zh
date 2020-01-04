@@ -1,3 +1,6 @@
+> 本文内容由[刑事偵緝檔案IV](https://zh.wikipedia.org/wiki/刑事偵緝檔案IV)转换而来。
+
+
 《**刑事偵緝檔案IV**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1998年開始拍攝，1999年3月29日至6月4日在[翡翠台](../Page/翡翠台.md "wikilink")首播，全劇共50集，監製为[潘嘉德](../Page/潘嘉德.md "wikilink")。
 
 該劇由[古天樂](../Page/古天樂.md "wikilink")、[陳錦鴻](../Page/陳錦鴻.md "wikilink")、[宣萱](../Page/宣萱.md "wikilink")及[佘詩曼領銜主演](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，由[李珊珊](https://zh.wikipedia.org/wiki/李珊珊_\(藝員\) "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")、[蘇志威](../Page/蘇志威.md "wikilink")及[姚瑩瑩](../Page/姚瑩瑩.md "wikilink")聯合主演，並由[郭晉安](../Page/郭晉安.md "wikilink")及[向海嵐](../Page/向海嵐.md "wikilink")特別演出。該輯的故事與前三輯無關。然而其大結局主角們的感情去向安排，就算事隔多年，依然備受大家爭議和負評。
@@ -126,7 +129,8 @@
 曾彥行之師妹兼下屬<br />
 武元強之長女<br />
 武杰同父異母之姊<br />
-樓蓮香之姨甥女 於大結局成為江子山女友<br />
+樓蓮香之姨甥女<br />
+於大結局成為江子山女友<br />
 徐飛之女友→於第37集發現徐飛仍掛念梁芊芊而關係變差→第44集復合→第50集分手<br />
 劉健生之前女友<br />
 </p></td>

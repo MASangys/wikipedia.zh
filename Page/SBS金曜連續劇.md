@@ -1,3 +1,6 @@
+> 本文内容由[SBS金曜連續劇](https://zh.wikipedia.org/wiki/SBS金曜連續劇)转换而来。
+
+
 **SBS 金曜電視劇**（）是由[SBS每周五播送的時段](../Page/SBS_\(韓國\).md "wikilink")，直到2008年播完《[神的天秤](../Page/神的天秤.md "wikilink")》後就結束了此時段。直到2011年播映《[The Musical](../Page/The_Musical.md "wikilink")》開始恢復。
 
 ## 電視劇列表

@@ -523,7 +523,7 @@ PlotData=
   -
   - [FBI Records: The Vault - Kiss](https://vault.fbi.gov/Kiss) [聯邦調查局檔案](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")
 
-[Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink") [Category:硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:硬式搖滾樂團 "wikilink") [Category:摇滚名人堂入选者](https://zh.wikipedia.org/wiki/Category:摇滚名人堂入选者 "wikilink") [Category:1973年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1973年成立的音樂團體 "wikilink") [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")
+[Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink") [Category:硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:硬式搖滾樂團 "wikilink") [Category:摇滚名人堂入选者](https://zh.wikipedia.org/wiki/Category:摇滚名人堂入选者 "wikilink") [Category:1973年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1973年成立的音樂團體 "wikilink") [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink")
 
 1.
 2.

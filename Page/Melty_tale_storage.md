@@ -1,3 +1,6 @@
+> 本文内容由[Melty tale storage](https://zh.wikipedia.org/wiki/Melty_tale_storage)转换而来。
+
+
 《**Melty tale storage**》為[茅原實里](../Page/茅原實里.md "wikilink")歌手活動再度展開後的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[Lantis](../Page/Lantis.md "wikilink")製作、發行，[King Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 概要

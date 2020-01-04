@@ -1,3 +1,6 @@
+> 本文内容由[Fire Bomber](https://zh.wikipedia.org/wiki/Fire_Bomber)转换而来。
+
+
 **Fire Bomber**，譯為「火焰炸彈」，是[超時空要塞 7系列動畫中](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，所出現的虛構搖滾樂團。
 
 ## 樂團成員

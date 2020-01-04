@@ -1,3 +1,6 @@
+> 本文内容由[Ugi反应](https://zh.wikipedia.org/wiki/Ugi反应)转换而来。
+
+
 **Ugi反应**（乌吉反应）
 
 一分子[醛](../Page/醛.md "wikilink")或[酮](../Page/酮.md "wikilink")、一分子[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、一分子[异腈](../Page/异腈.md "wikilink")以及一分子[羧酸](../Page/羧酸.md "wikilink")[缩合生成α](https://zh.wikipedia.org/wiki/缩合 "wikilink")-[酰氨基](https://zh.wikipedia.org/wiki/酰氨基 "wikilink")[酰胺](../Page/酰胺.md "wikilink")的[多组分反应](https://zh.wikipedia.org/wiki/多组分反应 "wikilink")。\[1\]\[2\]\[3\]
@@ -62,7 +65,7 @@ Ugi反应在化学很多领域都有比较广泛的应用。通过这个反应�
 
 ## 外部链接
 
-  - [Ugi四组分缩合反应的发展及应用](http://www.hxtb.org/col/2000/c00056.htm)
+  - [Ugi四组分缩合反应的发展及应用](https://web.archive.org/web/20090107120826/http://www.hxtb.org/col/2000/c00056.htm)
 
 [Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink") [Category:多组分反应](https://zh.wikipedia.org/wiki/Category:多组分反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 

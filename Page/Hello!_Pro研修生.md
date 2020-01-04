@@ -96,19 +96,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>金光 留々</p></td>
-<td><p>かねみつ るる</p></td>
-<td><p>東京都</p></td>
-<td></td>
-<td></td>
-<td><p>157</p></td>
-<td><p>O</p></td>
-<td></td>
-<td><p>前舞台劇演員、研修生unit成員</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>松原 ユリヤ</p></td>
 <td><p>まつばら ゆりや</p></td>
 <td><p>東京都</p></td>
@@ -121,7 +108,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>29期</p></td>
 <td></td>
 <td><p>斉藤 円香</p></td>
@@ -134,7 +121,7 @@
 <td></td>
 <td><p>研修生unit成員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>小野田 華凛</p></td>
 <td><p>おのだ かりん</p></td>
 <td><p>東京都</p></td>
@@ -147,7 +134,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>30期</p></td>
 <td></td>
 <td><p>広本瑠璃</p></td>
@@ -160,7 +147,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>橋田歩果</p></td>
 <td><p>はしだ ほのか</p></td>
 <td><p>東京都</p></td>
@@ -173,7 +160,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>西﨑美空</p></td>
 <td><p>にしざき みく</p></td>
 <td><p>岡山縣</p></td>
@@ -186,7 +173,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>平山遊季</p></td>
 <td><p>ひらやま ゆき</p></td>
 <td><p>神奈川縣</p></td>
@@ -199,7 +186,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>北原もも</p></td>
 <td><p>きたはら もも</p></td>
 <td><p>東京都</p></td>
@@ -212,7 +199,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>江端妃咲</p></td>
 <td><p>えばた きさき</p></td>
 <td><p>京都府</p></td>
@@ -225,7 +212,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>豫風瑠乃</p></td>
 <td><p>よふう るの</p></td>
 <td><p>大阪府</p></td>
@@ -238,7 +225,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>植村葉純</p></td>
 <td><p>うえむら はすみ</p></td>
 <td><p>大阪府</p></td>
@@ -251,7 +238,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>村越彩菜</p></td>
 <td><p>むらこし あやな</p></td>
 <td><p>千葉縣</p></td>
@@ -264,7 +251,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -490,6 +477,7 @@
   - [後藤咲香](https://zh.wikipedia.org/wiki/後藤咲香 "wikilink")：2003年8月31日生、大分縣，2017年12月研修活動結束。
   - [橋本桃呼](https://zh.wikipedia.org/wiki/橋本桃呼 "wikilink")：2003年6月28日生、山口縣，2018年4月研修活動結束。
   - [出頭杏奈](https://zh.wikipedia.org/wiki/出頭杏奈 "wikilink")：2005年3月8日生、千葉縣，2019年7月研修活動結束。
+  - [金光留々](https://zh.wikipedia.org/wiki/金光留々 "wikilink")：2005年9月2日生、東京都，2019年12月研修活動結束。
 
 **29期（2018年11月）**
 

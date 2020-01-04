@@ -1,3 +1,6 @@
+> 本文内容由[Mindjet](https://zh.wikipedia.org/wiki/Mindjet)转换而来。
+
+
 **Mindjet**（原名：**MindManager**、**MindMan**）是由Mindjet公司开发的一款[商业](../Page/商业.md "wikilink")项目管理的[应用程序](../Page/应用程序.md "wikilink")，可以让用户通过[思维导图的方法进行](https://zh.wikipedia.org/wiki/思维导图 "wikilink")[可视化的](https://zh.wikipedia.org/wiki/可视化 "wikilink")[知识管理](../Page/知识管理.md "wikilink")。截至2011年12月，Mindjet拥有约200万用户，當中包括[可口可乐](../Page/可口可乐.md "wikilink")、[迪斯尼](https://zh.wikipedia.org/wiki/迪斯尼 "wikilink")、[IBM](../Page/IBM.md "wikilink")及[沃尔玛](../Page/沃尔玛.md "wikilink")等著名客户。
 
 ## 特点

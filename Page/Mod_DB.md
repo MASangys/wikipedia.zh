@@ -1,3 +1,6 @@
+> 本文内容由[Mod DB](https://zh.wikipedia.org/wiki/Mod_DB)转换而来。
+
+
 **Mod DataBase**（或称**Mod DB**）是一个专注于[电子游戏模组的网站](../Page/遊戲模組.md "wikilink")，2002年由Scott "INtense\!" Reismanis建立。\[1\]截至2015年9月，Mod DB已有超过604万次的访问，超过12500个登记在案的模组，\[2\]超过108万次的下载。\[3\]同类网站**Indie DB**在2010年上线，专注于独立游戏。
 
 ## 目的

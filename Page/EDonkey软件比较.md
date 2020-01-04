@@ -1,3 +1,6 @@
+> 本文内容由[EDonkey软件比较](https://zh.wikipedia.org/wiki/EDonkey软件比较)转换而来。
+
+
 以下表格对比了一部分**eDonkey软件**（即支持[eDonkey网络的所有](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。或称**eDonkey网络客户端**、**eD2k软件**、**电驴软件**等）的总体与技术上的资料\[1\]。
 
 ## 常规

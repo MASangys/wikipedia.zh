@@ -36,59 +36,13 @@
 
 ## 評價
 
-<div style="font-size: 90%;float:right;border-left:1em solid white">
-
-<table>
-<caption><strong>評分</strong></caption>
-<thead>
-<tr class="header">
-<th><p>發佈者</p></th>
-<th><p>分數</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><center>
-<p><a href="../Page/GameSpot.md" title="wikilink">Gamespot</a></p></td>
-<td><center>
-<p>7.5/10[17]</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p><a href="../Page/IGN.md" title="wikilink">IGN</a></p></td>
-<td><center>
-<p>8.0/10[18]</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p><a href="../Page/GameSpy.md" title="wikilink">GameSpy</a></p></td>
-<td><center>
-<p>4.5/5[19]</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p><a href="https://zh.wikipedia.org/wiki/Game_Rankings" title="wikilink">Game Rankings</a></p></td>
-<td><center>
-<p>80%[20]</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p><a href="../Page/Metacritic.md" title="wikilink">Metacritic</a></p></td>
-<td><center>
-<p>80%[21]</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
-
 遊戲評論對《世紀帝國III：亞洲王朝》有着十分正面的評價，並且有著差不多8.2的平均分，與《[世紀帝國III](../Page/世紀帝國III.md "wikilink")》的評價相似。
 
-[Gamespot網站的傑森](https://zh.wikipedia.org/wiki/Gamespot "wikilink")·歐坎普（Jason Ocampo）給了7.5分（滿分：10分），他很喜歡遊戲中的新文明和戰役，同時也包括和以往《[世紀帝國](../Page/世紀帝國系列.md "wikilink")》不同的遊戲方式，他也讚道奇觀重返於遊戲中。然而，歐坎普並不喜歡戰役當中「相似的情節變化」，以及在其他前作已被再三使用的音效。他推薦這遊戲給「對世紀帝國十分狂熱的愛好者和對於亞洲文明友人」，並以此總-{結}-他的評論。\[22\]
+[Gamespot網站的傑森](https://zh.wikipedia.org/wiki/Gamespot "wikilink")·歐坎普（Jason Ocampo）給了7.5分（滿分：10分），他很喜歡遊戲中的新文明和戰役，同時也包括和以往《[世紀帝國](../Page/世紀帝國系列.md "wikilink")》不同的遊戲方式，他也讚道奇觀重返於遊戲中。然而，歐坎普並不喜歡戰役當中「相似的情節變化」，以及在其他前作已被再三使用的音效。他推薦這遊戲給「對世紀帝國十分狂熱的愛好者和對於亞洲文明友人」，並以此總-{結}-他的評論。\[17\]
 
-[IGN](../Page/IGN.md "wikilink")網站的史帝夫·布茲（Steve Butts）也很享受這款遊戲，並且評定10分中擁有8分。其中他最喜愛的是遊戲畫面（8.5分），評道：「遊戲的繪圖引擎可以輕易的繪出高品質的戰鬥動作以及場境。」然而，遊戲在「吸引力持久度」的部份並未得到類似的評分，因為布茲認為遊戲能在「一週」內完成，雖然「『山丘之王』有吸引力但是比起同類型遊戲還是稍嫌遜色」。最後，遊戲呈現、音效及遊戲性方面都一貫地給了8分，而布茲認為戰役缺乏驚喜。\[23\]
+[IGN](../Page/IGN.md "wikilink")網站的史帝夫·布茲（Steve Butts）也很享受這款遊戲，並且評定10分中擁有8分。其中他最喜愛的是遊戲畫面（8.5分），評道：「遊戲的繪圖引擎可以輕易的繪出高品質的戰鬥動作以及場境。」然而，遊戲在「吸引力持久度」的部份並未得到類似的評分，因為布茲認為遊戲能在「一週」內完成，雖然「『山丘之王』有吸引力但是比起同類型遊戲還是稍嫌遜色」。最後，遊戲呈現、音效及遊戲性方面都一貫地給了8分，而布茲認為戰役缺乏驚喜。\[18\]
 
-[GameSpy](../Page/GameSpy.md "wikilink")網站的評家湯姆·契克（Tom Chick）則對於遊戲高度讚賞，他給了4.5顆星。他特別熱愛遊戲的畫面，形容「如此華麗的寺塔、拱門、清真寺尖塔和顏色，那些老掉牙的歐洲人是絕不可能想像的到它們會出現於新大陸」。他也讚美遊戲東西融合的玩法十分有趣，最後總結：「如果你從前不是個《世紀帝國III》的愛好者，那就準備成為其中一份子吧。」\[24\]
+[GameSpy](../Page/GameSpy.md "wikilink")網站的評家湯姆·契克（Tom Chick）則對於遊戲高度讚賞，他給了4.5顆星。他特別熱愛遊戲的畫面，形容「如此華麗的寺塔、拱門、清真寺尖塔和顏色，那些老掉牙的歐洲人是絕不可能想像的到它們會出現於新大陸」。他也讚美遊戲東西融合的玩法十分有趣，最後總結：「如果你從前不是個《世紀帝國III》的愛好者，那就準備成為其中一份子吧。」\[19\]
 
 ## 参考文献
 
@@ -121,8 +75,3 @@
 17.
 18.
 19.
-20.
-21.
-22.
-23.
-24.

@@ -1,3 +1,6 @@
+> 本文内容由[Google地圖製作工具](https://zh.wikipedia.org/wiki/Google地圖製作工具)转换而来。
+
+
 **Google Map Maker**是[Google](../Page/Google.md "wikilink")為了擴大[Google地圖提供的服務面而開發的另一項產品](../Page/Google地图.md "wikilink")。
 
 由於無法獲得一些國家的地圖數據，為了對抗這一難題，Google決定向特定地區的協作社區開放Google地圖。

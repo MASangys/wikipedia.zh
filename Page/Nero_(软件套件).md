@@ -1,3 +1,6 @@
+> 本文内容由[Nero \(软件套件\)](https://zh.wikipedia.org/wiki/Nero_\(软件套件\))转换而来。
+
+
 [Nero8.jpg](https://zh.wikipedia.org/wiki/File:Nero8.jpg "fig:Nero8.jpg")\]\] [Nero_7.10.png](https://zh.wikipedia.org/wiki/File:Nero_7.10.png "fig:Nero_7.10.png")\]\] [Nero6.PNG](https://zh.wikipedia.org/wiki/File:Nero6.PNG "fig:Nero6.PNG") **Nero**是由[Nero AG](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")（前身是Ahead Software）开发的一套[软件套件](https://zh.wikipedia.org/wiki/软件套件 "wikilink")，可以运行于[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。其最主要的组件是[Nero Burning ROM](../Page/Nero_Burning_ROM.md "wikilink")，功能大多和多媒體的編輯、檢視或複製有關，尤其是[燒錄及碟片複製的部分](https://zh.wikipedia.org/wiki/燒錄 "wikilink")。
 
 ## 套件中包含的产品

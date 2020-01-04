@@ -1,3 +1,6 @@
+> 本文内容由[Arora](https://zh.wikipedia.org/wiki/Arora)转换而来。
+
+
 **Arora**是一款[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")，开发主要基于[Qt](../Page/Qt.md "wikilink")中的Qt[WebKit](../Page/WebKit.md "wikilink")模块\[1\]，并致力于用最小最轻量的方式实现浏览器的基本功能，包括标签浏览，历史，收藏和全局[CSS等](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
 ## 历史

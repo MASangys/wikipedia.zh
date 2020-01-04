@@ -1,3 +1,6 @@
+> 本文内容由[N-甲基吡咯烷酮](https://zh.wikipedia.org/wiki/N-甲基吡咯烷酮)转换而来。
+
+
 ***N*-甲基吡咯烷酮**（NMP）是[2-吡咯烷酮的](https://zh.wikipedia.org/wiki/2-吡咯烷酮 "wikilink")*N*-[甲基](https://zh.wikipedia.org/wiki/甲基 "wikilink")[衍生物](https://zh.wikipedia.org/wiki/衍生物 "wikilink")。
 
 ## 性质

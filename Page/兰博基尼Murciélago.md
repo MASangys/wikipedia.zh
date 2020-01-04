@@ -1,3 +1,6 @@
+> 本文内容由[兰博基尼Murciélago](https://zh.wikipedia.org/wiki/兰博基尼Murciélago)转换而来。
+
+
 [LamborghiniMurcielagoLP640Versace2.JPG](https://zh.wikipedia.org/wiki/File:LamborghiniMurcielagoLP640Versace2.JPG "fig:LamborghiniMurcielagoLP640Versace2.JPG") [SC06_Lamborghini_Murciélago_engine.jpg](https://zh.wikipedia.org/wiki/File:SC06_Lamborghini_Murciélago_engine.jpg "fig:SC06_Lamborghini_Murciélago_engine.jpg") [Lamborghini_Murcielago_SV_-_Flickr_-_J.Smith831_(3).jpg](https://zh.wikipedia.org/wiki/File:Lamborghini_Murcielago_SV_-_Flickr_-_J.Smith831_\(3\).jpg "fig:Lamborghini_Murcielago_SV_-_Flickr_-_J.Smith831_(3).jpg") [Edo_Competition_LP_640^_.EXPLORED_-_Flickr_-_Tom_Wolf_-_Automotive_Photography.jpg](https://zh.wikipedia.org/wiki/File:Edo_Competition_LP_640^_.EXPLORED_-_Flickr_-_Tom_Wolf_-_Automotive_Photography.jpg "fig:Edo_Competition_LP_640^_.EXPLORED_-_Flickr_-_Tom_Wolf_-_Automotive_Photography.jpg") [All-Inkl_Lamborghini_R-SV.jpg](https://zh.wikipedia.org/wiki/File:All-Inkl_Lamborghini_R-SV.jpg "fig:All-Inkl_Lamborghini_R-SV.jpg") **兰博基尼Murciélago**是[兰博基尼被](https://zh.wikipedia.org/wiki/兰博基尼 "wikilink")[奥迪](../Page/奥迪.md "wikilink")收购后推出的高端双门双座跑车，构型基于兰博基尼传统，采用中置6.5L V12引擎。由于是Audi汽車的设计师Luc Donckerwolke操刀设计，所以Murciélago在内饰方面取得了令人瞩目的提升，摆脱了兰博基尼此前为人诟病的粗糙内饰。但也由此引来了关于外形设计方面过于圆滑保守、与兰博基尼传统相悖的指责。自2001年上市后便成为法拉利在超级跑车领域最难应付的对手，作为兰博基尼品牌的旗舰车型帮助兰博基尼创造了连续数年的业绩突破。
 
 ## 起源

@@ -1,3 +1,6 @@
+> 本文内容由[Full Circle](https://zh.wikipedia.org/wiki/Full_Circle)转换而来。
+
+
 《**Full Circle Magazine**》 是使用[Portable Document Format发行的免费网络杂志](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")。诞生于2007年4月份，独立发行，与[Canonical Ltd并无纠葛](https://zh.wikipedia.org/wiki/Canonical_Ltd "wikilink")，使用广告和志愿者支持的方式持续进行，多数内容具有教学和宣传意义。\[1\]\[2\]\[3\]并没有中文译名。
 
 使用[知识共享](../Page/知识共享.md "wikilink")协议发布。

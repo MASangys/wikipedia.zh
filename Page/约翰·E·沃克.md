@@ -1,3 +1,6 @@
+> 本文内容由[约翰·E·沃克](https://zh.wikipedia.org/wiki/约翰·E·沃克)转换而来。
+
+
 **约翰·欧内斯特·沃克**爵士 [FRS](https://zh.wikipedia.org/wiki/皇家學會院士 "wikilink")（，\[1\]），[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[化学家](../Page/化学家.md "wikilink")，1997年[诺贝尔化学奖](../Page/诺贝尔化学奖.md "wikilink")获得者\[2\]，於2012年獲得[科普利獎章](../Page/科普利獎章.md "wikilink")。
 
 ## 职业和研究

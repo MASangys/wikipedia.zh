@@ -1,3 +1,6 @@
+> 本文内容由[KSnapshot](https://zh.wikipedia.org/wiki/KSnapshot)转换而来。
+
+
 **KSnapshot** 是一個KDE 桌面環境中的屏幕截圖應用程式，由Richard J. Moore,、Matthias Ettrich和Aaron J.Seigo創造\[1\]
 
 KSnapshot 可讓用戶使用熱鍵\[2\]採取截圖，可以是整個屏幕、選定的部分、一個視窗或者只是一個視窗的一個部分。具有延时抓取功能。然後用戶可以選擇是以各種格式保存截圖、複製到剪貼板或直接打開任何程序來操作圖像文件。\[3\]

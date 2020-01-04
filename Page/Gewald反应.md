@@ -1,3 +1,6 @@
+> 本文内容由[Gewald反应](https://zh.wikipedia.org/wiki/Gewald反应)转换而来。
+
+
 **Gewald反应**（Gewald reaction）
 
 [醛](../Page/醛.md "wikilink")或[酮](../Page/酮.md "wikilink")与α-[氰基](https://zh.wikipedia.org/wiki/氰基 "wikilink")[酯](../Page/酯.md "wikilink")在[硫磺和](https://zh.wikipedia.org/wiki/硫磺 "wikilink")[碱](../Page/碱.md "wikilink")存在下[缩合](https://zh.wikipedia.org/wiki/缩合 "wikilink")，生成多取代的2-[氨基](https://zh.wikipedia.org/wiki/氨基 "wikilink")[噻吩](../Page/噻吩.md "wikilink")。\[1\]\[2\]

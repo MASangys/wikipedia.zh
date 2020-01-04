@@ -1,3 +1,6 @@
+> 本文内容由[Under The Gun](https://zh.wikipedia.org/wiki/Under_The_Gun)转换而来。
+
+
 《**Under The Gun**》是一首由美國樂團[The Sisters of Mercy所演唱與製作的歌曲](https://zh.wikipedia.org/wiki/The_Sisters_of_Mercy "wikilink")，並且也是他們專輯《[A Slight Case of Overbombing](https://zh.wikipedia.org/wiki/A_Slight_Case_of_Overbombing "wikilink")》的第一主打歌。
 
 《Under The Gun》是一首單曲而音樂錄音帶也在UK Billboard Charts達到14名的好成績。這首歌是由[安德鲁·爱尔德里奇](https://zh.wikipedia.org/wiki/安德鲁·爱尔德里奇 "wikilink")，[比利·休斯](../Page/比利·休斯_\(美国\).md "wikilink")，和[洛珊·西門](../Page/洛珊·西門.md "wikilink")所寫的，同時製作這首歌的包括有Andrew Eldritch和Billie Hughes。

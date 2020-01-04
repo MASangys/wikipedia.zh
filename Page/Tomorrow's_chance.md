@@ -1,3 +1,6 @@
+> 本文内容由[Tomorrow\'s chance](https://zh.wikipedia.org/wiki/Tomorrow\'s_chance)转换而来。
+
+
 《**Tomorrow's chance**》為[茅原實里](../Page/茅原實里.md "wikilink")歌手活動再度展開後的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[Lantis](../Page/Lantis.md "wikilink")／GloryHeaven製作、發行，[Sony Music Distribution發售](https://zh.wikipedia.org/wiki/Sony_Music_Distribution "wikilink")。
 
 ## 概要

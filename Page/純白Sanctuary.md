@@ -1,3 +1,6 @@
+> 本文内容由[純白Sanctuary](https://zh.wikipedia.org/wiki/純白Sanctuary)转换而来。
+
+
 《**純白Sanctuary**》（日文：純白サンクチュアリィ）為[茅原實里](../Page/茅原實里.md "wikilink")重新開始歌手活動後發行的第一張單曲。
 
 ## 概要

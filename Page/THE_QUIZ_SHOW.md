@@ -1,3 +1,6 @@
+> 本文内容由[THE QUIZ SHOW](https://zh.wikipedia.org/wiki/THE_QUIZ_SHOW)转换而来。
+
+
 《**THE QUIZ -{SHOW}-**》（），是由[日本電視台](../Page/日本電視台.md "wikilink")播放的[連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，同時也是該劇中虛構猜謎節目的名稱。台灣的緯來日本台引進播出的是該劇的第二季，劇名為「電視審判-{秀}-」。香港的[有線電視奇妙台引進播出的是該劇的第一季](https://zh.wikipedia.org/wiki/香港有線電視奇妙台/高清奇妙台 "wikilink")，劇名為「一千萬零十二-{夜}-」。香港的[美亞電視劇集台引進播出的是該劇的第二季](https://zh.wikipedia.org/wiki/美亞電視劇集台 "wikilink")，劇名為「益-{智}-遊戲」。
 
 ## 故事綱要

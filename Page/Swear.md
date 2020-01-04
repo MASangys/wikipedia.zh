@@ -1,3 +1,6 @@
+> 本文内容由[Swear](https://zh.wikipedia.org/wiki/Swear)转换而来。
+
+
 《**Swear**》是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")发行的第十一张[单曲](../Page/单曲.md "wikilink")。作为[日本](../Page/日本.md "wikilink")**波路梦（Bourbon）**公司「**Blanchul Mini Series**」[饼干](../Page/饼干.md "wikilink")系列的[广告主题歌曲](https://zh.wikipedia.org/wiki/广告 "wikilink")，这是**alan**首次出演[日本](../Page/日本.md "wikilink")的[电视广告](https://zh.wikipedia.org/wiki/电视广告 "wikilink")，本曲的CM Version已于9月17日开始先行音樂下载。C/W曲“**Beauty**”作为[日本](../Page/日本.md "wikilink")**養命酒製造（Yomeishu Seizo）**公司“**Re:on**”的广告插入曲。
 
 ## 公信榜销售情况

@@ -14,6 +14,7 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\b\.timecigar\.com\b # [[special:contribs/Viclau|special:contribs/Viclau]]
 \bmanagertoday\.com\.tw\b # curid=689345 history
 \btaocao\.cn\b # 125.227.38.22
 \bbountypr\.com\b
@@ -2649,8 +2650,14 @@ hk\.myblog\.yahoo\.com\/8-word
 \bettoday\.net\.dalemon\b # [[內容農場|內容農場]]
 \bread01\.com\b # [[內容農場|內容農場]]
 \bxuehua\.us\b # [[內容農場|內容農場]]
+
 \b9play\.com\.tw\b # https://zh.wikipedia.org/w/index.php?title=Special:用户贡献/WhitePhosphorus&dir=prev&offset=20181121074459&limit=7&target=WhitePhosphorus
 \btwbuying\.com\.tw
+
+# 新黨青年委員會委員林正國 密訊[[內容農場][https://www.twreporter.org/a/information-warfare-business-content-farm-mission]
+\mission-tw\.com\b
+\missiback\.com\b
+\mission-hosti\.com\b
 
 #电影spam
 \bcityyy\.net\b

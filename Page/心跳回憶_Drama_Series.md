@@ -1,3 +1,6 @@
+> 本文内容由[心跳回憶 Drama Series](https://zh.wikipedia.org/wiki/心跳回憶_Drama_Series)转换而来。
+
+
 {{ about|[科樂美](../Page/科樂美.md "wikilink")製作的遊戲《心跳回憶》的外傳《劇場系列》|[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")所製作的動畫《心跳回憶 Only Love》|心跳回憶 Only Love|《心跳回憶》本篇遊戲|心跳回忆}}
 
 《**心跳回憶 Drama Series**》（），是[科樂美](../Page/科樂美.md "wikilink")（KONAMI）推出的[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")《[心跳回憶](../Page/心跳回忆_\(游戏\).md "wikilink")》的3部[外傳作品的系列名稱](https://zh.wikipedia.org/wiki/外傳 "wikilink")。本系列共有3部作品，分別是：①以[虹野沙希](../Page/虹野沙希.md "wikilink")為女主角的《**Vol.1 虹色青春**》，②以[片桐彩子](../Page/片桐彩子.md "wikilink")為女主角的《**Vol.2 彩之戀曲**》，③以[藤崎詩織](../Page/藤崎詩織.md "wikilink")與[館林見晴](../Page/館林見晴.md "wikilink")為女主角的《**Vol.3 啟程之詩**》。

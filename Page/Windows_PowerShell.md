@@ -69,15 +69,15 @@ $blog = [xml](new-object System.Net.WebClient).DownloadString($rssUrl)
 $blog.rss.channel.item | select title -first 8
 ```
 
-### 與命令提示符等的比較
+### 与命令提示符等的比较
 
 <table>
-<caption>電力殼命令行與其他命令行解釋器的內部和外部命令的比較</caption>
+<caption>PowerShell命令行與其他命令行解釋器的內部和外部命令的比較</caption>
 <thead>
 <tr class="header">
-<th><p>電力殼（命令行）</p></th>
-<th><p>電力殼（別名）</p></th>
-<th><p><a href="../Page/命令提示字元.md" title="wikilink">命令提示字元</a></p></th>
+<th><p>PowerShell（命令行）</p></th>
+<th><p>PowerShell（別名）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/命令提示符" title="wikilink">命令提示符</a></p></th>
 <th><p><a href="../Page/Unix_shell.md" title="wikilink">Unix shell</a></p></th>
 <th><p>描述</p></th>
 </tr>
@@ -214,7 +214,7 @@ $blog.rss.channel.item | select title -first 8
 <td><p>sls</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Find" title="wikilink">find</a>, <a href="../Page/Grep.md" title="wikilink">grep</a></p></td>
-<td><p>打印與圖案匹配的線</p></td>
+<td><p>打印与模式匹配的行</p></td>
 </tr>
 <tr class="even">
 <td><p>Set-Variable</p></td>
@@ -228,7 +228,7 @@ $blog.rss.channel.item | select title -first 8
 <td><p>iwr, <s>curl, wget</s></p></td>
 <td><p><a href="../Page/CURL.md" title="wikilink">curl</a></p></td>
 <td><p><a href="../Page/Wget.md" title="wikilink">wget</a>, curl</p></td>
-<td><p>從因特網上的網頁獲取內容</p></td>
+<td><p>获取因特网上的网页內容</p></td>
 </tr>
 </tbody>
 </table>

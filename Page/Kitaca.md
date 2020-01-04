@@ -1,3 +1,6 @@
+> 本文内容由[Kitaca](https://zh.wikipedia.org/wiki/Kitaca)转换而来。
+
+
 [Kitaca_readers.jpg](https://zh.wikipedia.org/wiki/File:Kitaca_readers.jpg "fig:Kitaca_readers.jpg")攝）\]\] **Kitaca**（）是一種可再充值、非接觸式的[智能卡形式的乘車票證](https://zh.wikipedia.org/wiki/智能卡 "wikilink")，適用於[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）。此智能卡於2008年10月25日正式發卡。2009年1月底為止已發行約10萬張。採用[索尼公司的](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")[FeliCa](../Page/FeliCa.md "wikilink")技術。
 
 「Kitaca」也是JR北海道的註冊商標。

@@ -1,3 +1,6 @@
+> 本文内容由[謊言 \(SID\)](https://zh.wikipedia.org/wiki/謊言_\(SID\))转换而来。
+
+
 **谎言**（）是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")樂團[SID正式出道後的第三张单曲](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")。於2009年4月29日由唱片公司[Ki/oon Records販售](https://zh.wikipedia.org/wiki/Ki/oon_Records "wikilink")。
 
 ## 概要

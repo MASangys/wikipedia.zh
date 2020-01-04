@@ -1,3 +1,6 @@
+> 本文内容由[斯泰爾SSG 69狙擊步槍](https://zh.wikipedia.org/wiki/斯泰爾SSG_69狙擊步槍)转换而来。
+
+
 **斯泰爾SSG 69**（，意為：69式狙擊步槍）是一款由[奥地利槍械製造商](https://zh.wikipedia.org/wiki/奥地利 "wikilink")所研製及生產的[旋转后拉式枪机](https://zh.wikipedia.org/wiki/手動槍機#旋轉後拉式槍機 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，並在不久以後作為奧地利軍隊的制式狙擊步槍\[1\]，也被不少執法機關所採用，可發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約和](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")兩種[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[WWW的发音](https://zh.wikipedia.org/wiki/WWW的发音)转换而来。
+
+
 **WWW**（或www）是万维网（World Wide Web）之缩写。
 
 在英语中，WWW可能是音节最长的三字母缩写词，需要6至9个音节，而12个字母的“World Wide Web”有三个明显音节。英国作家[道格拉斯·亚当斯](../Page/道格拉斯·亚当斯.md "wikilink")曾开玩笑说：

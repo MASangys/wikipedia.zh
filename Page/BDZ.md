@@ -1,3 +1,6 @@
+> 本文内容由[BDZ](https://zh.wikipedia.org/wiki/BDZ)转换而来。
+
+
 **BDZ**為[SONY在日本國內販賣的](https://zh.wikipedia.org/wiki/SONY "wikilink")[Blu-ray Disc錄放影機的共通型號與與品牌名稱](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")。「BD」指對應Blu-ray、「Z」則表示有搭載數位調頻器。廣告代言人為音樂家[矢澤永吉](https://zh.wikipedia.org/wiki/矢澤永吉 "wikilink")。
 
 ## 概要

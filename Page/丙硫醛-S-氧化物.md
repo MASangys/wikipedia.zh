@@ -1,3 +1,6 @@
+> 本文内容由[丙硫醛-S-氧化物](https://zh.wikipedia.org/wiki/丙硫醛-S-氧化物)转换而来。
+
+
 **顺式-丙硫醛-*S*-氧化物**（Syn-propanethial-*S*-oxide）是具有[洋葱](https://zh.wikipedia.org/wiki/洋葱 "wikilink")[催泪性质的主要物质](https://zh.wikipedia.org/wiki/催泪 "wikilink")。它是一种易挥发的 气体，化学式 C<sub>3</sub>H<sub>6</sub>OS。
 
 ## 产生过程

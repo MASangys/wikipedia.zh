@@ -1,3 +1,6 @@
+> 本文内容由[Bounce \(网络\)](https://zh.wikipedia.org/wiki/Bounce_\(网络\))转换而来。
+
+
 **BNC**（**bouncer**的缩写）是一种用来在[电脑网络中进行中继通讯和连接的软件](https://zh.wikipedia.org/wiki/电脑网络 "wikilink")，很像是[代理](../Page/代理服务器.md "wikilink")。BNC可以让用户隐藏其连接的原始资料，为从特定的位置路由其通讯的用户提供了[隐私性](https://zh.wikipedia.org/wiki/隐私性 "wikilink")，BNC也可以被用来隐藏用户所要连接的真正目标。
 
 ## IRC

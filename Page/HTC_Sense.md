@@ -1,3 +1,6 @@
+> 本文内容由[HTC Sense](https://zh.wikipedia.org/wiki/HTC_Sense)转换而来。
+
+
 **HTC Sense** 是[智慧手机廠商](https://zh.wikipedia.org/wiki/智慧手机 "wikilink")[HTC所開發的一款针对](https://zh.wikipedia.org/wiki/HTC "wikilink")[Android](../Page/Android.md "wikilink")及[Windows Mobile平台上的使用者界面](../Page/Windows_Mobile.md "wikilink")。2009年6月24日首次搭载于Android手機[HTC Hero中](../Page/HTC_Hero.md "wikilink")；2009年8月6日搭載于[Windows Mobile手機](../Page/Windows_Mobile.md "wikilink")[HTC HD2](../Page/HTC_HD2.md "wikilink")；后被内置在大多数HTC手机中。由于微軟公司不允許手機公司更改[Windows Phone平台所預設的使用者介面](../Page/Windows_Phone.md "wikilink")，所以HTC公司不再开发Windows Phone平台的HTC Sense。
 
 HTC Sense前身为 [TouchFLO](../Page/TouchFLO.md "wikilink") 和 [TouchFLO 3D](https://zh.wikipedia.org/wiki/TouchFLO_3D "wikilink")\[1\]。與TouchFLO 3D的特色分頁畫面不同，Android版的HTC Sense加入了原生介面沒有的大量桌面小工具和應用程式，同時設計全新的桌面(Launcher)、應用程式清單(App drawer)和螢幕解鎖畫面(lock screen)。

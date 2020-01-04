@@ -1,3 +1,6 @@
+> 本文内容由[Baccano!角色列表](https://zh.wikipedia.org/wiki/Baccano!角色列表)转换而来。
+
+
 **Baccano\!角色列表**列舉[日本](../Page/日本.md "wikilink")輕小說《[Baccano\! 大騷動\!](https://zh.wikipedia.org/wiki/Baccano!_大騷動! "wikilink")》的主要人物。
 
 ## 1930年代

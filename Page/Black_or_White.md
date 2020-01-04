@@ -1,3 +1,6 @@
+> 本文内容由[Black or White](https://zh.wikipedia.org/wiki/Black_or_White)转换而来。
+
+
 **Black or White**（译作**黑或白**或**是黑还是白**或**黑與白**），是已故流行曲之王[麥可·傑克森的專輯](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")《[危險之旅](../Page/Dangerous_\(迈克尔·杰克逊专辑\).md "wikilink")》（*Dangerous*）中的一首歌曲，發表於1991年11月11日。
 
 ## 介紹

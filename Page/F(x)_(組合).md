@@ -1,3 +1,8 @@
+> 本文内容由[F\(x\) \(組合\)](https://zh.wikipedia.org/wiki/F\(x\)_\(組合\))转换而来。
+
+
+[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink"){{•}}[Luna](../Page/朴善英.md "wikilink"){{•}}[Krystal](../Page/鄭秀晶.md "wikilink") | 過往成員 =  }}
+
 **f(x)**（，）是[SM娛樂](../Page/SM娛樂.md "wikilink")於2009年推出的[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，初時由五名不同國籍的成員組成，成員包括有中國籍[Victoria](../Page/宋茜.md "wikilink")、華裔美籍[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、韓國籍[Luna](../Page/朴善英.md "wikilink")、[Sulli及美韓雙籍](../Page/崔真理.md "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")，由Victoria擔任隊長。2009年9月5日以首張數位單曲《[LA chA TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》正式出道。
 
 2015年8月7日，成員[Sulli退出f](../Page/崔真理.md "wikilink")(x)組合，組合以四人形式繼續活動。2019年9月，[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna相繼約滿離開公司](../Page/朴善英.md "wikilink")，[Victoria與SM娛樂討論新方案](../Page/宋茜.md "wikilink")、而現存的Krystal一人將以獨立演員身分活動，但所有成員與SM均未宣布解散組合，亦即在暫停大部分商業活動的情況下，f(x)仍將繼續存在。
@@ -47,8 +52,7 @@
 <td><p>已退團成員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/崔真理.md" title="wikilink">Sulli</a><br />
-<small>（已故）</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

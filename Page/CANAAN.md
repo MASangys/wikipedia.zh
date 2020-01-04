@@ -1,3 +1,6 @@
+> 本文内容由[CANAAN](https://zh.wikipedia.org/wiki/CANAAN)转换而来。
+
+
 《**CANAAN**》（迦南）是根據2008年日本[CHUNSOFT](../Page/CHUNSOFT.md "wikilink")公司所發售的文字解謎冒險遊戲《[428 〜被封鎖的涉谷〜](https://zh.wikipedia.org/wiki/428_〜被封鎖的涉谷〜 "wikilink")》改編的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，由[P.A. Works公司製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。2009年7月至9月於日本播放。最初發表的標題為《**428 the animation**》。香港由2010年9月24日起，於[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[J2台播放](https://zh.wikipedia.org/wiki/J2台 "wikilink")。
 
 ## 概要

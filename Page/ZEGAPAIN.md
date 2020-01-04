@@ -1,3 +1,6 @@
+> 本文内容由[ZEGAPAIN](https://zh.wikipedia.org/wiki/ZEGAPAIN)转换而来。
+
+
 《**ZEGAPAIN**》（），[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作的[機器人動畫](../Page/機器人動畫.md "wikilink")，於2006年4月至9月間在[東京電視台](../Page/東京電視台.md "wikilink")播放，並於同年推出兩款[Xbox 360平台的遊戲](../Page/Xbox_360.md "wikilink")。由于民间[字幕组工作人员理解偏差](https://zh.wikipedia.org/wiki/字幕组 "wikilink")，而导致该作标题被误翻成《机器人》。
 
 ## 故事簡介

@@ -48,7 +48,7 @@
  (三次代理)</p></td>
 <td style="text-align: left;"><p>首次代理：IAHGames<br />
 二次代理：Megaxus<br />
-三次代理：NEXON</p></td>
+三次代理：<a href="../Page/Nexon.md" title="wikilink">Nexon Europe</a></p></td>
 <td style="text-align: left;"><p>營運日期：2010年5月<br />
 結束營運：2015年6月30日</p></td>
 </tr>
@@ -57,7 +57,7 @@
 <td style="text-align: left;"><p><br />
  (二次代理)</p></td>
 <td style="text-align: left;"><p>首次代理：Megaxus<br />
-二次代理：NEXON</p></td>
+二次代理：<a href="../Page/Nexon.md" title="wikilink">Nexon Europe</a></p></td>
 <td style="text-align: left;"><p>營運日期：2011年7月22日<br />
 結束營運：2019年8月1日</p></td>
 </tr>
@@ -66,7 +66,7 @@
 <td style="text-align: left;"><p><br />
  (二次代理)</p></td>
 <td style="text-align: left;"><p>首次代理: PlayFPS<br />
-二次代理：NEXON</p></td>
+二次代理：<a href="../Page/Nexon.md" title="wikilink">Nexon Europe</a></p></td>
 <td style="text-align: left;"><p>營運日期：2012年8月<br />
 結束營運：2013年12月19日</p></td>
 </tr>
@@ -82,7 +82,7 @@
 <td style="text-align: left;"><p><br />
  (二次代理)</p></td>
 <td style="text-align: left;"><p>首次代理: GoPlay<br />
-二次代理：NEXON</p></td>
+二次代理：<a href="../Page/Nexon.md" title="wikilink">Nexon Europe</a></p></td>
 <td style="text-align: left;"><p>營運日期：2015年3月26日<br />
 結束營運：2016年8月15日</p></td>
 </tr>
@@ -95,60 +95,62 @@
 </tbody>
 </table>
 
-本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港](../Page/香港.md "wikilink")地區由[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[世紀天成代理](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")\[3\]。 另外，本游戏在歐美地區以《Counter-Strike Nexon:Studio》的名称加入[Steam](../Page/Steam.md "wikilink"), 並由[Nexon Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]。
+本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港](../Page/香港.md "wikilink")地區由[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[世紀天成代理](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")\[3\]。 另外，本游戏在歐美地區以《Counter-Strike Nexon: Studio》的名称加入[Steam](../Page/Steam.md "wikilink"), 並由[Nexon Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]。
 
 ## 遊戲內容
 
 ### 遊戲模式
 
-***常規遊戲模式(＊代表已關閉的模式)***
+***常規遊戲模式***
 
-| 遊戲模式名稱                              | 動態 | 備註            |
-| :---------------------------------- | :- | :------------ |
-| 团队决战模式                              |    |               |
-| \-{zh-cn:竞技模式 ; zh-tw:經典模式}-        |    |               |
-| 枪王之王                                |    |               |
-| 團隊死鬥                                |    |               |
-| 團隊死鬥(虛擬對手)                          |    |               |
-| 悠遊模式                                |    |               |
-| 軍階排位戰                               |    |               |
-| 国际大赛模式                              |    |               |
-| \-{zh-tw:災厄之章 ; zh-cn:大災變}-         |    |               |
-| \-{zh-tw:殭屍經典 ; zh-cn:生化模式}-        |    |               |
-| \-{zh-tw:殭屍異變 ; zh-cn:生化2(異變)}-     |    |               |
-| \-{zh-tw:殭屍英雄 ; zh-cn:生化3(英雄)}-     |    |               |
-| \-{zh-tw:無界煉獄 ; zh-cn:生化4(暗夜)}-     |    |               |
-| \-{zh-tw:\[殭屍\]模式 ;zh-cn:生化危機(人機)}- |    |               |
-| 殭屍大逃殺                               |    |               |
-| \-{zh-tw:殭屍Z ; zh-cn:生化z}-          |    |               |
-| \-{zh-cn:晝夜求生2 ; zh-tw:新夜襲生存戰}-     |    |               |
-| \-{zh-tw:厄鬥擂台 ; zh-cn:機甲風暴}-        |    |               |
-| 明星鬥陣                                |    |               |
-| 機甲爭霸                                | ＊  |               |
-| \-{zh-cn:道具戰 ; zh-tw:趣味奪寶戰}-        |    |               |
-| \-{zh-tw:挑戰模式 ; zh-cn:極限模式}-        |    |               |
-| 足球模式                                |    |               |
-| 怪獸亂鬥                                |    |               |
-| \-{zh-tw:戰神之章 ; zh-cn:戰慄之章}-        |    |               |
-| \-{zh-tw:偵查事件簿 ; zh-cn:絕命檔案}-       |    |               |
-| 秘密基地                                |    |               |
-| \-{zh-tw:STUDIO創世者 ; zh-cn:締造者模式}-  |    |               |
-| 殭屍直直撞                               |    |               |
-| 躲貓貓                                 |    | STUDIO創世者限定模式 |
-
-  - 軍階排位戰遊戲模式玩法：玩家可利用自動匹配選擇適當的遊戲模式來進行與其他玩家對戰並且累計積分，此時系統也會在每期的軍階戰結束時派獎給予玩家遊戲獎勵
-
-<!-- end list -->
-
-  - 遊戲模式玩法：配合不同節日，遊戲商會推出不同的限時模式
+| 遊戲模式名稱                              | 關閉與否 | 備註            |
+| :---------------------------------- | :--- | :------------ |
+| \-{zh-cn:竞技模式 ; zh-tw:一般模式}-        |      | 含虛擬對手模式       |
+| 團隊死鬥                                |      | 含虛擬對手模式       |
+| 死鬥                                  |      | 含虛擬對手模式       |
+| 悠遊模式                                |      |               |
+| 枪王之王                                |      |               |
+| \-{zh-tw:災厄之章 ; zh-cn:大災變}-         |      |               |
+| \-{zh-tw:戰神之章 ; zh-cn:戰慄之章}-        |      |               |
+| \-{zh-tw:殭屍經典 ; zh-cn:生化模式}-        |      | 含虛擬對手模式       |
+| \-{zh-tw:殭屍異變 ; zh-cn:生化2(異變)}-     |      | 含虛擬對手模式       |
+| \-{zh-tw:殭屍英雄 ; zh-cn:生化3(英雄)}-     |      | 含虛擬對手模式       |
+| \-{zh-tw:無界煉獄 ; zh-cn:生化4(暗夜)}-     |      |               |
+| \-{zh-tw:\[殭屍\]模式 ;zh-cn:生化危機(人機)}- |      |               |
+| 殭屍大逃殺                               |      |               |
+| \-{zh-tw:殭屍Z ; zh-cn:生化z}-          |      | 含虛擬對手模式       |
+| \-{zh-cn:晝夜求生2 ; zh-tw:新夜襲生存戰}-     |      |               |
+| \-{zh-tw:厄鬥擂台 ; zh-cn:機甲風暴}-        |      |               |
+| 明星鬥陣                                |      |               |
+| \-{zh-cn:道具戰 ; zh-tw:趣味奪寶戰}-        |      |               |
+| \-{zh-tw:挑戰模式 ; zh-cn:極限模式}-        |      |               |
+| 足球模式                                |      |               |
+| 怪獸亂鬥                                |      |               |
+| \-{zh-tw:偵查事件簿 ; zh-cn:絕命檔案}-       |      |               |
+| 鬼迷藏                                 |      |               |
+| 秘密基地                                |      |               |
+| \-{zh-tw:STUDIO創世者 ; zh-cn:締造者模式}-  |      |               |
+| 殭屍直直撞                               |      |               |
+| \-{zh-tw:躲貓貓 ; zh-cn:捉迷藏}-          |      | STUDIO創世者限定模式 |
+| \-{zh-tw:夥伴模式 ; zh-cn:雇佣兵模式}-       |      |               |
+| \-{zh-tw:絕命逃亡 ; zh-cn:生化猎场}-        |      |               |
 
 ***限時遊戲模式***
 
-| 遊戲模式名稱                        | 動態           | 備註 |
-| :---------------------------- | :----------- | :- |
-| 魔隱師模式                         | 由常規模式變更為限時模式 |    |
-| 幽靈模式                          |              |    |
-| \-{zh-tw:轟炸擂台 ; zh-cn:RPG模式}- |              |    |
+| 遊戲模式名稱 | 關閉與否 | 備註           |
+| :----- | :--- | :----------- |
+| 魔隱師模式  |      | 由常駐模式變更為限時模式 |
+
+***已關閉模式（＊代表已關閉）***
+
+| 遊戲模式名稱                        | 關閉與否 | 備註 |
+| :---------------------------- | :--- | :- |
+| 大亂鬥                           | ＊    |    |
+| 機甲爭霸                          | ＊    |    |
+| 即刻救援                          | ＊    |    |
+| \-{zh-tw:轟炸擂台 ; zh-cn:RPG模式}- | ＊    |    |
+| 飢餓遊戲                          | ＊    |    |
+| 生存遊戲                          | ＊    |    |
 
 ### 遊戲特色系統
 
@@ -162,70 +164,59 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><p>自動匹配</p></td>
+<td style="text-align: left;"><p>快速開始</p></td>
 <td style="text-align: left;"><p>可讓玩家使用快速開始遊戲的功能</p></td>
-<td style="text-align: left;"><p>已取消</p></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p>遊戲直播</p></td>
+<td style="text-align: left;"><p>玩家可以使用直播功能，讓玩家從影片網站查看當前玩家的遊玩狀況</p></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p>直播</p></td>
-<td style="text-align: left;"><p>玩家可以使用直播功能，讓玩家從視頻網站查看當前玩家的遊玩狀況</p></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p>故事劇情</p></td>
+<td style="text-align: left;"><p>擁有獨一無二的遊戲劇情故事</p></td>
+<td style="text-align: left;"><p>災厄之章、戰神之章、偵查事件簿等模式</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p>劇情</p></td>
-<td style="text-align: left;"><p>可讓玩家了解遊戲的操作及玩法(新手教學等)</p></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p>解碼器</p></td>
+<td style="text-align: left;"><p>可讓玩家於商城購買解碼器，並且可以從中隨機抽中各種不同的道具</p></td>
+<td style="text-align: left;"><p>前身為需要C-BOX，但已經取消</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p>密碼箱(C-BOX)</p></td>
-<td style="text-align: left;"><p>可讓玩家於商城購買芯片(解碼器)並且可以從密碼箱隨機扭出各種不同的道具</p></td>
-<td style="text-align: left;"><p>現在沒有C-BOX系統，只需解碼器即可</p></td>
-</tr>
-<tr class="even">
 <td style="text-align: left;"><p>紅利商城</p></td>
 <td style="text-align: left;"><p>可讓玩家從紅利商城購買更多的遊戲道具</p></td>
 <td style="text-align: left;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: left;"><p>武器製作</p></td>
+<td style="text-align: left;"><p>1.強化：可以利用武器或者道具來替武器注入強化經驗值，來進行武器強化</p>
+<p>2.分解：分解武器系統可讓玩家把多餘的武器進行分解，玩家可於分解武器後獲得合成武器的道具</p>
+<p>3.配件：部分武器可以以配件裝配系統裝上部件，來加強武器性能</p>
+<p>4.配件合成：玩家可以把多餘的配件道具進行組合，同時也可以取得不同屬性的配件道具</p>
+<p>5.武器塗料：玩家可以到商城系統購買武器塗料，使用武器塗料裝配系統來幫武器加上皮膚</p></td>
+<td style="text-align: left;"><p>原有的武器合成系統已經取消</p></td>
+</tr>
 <tr class="odd">
-<td style="text-align: left;"><p>武器製造</p></td>
-<td style="text-align: left;"><p>合成：可讓玩家使用S、A、B、C、D、E類型設計圖進行合成，合成後可獲得不同的槍枝，但是必須透過解鎖武器系統解鎖對應的武器才可使用合成的武器</p>
-<p>分解：分解武器系統可讓玩家把多餘的武器進行分解，玩家可於分解武器後獲得合成武器的道具</p>
-<p>噴漆合成：玩家可以到商城系統購買噴漆，使用噴漆合成系統進行添加武器皮膚</p>
-<p>配件：待解說</p>
-<p>配件合成：玩家可以把多餘的配件道具進行組合，同時也可以取得不同屬性的配件道具</p></td>
-<td style="text-align: left;"><p>合成系統已取消</p></td>
+<td style="text-align: left;"><p>特權體驗</p></td>
+<td style="text-align: left;"><p>可以讓玩家享受更多不同的遊戲道具優惠(如：試用遊戲道具)</p></td>
+<td style="text-align: left;"><p>台服：VIP Pass 或 VVIP Pass</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p>特權</p></td>
-<td style="text-align: left;"><p>可以讓玩家享受更多不同的遊戲特色系統優惠 (如：試用遊戲道具)</p></td>
-<td style="text-align: left;"><p>台服：VIP Pass或VVIP Pass</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>每日簽到</p></td>
+<td style="text-align: left;"><p>戰場補給</p></td>
 <td style="text-align: left;"><p>玩家在遊戲後可以點擊簽到進行領取系統派發的遊戲獎勵道具</p></td>
 <td style="text-align: left;"><p>需要遊玩10分鐘</p></td>
 </tr>
-<tr class="even">
-<td style="text-align: left;"><p>黑市商城</p></td>
-<td style="text-align: left;"><p>玩家可使用持有的紅利來進行黑市商城系統購買遊戲道具</p></td>
-<td style="text-align: left;"><p>1.此為限時性開啟的系統</p>
-<p>2.屬於商城系統之一</p></td>
-</tr>
 <tr class="odd">
-<td style="text-align: left;"><p>SeasonPass</p></td>
+<td style="text-align: left;"><p>黑市拍賣</p></td>
+<td style="text-align: left;"><p>玩家可使用持有的紅利來進行黑市商城系統購買遊戲道具</p></td>
+<td style="text-align: left;"><p>為限時開放的系統</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Season Pass</p></td>
 <td style="text-align: left;"><p>玩家可以在遊玩時獲得懸賞幣進行提升懸賞系統的等級，達到一定的等級即可獲得該系統的等級獎勵</p></td>
 <td style="text-align: left;"><p>1.每30分鐘將會派發懸賞幣，一天最多只能累積120分鐘</p>
-<p>2.玩家可以購買精英通行證購買等級</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<p>2.玩家可以購買通行證購買等級</p></td>
 </tr>
 </tbody>
 </table>

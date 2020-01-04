@@ -1,3 +1,6 @@
+> 本文内容由[戰地風雲Online](https://zh.wikipedia.org/wiki/戰地風雲Online)转换而来。
+
+
 《**戰地風雲Online**》（，，簡稱*BF:OL*），是由[美商藝電與](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")[韓國遊戲廠商](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NEOWIZ合作的開發一款](../Page/Neowiz_Games.md "wikilink")[第一人稱射擊的](https://zh.wikipedia.org/wiki/第一人稱射擊 "wikilink")[大型多人線上遊戲](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")，而遊玩方法完全與《[戰地風雲2](https://zh.wikipedia.org/wiki/戰地風雲2 "wikilink")》一樣，在遊戲學界的專業角度來說只是被改成[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")，遊戲曾經在2008年4月14日在[韓國展開首次封閉測試](https://zh.wikipedia.org/wiki/韓國 "wikilink")。而内容方面將加入的眾多內容，未來將陸續公開。然而[韓國版已經確定將於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2013年5月21日結束營運，[中國](../Page/中國.md "wikilink")版於2013年4月22日下午兩點完成開放測試並關閉伺服器後，沒有任何關於後續計劃的說明。
 
 ## 對戰陣營介紹

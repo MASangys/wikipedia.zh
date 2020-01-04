@@ -1,3 +1,6 @@
+> 本文内容由[Bh \(字母\)](https://zh.wikipedia.org/wiki/Bh_\(字母\))转换而来。
+
+
 **Bh**（[小寫為bh](https://zh.wikipedia.org/wiki/小寫字母 "wikilink")）是[印度-雅利安语支](../Page/印度-雅利安语支.md "wikilink")和[臺語等之語言的](https://zh.wikipedia.org/wiki/臺語通用拼音 "wikilink")[二合字母](../Page/二合字母.md "wikilink")。
 
   - ‹**bh**›用在[印度-雅利安语支](../Page/印度-雅利安语支.md "wikilink")的[語音](../Page/語音.md "wikilink")字母[轉寫上](https://zh.wikipedia.org/wiki/轉寫 "wikilink")，表示[呼氣音](https://zh.wikipedia.org/wiki/呼氣音 "wikilink")（Breathy voice）之[濁雙唇塞音](https://zh.wikipedia.org/wiki/濁雙唇塞音 "wikilink")（）\[1\]。

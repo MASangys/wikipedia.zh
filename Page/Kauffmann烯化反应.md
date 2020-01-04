@@ -1,3 +1,6 @@
+> 本文内容由[Kauffmann烯化反应](https://zh.wikipedia.org/wiki/Kauffmann烯化反应)转换而来。
+
+
 **Kauffmann烯化反应**（Kauffmann olefination），由德国化学家 Thomas Kauffmann 首先报道。
 
 将[醛](../Page/醛.md "wikilink")、[酮](../Page/酮.md "wikilink")转变为[亚甲基](https://zh.wikipedia.org/wiki/亚甲基 "wikilink")[烯烃](../Page/烯烃.md "wikilink")的方法。

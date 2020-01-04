@@ -1,3 +1,6 @@
+> 本文内容由[Google搜尋趨勢](https://zh.wikipedia.org/wiki/Google搜尋趨勢)转换而来。
+
+
 **Google搜尋趨勢**（），舊稱**Google搜索解析**（），是[Google](../Page/Google.md "wikilink")开发的一款服务\[1\]，用于分析用户在Google中搜索过的条目。分析的结果会在世界地图上显示出对于条目的地区关注度差异。
 
 ## 特点

@@ -1,3 +1,6 @@
+> 本文内容由[KDE Software Compilation 4](https://zh.wikipedia.org/wiki/KDE_Software_Compilation_4)转换而来。
+
+
 
 {{ URL | <http://www.kdecn.org/> | KDE简体中文翻译团队 }}
 {{ URL | <http://kde.linux.org.tw/> | KDE正体中文翻译团队 }} }}

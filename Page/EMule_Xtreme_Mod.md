@@ -1,3 +1,6 @@
+> 本文内容由[EMule Xtreme Mod](https://zh.wikipedia.org/wiki/EMule_Xtreme_Mod)转换而来。
+
+
 **eMule Xtreme Mod**，简称**Xtreme Mod**、**Xtreme**或**XT**，是基于官方[eMule开发的一个](https://zh.wikipedia.org/wiki/eMule "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU [GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 Xtreme是用户最多的eMule Mods之一。截止2009年9月，在[SourceForge](../Page/SourceForge.md "wikilink")上，Xtreme是下载数最多的[eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")\[1\]，它也是较权威的eMule Mods发布站点emule-mods.de上评分最高的eMule Mod\[2\]。

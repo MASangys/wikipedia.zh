@@ -1,3 +1,6 @@
+> 本文内容由[Aksent](https://zh.wikipedia.org/wiki/Aksent)转换而来。
+
+
 **株式會社Aksent**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[中央區](../Page/中央區_\(東京都\).md "wikilink")[入船](../Page/入船_\(東京都中央區\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 概要

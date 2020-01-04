@@ -1,3 +1,6 @@
+> 本文内容由[Gee \(專輯\)](https://zh.wikipedia.org/wiki/Gee_\(專輯\))转换而来。
+
+
 《**Gee**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代第一張迷你專輯](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。\[1\] 迷你專輯於2009年1月7日由[SM Entertainment發行](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。同名的主打歌〈Gee〉在[KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得連續9週一位，成為有史以來最高紀錄。[韓國銷售量逾十萬張](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[2\]
 
 歌曲〈Gee〉亦推出[日文版本](https://zh.wikipedia.org/wiki/日文 "wikilink")。2010年，少女時代於日本出道，《[Gee](../Page/Gee_\(單曲\).md "wikilink")》為第二張日本單曲。

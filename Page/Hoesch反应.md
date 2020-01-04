@@ -1,3 +1,6 @@
+> 本文内容由[Hoesch反应](https://zh.wikipedia.org/wiki/Hoesch反应)转换而来。
+
+
 **Hoesch反应**（Hoesch reaction），又称**Houben–Hoesch反应**（Houben–Hoesch reaction），以分别在1915年和1926年发现此反应的两位化学家 Kurt Hoesch\[1\] 和 J. Houben\[2\] 的名字命名。
 
 用[腈](../Page/腈.md "wikilink")作[亲电试剂对](https://zh.wikipedia.org/wiki/亲电试剂 "wikilink")[芳环的](https://zh.wikipedia.org/wiki/芳环 "wikilink")[亲电芳香取代](../Page/亲电芳香取代.md "wikilink")，首先产生[亚胺](../Page/亚胺.md "wikilink")，水解后生成[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[酮](../Page/酮.md "wikilink")。整体结果是一种[酰化反应](https://zh.wikipedia.org/wiki/酰化 "wikilink")，需要酸（如[氯化锌](../Page/氯化锌.md "wikilink")和[盐酸](../Page/盐酸.md "wikilink")）催化。

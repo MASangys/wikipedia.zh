@@ -1,3 +1,6 @@
+> 本文内容由[DREAM格鬥賽](https://zh.wikipedia.org/wiki/DREAM格鬥賽)转换而来。
+
+
 DREAM是一個在[日本](../Page/日本.md "wikilink")運作的職業[綜合格鬥格鬥聯盟](https://zh.wikipedia.org/wiki/綜合格鬥 "wikilink")。DREAM的五個[英文字母](../Page/英文字母.md "wikilink")皆為大寫。
 
 DREAM是由主辦[K-1](../Page/K-1.md "wikilink")的FEG ( Fighting Entertainment Group ) 公司所經營。原本是和DSE (Dream Stage Entertainment)所一起經營，但是後來則全盤由FEG接手。

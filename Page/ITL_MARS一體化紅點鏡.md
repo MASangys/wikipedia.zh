@@ -1,3 +1,6 @@
+> 本文内容由[ITL MARS一體化紅點鏡](https://zh.wikipedia.org/wiki/ITL_MARS一體化紅點鏡)转换而来。
+
+
 **ITL MARS**（，意為：国际科技激光公司多用途观瞄反射式瞄準具）是一種由總部設在[以色列](../Page/以色列.md "wikilink")的国际科技激光公司（International Technologies Lasers）研製及生產的槍械瞄準裝置，它結合了兩種瞄準功能，[反射式](../Page/紅點鏡.md "wikilink")[瞄准镜](../Page/瞄准镜.md "wikilink")及[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，以及後備[機械瞄具](../Page/機械瞄具.md "wikilink")（初期型）。
 
 ## 歷史

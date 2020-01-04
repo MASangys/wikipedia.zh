@@ -1,3 +1,6 @@
+> 本文内容由[W \(消歧义\)](https://zh.wikipedia.org/wiki/W_\(消歧义\))转换而来。
+
+
 **[W](../Page/W.md "wikilink")**是拉丁字母表上第23个字母。
 
 **W**可以指代：

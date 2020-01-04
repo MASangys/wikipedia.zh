@@ -1,3 +1,6 @@
+> 本文内容由[梅赛德斯-奔驰SLR迈凯伦](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰SLR迈凯伦)转换而来。
+
+
 **梅赛德斯-奔驰SLR迈凯伦**（Mercedes-Benz SLR McLaren）是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[梅赛德斯-奔驰汽車生產公司與](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[一級方程式賽車](https://zh.wikipedia.org/wiki/一級方程式 "wikilink")、超级跑车制造商[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[迈凯伦汽车](../Page/迈凯伦汽车.md "wikilink")合作開發的高性能限量生產[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。
 
 ## 概要

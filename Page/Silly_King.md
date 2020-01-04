@@ -1,3 +1,6 @@
+> 本文内容由[Silly King](https://zh.wikipedia.org/wiki/Silly_King)转换而来。
+
+
 《**Silly King**》是[I Love You Boyz的第二張專輯](../Page/I_Love_You_Boyz.md "wikilink")，於2005年7月13日發行。
 
 ## 專輯簡介

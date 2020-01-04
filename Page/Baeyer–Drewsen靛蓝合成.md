@@ -1,3 +1,6 @@
+> 本文内容由[Baeyer–Drewsen靛蓝合成](https://zh.wikipedia.org/wiki/Baeyer–Drewsen靛蓝合成)转换而来。
+
+
 **von Baeyer–Drewsen靛蓝合成**（冯·拜耳-德维森靛蓝合成），也被误称为“Baeyer–Drews<u>o</u>n靛蓝合成”
 
 [邻硝基苯甲醛](../Page/邻硝基苯甲醛.md "wikilink")与[丙酮](../Page/丙酮.md "wikilink")用稀[氢氧化钠](../Page/氢氧化钠.md "wikilink")水溶液处理得到[羟醛反应](../Page/羟醛反应.md "wikilink")产物，该产物在碱溶液中加热则转变为[靛蓝](../Page/靛蓝.md "wikilink")。\[1\]

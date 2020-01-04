@@ -29,7 +29,7 @@ E-Max是Entertainment Maximized的縮寫，「E」字代表娛樂，亦代表活
 
 2019年7月，大快活與九龍電競館合作，在[九龍灣](../Page/九龍灣.md "wikilink")國際展貿中心[E-MaxB](https://zh.wikipedia.org/wiki/E-Max "wikilink")1層開設佔地13000呎的「大快活電競館」，設有六大區域，提供超過100個用餐座位，包括主舞台、用餐區域、酒吧、直播區、電競區及Xengagement Room。\[4\]
 
-結業20年的[歡樂天地](../Page/歡樂天地.md "wikilink")將於B1復業，原定2018年年末開業，現預計於2019年第一季開幕。
+結業20年的[歡樂天地](../Page/歡樂天地.md "wikilink")將於B1復業，現於2019年12月25日開幕。
 
 ### 地下
 

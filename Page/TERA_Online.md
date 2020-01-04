@@ -1,3 +1,6 @@
+> 本文内容由[TERA Online](https://zh.wikipedia.org/wiki/TERA_Online)转换而来。
+
+
 《**TERA**》（又译「**神谕之战**」）是一款由韓國[蓝洞工作室開發的](https://zh.wikipedia.org/wiki/蓝洞工作室 "wikilink")[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人在線角色扮演遊戲 "wikilink")（MMORPG），由[NHN Games發行](https://zh.wikipedia.org/wiki/NHN_Games "wikilink")，最初於2009年8月22日在韓國進行[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")。遊戲名稱源自於[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")。
 
 ## 玩法

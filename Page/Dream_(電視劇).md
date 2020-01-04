@@ -1,3 +1,6 @@
+> 本文内容由[Dream \(電視劇\)](https://zh.wikipedia.org/wiki/Dream_\(電視劇\))转换而来。
+
+
 《**Dream**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2009年7月27日起播放的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")。
 
 ## 演員陣容

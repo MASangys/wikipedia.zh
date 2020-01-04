@@ -1,3 +1,6 @@
+> 本文内容由[Overman重排反应](https://zh.wikipedia.org/wiki/Overman重排反应)转换而来。
+
+
 **Overman重排反应**（）是[三氯乙酰](https://zh.wikipedia.org/wiki/三氯乙酰 "wikilink")[亚胺](../Page/亚胺.md "wikilink")[烯丙](https://zh.wikipedia.org/wiki/烯丙 "wikilink")[酯](../Page/酯.md "wikilink")在热或金属（如Hg(II)、Pd(II)）[催化](../Page/催化.md "wikilink")下发生[重排](https://zh.wikipedia.org/wiki/重排 "wikilink")，得到三氯乙酰氨基烯烃的一個反應。\[1\]\[2\]\[3\]\[4\]
 
 

@@ -1,3 +1,6 @@
+> 本文内容由[WNBA总决赛](https://zh.wikipedia.org/wiki/WNBA总决赛)转换而来。
+
+
 **WNBA總決賽**，是爭奪**[WNBA](../Page/WNBA.md "wikilink")**最高榮譽**[WNBA總冠軍](https://zh.wikipedia.org/wiki/WNBA總冠軍 "wikilink")**的賽事，1997年前稱**WNBA冠軍賽**，也是**[WNBA季后賽](https://zh.wikipedia.org/wiki/WNBA季后賽 "wikilink")**的最后一輪比賽，每年10月初舉行，由東部冠軍對陣西部冠軍。比賽采用五場三勝制2-2-1的形式，[常規賽成績較優者將獲得多一個主場的優勢](https://zh.wikipedia.org/wiki/WNBA常规赛 "wikilink")。
 
 ## 歷屆冠軍

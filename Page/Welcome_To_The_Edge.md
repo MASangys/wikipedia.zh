@@ -1,3 +1,6 @@
+> 本文内容由[Welcome To The Edge](https://zh.wikipedia.org/wiki/Welcome_To_The_Edge)转换而来。
+
+
 **Welcome To The Edge**是一首由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[艾美音樂獎提名的](https://zh.wikipedia.org/wiki/艾美音樂獎 "wikilink")，美國[作詞家和](https://zh.wikipedia.org/wiki/作詞家 "wikilink")[唱片製作人](https://zh.wikipedia.org/wiki/唱片製作人 "wikilink")[洛珊·西門](../Page/洛珊·西門.md "wikilink")(Roxanne Seeman)，Dominic Messinger，和創作型[歌手](../Page/歌手.md "wikilink")Billie Hughes所製作的歌曲。“Welcome To The Edge”由Billie Hughes所錄製，後來日本音樂榜第一名。同時間“Welcome To The Edge”在NBC的電視影集“Santa Barbara”播放，並且獲得Emmy音樂獎提名入圍最佳原歌曲獎。
 
 ## 歷史

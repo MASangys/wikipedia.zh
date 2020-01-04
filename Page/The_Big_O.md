@@ -1,3 +1,6 @@
+> 本文内容由[The Big O](https://zh.wikipedia.org/wiki/The_Big_O)转换而来。
+
+
 《**THE Big O**》（译为：魅影巨神，魔神比古奥，ザ ビッグオー）是一部由日本[日升公司制作的](../Page/日昇.md "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")，1999年10月13日到2000年1月19日在[WOWOW](../Page/WOWOW.md "wikilink")电视台首播。另有由有賀等所作漫画，在[月刊MagazineZ上連載](https://zh.wikipedia.org/wiki/月刊MagazineZ "wikilink")。
 
 ## 故事

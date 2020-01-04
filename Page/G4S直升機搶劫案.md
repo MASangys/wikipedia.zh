@@ -1,3 +1,6 @@
+> 本文内容由[G4S直升機搶劫案](https://zh.wikipedia.org/wiki/G4S直升機搶劫案)转换而来。
+
+
   -
     <small>本文所有時間均為瑞典當地使用的[歐洲東部時間](https://zh.wikipedia.org/wiki/歐洲東部時間 "wikilink")</small>
 

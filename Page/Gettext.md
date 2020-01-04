@@ -1,3 +1,6 @@
+> 本文内容由[Gettext](https://zh.wikipedia.org/wiki/Gettext)转换而来。
+
+
 **gettext**是[GNU](../Page/GNU.md "wikilink")[国际化与本地化](../Page/国际化与本地化.md "wikilink")（i18n）函数库。它常被用于编写多语言程序。
 
 ## 开发

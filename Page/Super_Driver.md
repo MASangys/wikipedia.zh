@@ -1,3 +1,6 @@
+> 本文内容由[Super Driver](https://zh.wikipedia.org/wiki/Super_Driver)转换而来。
+
+
 《**Super Driver**》為[平野綾的第](https://zh.wikipedia.org/wiki/平野綾 "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[Lantis](../Page/Lantis.md "wikilink")（販售方：[Bandai Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")）於2009年7月22日發行。
 
 ## 概要

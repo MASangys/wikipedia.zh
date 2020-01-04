@@ -1084,6 +1084,7 @@ M723 M16A2卡賓槍裝有M16A1的照門，但裝有彈殼護板，1:7寸膛線�
 
 ### 電影
 
+  - 1995年—《[-{zh-hans:盗火线; zh-hk:盜火線; zh-hant:烈火悍將;}-](https://zh.wikipedia.org/wiki/烈火悍將 "wikilink")》（Heat）：型號為柯爾特654型和733型。前者由尼爾·麥考利（[勞勃·狄尼洛飾演](https://zh.wikipedia.org/wiki/勞勃·狄尼洛 "wikilink")）於打劫現金押運車時所使用。後者由克里斯·西荷里斯（[方·基墨飾演](https://zh.wikipedia.org/wiki/方·基墨 "wikilink")）和尼爾·麥考利在打劫銀行及與警察槍戰期間所使用。
   - 2001年—《[-{zh-hans:黑鹰坠落; zh-hk:黑鷹十五小時; zh-hant:黑鷹計劃;}-](../Page/黑鷹計劃.md "wikilink")》（Black Hawk Down）：型號為柯爾特727型和733型，被[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[第75遊騎兵團和](https://zh.wikipedia.org/wiki/第75遊騎兵團 "wikilink")[三角洲特種部隊的隊員所使用](https://zh.wikipedia.org/wiki/三角洲特種部隊 "wikilink")。
   - 2005年—《[-{zh-hans:战争之王; zh-hant:軍火之王;}-](../Page/軍火之王.md "wikilink")》（Lord of War）：型號為CAR-15衝鋒槍型及柯爾特723型：
       - CAR-15衝鋒槍型被[哥倫比亞毒梟所使用](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")，也出現在尤里·奧洛夫的貨櫃當中。
@@ -1093,7 +1094,7 @@ M723 M16A2卡賓槍裝有M16A1的照門，但裝有彈殼護板，1:7寸膛線�
 ### 电子游戏
 
   - 2010年—《[辐射：新维加斯](../Page/辐射：新维加斯.md "wikilink")》：遊戲中型號為**XM177**，命名為突击卡宾枪（Assault Carbine），使用24發彈匣，装填虚构的5mm口径子弹，可以改装一个30发的延长弹匣。DLC“Gun Runner's Aresnal"增加了一个可以安装更多改造部件的版本。
-  - 2010年—《[-{zh-hans:使命召唤：黑色行动; zh-hk:使命召喚：黑色行動; zh-hant:決勝時刻：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》：實際型號不明，命名為「突擊型」，被[美國海軍陸戰隊](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")、和維克多·雷澤諾夫（出現在亞歷克斯·梅森的幻覺中）所使用，奇怪的在1960年代使用平頂導軌型上機匣，配備從機匣頂部的導軌安裝的後照準器（奇怪地被前後倒置的安裝）。聯機模式及殭屍模式時於等級44解鎖，殭屍模式有一特殊型號「捕食者」。並可使用[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、延長彈s匣（增至45發）、[雙彈匣](../Page/彈匣並聯.md "wikilink")、[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[下掛式霰彈槍](../Page/Masterkey槍管下掛式霰彈槍.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅外線探測式瞄具](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、反射式瞄準鏡。
+  - 2010年—《[-{zh-hans:使命召唤：黑色行动; zh-hk:使命召喚：黑色行動; zh-hant:決勝時刻：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》：實際型號不明，命名為「突擊型」，被[美國海軍陸戰隊](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")、和維克多·雷澤諾夫（出現在亞歷克斯·梅森的幻覺中）所使用，奇怪的在1960年代使用平頂導軌型上機匣，配備從機匣頂部的導軌安裝的後照準器（奇怪地被前後倒置的安裝）。聯機模式及殭屍模式時於等級44解鎖，殭屍模式有一特殊型號「捕食者」。並可使用[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、延長彈匣（增至45發）、[雙彈匣](../Page/彈匣並聯.md "wikilink")、[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[下掛式霰彈槍](../Page/Masterkey槍管下掛式霰彈槍.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅外線探測式瞄具](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、反射式瞄準鏡。
   - 2012年—《[-{zh-hans:反恐精英：全球攻势; zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》（Counter-Strike: Global Offensive）：型號為柯爾特733型，命名為「M4A1-S」，反恐部隊陣營專用武器，可裝上[消音器](../Page/抑制器.md "wikilink")。
   - 2013年—《[-{zh-hans:收获日; zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday 2）：型號為柯爾特733型(預設)，命名為「AMCAR」，可在黑市購買後並另外花費改裝。
   - 2015年—《[-{zh-hans:战地：硬仗;zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》：型號為柯爾特933型，有兩種版本：

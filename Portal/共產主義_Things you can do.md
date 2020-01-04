@@ -1,3 +1,6 @@
+> 本文内容由[Portal:共產主義/Things you can do](https://zh.wikipedia.org/wiki/Portal:共產主義/Things_you_can_do)转换而来。
+
+
   - 基本概念：
       - [馬克思主義哲學](https://zh.wikipedia.org/wiki/馬克思主義哲學 "wikilink"){{·}} [無產階級國際主義](https://zh.wikipedia.org/wiki/無產階級國際主義 "wikilink"){{·}}[共產黨](https://zh.wikipedia.org/wiki/共產黨 "wikilink") {{·}}[階級鬥爭](https://zh.wikipedia.org/wiki/階級鬥爭 "wikilink")
 

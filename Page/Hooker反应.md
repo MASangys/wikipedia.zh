@@ -1,3 +1,6 @@
+> 本文内容由[Hooker反应](https://zh.wikipedia.org/wiki/Hooker反应)转换而来。
+
+
 **Hooker反应**（Hooker reaction，1936）
 
 某些[萘醌](../Page/萘醌.md "wikilink")衍生物（如[黄钟花醌](https://zh.wikipedia.org/wiki/黄钟花醌 "wikilink")）用[碱性](https://zh.wikipedia.org/wiki/碱性 "wikilink")[高锰酸钾](../Page/高锰酸钾.md "wikilink")发生[降解](https://zh.wikipedia.org/wiki/降解 "wikilink")，以[二氧化碳](../Page/二氧化碳.md "wikilink")的形式失去一个[亚甲基单位](https://zh.wikipedia.org/wiki/亚甲基 "wikilink")，生成烃基链缩短的产物。\[1\]\[2\]

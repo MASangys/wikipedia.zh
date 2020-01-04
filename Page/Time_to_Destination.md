@@ -1,3 +1,6 @@
+> 本文内容由[Time to Destination](https://zh.wikipedia.org/wiki/Time_to_Destination)转换而来。
+
+
 **真愛時光**是[日本](../Page/日本.md "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")[小事樂團](../Page/小事樂團.md "wikilink")的第二張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於1998年4月5日發行，是小事樂團歷年最暢銷的一張專輯，總銷量達到3,520,330張，並在[Oricon銷量榜上停留了](https://zh.wikipedia.org/wiki/Oricon銷量榜 "wikilink")49個星期。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Swing \(組合\)](https://zh.wikipedia.org/wiki/Swing_\(組合\))转换而来。
+
+
 **Swing**，[香港](../Page/香港.md "wikilink")男子創作組合，由香港著名[音樂人](https://zh.wikipedia.org/wiki/音樂人 "wikilink")[Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")（郭偉亮）和[Jerald](https://zh.wikipedia.org/wiki/Jerald "wikilink")（陳哲廬）組成。組合成立之初名為**Snowman**，但後來轉投[英皇娛樂](../Page/英皇娛樂.md "wikilink")時更名為**Swing**，並沿用至今。
 
 Swing曾一度於2002年解散，其後於2009年復出，兩年後再度解散，並在解散前於[紅館舉行了組合多年來的第一次](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")，亦是最後一次演唱會《Swing後會無期告別演唱會》。

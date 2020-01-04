@@ -1,3 +1,6 @@
+> 本文内容由[Brasero](https://zh.wikipedia.org/wiki/Brasero)转换而来。
+
+
 **Brasero**是[类Unix](../Page/类Unix系统.md "wikilink")[系统下的一个](../Page/操作系统.md "wikilink")[自由的](../Page/自由软件.md "wikilink")[光盘](https://zh.wikipedia.org/wiki/光盘 "wikilink")[刻录程序](https://zh.wikipedia.org/wiki/光碟烧录技术 "wikilink")，作为[cdrtools](https://zh.wikipedia.org/wiki/cdrtools "wikilink")，[growisofs以及libburn](https://zh.wikipedia.org/wiki/dvd+rw-tools "wikilink")（可选）的图形化[前端](https://zh.wikipedia.org/wiki/前端 "wikilink")（使用[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")）。\[1\]\[2\]\[3\]
 
 Brasero使用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，是一个[自由软件](../Page/自由软件.md "wikilink")。\[4\]

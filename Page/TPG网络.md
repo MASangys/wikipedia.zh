@@ -61,7 +61,7 @@ TPG Boomerang TV是通过[Intelsat 8卫星播放收费电视的服务](https://z
 ## 外部链接
 
   - [TPG公司的官方网站（英文）](http://www.tpg.com.au)
-  - [TPG System的官方网站（英文）](http://www.pc.tpg.com.au)
+  - [TPG System的官方网站（英文）](https://web.archive.org/web/20190604093251/http://pc.tpg.com.au/)
   - [Alexa网站上的TPG公司信息（英文）](http://www.alexa.com/data/details/?url=tpg.com.au)
   - [Catsoft（英文）](http://www.catsoft.tpg.com.au)
 

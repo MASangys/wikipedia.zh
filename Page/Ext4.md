@@ -1,3 +1,6 @@
+> 本文内容由[Ext4](https://zh.wikipedia.org/wiki/Ext4)转换而来。
+
+
 **第四代擴充套件檔案系統**（，縮寫為**ext4**）是[Linux](../Page/Linux.md "wikilink")系統下的[日誌檔案系統](https://zh.wikipedia.org/wiki/日誌檔案系統 "wikilink")，是[ext3檔案系統的后继版本](https://zh.wikipedia.org/wiki/ext3 "wikilink")。
 
 ## 歷史

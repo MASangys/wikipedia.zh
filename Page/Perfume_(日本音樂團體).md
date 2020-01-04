@@ -1874,15 +1874,15 @@ Perfume、SPECIAL OTHERS</p></td>
 
   - [Perfume LOCKS\!](http://www.tfm.co.jp/lock/perfume/index.html) - 廣播節目
 
-  - [PTA 全球官方粉絲俱樂部](http://pta-world.com/)
+  - [全球官方粉絲俱樂部](https://fc.perfume-web.jp)
 
   - [Amuse Facebook](https://www.facebook.com/amuse.jp/)
 
   - [Perfume Closet網站](http://www.perfume-web.jp/cam/closet/)
 
-  - [Perfume官方tiktok](http://vt.tiktok.com/xT9K6/)
+  - [Perfume官方tiktok](https://www.tiktok.com/@perfumeofficial)
 
-[Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink") [Category:Perfume](https://zh.wikipedia.org/wiki/Category:Perfume "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink") [Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:德間日本傳播旗下藝人](https://zh.wikipedia.org/wiki/Category:德間日本傳播旗下藝人 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
+[Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink") [Category:Perfume](https://zh.wikipedia.org/wiki/Category:Perfume "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink") [Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:德間日本傳播旗下藝人](https://zh.wikipedia.org/wiki/Category:德間日本傳播旗下藝人 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink") [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
 
 1.
 2.

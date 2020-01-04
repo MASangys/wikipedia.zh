@@ -1,3 +1,6 @@
+> 本文内容由[Windows行動中心](https://zh.wikipedia.org/wiki/Windows行動中心)转换而来。
+
+
 **Windows 行動中心**是[微軟所開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")，在[Windows Vista中是管理行動電腦的工具](../Page/Windows_Vista.md "wikilink")，但是在[Windows 7中是個相似](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows 資訊安全中心的工具](https://zh.wikipedia.org/wiki/Windows_資訊安全中心 "wikilink")。
 
 ## 概觀

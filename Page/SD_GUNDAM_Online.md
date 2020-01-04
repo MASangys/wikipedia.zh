@@ -1,3 +1,6 @@
+> 本文内容由[SD GUNDAM Online](https://zh.wikipedia.org/wiki/SD_GUNDAM_Online)转换而来。
+
+
 《**SDGUNDAMOnline**》(英文原名：*SD Gundam Capsule Fighter*，簡称**SDGO**。於各地區分別叫作“**SD**(各地區對[Gundam的譯名](https://zh.wikipedia.org/wiki/Gundam "wikilink"))**online**”\[1\]。)是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Softmax公司开发的](https://zh.wikipedia.org/wiki/Softmax_\(游戏开发商\) "wikilink")[3D格鬥](../Page/格鬥遊戲.md "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")。駕駛[SD GUNDAM化的初代](https://zh.wikipedia.org/wiki/SD_GUNDAM "wikilink")[GUNDAM](../Page/GUNDAM.md "wikilink")至最新的[鋼彈創鬥者系列MS](https://zh.wikipedia.org/wiki/鋼彈創鬥者 "wikilink")/MA進行戰鬥。《SDGUNDAMOnline》融合了[第一人稱射擊遊戲的控制和](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")[GUNDAM VS系列的戰力值](https://zh.wikipedia.org/wiki/GUNDAM_VS系列 "wikilink")。
 
 《SDGUNDAMOnline》是一款不根据在线时间收费的免费游戏。[中國大陸由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[久游网](../Page/久游网.md "wikilink")运营，2008年7月31日进行第一次封测 ，2015年7月31日停止运营；\[2\]台灣於2009年3月[紅心辣椒](../Page/紅心辣椒.md "wikilink")公測。

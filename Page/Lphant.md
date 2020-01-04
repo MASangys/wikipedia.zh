@@ -1,3 +1,6 @@
+> 本文内容由[Lphant](https://zh.wikipedia.org/wiki/Lphant)转换而来。
+
+
 **Lphant**是一个[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享客户端软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")，支持[eDonkey网络和](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[BitTorrent网络](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")。可运行于[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")或[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[操作系统](../Page/操作系统.md "wikilink")\[1\]。Lphant提供了19种语言的支持。Lphant官方网站域名lphant.com于2009年5月19日被他人获取，现该站上提供了一个自称官方的假Lphant软件，版本号4.0至5.1，实际上是一个[iMesh客户端](https://zh.wikipedia.org/wiki/iMesh "wikilink")。官方Lphant的最后版本为3.51。
 
 ## 功能

@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第十六章：起源于围产期的某些情况](https://zh.wikipedia.org/wiki/ICD-10_第十六章：起源于围产期的某些情况)转换而来。
+
+
 ## P00-P04 胎儿和新生儿受母体因素及妊娠、产程和分娩并发症的影响
 
 P00-P04 [胎儿和](https://zh.wikipedia.org/wiki/胎儿 "wikilink")[新生儿受母体因素及](https://zh.wikipedia.org/wiki/新生儿 "wikilink")[妊娠](../Page/妊娠.md "wikilink")、[产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩](../Page/分娩.md "wikilink")并发症的影响

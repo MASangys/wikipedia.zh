@@ -1,3 +1,6 @@
+> 本文内容由[PanARMENIAN.Net](https://zh.wikipedia.org/wiki/PanARMENIAN.Net)转换而来。
+
+
 **PanARMENIAN.Net** 是亞美尼亞第一家線上通訊社及入口網站，總部設於亞美尼亞首都埃里溫。\[1\]PanARMENIAN.Net 茲資訊分析入口網站，是2000年4月2日開始的非政府組織"PanArmenian Network"的計畫中的一個項目\[2\]. PanARMENIAN.Net提供亞美尼亞生活當中主要的社會與政治事件資訊及分析，也包含了與亞美尼亞直接或間接相關的世界消息。議題涵蓋了：政治、亞美尼亞與世界、社會、經濟、區域、運動、文化、科技與通訊。
 
 ## "PanARMENIAN Network"

@@ -1,3 +1,6 @@
+> 本文内容由[Lisa S.](https://zh.wikipedia.org/wiki/Lisa_S.)转换而来。
+
+
 **Lisa S.**（\[1\]，\[2\]），[香港](../Page/香港.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")\[3\]，曾經參與大量平面[廣告](../Page/廣告.md "wikilink")拍攝，亦有客串演出電影\[4\]。她現時亦是音樂頻道[Channel V的VJ](../Page/Channel_V.md "wikilink")\[5\]\[6\]。
 
 ## 生平

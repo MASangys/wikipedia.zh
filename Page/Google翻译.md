@@ -238,9 +238,10 @@ Google翻译曾经内置有一个小彩蛋，在输入特定文字后让程序�
   - [Google Translate](http://translate.google.cn/?hl=en)
       - [Google翻译](http://translate.google.cn/?hl=zh-CN)
       - [Google翻譯](https://translate.google.com.tw/?hl=zh-TW)
-  - [Google Trannslate on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+  - [Google Translate on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
   - [Google Translate on App Store](https://itunes.apple.com/fi/app/google-translate/id414706506)
   - [Google translate, statistical machine translation live](http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html)
+  - [Teach You Backwards: An In-Depth Study of Google Translate in 103 Languages](http://teachyoubackwards.com)
 
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 

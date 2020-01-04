@@ -1,3 +1,6 @@
+> 本文内容由[Windows Mobile裝置中心](https://zh.wikipedia.org/wiki/Windows_Mobile裝置中心)转换而来。
+
+
 **Windows Mobile裝置中心**（）是一個[微軟所開發的同步化的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，它取代了原本的Microsoft ActiveSync。它的功能是用來同步[Windows Mobile與](../Page/Windows_Mobile.md "wikilink")[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統之間各種類型的資料](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，包括[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")、聯絡人、行事曆、[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[我的最愛等](https://zh.wikipedia.org/wiki/我的最愛 "wikilink")。
 
 ## 歷史

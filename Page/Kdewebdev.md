@@ -1,3 +1,6 @@
+> 本文内容由[Kdewebdev](https://zh.wikipedia.org/wiki/Kdewebdev)转换而来。
+
+
 **Kdewebdev**是一個提供網頁開發工具的軟體包。
 
 ## 軟體列表

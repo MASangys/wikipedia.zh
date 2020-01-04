@@ -1,3 +1,6 @@
+> 本文内容由[Destination \(張栢芝專輯\)](https://zh.wikipedia.org/wiki/Destination_\(張栢芝專輯\))转换而来。
+
+
 《**Destination**》是[張栢芝](../Page/張栢芝.md "wikilink")的第二張個人音樂專輯，於1999年11月15日發行；隨後推出第二版，加收VCD，其後於2000年1月14日推出韓國版，這是張第一張的韓國版專輯。 此唱片獲得白金唱片銷量。
 
 ## 曲目

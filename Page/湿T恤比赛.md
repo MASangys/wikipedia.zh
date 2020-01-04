@@ -1,3 +1,6 @@
+> 本文内容由[湿T恤比赛](https://zh.wikipedia.org/wiki/湿T恤比赛)转换而来。
+
+
 [Pouring-water-for-wet-tshirt.jpg](https://zh.wikipedia.org/wiki/File:Pouring-water-for-wet-tshirt.jpg "fig:Pouring-water-for-wet-tshirt.jpg")，露出腹部和[乳沟的湿T恤比赛](https://zh.wikipedia.org/wiki/乳沟 "wikilink")\]\] [Wet_T-Shirt.jpg](https://zh.wikipedia.org/wiki/File:Wet_T-Shirt.jpg "fig:Wet_T-Shirt.jpg") **湿T恤比赛**是一种暴露的[选美比赛](https://zh.wikipedia.org/wiki/选美比赛 "wikilink")，典型的特点是年轻女性在夜总会、酒吧或旅游胜地表演。他们一向是大学春假庆典的主要谈论话题，例如在[代托纳比奇和](https://zh.wikipedia.org/wiki/代托纳比奇_\(佛罗里达州\) "wikilink")[坎昆](../Page/坎昆.md "wikilink")地区。
 
 参与者通常穿白色或浅色的T恤，衣服下面通常没有[胸罩](../Page/胸罩.md "wikilink")或其他衣着。将水喷或浇在参与者的胸部使他们T恤变[透明](../Page/透明.md "wikilink")并贴在胸部。参赛者可以轮流在观众面前[跳舞或摆Pose](https://zh.wikipedia.org/wiki/跳舞 "wikilink")，结果比赛由观众的反应或裁判的意见决定。

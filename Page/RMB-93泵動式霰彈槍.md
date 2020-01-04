@@ -1,3 +1,6 @@
+> 本文内容由[RMB-93泵動式霰彈槍](https://zh.wikipedia.org/wiki/RMB-93泵動式霰彈槍)转换而来。
+
+
 **RMB-93**（）是一款由[前苏联位於](../Page/苏联.md "wikilink")[圖拉的武器研究局](../Page/圖拉_\(圖拉州\).md "wikilink")（TsKIB SOO）所研製、現由[俄罗斯](../Page/俄罗斯.md "wikilink")武器製造商[KBP儀器設計廠所生產的](../Page/俄联邦仪器设计局.md "wikilink")[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射2英吋或3英吋[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 設計細節

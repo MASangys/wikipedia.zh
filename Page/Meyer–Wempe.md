@@ -1,3 +1,6 @@
+> 本文内容由[Meyer–Wempe](https://zh.wikipedia.org/wiki/Meyer–Wempe)转换而来。
+
+
 **Meyer–Wempe**是一套[羅馬化](https://zh.wikipedia.org/wiki/羅馬化 "wikilink")[粵語拼音方案](https://zh.wikipedia.org/wiki/粵語拼音方案 "wikilink")，由兩位香港的[天主教](../Page/天主教.md "wikilink")[傳教士](https://zh.wikipedia.org/wiki/傳教士 "wikilink")和[Theodore F. Wempe在](https://zh.wikipedia.org/wiki/Theodore_F._Wempe "wikilink")1920年代至1930年代之間建立。
 
 ## [聲母](https://zh.wikipedia.org/wiki/聲母 "wikilink")

@@ -60,6 +60,11 @@ udev配置文件是/etc/udev/udev.conf，文件内容中很重要的一项是指
 
 udev由[Greg Kroah-Hartman和](https://zh.wikipedia.org/wiki/Greg_Kroah-Hartman "wikilink")[Kay Sievers共同开发](https://zh.wikipedia.org/wiki/Kay_Sievers "wikilink")，并得到[Dan Stekloff等人的帮助](https://zh.wikipedia.org/wiki/Dan_Stekloff "wikilink")。
 
+## 參見
+
+  - [硬件抽象層](https://zh.wikipedia.org/wiki/硬件抽象層 "wikilink")
+  - [DKMS](https://zh.wikipedia.org/wiki/DKMS "wikilink")
+
 ## 外部链接
 
   - [udev在kernel.org的主页](https://web.archive.org/web/20071203211553/http://www.kernel.org/pub/linux/utils/kernel/hotplug/udev.html)

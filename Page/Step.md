@@ -1,3 +1,6 @@
+> 本文内容由[Step](https://zh.wikipedia.org/wiki/Step)转换而来。
+
+
 {{ infobox software | name = Step | logo = Oxygen15.04.1-step.svg | screenshot = Screenshot of step.png | screenshot size = 200px | caption = | collapsible = | author = Vladimir Kuznetsov | developer = | released = | programming language = [C++](../Page/C++.md "wikilink") | operating system = [Linux](../Page/Linux.md "wikilink") | platform = | size = | language = | status = | genre = 教育 | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =  }} **Step**是一個開源的二維[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")，[KDE教育計劃的一分子](https://zh.wikipedia.org/wiki/KDE教育計劃 "wikilink")。\[1\]
 
 ## 歷史

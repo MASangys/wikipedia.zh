@@ -1,3 +1,6 @@
+> 本文内容由[KKBOX](https://zh.wikipedia.org/wiki/KKBOX)转换而来。
+
+
 **KKBOX**是源自[臺灣](../Page/臺灣.md "wikilink")的[線上](https://zh.wikipedia.org/wiki/線上 "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[串流](../Page/流媒体.md "wikilink")，2005年10月率先在臺灣推出後，陸續於香港、澳門、新加坡、馬來西亞、日本及泰國等地開放服務，後於2016年退出泰國市場。目前由[日本](../Page/日本.md "wikilink")[KDDI](../Page/KDDI.md "wikilink")做為最大股東的KKBOX公司經營\[1\]。
 
 ## 概要

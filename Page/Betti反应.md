@@ -1,3 +1,6 @@
+> 本文内容由[Betti反应](https://zh.wikipedia.org/wiki/Betti反应)转换而来。
+
+
 **Betti反应**（贝蒂反应；贝特反应）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 [酚](../Page/酚.md "wikilink")与[芳香](https://zh.wikipedia.org/wiki/芳香族化合物 "wikilink")[醛](../Page/醛.md "wikilink")和[伯胺作用得到](https://zh.wikipedia.org/wiki/伯胺 "wikilink") α-[氨基苯甲酚类](https://zh.wikipedia.org/wiki/氨基 "wikilink")。这个反应为 [Mannich反应的一种特殊情况](https://zh.wikipedia.org/wiki/Mannich反应 "wikilink")。

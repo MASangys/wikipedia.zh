@@ -1,3 +1,6 @@
+> 本文内容由[Silver Mt. Zion](https://zh.wikipedia.org/wiki/Silver_Mt._Zion)转换而来。
+
+
 **Thee Silver Mt. Zion Memorial Orchestra**（曾命名為**A Silver Mt. Zion**、**The Silver Mt. Zion Memorial Orchestra & Tra-La-La Band**、**Thee Silver Mt. Zion Memorial Orchestra and Tra-La-La Band with Choir**、**Thee Silver Mountain Reveries**和**Thee Silver Mt. Zion Memorial Orchestra & Tra-La-La Band**；縮寫為**SMZ**或**ASMZ**）是[加拿大](../Page/加拿大.md "wikilink")的一支[後搖滾](../Page/後搖滾.md "wikilink")樂隊，1999年在[魁北克](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[蒙特婁成立](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。\[1\] 儘管多次更名，該樂團的名稱多可以簡稱為**Silver Mt. Zion**。
 
 ## 樂團成員

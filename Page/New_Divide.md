@@ -1,3 +1,6 @@
+> 本文内容由[New Divide](https://zh.wikipedia.org/wiki/New_Divide)转换而来。
+
+
 **New Divide**，於2009年5月18日發行的單曲，收錄於[變形金剛：復仇之戰](../Page/變形金剛：復仇之戰.md "wikilink")電影原聲帶，也是此電影的主題曲。
 
 ## 歌曲背景

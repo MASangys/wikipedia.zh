@@ -1,3 +1,6 @@
+> 本文内容由[Boord烯烃合成](https://zh.wikipedia.org/wiki/Boord烯烃合成)转换而来。
+
+
 **Boord烯烃合成**通过β-[卤代](https://zh.wikipedia.org/wiki/卤代 "wikilink")[醚](../Page/醚.md "wikilink")与[金属](../Page/金属.md "wikilink")（如[镁](../Page/镁.md "wikilink")或[锌](../Page/锌.md "wikilink")）作用，发生[消除生成](https://zh.wikipedia.org/wiki/消除 "wikilink")[烯烃](../Page/烯烃.md "wikilink")。 反应特点是产率高、应用广泛。\[1\]
 
 

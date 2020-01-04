@@ -22,7 +22,7 @@
 
 ## 参考资料
 
-  - [](http://doraemon.baike.com/article-132056.html)
+  - [](https://web.archive.org/web/20160126162856/http://doraemon.baike.com/article-132056.html)
   - [](http://www.youku.com/show_page/id_z5608f600acf311e0a046.html)
 
 [Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink") [Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink") [Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink") [Category:1996年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1996年日本劇場動畫 "wikilink") [Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink") [Category:校園動畫](https://zh.wikipedia.org/wiki/Category:校園動畫 "wikilink") [Category:學校背景電影](https://zh.wikipedia.org/wiki/Category:學校背景電影 "wikilink")

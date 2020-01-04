@@ -1,3 +1,6 @@
+> 本文内容由[Madelung合成](https://zh.wikipedia.org/wiki/Madelung合成)转换而来。
+
+
 **Madelung吲哚合成**（马德隆吲哚合成）是 *N*-(取代)[苯基](https://zh.wikipedia.org/wiki/苯基 "wikilink")[酰胺](../Page/酰胺.md "wikilink")与[强碱](https://zh.wikipedia.org/wiki/强碱 "wikilink")（[氨基钠](../Page/氨基钠.md "wikilink")、[叔丁醇钾](../Page/叔丁醇钾.md "wikilink")、[丁基锂或](https://zh.wikipedia.org/wiki/丁基锂 "wikilink")[乙醇钠](../Page/乙醇钠.md "wikilink")）在高温隔绝空气共热，发生[分子内](https://zh.wikipedia.org/wiki/分子内 "wikilink")[环化生成](https://zh.wikipedia.org/wiki/环化 "wikilink")[吲哚](../Page/吲哚.md "wikilink")[衍生物的反应](https://zh.wikipedia.org/wiki/衍生物 "wikilink")。\[1\]
 
 [Madelung_Synthesis_Scheme.png](https://zh.wikipedia.org/wiki/File:Madelung_Synthesis_Scheme.png "fig:Madelung_Synthesis_Scheme.png")

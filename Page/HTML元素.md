@@ -1,3 +1,6 @@
+> 本文内容由[HTML元素](https://zh.wikipedia.org/wiki/HTML元素)转换而来。
+
+
 [HTML](../Page/HTML.md "wikilink")中，一个**HTML元素**是[HTML](../Page/HTML.md "wikilink")文件的一个基本组成单元。HTML文件采用采用树形结构安排HTML元素。更进一步的说，一个HTML元素是一个满足一项或多项DTD要求的元素。HTML元素可以拥有*属性*和*内容*，可以是标题、段落、链接、列表、嵌入媒体或者其他的任何符合DTD要求的格式。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[大怪獸格鬥 超銀河傳說 THE MOVIE](https://zh.wikipedia.org/wiki/大怪獸格鬥_超銀河傳說_THE_MOVIE)转换而来。
+
+
 《**大怪獸格鬥 超銀河傳說 THE MOVIE**》（），是一部由[華納兄弟發行](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")、[圓谷制作公司制作的](https://zh.wikipedia.org/wiki/圓谷制作公司 "wikilink")[日本](../Page/日本.md "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電影作品](https://zh.wikipedia.org/wiki/電影 "wikilink")，于2009年12月12日在日本上映。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[LIRC](https://zh.wikipedia.org/wiki/LIRC)转换而来。
+
+
 {{ Infobox_Software | name = LIRC | logo = | screenshot = | caption = | collapsible = | developer = | status = Active | latest_release_version = 0.8.5 | latest_release_date =  | latest_preview_version = | latest_preview_date = | operating_system = [Linux](../Page/Linux.md "wikilink") | size = 653 KB (archived) | programming_language = [C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink") | genre = [紅外線遙控](https://zh.wikipedia.org/wiki/紅外線遙控 "wikilink") | license = [GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink") | website = <http://www.lirc.org/> }}
 
 **LIRC** (Linux Infrared remote control,Linux紅外線遙控)是一個[開放原始碼的套件](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。這個套件可以讓你的Linux系統能夠接收及發送紅外線訊號。

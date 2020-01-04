@@ -1,3 +1,6 @@
+> 本文内容由[Grob断裂反应](https://zh.wikipedia.org/wiki/Grob断裂反应)转换而来。
+
+
 **Grob断裂反应**（Grob fragmentation），又称**Grob碎裂化反应**，以英国化学家 Cyril A. Grob 的名字命名。\[1\]\[2\]\[3\]
 
 一大类在[脂肪链上的](https://zh.wikipedia.org/wiki/脂肪链 "wikilink") 1-位和 3-位有[离电体](https://zh.wikipedia.org/wiki/离电体 "wikilink")（electrofuge，E）和[离核体](https://zh.wikipedia.org/wiki/离核体 "wikilink")（nucleofuge，N）的化合物 E-a-b-c-N [断裂成三个片段的反应](https://zh.wikipedia.org/wiki/断裂 "wikilink")。离电体 E-a 反应后形成更稳定的带正电荷或中性分子。中间的基团 b-c 反应后形成[不饱和键的分子](https://zh.wikipedia.org/wiki/不饱和 "wikilink")。离核体 N 带着电子对脱离原子 c。

@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第十四章：泌尿生殖系统疾病](https://zh.wikipedia.org/wiki/ICD-10_第十四章：泌尿生殖系统疾病)转换而来。
+
+
 ## N00-N08 肾小球疾病
 
 N00-N08 [肾小球疾病](https://zh.wikipedia.org/wiki/肾小球 "wikilink")

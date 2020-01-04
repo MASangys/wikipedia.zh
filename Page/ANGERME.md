@@ -1,3 +1,6 @@
+> 本文内容由[ANGERME](https://zh.wikipedia.org/wiki/ANGERME)转换而来。
+
+
 **ANGERME**（****），前稱**S/mileage**，[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
 
 2009年4月從[Hello\! pro EGG中選出四名成員組成](https://zh.wikipedia.org/wiki/Hello!_pro_EGG "wikilink")。號稱「日本裙子最短偶像團體」。
@@ -115,8 +118,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 <td><p>六期</p></td>
 <td><p><strong>黃綠</strong></p></td>
-<td><p>從Country Girls移籍，兼任<a href="../Page/Country_Girls.md" title="wikilink">Country Girls</a><br />
-2020年3月畢業預定。　</p></td>
+<td><p>2020年3月畢業預定。　</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/川村文乃" title="wikilink">川村文乃</a></p></td>

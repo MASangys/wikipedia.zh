@@ -1,3 +1,6 @@
+> 本文内容由[第59回NHK红白歌合战](https://zh.wikipedia.org/wiki/第59回NHK红白歌合战)转换而来。
+
+
 **第59回NHK红白歌合战**（（））于日本当地时间([JST](https://zh.wikipedia.org/wiki/日本标准时间 "wikilink"))2008年12月31日19时20分至23时45分于[NHK音乐厅举行](https://zh.wikipedia.org/wiki/NHK音乐厅 "wikilink")。是NHK第59次举行[红白歌合战](../Page/NHK红白歌合战.md "wikilink")。此次红白两组共有52组参加，加上特别企划的2组歌手（[宫泽和史与](https://zh.wikipedia.org/wiki/宫泽和史 "wikilink")[恩雅](../Page/恩雅.md "wikilink")），共有54组歌手。收视率为前半段35.7%，后半段42.1%。最后以白组拿下第31次优胜收场。
 
 ## 特别审查员

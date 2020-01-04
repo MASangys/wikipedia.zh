@@ -1,3 +1,6 @@
+> 本文内容由[雄風二E巡弋飛彈](https://zh.wikipedia.org/wiki/雄風二E巡弋飛彈)转换而来。
+
+
 **雄風二E巡弋飛彈（Hsiung Feng IIE, HF-2E）**為[中華民國](../Page/中華民國.md "wikilink")[中科院製造的地對地](https://zh.wikipedia.org/wiki/中山科學研究院 "wikilink")[巡弋飛彈](https://zh.wikipedia.org/wiki/巡弋飛彈 "wikilink")，以「雄昇」為發展計畫，將[雄風二型反艦飛彈](../Page/雄風二型反艦飛彈.md "wikilink")為基礎並參考自美國[戰斧巡弋飛彈](https://zh.wikipedia.org/wiki/戰斧巡弋飛彈 "wikilink")\[1\]研發，投入研發經費約330億元台幣，2010年起以「戟隼專案」展開生產\[2\]。
 
 ## 概述

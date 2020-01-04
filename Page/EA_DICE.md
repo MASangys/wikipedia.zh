@@ -1,3 +1,6 @@
+> 本文内容由[EA DICE](https://zh.wikipedia.org/wiki/EA_DICE)转换而来。
+
+
 ，简称“**艺-{}-电戴斯**”（EA DICE）或“**戴斯**”（DICE），是[美国艺电旗下的一家](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")[游戏工作室](../Page/游戏开发者.md "wikilink")。公司建立于1988年，早期以开发弹珠游戏为主。2006年被[美国艺电](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")（EA）收購成为[子公司](../Page/子公司.md "wikilink")，现以近年的[战地系列游戏和](https://zh.wikipedia.org/wiki/战地系列 "wikilink")《[镜之边缘](../Page/镜之边缘.md "wikilink")》而闻名。
 
 ## 历史

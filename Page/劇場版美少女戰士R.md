@@ -1,3 +1,6 @@
+> 本文内容由[劇場版美少女戰士R](https://zh.wikipedia.org/wiki/劇場版美少女戰士R)转换而来。
+
+
 是三部劇場版**[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")**的首發作品，於1993年12月5日在日本首度上映。本片的命名來自[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")**美少女戰士**的第二部作品: **[美少女戰士R](../Page/美少女戰士R.md "wikilink")**，兩者的播映日期相當接近。由於在劇中[小小兔已經明瞭各個戰士的真實身分](../Page/豆釘兔.md "wikilink")，所有角色依舊身處於現代而非未來，[地場衛](../Page/地場衛.md "wikilink")與[月野兔](../Page/月野兔.md "wikilink")亦重新相聚，劇中的事件應是發生於**美少女戰士R**的中後半段之間。
 
 ## 劇情

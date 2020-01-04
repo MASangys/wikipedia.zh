@@ -1,3 +1,6 @@
+> 本文内容由[Cocktail Soft](https://zh.wikipedia.org/wiki/Cocktail_Soft)转换而来。
+
+
 是，FANDC（[F\&C](../Page/F&C.md "wikilink")）的[十八禁遊戲品牌之一](../Page/日本成人遊戲.md "wikilink")。
 
 ## 概要

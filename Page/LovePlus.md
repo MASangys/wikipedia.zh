@@ -1,3 +1,6 @@
+> 本文内容由[LovePlus](https://zh.wikipedia.org/wiki/LovePlus)转换而来。
+
+
 是2009年9月3日由[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")在日本發售的[任天堂DS](../Page/任天堂DS.md "wikilink")平台[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")。廣告標語為「」
 
 2010年6月24日在日本發售續作《**LovePlus+**》，廣告標語為「」（日本全國LOVEPLUS現象（祭典））；而[任天堂3DS](../Page/任天堂3DS.md "wikilink")版《[New LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人節在日本上市](https://zh.wikipedia.org/wiki/西洋情人節 "wikilink")。

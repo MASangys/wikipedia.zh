@@ -1,3 +1,6 @@
+> 本文内容由[鈴木SX4](https://zh.wikipedia.org/wiki/鈴木SX4)转换而来。
+
+
 **鈴木SX4**（）為[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2006年起開發製造的[緊湊型](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，第一代之兄弟車為。
 
 關於車名SX4，乃是「**S**ports **X**-over **4** all seasons（適合四季使用的運動型跨界休旅車）」之[縮寫](../Page/縮寫.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Bartoli吲哚合成](https://zh.wikipedia.org/wiki/Bartoli吲哚合成)转换而来。
+
+
 **Bartoli吲哚合成**（Bartoli indole synthesis），又称“Bartoli反应”
 
 从邻取代的[芳香](https://zh.wikipedia.org/wiki/芳香族化合物 "wikilink")[硝基化合物与](https://zh.wikipedia.org/wiki/硝基 "wikilink")[乙烯基](https://zh.wikipedia.org/wiki/乙烯基 "wikilink")[格氏试剂](../Page/格氏试剂.md "wikilink")制备取代[吲哚](../Page/吲哚.md "wikilink")。\[1\]\[2\]\[3\]\[4\]

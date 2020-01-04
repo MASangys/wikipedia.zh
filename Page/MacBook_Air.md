@@ -5,18 +5,18 @@
 
 2010年10月20日，苹果发布了新款13.3寸MacBook Air。新款拥有更轻的外壳，更高分辨率的显示屏，以及更大的电池容量。并使用[固态硬盘](../Page/固态硬盘.md "wikilink")取代了传统的硬盘驱动器。去除了固态硬盘的外壳并将其内部的主控和闪存芯片直接集成在主板上，内存储器芯片也一样，减少了空间占用。同时发布的还有首次被公布的11.6寸型号。變得更轻、更薄、更便宜，性能和电池容量相比13.3寸版有所降低，但仍然比一般[上网本](../Page/上网本.md "wikilink")的性能強悍不少。MacBook Air在2011年取代停产的MacBook系列[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")外壳[麥金塔手提电脑](https://zh.wikipedia.org/wiki/麥金塔笔记本电脑 "wikilink")。\[4\]\[5\]\[6\]\[7\]\[8\]
 
-2011年7月20日，相隔9個月後，苹果发布了更新的第三代13.3寸及11.6寸MacBook Air。在2012年WWDC大会上，苹果发布了升级的第四代MacBook Air，配备第三代Intel Core处理器及Intel HD Graphics 4000核芯显卡。在2013年WWDC大会上（6月10日），苹果再次发布了升级的第五代MacBook Air，配备第四代Intel Core处理器及Intel HD Graphics 5000核芯显卡。在2014年4月29日，苹果发布了更新的第五代MacBook Air，配备更新的第四代Intel Core处理器，同時降低了售價。2016年10月，苹果推出新版MacBook Pro，同時停售11吋款MacBook Air，13吋款MacBook Air內存部分開始標配8GB，儘管過時的螢幕始終受到評議，這些年來性能的提升與價格的調整，也讓MacBook Air變成麥金塔系列中最實惠的入門選擇。
+2011年7月20日，相隔9個月後，苹果发布了更新的第三代13.3寸及11.6寸MacBook Air。在2012年WWDC大会上，苹果发布了升级的第四代MacBook Air，配备第三代Intel Core处理器及Intel HD Graphics 4000核芯显卡。在2013年WWDC大会上（6月10日），苹果再次发布了升级的第五代MacBook Air，配备第四代Intel Core处理器及Intel HD Graphics 5000核芯显卡。在2014年4月29日，苹果发布了更新的第五代MacBook Air，配备更新的第四代Intel Core处理器，同時降低了售價。2016年10月，苹果推出新版MacBook Pro，同時停售11吋款MacBook Air，13吋款MacBook Air內存部分開始標配8GB，儘管過時的螢幕始終受到評議，這些年來性能的提升與價格的調整，也讓MacBook Air從一款追求極致精簡性的產品，逐漸變成麥金塔系列中最實惠的入門選擇。
 
-2018年10月，苹果進行系列翻新，推出新一代13.3寸的全新MacBook Air，備有3款顏色金、銀、太空灰可選擇，搭载了第八代Intel Core i5 8210Y处理器、[Retina顯示器](../Page/Retina显示屏.md "wikilink")、[Touch ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")、[Thunderbolt 3連接埠](../Page/Thunderbolt.md "wikilink")、[Force Touch控版與蝶式键盘](../Page/3D_Touch.md "wikilink")。2019年7月19日，蘋果正式停售13吋舊MacBook Air，小幅度更新MacBook Air與產品線重整，加入原彩顯示技術的Retina顯示器與改良版蝶式键盘，並在更換容量的前提下還降低了售價，以繼續耕耘其教育與消費者市場。
+2018年10月，苹果進行首次的系列重大翻新，推出新一代13.3寸的全新MacBook Air，備有3款顏色金、銀、太空灰可選擇，搭载了第八代Intel Core i5 8210Y处理器、[Retina顯示器](../Page/Retina显示屏.md "wikilink")、[Touch ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")、[Thunderbolt 3連接埠](../Page/Thunderbolt.md "wikilink")、[Force Touch控版與蝶式键盘](../Page/3D_Touch.md "wikilink")。2019年7月19日，蘋果正式停售13吋舊MacBook Air，小幅度更新MacBook Air與產品線重整，加入原彩顯示技術的Retina顯示器與改良版蝶式键盘，並在更換容量的前提下還降低了售價，以繼續耕耘其教育與消費者市場。
 
 ## 特色
 
 作为现代工业设计的领先者，[苹果公司在MacBook](https://zh.wikipedia.org/wiki/苹果公司 "wikilink") Air上做出了不少大胆创新的设计，有些甚至是前无古人的。
 
-1.  它是很长一段时间内全球最薄的[笔记本电脑之一](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，當時厚度最薄处约，最厚处约。
-2.  使用磁力吸附的[MagSafe 2电源接口](../Page/MagSafe.md "wikilink")，防止電腦本體因電源線被拉扯而摔落。2018年起改用[USB-C介面做為電源接口](https://zh.wikipedia.org/wiki/USB-C "wikilink")，所有接口皆能同時進行充電。
-3.  Multitouch（[多点触控](https://zh.wikipedia.org/wiki/多点触控 "wikilink")）多重触控式触摸板。这和新[MacBook Pro的触摸板一模一样](../Page/MacBook_Pro.md "wikilink")。多重式触摸板不但可以在两只手指并排时轻敲触摸板代替右击，而且还可以让MacBook Air像[iPhone一样自由操控](https://zh.wikipedia.org/wiki/iPhone "wikilink")。2018版本後使用了Force Touch 压感触摸板。
-4.  一體成形的機身設計，包含機身本體與顯示螢幕的边框皆以镁铝合金製成。2018以後版本更是以100%回收铝合金制成，蘋果稱在環保相關技術的新突破。
+1.  它是很长一段时间内全球最薄的[笔记本电脑之一](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，當時厚度最薄处约，最厚处约，為此捨去了很多街口，並仰賴外接設備，算是相當激進。
+2.  使用磁力吸附的[MagSafe 2电源接口](../Page/MagSafe.md "wikilink")，防止電腦本體因電源線被拉扯而摔落。2018年起更徹底改用[USB-C介面](https://zh.wikipedia.org/wiki/USB-C "wikilink")，做為電源和介面的統一接口，所有接口皆能同時進行充電。
+3.  Multitouch（[多点触控](https://zh.wikipedia.org/wiki/多点触控 "wikilink")）多重触控式触摸板。这和新[MacBook Pro的触摸板一模一样](../Page/MacBook_Pro.md "wikilink")。多重式触摸板不但可以在两只手指并排时轻敲触摸板代替右击，而且还可以让MacBook Air像[iPhone一样自由操控](https://zh.wikipedia.org/wiki/iPhone "wikilink")。2018版本後使用了面積增大的Force Touch压感触摸板。
+4.  內部高度緊湊且一體成形的機身設計，包含機身本體與顯示螢幕的边框皆以镁铝合金製成。2018以後版本更是以業界首度100%以回收铝合金制成，蘋果稱在環保相關技術的新突破。
 
 ## 規格
 

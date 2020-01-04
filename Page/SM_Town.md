@@ -1,3 +1,6 @@
+> 本文内容由[SM Town](https://zh.wikipedia.org/wiki/SM_Town)转换而来。
+
+
 **SM Town**，[韓國最大娱乐經紀公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")假日合辑的计划名，亦是家族演唱會的名稱，包括当前SM娛樂旗下所有艺人。
 
 ## 音樂作品

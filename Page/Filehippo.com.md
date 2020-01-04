@@ -1,3 +1,6 @@
+> 本文内容由[Filehippo.com](https://zh.wikipedia.org/wiki/Filehippo.com)转换而来。
+
+
 **Filehippo.com**是一個網絡下載網站，直至2010年1月，Filehippo已有超過250個軟件。可用作下載[自由軟件及](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")（也有部分[共享軟件及免費版本的](https://zh.wikipedia.org/wiki/共享軟件 "wikilink")[商業軟件](https://zh.wikipedia.org/wiki/商業軟件 "wikilink")，可選擇可否顯示）。\[1\]它同時也包括FileHippo Update Checker，一個細小的軟件用作掃瞄已安裝的軟件中是否需要更新。\[2\]
 
 2009年6月，Filehippo被列進[Alexa Internet首](../Page/Alexa_Internet.md "wikilink")1000個最多人瀏覽的網站。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[Bouveault醛合成](https://zh.wikipedia.org/wiki/Bouveault醛合成)转换而来。
+
+
 **Bouveault醛合成**（布沃醛合成，Bouveault aldehyde synthesis）\[1\]\[2\]\[3\]
 
 伯[卤代烃通过](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")[一锅反应得到多一个碳的](https://zh.wikipedia.org/wiki/一锅反应 "wikilink")[醛](../Page/醛.md "wikilink")。\[4\]\[5\]

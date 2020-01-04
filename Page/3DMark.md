@@ -1,3 +1,6 @@
+> 本文内容由[3DMark](https://zh.wikipedia.org/wiki/3DMark)转换而来。
+
+
 **3DMark**是一個由[UL](https://zh.wikipedia.org/wiki/UL "wikilink")（前身MadOnion，后為Futuremark，2018年4月更名为UL）開發的智能设备性能评测軟件，用于评测设备的3D圖形渲染和[CPU的處理能力](https://zh.wikipedia.org/wiki/CPU "wikilink")。现除安装Windows系统电脑外，已针对Android和iOS发布了移动设备版本。
 
 ## 早期版本

@@ -1,3 +1,6 @@
+> 本文内容由[Hajos–Parrish–Eder–Sauer–Wiechert反应](https://zh.wikipedia.org/wiki/Hajos–Parrish–Eder–Sauer–Wiechert反应)转换而来。
+
+
 **Hajos–Parrish–Eder–Sauer–Wiechert反应**（Hajos–Parrish\[1\]\[2\]–Eder–Sauer–Wiechert\[3\] reaction）
 
 由[脯胺酸](https://zh.wikipedia.org/wiki/脯胺酸 "wikilink")[催化](../Page/催化.md "wikilink")的[不对称](../Page/不对称合成.md "wikilink")[羟醛反应](../Page/羟醛反应.md "wikilink")。此反应以其在[罗氏](../Page/罗氏.md "wikilink")（Hajos、Parrish）和[先灵公司](https://zh.wikipedia.org/wiki/先灵公司 "wikilink")（Eder、Sauer、Wiechert）的早期研究者的名字而命名。这是[有机催化](../Page/有机催化.md "wikilink")的早期例子，也是第一个实现的非金属催化的羟醛反应。 最早是在20世纪70年代由 Hajos 和 Parrish 发现，如下图所示：

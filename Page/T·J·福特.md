@@ -1,3 +1,6 @@
+> 本文内容由[T·J·福特](https://zh.wikipedia.org/wiki/T·J·福特)转换而来。
+
+
 [Tj_ford_zzz.jpg](https://zh.wikipedia.org/wiki/File:Tj_ford_zzz.jpg "fig:Tj_ford_zzz.jpg")
 
 **泰伦斯·杰罗德·福特**（，），昵称“T·J”，[美国](../Page/美国.md "wikilink")职业[篮球](../Page/篮球.md "wikilink")运动员。福特身高1米83，场上位置為[控球后卫](../Page/控球后卫.md "wikilink")。

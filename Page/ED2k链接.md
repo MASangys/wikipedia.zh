@@ -1,3 +1,6 @@
+> 本文内容由[ED2k链接](https://zh.wikipedia.org/wiki/ED2k链接)转换而来。
+
+
 **eD2k链接**（eD2k links (ed2k://) ）是一种超链接，用于指示在[eDonkey网络上存储的文件](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")。包括[eDonkey2000](https://zh.wikipedia.org/wiki/eDonkey2000 "wikilink")、[eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")、[MLDonkey](../Page/MLDonkey.md "wikilink")、[aMule等在内的许多使用了eDonkey文件共享协议的客户端软件](https://zh.wikipedia.org/wiki/aMule "wikilink")，都可以用eD2k链接来管理网络上的文件。
 
 浏览器可以识别eD2k链接，并递交到eMule、eDonkey2000或其他的eD2k软件中进行传输。eD2k链接是最早被引入P2P文件网络的链接之一。[Magnet链接现在也与eD](https://zh.wikipedia.org/wiki/Magnet链接 "wikilink")2k链接类似，但Magnet链接不仅限于[eD2k Hash](https://zh.wikipedia.org/wiki/#eD2k_Hash "wikilink")，而是可以使用其他的[Hash](https://zh.wikipedia.org/wiki/散列函数 "wikilink")，诸如[SHA或](https://zh.wikipedia.org/wiki/SHA_家族 "wikilink")[MD5](../Page/MD5.md "wikilink")等。

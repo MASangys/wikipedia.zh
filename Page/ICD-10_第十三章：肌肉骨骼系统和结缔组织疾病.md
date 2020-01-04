@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第十三章：肌肉骨骼系统和结缔组织疾病](https://zh.wikipedia.org/wiki/ICD-10_第十三章：肌肉骨骼系统和结缔组织疾病)转换而来。
+
+
 ## M00-M25 关节病
 
 M00-M25 [关节病](https://zh.wikipedia.org/wiki/关节病 "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[Jackhammer轉輪式自動霰彈槍](https://zh.wikipedia.org/wiki/Jackhammer轉輪式自動霰彈槍)转换而来。
+
+
 **Pancor Jackhammer**（，意為：電鑽）是一枝由[Pancor公司所設計的](https://zh.wikipedia.org/wiki/Pancor公司 "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[全自動](https://zh.wikipedia.org/wiki/自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（[戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")），發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。它是極少數的全自動霰彈槍和犢牛式霰彈槍之一。
 
 ## 歷史

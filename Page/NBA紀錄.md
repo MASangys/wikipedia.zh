@@ -2351,7 +2351,7 @@
 <td><p>主場對戰同組對手連勝紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/多倫多暴龍" title="wikilink">多倫多暴龍</a></p></td>
 <td><p>34連勝</p></td>
-<td><p>2015年12月13日—至今</p></td>
+<td><p>2015年12月13日—2019年12月25日</p></td>
 </tr>
 <tr class="even">
 <td><p>單季最差戰績紀錄</p></td>

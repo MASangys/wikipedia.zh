@@ -95,22 +95,12 @@ SSE2是[IA-32架構的延伸](https://zh.wikipedia.org/wiki/IA-32 "wikilink")。
 
 ## 參見
 
-<table>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li><a href="../Page/SSE.md" title="wikilink">SSE</a></li>
-<li><a href="../Page/SSE3.md" title="wikilink">SSE3</a></li>
-<li><a href="../Page/SSSE3.md" title="wikilink">SSSE3</a></li>
-<li><a href="../Page/SSE4.md" title="wikilink">SSE4</a></li>
-</ul></td>
-<td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/SIMD" title="wikilink">SIMD</a></li>
-<li><a href="../Page/3DNow!.md" title="wikilink">3DNow!</a>Professional</li>
-<li><a href="https://zh.wikipedia.org/wiki/x86指令列表" title="wikilink">x86指令列表</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+  - [SSE](../Page/SSE.md "wikilink")
+  - [SSE3](../Page/SSE3.md "wikilink")
+  - [SSSE3](../Page/SSSE3.md "wikilink")
+  - [SSE4](../Page/SSE4.md "wikilink")
+  - [SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")
+  - [3DNow\!](../Page/3DNow!.md "wikilink")
+  - [x86指令列表](https://zh.wikipedia.org/wiki/x86指令列表 "wikilink")
 
 [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")

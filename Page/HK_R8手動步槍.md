@@ -1,3 +1,6 @@
+> 本文内容由[HK R8手動步槍](https://zh.wikipedia.org/wiki/HK_R8手動步槍)转换而来。
+
+
 **HK R8**（）是一款由[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒-科赫](../Page/黑克勒&科赫.md "wikilink")（H\&K）在1995年以推出的現代化[突击步枪](../Page/突击步枪.md "wikilink")—[HK G36改造而成的](../Page/HK_G36突擊步槍.md "wikilink")[手動民用運動型](../Page/手動槍機.md "wikilink")[步枪](../Page/步枪.md "wikilink")。可發射的[.223 Remington或](../Page/.223_Remington.md "wikilink")[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且以10發[SL8的可拆卸式透明](../Page/HK_SL8半自動步槍.md "wikilink")[塑料](../Page/塑料.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")用作其供彈方式。
 
 HK R8和HK SL8相反，並非HK G36突擊步槍的半自動民用型版本，而是HK SL8的手動民用型版本。因此並無使用來自G36的[短行程活塞傳動型氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")、[斯通納式轉拴式槍栓等的系統](../Page/轉拴式槍栓.md "wikilink")。

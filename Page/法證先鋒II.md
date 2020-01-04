@@ -1814,12 +1814,8 @@ David Leung之顧客<br />
   - 此劇是[林文龍](../Page/林文龍.md "wikilink")的告別作。
   - 此劇是[歐陽震華](../Page/歐陽震華.md "wikilink")與[佘詩曼繼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")《[洗冤錄II](../Page/洗冤錄II.md "wikilink")》後再度合作。
   - 此劇的原裝版大結局為一小時（連廣告），但此劇首播版大結局被加長至一小時三十分鐘（連廣告）。
+  - 此劇開播首週（2008年5月19日－22日，第1-4集）的四集被安排於週末重播。5月24日（星期六）深夜重播第1-2集，5月25日（星期日）深夜重播第3-4集。5月26日播出的第5集或之後集數再沒有於週末深夜重播。
   - 該劇從2019年4月起於無綫翡翠台深宵時段重播，至4月30日播映第17集時就取得7天跨平台總收視9.7點，是該系列重播以來最高收視，亦是無綫深夜重播劇集的最高收視，成功打破了其他重播劇的收視紀錄\[1\]。
-
-## 爭議
-
-  - 有傳歐陽震華不滿所飾演的高彥博戲份銳減，因為被新加入的[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")所飾演的楊逸昇分薄戲份。
-  - 由於[鍾嘉欣需要拍攝劇集](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")《[珠光寶氣](https://zh.wikipedia.org/wiki/珠光寶氣_\(電視劇\) "wikilink")》及《[金石良緣](../Page/金石良緣.md "wikilink")》，因此，鍾嘉欣只可以於此劇作特別演出，其戲份則由本輯女主角佘詩曼所演繹，雖然佘詩曼的演技都得到不少觀眾稱讚，但網民仍然認為鍾嘉欣飾演的林汀汀與林文龍飾演的古澤琛合演的戲份太少\[2\]
 
 ## 參考
 
@@ -1846,4 +1842,3 @@ David Leung之顧客<br />
 [Category:2008年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2008年無綫電視劇集 "wikilink") [Category:法證先鋒系列](https://zh.wikipedia.org/wiki/Category:法證先鋒系列 "wikilink") [Category:2008年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2008年AOD電視劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
 
 1.
-2.  \[星島日報﹕網友論《法證II》唔想汀汀早死\]，2008年6月6日

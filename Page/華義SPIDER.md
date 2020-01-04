@@ -1,3 +1,6 @@
+> 本文内容由[華義SPIDER](https://zh.wikipedia.org/wiki/華義SPIDER)转换而来。
+
+
 **華義SPIDER**（Wayi SPIDER）曾為[台灣電子競技聯盟所屬的一支職業](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，也是元老創立的三隊之一，華義SPIDER的母企業是[華義國際](../Page/華義國際.md "wikilink")。華義SPIDER在2008年、2009年獲得總冠軍，而SF團隊則在國際比賽[SF世界盃](../Page/SF世界盃.md "wikilink")在2008年、2009年連續兩屆獲得冠軍。
 
 ## 歷史沿革

@@ -1,7 +1,7 @@
 > 本文内容由[Paint.NET](https://zh.wikipedia.org/wiki/Paint.NET)转换而来。
 
 
-**Paint.NET**是使用[.NET Framework開發](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，適用於[Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[點陣圖形編輯](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。Paint.NET最初是一個[華盛頓州立大學](../Page/華盛頓州立大學.md "wikilink")的學生專案，而Paint.NET則發展成支援[圖層](https://zh.wikipedia.org/wiki/圖層 "wikilink")、顏色渲染、透明度及擴充元件的[小畫家替代品](https://zh.wikipedia.org/wiki/小畫家 "wikilink")。而現在Paint.NET則已經被視為[Adobe Photoshop的免費替代品](../Page/Adobe_Photoshop.md "wikilink")。
+**Paint.NET**是使用[.NET Framework開發的一款適用於](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[Microsoft Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[图像編輯軟件](https://zh.wikipedia.org/wiki/图像編輯 "wikilink")。Paint.NET最初是一個[華盛頓州立大學](../Page/華盛頓州立大學.md "wikilink")的學生專案，而后發展成支援[圖層](https://zh.wikipedia.org/wiki/圖層 "wikilink")、顏色渲染、透明度及擴充元件的[小畫家替代品](https://zh.wikipedia.org/wiki/小畫家 "wikilink")。它現在已被視為[Adobe Photoshop的一个免費替代品](../Page/Adobe_Photoshop.md "wikilink")。
 
 ## 概要
 
@@ -15,7 +15,7 @@ Paint.NET原本是[華盛頓州立大學](../Page/華盛頓州立大學.md "wiki
 
 ### 發佈歷史
 
-更多资料：<http://www.getpaint.net/roadmap.html>
+更多资料：
 
 <table>
 <thead>
@@ -191,15 +191,20 @@ Paint.NET是為[Windows設計](https://zh.wikipedia.org/wiki/Windows "wikilink")
 
 ## 外部連結
 
-  - [Paint.NET](http://www.getpaint.net/)
+  -
   - [Rick Brewster's Blog](http://blog.getpaint.net/)
+
   - [Paint.NET Plugins](http://forums.getpaint.net/index.php?/forum/7-plugins-publishing-only/)
+
   - [.NET Rocks\! - Rick Brewster on Paint.NET (April 2007)](http://www.dotnetrocks.com/default.aspx?showNum=229)
+
   - [Interview: A Look Inside Paint.NET (February 2006)](http://www.betanews.com/article/Interview_A_Look_Inside_PaintNET/1141071978)
+
   - [The Sharp Design Philosophy Behind Paint.NET (April 2005)](http://www.devsource.com/article2/0,1759,1785684,00.asp)
+
   - [Video: Chris Sells interviews Rick Brewster, Tom Jackson, and Craig Taylor (August 2005)](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=045b673d-af5d-4c2c-983f-376b11f5d363#filelist)
 
-[Category:位圖編輯軟件](https://zh.wikipedia.org/wiki/Category:位圖編輯軟件 "wikilink") [Category:圖像軟件](https://zh.wikipedia.org/wiki/Category:圖像軟件 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink") [Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink")
+[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink") [Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink") [Category:2004年软件](https://zh.wikipedia.org/wiki/Category:2004年软件 "wikilink") [Category:C♯软件](https://zh.wikipedia.org/wiki/Category:C♯软件 "wikilink") [Category:位图编辑软件](https://zh.wikipedia.org/wiki/Category:位图编辑软件 "wikilink")
 
 1.
 2.

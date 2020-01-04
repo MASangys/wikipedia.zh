@@ -1,3 +1,6 @@
+> 本文内容由[Mixxx](https://zh.wikipedia.org/wiki/Mixxx)转换而来。
+
+
 **Mixxx**是[開放源碼的數位](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")[DJ軟件](https://zh.wikipedia.org/wiki/DJ "wikilink")，可以使用一台個人電腦將獨立的音樂混合在一起。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[J级潜艇](https://zh.wikipedia.org/wiki/J级潜艇)转换而来。
+
+
 **J级常规动力飞航导弹潜艇（苏俄代号：651级。[北约代号](https://zh.wikipedia.org/wiki/北约代号 "wikilink")：Juliett Class，另“茱莉叶级”、“朱莉叶级”）**是苏联研制的第一个独立级别的以巡航导弹为主武器的潜艇，J级由[W级潜艇改装型号发展而来](https://zh.wikipedia.org/wiki/W级潜艇 "wikilink")。最初计划建造35艘，实际建造16艘，全部J级潜艇于1992年以前除役。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Office Mobile](https://zh.wikipedia.org/wiki/Microsoft_Office_Mobile)转换而来。
+
+
 **Microsoft Office Mobile**是由[Microsoft为](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows 10 Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")等移动设备操作系统开发的一套[办公套件](https://zh.wikipedia.org/wiki/办公套件 "wikilink")。该套件由Word Mobile、Excel Mobile、PowerPoint Mobile、OneNote Mobile以及Outlook Mobile组成。它亦都与[桌面版本兼容](../Page/Microsoft_Office.md "wikilink")。在2000年4月随Pocket PC 2000操作系统首次发行时，Office Mobile被称为“Pocket Office”，在此之后此套件进行了数次更新。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[Windows Virtual PC](https://zh.wikipedia.org/wiki/Windows_Virtual_PC)转换而来。
+
+
 **Windows Virtual PC**是[Microsoft於](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows 7發表後發表的](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[虛擬機器](../Page/虛擬機器.md "wikilink")軟體，是[Microsoft Virtual PC的後續軟體](../Page/Microsoft_Virtual_PC.md "wikilink")。Windows Virtual PC主要是搭配安裝[Windows XP Mode使用](https://zh.wikipedia.org/wiki/Windows_XP_Mode "wikilink")（在Windows 7 專業版、旗艦版及企業版免費授權使用）。
 
 ## 特色

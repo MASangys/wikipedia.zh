@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚7210 Classic](https://zh.wikipedia.org/wiki/诺基亚7210_Classic)转换而来。
+
+
 **诺基亚 7210 Classic**（诺基亚 7210c，内部代号为RM-436）是[诺基亚](../Page/诺基亚.md "wikilink")于2008年7月发布的一款超薄直板[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")，是[摩登波普系列中的入门级机型](https://zh.wikipedia.org/wiki/摩登波普 "wikilink")。在欧美发行的同型手机是诺基亚 7210 Supernova。支持GSM 900/1800/1900。它拥有2百万像素摄像头，支持全速USB 2.0 ，[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")2.0，Flash Lite 3.0 和MIDP [Java](../Page/Java.md "wikilink") 2.1与额外的Java APIs。
 
 ## 软件

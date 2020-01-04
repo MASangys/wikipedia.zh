@@ -1,3 +1,6 @@
+> 本文内容由[PSO-1光學瞄準鏡](https://zh.wikipedia.org/wiki/PSO-1光學瞄準鏡)转换而来。
+
+
 [Tigr_pso_1_med.jpg](https://zh.wikipedia.org/wiki/File:Tigr_pso_1_med.jpg "fig:Tigr_pso_1_med.jpg") [51AirborneRegiment49_(cropped).jpg](https://zh.wikipedia.org/wiki/File:51AirborneRegiment49_\(cropped\).jpg "fig:51AirborneRegiment49_(cropped).jpg") [Pso-1onsvd.jpg](https://zh.wikipedia.org/wiki/File:Pso-1onsvd.jpg "fig:Pso-1onsvd.jpg")
 
 [Pso-1_grid.png](https://zh.wikipedia.org/wiki/File:Pso-1_grid.png "fig:Pso-1_grid.png") [PSO-1_and_PSO-1-1_Reticle_Scheme.png](https://zh.wikipedia.org/wiki/File:PSO-1_and_PSO-1-1_Reticle_Scheme.png "fig:PSO-1_and_PSO-1-1_Reticle_Scheme.png") [PSO-1_and_PGO-7_Reticle_Scheme.png](https://zh.wikipedia.org/wiki/File:PSO-1_and_PGO-7_Reticle_Scheme.png "fig:PSO-1_and_PGO-7_Reticle_Scheme.png")

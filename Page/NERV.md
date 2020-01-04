@@ -1,3 +1,6 @@
+> 本文内容由[NERV](https://zh.wikipedia.org/wiki/NERV)转换而来。
+
+
 **特务机关NERV**（通称**NERV**）是日本动漫《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》中虛構的联合国直属组织。NERV成立于2010年，前身是[联合国研究机构GEHIRN](https://zh.wikipedia.org/wiki/联合国 "wikilink")，其名称来源于[德语](../Page/德语.md "wikilink")“[神经](../Page/神经.md "wikilink")”，与其上级机关“[SEELE](https://zh.wikipedia.org/wiki/SEELE "wikilink")”（德语“[灵魂](../Page/灵魂.md "wikilink")”）相照应。NERV拥有[超越国家层面的](https://zh.wikipedia.org/wiki/超國家主義_\(國際關係\) "wikilink")[特权](https://zh.wikipedia.org/wiki/特权 "wikilink")，其成立目的是开发研究[EVA](https://zh.wikipedia.org/wiki/EVA_\(戰鬥機械人\) "wikilink")、对[使徒进行调查研究](../Page/使徒_\(新世纪福音战士\).md "wikilink")、歼灭使徒。\[1\]NERV的最高司令由[碇源堂担任](https://zh.wikipedia.org/wiki/碇源堂 "wikilink")，副司令是[冬月耕造](https://zh.wikipedia.org/wiki/新世紀福音戰士角色列表#冬月耕造 "wikilink")。
 
 ## 支部

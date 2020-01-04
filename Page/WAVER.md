@@ -1,3 +1,6 @@
+> 本文内容由[WAVER](https://zh.wikipedia.org/wiki/WAVER)转换而来。
+
+
 《**WAVER**》為2004年6月9日發售、[堂本剛](../Page/堂本剛.md "wikilink")的第2張個人單曲。和第一張單曲相同，整張作品的[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作曲由本人親自製作](https://zh.wikipedia.org/wiki/作曲 "wikilink")。普通版裡收錄了初回版未收錄的曲子「銀幕」，初回版則是收錄了普通版未收錄、1～3曲目的無聲版。
 
 以「堂本剛」名義發行的CD到2009年的單曲《[RAIN](https://zh.wikipedia.org/wiki/RAIN_\(堂本剛\) "wikilink")》為止有5年空白期。在這張作品之後發表的個人名義單曲則是有以「虎斑☆恐龍王」名義發行的《[染井吉野](https://zh.wikipedia.org/wiki/染井吉野 "wikilink")》。

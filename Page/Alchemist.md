@@ -1,3 +1,6 @@
+> 本文内容由[Alchemist](https://zh.wikipedia.org/wiki/Alchemist)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")一家從事開發角色商品及[電子遊戲的企劃](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、販售的企業，總部位於[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")（登記上位於[札幌市](../Page/札幌市.md "wikilink")[豐平區](../Page/豐平區.md "wikilink")），1991年成立，2016年4月1日宣布[破產](../Page/破產.md "wikilink")。
 
 ## 業務内容

@@ -1,3 +1,6 @@
+> 本文内容由[Megaupload](https://zh.wikipedia.org/wiki/Megaupload)转换而来。
+
+
 **Megaupload**曾是[美国](../Page/美国.md "wikilink")著名在线[网络硬盘](../Page/网络硬盘.md "wikilink")服务商，总部设于[香港](../Page/香港.md "wikilink")，能支持上传1GB大文件，保存时间为3个月。過去在華人地区（如[香港](../Page/香港.md "wikilink")与[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）有不少使用者。
 
 ## 历史

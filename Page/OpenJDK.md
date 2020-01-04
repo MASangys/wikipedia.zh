@@ -1,3 +1,6 @@
+> 本文内容由[OpenJDK](https://zh.wikipedia.org/wiki/OpenJDK)转换而来。
+
+
 **OpenJDK**原是[Sun Microsystems公司为Java平台构建的Java开发环境](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")（[JDK](../Page/JDK.md "wikilink")）的[开源版本](https://zh.wikipedia.org/wiki/开源 "wikilink")，完全自由，开放源码。Sun Microsystems公司在2006年的[JavaOne大会上称将对Java开放源代码](https://zh.wikipedia.org/wiki/JavaOne "wikilink")，于2009年4月15日正式发布OpenJDK。甲骨文在2010年收購Sun Microsystem之後接管了這個專案。
 
 ## 歷史

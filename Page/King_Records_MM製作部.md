@@ -1,3 +1,6 @@
+> 本文内容由[King Records MM製作部](https://zh.wikipedia.org/wiki/King_Records_MM製作部)转换而来。
+
+
 **King Records MM製作部**，正式名稱為「**第三創作本部MM製作部**」，是[日本](../Page/日本.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")[King Records旗下](https://zh.wikipedia.org/wiki/King_Records "wikilink")[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[聲優](../Page/聲優.md "wikilink")相關的音樂和影像製作部門。MM製作部由King Records唱片監製[三嶋章夫](../Page/三嶋章夫.md "wikilink")管理，跟同門的另一動畫、聲優相關部門——由King Records常務非執行董事[大月俊倫](../Page/大月俊倫.md "wikilink")管理的[Starchild](https://zh.wikipedia.org/wiki/Starchild "wikilink")——是兩個各自獨立的部門。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Kiss Me Kate](https://zh.wikipedia.org/wiki/Kiss_Me_Kate)转换而来。
+
+
 《**Kiss Me Kate**》是[徐子珊](../Page/徐子珊.md "wikilink")的首張音樂專輯，於2009年9月10日推出。全碟的歌曲都是以快歌為主，她亦是少有的新人以唱快歌為主；隨碟附送一本20頁的「Kate私影集」。
 
 ## 曲目

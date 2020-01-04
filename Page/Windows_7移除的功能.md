@@ -1,3 +1,6 @@
+> 本文内容由[Windows 7移除的功能](https://zh.wikipedia.org/wiki/Windows_7移除的功能)转换而来。
+
+
 [Windows 7加入了許多新功能](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，但是同時也有許多在[Windows Vista中的功能卻遭到移除或沒有改變](../Page/Windows_Vista.md "wikilink")。
 
 ## Windows介面

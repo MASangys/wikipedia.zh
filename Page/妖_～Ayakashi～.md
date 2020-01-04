@@ -1,3 +1,6 @@
+> 本文内容由[妖 ～Ayakashi～](https://zh.wikipedia.org/wiki/妖_～Ayakashi～)转换而来。
+
+
 《**妖 ～Ayakashi～**》為[堂本光一](../Page/堂本光一.md "wikilink")的第二張單曲（若包含以米壽司名義發行的《[No more](../Page/No_more.md "wikilink")》則為第三張）。
 
 ## 解說

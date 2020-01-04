@@ -1,3 +1,6 @@
+> 本文内容由[斯堪尼亞K94UB](https://zh.wikipedia.org/wiki/斯堪尼亞K94UB)转换而来。
+
+
 [Scania_K94UB.jpg](https://zh.wikipedia.org/wiki/File:Scania_K94UB.jpg "fig:Scania_K94UB.jpg")\]\] [KJ1502-2800-71.jpg](https://zh.wikipedia.org/wiki/File:KJ1502-2800-71.jpg "fig:KJ1502-2800-71.jpg")唯一一輛斯堪尼亞K94UB在退役前一日行駛罕有地行駛線\]\]
 
 **斯堪尼亞K94UB**（；又稱：****）是[瑞典](../Page/瑞典.md "wikilink")[斯堪尼亞開發的一款低地台](https://zh.wikipedia.org/wiki/斯堪尼亞 "wikilink")[巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")，是的城市巴士[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")，可供安裝單層或雙層巴士的車身，雙層巴士的版本只為[香港](../Page/香港.md "wikilink")[城巴](../Page/城巴.md "wikilink")製造了一輛\[1\]，城巴車隊編號為2800，於2001年投入服務，經歷近18年的應用後，於2019年7月3日從城巴車隊退役。

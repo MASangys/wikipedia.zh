@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM外傳 宇宙、閃光的盡頭…](https://zh.wikipedia.org/wiki/機動戰士GUNDAM外傳_宇宙、閃光的盡頭…)转换而来。
+
+
 是[GUNDAM遊戲系列作品中以遊戲形式推出高達外傳的第三作](../Page/GUNDAM系列作品.md "wikilink")，原本是以[PS2正傳遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《[機動戰士GUNDAM 宇宙相逢篇](../Page/機動戰士GUNDAM.md "wikilink")》的外傳故事，後來獨立分開發售的正式外傳故事。
 
 ## 故事背景

@@ -1,3 +1,6 @@
+> 本文内容由[Appel反应](https://zh.wikipedia.org/wiki/Appel反应)转换而来。
+
+
 **Appel反应**（Appel reaction）
 
 用[三苯基膦](../Page/三苯基膦.md "wikilink")和[四氯化碳](../Page/四氯化碳.md "wikilink")将[醇](../Page/醇.md "wikilink")转化为[氯代烃](https://zh.wikipedia.org/wiki/氯代烃 "wikilink")。\[1\]

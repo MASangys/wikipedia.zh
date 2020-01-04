@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM F90](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_F90)转换而来。
+
+
 《**機動戰士GUNDAM F90**》（機動戦士ガンダムF90）是[山口宏的](https://zh.wikipedia.org/wiki/山口宏 "wikilink")[GUNDAM漫畫系列作品](../Page/GUNDAM系列作品.md "wikilink") ，在1990年[萬代](../Page/萬代.md "wikilink")發售連串的鋼普拉模型的計劃，為計劃基礎發表的漫畫等作品。當中故事續作是《[機動戰士GUNDAMF91 Formula戰記 0122](https://zh.wikipedia.org/wiki/機動戰士GUNDAMF91_Formula戰記_0122 "wikilink")》。
 
 ## 故事背景

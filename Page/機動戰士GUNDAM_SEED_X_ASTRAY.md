@@ -3,13 +3,6 @@
 
 **機動戰士GUNDAM SEED X ASTRAY**是連載於月刊 Gundam Ace 的漫畫作品。本作是機動戰士GUNDAM SEED ASTRAY 的續篇，故事發生於動畫 [機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink") 第47話與第48話之間空白的2個月。主要講述本篇故事新登場的普雷亞·雷菲力與卡納得·帕爾斯的對決，而前作的羅·裘爾及叢雲劾亦以配角登場。
 
-  - **機動戰士GUNDAM SEED X ASTRAY**（漫畫）[鴇田洸一](../Page/時田洸一.md "wikilink")
-
-<!-- end list -->
-
-  -
-    於[GUNDAM ACE連載](../Page/GUNDAM_ACE.md "wikilink")。單行本全2冊。
-
 ## 登場人物
 
 ### 民間人士

@@ -1,3 +1,6 @@
+> 本文内容由[Fritsch–Buttenberg–Wiechell重排反应](https://zh.wikipedia.org/wiki/Fritsch–Buttenberg–Wiechell重排反应)转换而来。
+
+
 **Fritsch–Buttenberg–Wiechell重排反应**（Fritsch–Buttenberg–Wiechell rearrangement），以 Paul Ernst Moritz Fritsch (1859–1913), Wilhelm Paul Buttenberg, Heinrich G. Wiechell 的名字命名。
 
 1,1-二[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")-2-[溴代](https://zh.wikipedia.org/wiki/溴代 "wikilink")[烯烃](../Page/烯烃.md "wikilink")在[强碱](https://zh.wikipedia.org/wiki/强碱 "wikilink")（如[醇盐](../Page/醇盐.md "wikilink")）作用下[重排为](https://zh.wikipedia.org/wiki/重排 "wikilink")1,2-二芳基[炔](https://zh.wikipedia.org/wiki/炔 "wikilink")。\[1\]\[2\]\[3\] \[4\]

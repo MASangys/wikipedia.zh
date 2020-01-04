@@ -1,3 +1,6 @@
+> 本文内容由[Blaise酮合成](https://zh.wikipedia.org/wiki/Blaise酮合成)转换而来。
+
+
 **Blaise酮合成**（Blaise ketone synthesis）
 
 [酰氯](../Page/酰氯.md "wikilink")与[有机锌试剂作用得到](https://zh.wikipedia.org/wiki/有机锌试剂 "wikilink")[酮](../Page/酮.md "wikilink")类。\[1\]\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[Japp–Maitland缩合反应](https://zh.wikipedia.org/wiki/Japp–Maitland缩合反应)转换而来。
+
+
 **Japp–Maitland缩合反应**（Japp–Maitland condensation），由 Francis Robert Japp 和 William Maitland 在1904年首先报道。\[1\]
 
 一种[羟醛加成](https://zh.wikipedia.org/wiki/羟醛加成 "wikilink")-[缩合](https://zh.wikipedia.org/wiki/缩合反应 "wikilink")[串联反应](../Page/串联反应.md "wikilink")。

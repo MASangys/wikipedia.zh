@@ -1,3 +1,6 @@
+> 本文内容由[Spot Image](https://zh.wikipedia.org/wiki/Spot_Image)转换而来。
+
+
 **Spot Image**是一个由[法国航天局](https://zh.wikipedia.org/wiki/法国航天局 "wikilink")、国家地理研究所和航天制造商（Matra、Alcatel、SSC等等）创建于1982年的[股份有限公司](../Page/股份有限公司.md "wikilink")。是EADS Astrium的子公司（81%）。这个公司运营SPOT地球观测卫星卫星。
 
 ## 网络和合作伙伴

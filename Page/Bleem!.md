@@ -9,7 +9,7 @@
 
 bleem\!模擬器可使原裝PlayStation遊戲光碟在PC及Dreamcast執行，當中供Dreamcast使用的bleem\!被稱為“bleemcast\!”。模擬器於1999年3月首次推出，產品及後得以商業化。公司由David Herpolsheimer（主席）及 Randy Linden兩人創立及管理。\[1\]
 
-bleem\!在當時的同類型模擬器軟件中，是最先進的產品之一。遊戲在使用低階電腦的bleem\!環境下也可全速執行，透過使用組合語言編程下，容許bleem\!在最佳化狀態下運行\[2\]。與同期的產品比較，bleem\!更能應用PC的3D圖形硬件及濾波器，其執行遊戲的畫面質素有時甚至比PlayStation遊戲機本身還要好。但模擬器本身亦有問題存在，使部份遊戲無法以bleem\!進行。
+bleem\!在當時的同類型模擬器軟件中，是最先進的產品之一。遊戲在使用低階電腦的bleem\!環境下也可全速執行，透過使用[組合語言編程下](https://zh.wikipedia.org/wiki/組合語言 "wikilink")，容許bleem\!在最佳化狀態下運行\[2\]。與同期的產品比較，bleem\!更能應用PC的3D圖形硬件及濾波器，其執行遊戲的畫面質素有時甚至比PlayStation遊戲機本身還要好。但模擬器本身亦有問題存在，使部份遊戲無法以bleem\!進行。
 
 bleem\!另設Dreamcast版本，名為“bleemcast\!”，以供用家在Dreamcast上進行《[跑車浪漫旅2](https://zh.wikipedia.org/wiki/跑車浪漫旅2 "wikilink")》（GT2）、《[鐵拳3](https://zh.wikipedia.org/wiki/鐵拳3 "wikilink")》、《[潛龍諜影](https://zh.wikipedia.org/wiki/潛龍諜影 "wikilink")》（Metal Gear Soild）等當時的暢銷遊戲。公司原擬使其產品能支援全數PlayStation遊戲，但其後隨Sony對bleem\!作出起訴而終止。
 

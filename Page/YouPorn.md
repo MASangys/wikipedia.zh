@@ -1,3 +1,6 @@
+> 本文内容由[YouPorn](https://zh.wikipedia.org/wiki/YouPorn)转换而来。
+
+
 **YouPorn**是一个免费的[色情](../Page/色情.md "wikilink")[視訊分享網站](https://zh.wikipedia.org/wiki/視訊分享網站 "wikilink")，於2006年8月创立。它於2006年8月開始營運後，成為當年最熱門的免費色情網站，2007年11月被譽為網際網路上最大的免費色情網站\[1\]。
 
 ## 網站概念

@@ -1,3 +1,6 @@
+> 本文内容由[Northern lights](https://zh.wikipedia.org/wiki/Northern_lights)转换而来。
+
+
 《**Northern lights**》為2002年3月27日發售、[林原惠](../Page/林原惠.md "wikilink")的第29張單曲。
 
 由[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販賣（KICM-3027）。

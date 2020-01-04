@@ -1,3 +1,6 @@
+> 本文内容由[LE-7火箭发动机](https://zh.wikipedia.org/wiki/LE-7火箭发动机)转换而来。
+
+
 [LE-7_rocket_engine.jpg](https://zh.wikipedia.org/wiki/File:LE-7_rocket_engine.jpg "fig:LE-7_rocket_engine.jpg")
 
 **LE-7火箭发动机**及其改进型LE-7A是[日本](../Page/日本.md "wikilink")为[H2火箭系列制造的液態氢氧发动机](https://zh.wikipedia.org/wiki/H2火箭 "wikilink")。是第一种第一级主引擎。设计研发工作都在日本国内进行，由日本國家太空開發機構(NASDA)，航空宇宙技術研究所(NAL)，[三菱重工和](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")[石川岛播磨重工业公司合力完成](https://zh.wikipedia.org/wiki/IHI公司 "wikilink")。NASDA和NAL已经合并为[JAXA](https://zh.wikipedia.org/wiki/JAXA "wikilink")。设计主要由三菱重工完成，石川岛播磨提供涡轮泵。因为该发动机也称为“三菱重工 LE-7(A)”。

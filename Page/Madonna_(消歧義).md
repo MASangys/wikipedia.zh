@@ -1,3 +1,6 @@
+> 本文内容由[Madonna \(消歧義\)](https://zh.wikipedia.org/wiki/Madonna_\(消歧義\))转换而来。
+
+
 ****（源自——“我們的貴夫人（）”）在世界上廣泛用於：
 
   - ，[聖母瑪利亞](https://zh.wikipedia.org/wiki/聖母瑪利亞 "wikilink")——耶穌基督的母親，伊斯蘭教與基督教的宗教人物——的指定稱謂之一。

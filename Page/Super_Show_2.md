@@ -1,3 +1,6 @@
+> 本文内容由[Super Show 2](https://zh.wikipedia.org/wiki/Super_Show_2)转换而来。
+
+
 [Super Junior第二次亚洲巡回演唱会](../Page/Super_Junior.md "wikilink")「**Super Junior The 2nd Asia Tour - "Super Show 2"**」是[韩國男子组合](https://zh.wikipedia.org/wiki/韩國 "wikilink")在2009－2010年的亚洲巡回现场演唱会，宣传他们的第三张录音室专辑《[Sorry, Sorry](../Page/Sorry,_Sorry.md "wikilink")》。\[1\] 巡回演唱会以[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的三场演唱会开始](https://zh.wikipedia.org/wiki/首尔 "wikilink")，且在亚洲10个城市進行16場巡回演唱会。\[2\]
 
 ## 历史

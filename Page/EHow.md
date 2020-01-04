@@ -1,3 +1,6 @@
+> 本文内容由[EHow](https://zh.wikipedia.org/wiki/EHow)转换而来。
+
+
 **eHow**是一个在线的[知识资源](https://zh.wikipedia.org/wiki/知识库 "wikilink")，它目前已拥有超过337,000篇关于“这事怎么做”的[文章以及相关视频](https://zh.wikipedia.org/wiki/文章\(出版\) "wikilink")，提供细致到每一个步骤的操作指南。eHow上的作者有专家学者，也有业余人士，内容涵盖了诸多方面各种类型的主题，并且被分门别类有层次的编排好。
 
 通过其自有的社会网络平台，以及用于“[用户生成内容](../Page/用户生成内容.md "wikilink")”的工具，eHow维护着一个[网络社区](../Page/网络社区.md "wikilink")。在这里，用户可以发布“[怎么做](https://zh.wikipedia.org/wiki/怎么做 "wikilink")”的相关文章、图片、视频剪辑，而eHow则从流量和广告来赚取利润。eHow的用户通过建立个人简介、创建朋友列表、在论坛评论文章以及相关互动，相互熟悉形成关系网络并且进行协作。

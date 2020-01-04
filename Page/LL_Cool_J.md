@@ -1,3 +1,6 @@
+> 本文内容由[LL Cool J](https://zh.wikipedia.org/wiki/LL_Cool_J)转换而来。
+
+
 **詹姆斯·托德·史密斯**（，），美国[饶舌歌手](https://zh.wikipedia.org/wiki/饶舌歌手 "wikilink")、演员，\[1\]他更为人所熟知的名字是**LL Cool J**。这个名字是“**L**adies **L**ove **Cool** **J**ames”（意为：女人都爱酷詹姆斯）的缩写。\[2\]他最被人熟知的作品包括，情歌《I Need Love》、《Around the Way Girl》、《Hey Lover》，以及先锋[嘻哈](../Page/嘻哈.md "wikilink")作品《I Can't Live Without My Radio》、《I'm Bad》、《The Boomin' System》、《Mama Said Knock You Out》。他还出演了数部电影。在同一时代的嘻哈巨星中，LL Cool J是为数不多的几位能够经历20年依然唱片热卖的歌手，最近的单曲包括《4, 3, 2, 1》、《Headsprung》和《Luv U Better》。到目前为止，他共发行了12张专辑以及一张打榜曲合辑。他的最近一张专辑是2008年发售的《Exit 13》，这也是他和[Def Jam唱片公司签约的最后一张专辑](../Page/Def_Jam唱片公司.md "wikilink")。LL Cool J现居住于纽约[曼哈塞特](https://zh.wikipedia.org/wiki/曼哈塞特 "wikilink")，已婚的他育有4名子女。\[3\]
 
 ## 早年

@@ -1,3 +1,6 @@
+> 本文内容由[Jess程序设计语言](https://zh.wikipedia.org/wiki/Jess程序设计语言)转换而来。
+
+
 **Jess**是Java平台上的，它是的超集，由[桑迪亚国家实验室](../Page/桑迪亚国家实验室.md "wikilink")的开发。它的第一个版本写于1995年晚期。
 
 Jess提供适合自动化[专家系统](../Page/专家系统.md "wikilink")的[逻辑编程](https://zh.wikipedia.org/wiki/逻辑编程 "wikilink")，它常被称作“专家系统外壳”。近年来，[智能代理系统也在相似的能力上发展起来](https://zh.wikipedia.org/wiki/智能代理 "wikilink")。

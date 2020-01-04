@@ -1,3 +1,6 @@
+> 本文内容由[Qt公司](https://zh.wikipedia.org/wiki/Qt公司)转换而来。
+
+
 **Qt发展框架**（Qt Development Frameworks）是[挪威](../Page/挪威.md "wikilink")的一家电脑软件开发公司，前身是[Trolltech](https://zh.wikipedia.org/wiki/Trolltech "wikilink")（公司中文名是「奇趣科技」）\[1\]。
 
 ## 产品

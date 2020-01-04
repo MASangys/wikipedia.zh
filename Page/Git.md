@@ -268,7 +268,7 @@ git是用C语言开发的，以追求最高的性能。git自动完成[垃圾回
 
 git存储每个新创建的object作为一个单独文件。为了压缩存储空间占用， packs操作把很多文件（启发式类似名字的文件往往具有类似内容）使用[差分压缩入一个文件中](https://zh.wikipedia.org/wiki/差分压缩 "wikilink")（packfile），并创建一个对应的索引文件，指明object在packfile中的偏移值。新创建的对象仍然作为单独文件存在。repacks操作非常费时间，git会在空闲时间自动做此操作。也可用命令`git gc`来直接启动repack。packfile与索引文件都用SHA-1作为[校验和并作为文件名](https://zh.wikipedia.org/wiki/校验和 "wikilink")。`git fsck`命令做校验和的完整性验证。
 
-Git服务器典型的TCP 监听端口为9418。
+Git服务器典型的TCP监听端口为9418。
 
 ## 庫目录
 

@@ -255,12 +255,12 @@ Meldac時期三張專輯BOX
 
 ## 外部链接
 
-  - [THE BLUE HEARTS樂團簡介（中文）](http://blog.roodo.com/hideforever/archives/5956517.html)
-  - [THE BLUE HEARTS的影響一（中文）](http://blog.roodo.com/hideforever/archives/6918597.html)
-  - [THE BLUE HEARTS的影響二（中文）](http://blog.roodo.com/hideforever/archives/6891655.html)
-  - [THE BLUE HEARTS的影響三（中文）](http://blog.roodo.com/hideforever/archives/6131761.html)
-  - [THE BLUE HEARTS的影響四（中文）](http://blog.roodo.com/hideforever/archives/6141207.html)
-  - [THE BLUE HEARTS的影響五（中文）](http://blog.roodo.com/hideforever/archives/6159707.html)
+  - [THE BLUE HEARTS樂團簡介（中文）](https://web.archive.org/web/20080922003658/http://blog.roodo.com/hideforever/archives/5956517.html)
+  - [THE BLUE HEARTS的影響一（中文）](https://web.archive.org/web/20080926005325/http://blog.roodo.com/hideforever/archives/6918597.html)
+  - [THE BLUE HEARTS的影響二（中文）](https://web.archive.org/web/20080926005317/http://blog.roodo.com/hideforever/archives/6891655.html)
+  - [THE BLUE HEARTS的影響三（中文）](https://web.archive.org/web/20080926005302/http://blog.roodo.com/hideforever/archives/6131761.html)
+  - [THE BLUE HEARTS的影響四（中文）](https://web.archive.org/web/20080926005307/http://blog.roodo.com/hideforever/archives/6141207.html)
+  - [THE BLUE HEARTS的影響五（中文）](https://web.archive.org/web/20080926005312/http://blog.roodo.com/hideforever/archives/6159707.html)
   - [Meldac網站（日文）](http://www.tri-m.co.jp/artists/blue_hearts/blue_hearts.html)
   - [EAST WEST JAPAN網站（日文）](http://www.wmg.jp/bluehearts/)
   - [THE BLUE HEARTS傳說（日文）](http://www.ii-park.net/~bluhea/bluehearts.html)

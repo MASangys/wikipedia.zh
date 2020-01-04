@@ -144,11 +144,11 @@ IOCCC是由[藍登·克特·諾爾](https://zh.wikipedia.org/wiki/藍登·克特
 
 ## 外部連結
 
-  - [IOCCC網站](http://www.ioccc.org)
+  - [IOCCC網站](https://web.archive.org/web/20140528122619/http://www.ioccc.org/)
 
 [Category:C语言](https://zh.wikipedia.org/wiki/Category:C语言 "wikilink") [Category:幽默與諷刺獎項](https://zh.wikipedia.org/wiki/Category:幽默與諷刺獎項 "wikilink") [Category:程序设计竞赛](https://zh.wikipedia.org/wiki/Category:程序设计竞赛 "wikilink")
 
-1.  [国际C语言混乱代码大赛年度網頁](http://www0.us.ioccc.org/years.html)
+1.
 2.  [1](http://www.ioccc.org/faq.html)
 3.  [IOCCC 2004 - Best Calculated Risk](http://www.ioccc.org/2004/burley.hint)
 4.  [IOCCC 2004 - Best abuse of the Periodic table](http://www.ioccc.org/2004/jdalbec.hint)
@@ -157,6 +157,6 @@ IOCCC是由[藍登·克特·諾爾](https://zh.wikipedia.org/wiki/藍登·克特
 7.
 8.
 9.
-10. [5th International Obfuscated C Code Contest, 1988 - westley.c](http://www0.us.ioccc.org/years.html#1988)
+10.
 11. 使用gcc情況下，以下面命令行進行編譯：gcc -traditional-cpp -o r r.c或者gcc -E r.c | sed 's/- -/--/g' \> r2.c ; gcc -o r2 r2.c（原始碼檔案是r.c）
 12. [IOCCC Flight Simulator](http://www.aerojockey.com/software/ioccc/index.html)

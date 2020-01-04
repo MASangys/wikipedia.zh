@@ -15,17 +15,17 @@ OpenCV项目最早由英特尔公司于1999年启动，致力于CPU密集型的�
 >
 > <!-- end list -->
 >
->   - 通过提供一个不需要开源或免费的软件许可，促进商业应用软件的开发。
+>   - 透過提供不需要开源或免费的软件许可，促进商业应用软件的开发。
 >
 > <!-- end list -->
 >
->   - OpenCV现在也集成了对[CUDA](../Page/CUDA.md "wikilink")的支持.
+>   - OpenCV现在也集成了对[CUDA](../Page/CUDA.md "wikilink")的支援.
 
-OpenCV的第一个[预览版本于](../Page/軟件版本週期.md "wikilink")2000年在[IEEE Conference on Computer Vision and Pattern Recognition公开](https://zh.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition "wikilink")，并且后续提供了五个[测试版本](https://zh.wikipedia.org/wiki/测试版本 "wikilink")。1.0版本于2006年发布。
+OpenCV的第一个[预览版本于](../Page/軟件版本週期.md "wikilink")2000年在[IEEE Conference on Computer Vision and Pattern Recognition公开](https://zh.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition "wikilink")，並且陸續提供了五個[測試版本](https://zh.wikipedia.org/wiki/測試版本 "wikilink")。1.0版本於2006年發布。
 
-OpenCV的第二个主要版本是2009年10月的OpenCV 2.0。该版本的主要更新包括[C++](../Page/C++.md "wikilink")接口，更容易、更类型安全的模式，新的函数，以及对现有实现的优化（特别是多核心方面）。现在每6个月就会有一个官方版本\[1\]，并由一个商业公司赞助的独立小组进行开发。
+OpenCV的第二个主要版本是2009年10月的OpenCV 2.0。该版本的主要更新包括[C++](../Page/C++.md "wikilink")接口，更容易、更类型安全的模式，新的函式，以及对现有实现的优化（特别是多核心方面）。现在每6个月就会有一个官方版本\[1\]，并由一个商业公司赞助的独立小组进行开发。
 
-在2012年8月，OpenCV的支持由一个非盈利性组织（OpenCV.org）来提供，并保留了一个开发者网站\[2\]和用户网站。\[3\]
+在2012年8月，OpenCV的營運由一个非營利組織（OpenCV.org）来提供，并保留了一個开发者网站\[2\]和用户网站。\[3\]
 
 ## 应用领域
 
@@ -43,7 +43,7 @@ OpenCV可用于解决如下领域的问题：
 
 ## 编程语言
 
-OpenCV用[C++](../Page/C++.md "wikilink")语言编写，它的主要接口也是C++语言，但是依然保留了大量的[C语言接口](https://zh.wikipedia.org/wiki/C语言 "wikilink")。该库也有大量的[Python](../Page/Python.md "wikilink"), [Java](../Page/Java.md "wikilink") and [MATLAB](../Page/MATLAB.md "wikilink")/[OCTAVE](../Page/GNU_Octave.md "wikilink") (版本2.5)的接口。这些语言的API接口函数可以通过在线文档获得。\[4\]现在也提供对于[C\#](https://zh.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink"), [Ch](https://zh.wikipedia.org/wiki/Ch_\(computer_programming\) "wikilink"),\[5\] [Ruby](../Page/Ruby.md "wikilink")的支持。
+OpenCV用[C++](../Page/C++.md "wikilink")语言编写，它的主要接口也是C++语言，但是依然保留了大量的[C语言接口](https://zh.wikipedia.org/wiki/C语言 "wikilink")。该库也有大量的[Python](../Page/Python.md "wikilink"), [Java](../Page/Java.md "wikilink") and [MATLAB](../Page/MATLAB.md "wikilink")/[OCTAVE](../Page/GNU_Octave.md "wikilink") (版本2.5)的接口。这些语言的API接口函数可以透過在线文档取得。\[4\]现在也提供对于[C\#](https://zh.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink"), [Ch](https://zh.wikipedia.org/wiki/Ch_\(computer_programming\) "wikilink"),\[5\] [Ruby](../Page/Ruby.md "wikilink")的支持。
 
 所有新的开发和算法都是用C++接口。一个使用[CUDA](../Page/CUDA.md "wikilink")的[GPU接口也于](../Page/圖形處理器.md "wikilink")2010年9月开始实现.\[6\]
 

@@ -1,3 +1,6 @@
+> 本文内容由[EDonkey2000](https://zh.wikipedia.org/wiki/EDonkey2000)转换而来。
+
+
 ****（又称****，可缩写为****，中文一般称**电驴**）是[MetaMachine公司开发的一个可](https://zh.wikipedia.org/wiki/MetaMachine公司 "wikilink")[跨平台运行于](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[Linux](../Page/Linux.md "wikilink")等[操作系统](../Page/操作系统.md "wikilink")的[闭源](https://zh.wikipedia.org/wiki/闭源软件 "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")，可连接[eDonkey网络和](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[Overnet网络](https://zh.wikipedia.org/wiki/Overnet "wikilink")。
 
 2005年9月28日，在遭到美国唱片业协会的[侵权控告并败诉后](https://zh.wikipedia.org/wiki/侵权 "wikilink")，MetaMachine公司关闭了eDonkey2000官方网站，之后又停止了eDonkey2000软件的开发。但是eDonkey2000软件的主要P2P网络，同时也是MetaMachine公司为eDonkey2000原创研究出的网络[eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")（即eD2k网络、电驴网络），至今仍被广泛使用，可连接该网络的知名P2P软件有[eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")、[aMule](https://zh.wikipedia.org/wiki/aMule "wikilink")、[MLDonkey](../Page/MLDonkey.md "wikilink")、[Lphant](../Page/Lphant.md "wikilink")、[Shareaza](../Page/Shareaza.md "wikilink")等。其中eMule及其修改版用户占了超过90%，是现在使用最广泛的基于eDonkey网络的P2P文件共享软件。

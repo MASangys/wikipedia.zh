@@ -1,7 +1,7 @@
 > 本文内容由[Astro国际华裔小姐竞选](https://zh.wikipedia.org/wiki/Astro国际华裔小姐竞选)转换而来。
 
 
-《**Astro国际华裔小姐竞选**》，是[马来西亚](../Page/马来西亚.md "wikilink")[Astro华丽台举办的](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")。首届1998年冠军是[吴天瑜](https://zh.wikipedia.org/wiki/吴天瑜 "wikilink")，现任冠军是[彭嘉伊](https://zh.wikipedia.org/wiki/彭嘉伊 "wikilink")(2018年Astro国际华裔小姐)。由於选美合约有规定，每届[冠军会代表](https://zh.wikipedia.org/wiki/冠军 "wikilink")[马来西亚](../Page/马来西亚.md "wikilink")参加[TVB举办的](https://zh.wikipedia.org/wiki/TVB "wikilink")[国际中华小姐竞选](https://zh.wikipedia.org/wiki/国际中华小姐竞选 "wikilink")。\[1\]
+《**Astro国际华裔小姐竞选**》，是[马来西亚](../Page/马来西亚.md "wikilink")[Astro华丽台举办的](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")。首届1998年冠军是[吴天瑜](https://zh.wikipedia.org/wiki/吴天瑜 "wikilink")，现任冠军是[张简宁](https://zh.wikipedia.org/wiki/张简宁 "wikilink")(2019年Astro国际华裔小姐)。由於选美合约有规定，每届[冠军会代表](https://zh.wikipedia.org/wiki/冠军 "wikilink")[马来西亚](../Page/马来西亚.md "wikilink")参加[TVB举办的](https://zh.wikipedia.org/wiki/TVB "wikilink")[国际中华小姐竞选](https://zh.wikipedia.org/wiki/国际中华小姐竞选 "wikilink")。\[1\]
 
 ## 历史
 
@@ -301,7 +301,7 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 <td><p>-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鍾素敏" title="wikilink">鍾素敏</a></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>-</p></td>
 <td><p>殿军：<a href="https://zh.wikipedia.org/wiki/颜韵芝" title="wikilink">颜韵芝</a> 第5名：<a href="https://zh.wikipedia.org/wiki/林淑裕" title="wikilink">林淑裕</a></p>
 <p>全民女神: <a href="https://zh.wikipedia.org/wiki/李星仪" title="wikilink">李星仪</a></p></td>
 </tr>
@@ -314,7 +314,7 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 <td><p>-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/程爱玲" title="wikilink">程爱玲</a></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>-</p></td>
 <td><p>殿軍：<a href="https://zh.wikipedia.org/wiki/苏凯璇" title="wikilink">苏凯璇</a> 全民女神: <a href="../Page/林宣妤.md" title="wikilink">林宣妤</a></p></td>
 </tr>
 <tr class="odd">
@@ -340,10 +340,22 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 <td><p>-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/彭嘉伊" title="wikilink">彭嘉伊</a></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>-</p></td>
 <td><p>人气女神: <a href="https://zh.wikipedia.org/wiki/彭嘉伊" title="wikilink">彭嘉伊</a></p></td>
 </tr>
 <tr class="odd">
+<td><p><strong>2019年</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/张简宁" title="wikilink">张简宁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廖贝仪" title="wikilink">廖贝仪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈丽璇" title="wikilink">陈丽璇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈丽璇" title="wikilink">陈丽璇</a></p></td>
+<td><p>-</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廖贝仪" title="wikilink">廖贝仪</a></p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>人气女神: <a href="https://zh.wikipedia.org/wiki/方歆儿" title="wikilink">方歆儿</a></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

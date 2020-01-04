@@ -1,3 +1,6 @@
+> 本文内容由[SKE48](https://zh.wikipedia.org/wiki/SKE48)转换而来。
+
+
 [AKS](../Page/AKS.md "wikilink")（2011年11月1日－2019年2月28日）{{→}}Zest（2019年3月1日－） | 音樂類型 = [日本流行音樂](../Page/日本流行音樂.md "wikilink") | 官方網站 = <http://www.ske48.co.jp/> | 現任成員 = （請參照[成員](https://zh.wikipedia.org/wiki/#成員 "wikilink")） | 過往成員 = （請參照[前成員](https://zh.wikipedia.org/wiki/#前成員 "wikilink")） | 相關團體 = [AKB48](../Page/AKB48.md "wikilink")
 [SDN48](../Page/SDN48.md "wikilink")
 [NMB48](../Page/NMB48.md "wikilink")
@@ -925,7 +928,7 @@ SKE48最年長</p></td>
 <td><p>平野百菜</p></td>
 <td></td>
 <td></td>
-<td><p>SKE48最年少</p></td>
+<td></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -935,6 +938,107 @@ SKE48最年長</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>青木莉樺</p></td>
+<td></td>
+<td></td>
+<td><p>10期</p></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>石塚美月</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>五十嵐早香</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>伊藤實希<br />
+（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>加藤結</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>木内俐椛子</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>鬼頭未来</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>澤田奏音</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>杉山歩南</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>西井美櫻<br />
+（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>林美澪</p></td>
+<td></td>
+<td></td>
+<td><p>SKE48暨AKB48集團最年少</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -3623,6 +3727,14 @@ Team S中西优香、佐藤實繪子、Team KII古川爱李、Team E小林亚实
 <td><p>Team E野野垣美希畢業</p></td>
 <td><p>-1</p></td>
 <td><p>64</p></td>
+<td><p>47</p></td>
+<td><p>14</p></td>
+</tr>
+<tr class="even">
+<td><p>12月21日</p></td>
+<td><p>公布第10期研究生成員</p></td>
+<td><p>+11</p></td>
+<td><p>75</p></td>
 <td><p>47</p></td>
 <td><p>14</p></td>
 </tr>

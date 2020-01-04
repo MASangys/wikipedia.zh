@@ -1,3 +1,6 @@
+> 本文内容由[Intel Core i9](https://zh.wikipedia.org/wiki/Intel_Core_i9)转换而来。
+
+
 **Core i9**（中文：**酷睿i9**）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[英特爾公司研發的一款](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[處理器產品](https://zh.wikipedia.org/wiki/處理器 "wikilink")，是[Intel Core i7的衍生高階版本](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")。首款以**i9**命名的處理器於2017年5月發布。
 
 ## 历史
@@ -386,10 +389,10 @@
 
 ## 相關條目
 
-  - Intel Core i 系列產品
-      - [Intel Core i3](../Page/Intel_Core_i3處理器列表.md "wikilink")
-      - [Intel Core i5](../Page/Intel_Core_i5處理器列表.md "wikilink")
-      - [Intel Core i7](../Page/Intel_Core_i7處理器列表.md "wikilink")
+  - [Intel Core系列產品](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")
+      - [Intel Core i3](../Page/Intel_Core_i3.md "wikilink")
+      - [Intel Core i5](../Page/Intel_Core_i5.md "wikilink")
+      - [Intel Core i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")
       - **Intel Core i9**
 
 ## 外部連結

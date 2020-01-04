@@ -1,3 +1,6 @@
+> 本文内容由[Dötz反应](https://zh.wikipedia.org/wiki/Dötz反应)转换而来。
+
+
 **Dötz反应**（Dötz reaction），又称**Wulff-Dötz反应**、**Dotz反应**
 
 α-[烷氧基](https://zh.wikipedia.org/wiki/烷氧基 "wikilink")[亚苄基](https://zh.wikipedia.org/wiki/亚苄基 "wikilink")（或[亚烯丙基](https://zh.wikipedia.org/wiki/亚烯丙基 "wikilink")）五[羰基](https://zh.wikipedia.org/wiki/羰基配合物 "wikilink")[铬](../Page/铬.md "wikilink")[卡宾配合物](https://zh.wikipedia.org/wiki/卡宾配合物 "wikilink")（[Fischer卡宾](https://zh.wikipedia.org/wiki/Fischer卡宾 "wikilink")）与[炔烃](../Page/炔烃.md "wikilink")反应，生成 Cr(CO)<sub>3</sub>-[配位的](https://zh.wikipedia.org/wiki/配位 "wikilink")[酚](../Page/酚.md "wikilink")类。\[1\]\[2\]\[3\]

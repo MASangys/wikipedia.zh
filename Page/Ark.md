@@ -1,3 +1,6 @@
+> 本文内容由[Ark](https://zh.wikipedia.org/wiki/Ark)转换而来。
+
+
 **Ark**是一個[KDE](../Page/KDE.md "wikilink")的壓縮工具，包含在*kdeutils*軟體包中。
 
 ## 功能

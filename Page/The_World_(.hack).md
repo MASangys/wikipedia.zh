@@ -1,3 +1,6 @@
+> 本文内容由[The World \(.hack\)](https://zh.wikipedia.org/wiki/The_World_\(.hack\))转换而来。
+
+
 **The World**—是舞台[.hack中的](https://zh.wikipedia.org/wiki/.hack "wikilink")[架空](https://zh.wikipedia.org/wiki/架空世界 "wikilink")[網絡遊戲](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")。是架空的作業系統「Altimit OS」的遊戲。 由[Cyber Connect Corporation](https://zh.wikipedia.org/wiki/Cyber_Connect_Corporation "wikilink")（後稱「CC社」）所發售的[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。是「Pluto Kiss（後述）」發生後第一款網絡遊戲。使用頭戴式顯視器(FMD)和控制器就可以進入**The World**遊玩。
 
 ## 概要

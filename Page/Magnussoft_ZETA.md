@@ -1,3 +1,6 @@
+> 本文内容由[Magnussoft ZETA](https://zh.wikipedia.org/wiki/Magnussoft_ZETA)转换而来。
+
+
 **magnussoft ZETA**（先前为[yellowTAB ZETA](https://zh.wikipedia.org/wiki/yellowTAB_ZETA "wikilink")）是由[德国](../Page/德国.md "wikilink")[yellowTAB公司基于](https://zh.wikipedia.org/wiki/yellowTAB "wikilink")[Be公司开发的](https://zh.wikipedia.org/wiki/Be公司 "wikilink")[BeOS](../Page/BeOS.md "wikilink")而研发的[操作系统](../Page/操作系统.md "wikilink")。由于[yellowTAB晚些时候](https://zh.wikipedia.org/wiki/yellowTAB "wikilink")[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")，ZETA被一个不知名的独立团队接管，后被[magnussoft收购](https://zh.wikipedia.org/wiki/magnussoft "wikilink")。在2007年2月28日，ZETA的最新版为1.5。2007年3月28日，magnussoft宣布，由于销售情况远低于公司预期，在3月16日该公司已停止开发ZETA。几天后，该公司同时停止分发ZETA以回击该操作系统中包含盗版BeOS代码的传言。
 
 ## 研发

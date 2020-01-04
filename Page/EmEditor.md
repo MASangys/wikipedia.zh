@@ -1,3 +1,6 @@
+> 本文内容由[EmEditor](https://zh.wikipedia.org/wiki/EmEditor)转换而来。
+
+
 **EmEditor**是江村軟體公司（Emurasoft，坐落于[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華盛頓州](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")\[1\]）所開發的一款在[Windows平台上運行的](https://zh.wikipedia.org/wiki/Windows "wikilink")[文字編輯程式](https://zh.wikipedia.org/wiki/文字編輯程式 "wikilink")。EmEditor以運作輕巧、敏捷而又功能強大、豐富著稱而得到許多用戶的好評。Windows內建的[記事本](../Page/記事本.md "wikilink")程式由於功能太過單薄，所以有不少高级用戶直接以EmEditor等第三方文字編輯程式取代。
 
 EmEditor的發行最早始於1997年，迄今仍在持續發展中。自16.6版起，大幅提高了「移除新行」，「全部取代」，「合併 CSV」，「移除換行符號」以及「插入換行符號」等功能操作的速度\[2\]\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[EMule MorphXT Mod](https://zh.wikipedia.org/wiki/EMule_MorphXT_Mod)转换而来。
+
+
 **eMule MorphXT Mod**，简称**MorphXT**、**Morph**或**MXT**，是基于官方[eMule开发的一款](https://zh.wikipedia.org/wiki/eMule "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU [GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 2003年1月23日开始开发的MorphXT是eMule的第一个Mod。它融合了[España](https://zh.wikipedia.org/wiki/eMule_Espana_Mod "wikilink")、[EastShare等Mods的功能](https://zh.wikipedia.org/wiki/eMule_EastShare_Mod "wikilink")。基于MorphXT的Mod有[MagicAngel](https://zh.wikipedia.org/wiki/eMule_MagicAngel_Mod "wikilink")、[StulleMule](https://zh.wikipedia.org/wiki/eMule_StulleMule_Mod "wikilink")、EastShare等。

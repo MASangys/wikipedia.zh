@@ -1,3 +1,6 @@
+> 本文内容由[Ivanov反应](https://zh.wikipedia.org/wiki/Ivanov反应)转换而来。
+
+
 **Ivanov反应**（Ivanov reaction），又称**Iwanow反应**（Iwanow reaction），以发现此反应的保加利亚化学家 Dimitar Ivanov Popov 的名字命名。
 
 [芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[乙酸](../Page/乙酸.md "wikilink")与[格氏试剂](../Page/格氏试剂.md "wikilink")作用产生[烯二醇二镁盐](https://zh.wikipedia.org/wiki/烯二醇 "wikilink")（Ivanov试剂），后者再与[亲电试剂](https://zh.wikipedia.org/wiki/亲电试剂 "wikilink")（如[羰基化合物](https://zh.wikipedia.org/wiki/羰基化合物 "wikilink")、[卤代烃](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")\[1\] 或[异氰酸酯](../Page/异氰酸酯.md "wikilink")）反应。\[2\]\[3\]\[4\]\[5\]

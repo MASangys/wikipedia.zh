@@ -1,3 +1,6 @@
+> 本文内容由[Aurora \(引擎\)](https://zh.wikipedia.org/wiki/Aurora_\(引擎\))转换而来。
+
+
 **Aurora** (前稱**Eeebuntu**)是一個[上网本](../Page/上网本.md "wikilink")專用的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，基於[Ubuntu](../Page/Ubuntu.md "wikilink")，主要給[Eee PC使用](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")。
 
 Eeebuntu 主要分為3個版本:

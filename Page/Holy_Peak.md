@@ -1,3 +1,6 @@
+> 本文内容由[Holy Peak](https://zh.wikipedia.org/wiki/Holy_Peak)转换而来。
+
+
 **[有限公司](../Page/有限公司.md "wikilink") Holy Peak**（****）是[日本](../Page/日本.md "wikilink")的[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")。主要經辦歌手或[聲優](../Page/聲優.md "wikilink")的管理事務。
 
 ## 概要

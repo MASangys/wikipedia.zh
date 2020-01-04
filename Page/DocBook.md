@@ -1,3 +1,6 @@
+> 本文内容由[DocBook](https://zh.wikipedia.org/wiki/DocBook)转换而来。
+
+
 **DocBook**是一种用于技术文件的语义[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")。它本来是設計用來编写有关计算机硬件和软件的技术文件，但它可以用于任何其它类型的文件。
 
 作为一个语义语言， DocBook让使用者能[建立自定義的樣式文件，使其能將能內容轉為不同格式](https://zh.wikipedia.org/wiki/呈現與內容分離 "wikilink")，例如[HTML](../Page/HTML.md "wikilink")、[XHTML](../Page/XHTML.md "wikilink")、[EPUB](../Page/EPUB.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[手冊頁](https://zh.wikipedia.org/wiki/手冊頁 "wikilink")、、[Microsoft 的HTML Help檔案](https://zh.wikipedia.org/wiki/Microsoft已編譯的HTML_Help "wikilink")……等等，不需要使用者對原文件做任何修改。換句話說，一份DocBook格式的文件能簡單的移植成其他格式。它解決了寫一次使用XML標籤格式化的問題。

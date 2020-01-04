@@ -1,3 +1,6 @@
+> 本文内容由[All We Know Is Falling](https://zh.wikipedia.org/wiki/All_We_Know_Is_Falling)转换而来。
+
+
 ***All We Know Is Falling*** 是[美国](../Page/美国.md "wikilink")[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[帕拉莫尔发行的首张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，本专辑于2005年7月26日发行。2009年10月20日被认证为金唱片。\[1\]
 
 ## 曲目列表

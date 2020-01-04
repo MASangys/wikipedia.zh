@@ -1,3 +1,6 @@
+> 本文内容由[Akdal MKA 1919半自動霰彈槍](https://zh.wikipedia.org/wiki/Akdal_MKA_1919半自動霰彈槍)转换而来。
+
+
 **Akdal MKA 1919**是一種由[土耳其](../Page/土耳其.md "wikilink")Akdal Arms製造和生產的[氣動式半自動](https://zh.wikipedia.org/wiki/氣動式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，其外型是仿自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[M16A2自動步槍](../Page/M16突擊步槍.md "wikilink")，並以打入本土的執法部門或民用市場為目標。有別於一般的霰彈槍，它經過[人體工學設計](https://zh.wikipedia.org/wiki/人體工學 "wikilink")，槍身是採用現代的塑料和聚合物做成，因此相當輕巧。
 
 ## 設計

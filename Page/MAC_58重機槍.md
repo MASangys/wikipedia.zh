@@ -1,3 +1,6 @@
+> 本文内容由[MAC 58重機槍](https://zh.wikipedia.org/wiki/MAC_58重機槍)转换而来。
+
+
 **MAC-58**是一挺由[法国自](https://zh.wikipedia.org/wiki/法国 "wikilink")[二战過後](../Page/第二次世界大战.md "wikilink")，由圣-艾蒂安兵工廠（，其中一間法國政府轄下的一些國營武器工廠，簡稱：MAS）研製的一挺[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，是[AA-52的](../Page/AA-52通用機槍.md "wikilink")[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）大[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
 有數挺MAC-58的原型槍進行了測試、在法軍內部服役和保持繼續生產，但由於大量的美國[白朗寧M2重機槍](../Page/白朗寧M2重機槍.md "wikilink")早已經在法軍內部服役，因此它沒有[量產](../Page/大量生產.md "wikilink")。

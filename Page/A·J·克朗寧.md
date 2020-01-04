@@ -1,3 +1,6 @@
+> 本文内容由[A·J·克朗寧](https://zh.wikipedia.org/wiki/A·J·克朗寧)转换而来。
+
+
 **A·J·克朗寧**，阿奇博爾德·約瑟夫·克朗寧（，），[蘇格蘭](../Page/蘇格蘭.md "wikilink")[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，世界著名文學《[堡壘](https://zh.wikipedia.org/wiki/堡壘 "wikilink")》（*The Citadel*）的作者，1919年畢業於[格拉斯哥大學](../Page/格拉斯哥大學.md "wikilink")。
 
 ## 家庭

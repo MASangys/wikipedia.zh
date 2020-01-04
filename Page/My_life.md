@@ -1,3 +1,6 @@
+> 本文内容由[My life](https://zh.wikipedia.org/wiki/My_life)转换而来。
+
+
 **my life**（我的人生）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")发行的第二张[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，这是一个传达alan自身生活的作品，本张专辑作词阵容豪华，由[矢井田瞳](../Page/矢井田瞳.md "wikilink")、[古内东子](https://zh.wikipedia.org/wiki/古内东子 "wikilink")、[御徒町凧等人与制作人](https://zh.wikipedia.org/wiki/御徒町凧 "wikilink")[菊池一仁](../Page/菊池一仁.md "wikilink")共同完成，此外还收入了alan亲自日文作词和钢琴作曲的歌曲。\[1\] 。
 
 ## 概况

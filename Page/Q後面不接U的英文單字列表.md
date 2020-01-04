@@ -1,3 +1,6 @@
+> 本文内容由[Q後面不接U的英文單字列表](https://zh.wikipedia.org/wiki/Q後面不接U的英文單字列表)转换而来。
+
+
 [QWERTY_keyboard.jpg](https://zh.wikipedia.org/wiki/File:QWERTY_keyboard.jpg "fig:QWERTY_keyboard.jpg")是少數幾個土生土長的當代英文字中，**q**的後面沒有接上**u**的單字，來自標準[鍵盤配置中的頭六個字母](https://zh.wikipedia.org/wiki/鍵盤配置 "wikilink")。\]\]
 
 在[英語中](https://zh.wikipedia.org/wiki/英語 "wikilink")，字母**[Q](../Page/Q.md "wikilink")**的後面經常會接上字母**[U](https://zh.wikipedia.org/wiki/U "wikilink")**，但仍有些单词例外。这个列表中的71個單字中有67個是名詞，大多數被認為是外來語\[1\]，比如[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")、[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[希伯來語](https://zh.wikipedia.org/wiki/希伯來語 "wikilink")、[因纽特语](https://zh.wikipedia.org/wiki/因纽特语 "wikilink")、[烏爾都語等不使用](https://zh.wikipedia.org/wiki/烏爾都語 "wikilink")[英文字母](../Page/英文字母.md "wikilink")的語言。屬於非外來語的現代英文單字只有**qiana**、**qwerty**和**tranq**。

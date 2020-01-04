@@ -1,3 +1,6 @@
+> 本文内容由[PN结](https://zh.wikipedia.org/wiki/PN结)转换而来。
+
+
 一塊半導體晶體一側[摻雜成P型半導體](../Page/掺杂_\(半导体\).md "wikilink")，另一側摻雜成N型半導體，中間二者相連的接觸面稱為**PN结**（{{ lang-en|**p-n junction**}}）。PN结是[電子技術中許多元件](https://zh.wikipedia.org/wiki/電子技術 "wikilink")，例如半導體[二極管](../Page/二極管.md "wikilink")、[雙極性晶體管的物质基础](https://zh.wikipedia.org/wiki/雙極性晶體管 "wikilink")。
 
 ## 历史

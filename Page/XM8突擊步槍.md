@@ -1,3 +1,6 @@
+> 本文内容由[XM8突擊步槍](https://zh.wikipedia.org/wiki/XM8突擊步槍)转换而来。
+
+
 **XM8**是一套由[美軍於](https://zh.wikipedia.org/wiki/美軍 "wikilink")1990年代末到2000年初開展的輕型突擊步槍系統。該槍由[德國槍械製造商](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒-科赫](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")（Heckler & Koch，簡稱：H\&K）所設計，它保留了部份[HK G36突擊步槍的設計和內部結構](../Page/HK_G36突擊步槍.md "wikilink")，原先是（Objective Individual Combat Weapon Program，簡稱：OICW）的步槍部份。然而由於OICW在性能和重量上都無法達標，所以該項目最終被取消了，並分裂成XM8和[XM25反防禦目標應對系統](../Page/XM25反防禦目標應對系統.md "wikilink")（XM25 CDTE）兩件獨立的武器 。儘管外界一直對XM8寄予厚望，並認為該槍將是美軍未來大量採用的單兵制式兵器。然而，美軍在2005年4月宣布暫停XM8計劃，並在同年10月正式全面取消XM8的開發。不過，該武器目前已被[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[海軍特種作戰部隊和一些](https://zh.wikipedia.org/wiki/海軍特種作戰部隊 "wikilink")[私人軍事承包商](../Page/私人軍事服務公司.md "wikilink")\[1\] 所採用。
 
 ## 歷史

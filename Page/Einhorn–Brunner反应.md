@@ -1,3 +1,6 @@
+> 本文内容由[Einhorn–Brunner反应](https://zh.wikipedia.org/wiki/Einhorn–Brunner反应)转换而来。
+
+
 **Einhorn–Brunner反应**（Einhorn–Brunner reaction）\[1\]\[2\]\[3\]\[4\]\[5\]
 
 [酰亚胺与](https://zh.wikipedia.org/wiki/酰亚胺 "wikilink")[肼类反应得到两种互为](https://zh.wikipedia.org/wiki/肼 "wikilink")[异构体的](https://zh.wikipedia.org/wiki/异构体 "wikilink")[1,2,4-三唑](https://zh.wikipedia.org/wiki/1,2,4-三唑 "wikilink")[衍生物](https://zh.wikipedia.org/wiki/衍生物 "wikilink")。

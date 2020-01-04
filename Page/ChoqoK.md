@@ -1,3 +1,6 @@
+> 本文内容由[ChoqoK](https://zh.wikipedia.org/wiki/ChoqoK)转换而来。
+
+
 **Choqok** (發音, )是一個自由、開放源碼的微網誌客戶端。用於如 [Twitter](../Page/Twitter.md "wikilink") 和[Identica](https://zh.wikipedia.org/wiki/Identica "wikilink") 的社會網絡網站，支持系統托盤，使用系統通知來通知用戶有關更新和配置。
 
 ## 名稱

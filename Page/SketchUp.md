@@ -92,7 +92,7 @@ SketchUp最初由位于[科罗拉多州](https://zh.wikipedia.org/wiki/科罗拉
 
 <!-- end list -->
 
-  - [SketchUp,Lumion可视化虚拟现实设计论坛](http://www.SketchUpBBS.com)
+  - [SketchUp,Lumion可视化虚拟现实设计论坛](https://web.archive.org/web/20190515052949/http://sketchupbbs.com/)
   - [SketchUp吧 国内专业SketchUp设计网站](http://www.SketchUpBAR.com)
   - [国内Sketchup模型库](http://www.skpdisk.com)
 

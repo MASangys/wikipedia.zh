@@ -185,7 +185,7 @@ namespace Connection
   - [Microsoft SQL Server Express documentation](https://msdn.microsoft.com/library/bb545450.aspx)
   - [SQL Server 2012 Comparison of features by edition](http://msdn.microsoft.com/en-us/library/cc645993%28v=SQL.110%29.aspx)
   - [SQL Server Express WebLog](http://blogs.msdn.com/sqlexpress/)
-  - [MSDN上的支援群組](https://social.msdn.microsoft.com/Forums/en-US/home?forum=sqlexpress)
+  - [MSDN上的支援群組](https://web.archive.org/web/20190709013033/https://social.msdn.microsoft.com/Forums/en-US/home?forum=sqlexpress)
   - [Hardware and Software Requirements for Installing SQL Server 2012](https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.110%29.aspx)
   - \[<https://msdn.microsoft.com/en-us/library/ms143506(v=sql.120>).aspx Hardware and Software Requirements for Installing SQL Server 2014\]
 

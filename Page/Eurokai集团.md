@@ -1,3 +1,6 @@
+> 本文内容由[Eurokai集团](https://zh.wikipedia.org/wiki/Eurokai集团)转换而来。
+
+
 **Eurokai两合股份公司**（）是1865年成立的Eckelmann家族企业的一部分，是一家在[汉堡](../Page/汉堡.md "wikilink")证券交易所上市的大型私营企业。1999年，Eurokai与具有国有企业性质的[BLG物流](../Page/BLG物流.md "wikilink")集团合作成立了[集装箱码头物流集团](https://zh.wikipedia.org/wiki/集装箱码头 "wikilink")[Eurogate](../Page/Eurogate.md "wikilink")，业务范围不仅覆盖德国汉堡港、[不来梅哈芬](../Page/不来梅哈芬.md "wikilink")港，还通过姊妹企业Contship Italia延伸至[大西洋](../Page/大西洋.md "wikilink")及[地中海](../Page/地中海.md "wikilink")主要港口。
 
 ## 历史

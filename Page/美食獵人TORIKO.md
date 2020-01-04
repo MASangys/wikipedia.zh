@@ -2009,7 +2009,7 @@ IGO發表、引進「美食ID」制度。
   -
     捕獲等級60000
 
-## 發行
+## 出版書籍
 
 ### 漫畫
 
@@ -2017,9 +2017,9 @@ IGO發表、引進「美食ID」制度。
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p>版本</p></th>
-<th><p>版本</p></th>
-<th><p>版本</p></th>
+<th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+<th><p><a href="../Page/文化傳信.md" title="wikilink">文化傳信</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -2386,36 +2386,200 @@ ISBN 978-4-08-880885-7</p></td>
 
 ### 小說
 
-  - 日文
-      - トリコ　フグ鯨をつかまえろ！（2011年10月5日發售）
-      - トリコ　BBコーンを手にいれろ！（2012年2月3日發售）
-      - トリコ　げきとつ！王者ガララワニ！！（2012年5月2日發售）
-      - トリコ 最強のデザート\! 虹の実\!\!（2012年8月3日發售）
-      - トリコ 超デカイぞう\! リーガルマンモス（2012年12月5日發售）
-      - トリコ はじける炭酸\! メロウコーラはどこにある\!? （2013年5月2日發售）
-      - トリコ シャボンフルーツをもとめて\! 食林寺へGO\! \!（2014年1月4日發售）
-      - 劇場版 トリコ 開幕\! グルメアドベンチャー\!\!（2011年3月22日發售）
-      - 劇場版 トリコ 美食神の超食宝（2013年7月29日發售）
+  - 著：村山 功／原作：島袋 光年／繪：東映動畫
 
-### 其它
+<table>
+<thead>
+<tr class="header">
+<th><p>序數</p></th>
+<th><p>標題</p></th>
+<th><p>集英社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td></td>
+<td><p>2011年10月5日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td></td>
+<td><p>2012年2月3日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>{{lang|ja|げきとつ！ 王者ガララワニ</p></td>
+<td><p>}}</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>{{lang|ja|最強のデザート！ 虹の実</p></td>
+<td><p>}}</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td></td>
+<td><p>2012年12月5日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td></td>
+<td><p>2013年5月2日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>{{lang|ja|シャボンフルーツをもとめて！ 食林寺へGO</p></td>
+<td><p>}}</p></td>
+</tr>
+</tbody>
+</table>
 
-  - 日文 グルメ学園
-      - グルメ学園トリコ 1（2012年4月4日發售）
-      - グルメ学園トリコ 2（2012年11月2日發售）
-      - グルメ学園トリコ 3（2013年2月4日發售）
-      - グルメ学園トリコ 4（2013年8月2日發售）
-      - グルメ学園トリコ 5（2014年3月4日發售）
-      - グルメ学園トリコ 6（2014年9月4日發售）
-      - グルメ学園トリコ 7（2015年7月3日發售）
-      - グルメ学園トリコ 8（2016年12月2日發售）
-      - グルメ学園トリコ 9（2016年12月31日發售）
-  - 日文
-      - トリコ外伝 島袋光年短編集（2009年10月2日發售）
-      - トリコ グルメハンティングブック（2011年11月4日發售）
-      - トリコ ミニ複製原稿BOOK\! \! （2013年8月2日發售）
-  - 中文
-      - 美食獵人TORIKO外傳 島袋光年短篇集（2011年4月14日發售）
-      - 美食獵人TORIKO美食狩獵集（2012年8月14日發售）
+  - 劇場版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>序數</p></th>
+<th><p>標題</p></th>
+<th><p>集英社</p></th>
+<th><p>著者</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>{{lang|ja|劇場版 トリコ 開幕！グルメアドベンチャー</p></td>
+<td><p>}}</p></td>
+<td><p>2011年3月22日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td></td>
+<td><p>2013年7月29日</p></td>
+<td><p>ISBN 978-4-08-703297-0</p></td>
+</tr>
+</tbody>
+</table>
+
+### 衍生作品
+
+  - 水元 昭嗣《》（JUMP COMICS）全9卷
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2012年4月4日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2012年11月2日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2013年2月4日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2013年8月2日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2014年3月4日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2014年9月4日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2015年7月3日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2016年12月2日</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2016年12月31日</p></td>
+</tr>
+</tbody>
+</table>
+
+### 相關書籍
+
+  - 美食獵人TORIKO外傳 島袋光年短篇集（）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+<th><p>東立出版社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>全</p></td>
+<td><p>2009年10月2日</p></td>
+<td><p>ISBN 978-4-08-874763-7</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 美食獵人TORIKO美食狩獵集（）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+<th><p>東立出版社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>全</p></td>
+<td><p>2011年11月4日</p></td>
+<td><p>ISBN 978-4-08-870306-0</p></td>
+</tr>
+</tbody>
+</table>
+
+  - トリコ ミニ複製原稿BOOK\!\!
+      - 2013年8月2日發售、ISBN 978-4-08-870880-5
 
 ## OVA動畫
 

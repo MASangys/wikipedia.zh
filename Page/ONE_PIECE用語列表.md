@@ -2024,82 +2024,86 @@ Q彈鎮<br />
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="../Page/哥爾·D·羅傑.md" title="wikilink">哥爾·D·羅傑</a></p></td>
+<td><p>「羅傑海賊團」船長</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/傑克_(One_Piece).md" title="wikilink">傑克</a></p></td>
 <td><p>新世界「四皇」<br />
 「紅髮海賊團」船長</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#席爾巴斯·雷利" title="wikilink">席爾巴斯·雷利</a></p></td>
 <td><p>原「羅傑海賊團」副船長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/波雅·漢考克.md" title="wikilink">波雅·漢考克</a></p></td>
 <td><p>「九蛇海賊團」船長<br />
 <a href="../Page/亞馬遜百合_(ONE_PIECE).md" title="wikilink">亞馬遜百合皇帝</a><br />
 原世界政府王下七武海</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
 <td><p>「草帽海賊團」船長</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/白鬍子海賊團#艾德華·紐蓋特" title="wikilink">艾德華·紐蓋特</a></p></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/艾德華·紐蓋特" title="wikilink">艾德華·紐蓋特</a></p></td>
 <td><p>新世界「四皇」<br />
 「白鬍子海賊團」船長</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/白鬍子海賊團#波特卡斯·D·艾斯" title="wikilink">波特卡斯·D·艾斯</a></p></td>
 <td><p>原「黑桃海賊團」船長<br />
 「白鬍子海賊團」第二隊隊長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#元帥" title="wikilink">戰國</a></p></td>
 <td><p>前海軍元帥，現海軍督察官</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#青椒" title="wikilink">青椒</a></p></td>
 <td><p>「八寶水軍」第12代棟樑</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/唐吉訶德·多佛朗明哥.md" title="wikilink">唐吉訶德·多佛朗明哥</a></p></td>
 <td><p>「唐吉訶德家族」少主<br />
 前<a href="../Page/多雷斯羅薩.md" title="wikilink">多雷斯羅薩</a>國王<br />
 原世界政府王下七武海</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/夏洛特·莉莉.md" title="wikilink">夏洛特·莉莉</a></p></td>
 <td><p>新世界「四皇」<br />
 「BIG MOM海賊團」船長<br />
 托特蘭女王</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/夏洛特·卡塔克利.md" title="wikilink">夏洛特·卡塔克利</a></p></td>
 <td><p>「BIG MOM海賊團」甜點三將星<br />
 托特蘭麵粉大臣</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/尤斯塔斯·基德" title="wikilink">尤斯塔斯·基德</a></p></td>
 <td><p>「基德海賊團」船長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/和之國#光月御田" title="wikilink">光月御田</a></p></td>
 <td><p>和之國九里大名</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#納格利" title="wikilink">納格利</a>（動畫原創）</p></td>
 <td><p>「納格利海賊團」船長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_STAMPEDE#道格拉斯·巴雷特" title="wikilink">道格拉斯·巴雷特</a></p></td>
 <td><p>羅傑海賊團成員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#海道" title="wikilink">海道</a></p></td>
 <td><p>新世界「四皇」<br />
 「百獸海賊團」船長<br />
 </p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 </tr>
@@ -2390,7 +2394,7 @@ Q彈鎮<br />
 
 是[世界政府對犯罪者](https://zh.wikipedia.org/wiki/世界政府_\(ONE_PIECE\) "wikilink")（例如[海賊](../Page/ONE_PIECE海賊列表.md "wikilink")）所進行通緝的賞金。
 
-[青雉曾提到](../Page/庫山.md "wikilink")，懸賞金額的多寡並不只是代表被懸賞之人有多強悍，同時也代表著那個人對政府造成的「危險度」或「威脅度」有多高。[吉貝爾](../Page/吉貝爾.md "wikilink")曾提到，懸賞金額一旦超過3億，則在一般的狀況下上漲的速度也就會跟著變慢，因此賞金比較不容易上漲。若海賊成為[王下七武海](../Page/王下七武海.md "wikilink")，本人及手下懸賞金額會暫時終止，僅保留舊紀錄，若稱號取消則懸賞金會恢復或增加；目前王下七武海制度已被世界政府廢止，全員及其手下恢復懸賞被圍捕。
+[青雉曾提到](../Page/庫山.md "wikilink")，懸賞金額的多寡並不只是代表被懸賞之人有多強悍，同時也代表著那個人對政府造成的「危險度」或「威脅度」有多高。「海俠」[吉貝爾](../Page/吉貝爾.md "wikilink")曾提到，懸賞金額一旦超過3億，則在一般的狀況下上漲的速度也就會跟著變慢，因此賞金比較不容易上漲。若海賊成為[王下七武海](../Page/王下七武海.md "wikilink")，本人及手下懸賞金額會暫時終止，僅保留舊紀錄，若稱號取消則懸賞金會恢復或增加；目前王下七武海制度已被世界政府廢止，全員及其手下恢復懸賞被圍捕。
 
 懸賞單上通常寫著「**DEAD OR ALIVE**（生死不論）」，不過因為世界政府希望對目標進行公開處刑好增加威信的緣故，所以在被懸賞者死亡的情況下，得到的賞金會減少3成。此外，[香吉士曾是](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")「**ONLY ALIVE**（必需活捉）」的懸賞者。百獸海賊團的招牌上將[QUEEN、JACK以及BIG](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#百獸海賊團 "wikilink") MOM海賊團將星[夏洛特·卡塔克利](../Page/夏洛特·卡塔克利.md "wikilink")的懸賞單則有**REWARD**(獎勵)的字眼，目前原因不明。「海賊王」哥爾·D·羅傑為海賊史上懸賞金額最高的海賊。
 
@@ -2433,14 +2437,14 @@ Q彈鎮<br />
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/白鬍子海賊團#白鬍子" title="wikilink">「白鬍子」艾德華·紐蓋特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾德華·紐蓋特" title="wikilink">「白鬍子」艾德華·紐蓋特</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#洛克斯海賊團" title="wikilink">洛克斯海賊團</a></s>（已解散）<br />
 <em>船員</em><br />
 →<a href="../Page/白鬍子海賊團.md" title="wikilink">白鬍子海賊團</a><br />
 <em>船長</em></p></td>
 <td><p>50億4,600萬<br />
 （已故）</p></td>
-<td><p>震震果實</p></td>
+<td><p><s>震震果實</s>（死後被黑鬍子給奪走）</p></td>
 <td><p>前任四皇</p></td>
 </tr>
 <tr class="odd">
@@ -2495,7 +2499,7 @@ Q彈鎮<br />
 <em>船長</em></p></td>
 <td><p>15億</p></td>
 <td><p>橡膠果實</p></td>
-<td><p>本作主角，兩年前超新星、第五位海上皇帝</p></td>
+<td><p>本作主角，兩年前超新星、第5位海上皇帝</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -2505,7 +2509,7 @@ Q彈鎮<br />
 <td><p>13億2,000萬<br />
 （REWARD）</p></td>
 <td><p>龍龍果實（腕龍型態）</p></td>
-<td><p>三大災害之疫災</p></td>
+<td><p>3大災害之疫災</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -2515,7 +2519,7 @@ Q彈鎮<br />
 <td><p>10億5,700萬<br />
 （REWARD）</p></td>
 <td><p>糯糯果實</p></td>
-<td><p>三將星之首、夏洛特家族次子</p></td>
+<td><p>3將星之首、夏洛特家族次子</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -2525,7 +2529,7 @@ Q彈鎮<br />
 <td><p>10億<br />
 （REWARD）</p></td>
 <td><p>象象果實（長毛象型態）</p></td>
-<td><p>三大災害之旱災、龍膽石斑魚人</p></td>
+<td><p>3大災害之旱禍、龍膽石斑魚人</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
@@ -2543,7 +2547,7 @@ Q彈鎮<br />
 <em>「甜點三將星」餅乾大臣</em></p></td>
 <td><p>8億6,000萬</p></td>
 <td><p>餅乾果實</p></td>
-<td><p>夏洛特家族第十子</p></td>
+<td><p>夏洛特家族第10子</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -2560,8 +2564,8 @@ Q彈鎮<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#革命軍" title="wikilink">革命軍</a><br />
 <em>參謀總長</em></p></td>
 <td><p>6億200萬</p></td>
-<td><p>燒燒果實</p></td>
-<td><p>革命軍第二把交椅</p></td>
+<td><p>火焰果實</p></td>
+<td><p>革命軍第2把交椅，蒙其·D·魯夫之義兄</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -2581,7 +2585,7 @@ Q彈鎮<br />
 <em>第二隊隊長</em></p></td>
 <td><p>5億5,000萬<br />
 （已故）</p></td>
-<td><p>燒燒果實</p></td>
+<td><p><s>火焰果實</s></p></td>
 <td><p>「海賊王」哥爾·D·羅傑的遺孤</p></td>
 </tr>
 <tr class="odd">
@@ -2602,7 +2606,7 @@ Q彈鎮<br />
 <em>第12代棟樑（已退隱）</em></p></td>
 <td><p>5億4,200萬</p></td>
 <td><p>無</p></td>
-<td><p>與羅傑、白鬍子同一世代的海賊，30年前被卡普打凹頭</p></td>
+<td><p>與羅傑、白鬍子同一世代的傳說級海賊</p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
@@ -2621,7 +2625,7 @@ Q彈鎮<br />
 <td><p>無</p></td>
 <td><p>4億8,000萬</p></td>
 <td><p>未知</p></td>
-<td><p>末任王下七武海</p></td>
+<td><p>前任王下七武海</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
@@ -2656,9 +2660,9 @@ Q彈鎮<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/佐烏#佩特羅" title="wikilink">佩特羅</a></p></td>
 <td><p><s>諾克斯海賊團</s>（已滅）<br />
 <em>船長</em></p></td>
-<td><p>3億8,200萬</p></td>
+<td><p>3億8,200萬（已故）</p></td>
 <td><p>無</p></td>
-<td><p>純毛族</p></td>
+<td><p>純毛族，於蛋糕島事件中使用炸藥自爆而亡</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
@@ -2671,6 +2675,16 @@ Q彈鎮<br />
 <td><p>長手族、兩年前超新星</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#卡波涅·培基" title="wikilink">「流氓」卡波涅·培基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#火戰車海賊團" title="wikilink">火戰車海賊團</a><br />
+（曾隸屬<a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a>）<br />
+<em>船長</em></p></td>
+<td><p>堅城果實</p></td>
+<td><p>兩年前超新星</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>25</p></td>
 <td><p><a href="../Page/唐吉訶德·多佛朗明哥.md" title="wikilink">「天夜叉」<br />
 唐吉訶德·多佛朗明哥</a></p></td>
@@ -2678,9 +2692,9 @@ Q彈鎮<br />
 <em>船長</em></p></td>
 <td><p>3億4,000萬</p></td>
 <td><p>線線果實</p></td>
-<td><p>原<a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海家族首領</a>、前任王下七武海、前<a href="../Page/多雷斯羅薩.md" title="wikilink">多雷斯羅薩</a>國王、原<a href="../Page/天龍人.md" title="wikilink">天龍人</a></p></td>
+<td><p>原<a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海家族首領</a>、前任王下七武海、前<a href="../Page/多雷斯羅薩.md" title="wikilink">多雷斯羅薩</a>國王、原<a href="../Page/天龍人.md" title="wikilink">天龍人</a>，已被關押至推進城內</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>26</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#卡文迪許" title="wikilink">「海賊貴公子」卡文迪許</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#俊美海賊團" title="wikilink">俊美海賊團</a><br />
@@ -2688,9 +2702,9 @@ Q彈鎮<br />
 <em>船長</em></p></td>
 <td><p>3億3,000萬</p></td>
 <td><p>無</p></td>
-<td><p>四年前超新星</p></td>
+<td><p>4年前超新星</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#波哥姆斯" title="wikilink">波哥姆斯</a></p></td>
 <td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>戰鬥員</em></p></td>
@@ -2699,16 +2713,16 @@ Q彈鎮<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">「黑腳」賓什莫克·香吉士</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團" title="wikilink">草帽海賊團</a><br />
 <em>廚師</em></p></td>
 <td><p>無</p></td>
-<td><p>賓什莫克家族第3個兒子</p></td>
+<td><p>賓什莫克家族第3子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>27</p></td>
 <td><p><a href="../Page/羅羅亞·索隆.md" title="wikilink">「海賊獵人」羅羅亞·索隆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團" title="wikilink">草帽海賊團</a><br />
@@ -2717,7 +2731,7 @@ Q彈鎮<br />
 <td><p>無</p></td>
 <td><p>兩年前超新星</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#巴吉魯·霍金斯" title="wikilink">「魔術師」巴吉魯·霍金斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#霍金斯海賊團" title="wikilink">霍金斯海賊團</a><br />
 （隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#百獸海賊團" title="wikilink">百獸海賊團</a>）<br />
@@ -2727,7 +2741,7 @@ Q彈鎮<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/月光·摩利亞.md" title="wikilink">月光·摩利亞</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#恐怖三桅帆船" title="wikilink"><s>恐怖三桅帆船</s></a>（已滅）<br />
 <em>船長</em></p></td>
@@ -2736,7 +2750,7 @@ Q彈鎮<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>28</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#凱薩·克勞恩" title="wikilink">「Master」M·凱薩·克勞恩</a></p></td>
 <td><p>無<br />
@@ -2744,16 +2758,6 @@ Q彈鎮<br />
 <td><p>3億</p></td>
 <td><p>瓦斯果實</p></td>
 <td><p>前任世界政府的科學家</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#卡波涅·培基" title="wikilink">「流氓」卡波涅·培基</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#火戰車海賊團" title="wikilink">火戰車海賊團</a><br />
-（曾隸屬<a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a>）<br />
-<em>船長</em></p></td>
-<td><p>堅城果實</p></td>
-<td><p>兩年前超新星</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#夏洛特·代佛克" title="wikilink">夏洛特·代佛克</a></p></td>
@@ -2777,10 +2781,10 @@ Q彈鎮<br />
 <td><p>29</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#巴索羅繆·大熊" title="wikilink">「暴君」巴索羅繆·大熊</a></p></td>
 <td><p>無<br />
-（實際身份為<a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#革命軍" title="wikilink">革命軍幹部</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#革命軍" title="wikilink">革命軍幹部</a>）</p></td>
 <td><p>2億9,600萬</p></td>
 <td><p>肉球果實</p></td>
-<td><p>原索爾貝王國國王、末任王下七武海，已被世界政府完全改造失去自我意識</p></td>
+<td><p>原索爾貝王國國王、前任王下七武海，已被貝卡帕庫完全改造失去自我意識</p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
@@ -2848,7 +2852,7 @@ Q彈鎮<br />
 （隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽大船團" title="wikilink">草帽大船團</a>）<br />
 <em>船長</em></p></td>
 <td><p>屏障果實</p></td>
-<td><p>一年前超新星</p></td>
+<td><p>1年前超新星</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2869,7 +2873,7 @@ Q彈鎮<br />
 <em>船長</em></p></td>
 <td><p>1億9,500萬</p></td>
 <td><p>彈簧果實</p></td>
-<td><p>前<a href="../Page/唐吉訶德·多佛朗明哥.md" title="wikilink">唐吉訶德·多佛朗明哥</a>旗下海賊團之一，該團去了空島後似乎只有他一人成功往返</p></td>
+<td><p>前<a href="../Page/唐吉訶德·多佛朗明哥.md" title="wikilink">唐吉訶德·多佛朗明哥</a>旗下海賊團之一，和團員去了空島後似乎只有他一人成功往返</p></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
@@ -2907,7 +2911,7 @@ Q彈鎮<br />
 <em>考古學家</em></p></td>
 <td><p>1億3,000萬</p></td>
 <td><p>花花果實</p></td>
-<td><p>考古學之島「<a href="https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#西海·南海·北海" title="wikilink">歐哈拉</a>」的倖存者</p></td>
+<td><p>考古學之島「<a href="https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#西海·南海·北海" title="wikilink">歐哈拉事件的倖存者</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
@@ -2944,7 +2948,7 @@ Q彈鎮<br />
 </p></td>
 <td><p>1億</p></td>
 <td><p>無</p></td>
-<td><p>同為<a href="https://zh.wikipedia.org/wiki/海賊_(ONE_PIECE)#巨兵海賊團" title="wikilink">巨兵海賊團船長</a>，為了決鬥出個結果留在小花園100年</p></td>
+<td><p>同為<a href="https://zh.wikipedia.org/wiki/海賊_(ONE_PIECE)#巨兵海賊團" title="wikilink">巨兵海賊團船長</a>，為了比較出兩人誰比較厲害，而留在小花園決鬥了100年</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#東利&amp;布洛基" title="wikilink">「紅鬼」布洛基</a></p></td>
@@ -3070,7 +3074,7 @@ Q彈鎮<br />
 <em>船長</em></p></td>
 <td><p>8,000萬</p></td>
 <td><p>迷戀果實</p></td>
-<td><p><a href="../Page/亞馬遜百合_(ONE_PIECE).md" title="wikilink">亞馬遜百合皇帝</a>、末任王下七武海、曾為天龍人奴隸</p></td>
+<td><p><a href="../Page/亞馬遜百合_(ONE_PIECE).md" title="wikilink">亞馬遜百合皇帝</a>、前任王下七武海、曾為天龍人的奴隸</p></td>
 </tr>
 <tr class="odd">
 <td><p>53</p></td>
@@ -3103,7 +3107,7 @@ Q彈鎮<br />
 <td><p>56</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#毒Q" title="wikilink">「死神」毒Q</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑鬍子海賊團" title="wikilink">黑鬍子海賊團</a><br />
-<em>九號船船長兼船醫</em></p></td>
+<em>9號船船長兼船醫</em></p></td>
 <td><p>7,200萬</p></td>
 <td><p>無</p></td>
 <td><p>—</p></td>
@@ -3142,7 +3146,7 @@ Q彈鎮<br />
 <td><p>58</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#范·歐葛" title="wikilink">「超音速」范·歐葛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑鬍子海賊團" title="wikilink">黑鬍子海賊團</a><br />
-<em>三號船船長兼狙擊手</em></p></td>
+<em>3號船船長兼狙擊手</em></p></td>
 <td><p>6,400萬</p></td>
 <td><p>無</p></td>
 <td><p>—</p></td>
@@ -3281,7 +3285,7 @@ Q彈鎮<br />
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>3,200萬</p></td>
 <td><p>模仿果實</p></td>
-<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a>高級特務，在「頂點之戰」前在推進城和魯夫再度相遇並幫助其他人逃獄，之後兩年間成為推進城Level 5.5「新人妖樂園」的「人妖王」</p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a>高級特務，在「頂點戰爭」前在推進城和魯夫再度相遇並幫助其他人逃獄，之後兩年間成為推進城Level 5.5「新人妖樂園」的「人妖王」</p></td>
 </tr>
 <tr class="even">
 <td><p>71</p></td>
@@ -3363,12 +3367,12 @@ Q彈鎮<br />
 <em>船長</em></p></td>
 <td><p>2,000萬</p></td>
 <td><p>無</p></td>
-<td><p>鋸齒鯊魚人、原<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團船長</a>，已被海軍收押</p></td>
+<td><p>鋸齒鯊魚人、原<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團船長</a>，已被關押至推進城</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#吉札士·伯吉斯" title="wikilink">吉札士·伯吉斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑鬍子海賊團" title="wikilink">黑鬍子海賊團</a><br />
-<em>一號船船長兼掌舵手</em></p></td>
+<em>1號船船長兼掌舵手</em></p></td>
 <td><p>無</p></td>
 <td><p>—</p></td>
 <td></td>
@@ -3427,14 +3431,14 @@ Q彈鎮<br />
 <td><p>1,500萬<br />
 </p></td>
 <td><p>四分五裂果實</p></td>
-<td><p>末仼王下七武海、海賊派遣公司<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海賊派遣公司（巴其速遞）" title="wikilink">巴其速遞團長</a></p></td>
+<td><p>前仼王下七武海、海賊派遣公司<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海賊派遣公司（巴其速遞）" title="wikilink">巴其速遞團長</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#德林傑" title="wikilink">德林傑</a></p></td>
 <td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s>（被捕）<br />
 <em>幹部</em></p></td>
 <td><p>無</p></td>
-<td><p>鬥魚半魚人、原<a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族的幹部</a>，隸屬帝雅曼鐵軍的格鬥部隊。</p></td>
+<td><p>鬥魚半魚人、原<a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族的幹部</a>，隸屬帝雅曼鐵軍的格鬥部隊</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3921,7 +3925,7 @@ Q彈鎮<br />
 <!-- end list -->
 
   -
-    「海賊王」[哥爾·D·羅傑](../Page/哥爾·D·羅傑.md "wikilink")遺留的神祕寶藏，羅傑在臨終前宣稱將自己所有的一切放在偉大航道終點（拉乎德爾）。而前四皇[「白鬍子」艾德華·紐蓋特也在臨終前留下遺言證實](https://zh.wikipedia.org/wiki/白鬍子海賊團#艾德華·紐蓋特 "wikilink")「ONE PIECE真的存在！」
+    「海賊王」[哥爾·D·羅傑](../Page/哥爾·D·羅傑.md "wikilink")遺留的神祕寶藏，羅傑在臨終前宣稱將自己所有的一切放在偉大航道終點（拉乎德爾）。而前四皇「白鬍子」[艾德華·紐蓋特也在臨終前留下遺言證實](https://zh.wikipedia.org/wiki/艾德華·紐蓋特 "wikilink")「ONE PIECE真的存在！」
 
 <!-- end list -->
 
@@ -3990,23 +3994,25 @@ Q彈鎮<br />
 ### 歷史本文
 
   -
-    歷史本文是分散在世界各地、以古代文字紀錄的特殊歷史文獻，由難以被破壞的不明材質製造；其中有記載著足以毀滅世界的三個古代兵器「冥王」、「海皇」、「天帝」的歷史正文。
-    歷史本文總共有30個，大致分成4個「路標歷史本文」（記載著四個地點，它們之間的交叉點即為拉乎德爾的位置），9個「情報歷史本文」（記載著空白的100年，需引導至拉乎德爾），其餘則是記載需要流傳的其他資訊。目前可知的是，唯一讀懂歷史本文的是來自考古學之島「歐哈拉」遺孤，[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")。
-    記載著歷史本文的石塊是由[和之國中出名的石匠](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#和之國 "wikilink")**光月一族**在800年前親手製作的不滅之書，光月一族也世代傳承古代文字的讀寫之法，但傳承至桃之助的父親光月御田時，因御田被和之國將軍及四皇「百獸」海道殺害而失傳。
+    歷史本文是分散在世界各地、以古代文字（光月家族一脈單傳的暗號）紀錄的特殊歷史文獻，由難以被破壞的不明材質製造；其中有記載著足以毀滅世界的三個古代兵器「冥王」、「海皇」、「天帝」的歷史正文。
+    歷史本文總共有30個，大致分成4個「路標歷史本文」（記載著四個地點，它們之間的交叉點即為拉乎德爾的位置），9個「情報歷史本文」（記載著空白的100年，需引導至拉乎德爾），其餘則是記載需要流傳的其他資訊。目前可知的是，唯一讀懂歷史本文的是來自考古學之島「歐哈拉」遺孤，[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")；或是據[夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")所說的三眼族開眼的族民。
+    記載著歷史本文的石塊是由[和之國](../Page/和之國.md "wikilink")中出名的石匠**光月一族**在800年前親手製作的不滅之書，光月一族也世代傳承古代文字的讀寫之法，但傳承至桃之助的父親光月御田時，因御田被和之國將軍及四皇「百獸」海道殺害而失傳。
 
-| 名稱                                                                              | 簡介                                                                                                              |
-| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **[阿拉巴斯坦王國](../Page/阿拉巴斯坦王國.md "wikilink")的地下神殿裏的歷史本文**                         | 記載著有關古代兵器「冥王」的訊息。                                                                                               |
-| **[空島的黃金鐘鐘樓內的歷史本文](https://zh.wikipedia.org/wiki/空島_\(ONE_PIECE\) "wikilink")** | 記載著有關古代兵器「海皇」的訊息。                                                                                               |
-| **[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")的故鄉歐哈拉的歷史本文**                             | 由歐哈拉的學者秘密研究著，歐哈拉毀滅後不確定是否有被世界政府取走。                                                                               |
-| **妮可·羅賓在逃亡期間所發現的歷史本文**                                                          | 羅賓在歐哈拉滅亡後20年間的逃亡途中發現的，內容與所在地不明。                                                                                 |
-| **[魚人島的海之森林的歷史本文](https://zh.wikipedia.org/wiki/魚人島_\(ONE_PIECE\) "wikilink")** | 紀錄了空白的100年時所存在的人物「喬伊波伊」寄給當時的人魚公主的信件，信中表達對打破了魚人島的規定感到非常抱歉。                                                       |
-| **[吉貝爾](../Page/吉貝爾.md "wikilink")在海底遺跡找到的歷史本文**                                | 扉页连载《吉貝爾的海侠孤旅》的途中發現的，之後吉貝爾帶在身上並交給「BIG MOM」，被布魯克取得拓印。                                                            |
-| **[佐烏](../Page/佐烏.md "wikilink")的歷史本文**                                         | 由鮮紅色的材質製造而成，為全世界一共有四個、湊齊後能確認最終之地「**拉乎德爾**」位置的其中一個「路標歷史本文」。目前已知另有兩個分別由四皇「百獸」海道和「BIG MOM」佔據（後者被布魯克取得拓印），還有一個下落不明。 |
-| **圓蛋糕島的歷史本文**                                                                   | 為「BIG MOM」持有的三個歷史本文之一，被布魯克取得拓印。                                                                                 |
-| **[和之國](../Page/和之國.md "wikilink")的歷史本文**                                       | 為「百獸」海道持有的歷史本文之一，與許多[木芥子](../Page/木芥子.md "wikilink")放在地下室嚴密保管。                                                  |
-| **真正的歷史本文**                                                                     | 指的是將全世界的歷史本文帶到偉大航道的盡頭「拉乎德爾」，並將他們連接起來才能得知**空白的100年**的背景。                                                         |
-|                                                                                 |                                                                                                                 |
+| 名稱                                                                              | 簡介                                                                                                                         |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **[阿拉巴斯坦王國](../Page/阿拉巴斯坦王國.md "wikilink")的地下神殿裏的歷史本文**                         | 記載著有關古代兵器「冥王」的訊息。                                                                                                          |
+| **[空島的黃金鐘鐘樓內的歷史本文](https://zh.wikipedia.org/wiki/空島_\(ONE_PIECE\) "wikilink")** | 記載著有關古代兵器「海皇」的訊息。                                                                                                          |
+| **[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")的故鄉歐哈拉的歷史本文**                             | 由歐哈拉的學者秘密研究著，歐哈拉毀滅後不確定是否有被世界政府取走。                                                                                          |
+| **妮可·羅賓在逃亡期間所發現的歷史本文**                                                          | 羅賓在歐哈拉滅亡後20年間的逃亡途中發現的，內容與所在地不明。                                                                                            |
+| **[魚人島的海之森林的歷史本文](https://zh.wikipedia.org/wiki/魚人島_\(ONE_PIECE\) "wikilink")** | 紀錄了空白的100年時所存在的人物「喬伊波伊」寄給當時的人魚公主的信件，信中表達對打破了魚人島的規定感到非常抱歉。原本有兩塊，現存這塊沒被拿走。                                                   |
+| **[魚人島的遺失的路標歷史本文](https://zh.wikipedia.org/wiki/魚人島_\(ONE_PIECE\) "wikilink")** | 由鮮紅色的材質製造而成，為全世界一共有四個、湊齊後能確認最終之地「**拉乎德爾**」位置的其中一個「路標歷史本文」。羅傑前往拉乎德爾前位於海之森林。目前已下落不明。                                         |
+| **[吉貝爾](../Page/吉貝爾.md "wikilink")在海底遺跡找到的歷史本文**                                | 扉页连载《吉貝爾的海侠孤旅》的途中發現的，之後吉貝爾帶在身上並上交給「BIG MOM」，為「BIG MOM」持有的三個歷史本文之一。被布魯克取得拓印。                                                |
+| **[佐烏](../Page/佐烏.md "wikilink")的路標歷史本文**                                       | 由鮮紅色的材質製造而成，為全世界一共有四個、湊齊後能確認最終之地「**拉乎德爾**」位置的其中一個「路標歷史本文」。                                                                 |
+| **圓蛋糕島的歷史本文**                                                                   | 為「BIG MOM」持有的三個歷史本文之一，被布魯克取得拓印。                                                                                            |
+| **圓蛋糕島的路標歷史本文**                                                                 | 由鮮紅色的材質製造而成，為全世界一共有四個、湊齊後能確認最終之地「**拉乎德爾**」位置的其中一個「路標歷史本文」。為「BIG MOM」持有的三個歷史本文之一，在羅傑時期就在BIG MOM手裡，羅傑用了某種手段得到拓本。現今也被布魯克取得拓印。 |
+| **[和之國](../Page/和之國.md "wikilink")的路標歷史本文**                                     | 由鮮紅色的材質製造而成，為全世界一共有四個、湊齊後能確認最終之地「**拉乎德爾**」位置的其中一個「路標歷史本文」。為「百獸」海道持有的歷史本文之一，與許多[木芥子](../Page/木芥子.md "wikilink")放在地下室嚴密保管。   |
+| **真正的歷史本文**                                                                     | 指的是將全世界的歷史本文帶到偉大航道的盡頭「拉乎德爾」，並將他們連接起來才能得知**空白的100年**的背景。                                                                    |
+|                                                                                 |                                                                                                                            |
 
 ## 戰爭&事件&決鬥
 

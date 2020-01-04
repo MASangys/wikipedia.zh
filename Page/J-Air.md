@@ -16,16 +16,22 @@
 
 <center>
 
-| 機型                                                                    | 數量 | 已訂購 | 選購權 | 載客量  | 備註        |
-| --------------------------------------------------------------------- | -- | --- | --- | ---- | --------- |
-| [Embraer-170](https://zh.wikipedia.org/wiki/Embraer-170系列 "wikilink") | 18 | 2   | —   | 76   |           |
-| [Embraer-190](https://zh.wikipedia.org/wiki/Embraer-170系列 "wikilink") | 14 | 1   | —   | 95   |           |
-| [三菱MRJ90](https://zh.wikipedia.org/wiki/三菱支線噴射機 "wikilink") \[3\]     | —  | 32  | —   | 有待確定 | 預定2021年服役 |
-| 總數                                                                    | 32 | 35  |     |      |           |
+| <span style="color:white;"> 機型                                        | width=60px ;"|<span style="color:white;"> 數量 | width=60px ;"|<span style="color:white;"> 已訂購 | width=60px ;"|<span style="color:white;"> 選購權 | width=60px ;"|<span style="color:white;"> 載客量 | <span style="color:white;"> 備註 |
+| --------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | ------------------------------ |
+| [Embraer-170](https://zh.wikipedia.org/wiki/Embraer-170系列 "wikilink") | 18                                           | 2                                             | —                                             | 76                                            |                                |
+| [Embraer-190](https://zh.wikipedia.org/wiki/Embraer-170系列 "wikilink") | 14                                           | 1                                             | —                                             | 95                                            |                                |
+| [三菱MRJ90](https://zh.wikipedia.org/wiki/三菱支線噴射機 "wikilink") \[3\]     | —                                            | 32                                            | —                                             | 有待確定                                          | 預定2021年服役                      |
+| 總數                                                                    | 32                                           | 35                                            |                                               |                                               |                                |
 
 **J-AIR機隊**（）
 
 </center>
+
+## 已退役
+
+  - [Bombardier CRJ20ER](https://zh.wikipedia.org/wiki/Bombardier "wikilink")
+  - [Bombardier EMB 110 Bandeirante](https://zh.wikipedia.org/wiki/Bombardier "wikilink")
+  - [Jetstream](https://zh.wikipedia.org/wiki/Handley_Page "wikilink")
 
 ## 參考來源
 

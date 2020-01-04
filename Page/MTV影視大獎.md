@@ -1,3 +1,6 @@
+> 本文内容由[MTV影視大獎](https://zh.wikipedia.org/wiki/MTV影視大獎)转换而来。
+
+
 **MTV影視大獎**（**MTV Movie & TV Awards**）是由[MTV所舉辦的年度影視頒獎典禮](https://zh.wikipedia.org/wiki/MTV "wikilink")。典禮中也穿插主持人和官方電影片段組成的電影惡搞片段和音樂表演。入圍名單由MTV電影大獎創辦人 Joel Gallen 的 Tenth Planet Productions內的特別小組所選出。得獎者則由觀眾決定。目前的投票方式是透過MTV官網的線上投票。
 
 該獎原名**MTV電影大獎**（**MTV Movie Awards**），於2017年3月改名\[1\]。

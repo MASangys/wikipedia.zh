@@ -1,3 +1,6 @@
+> 本文内容由[Vine Linux](https://zh.wikipedia.org/wiki/Vine_Linux)转换而来。
+
+
 **Vine Linux**是一套集成了日语环境，基于[Red Hat的Linux发行套件](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")。适用于基于x86、x86-64、PowerPC的桌面个人电脑和笔记本电脑。
 
 Vine Linux的开发项目是于1998年，由（日语扩展计划）的六位成员所创立的。

@@ -1,3 +1,6 @@
+> 本文内容由[Goal.com](https://zh.wikipedia.org/wiki/Goal.com)转换而来。
+
+
 **Goal.com**建立于2004年\[1\]，前稱SoccerAge.com，是一家介绍国际足球新闻的网站。Goal.com是现今世界上最大的足球网站之一，有17种不同语言版本，覆盖超过200个国家。Goal.com通过其网站和[论坛为用户提供及时足球资讯](https://zh.wikipedia.org/wiki/论坛 "wikilink")，比分直播，比赛前瞻和最新的转会动态。\[2\]
 
 ## 特色

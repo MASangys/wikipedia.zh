@@ -12,7 +12,7 @@ Trajan一词本身，是[罗马帝国](https://zh.wikipedia.org/wiki/罗马帝�
 ## 外部链接
 
   - [1](http://www.adobe.com/type/browser/P/P_1724.html?PID=1788659) Adobe字体官方网页
-  - [Typowiki: Trajan](http://typophile.com/wiki/trajan)
+  - [Typowiki: Trajan](https://web.archive.org/web/20070528182006/http://typophile.com/wiki/trajan)
   - [Trajan's Column](http://penelope.uchicago.edu/~grout/encyclopaedia_romana/imperialfora/trajan/column.html)，包括*capitalis monumentalis*文本字体的细节
   - [Etched in Stone](https://web.archive.org/web/20080409215637/http://www.veer.com/ideas/etched/) 在电影标题中使用Trajan的一个动画
   - [Trajan is the Movie Font](http://www.youtube.com/watch?v=t87QKdOJNv8)，a satirical video poking fun at the omnipresence of Trajan in the movie world.

@@ -1,9 +1,9 @@
 > 本文内容由[Twitter](https://zh.wikipedia.org/wiki/Twitter)转换而来。
 
 
-**Twitter**（官方中文譯名**推特**\[1\]）是一个[-{zh-cn:社交网络; zh-tw:社群網路; zh-hk:社交網絡;}-與](https://zh.wikipedia.org/wiki/社交网络 "wikilink")[-{zh-hans:微博客; zh-hant:微部落格;}-服务](https://zh.wikipedia.org/wiki/微博客 "wikilink")，它可以让用户更新不超过140个[-{zh-cn:字符; zh-tw:字元; zh-hk:字元;}-的](../Page/字符.md "wikilink")-{zh-cn:消息; zh-tw:訊息;}-，现除[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[日文和](https://zh.wikipedia.org/wiki/日文 "wikilink")[韩文外已提高上限至](https://zh.wikipedia.org/wiki/韩文 "wikilink")280个字符，这些消息也被称作“推文（Tweet）”。这个服务是由[傑克·多西在](https://zh.wikipedia.org/wiki/傑克·多西 "wikilink")2006年3月创办并在当年7月启动的。Twitter風行於全世界多個國家，是[網際網路上访问量最大的十个网站之一](https://zh.wikipedia.org/wiki/網際網路 "wikilink")\[2\]。据Twitter现任[行政總裁迪克](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")·科斯特洛（Dick Costolo）宣布，截至2018年3月，Twitter共有3.36億活跃用户\[3\]，这些用户每天会发表约3.4亿条推文\[4\]。同时，Twitter每天还会处理约16亿的-{zh-cn:网络搜索; zh-tw:網路搜尋; zh-hk:網絡搜尋;}-请求\[5\]\[6\]。公司總部设立在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[旧金山](../Page/旧金山.md "wikilink")，其部分办公室及[-{zh-cn:服务器; zh-tw:伺服器; zh-hk:伺服器;}-位于](../Page/服务器.md "wikilink")[纽约](../Page/纽约.md "wikilink")。
+**Twitter**（官方中文譯名**推特**\[1\]）是一个[-{zh-cn:社交网络; zh-tw:社群網路; zh-hk:社交網絡;}-與](https://zh.wikipedia.org/wiki/社交网络 "wikilink")[-{zh-hans:微博客; zh-hant:微部落格;}-服务](https://zh.wikipedia.org/wiki/微博客 "wikilink")，它可以让用户更新不超过140个[-{zh-cn:字符; zh-tw:字元; zh-hk:字元;}-的](../Page/字符.md "wikilink")-{zh-cn:消息; zh-tw:訊息;}-，现除[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[日文和](https://zh.wikipedia.org/wiki/日文 "wikilink")[韩文外已提高上限至](https://zh.wikipedia.org/wiki/韩文 "wikilink")280个-{zh-hans:字符; zh-hant:字元;}-，这些-{zh-cn:消息; zh-tw:訊息;}-也被称作“推文（Tweet）”。这个服务是由[傑克·多西在](https://zh.wikipedia.org/wiki/傑克·多西 "wikilink")2006年3月创办并在当年7月启动的。Twitter風行於全世界多個國家，是[網際網路上访问量最大的十个网站之一](https://zh.wikipedia.org/wiki/網際網路 "wikilink")\[2\]。据Twitter现任[行政總裁迪克](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")·科斯特洛（Dick Costolo）宣布，截至2018年3月，Twitter共有3.36億活跃用户\[3\]，这些用户每天会发表约3.4亿条推文\[4\]。同时，Twitter每天还会处理约16亿的-{zh-cn:网络搜索; zh-tw:網路搜尋; zh-hk:網絡搜尋;}-请求\[5\]\[6\]。公司總部设立在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[旧金山](../Page/旧金山.md "wikilink")，其部分办公室及[-{zh-cn:服务器; zh-tw:伺服器; zh-hk:伺服器;}-位于](../Page/服务器.md "wikilink")[纽约](../Page/纽约.md "wikilink")。
 
-Twitter被形容为“[-{zh-cn:互联网; zh-tw:網際網路; zh-hk:互聯網;}-的](../Page/互联网.md "wikilink")[-{zh-cn:短信服务; zh-tw:簡訊服務; zh-hk:短訊服務;}-](https://zh.wikipedia.org/wiki/短信服务 "wikilink")”\[7\]。网站的非注册用户可以阅读公开的推文，而注册用户则可以通过Twitter网站、-{zh-cn:短信; zh-tw:簡訊; zh-hk:短訊;}-或者各种各样的[-{zh-cn:应用软件; zh-tw:應用軟體; zh-hk:應用軟件;}-来发布消息](https://zh.wikipedia.org/wiki/应用软件 "wikilink")\[8\]。同时，Twitter还被认为在[阿拉伯之春](../Page/阿拉伯之春.md "wikilink")、以及2010年代後期以來全球的政治活动中扮演重要角色\[9\]。
+Twitter被形容为“[-{zh-cn:互联网; zh-tw:網際網路; zh-hk:互聯網;}-的](../Page/互联网.md "wikilink")[-{zh-cn:短信服务; zh-tw:簡訊服務; zh-hk:短訊服務; zh-sg:简讯服务;}-](https://zh.wikipedia.org/wiki/短信服务 "wikilink")”\[7\]。网站的非注册用户可以阅读公开的推文，而注册用户则可以通过Twitter网站、-{zh-cn:短信; zh-tw:簡訊; zh-hk:短訊; zh-sg:简讯}-或者各种各样的[-{zh-cn:应用软件; zh-tw:應用軟體; zh-hk:應用軟件;}-来发布](https://zh.wikipedia.org/wiki/应用软件 "wikilink")-{zh-cn:消息; zh-tw:訊息;}- \[8\]。同时，Twitter还被认为在[阿拉伯之春](../Page/阿拉伯之春.md "wikilink")、以及2010年代後期以來全球的政治活动中扮演重要角色\[9\]。
 
 2013年9月，Twitter進行[首次公開募股](https://zh.wikipedia.org/wiki/首次公開募股 "wikilink")：同年11月7日，Twitter股票在[纽約證券交易所挂牌上市](https://zh.wikipedia.org/wiki/纽約證券交易所 "wikilink")，开盘45.1亿美元，较发行价大涨73.46%\[10\]。在歷過近十年的發展後，Twitter已成為現今全球新聞、娛樂和評論的重要來源，卻也開始面臨諸多經營困境，包括用戶成長趨於停滯，廣告銷售疲軟，以及近年持續虧損數億美元，而有出售的打算\[11\]。
 
@@ -349,9 +349,19 @@ Twitter自己开发了一个名为t.co的[网址缩短服务](https://zh.wikiped
 
 ### 对封锁的反制
 
-  - 由于Twitter开放[-{zh-hans:应用程序接口; zh-hant:應用程式介面;}-](../Page/应用程序接口.md "wikilink")，众多使用者搭建了大量的Twitter第三方应用，其中部分未被封锁。用户可通过未被封锁的Twitter第三方应用免“[翻墙](https://zh.wikipedia.org/wiki/翻墙 "wikilink")”的使用Twitter的服务。由于使用Twitter第三方应用有泄露密码的风险，2010年8月开始Twitter已经逐步停止未经OAuth认证的第三方应用，但用户仍无法避免第三方应用对自己的帐号发送广告或恶意链接的情况。
+  - 由于Twitter开放[-{zh-hans:应用程序接口; zh-hant:應用程式介面;}-](../Page/应用程序接口.md "wikilink")，众多使用者搭建了大量的Twitter第三方应用，其中部分未被封锁。用户可通过未被封锁的Twitter第三方应用免“[翻墙](https://zh.wikipedia.org/wiki/翻墙 "wikilink")”的使用Twitter的服务。由于使用Twitter第三方应用有泄露密码的风险，2010年8月开始Twitter已经逐步停止未经OAuth认证的第三方应用，但用户仍无法避免第三方应用对自己的帐号发送广告或恶意-{zh-hans:链接; zh-hant:連結;}-的情况。
   - 2010年1月27日，Twitter称正在研发新技术，此项技术将被用于保护Twitter用户免遭来自中国和伊朗政府的-{zh-cn:网络审查; zh-tw:網路審查; zh-hk:網絡審查;}-。\[232\]
-  - 2015年8月19日，Twitter以服務[大中華區](https://zh.wikipedia.org/wiki/大中華區 "wikilink")[廣告](../Page/廣告.md "wikilink")主的變通方式在中國大陸啟用，僅對海外發布產品消息而非[社群網路性質](https://zh.wikipedia.org/wiki/社群網路 "wikilink")，對內仍-{zh:封鎖; zh-cn:屏蔽; zh-tw:封鎖; zh-hk:封鎖;}-\[233\]\[234\]\[235\]。
+  - 2015年8月19日，Twitter以服務[大中華區](https://zh.wikipedia.org/wiki/大中華區 "wikilink")[廣告](../Page/廣告.md "wikilink")主的變通方式在中國大陸啟用，僅對海外發布產品訊息而非[社群網路性質](https://zh.wikipedia.org/wiki/社群網路 "wikilink")，對內仍-{zh:封鎖; zh-cn:屏蔽; zh-tw:封鎖; zh-hk:封鎖;}-\[233\]\[234\]\[235\]。
+
+## 其他
+
+### 網路審查
+
+網路審查後，部分國家有[北韓](https://zh.wikipedia.org/wiki/北韓 "wikilink")、[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")、[沙烏地阿拉伯](https://zh.wikipedia.org/wiki/沙烏地阿拉伯 "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[敘利亞等國家被封鎖](https://zh.wikipedia.org/wiki/敘利亞 "wikilink")。英國只封鎖[維基百科](https://zh.wikipedia.org/wiki/維基百科 "wikilink")，不封鎖Twitter等其他網站。但在[南韓的Twitter進行審查後](https://zh.wikipedia.org/wiki/南韓 "wikilink")，不對[南韓的Twitter進行封鎖](https://zh.wikipedia.org/wiki/南韓 "wikilink")。以及其他[即時通訊](../Page/即時通訊.md "wikilink")軟體等網路電話的[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，美國政府也對其他國家的Twitter進行網路審查。
+
+### 字元更新
+
+Twitter有著社群網路的聚焦當下，踏著即時通訊軟體的足跡。Twitter平時可以讓所有用戶更新不超過140字元的訊息，這些訊息已被稱為「推文」（），現除中、日、韓等三種語言以外，已經更新280個字元來傳送訊息。線上（包括[蜂巢式網路](https://zh.wikipedia.org/wiki/蜂巢式網路 "wikilink")）使用的Twitter，以及發售即時通訊軟體的[Instagram](../Page/Instagram.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")等網路電話的應用程式。這些應用程式發售的Twitter下載總量在iOS達到700萬次。
 
 ## 參見
 

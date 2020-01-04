@@ -5,7 +5,7 @@
 
 YG是韓國[R\&B和](https://zh.wikipedia.org/wiki/R&B "wikilink")[Hip hop音樂最具代表性的娛樂公司](https://zh.wikipedia.org/wiki/Hip_hop "wikilink")。CEO梁鉉錫曾是1992年出道的[徐太志與孩子們的成员](../Page/徐太志和孩子們.md "wikilink")，该组合被稱為韓國K-pop与Hip-Hop的開山鼻祖。YG旗下藝人擁有龐大人氣，[Youtube共有](https://zh.wikipedia.org/wiki/Youtube "wikilink")3000萬人追蹤、200億點擊率，[Instagram](../Page/Instagram.md "wikilink")追蹤者7000萬人、[Facebook](../Page/Facebook.md "wikilink")8000萬人。
 
-YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還具有頂尖[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")、實力派創作歌手和極具創造力的策劃團隊。YG現旗下藝人有唱片歌手[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")、[李遐怡](../Page/李遐怡.md "wikilink")、[AKMU](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")、[WINNER](../Page/WINNER.md "wikilink")、[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")、[BLACKPINK](../Page/BLACKPINK.md "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")、[TREASURE 13](../Page/TREASURE_13.md "wikilink")，獨立廠牌的[Zion.T](../Page/Zion.T.md "wikilink")、[hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")、等，演員[車勝元](../Page/車勝元.md "wikilink")、[姜棟元](https://zh.wikipedia.org/wiki/姜棟元 "wikilink")、[金喜愛](../Page/金喜愛.md "wikilink")、[崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")、[劉寅娜](../Page/劉寅娜.md "wikilink")、[南柱赫](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")、[李聖經](../Page/李聖經.md "wikilink")等。
+YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還具有頂尖[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")、實力派創作歌手和極具創造力的策劃團隊。YG現旗下藝人有唱片歌手[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")、[AKMU](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")、[WINNER](../Page/WINNER.md "wikilink")、[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")、[BLACKPINK](../Page/BLACKPINK.md "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")、[TREASURE 13](../Page/TREASURE_13.md "wikilink")，獨立廠牌的[Zion.T](../Page/Zion.T.md "wikilink")、[hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")、等，演員[車勝元](../Page/車勝元.md "wikilink")、[姜棟元](https://zh.wikipedia.org/wiki/姜棟元 "wikilink")、[金喜愛](../Page/金喜愛.md "wikilink")、[崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")、[劉寅娜](../Page/劉寅娜.md "wikilink")、[南柱赫](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")、[李聖經](../Page/李聖經.md "wikilink")、[張基龍](../Page/張基龍.md "wikilink")等。
 
 ## 歷史
 
@@ -89,10 +89,8 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
 <td><p>2006年8月19日</p></td>
 <td><p>2009年6月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a></p></td>
-<td><p><a href="../Page/T.O.P..md" title="wikilink">T.O.P</a><br />
-<a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a><br />
-<strong><a href="https://zh.wikipedia.org/wiki/權志龍" title="wikilink">G-Dragon</a></strong><br />
-<a href="https://zh.wikipedia.org/wiki/大聲" title="wikilink">大聲</a></p></td>
+<td><p><a href="../Page/T.O.P..md" title="wikilink">T.O.P</a>{{•}}<a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/權志龍" title="wikilink">G-Dragon</a></strong>{{•}}<a href="https://zh.wikipedia.org/wiki/大聲" title="wikilink">大聲</a></p></td>
 <td><p>V.I.P</p></td>
 </tr>
 <tr class="even">
@@ -120,7 +118,7 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
 <a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>{{•}}<a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年</p></td>
+<td><p>2020年</p></td>
 <td></td>
 <td><p><a href="../Page/TREASURE_13.md" title="wikilink">TREASURE 13</a></p></td>
 <td><p>男</p></td>
@@ -198,36 +196,30 @@ Asahi{{•}}<a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>{{•}}
 <td><p>V.I.P</p></td>
 </tr>
 <tr class="odd">
-<td><p>2012年10月29日</p></td>
-<td><p><a href="../Page/李遐怡.md" title="wikilink">LEE HI</a></p></td>
-<td><p>女</p></td>
-<td><p>Hicecream</p></td>
-</tr>
-<tr class="even">
 <td><p>2013年7月16日</p></td>
 <td><p><a href="../Page/姜昇潤.md" title="wikilink">YOON</a></p></td>
 <td><p>男</p></td>
 <td><p>INNER CIRCLE</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年5月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">MINO</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年9月7日</p></td>
 <td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
 <td><p>iKONIC</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年11月12日</p></td>
 <td><p><a href="../Page/Jennie_(韓國歌手).md" title="wikilink">Jennie</a></p></td>
 <td><p>女</p></td>
 <td><p>BLINK</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年8月14日</p></td>
 <td><p><a href="../Page/金秦禹.md" title="wikilink">JINU</a></p></td>
 <td><p>男</p></td>
@@ -428,6 +420,8 @@ Ella Gross(模特儿）
 
   - [ONE](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")（2015－2019年）
 
+  - [李遐怡](../Page/李遐怡.md "wikilink")（2012－2019年）
+
 <!-- end list -->
 
   - 演員
@@ -443,10 +437,10 @@ Ella Gross(模特儿）
   - [高準熹](../Page/高準熹.md "wikilink")（2017－2019年）\[41\]
   - [吳尚津](../Page/吳尚津.md "wikilink")（2017－2019年）\[42\]
   - [柳炳宰](../Page/柳炳宰.md "wikilink") （2015－2019年）\[43\]
-  - [金希庭](../Page/金希庭.md "wikilink") （2016－2019年）<ref>
+  - [金希庭](../Page/金希庭.md "wikilink") （2016－2019年）\[44\]
   - [金賽綸](../Page/金賽綸.md "wikilink") （2016－2019年）
 
-</ref>
+<!-- end list -->
 
   - 組合
 
@@ -462,11 +456,11 @@ Ella Gross(模特儿）
 
   - [2NE1](../Page/2NE1.md "wikilink")（2009－2017年）
 
-      - [孔旻智](../Page/孔旻智.md "wikilink")（2009－2016年）\[44\]\[45\]
-      - [朴春](../Page/朴春.md "wikilink")（2009－2016年）\[46\]
-      - [CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")（2009－2019年）\[47\]
+      - [孔旻智](../Page/孔旻智.md "wikilink")（2009－2016年）\[45\]\[46\]
+      - [朴春](../Page/朴春.md "wikilink")（2009－2016年）\[47\]
+      - [CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")（2009－2019年）\[48\]
 
-  - [Epik High](../Page/Epik_High.md "wikilink")（2011－2018年）\[48\]
+  - [Epik High](../Page/Epik_High.md "wikilink")（2011－2018年）\[49\]
 
 ## 昔日練習生
 
@@ -475,7 +469,7 @@ Ella Gross(模特儿）
 <!-- end list -->
 
   - [鄭有津](https://zh.wikipedia.org/wiki/S#afla "wikilink")（[S\#afla](https://zh.wikipedia.org/wiki/S#afla "wikilink")）
-  - [金宥娜](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")\[49\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
+  - [金宥娜](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")\[50\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
   - [李珠京](https://zh.wikipedia.org/wiki/MyB "wikilink")（[MyB](https://zh.wikipedia.org/wiki/MyB "wikilink")）
   - [瑞淵](https://zh.wikipedia.org/wiki/李瑞淵 "wikilink")（[fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")）
   - [美延](https://zh.wikipedia.org/wiki/曹美延 "wikilink")（[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")）
@@ -504,8 +498,8 @@ Ella Gross(模特儿）
 
   - [張賢勝](../Page/張賢勝.md "wikilink")
   - [鄭鎮馨](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")
-  - [凱蒂·金](https://zh.wikipedia.org/wiki/凱蒂·金 "wikilink")\[50\]
-  - [柳珠伊](../Page/Cosmic_Girl.md "wikilink")\[51\]
+  - [凱蒂·金](https://zh.wikipedia.org/wiki/凱蒂·金 "wikilink")\[51\]
+  - [柳珠伊](../Page/Cosmic_Girl.md "wikilink")\[52\]
   - [金保亨](../Page/金保亨.md "wikilink")
   - [金常彬](https://zh.wikipedia.org/wiki/金常彬 "wikilink")
   - YOUNG-G（《[2017快乐男声](https://zh.wikipedia.org/wiki/2017快乐男声 "wikilink")》）
@@ -554,7 +548,7 @@ Ella Gross(模特儿）
   - [文秀雅](../Page/文秀雅.md "wikilink")
   - 張漢娜
   - Noa
-  - [金恩菲](https://zh.wikipedia.org/wiki/金恩菲 "wikilink")\[52\]
+  - [金恩菲](https://zh.wikipedia.org/wiki/金恩菲 "wikilink")\[53\]
 
 ## 旗下品牌
 
@@ -582,8 +576,8 @@ Ella Gross(模特儿）
       - 水晶男孩 無本質青春旅行
       - [違反校規的修學旅行](../Page/違反校規的修學旅行.md "wikilink")
   - 2018年
-      - [善良地活吧](../Page/善良地活吧.md "wikilink")\[53\]
-      - [YG戰略資料室](../Page/YG戰略資料室.md "wikilink")\[54\]
+      - [善良地活吧](../Page/善良地活吧.md "wikilink")\[54\]
+      - [YG戰略資料室](../Page/YG戰略資料室.md "wikilink")\[55\]
 
 ### 電視劇
 
@@ -910,3 +904,4 @@ Ella Gross(模特儿）
 52.
 53.
 54.
+55.

@@ -1,3 +1,6 @@
+> 本文内容由[Unnamed world](https://zh.wikipedia.org/wiki/Unnamed_world)转换而来。
+
+
 《**Unnamed world**》為[平野綾的第](https://zh.wikipedia.org/wiki/平野綾 "wikilink")7張單曲。 由[King Records於](https://zh.wikipedia.org/wiki/King_Records "wikilink")2008年4月23日發售。
 
 ## 概要

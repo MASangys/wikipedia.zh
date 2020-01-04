@@ -59,7 +59,7 @@ public class HelloWorld
 
 ## 外部連結
 
-  - [Qt Jambi社群網站](http://qt-jambi.org)
+  - [Qt Jambi社群網站](https://web.archive.org/web/20190525193401/http://qt-jambi.org/)
   - [Qt Jambi下載](http://sourceforge.net/projects/qtjambi/files/)
   - [Qt Jambi原始碼管理庫](https://web.archive.org/web/20090616151134/http://qt.gitorious.org/qt-jambi)
   - [Qt Jambi官方參考文件](https://web.archive.org/web/20091227042831/http://doc.qt.nokia.com/qtjambi-4.5.2_01/com/trolltech/qt/qtjambi-index.html)

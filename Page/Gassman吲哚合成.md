@@ -1,3 +1,6 @@
+> 本文内容由[Gassman吲哚合成](https://zh.wikipedia.org/wiki/Gassman吲哚合成)转换而来。
+
+
 **Gassman吲哚合成**（Gassman indole synthesis）\[1\]\[2\]\[3\]\[4\]\[5\]
 
 用[一锅法将取代](https://zh.wikipedia.org/wiki/一锅法 "wikilink")[苯胺](../Page/苯胺.md "wikilink")转化为[吲哚](../Page/吲哚.md "wikilink")[衍生物](https://zh.wikipedia.org/wiki/衍生物 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Baudisch反应](https://zh.wikipedia.org/wiki/Baudisch反应)转换而来。
+
+
 **Baudisch反应**（Baudisch reaction）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 [苯](../Page/苯.md "wikilink")及其[衍生物](https://zh.wikipedia.org/wiki/衍生物 "wikilink")、[羟胺](../Page/羟胺.md "wikilink")和[过氧化氢](../Page/过氧化氢.md "wikilink")在[铜](../Page/铜.md "wikilink")盐存在下进行反应得到（取代）邻[亚硝基](https://zh.wikipedia.org/wiki/亚硝基 "wikilink")[苯酚](../Page/苯酚.md "wikilink")。1939年由 Baudisch 报道，后被 Cronheim 进一步研究。\[7\]

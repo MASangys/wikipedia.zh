@@ -1,3 +1,6 @@
+> 本文内容由[Achmatowicz反应](https://zh.wikipedia.org/wiki/Achmatowicz反应)转换而来。
+
+
 **Achmatowicz反应**（Achmatowicz Reaction）
 
 [呋喃](../Page/呋喃.md "wikilink")转变为[二氢吡喃](../Page/二氢吡喃.md "wikilink")环的过程。由 Osman Achmatowicz, Jr. 在 1971 年发现。\[1\] 最初方法是用[糠醇与](https://zh.wikipedia.org/wiki/糠醇 "wikilink")[溴](../Page/溴.md "wikilink")在[甲醇](../Page/甲醇.md "wikilink")中反应，先得到2,5-二甲氧基-[二氢糠醇](https://zh.wikipedia.org/wiki/二氢糠醇 "wikilink")，它用稀[硫酸](../Page/硫酸.md "wikilink")发生[重排便得到一个二氢吡喃衍生物](https://zh.wikipedia.org/wiki/重排 "wikilink")。该衍生物与[原甲酸甲酯和](https://zh.wikipedia.org/wiki/原甲酸甲酯 "wikilink")[三氟化硼](../Page/三氟化硼.md "wikilink")反应上甲基[保护基](../Page/保护基.md "wikilink")，接着用[硼氢化钠](../Page/硼氢化钠.md "wikilink")还原[酮](../Page/酮.md "wikilink")基，可得另一二氢吡喃衍生物，这个产物可用作许多[单糖的合成中间体](https://zh.wikipedia.org/wiki/单糖 "wikilink")。

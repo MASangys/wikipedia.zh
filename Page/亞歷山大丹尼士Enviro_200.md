@@ -5,7 +5,7 @@
 
 **亞歷山大丹尼士Enviro 200 Dart**（）是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的兩軸單層巴士。它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士，於2006年面世，主要取代[飛鏢SLF及Pointer車身](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")。 [IMG_5623_-_Flickr_-_Dave_M_Photography.jpg](https://zh.wikipedia.org/wiki/File:IMG_5623_-_Flickr_-_Dave_M_Photography.jpg "fig:IMG_5623_-_Flickr_-_Dave_M_Photography.jpg")
 
-## Transbus Enviro 200(第一代)
+## Transbus Enviro 200 (第一代)
 
 巴士的設計有別於當時英國的中型巴士，車頭和車尾均設有車門，而引擎則放置於車尾右邊，令低地台空間可以伸延到車尾；而尾軸車輪直徑比頭軸車輪大，但採用單尾胎設計，令尾軸上面的通道更寛闊。車尾頂部有一個稱為Enviro Pack的裝置，用作散熱及排放廢氣。Enviro 200採用底盤車身一體化設計，車身由TransBus自行生產。
 
@@ -15,7 +15,7 @@ Enviro 200分為柴油版及柴油/電力混合驅動版。柴油版採用[康�
 
 其後，亞歷山大丹尼士再向市場推廣Enviro 200，並調派一輛樣辦車往倫敦給多間巴士公司試用，但未能取得訂單。英國的Southdown PSV公司曾經有兩輛Enviro 200倉貨，其後被服務英格蘭東部的Far East Travel買入，兩輛巴士於2007年投入服務。
 
-## Enviro200 Dart(第二代)
+## Enviro200 Dart (第二代)
 
 第二代Enviro200稱為Enviro200 Dart。
 
@@ -59,7 +59,7 @@ Enviro 200原先在亞歷山大丹尼士位於蘇格蘭Falkirk的廠房裝嵌車
 
 ### 珀麗灣客運
 
-珀麗灣客運於2016年分兩批訂購輛11.3米Enviro 200 Dart巴士，配備[歐盟五型至六型之間排放標準](https://zh.wikipedia.org/wiki/歐洲汽車尾氣排放標準 "wikilink")（環境友好/EEV）引擎，現時主要行[NR332](../Page/珀麗灣居民巴士NR332線.md "wikilink")(葵芳)綫。這批車是該型號全球最後的訂單，之後隨即停產，並停止接受新訂單及開始清售貨尾。
+珀麗灣客運於2016年分兩批訂購輛11.3米Enviro 200 Dart巴士，配備[歐盟五型至六型之間排放標準](https://zh.wikipedia.org/wiki/歐洲汽車尾氣排放標準 "wikilink")（環境友好/EEV）引擎，現時主要行[NR332](../Page/珀麗灣居民巴士NR332線.md "wikilink")（葵芳）綫。這批車是該型號全球最後的訂單，之後隨即停產，並停止接受新訂單及開始清售貨尾。
 
 ## 配Enviro 200車身的猛獅底盤
 
@@ -71,6 +71,7 @@ Enviro 200原先在亞歷山大丹尼士位於蘇格蘭Falkirk的廠房裝嵌車
 
   - [飛鏢SLF](../Page/丹尼士飛鏢巴士.md "wikilink")
   - [三叉戟二型](../Page/丹尼士三叉戟二型.md "wikilink")
+  - [三叉戟三型](../Page/丹尼士三叉戟三型.md "wikilink")
   - [Enviro 200 MMC](../Page/亞歷山大丹尼士Enviro_200_MMC.md "wikilink")
   - [Enviro 300](../Page/亞歷山大丹尼士Enviro_300.md "wikilink")
   - [Enviro 350H](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_350H "wikilink")

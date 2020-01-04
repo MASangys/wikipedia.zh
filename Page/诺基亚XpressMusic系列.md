@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚XpressMusic系列](https://zh.wikipedia.org/wiki/诺基亚XpressMusic系列)转换而来。
+
+
 XpressMusic是[诺基亚](../Page/诺基亚.md "wikilink")于2006年推出的音乐手机品牌，用于对抗[索尼爱立信的](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")[Walkman](../Page/Walkman.md "wikilink")系列音乐手机。XpressMusic系列在设计之初就是作为便携式音乐播放器使用的。XpressMusic系列手机几乎都支持[MicroSD](../Page/MicroSD.md "wikilink")储存卡，所以这些手机也可以当作[MP3播放器使用](https://zh.wikipedia.org/wiki/MP3播放器 "wikilink")。
 
 ## 特点

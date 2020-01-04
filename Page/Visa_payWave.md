@@ -717,9 +717,9 @@ Disc Plus、CD Warehouse、[HMV](../Page/HMV.md "wikilink")（已清盤）
 
 ## 外部链接
 
-  - [威士台灣區網站](http://www.visa-asia.com/ap/tw/index.shtml)
-  - [Visa港澳地區網站](http://www.visa-asia.com/ap/hk/zh_HK/index.shtml)
-  - [Visa中国區網站](http://www.visa-asia.com/ap/cn/zh_CN/index.shtml)
+  - [威士台灣區網站](https://web.archive.org/web/20061114074307/http://www.visa-asia.com/ap/tw/index.shtml)
+  - [Visa港澳地區網站](https://web.archive.org/web/20101225051240/http://www.visa-asia.com/ap/hk/zh_HK/index.shtml)
+  - [Visa中国區網站](https://web.archive.org/web/20120519111534/http://www.visa-asia.com/ap/cn/zh_CN/index.shtml)
 
 [Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink") [Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink")
 
@@ -729,10 +729,10 @@ Disc Plus、CD Warehouse、[HMV](../Page/HMV.md "wikilink")（已清盤）
 4.
 5.
 6.
-7.  [Visa國際組織香港網站 | Visa payWave - 香港特約商戶與發卡銀行](http://www.visa-asia.com/ap/hk/zh_HK/cardholders/cardsservices/visa_paywave_merchantsissuers.shtml)
+7.   Visa payWave - 香港特約商戶與發卡銀行 |access-date=2011-06-23 |archive-url=<https://web.archive.org/web/20110622062234/http://www.visa-asia.com/ap/hk/zh_HK/cardholders/cardsservices/visa_paywave_merchantsissuers.shtml> |archive-date=2011-06-22 |dead-url=yes }}
 8.  [Visa台灣網站 | Visa payWave商店](http://www.visa-asia.com/ap/tw/cardholders/cardsservices/Visa_payWave_merchant.shtml)
 9.  [Visa - Visa payWave 台灣商店](http://www.visa.com.tw/ap/tw/personal/features/include/VisapayWavemerchantlist20130101.pdf)
-10. [Visa國際組織香港網站 | 快易通、大新銀行及Visa共同引入 全港首部提供AutoTAXI及Visa卡收費服務的士 致力提升香港的士業界形象及服務水平](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_02122010AutoTaxiwithVisa.shtml)
+10.  快易通、大新銀行及Visa共同引入 全港首部提供AutoTAXI及Visa卡收費服務的士 致力提升香港的士業界形象及服務水平 |access-date=2011-06-23 |archive-url=<https://web.archive.org/web/20110429061233/http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_02122010AutoTaxiwithVisa.shtml> |archive-date=2011-04-29 |dead-url=yes }}
 11. [Visa國際組織香港網站 | 首隊AutoTAXI「飛的」在港投入服務](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_23062011AutoTaxiOnHKStreets.shtml)
 12. [蘋果日報 - 20110624 - 港首創信用卡付車費　可透過手機追蹤「飛的」受歡迎將增 500部](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20110624&sec_id=4104&subsec_id=11867&art_id=15371158)
 13. [歹徒擦身拍卡盜資料 感應式信用卡存漏洞](http://www.am730.com.hk/article.php?article=157299&d=2063) - AM730(am新聞) ,2013年06月03日

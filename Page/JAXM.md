@@ -1,3 +1,6 @@
+> 本文内容由[JAXM](https://zh.wikipedia.org/wiki/JAXM)转换而来。
+
+
 JAXM（Java API for XML Messaging简称JAXM）是为Java平台上的应用程序定义的API，用以通过[XML](../Page/XML.md "wikilink")(以及[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink"))发送和接收消息，支持同步消息和异步消息。JAXR API是在JCP下开发的，代号JSR 67。
 
 ## 基本概念

@@ -1,3 +1,6 @@
+> 本文内容由[Miconic 10](https://zh.wikipedia.org/wiki/Miconic_10)转换而来。
+
+
 **Miconic 10**，是由[升降機製造商](https://zh.wikipedia.org/wiki/升降機 "wikilink")發明的一款升降機分配系統。
 
 ## 系統構造

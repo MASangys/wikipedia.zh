@@ -1,3 +1,6 @@
+> 本文内容由[Google朋友群](https://zh.wikipedia.org/wiki/Google朋友群)转换而来。
+
+
 **Google Friend Connect**（**-{zh-hant:朋友群; zh-hans:Google Friend Connect}-**）是[Google](../Page/Google.md "wikilink")提供的一项在线交流服务，帮助用户与不同[网站上的朋友在线交流](https://zh.wikipedia.org/wiki/网站 "wikilink")。
 
 Google Friend Connect是Google在2008年5月发布的一个[OpenSocial](../Page/OpenSocial.md "wikilink")应用程序，它的主要目的是简化[社会化网站和非社会化网站之间的联接](https://zh.wikipedia.org/wiki/社会化 "wikilink")，使社会化应用程序及其内容的操作和显示标准化。它混合地使用了一些开放性标准，比如用[OpenID](../Page/OpenID.md "wikilink")登录，用[oAuth控制数据和使用](https://zh.wikipedia.org/wiki/oAuth "wikilink")[OpenSocial](../Page/OpenSocial.md "wikilink")的应用程序。

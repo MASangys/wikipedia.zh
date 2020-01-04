@@ -1,3 +1,6 @@
+> 本文内容由[More \(命令\)](https://zh.wikipedia.org/wiki/More_\(命令\))转换而来。
+
+
 more：一种用于[命令行分页显示的工具](https://zh.wikipedia.org/wiki/命令行 "wikilink")。more是一种比较原始的分页工具，功能有限。新的分页工具，如[less](https://zh.wikipedia.org/wiki/less "wikilink")，功能更强大。
 
 ## 常见版本

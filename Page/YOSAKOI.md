@@ -71,8 +71,8 @@
 8.  [文大新桃花源隊遠征日本 決勝「札榥街舞祭」](http://epaper.pccu.edu.tw/newsDetail.asp?NewsNo=5133)
 9.  [2005受賞記錄](http://www6.ocn.ne.jp/~tutotti/yosakoi2005.htm)
 10. [中國科技大學電子報](http://www.cute.edu.tw/~pub/epaper/epaper17/epaper1-3.htm)
-11. [歷年受賞記錄](http://www.yosakoi-soran.jp/rekidai_2008.html)
-12. [歷年受賞記錄](http://www.yosakoi-soran.jp/rekidai_2008.html)
+11.
+12.
 13. [中華藝校前進日本舞躍安濃津](http://www.charts.kh.edu.tw/yosakoi/w.doc)
 14. [JAL news](http://www.jal.com/ja/jaanews/news/2003/0212.html)
 15. [遠征臺灣活動報告](http://www6.ocn.ne.jp/~ken-zo/newpage21.htm)

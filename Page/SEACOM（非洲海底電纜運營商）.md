@@ -1,3 +1,6 @@
+> 本文内容由[SEACOM（非洲海底電纜運營商）](https://zh.wikipedia.org/wiki/SEACOM（非洲海底電纜運營商）)转换而来。
+
+
 **SEACOM**公司，負責建造海底[光纖電纜](https://zh.wikipedia.org/wiki/光纖電纜 "wikilink")，加以擁有，再行運營。 SEACOM批發銷售國際容量，遍及[印度](../Page/印度.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。受惠的通信運營商位於[南非洲和](https://zh.wikipedia.org/wiki/南非洲 "wikilink")[東非洲](https://zh.wikipedia.org/wiki/東非洲 "wikilink")。
 
 其頻寬量多價廉，以此行商。2009年7月之前，東非洲國家，依賴[衛星](../Page/衛星.md "wikilink")，網絡昂貴緩慢。2009年7月23日，非洲東南部光纜峻工，SEACOM寬頻首次供予東非洲國家，降低網絡成本，促進經濟發展。\[1\] \[2\]

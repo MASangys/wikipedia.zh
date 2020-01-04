@@ -1,3 +1,6 @@
+> 本文内容由[BPF](https://zh.wikipedia.org/wiki/BPF)转换而来。
+
+
 **伯克利包过滤器**（Berkeley Packet Filter，缩写 BPF），是[类Unix系统上](https://zh.wikipedia.org/wiki/类Unix "wikilink")[数据链路层](../Page/数据链路层.md "wikilink")的一种原始接口，提供原始链路层[封包的收发](https://zh.wikipedia.org/wiki/封包 "wikilink")。除此之外，如果网卡驱动支持[混杂模式](https://zh.wikipedia.org/wiki/混杂模式 "wikilink")，那么它可以让网卡处于此种模式，这样可以收到[网络上的所有包](https://zh.wikipedia.org/wiki/网络 "wikilink")，不管他们的目的地是不是所在[主机](https://zh.wikipedia.org/wiki/主机 "wikilink")。
 
 另外，BPF支持过滤数据包——用户态的进程可以提供一个过滤程序来声明它想收到哪些数据包。通过这种过滤可以避免从[操作系统](../Page/操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")向用户态复制其他对用户态程序无用的数据包，从而极大地提高性能。

@@ -3,9 +3,7 @@
 
 **grep**是一个最初用于[Unix操作系统的](https://zh.wikipedia.org/wiki/Unix "wikilink")[命令行工具](https://zh.wikipedia.org/wiki/命令行 "wikilink")。在给出文件列表或[标准输入后](https://zh.wikipedia.org/wiki/标准输入 "wikilink")，grep会对匹配一个或多个[正则表达式](../Page/正则表达式.md "wikilink")的文本进行搜索，并只输出匹配（或者不匹配）的行或文本。
 
-## 歷史
-
-grep這個應用程式最早由[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")寫成。grep原先是ed下的一個應用程式，名稱來自於g/re/p（globally search a regular expression and print，以正規表示法進行全域尋找以及列印）。在ed下，輸入g/re/p這個命令後，會將所有符合先定義樣式的字串，以行為單位列印出來。
+grep這個應用程式最早由[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")寫成。grep原先是ed下的一個應用程式，名稱來自於g/re/p（globally search a regular expression and print，以正则表达式進行全域尋找以及列印）。在ed下，輸入g/re/p這個命令後，會將所有符合先定義樣式的字串，以行為單位列印出來。
 
 在1973年，Unix第四版中，grep首次出現在man頁面中。
 

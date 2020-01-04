@@ -1,3 +1,6 @@
+> 本文内容由[RIVER \(AKB48單曲\)](https://zh.wikipedia.org/wiki/RIVER_\(AKB48單曲\))转换而来。
+
+
 《**RIVER**》是[AKB48](../Page/AKB48.md "wikilink")的第14张单曲\[1\]。通常盘与剧场盘两种式样分别由[You，Be Cool\!/KING RECORDS与NEW](https://zh.wikipedia.org/wiki/King_Records "wikilink") KING RECORDS在2009年10月21日发售。中心成員由高橋南、前田敦子擔當。
 
 ## 概要

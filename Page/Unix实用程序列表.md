@@ -1,3 +1,6 @@
+> 本文内容由[Unix实用程序列表](https://zh.wikipedia.org/wiki/Unix实用程序列表)转换而来。
+
+
 本列表中的[UNIX](../Page/UNIX.md "wikilink")实用程序由IEEE Std 1003.1-2008定义，是[单一UNIX规范](https://zh.wikipedia.org/wiki/单一UNIX规范 "wikilink")（SUS）的一部分。本列表中的实用程序可以在UNIX操作系统和绝大多数[类UNIX操作系统中找到](https://zh.wikipedia.org/wiki/类UNIX "wikilink")。
 
 ## 列表

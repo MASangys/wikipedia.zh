@@ -1,7 +1,7 @@
 > 本文内容由[MOMO親子台](https://zh.wikipedia.org/wiki/MOMO親子台)转换而来。
 
 
-**momo親子台**，為[優視傳播的兒童頻道](https://zh.wikipedia.org/wiki/優視傳播 "wikilink")，於2006年1月1日開播。由於該頻道的標誌是一隻粉紅色[毛蟲](../Page/毛蟲.md "wikilink")，故俗稱「毛蟲**台**」；2007年併購[緯來兒童台](../Page/緯來兒童台.md "wikilink")。收播時間為每天04:00至06:00。2014年10月29日起，正式啟用高畫質版本頻道「momo親子台**HD**」。
+**momo親子台**，為[優視傳播的兒童頻道](https://zh.wikipedia.org/wiki/優視傳播 "wikilink")，於2006年1月1日開播。由於該頻道的標誌是一隻粉紅色[毛蟲](../Page/毛蟲.md "wikilink")，故俗稱「毛蟲**台**」；2006年併購[緯來兒童台](../Page/緯來兒童台.md "wikilink")。收播時間為每天04:00至06:00。2014年10月29日起，正式啟用高畫質版本頻道「momo親子台**HD**」。
 
 ## MOMO家族
 

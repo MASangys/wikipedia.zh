@@ -1,3 +1,6 @@
+> 本文内容由[迈克尔·K·威廉姆斯](https://zh.wikipedia.org/wiki/迈克尔·K·威廉姆斯)转换而来。
+
+
 **迈克尔·肯尼斯·威廉姆斯**（，），[美国](../Page/美国.md "wikilink")演员。他最著名的演出是在[HBO](../Page/HBO.md "wikilink")電視劇《[火线](https://zh.wikipedia.org/wiki/火线_\(电视剧\) "wikilink")》中饰演的\[1\]\[2\]\[3\]和《[酒私風雲](../Page/酒私風雲.md "wikilink")》中飾演的Albert "Chalky" White。他也在HBO的[電視電影](../Page/電視電影.md "wikilink")[傳記片](https://zh.wikipedia.org/wiki/傳記片 "wikilink")《**》中飾演[貝西·史密斯的丈夫Jack](https://zh.wikipedia.org/wiki/貝西·史密斯 "wikilink") Gee而受到讚揚。他曾在多部電影和電視劇中擔任配角，包括《[末路浩劫](../Page/末路浩劫.md "wikilink")》、《[性本惡](https://zh.wikipedia.org/wiki/性本惡 "wikilink")》、《[紐約殺人夜](https://zh.wikipedia.org/wiki/紐約殺人夜 "wikilink")》、《》和《[被奪走的12年](https://zh.wikipedia.org/wiki/被奪走的12年 "wikilink")》。
 
 ## 生平

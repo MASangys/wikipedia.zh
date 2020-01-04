@@ -1,11 +1,11 @@
 > 本文内容由[S·C·约翰逊管理研究院](https://zh.wikipedia.org/wiki/S·C·约翰逊管理研究院)转换而来。
 
 
-**S.C.约翰逊管理研究生学院**（S.C. Johnson Graduate School of Management），简称**约翰逊学院**，隶属于[康奈尔大学](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")，坐落在[伊萨卡市康奈尔主校区正中的](../Page/纽约州.md "wikilink")[塞吉大厅](../Page/塞吉大厅.md "wikilink")（旧名塞吉寄宿学院）。该学院是享誉盛名的6所[常青藤商学院之一](https://zh.wikipedia.org/wiki/常青藤商学院 "wikilink")。
+**S.C.约翰逊管理研究生学院**（S.C. Johnson Graduate School of Management），简称**约翰逊管理学院**，与[戴森应用经济管理学院和](https://zh.wikipedia.org/wiki/Charles_H._Dyson_School_of_Applied_Economics_and_Management "wikilink")[酒店管理学院组成SC约翰逊商学院](https://zh.wikipedia.org/wiki/Cornell_University_School_of_Hotel_Administration "wikilink")，隶属于[康奈尔大学](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")，坐落在[伊萨卡市康奈尔主校区正中的](../Page/纽约州.md "wikilink")[塞吉大厅](../Page/塞吉大厅.md "wikilink")（旧名塞吉寄宿学院）。该学院是享誉盛名的6所常青藤商学院之一。
 
 约翰逊管理研究生学院创建于1946，为培养工商企业的管理高层而专门设立的研究生院，一开始名字为管理研究生学院。1984年该院接受了美国著名的500强家族企业[约翰逊家族的慷慨捐赠](https://zh.wikipedia.org/wiki/S._C.约翰逊 "wikilink")，而改名为约翰逊管理研究生学院。
 
-约翰逊管理研究生学院现有77名教职员工，其中包括14名董事会和30名客座教授。该校学生数量保持在544名MBA[工商管理研究生](https://zh.wikipedia.org/wiki/工商管理 "wikilink")， 170名EMBA[高管工商管理研究生](https://zh.wikipedia.org/wiki/高管工商管理 "wikilink")，和30名左右的工商管理学博士生。现有校友10,336名。约翰逊管理研究生学院自有基金就达到$1.54亿美元（不包括学生管理运作的1千4百万Cayuga fund对冲基金），并且学校有90个企业伙伴。
+约翰逊管理研究生学院现有77名教职员工，其中包括14名董事会和30名客座教授。该校学生数量保持在544名MBA[工商管理研究生](https://zh.wikipedia.org/wiki/工商管理 "wikilink")，170名EMBA[高管工商管理研究生](https://zh.wikipedia.org/wiki/高管工商管理 "wikilink")，和30名左右的工商管理学博士生。现有校友10,336名。约翰逊管理研究生学院自有基金就达到$1.54亿美元（不包括学生管理运作的1千4百万Cayuga fund对冲基金），并且学校有90个企业伙伴。
 
 ## 课程设置
 

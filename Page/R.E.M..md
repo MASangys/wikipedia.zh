@@ -94,7 +94,7 @@ R.E.M.於2004年發行了《Around the Sun》。在2002製作專輯期間，史�
 
 ## 外部链接
 
-  - [Official R.E.M. website](http://www.remhq.com/)
+  - [Official R.E.M. website](https://web.archive.org/web/20191103223844/https://www.remhq.com/)
 
   -
 [Category:美國另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國另類搖滾樂團 "wikilink") [Category:1980年代音乐组合](https://zh.wikipedia.org/wiki/Category:1980年代音乐组合 "wikilink") [Category:1990年代音乐组合](https://zh.wikipedia.org/wiki/Category:1990年代音乐组合 "wikilink") [Category:2000年代音乐组合](https://zh.wikipedia.org/wiki/Category:2000年代音乐组合 "wikilink") [Category:1980年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1980年成立的音樂團體 "wikilink") [Category:2011年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年解散的音樂團體 "wikilink") [Category:葛莱美奖获得者](https://zh.wikipedia.org/wiki/Category:葛莱美奖获得者 "wikilink") [Category:華納音樂集團旗下歌手](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下歌手 "wikilink") [Category:另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:另類搖滾樂團 "wikilink") [Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:摇滚名人堂入选者](https://zh.wikipedia.org/wiki/Category:摇滚名人堂入选者 "wikilink") [Category:1980年喬治亞州建立](https://zh.wikipedia.org/wiki/Category:1980年喬治亞州建立 "wikilink")

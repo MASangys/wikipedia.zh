@@ -1,3 +1,6 @@
+> 本文内容由[KDE e.V.](https://zh.wikipedia.org/wiki/KDE_e.V.)转换而来。
+
+
 KDE e.V.是註冊的非營利性組織，代表[KDE](../Page/KDE.md "wikilink")社群在法律和財務實體。該協會支援KDE的創新和發行通過現金、硬件和其他捐贈，然後使用捐款以幫助KDE開發，但不干預社群開發。"e.V."代表"eingetragener Verein"，意思是"註冊協會"。
 
 ## 歷史

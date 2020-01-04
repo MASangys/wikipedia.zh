@@ -1,3 +1,6 @@
+> 本文内容由[Brave heart](https://zh.wikipedia.org/wiki/Brave_heart)转换而来。
+
+
 《**brave heart**》為[林原惠](../Page/林原惠.md "wikilink")第28張單曲，於2001年12月29日發行。
 
 由[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販售（KICM-3021）。

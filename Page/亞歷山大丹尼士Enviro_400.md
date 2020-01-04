@@ -83,7 +83,7 @@ Enviro 400空調巴士是香港自1980-83年[九龍巴士](../Page/九龍巴士.
 
 [KMB_RV3531_94.jpg](https://zh.wikipedia.org/wiki/File:KMB_RV3531_94.jpg "fig:KMB_RV3531_94.jpg")\]\] 2012年2月初，[九龍巴士](../Page/九龍巴士.md "wikilink")向亞歷山大丹尼士訂購50輛Enviro 400（車隊編號為ATSE2-51），用於取代因年事已高而直接退役的1995年[富豪奧林比安及第三批](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（1995年）的[丹尼士巨龍11米](https://zh.wikipedia.org/wiki/丹尼士巨龍 "wikilink")，認為減少營運成本，這批巴士由珠海廣通客車（中興智能汽車）裝嵌車身。其中ATSE2已於2012年9月到港。量產型Enviro 400使用Hanover橙色LED電子顯示屏（為九龍巴士首款使用），配置Vogel Revo白色巴士仔圖案座椅（與AVBWS1同款）\[5\]。為有效利用車廂空間提高載客量，下層車廂的前軸輪拱左方設有兩個面向車頭的座椅，駕駛座隔板後方則設有一個面向前方的單人座椅，這種座位編排是九龍巴士車隊中罕有選用的設計。上層車頭沒有設置路訊通顯示器組件，波箱改用Voith D864.5的產品。此批Enviro 400已於2012年11月9日至翌年2月21日全數出牌及投入服務。目前行走路線 [2B](https://zh.wikipedia.org/wiki/九龍巴士2B線 "wikilink")、[31M](https://zh.wikipedia.org/wiki/九龍巴士31M線 "wikilink")、[45](https://zh.wikipedia.org/wiki/九龍巴士45線 "wikilink")、[46](https://zh.wikipedia.org/wiki/九龍巴士46線 "wikilink")、[53](https://zh.wikipedia.org/wiki/九龍巴士53線 "wikilink")、[63X](https://zh.wikipedia.org/wiki/九龍巴士63X線 "wikilink")、[72A](https://zh.wikipedia.org/wiki/九龍巴士72A線 "wikilink")、[84M](https://zh.wikipedia.org/wiki/九龍巴士84M線 "wikilink")、[234X](https://zh.wikipedia.org/wiki/九龍巴士234X線 "wikilink")、[268B](https://zh.wikipedia.org/wiki/九龍巴士268B線 "wikilink")、[276](../Page/九龍巴士276線.md "wikilink")、[103及](https://zh.wikipedia.org/wiki/過海隧道巴士103線 "wikilink")[690線](https://zh.wikipedia.org/wiki/過海隧道巴士690線 "wikilink")，部份車輛或會行走[32H](https://zh.wikipedia.org/wiki/九龍巴士32H線 "wikilink")，[34](../Page/九龍巴士34線.md "wikilink")，[64K及](https://zh.wikipedia.org/wiki/九龍巴士64K線 "wikilink")[276線](../Page/九龍巴士276線.md "wikilink")。
 
-ATSE於2018年11月全數LED光管照明由淺藍色更換為白色。ATSE於2019年11月全數加設電子路線圖。
+ATSE於2018年11月全數LED光管照明由淺藍色更換為白色。ATSE於2019年9月全數加設電子路線圖。
 
 ### 港鐵巴士
 

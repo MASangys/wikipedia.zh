@@ -1,3 +1,6 @@
+> 本文内容由[1,2-Wittig重排反应](https://zh.wikipedia.org/wiki/1,2-Wittig重排反应)转换而来。
+
+
 **1,2-Wittig重排反应**（1,2-Wittig rearrangement）
 
 [醚](../Page/醚.md "wikilink")在[强碱](https://zh.wikipedia.org/wiki/强碱 "wikilink")（如[有机锂试剂](../Page/有机锂试剂.md "wikilink")）作用下[重排为](https://zh.wikipedia.org/wiki/重排 "wikilink")[烷氧基化合物](https://zh.wikipedia.org/wiki/烷氧基 "wikilink")。\[1\]\[2\]

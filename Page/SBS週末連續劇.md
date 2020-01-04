@@ -1,3 +1,6 @@
+> 本文内容由[SBS週末連續劇](https://zh.wikipedia.org/wiki/SBS週末連續劇)转换而来。
+
+
 **SBS週末連續劇**（）是逢星期六、日晚上8時45分在[SBS電視台播映的](../Page/SBS_\(韓國\).md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")。此時段前身為由開台至2015年間播放的[SBS 週末劇場時段](../Page/SBS_週末劇場.md "wikilink")，後因收視跌至極低水平而終止該時段的廣播。2016年，SBS以週末連續劇之名重新創立該時段，並後移五分鐘播放。而11月起因應節目調動關係，改為逢星期六連播兩集。2018年2月播畢《[Bravo My Life](../Page/Bravo_My_Life.md "wikilink")》後，此劇集時段取消，由廢除一年半的[週末特別計劃連續劇時段繼承播放時段](../Page/SBS週末特別計劃劇.md "wikilink")。
 
 ## 播放時段

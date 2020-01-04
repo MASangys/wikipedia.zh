@@ -11,7 +11,7 @@
 
 齊克隆由德國化學家[弗里茨·哈伯](../Page/弗里茨·哈伯.md "wikilink")（Fritz Haber）所發明，作為殺蟲劑使用。[第一次世界大戰期間由德國的害蟲防治技術委員會](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")（）製造，用來除[蝨](https://zh.wikipedia.org/wiki/蝨 "wikilink")。化学家布鲁诺·特施在汉堡发明了基于齊克隆的二代产品，称为齊克隆B。
 
-1930年，经过股本转让，德意志害蟲防治公司（）改由德國的[IG法本持股](https://zh.wikipedia.org/wiki/IG法本 "wikilink")，并由幾家化工公司合資製造。经销公司则以[易北河](../Page/易北河.md "wikilink")分隔两区，以东由位于汉堡的Tesch & Stabenow（Testa）公司经销，以西则由位于法兰克福的Heerdt-Linger GmbH （Heli）公司经销。
+1930年，经过股本转让，德意志害蟲防治公司（）改由德國的[IG法本持股](https://zh.wikipedia.org/wiki/IG法本 "wikilink")，并由幾家化工公司合資製造。经销公司则以[易北河](../Page/易北河.md "wikilink")分隔两区，以东由位于[汉堡](../Page/汉堡.md "wikilink")的Tesch & Stabenow（Testa）公司经销，以西则由位于法兰克福的Heerdt-Linger GmbH （Heli）公司经销。
 
 齊克隆B目前在[捷克](../Page/捷克.md "wikilink")的廠仍有生產，商品名為Uragan D2，用作殺蟲劑使用。
 

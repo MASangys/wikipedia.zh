@@ -1,3 +1,6 @@
+> 本文内容由[Lump of Sugar](https://zh.wikipedia.org/wiki/Lump_of_Sugar)转换而来。
+
+
 **Lump of Sugar**是一間[日本](../Page/日本.md "wikilink")十八禁[美少女遊戲](../Page/美少女遊戲.md "wikilink")製作公司，於[2005年4月](../Page/2005年4月.md "wikilink")開始活動。Lump of Sugar的意思是角砂糖（即[方糖](https://zh.wikipedia.org/wiki/方糖 "wikilink")），所以Lump of Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。擔當[原畫的是](https://zh.wikipedia.org/wiki/原畫 "wikilink")[同人團體](https://zh.wikipedia.org/wiki/同人 "wikilink")「ZIP」的畫家[萌木原文武](../Page/萌木原文武.md "wikilink")。
 
 ## 作品列表

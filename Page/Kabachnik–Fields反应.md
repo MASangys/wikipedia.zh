@@ -1,3 +1,6 @@
+> 本文内容由[Kabachnik–Fields反应](https://zh.wikipedia.org/wiki/Kabachnik–Fields反应)转换而来。
+
+
 **Kabachnik–Fields反应**（Kabachnik–Fields reaction），由 Martin Izrailevich Kabachnik\[1\] 和 Ellis K. Fields\[2\] 分别在1952年发现。
 
 一分子[羰基化合物](https://zh.wikipedia.org/wiki/羰基化合物 "wikilink")、一分子[胺与一分子](https://zh.wikipedia.org/wiki/胺 "wikilink")[膦酸二酯](https://zh.wikipedia.org/wiki/膦酸二酯 "wikilink")[多组分](https://zh.wikipedia.org/wiki/多组分 "wikilink")[缩合生成α](https://zh.wikipedia.org/wiki/缩合 "wikilink")-[氨基](https://zh.wikipedia.org/wiki/氨基 "wikilink")[烷基膦酸酯](https://zh.wikipedia.org/wiki/烷基膦酸 "wikilink")。

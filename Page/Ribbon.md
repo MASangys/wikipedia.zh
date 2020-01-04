@@ -13,7 +13,7 @@ Windows Ribbon是一个[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink
 
 ### 对于编程者
 
-为编写Windows程序提供了提供了便利，使用[VC](https://zh.wikipedia.org/wiki/VC "wikilink")／[RAD Studio编程的同行一般都可以用上该架构](https://zh.wikipedia.org/wiki/RAD_Studio "wikilink")。但需注意，在[Windows XP之前的Windows可能不支援Ribbon](../Page/Windows_XP.md "wikilink")。
+为编写Windows程序提供了提供了便利，使用[VC](https://zh.wikipedia.org/wiki/VC "wikilink")／[RAD Studio编程的程序员一般都可以用上该架构](https://zh.wikipedia.org/wiki/RAD_Studio "wikilink")。但需注意，在[Windows XP之前的Windows可能不支援Ribbon](../Page/Windows_XP.md "wikilink")。
 
 ## 参考资料
 

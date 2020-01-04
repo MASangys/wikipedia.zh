@@ -1,3 +1,6 @@
+> 本文内容由[Windows Server 2003 R2](https://zh.wikipedia.org/wiki/Windows_Server_2003_R2)转换而来。
+
+
 **Windows Server 2003 R2**是[Windows Server 2003的改進版本](../Page/Windows_Server_2003.md "wikilink")，在[2005年12月](../Page/2005年12月.md "wikilink")發售，但舊版的用戶不能免費更新到新版本，而需要付費更新。不過，現時市面上所發售的都是R2。R2的內容除了包含Win2K3 SP1以外，還有另外一片CD，包含更多新的功能。
 
 ## R2的新功能

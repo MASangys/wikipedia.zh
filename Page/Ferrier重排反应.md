@@ -1,3 +1,6 @@
+> 本文内容由[Ferrier重排反应](https://zh.wikipedia.org/wiki/Ferrier重排反应)转换而来。
+
+
 **Ferrier重排反应**（Ferrier rearrangement），由[糖化学家](https://zh.wikipedia.org/wiki/糖化学 "wikilink")[罗伯特·费里尔](https://zh.wikipedia.org/wiki/罗伯特·费里尔 "wikilink")（Robert J. Ferrier）首先报道。\[1\]
 
 [烯糖](https://zh.wikipedia.org/wiki/烯糖 "wikilink")（2,3-[不饱和](https://zh.wikipedia.org/wiki/不饱和 "wikilink")[糖苷](../Page/糖苷.md "wikilink")）经[亲核取代反应](../Page/亲核取代反应.md "wikilink")，生成[烯丙基重排的产物](https://zh.wikipedia.org/wiki/烯丙基重排 "wikilink")。

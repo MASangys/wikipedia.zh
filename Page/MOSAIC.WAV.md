@@ -1,3 +1,6 @@
+> 本文内容由[MOSAIC.WAV](https://zh.wikipedia.org/wiki/MOSAIC.WAV)转换而来。
+
+
 **MOSAIC.WAV**是日本的演唱團體，由[歌手](../Page/歌手.md "wikilink")MI-KO（）和[电子琴手](https://zh.wikipedia.org/wiki/电子琴 "wikilink")[柏森進組成](https://zh.wikipedia.org/wiki/柏森進 "wikilink")，属于声优音像事务所「Sham.Studio」，以[美少女遊戲](../Page/美少女遊戲.md "wikilink")的乐曲制作为中心活動。组合最初进行着以自主制作音乐作品为形式的活动，后来也参与大型的活动（Lantis为主）。原本是以「MOSAIC」作为名字的，不过因为同名的企业已经存在，后来以Windows一般的音频格式WAVE的扩展名「.WAV」附加上去改了名字。他们与[吉他](../Page/吉他.md "wikilink")手[小池雅也之间交情很深](https://zh.wikipedia.org/wiki/小池雅也 "wikilink")。
 
 ## 作品

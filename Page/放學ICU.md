@@ -1,3 +1,6 @@
+> 本文内容由[放學ICU](https://zh.wikipedia.org/wiki/放學ICU)转换而来。
+
+
 《**放學ICU**\[1\]》（）（2005年1月3日—2015年1月9日），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的一個兒童節目，此節目接替同類型兒童節目《[至NET小人類](../Page/至NET小人類.md "wikilink")》，[收視約為](https://zh.wikipedia.org/wiki/收視率 "wikilink")3－9點。\[2\]
 
 ## 概要

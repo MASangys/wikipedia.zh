@@ -1,3 +1,6 @@
+> 本文内容由[Guerbet反应](https://zh.wikipedia.org/wiki/Guerbet反应)转换而来。
+
+
 **Guerbet反应**（Guerbet reaction），以化学家Marcel Guerbet (1861－1938)的名字命名。
 
 [催化剂](../Page/催化剂.md "wikilink")存在和加热条件下，两分子[脂肪族](https://zh.wikipedia.org/wiki/脂肪族 "wikilink")[伯醇进行反应](https://zh.wikipedia.org/wiki/伯醇 "wikilink")，失去一分子水，转变为其β-[烷化的](https://zh.wikipedia.org/wiki/烷化 "wikilink")[二聚](https://zh.wikipedia.org/wiki/二聚体 "wikilink")[醇](../Page/醇.md "wikilink")。\[1\]

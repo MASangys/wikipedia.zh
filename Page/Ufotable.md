@@ -7,7 +7,7 @@ ufotable是由出身於[Telecom Animation Film](https://zh.wikipedia.org/wiki/Te
 
 主要業務包括動畫的企劃和製作、[系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink")、場景製作、[電視劇實物影像的企劃和製作](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[CG製作及](https://zh.wikipedia.org/wiki/CG "wikilink")[黏土動畫製作](https://zh.wikipedia.org/wiki/黏土動畫 "wikilink")。
 
-於2019年3月12日因懷疑逃稅四億日元而受到東京稅務局的調查。[1](https://headlines.yahoo.co.jp/article?a=20190328-00011227-bunshun-ent)
+於2019年3月12日因懷疑逃稅四億日元而受到東京稅務局的調查。[1](https://web.archive.org/web/20190330075845/https://headlines.yahoo.co.jp/article?a=20190328-00011227-bunshun-ent)
 
 ## 作品列表
 
@@ -223,6 +223,6 @@ ufotable是由出身於[Telecom Animation Film](https://zh.wikipedia.org/wiki/Te
 ## 外部連結
 
   - [官方網站](http://www.ufotable.com/index.html)
-  - [劇場版「Fate」の人気アニメ会社に脱税疑惑　東京国税局がガサ入れ](https://headlines.yahoo.co.jp/article?a=20190328-00011227-bunshun-ent)
+  - [劇場版「Fate」の人気アニメ会社に脱税疑惑　東京国税局がガサ入れ](https://web.archive.org/web/20190330075845/https://headlines.yahoo.co.jp/article?a=20190328-00011227-bunshun-ent)
 
 [Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink") [Category:Ufotable](https://zh.wikipedia.org/wiki/Category:Ufotable "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")

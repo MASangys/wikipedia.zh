@@ -1,3 +1,6 @@
+> 本文内容由[Scala](https://zh.wikipedia.org/wiki/Scala)转换而来。
+
+
 **Scala**（）是一门[多范式的编程语言](https://zh.wikipedia.org/wiki/多范式 "wikilink")，设计初衷是要整合面向对象编程和[函数式编程](../Page/函数式编程.md "wikilink")的各种特性。\[1\]
 
 ## 平台和许可证

@@ -1,3 +1,6 @@
+> 本文内容由[MBC週末連續劇](https://zh.wikipedia.org/wiki/MBC週末連續劇)转换而来。
+
+
 **MBC週末連續劇**（ ）是[MBC從](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")1977年7月16日開始每逢星期六和星期日晚間播出。2017年11月12日開始改在星期日晚間播出。
 
 ## 播出時間變更

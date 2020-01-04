@@ -1,3 +1,6 @@
+> 本文内容由[MonStAR](https://zh.wikipedia.org/wiki/MonStAR)转换而来。
+
+
 《**MonStAR**》為[平野綾的第](https://zh.wikipedia.org/wiki/平野綾 "wikilink")6張單曲。 由[King Records於](https://zh.wikipedia.org/wiki/King_Records "wikilink")2007年12月5日發行。
 
 ## 概要

@@ -9,7 +9,7 @@ Pylons是最新的[Web应用框架](../Page/Web应用框架.md "wikilink")中的
 
 ### 安装和依赖
 
-Pylons的官方安装方法是从[Python CheeseShop](http://cheeseshop.python.org)下载使用[EasyInstall](http://peak.telecommunity.com/DevCenter/EasyInstall)完成，而大部分的附加工具也通常以相同方式安装。
+Pylons的官方安装方法是从[Python CheeseShop](http://cheeseshop.python.org)下载使用[EasyInstall](https://web.archive.org/web/20100708053624/http://peak.telecommunity.com/DevCenter/EasyInstall)完成，而大部分的附加工具也通常以相同方式安装。
 
 ### URL dispatch
 
@@ -37,7 +37,7 @@ Packages used by the default Pylons installation, or popular additions:
   - [Myghty](http://myghty.org) - URL Dispatch, Controllers, Caching, Templating and more
   - [Mako](http://www.makotemplates.org/docs/) - Alternative template engine to Myghty
   - [Python Paste](http://pythonpaste.org/) - Project setup, testing, and deployment
-  - [EasyInstall](http://peak.telecommunity.com/DevCenter/EasyInstall) - Installation and package dependencies
+  - [EasyInstall](https://web.archive.org/web/20100708053624/http://peak.telecommunity.com/DevCenter/EasyInstall) - Installation and package dependencies
   - [Routes](https://web.archive.org/web/20120205185539/http://routes.groovie.org/) - Routing implementation based on Rails routes
   - [FormEncode](http://formencode.org) - Validation and form generation
   - [WebHelpers](https://web.archive.org/web/20080914160852/http://pylonshq.com/WebHelpers/) - HTML Helper functions

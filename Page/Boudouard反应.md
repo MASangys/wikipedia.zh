@@ -1,3 +1,6 @@
+> 本文内容由[Boudouard反应](https://zh.wikipedia.org/wiki/Boudouard反应)转换而来。
+
+
 **Boudouard反应**（Boudouard reaction），又称**碳素溶解损失反应**、**碳的溶损反应**或**气化反应**
 
 [一氧化碳](../Page/一氧化碳.md "wikilink")在高温下[歧化为](https://zh.wikipedia.org/wiki/歧化 "wikilink")[二氧化碳](../Page/二氧化碳.md "wikilink")和[单质](../Page/单质.md "wikilink")[碳](../Page/碳.md "wikilink")的[反应或其](../Page/化学反应.md "wikilink")[逆反应](https://zh.wikipedia.org/wiki/逆反应 "wikilink")。\[1\]

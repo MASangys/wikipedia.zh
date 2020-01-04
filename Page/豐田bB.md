@@ -1,3 +1,6 @@
+> 本文内容由[豐田bB](https://zh.wikipedia.org/wiki/豐田bB)转换而来。
+
+
 **豐田bB**（**Toyota bB**）是一款由[豐田汽車於](https://zh.wikipedia.org/wiki/丰田汽车股份有限公司 "wikilink")2000年推出的小型車系列。
 
 ## 內容

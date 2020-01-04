@@ -155,7 +155,7 @@ Neway K-fun
   - 獨立洗手間（只限Neway CEO及部分分店）
   - 自選點唱站（只限部分分店）
   - 手機app點唱、cut歌、插播、重播、Shuffle、翻查紀錄、文字訊息、Save歌及Book房
-  - X-Box、PlayStaion及Windows PC （只限部分分店）
+  - [XBox](https://zh.wikipedia.org/wiki/XBox "wikilink")、[Play Station及](https://zh.wikipedia.org/wiki/Play_Station "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") PC （只限部分分店）
 
 ## 參考來源
 

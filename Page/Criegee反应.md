@@ -1,3 +1,6 @@
+> 本文内容由[Criegee反应](https://zh.wikipedia.org/wiki/Criegee反应)转换而来。
+
+
 **Criegee反应**（Criegee reaction）\[1\]
 
 [邻二醇被](https://zh.wikipedia.org/wiki/邻二醇 "wikilink")[四乙酸铅](../Page/四乙酸铅.md "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")，经过环状[酯](../Page/酯.md "wikilink")中间体，邻二醇的碳－碳键断裂，[醇](../Page/醇.md "wikilink")[羟基](../Page/羟基.md "wikilink")转化为相应的[醛](../Page/醛.md "wikilink")、[酮](../Page/酮.md "wikilink")。反应是定量的，通常在[乙酸](../Page/乙酸.md "wikilink")或[苯](../Page/苯.md "wikilink")溶液中进行，可用于邻二醇的定量分析。

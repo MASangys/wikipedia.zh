@@ -2773,6 +2773,7 @@
 
   - [七龍珠Z外傳 賽亞人滅絕計畫](../Page/七龍珠Z外傳_賽亞人滅絕計畫.md "wikilink")(1993年7月23日)
   - [七龍珠Z 巴達克之章](https://zh.wikipedia.org/wiki/七龍珠Z_巴達克之章 "wikilink")(2012年)
+  - [龍珠超布羅利這部劇場版將於年](https://zh.wikipedia.org/wiki/龍珠超布羅利 "wikilink")12月14日上映，在這部劇場版中布羅利又復活了。
 
 ## 參考來源
 

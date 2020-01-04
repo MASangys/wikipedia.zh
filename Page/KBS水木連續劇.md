@@ -1,3 +1,6 @@
+> 本文内容由[KBS水木連續劇](https://zh.wikipedia.org/wiki/KBS水木連續劇)转换而来。
+
+
 **KBS水木連續劇**（）是[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")1984年10月31日起創立的播放時段，於[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")、[星期四所播出的](https://zh.wikipedia.org/wiki/星期四 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")。曾於1998年末至2000年中一度取消，其後恢復至今。
 
 ## 播放時段
@@ -2963,18 +2966,29 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2020年1月－<br />
+<td style="text-align: center;"><p>2020年1月29日－<br />
 2020年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Oh!_我的男人們" title="wikilink">Oh! 我的男人們</a><br />
 </p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="../Page/韓相佑.md" title="wikilink">韓相佑</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2020年3月－<br />
+<td style="text-align: center;"><p>2020年3月4日－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="../Page/快過來.md" title="wikilink">快過來</a><br />
+</p></td>
+<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p><a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a>、<a href="../Page/徐志焄.md" title="wikilink">徐志焄</a></p></td>
+<td style="text-align: center;"><p>池秉賢</p></td>
+<td style="text-align: center;"><p>朱華美</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年4月－<br />
 2020年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/靈魂修繕工" title="wikilink">靈魂修繕工</a><br />
 </p></td>

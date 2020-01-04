@@ -1,3 +1,6 @@
+> 本文内容由[CUPS](https://zh.wikipedia.org/wiki/CUPS)转换而来。
+
+
 **CUPS**（）是一個[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系統的組合式印刷系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，允許一台電腦作為打印服务器。CUPS接受一個客戶端的電腦進程，並送到相應的[打印機](https://zh.wikipedia.org/wiki/打印機 "wikilink")。
 
 CUPS是[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，使用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")和[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")的第2版。

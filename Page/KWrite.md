@@ -1,3 +1,6 @@
+> 本文内容由[KWrite](https://zh.wikipedia.org/wiki/KWrite)转换而来。
+
+
 [Kwrite_block_selection.png](https://zh.wikipedia.org/wiki/File:Kwrite_block_selection.png "fig:Kwrite_block_selection.png")
 
 **KWrite**是一個輕量級、簡單的文字編輯器。

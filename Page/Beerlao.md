@@ -1,3 +1,6 @@
+> 本文内容由[Beerlao](https://zh.wikipedia.org/wiki/Beerlao)转换而来。
+
+
 **Beerlao** 是由位於[老撾首都](https://zh.wikipedia.org/wiki/老撾 "wikilink")[-{zh-cn:万象; zh-tw:永珍; zh-hk:永珍; zh-sg:永珍;}-的](../Page/永珍.md "wikilink")（LBC）所出產的[啤酒](../Page/啤酒.md "wikilink")[品牌](../Page/品牌.md "wikilink")，產品包括[麥啤和](https://zh.wikipedia.org/wiki/麥啤 "wikilink")[黑啤](https://zh.wikipedia.org/wiki/黑啤 "wikilink")。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[Showgirl: The Homecoming Tour](https://zh.wikipedia.org/wiki/Showgirl:_The_Homecoming_Tour)转换而来。
+
+
 **Showgirl: The Homecoming Tour**是由[澳大利亚](../Page/澳大利亚.md "wikilink")歌手[OBE](https://zh.wikipedia.org/wiki/OBE "wikilink")[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")举办的巡回演唱会。 凯利原先计划在2005年举办[Showgirl: The Greatest Hits Tour巡演之时将演唱会带至澳洲和](../Page/Showgirl:_The_Greatest_Hits_Tour.md "wikilink")[亚洲](../Page/亚洲.md "wikilink")，但是当她被诊断罹患[乳腺癌之后](https://zh.wikipedia.org/wiki/乳腺癌 "wikilink")，凯利被迫取消原定计划。\[1\]
 
 2006年11月11日，凯利在[悉尼娱乐中心举行演唱会](https://zh.wikipedia.org/wiki/悉尼娱乐中心 "wikilink")，重续先前中断的Showgirl巡演，演出所用的曲目表和演出服都有所变动，*Showgirl - The Homecoming Tour*中的舞蹈被重新编排以适应凯利病愈后的身体状况，演唱会中间的间场休息也被加长以便于凯利保存体力。\[2\]

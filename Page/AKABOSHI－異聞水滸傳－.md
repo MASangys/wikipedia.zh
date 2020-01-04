@@ -1,3 +1,6 @@
+> 本文内容由[AKABOSHI－異聞水滸傳－](https://zh.wikipedia.org/wiki/AKABOSHI－異聞水滸傳－)转换而来。
+
+
 《**AKABOSHI－異聞水滸傳－**》（）是[天野洋一](../Page/天野洋一.md "wikilink")的漫畫作品。《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》2009年25號至49號連載，全23話。
 
 天野洋一在《週刊少年Jump》上的第二個連載。登場角色與世界觀是以中國[宋朝](../Page/宋朝.md "wikilink")的小說《[水浒传](../Page/水浒传.md "wikilink")》為架構。

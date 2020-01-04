@@ -5,7 +5,7 @@
 
 Flash Player使用的[SWF文件](https://zh.wikipedia.org/wiki/SWF "wikilink")，可由[Adobe Animate](../Page/Adobe_Animate.md "wikilink")、[Adobe Flex或者其他软件或第三方工具创建](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")。Adobe Animate原名Flash，同时表示创作程序和播放器。它同时使用[位图](../Page/位图.md "wikilink")和[矢量图形](../Page/矢量图形.md "wikilink")，利用[ActionScript](../Page/ActionScript.md "wikilink")脚本语言进行编程，支持双向视频流和音频流。严格来说，Adobe Flash是创作环境而Flash Player是运行Flash文件的虚拟机。但是，通常二者均可称为Flash，即Flash同时有三种含义：创作环境，播放器和程序文件。Flash Player支持内嵌的脚本语言[ActionScript](../Page/ActionScript.md "wikilink")（AS）。ActionScript是一种基于[ECMAScript](../Page/ECMAScript.md "wikilink")的脚本语言，可用于编写Adobe Flash动画和应用程序。由于ActionScript和[JavaScript](../Page/JavaScript.md "wikilink")都是基于ECMAScript语法的，理论上它们互相可以很流畅地从一种语言翻译到另一种。Adobe Flash Player最初設計目的為播放二維向量动画，但至此之後成為適合開發創造[豐富性網際網路應用程式](../Page/丰富互联网应用程序.md "wikilink")、串流視訊音訊的工具。Flash Player使用[向量圖形的技術來最小化檔案的大小以及創造節省網路頻寬和下載時間的檔案](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")。因此Flash成為嵌入網頁中的小遊戲、動畫、廣告、以及[圖形使用者介面常用的格式](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")。
 
-因Flash的諸多限制和[資訊安全問題](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")，各大瀏覽器包括[Safari](../Page/Safari.md "wikilink")、[Chrome](https://zh.wikipedia.org/wiki/Chrome "wikilink")、[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")、[Internet Explorer 11及](../Page/Internet_Explorer_11.md "wikilink")[Firefox](../Page/Firefox.md "wikilink")等棄用 Flash 預載，以及[HTML5](../Page/HTML5.md "wikilink")的興起，Flash Player的使用率逐年下滑\[2\]。 Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Player。\[3\]
+因Flash的諸多限制和[資訊安全問題](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")，以及[HTML5](../Page/HTML5.md "wikilink")的興起，各大瀏覽器包括[Safari](../Page/Safari.md "wikilink")、[Chrome](https://zh.wikipedia.org/wiki/Chrome "wikilink")、[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")、[Internet Explorer 11及](../Page/Internet_Explorer_11.md "wikilink")[Firefox](../Page/Firefox.md "wikilink")等棄用 Flash 預載，Flash Player的使用率逐年下滑\[2\]。Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Player。\[3\]
 
 ## 行動版本
 
@@ -228,11 +228,11 @@ Flash Player使用的[SWF文件](https://zh.wikipedia.org/wiki/SWF "wikilink")�
 
 > 为了产品的技术优化，为用户提供更好的体验，在不涉及侵犯用户个人隐私的前提下，程序可能会记录用户如何使用本程序的信息和用户使用本程序的相关数据。这些信息用于持续改进相应程序功能。程序具有自动更新功能，以便及时为用户提供新功能同时修正程序中的错误。\[25\]
 
-但目前“中国特供版”Adobe Flash Player 安装包附带安装的 Flash Helper Service 服务依然存在，且常驻系统，不可关闭。\[26\]
+但目前“中国特供版”Adobe Flash Player 安装包附带安装的 Flash Helper Service 服务依然存在，且常驻系统，不可关闭。
 
 ### 流氓行为
 
-上节中提到的后台进程除了收集用户隐私外，还会不定时弹出广告窗口。\[27\]
+上节中提到的后台进程除了收集用户隐私外，还会不定时弹出广告窗口。\[26\]
 
 ## 注釋
 
@@ -274,5 +274,4 @@ Flash Player使用的[SWF文件](https://zh.wikipedia.org/wiki/SWF "wikilink")�
 23.
 24.
 25.
-26. 有网友分享了一些解决办法，包括卸载Flash、使用Chrome/Edge浏览器，或者将系统语言和区域更改为“简体中文-新加坡”
-27.
+26.

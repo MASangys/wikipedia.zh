@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第十一章：消化系统疾病](https://zh.wikipedia.org/wiki/ICD-10_第十一章：消化系统疾病)转换而来。
+
+
 ## K00-K14 口腔、涎腺和颌疾病
 
 K00-K14 [口腔](../Page/口腔.md "wikilink")、[涎腺和](https://zh.wikipedia.org/wiki/唾腺 "wikilink")[颌疾病](https://zh.wikipedia.org/wiki/颌 "wikilink")

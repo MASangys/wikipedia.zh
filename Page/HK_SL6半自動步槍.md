@@ -1,3 +1,6 @@
+> 本文内容由[HK SL6半自動步槍](https://zh.wikipedia.org/wiki/HK_SL6半自動步槍)转换而来。
+
+
 **HK SL6**是一枝由[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒-科赫公司所设计及生產](../Page/黑克勒&科赫.md "wikilink")，以[滾輪延遲反衝式槍機操作的運動用](https://zh.wikipedia.org/wiki/滾輪延遲反衝式 "wikilink")[半自动步枪](../Page/半自动步枪.md "wikilink")。發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述

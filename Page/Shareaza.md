@@ -1,3 +1,6 @@
+> 本文内容由[Shareaza](https://zh.wikipedia.org/wiki/Shareaza)转换而来。
+
+
 **Shareaza**（昵称：）是一个[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享](https://zh.wikipedia.org/wiki/文件共享 "wikilink")[软件](../Page/软件.md "wikilink")，支持[Gnutella](../Page/Gnutella.md "wikilink")、[Gnutella2](https://zh.wikipedia.org/wiki/Gnutella2 "wikilink")（由Shareaza开发者为其原创）、[eDonkey](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")、[BitTorrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")、[HTTP网络协议](https://zh.wikipedia.org/wiki/HTTP "wikilink")，可使用[Magnet链接](https://zh.wikipedia.org/wiki/Magnet链接 "wikilink")、[eD2k链接](https://zh.wikipedia.org/wiki/eD2k链接 "wikilink")、[Piolet链接以及现在不再建议使用的Gnutella链接](https://zh.wikipedia.org/wiki/Piolet "wikilink")\[1\]。另外，Shareaza还支持30种语言界面。
 
 Shareaza最初由迈克尔·斯托克斯（）开发\[2\]。2004年6月1日，Shareaza2.0与其源代码一同发布。Shareaza遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")协议，因而是一款[自由软件](../Page/自由软件.md "wikilink")。现在Shareaza由一群程序员志愿者开发维护。

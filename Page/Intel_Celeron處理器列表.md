@@ -7,7 +7,7 @@
 
 ### [P6微架構](../Page/P6微架構.md "wikilink")
 
-#### Covington (250 nm)
+#### Covington（250 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")*
 
@@ -16,7 +16,7 @@
 | [Celeron 266](http://ark.intel.com/zh-tw/products/49933) | B0      | 266 MHz                                           | 0 KB                                                 | 66 MT/s                                                 | 4× | 2 V                            | 16.59 W                                             | [Slot 1](../Page/Slot_1.md "wikilink") | 1998年4月 |
 | [Celeron 300](http://ark.intel.com/zh-tw/products/49934) | 300 MHz | 4.5×                                              | 18.48 W                                              | 1998年6月                                                 |    |                                |                                                     |                                        |         |
 
-#### Mendocino (250 nm)
+#### Mendocino（250 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")*
 
@@ -136,7 +136,7 @@
 </tbody>
 </table>
 
-#### Coppermine-128 (180 nm)
+#### Coppermine-128（180 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")*
 
@@ -157,7 +157,7 @@
 | [Celeron 1.00](http://ark.intel.com/zh-tw/products/27164) | 1000 MHz | 10×                                               | 29 W                                                 |                                                         |             |                                |                                                     |                                                |         |
 | [Celeron 1.10](http://ark.intel.com/zh-tw/products/27166) | 1100 MHz | 11×                                               | 33 W                                                 |                                                         |             |                                |                                                     |                                                |         |
 
-#### Tualatin-256 (130 nm)
+#### Tualatin-256（130 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")*
 
@@ -172,7 +172,7 @@
 
 ### [NetBurst微架構](../Page/NetBurst微架構.md "wikilink")
 
-#### Willamette-128 (180 nm)
+#### Willamette-128（180 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
 
@@ -185,7 +185,7 @@
 | [Celeron 1.9](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%201900%20-%20RK80531RC037128%20\(BX80531P190G128\).html) | 1.9 GHz | 19×                                               |                                                      |                                                         |     |                                |                                                     |                                                |      |
 | [Celeron 2.0](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%202000%20-%20RK80531RC041128%20\(BX80531P200G128\).html) | 2.0 GHz | 20×                                               | 71.2 W                                               |                                                         |     |                                |                                                     |                                                |      |
 
-#### Northwood-128 (130 nm)
+#### Northwood-128（130 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
 
@@ -202,7 +202,7 @@
 | [Celeron 2.7](http://ark.intel.com/zh-tw/products/27181)  | 2.7 GHz | 27×                                               | 66.8 W                                               | 2003年9月24日                                              |            |                                |                                                     |                                                |         |
 | [Celeron 2.8](http://ark.intel.com/zh-tw/products/27182)  | 2.8 GHz | 28×                                               | 68.4 W                                               | 2003年11月5日                                              |            |                                |                                                     |                                                |         |
 
-#### Prescott-256 (90 nm)
+#### Prescott-256（90 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")*
   - Celeron D 3X1、Celeron D 3X6及Celeron D 355支援[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")。
@@ -238,7 +238,7 @@
 | [Celeron D 351](http://ark.intel.com/zh-tw/products/27128)  | G1                                       | 84 W                                              | [LGA 775](../Page/LGA_775.md "wikilink")             |                                                         |            |                                |                                                     |                                                |          |
 | [Celeron D 355](http://ark.intel.com/zh-tw/products/27130)  | 3.33 GHz                                 | 25×                                               | 2005年12月                                             |                                                         |            |                                |                                                     |                                                |          |
 
-#### Cedar Mill-512 (65 nm)
+#### Cedar Mill-512（65 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")*
 
@@ -252,7 +252,7 @@
 
 ### [Core微架構](../Page/Core微架構.md "wikilink")
 
-#### Conroe-L / -CL (65 nm)
+#### Conroe-L / -CL（65 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")*
   - Celeron 445支援[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x。
@@ -266,7 +266,7 @@
 | [Celeron 445](http://ark.intel.com/zh-tw/products/35277) | ?       | 1.86 GHz | 1066 MT/s                                         | 7×                                                   |                                                         | 65 W      | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") |                                                     |             |             |
 | [Celeron 450](http://ark.intel.com/zh-tw/products/35239) | A1      | 2.2 GHz  | 800 MT/s                                          | 11×                                                  | 1.05 - 1.3 V                                            | 35 W      | [LGA 775](../Page/LGA_775.md "wikilink")                    | 2008年9月12日                                          |             |             |
 
-#### Allendale (65 nm)
+#### Allendale（65 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")*
 
@@ -277,7 +277,7 @@
 | [Celeron E1500](http://ark.intel.com/zh-tw/products/35100) | 2.2 GHz | 11× | 0.96 - 1.27 V                                     |                                                      |                                                         |    |                                |                                                     |                                          |            |
 | [Celeron E1600](http://ark.intel.com/zh-tw/products/34751) | 2.4 GHz | 12× |                                                   |                                                      |                                                         |    |                                |                                                     |                                          |            |
 
-#### Wolfdale (45 nm)
+#### Wolfdale（45 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
 
@@ -290,7 +290,7 @@
 
 ### [Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")
 
-#### Clarkdale (32 nm)
+#### Clarkdale（32 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
 
@@ -302,7 +302,7 @@
 
 ### [Sandy Bridge微架構](../Page/Sandy_Bridge微架構.md "wikilink")
 
-#### Sandy Bridge (32 nm)
+#### Sandy Bridge （32 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
@@ -354,7 +354,7 @@
 <td><p>2×256 KB</p></td>
 <td><p>2 MB</p></td>
 <td><p>Intel <a href="https://zh.wikipedia.org/wiki/HD_Graphics" title="wikilink">HD Graphics</a><br />
-(0.85 / 1 GHz)</p></td>
+（0.85/1 GHz）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>65 W</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a></p></td>
@@ -415,7 +415,7 @@
 <td><p>256 KB</p></td>
 <td><p>1 MB</p></td>
 <td><p>Intel <a href="https://zh.wikipedia.org/wiki/HD_Graphics" title="wikilink">HD Graphics</a><br />
-(0.65 / 1 GHz)</p></td>
+（0.65/1 GHz）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>35 W</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a></p></td>
@@ -495,7 +495,7 @@
 </tbody>
 </table>
 
-#### Ivy Bridge (22 nm)
+#### Ivy Bridge（22 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、ECC*
 
@@ -547,7 +547,7 @@
 <td><p>2×256 KB</p></td>
 <td><p>2 MB</p></td>
 <td><p>Intel <a href="https://zh.wikipedia.org/wiki/HD_Graphics" title="wikilink">HD Graphics</a><br />
-(0.65 / 1.05 GHz)</p></td>
+（0.65/1.05 GHz）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>55 W</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a></p></td>
@@ -596,7 +596,7 @@
 <td><p>2×256 KB</p></td>
 <td><p>2 MB</p></td>
 <td><p>Intel <a href="https://zh.wikipedia.org/wiki/HD_Graphics" title="wikilink">HD Graphics</a><br />
-(0.65 / 1.05 GHz)</p></td>
+（0.65/1.05 GHz）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>35 W</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a></p></td>
@@ -618,7 +618,7 @@
 
 ### Silvermont微架构
 
-#### "Bay Trail-D" (22 nm)
+#### "Bay Trail-D"（22 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EIST](../Page/SpeedStep.md "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink").*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
@@ -628,14 +628,14 @@
 <thead>
 <tr class="header">
 <th><p>型号</p></th>
-<th><p>sSpec编号 (步进)</p></th>
+<th><p>sSpec编号（步进）</p></th>
 <th><p>核心/线程</p></th>
-<th><p>处理器基本频率(GHz)</p></th>
-<th><p>处理器加速频率(MHz)</p></th>
-<th><p><small>L2缓存(MB)</small></p></th>
+<th><p>处理器基本频率（GHz）</p></th>
+<th><p>处理器加速频率（MHz）</p></th>
+<th><p><small>L2缓存（MB）</small></p></th>
 <th><p>处理器显卡</p></th>
-<th><p>处理器显卡频率(MHz)</p></th>
-<th><p>内存控制器 (MHz)</p></th>
+<th><p>处理器显卡频率（MHz）</p></th>
+<th><p>内存控制器 （MHz）</p></th>
 <th><p>TDP</p></th>
 <th><p>插槽</p></th>
 <th><p>发布日期</p></th>
@@ -644,12 +644,12 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/76531">Celeron J1750</a></p></td>
-<td><p>SR1LP (B2) SR1H6 (B2)</p></td>
+<td><p>SR1LP（B2） SR1H6（B2）</p></td>
 <td><p>2/2</p></td>
 <td><p>2.41</p></td>
 <td></td>
 <td><p>1</p></td>
-<td><p>HD Graphics (4 EUs)</p></td>
+<td><p>HD Graphics（4 EUs）</p></td>
 <td><p>688-750</p></td>
 <td><p>DDR3L-1333</p></td>
 <td><p>10 W</p></td>
@@ -658,8 +658,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/78866">Celeron J1800</a></p></td>
-<td><p>SR1SD (B3)</p>
-<p>SR1UU (C0)</p></td>
+<td><p>SR1SD（B3）</p>
+<p>SR1UU（C0）</p></td>
 <td><p>2.58</p></td>
 <td><p>688-792</p></td>
 <td><p>2013年11月</p></td>
@@ -673,7 +673,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/76530">Celeron J1850</a></p></td>
-<td><p>SR1LN (B2) SR1H5 (B2)</p></td>
+<td><p>SR1LN（B2） SR1H5（B2）</p></td>
 <td><p>4/4</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -687,8 +687,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/78867">Celeron J1900</a></p></td>
-<td><p>SR1SC (B3)</p>
-<p>SR1UT (C0)</p></td>
+<td><p>SR1SC（B3）</p>
+<p>SR1UT（C0）</p></td>
 <td><p>2.41</p></td>
 <td><p>688-854</p></td>
 <td><p>2013年11月</p></td>
@@ -717,21 +717,21 @@
 </tbody>
 </table>
 
-#### "Braswell" (14 nm)
+#### "Braswell"（14 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于[Broadwell](../Page/Broadwell微架構.md "wikilink") Intel HD Graphics，包含12个EU单元和支持[DirectX 11.2](../Page/DirectX.md "wikilink")，OpenGL 4.4，OpenGL ES 3.0以及 OpenCL 2.0
 
-| 型号                                                          | sSpec编号 (步进) | 核心/线程 | 处理器基本频率(GHz) | 处理器加速频率(GHz) | <small>L2缓存(MB)</small> | 处理器显卡           | 处理器显卡频率(MHz) | 内存控制器 (MHz) | TDP | 插槽       | 发布日期    |
-| ----------------------------------------------------------- | ------------ | ----- | ------------ | ------------ | ----------------------- | --------------- | ------------ | ----------- | --- | -------- | ------- |
-| [Celeron J3060](https://ark.intel.com/zh-cn/products/91534) | SR2KR (D1)   | 2/2   | 1.6          | 2.48         | 1                       | HD Graphics 400 | 320-700      | DDR3L-1600  | 6 W | BGA 1170 | 2016年1月 |
-| [Celeron J3160](https://ark.intel.com/zh-cn/products/91533) | SR2KS (D1)   | 4/4   | 2.24         | 2            |                         |                 |              |             |     |          |         |
-|                                                             |              |       |              |              |                         |                 |              |             |     |          |         |
+| 型号                                                          | sSpec编号（步进） | 核心/线程 | 处理器基本频率（GHz） | 处理器加速频率（GHz） | <small>L2缓存（MB）</small> | 处理器显卡           | 处理器显卡频率（MHz） | 内存控制器 （MHz） | TDP | 插槽       | 发布日期    |
+| ----------------------------------------------------------- | ----------- | ----- | ------------ | ------------ | ----------------------- | --------------- | ------------ | ----------- | --- | -------- | ------- |
+| [Celeron J3060](https://ark.intel.com/zh-cn/products/91534) | SR2KR（D1）   | 2/2   | 1.6          | 2.48         | 1                       | HD Graphics 400 | 320-700      | DDR3L-1600  | 6 W | BGA 1170 | 2016年1月 |
+| [Celeron J3160](https://ark.intel.com/zh-cn/products/91533) | SR2KS（D1）   | 4/4   | 2.24         | 2            |                         |                 |              |             |     |          |         |
+|                                                             |             |       |              |              |                         |                 |              |             |     |          |         |
 
 ### [Haswell微架构](../Page/Haswell微架構.md "wikilink")
 
-#### Haswell (22 nm)
+#### Haswell（22 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
 
@@ -752,8 +752,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><h5 id="l2kb">L2(KB)</h5></td>
-<td><h5 id="l3mb">L3(MB)</h5></td>
+<td><h5 id="l2kb">L2（KB）</h5></td>
+<td><h5 id="l3mb">L3（MB）</h5></td>
 <td></td>
 <td></td>
 <td></td>
@@ -782,7 +782,7 @@
 <td><p>2.70GHz</p></td>
 <td><p>2 x 256</p></td>
 <td><p>2</p></td>
-<td><p>Intel <a href="../Page/Intel_HD_Graphics.md" title="wikilink">HD Graphics</a> ( 0.35 / 1.05 GHz)</p></td>
+<td><p>Intel <a href="../Page/Intel_HD_Graphics.md" title="wikilink">HD Graphics</a>（0.35 / 1.05 GHz）</p></td>
 <td><p><a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3</a>-1333MHz</p></td>
 <td><p>53W</p></td>
 <td><p><a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a></p></td>
@@ -842,7 +842,7 @@
 <td><p>2.40GHz</p></td>
 <td><p>2 x 256</p></td>
 <td><p>2</p></td>
-<td><p>Intel <a href="../Page/Intel_HD_Graphics.md" title="wikilink">HD Graphics</a> ( 0.20 / 1.05GHz )</p></td>
+<td><p>Intel <a href="../Page/Intel_HD_Graphics.md" title="wikilink">HD Graphics</a>（0.20 / 1.05GHz）</p></td>
 <td><p><a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3</a>-1333MHz</p></td>
 <td><p>35W</p></td>
 <td><p><a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a></p></td>
@@ -878,7 +878,7 @@
 <td><p>2.2GHz</p></td>
 <td><p>2 x 256</p></td>
 <td><p>2</p></td>
-<td><p>Intel <a href="../Page/Intel_HD_Graphics.md" title="wikilink">HD Graphics</a> ( 0.20 / 1.0 GHz)</p></td>
+<td><p>Intel <a href="../Page/Intel_HD_Graphics.md" title="wikilink">HD Graphics</a>（0.20 / 1.0 GHz）</p></td>
 <td><p>DDR3-1333MHz</p></td>
 <td><p>35 W</p></td>
 <td><p>LGA 1150</p></td>
@@ -888,87 +888,87 @@
 
 ### [Skylake微架构](../Page/Skylake微架構.md "wikilink")
 
-#### "Skylake-S" (14 nm)
+#### "Skylake-S"（14 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI、Smart Cache.*
   - 全部型号支持DDR3-1600或DDR4-2133内存
   - 全部型号均支持ECC内存
 
-| 型号                                                            | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)    | 内存控制器 (MHz) | TDP                                     | 插槽   | 发布日期     |
+| 型号                                                            | sSpec编号（步进）           | 核心/线程 | 处理器基本频率（GHz） | 缓存      | 处理器显卡 | 处理器显卡频率（MHz）    | 内存控制器 (MHz) | TDP                                     | 插槽   | 发布日期     |
 | ------------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | --------------- | ----------- | --------------------------------------- | ---- | -------- |
-| <small>L2(KB)</small>                                         | <small>L3(MB)</small> |       |              |         |       |                 |             |                                         |      |          |
+| <small>L2（KB）</small>                                         | <small>L3（MB）</small> |       |              |         |       |                 |             |                                         |      |          |
 | <font color=white>**标准功耗**</font>                             |                       |       |              |         |       |                 |             |                                         |      |          |
-| [Celeron G3900](https://ark.intel.com/zh-cn/products/90741)   | SR2HV (S0)            | 2/2   | 2.8          | 2 x 256 | 2     | HD Graphics 510 | 350–950     | DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V | 51 W | LGA 1151 |
-| [Celeron G3920](https://ark.intel.com/zh-cn/products/90737)   | SR2HX (S0)            | 2.9   |              |         |       |                 |             |                                         |      |          |
+| [Celeron G3900](https://ark.intel.com/zh-cn/products/90741)   | SR2HV（S0）             | 2/2   | 2.8          | 2 x 256 | 2     | HD Graphics 510 | 350–950     | DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V | 51 W | LGA 1151 |
+| [Celeron G3920](https://ark.intel.com/zh-cn/products/90737)   | SR2HX（S0）             | 2.9   |              |         |       |                 |             |                                         |      |          |
 | <font color=white>**嵌入式**</font>                              |                       |       |              |         |       |                 |             |                                         |      |          |
-| [Celeron G3900E](https://ark.intel.com/zh-cn/products/90713)  | SR2GH (R0)            | 2/2   | 2.4          | 2 x 256 | 2     | HD Graphics 510 | 350–950     | DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V | 35 W | BGA 1440 |
-| [Celeron G3900TE](https://ark.intel.com/zh-cn/products/90711) | SR2LU (R0)            | 2.3   | LGA 1151     |         |       |                 |             |                                         |      |          |
+| [Celeron G3900E](https://ark.intel.com/zh-cn/products/90713)  | SR2GH（R0）             | 2/2   | 2.4          | 2 x 256 | 2     | HD Graphics 510 | 350–950     | DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V | 35 W | BGA 1440 |
+| [Celeron G3900TE](https://ark.intel.com/zh-cn/products/90711) | SR2LU（R0）             | 2.3   | LGA 1151     |         |       |                 |             |                                         |      |          |
 | <font color=white>**低功耗**</font>                              |                       |       |              |         |       |                 |             |                                         |      |          |
-| Celeron G3900T                                                | SR2HT (S0)            | 2/2   | 2.6          | 2 x 256 | 2     | HD Graphics 510 | 350–950     | DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V | 35 W | LGA 1151 |
+| Celeron G3900T                                                | SR2HT（S0）             | 2/2   | 2.6          | 2 x 256 | 2     | HD Graphics 510 | 350–950     | DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V | 35 W | LGA 1151 |
 | <font color=white>**嵌入式低功耗**</font>                           |                       |       |              |         |       |                 |             |                                         |      |          |
-| [Celeron G3902E](https://ark.intel.com/zh-cn/products/90619)  | SR2GJ (R0)            | 2/2   | 1.6          | 2 x 256 | 2     | HD Graphics 510 | 350–950     | DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V | 25 W | BGA 1440 |
+| [Celeron G3902E](https://ark.intel.com/zh-cn/products/90619)  | SR2GJ（R0）             | 2/2   | 1.6          | 2 x 256 | 2     | HD Graphics 510 | 350–950     | DDR4-1866/2133, DDR3L-1333/1600 @ 1.35V | 25 W | BGA 1440 |
 
 ### Goldmont微架构
 
-#### "Apollo Lake" (14 nm)
+#### "Apollo Lake"（14 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于Skylake Intel HD Graphics，包含12个EU单元和支持[DirectX 12](../Page/DirectX.md "wikilink")，OpenGL 4.5，OpenGL ES 3.0以及 OpenCL 2.0
 
-| 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz) | 内存控制器 (MHz) | TDP                                                                                                | 插槽  | 发布日期     |
+| 型号                                                          | sSpec编号（步进）           | 核心/线程 | 处理器基本频率（GHz） | 缓存      | 处理器显卡 | 处理器显卡频率（MHz） | 内存控制器 （MHz） | TDP                                                                                                | 插槽  | 发布日期     |
 | ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | ------------ | ----------- | -------------------------------------------------------------------------------------------------- | --- | -------- |
-| <small>L2(KB)</small>                                       | <small>L3(MB)</small> |       |              |         |       |              |             |                                                                                                    |     |          |
-| [Celeron J3455](https://ark.intel.com/zh-cn/products/95594) | SR2Z8 (B1)            | 4/4   | 1.50GHz      | 2.30GHz | 2MB   | Intel HD 500 | 250-700     | [DDR3L/LPDDR3](../Page/DDR3_SDRAM.md "wikilink") -1866; [LPDDR4](../Page/移动DDR.md "wikilink")-2400 | 10W | BGA 1296 |
-| [Celeron J3355](https://ark.intel.com/zh-cn/products/95597) | SR2Z9 (B1)            | 2/2   | 2.00GHz      | 2.50GHz |       |              |             |                                                                                                    |     |          |
+| <small>L2（KB）</small>                                       | <small>L3（MB）</small> |       |              |         |       |              |             |                                                                                                    |     |          |
+| [Celeron J3455](https://ark.intel.com/zh-cn/products/95594) | SR2Z8（B1）             | 4/4   | 1.50GHz      | 2.30GHz | 2MB   | Intel HD 500 | 250-700     | [DDR3L/LPDDR3](../Page/DDR3_SDRAM.md "wikilink") -1866; [LPDDR4](../Page/移动DDR.md "wikilink")-2400 | 10W | BGA 1296 |
+| [Celeron J3355](https://ark.intel.com/zh-cn/products/95597) | SR2Z9（B1）             | 2/2   | 2.00GHz      | 2.50GHz |       |              |             |                                                                                                    |     |          |
 |                                                             |                       |       |              |         |       |              |             |                                                                                                    |     |          |
 
 ### Goldmont Plus微架构
 
-#### "Gemini Lake" (14 nm)
+#### "Gemini Lake"（14 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于Kaby Lake Intel HD Graphics，包含12个EU单元和支持[DirectX 12](../Page/DirectX.md "wikilink")，OpenGL 4.5，OpenGL ES 3.0以及 OpenCL 2.0
 
-| 型号                                                           | sSpec编号 (步进) | 核心/线程 | 处理器基本频率(GHz) | 处理器加速频率(GHz) | L2缓存(MB)  | 处理器显卡         | 处理器显卡频率(MHz) | 内存控制器 (MHz) | TDP  | 插槽       | 发布日期     |
-| ------------------------------------------------------------ | ------------ | ----- | ------------ | ------------ | --------- | ------------- | ------------ | ----------- | ---- | -------- | -------- |
-| [Celeron J4005](https://ark.intel.com/zh-cn/products/128992) | SR3S5 (B0)   | 2/2   | 2            | 2.7          | 4         | Intel UHD 600 | 200 / 700    | LPDDR4-2400 | 10 W | BGA 1090 | 2017年12年 |
-| [Celeron J4105](https://ark.intel.com/zh-cn/products/128989) | SR3S4 (B0)   | 4/4   | 1.5          | 2.5          | 250 / 750 |               |              |             |      |          |          |
-|                                                              |              |       |              |              |           |               |              |             |      |          |          |
+| 型号                                                           | sSpec编号（步进） | 核心/线程 | 处理器基本频率（GHz） | 处理器加速频率（GHz） | L2缓存（MB）  | 处理器显卡         | 处理器显卡频率（MHz） | 内存控制器 （MHz） | TDP  | 插槽       | 发布日期     |
+| ------------------------------------------------------------ | ----------- | ----- | ------------ | ------------ | --------- | ------------- | ------------ | ----------- | ---- | -------- | -------- |
+| [Celeron J4005](https://ark.intel.com/zh-cn/products/128992) | SR3S5（B0）   | 2/2   | 2            | 2.7          | 4         | Intel UHD 600 | 200 / 700    | LPDDR4-2400 | 10 W | BGA 1090 | 2017年12年 |
+| [Celeron J4105](https://ark.intel.com/zh-cn/products/128989) | SR3S4（B0）   | 4/4   | 1.5          | 2.5          | 250 / 750 |               |              |             |      |          |          |
+|                                                              |             |       |              |              |           |               |              |             |      |          |          |
 
 ### [Kaby Lake微架构](../Page/Kaby_Lake微架構.md "wikilink")
 
-#### "Kaby Lake-S" (14 nm)
+#### "Kaby Lake-S"（14 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - 全部型号均支持DDR3-1600或者DDR4-2400内存（嵌入式型号支持DDR4-2133）
   - 所有型号均支持ECC内存
 
-| 型号                                                             | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)    | 内存控制器 (MHz) | TDP                                | 插槽   | 发布日期     |
+| 型号                                                             | sSpec编号（步进）           | 核心/线程 | 处理器基本频率（GHz） | 缓存      | 处理器显卡 | 处理器显卡频率（MHz）    | 内存控制器 （MHz） | TDP                                | 插槽   | 发布日期     |
 | -------------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | --------------- | ----------- | ---------------------------------- | ---- | -------- |
-| <small>L2(KB)</small>                                          | <small>L3(MB)</small> |       |              |         |       |                 |             |                                    |      |          |
+| <small>L2（KB）</small>                                          | <small>L3（MB）</small> |       |              |         |       |                 |             |                                    |      |          |
 | <font color=white>**标准功耗**</font>                              |                       |       |              |         |       |                 |             |                                    |      |          |
-| [Celeron G3930](https://ark.intel.com/zh-cn/products/97452)    | SR35K (S0)            | 2/2   | 2.9          | 2 x 256 | 2     | HD Graphics 610 | 350–1050    | DDR4 2133, DDR3L 1333/1600 @ 1.35V | 51 W | LGA 1151 |
-| [Celeron G3950](https://ark.intel.com/zh-cn/products/97451)    | SR35J (S0)            | 3     |              |         |       |                 |             |                                    |      |          |
+| [Celeron G3930](https://ark.intel.com/zh-cn/products/97452)    | SR35K（S0）             | 2/2   | 2.9          | 2 x 256 | 2     | HD Graphics 610 | 350–1050    | DDR4 2133, DDR3L 1333/1600 @ 1.35V | 51 W | LGA 1151 |
+| [Celeron G3950](https://ark.intel.com/zh-cn/products/97451)    | SR35J（S0）             | 3     |              |         |       |                 |             |                                    |      |          |
 | <font color=white>**嵌入式标准功耗**</font>                           |                       |       |              |         |       |                 |             |                                    |      |          |
-| [Celeron G3930E](https://ark.intel.com/zh-cn/products/122824)  | SR35V (S0)            | 2/2   | 2.6          | 2 x 256 | 2     | HD Graphics 610 | 350–1000    | DDR4-2133, DDR3L-1600              | 54 W | LGA 1151 |
+| [Celeron G3930E](https://ark.intel.com/zh-cn/products/122824)  | SR35V（S0）             | 2/2   | 2.6          | 2 x 256 | 2     | HD Graphics 610 | 350–1000    | DDR4-2133, DDR3L-1600              | 54 W | LGA 1151 |
 | <font color=white>**低功耗**</font>                               |                       |       |              |         |       |                 |             |                                    |      |          |
-| [Celeron G3930T](https://ark.intel.com/zh-cn/products/97467)   | SR35V (S0)            | 2/2   | 2.6          | 2 x 256 | 2     | HD Graphics 610 | 350–1000    | DDR4 2133, DDR3L 1333/1600 @ 1.35V | 35 W | LGA 1151 |
+| [Celeron G3930T](https://ark.intel.com/zh-cn/products/97467)   | SR35V（S0）             | 2/2   | 2.6          | 2 x 256 | 2     | HD Graphics 610 | 350–1000    | DDR4 2133, DDR3L 1333/1600 @ 1.35V | 35 W | LGA 1151 |
 | <font color=white>**嵌入式低功耗**</font>                            |                       |       |              |         |       |                 |             |                                    |      |          |
-| [Celeron G3930TE](https://ark.intel.com/zh-cn/products/122825) | SR38H (B0)            | 2/2   | 2.7          | 2 x 256 | 2     | HD Graphics 610 | 350–950     | DDR4-2133, DDR3L-1600              | 35 W | LGA 1151 |
+| [Celeron G3930TE](https://ark.intel.com/zh-cn/products/122825) | SR38H（B0）             | 2/2   | 2.7          | 2 x 256 | 2     | HD Graphics 610 | 350–950     | DDR4-2133, DDR3L-1600              | 35 W | LGA 1151 |
 
 ### [Coffee Lake微架构](../Page/Coffee_Lake微架构.md "wikilink")
 
-#### "Coffee Lake-S" (14 nm)
+#### "Coffee Lake-S"（14 nm）
 
-#### "Coffee Lake-H" (14 nm)
+#### "Coffee Lake-H"（14 nm）
 
 ## 筆記本電腦處理器
 
 ### [P6微架構](../Page/P6微架構.md "wikilink")
 
-#### Tocino (250 nm)
+#### Tocino（250 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")*
 
@@ -1113,7 +1113,7 @@ mcbA0</p></td>
 </tbody>
 </table>
 
-#### Coppermine-128 (180 nm)
+#### Coppermine-128（180 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")*
 
@@ -1401,7 +1401,7 @@ mcbA0</p></td>
 </tbody>
 </table>
 
-#### Tualatin-256 (130 nm)
+#### Tualatin-256（130 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")*
 
@@ -1427,7 +1427,7 @@ mcbA0</p></td>
 
 ### [NetBurst微架構](../Page/NetBurst微架構.md "wikilink")
 
-#### Northwood-256 (130 nm)
+#### Northwood-256（130 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
 
@@ -1445,7 +1445,7 @@ mcbA0</p></td>
 | [Mobile Celeron 2.4](http://ark.intel.com/zh-tw/products/27319) | 2.4 GHz | 24×                                               | 2003年6月11日                                           |                                                         |            |                                |                                                     |                                                |         |
 | [Mobile Celeron 2.5](http://ark.intel.com/zh-tw/products/27320) | 2.5 GHz | 25×                                               | 2003年11月12日                                          |                                                         |            |                                |                                                     |                                                |         |
 
-#### Banias-512 (130 nm)
+#### Banias-512（130 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
 
@@ -1461,7 +1461,7 @@ mcbA0</p></td>
 | [Celeron M ULV 800](http://ark.intel.com/zh-tw/products/27162) | B1      | 800 MHz                                           | 8×                                                   | 2004年1月                                                 |     |                                |                                                     |                                                |           |
 | [Celeron M ULV 333](http://ark.intel.com/zh-tw/products/27156) | 900 MHz | 9×                                                |                                                      |                                                         |     |                                |                                                     |                                                |           |
 
-#### Dothan (90 nm)
+#### Dothan（90 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
   - 只有M 350不支援[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")。
@@ -1480,7 +1480,7 @@ mcbA0</p></td>
 | [Celeron M ULV 373](http://ark.intel.com/zh-tw/products/27158)                                                                | C0      | 1 GHz                                             | 10×                                                  | 5.5 W                                                   | 2005年1月    |                                |                                                     |                                                |            |
 | [Celeron M ULV 383](http://ark.intel.com/zh-tw/products/27159)                                                                | 1 MB    | 0.88 - 0.956 V                                    | 5 W                                                  | 2005年7月                                                 |            |                                |                                                     |                                                |            |
 
-#### Yonah (65 nm)
+#### Yonah（65 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
@@ -1624,7 +1624,7 @@ mcbA0</p></td>
 </tbody>
 </table>
 
-#### Sossaman (65 nm)
+#### Sossaman（65 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
 
@@ -1635,7 +1635,7 @@ mcbA0</p></td>
 
 ### [Core微架構](../Page/Core微架構.md "wikilink")
 
-#### Merom / -L (65 nm)
+#### Merom / -L（65 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
@@ -1803,7 +1803,7 @@ mcbA0</p></td>
 </tbody>
 </table>
 
-#### Merom-2M (65 nm)
+#### Merom-2M（65 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
@@ -1817,7 +1817,7 @@ mcbA0</p></td>
 | [Celeron T1600](http://ark.intel.com/zh-tw/products/38979)    | 1.66 GHz | 1024 KB  | 667 MT/s                                          | 10×                                                  | 2008年12月                                                |         |                                |                                                     |                                                               |         |
 | [Celeron T1700](http://ark.intel.com/zh-tw/products/37119)    | 1.83 GHz | 11×      |                                                   |                                                      |                                                         |         |                                |                                                     |                                                               |         |
 
-#### Penryn-3M (45 nm)
+#### Penryn-3M（45 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")*
   - 雙核心系列支援[SSSE3](../Page/SSSE3.md "wikilink")及[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
@@ -2014,7 +2014,7 @@ mcbA0</p></td>
 
 ### [Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")
 
-#### Arrandale (32 nm)
+#### Arrandale（32 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
   - P4505及U3405支援ECC記憶體
@@ -2033,7 +2033,7 @@ mcbA0</p></td>
 
 ### Sandy Bridge微架构
 
-#### "Sandy Bridge" (32 nm)
+#### "Sandy Bridge" （32 nm）
 
   - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - Celeron B810E, Celeron B847E 不支持*XD bit.*
@@ -2043,13 +2043,13 @@ mcbA0</p></td>
 <thead>
 <tr class="header">
 <th><p>型号</p></th>
-<th><p>sSpec编号 (步进)</p></th>
+<th><p>sSpec编号（步进）</p></th>
 <th><p>核心/线程</p></th>
-<th><p>处理器基本频率(GHz)</p></th>
+<th><p>处理器基本频率（GHz）</p></th>
 <th><p>缓存</p></th>
 <th><p>处理器显卡</p></th>
-<th><p>处理器显卡频率 （MHz)</p></th>
-<th><p>内存控制器 (MHz)</p></th>
+<th><p>处理器显卡频率 （MHz）</p></th>
+<th><p>内存控制器 （MHz）</p></th>
 <th><p>TDP</p></th>
 <th><p>插槽</p></th>
 <th><p>发布日期</p></th>
@@ -2057,8 +2057,8 @@ mcbA0</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small>L2(KB)</small></p></td>
-<td><p><small>L3(MB)</small></p></td>
+<td><p><small>L2（KB）</small></p></td>
+<td><p><small>L3（MB）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2084,13 +2084,13 @@ mcbA0</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/59569">Celeron B710</a></p></td>
-<td><p>SR0DS (J1)<br />
-SR0EB (Q0)</p></td>
+<td><p>SR0DS（J1）<br />
+SR0EB（Q0）</p></td>
 <td><p>1/1</p></td>
 <td><p>1.6</p></td>
 <td><p>1 x 256</p></td>
 <td><p>1.5</p></td>
-<td><p>HD Graphics (6 EUs)</p></td>
+<td><p>HD Graphics （6 EUs）</p></td>
 <td><p>650–1000 MHz</p></td>
 <td><p>DDR3-1066<br />
 DDR3-1333</p></td>
@@ -2099,8 +2099,8 @@ DDR3-1333</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/63920">Celeron B720</a></p></td>
-<td><p>SR0DT (J1)<br />
-SR0EA (Q0)</p></td>
+<td><p>SR0DT（J1）<br />
+SR0EA（Q0）</p></td>
 <td><p>1.7</p></td>
 <td><p>2012年1月</p></td>
 <td></td>
@@ -2113,7 +2113,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Celeron B730</p></td>
-<td><p>SR0QA (Q0)</p></td>
+<td><p>SR0QA（Q0）</p></td>
 <td><p>1/2</p></td>
 <td><p>1.8</p></td>
 <td><p>2012年7月</p></td>
@@ -2126,7 +2126,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/59570">Celeron B800</a></p></td>
-<td><p>SR0EW (Q0)</p></td>
+<td><p>SR0EW（Q0）</p></td>
 <td><p>2/2</p></td>
 <td><p>1.5</p></td>
 <td><p>2 x 256</p></td>
@@ -2139,7 +2139,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-CN/products/55657">Celeron B810</a></p></td>
-<td><p>SR088 (Q0)</p></td>
+<td><p>SR088（Q0）</p></td>
 <td><p>1.6</p></td>
 <td><p>650–950 MHz</p></td>
 <td><p>2011年3月</p></td>
@@ -2152,7 +2152,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-CN/products/63919">Celeron B815</a></p></td>
-<td><p>SR0HZ (Q0</p></td>
+<td><p>SR0HZ（Q0）</p></td>
 <td><p>1.6</p></td>
 <td><p>650–1050 MHz</p></td>
 <td><p>2012年1月</p></td>
@@ -2165,7 +2165,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/67193">Celeron B820</a></p></td>
-<td><p>SR0HQ (Q0)</p></td>
+<td><p>SR0HQ（Q0）</p></td>
 <td><p>1.7</p></td>
 <td><p>2012年7月</p></td>
 <td></td>
@@ -2178,7 +2178,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/71141">Celeron B830</a></p></td>
-<td><p>SR0HR (Q0)</p></td>
+<td><p>SR0HR（Q0）</p></td>
 <td><p>1.8</p></td>
 <td><p>2012年9月</p></td>
 <td></td>
@@ -2191,7 +2191,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/59801">Celeron B840</a></p></td>
-<td><p>SR0EN (Q0)</p></td>
+<td><p>SR0EN（Q0）</p></td>
 <td><p>1.9</p></td>
 <td><p>650–1000 MHz</p></td>
 <td><p>2011年7月</p></td>
@@ -2217,12 +2217,12 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/55762">Celeron B810E</a></p></td>
-<td><p>SR0BT (Q0)</p></td>
+<td><p>SR0BT（Q0）</p></td>
 <td><p>2/2</p></td>
 <td><p>1.6</p></td>
 <td><p>2 x 256</p></td>
 <td><p>2</p></td>
-<td><p>HD Graphics (6 EUs)</p></td>
+<td><p>HD Graphics （6 EUs）</p></td>
 <td><p>650–1000 MHz</p></td>
 <td><p>DDR3-1066</p>
 <p>DDR3-1333</p></td>
@@ -2244,13 +2244,13 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/59571">Celeron 787</a></p></td>
-<td><p>SR0EC (J1)</p>
-<p>SR0VJ (Q0)</p></td>
+<td><p>SR0EC（J1）</p>
+<p>SR0VJ（Q0）</p></td>
 <td><p>1/1</p></td>
 <td><p>1.3</p></td>
 <td><p>1 x 256</p></td>
 <td><p>1.5</p></td>
-<td><p>HD Graphics (6 EUs)</p></td>
+<td><p>HD Graphics （6 EUs）</p></td>
 <td><p>350–950 MHz</p></td>
 <td><p>DDR3-1066</p>
 <p>DDR3-1333</p></td>
@@ -2259,7 +2259,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/63917">Celeron 797</a></p></td>
-<td><p>SR0ED (J1) SR0VK (Q0)</p></td>
+<td><p>SR0ED（J1） SR0VK（Q0）</p></td>
 <td><p>1.4</p></td>
 <td><p>2012年1月</p></td>
 <td></td>
@@ -2272,8 +2272,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-CN/products/67818">Celeron 807</a></p></td>
-<td><p>SR0EE (J1) SR0PW (J1)</p>
-<p>SR0VL (Q0)</p></td>
+<td><p>SR0EE（J1） SR0PW（J1） SR0VL（Q0）</p></td>
 <td><p>1/2</p></td>
 <td><p>1.5</p></td>
 <td><p>2012年7月</p></td>
@@ -2286,7 +2285,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-CN/products/56056">Celeron 847</a></p></td>
-<td><p>SR08N (Q0)</p></td>
+<td><p>SR08N（Q0）</p></td>
 <td><p>2/2</p></td>
 <td><p>1.1</p></td>
 <td><p>2 x 256</p></td>
@@ -2299,8 +2298,8 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-CN/products/59572">Celeron 857</a></p></td>
-<td><p>SR0EZ (Q0) SR0FL (J1)</p>
-<p>SR0V2 (Q0)</p></td>
+<td><p>SR0EZ（Q0） SR0FL（J1）</p>
+<p>SR0V2（Q0）</p></td>
 <td><p>1.2</p></td>
 <td><p>350–1000 MHz</p></td>
 <td><p>2011年7月</p></td>
@@ -2313,8 +2312,8 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-CN/products/63918">Celeron 867</a></p></td>
-<td><p>SR0F0 (J1) SR0FK (J1)</p>
-<p>SR0V3 (Q0)</p></td>
+<td><p>SR0F0（J1） SR0FK（J1）</p>
+<p>SR0V3（Q0）</p></td>
 <td><p>1.3</p></td>
 <td><p>2012年1月</p></td>
 <td></td>
@@ -2327,9 +2326,9 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/ZH-CN/products/67192">Celeron 877</a></p></td>
-<td><p>SR08U (Q0) SR0F8 (Q0)</p>
-<p>SR0FD (J1)</p>
-<p>SR0VB (Q0)</p></td>
+<td><p>SR08U（Q0） SR0F8（Q0）</p>
+<p>SR0FD（J1）</p>
+<p>SR0VB（Q0）</p></td>
 <td><p>1.4</p></td>
 <td><p>2012年7月</p></td>
 <td></td>
@@ -2342,9 +2341,9 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/69361">Celeron 887</a></p></td>
-<td><p>SR090 (Q0) SR0F7 (Q0)</p>
-<p>SR0FE (J1)</p>
-<p>SR0VA (Q0)</p></td>
+<td><p>SR090（Q0） SR0F7（Q0）</p>
+<p>SR0FE（J1）</p>
+<p>SR0VA（Q0）</p></td>
 <td><p>1.5</p></td>
 <td><p>2012年9月</p></td>
 <td></td>
@@ -2370,12 +2369,12 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/55770">Celeron 827E</a></p></td>
-<td><p>SR0C6 (Q0)</p></td>
+<td><p>SR0C6（Q0）</p></td>
 <td><p>1/1</p></td>
 <td><p>1.4</p></td>
 <td><p>1 x 256</p></td>
 <td><p>1.5</p></td>
-<td><p>HD Graphics (6 EUs)</p></td>
+<td><p>HD Graphics （6 EUs）</p></td>
 <td><p>350–800 MHz</p></td>
 <td><p>DDR3-1066 DDR3-1333</p></td>
 <td><p>17 W</p></td>
@@ -2383,7 +2382,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/55764/">Celeron 847E</a></p></td>
-<td><p>SR0BU (Q0)</p></td>
+<td><p>SR0BU（Q0）</p></td>
 <td><p>2/2</p></td>
 <td><p>1.1</p></td>
 <td><p>2 x 256</p></td>
@@ -2409,12 +2408,12 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/63572">Celeron 807UE</a></p></td>
-<td><p>SR0NB (Q0)</p></td>
+<td><p>SR0NB（Q0）</p></td>
 <td><p>1/1</p></td>
 <td><p>1</p></td>
 <td><p>1 x 256</p></td>
 <td><p>1</p></td>
-<td><p>HD Graphics (6 EUs)</p></td>
+<td><p>HD Graphics （6 EUs）</p></td>
 <td><p>350–800 MHz</p></td>
 <td><p>DDR3-1066 DDR3-1333</p></td>
 <td><p>10 w</p></td>
@@ -2423,65 +2422,65 @@ SR0EA (Q0)</p></td>
 </tbody>
 </table>
 
-#### "[Ivy Bridge](../Page/Ivy_Bridge微架構.md "wikilink")" (22 nm)
+#### "[Ivy Bridge](../Page/Ivy_Bridge微架構.md "wikilink")"（22 nm）
 
   - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - 嵌入式型号支持ECC内存
 
-| 型号                                                           | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)        | 内存控制器 (MHz)  | TDP                                                                        | 插槽   | 发布日期              |
+| 型号                                                           | sSpec编号（步进）           | 核心/线程 | 处理器基本频率（GHz） | 缓存      | 处理器显卡 | 处理器显卡频率（MHz）        | 内存控制器 （MHz）  | TDP                                                                        | 插槽   | 发布日期              |
 | ------------------------------------------------------------ | --------------------- | ----- | ------------ | ------- | ----- | ------------------- | ------------ | -------------------------------------------------------------------------- | ---- | ----------------- |
-| <small>L2(KB)</small>                                        | <small>L3(MB)</small> |       |              |         |       |                     |              |                                                                            |      |                   |
+| <small>L2（KB）</small>                                        | <small>L3（MB）</small> |       |              |         |       |                     |              |                                                                            |      |                   |
 | <font color=white>**标准功耗**</font>                            |                       |       |              |         |       |                     |              |                                                                            |      |                   |
-| [Celeron 1000M](https://ark.intel.com/zh-cn/products/72060)  | SR102 (P0)            | 2/2   | 1.8          | 2 x 256 | 2     | HD Graphics (6 EUs) | 650–1000 MHz | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600, DDR3L-RS 1333, DDR3L-RS 1600 | 35 W | rPGA988B          |
-| [Celeron 1005M](https://ark.intel.com/zh-cn/products/75193)  | SR103 (P0)            | 1.9   | 2013年6月      |         |       |                     |              |                                                                            |      |                   |
-| [Celeron 1020M](https://ark.intel.com/zh-cn/products/71994)  | SR0ZY (E1) SR13U (P0) | 2.1   | 2013年1月      |         |       |                     |              |                                                                            |      |                   |
+| [Celeron 1000M](https://ark.intel.com/zh-cn/products/72060)  | SR102（P0）             | 2/2   | 1.8          | 2 x 256 | 2     | HD Graphics （6 EUs） | 650–1000 MHz | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600, DDR3L-RS 1333, DDR3L-RS 1600 | 35 W | rPGA988B          |
+| [Celeron 1005M](https://ark.intel.com/zh-cn/products/75193)  | SR103（P0）             | 1.9   | 2013年6月      |         |       |                     |              |                                                                            |      |                   |
+| [Celeron 1020M](https://ark.intel.com/zh-cn/products/71994)  | SR0ZY（E1） SR13U（P0）   | 2.1   | 2013年1月      |         |       |                     |              |                                                                            |      |                   |
 | <font color=white>**嵌入式标准功耗**</font>                         |                       |       |              |         |       |                     |              |                                                                            |      |                   |
-| [Celeron 1020E](https://ark.intel.com/zh-cn/products/74344)  | SR10D (P0) SR0VR (P0) | 2/2   | 2.2          | 2 x 256 | 2     | HD Graphics (6 EUs) | 650–1000 MHz | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600                               | 35 W | rPGA988B BGA 1023 |
+| [Celeron 1020E](https://ark.intel.com/zh-cn/products/74344)  | SR10D（P0） SR0VR（P0）   | 2/2   | 2.2          | 2 x 256 | 2     | HD Graphics （6 EUs） | 650–1000 MHz | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600                               | 35 W | rPGA988B BGA 1023 |
 | <font color=white>**低功耗**</font>                             |                       |       |              |         |       |                     |              |                                                                            |      |                   |
-| [Celeron 1007U](https://ark.intel.com/zh-CN/products/72061)  | SR109 (P0)            | 2/2   | 1.5          | 2 x 256 | 2     | HD Graphics (6 EUs) | 350–1000 MHz | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600, DDR3L-RS 1333, DDR3L-RS 1600 | 17 W | BGA 1023          |
-| [Celeron 1017U](https://ark.intel.com/zh-cn/products/75192)  | SR10A (P0)            | 1.6   |              |         |       |                     |              |                                                                            |      |                   |
-| [Celeron 1037U](https://ark.intel.com/zh-cn/products/71995)  | SR108 (P0)            | 1.8   |              |         |       |                     |              |                                                                            |      |                   |
+| [Celeron 1007U](https://ark.intel.com/zh-CN/products/72061)  | SR109（P0）             | 2/2   | 1.5          | 2 x 256 | 2     | HD Graphics （6 EUs） | 350–1000 MHz | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600, DDR3L-RS 1333, DDR3L-RS 1600 | 17 W | BGA 1023          |
+| [Celeron 1017U](https://ark.intel.com/zh-cn/products/75192)  | SR10A（P0）             | 1.6   |              |         |       |                     |              |                                                                            |      |                   |
+| [Celeron 1037U](https://ark.intel.com/zh-cn/products/71995)  | SR108（P0）             | 1.8   |              |         |       |                     |              |                                                                            |      |                   |
 | <font color=white>**嵌入式低功耗**</font>                          |                       |       |              |         |       |                     |              |                                                                            |      |                   |
-| [Celeron 927UE](https://ark.intel.com/zh-cn/products/74346)  | SR10F (P0)            | 1/1   | 1.5          | 1 x 256 | 1     | HD Graphics (6 EUs) | 350–900 MHz  | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600                               | 17 W | BGA 1023          |
-| [Celeron 1047UE](https://ark.intel.com/zh-cn/products/74345) | SR10E (P0)            | 2/2   | 1.4          | 2 x 256 | 2     |                     |              |                                                                            |      |                   |
+| [Celeron 927UE](https://ark.intel.com/zh-cn/products/74346)  | SR10F（P0）             | 1/1   | 1.5          | 1 x 256 | 1     | HD Graphics （6 EUs） | 350–900 MHz  | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600                               | 17 W | BGA 1023          |
+| [Celeron 1047UE](https://ark.intel.com/zh-cn/products/74345) | SR10E（P0）             | 2/2   | 1.4          | 2 x 256 | 2     |                     |              |                                                                            |      |                   |
 | <font color=white>**超低功耗**</font>                            |                       |       |              |         |       |                     |              |                                                                            |      |                   |
-| [Celeron 1019Y](https://ark.intel.com/zh-cn/products/75102)  | SR13W (P0)            | 2/2   | 1            | 2 x 256 | 2     | HD Graphics (6 EUs) | 350–800 MHz  | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600, DDR3L-RS 1333, DDR3L-RS 1600 | 10 W | BGA 1023          |
+| [Celeron 1019Y](https://ark.intel.com/zh-cn/products/75102)  | SR13W（P0）             | 2/2   | 1            | 2 x 256 | 2     | HD Graphics （6 EUs） | 350–800 MHz  | DDR3-1333, DDR3-1600, DDR3L-1333, DDR3L-1600, DDR3L-RS 1333, DDR3L-RS 1600 | 10 W | BGA 1023          |
 
 ### [Haswell微架构](../Page/Haswell微架構.md "wikilink")
 
-#### "Haswell-MB" (22 nm)
+#### "Haswell-MB"（22 nm）
 
   - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
 
-| 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)         | 内存控制器 (MHz)  | TDP                    | 插槽   | 发布日期     |
-| ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | -------------------- | ------------ | ---------------------- | ---- | -------- |
-| <small>L2(KB)</small>                                       | <small>L3(MB)</small> |       |              |         |       |                      |              |                        |      |          |
-| [Celeron 2950M](https://ark.intel.com/zh-cn/products/77403) | SR1HF (C0)            | 2/2   | 2            | 2 x 256 | 2     | HD Graphics (10 EUs) | 400–1100 MHz | DDR3L-1333, DDR3L-1600 | 37 W | rPGA946B |
-| [Celeron 2970M](https://ark.intel.com/zh-cn/products/81014) | SR1LF (C0)            | 2.2   | 2014年4月      |         |       |                      |              |                        |      |          |
+| 型号                                                          | sSpec编号（步进）           | 核心/线程 | 处理器基本频率（GHz） | 缓存      | 处理器显卡 | 处理器显卡频率（MHz）        | 内存控制器 （MHz）  | TDP                    | 插槽   | 发布日期     |
+| ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | ------------------- | ------------ | ---------------------- | ---- | -------- |
+| <small>L2（KB）</small>                                       | <small>L3（MB）</small> |       |              |         |       |                     |              |                        |      |          |
+| [Celeron 2950M](https://ark.intel.com/zh-cn/products/77403) | SR1HF（C0）             | 2/2   | 2            | 2 x 256 | 2     | HD Graphics（10 EUs） | 400–1100 MHz | DDR3L-1333, DDR3L-1600 | 37 W | rPGA946B |
+| [Celeron 2970M](https://ark.intel.com/zh-cn/products/81014) | SR1LF（C0）             | 2.2   | 2014年4月      |         |       |                     |              |                        |      |          |
 
-#### "Haswell-ULT" ([SiP](https://zh.wikipedia.org/wiki/SiP "wikilink"), 22 nm)
-
-  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
-  - 2957U和2981U额外支持英特尔无线高清技术(Intel Wireless Display,WiDi）
-
-| 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)         | 内存控制器 (MHz)  | TDP                                              | 插槽   | 发布日期     |
-| ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | -------------------- | ------------ | ------------------------------------------------ | ---- | -------- |
-| <small>L2(KB)</small>                                       | <small>L3(MB)</small> |       |              |         |       |                      |              |                                                  |      |          |
-| [Celeron 2955U](https://ark.intel.com/zh-cn/products/75608) | SR16Y (C0) SR1DU (D0) | 2/2   | 1.4          | 2 x 256 | 2     | HD Graphics (10 EUs) | 200–1000 MHz | DDR3L-1333, DDR3L-1600, LPDDR3-1333, LPDDR3-1600 | 15 W | BGA 1168 |
-| [Celeron 2957U](https://ark.intel.com/zh-cn/products/78942) | SR1DV (D0)            | 1.4   | 2013年12月     |         |       |                      |              |                                                  |      |          |
-| [Celeron 2980U](https://ark.intel.com/zh-CN/products/76620) | SR1DM (D0)            | 1.6   | 2013年9月      |         |       |                      |              |                                                  |      |          |
-| [Celeron 2981U](https://ark.intel.com/zh-CN/products/78944) | SR1DX (D0)            | 1.6   | 2013年12月     |         |       |                      |              |                                                  |      |          |
-
-#### "Haswell-ULX" (Sip, 22 nm)
+#### "Haswell-ULT"（[SiP](https://zh.wikipedia.org/wiki/SiP "wikilink")，22 nm）
 
   - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+  - 2957U和2981U额外支持英特尔无线高清技术（Intel Wireless Display,WiDi）
 
-| 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)         | 内存控制器 (MHz) | TDP                                              | 插槽     | 发布日期     |
-| ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | -------------------- | ----------- | ------------------------------------------------ | ------ | -------- |
-| <small>L2(KB)</small>                                       | <small>L3(MB)</small> |       |              |         |       |                      |             |                                                  |        |          |
-| [Celeron 2961Y](https://ark.intel.com/zh-CN/products/78943) | SR1DK (D0)            | 2/2   | 1.1          | 2 x 256 | 2     | HD Graphics (10 EUs) | 200–850 MHz | DDR3L-1333, DDR3L-1600, LPDDR3-1333, LPDDR3-1600 | 11.5 W | BGA 1168 |
+| 型号                                                          | sSpec编号（步进）           | 核心/线程 | 处理器基本频率（GHz） | 缓存      | 处理器显卡 | 处理器显卡频率（MHz）        | 内存控制器 (MHz)  | TDP                                              | 插槽   | 发布日期     |
+| ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | ------------------- | ------------ | ------------------------------------------------ | ---- | -------- |
+| <small>L2（KB）</small>                                       | <small>L3（MB）</small> |       |              |         |       |                     |              |                                                  |      |          |
+| [Celeron 2955U](https://ark.intel.com/zh-cn/products/75608) | SR16Y（C0） SR1DU（D0）   | 2/2   | 1.4          | 2 x 256 | 2     | HD Graphics（10 EUs） | 200–1000 MHz | DDR3L-1333, DDR3L-1600, LPDDR3-1333, LPDDR3-1600 | 15 W | BGA 1168 |
+| [Celeron 2957U](https://ark.intel.com/zh-cn/products/78942) | SR1DV（D0）             | 1.4   | 2013年12月     |         |       |                     |              |                                                  |      |          |
+| [Celeron 2980U](https://ark.intel.com/zh-CN/products/76620) | SR1DM（D0）             | 1.6   | 2013年9月      |         |       |                     |              |                                                  |      |          |
+| [Celeron 2981U](https://ark.intel.com/zh-CN/products/78944) | SR1DX（D0）             | 1.6   | 2013年12月     |         |       |                     |              |                                                  |      |          |
 
-#### "Haswell-H" (22 nm)
+#### "Haswell-ULX"（Sip，22 nm）
+
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+
+| 型号                                                          | sSpec编号（步进）           | 核心/线程 | 处理器基本频率（GHz） | 缓存      | 处理器显卡 | 处理器显卡频率（MHz）        | 内存控制器 （MHz） | TDP                                              | 插槽     | 发布日期     |
+| ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | ------------------- | ----------- | ------------------------------------------------ | ------ | -------- |
+| <small>L2（KB）</small>                                       | <small>L3（MB）</small> |       |              |         |       |                     |             |                                                  |        |          |
+| [Celeron 2961Y](https://ark.intel.com/zh-CN/products/78943) | SR1DK（D0）             | 2/2   | 1.1          | 2 x 256 | 2     | HD Graphics（10 EUs） | 200–850 MHz | DDR3L-1333, DDR3L-1600, LPDDR3-1333, LPDDR3-1600 | 11.5 W | BGA 1168 |
+
+#### "Haswell-H"（22 nm）
 
   - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - 嵌入式型号支持ECC内存
@@ -2490,13 +2489,13 @@ SR0EA (Q0)</p></td>
 <thead>
 <tr class="header">
 <th><p>型号</p></th>
-<th><p>sSpec编号 (步进)</p></th>
+<th><p>sSpec编号（步进）</p></th>
 <th><p>核心/线程</p></th>
-<th><p>处理器基本频率(GHz)</p></th>
+<th><p>处理器基本频率（GHz）</p></th>
 <th><p>缓存</p></th>
 <th><p>处理器显卡</p></th>
-<th><p>处理器显卡频率(MHz)</p></th>
-<th><p>内存控制器 (MHz)</p></th>
+<th><p>处理器显卡频率（MHz）</p></th>
+<th><p>内存控制器 （MHz）</p></th>
 <th><p>TDP</p></th>
 <th><p>插槽</p></th>
 <th><p>发布日期</p></th>
@@ -2504,8 +2503,8 @@ SR0EA (Q0)</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small>L2(KB)</small></p></td>
-<td><p><small>L3(MB)</small></p></td>
+<td><p><small>L2（KB）</small></p></td>
+<td><p><small>L3（MB）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2531,14 +2530,14 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/76295">Celeron 2000E</a></p></td>
-<td><p>SR17S (C0)</p></td>
+<td><p>SR17S（C0）</p></td>
 <td><p>2/2</p></td>
 <td><p>2.2</p></td>
 <td><p>2 x 256</p></td>
 <td><p>2</p></td>
-<td><p>HD Graphics (10 EUs)</p></td>
+<td><p>HD Graphics（10 EUs）</p></td>
 <td><p>400–900 MHz</p></td>
-<td><p>DDR3L-1333, DDR3L-1600</p></td>
+<td><p>DDR3L-1333， DDR3L-1600</p></td>
 <td><p>37 W</p></td>
 <td><p>BGA 1364</p></td>
 </tr>
@@ -2557,12 +2556,12 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/76296">Celeron 2002E</a></p></td>
-<td><p>SR17P (C0)</p></td>
+<td><p>SR17P（C0）</p></td>
 <td><p>2/2</p></td>
 <td><p>1.5</p></td>
 <td><p>2 x 256</p></td>
 <td><p>2</p></td>
-<td><p>HD Graphics (10 EUs)</p></td>
+<td><p>HD Graphics（10 EUs）</p></td>
 <td><p>400–900 MHz</p></td>
 <td><p>DDR3L-1333,</p>
 <p>DDR3L-1600</p></td>
@@ -2572,21 +2571,21 @@ SR0EA (Q0)</p></td>
 </tbody>
 </table>
 
-#### "Broadwell-U" (14 nm)
+#### "Broadwell-U"（14 nm）
 
-  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、 Smart Cache、AES-NI、英特尔无线高清技术(Intel Wireless Display,WiDi）、Configurable TDP(cTDP)*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、 Smart Cache、AES-NI、英特尔无线高清技术（Intel Wireless Display,WiDi）、Configurable TDP（cTDP）*
 
-| 型号                                                          | sSpec编号 (步进)          | 核心/线程       | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)         | 内存控制器 (MHz) | TDP                                              | 插槽   | 发布日期     |
-| ----------------------------------------------------------- | --------------------- | ----------- | ------------ | ------- | ----- | -------------------- | ----------- | ------------------------------------------------ | ---- | -------- |
-| <small>L2(KB)</small>                                       | <small>L3(MB)</small> |             |              |         |       |                      |             |                                                  |      |          |
-| [Celeron 3205U](https://ark.intel.com/zh-cn/products/84809) | SR215 (E0)            | 2/2         | 1.5          | 2 x 256 | 2     | HD Graphics (12 EUs) | 100–800 MHz | DDR3L-1333, DDR3L-1600, LPDDR3-1333, LPDDR3-1600 | 15 W | BGA 1168 |
-| [Celeron 3215U](https://ark.intel.com/zh-cn/products/84810) | SR243 (F0)            | 1.7         | 300–850 MHz  | 2015年6月 |       |                      |             |                                                  |      |          |
-| [Celeron 3755U](https://ark.intel.com/zh-cn/products/84811) | SR211 (E0)            | 100–800 MHz | 2015年1月      |         |       |                      |             |                                                  |      |          |
-| [Celeron 3765U](https://ark.intel.com/zh-CN/products/84812) | SR242 (F0)            | 1.9         | 300–850 MHz  | 2015年6月 |       |                      |             |                                                  |      |          |
+| 型号                                                          | sSpec编号（步进）           | 核心/线程       | 处理器基本频率（GHz） | 缓存      | 处理器显卡 | 处理器显卡频率（MHz）        | 内存控制器 （MHz） | TDP                                              | 插槽   | 发布日期     |
+| ----------------------------------------------------------- | --------------------- | ----------- | ------------ | ------- | ----- | ------------------- | ----------- | ------------------------------------------------ | ---- | -------- |
+| <small>L2（KB）</small>                                       | <small>L3（MB）</small> |             |              |         |       |                     |             |                                                  |      |          |
+| [Celeron 3205U](https://ark.intel.com/zh-cn/products/84809) | SR215（E0）             | 2/2         | 1.5          | 2 x 256 | 2     | HD Graphics（12 EUs） | 100–800 MHz | DDR3L-1333, DDR3L-1600, LPDDR3-1333, LPDDR3-1600 | 15 W | BGA 1168 |
+| [Celeron 3215U](https://ark.intel.com/zh-cn/products/84810) | SR243（F0）             | 1.7         | 300–850 MHz  | 2015年6月 |       |                     |             |                                                  |      |          |
+| [Celeron 3755U](https://ark.intel.com/zh-cn/products/84811) | SR211（E0）             | 100–800 MHz | 2015年1月      |         |       |                     |             |                                                  |      |          |
+| [Celeron 3765U](https://ark.intel.com/zh-CN/products/84812) | SR242（F0）             | 1.9         | 300–850 MHz  | 2015年6月 |       |                     |             |                                                  |      |          |
 
 ### Silvermont微架构
 
-#### “Bay Trail-M" (22 nm)
+#### “Bay Trail-M"（22 nm）
 
   - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
@@ -2596,14 +2595,14 @@ SR0EA (Q0)</p></td>
 <thead>
 <tr class="header">
 <th><p>型号</p></th>
-<th><p>sSpec编号 (步进)</p></th>
+<th><p>sSpec编号（步进）</p></th>
 <th><p>核心/线程</p></th>
-<th><p>处理器基本频率(GHz)</p></th>
-<th><p>处理器加速频率(GHz)</p></th>
+<th><p>处理器基本频率（GHz）</p></th>
+<th><p>处理器加速频率（GHz）</p></th>
 <th><p>缓存</p></th>
 <th><p>处理器显卡</p></th>
 <th><p>处理器显卡频率</p></th>
-<th><p>内存控制器 (MHz)</p></th>
+<th><p>内存控制器 （MHz）</p></th>
 <th><p>TDP</p></th>
 <th><p>插槽</p></th>
 <th><p>发布日期</p></th>
@@ -2611,7 +2610,7 @@ SR0EA (Q0)</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small>L2(MB)</small></p></td>
+<td><p><small>L2（MB）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2640,12 +2639,12 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/76753">Celeron N2810</a></p></td>
-<td><p>SR1LX (B2) SR1HR (B2)</p></td>
+<td><p>SR1LX（B2） SR1HR（B2）</p></td>
 <td><p>2/2</p></td>
 <td><p>2</p></td>
 <td></td>
 <td><p>1</p></td>
-<td><p>HD Graphics (4 EUs)</p></td>
+<td><p>HD Graphics（4 EUs）</p></td>
 <td><p>313-756 MHz</p></td>
 <td><p>DDR3L-1066</p></td>
 <td><p>7.5 W</p></td>
@@ -2654,7 +2653,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/79051">Celeron N2815</a></p></td>
-<td><p>SR1SJ (B3)</p></td>
+<td><p>SR1SJ（B3）</p></td>
 <td><p>1.86</p></td>
 <td><p>2.13</p></td>
 <td><p>2013年11月</p></td>
@@ -2668,7 +2667,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/79052">Celeron N2820</a></p></td>
-<td><p>SR1SG (B3)</p></td>
+<td><p>SR1SG（B3）</p></td>
 <td><p>2.13</p></td>
 <td><p>2.39</p></td>
 <td><p>2014年11月</p></td>
@@ -2682,7 +2681,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/81071">Celeron N2830</a></p></td>
-<td><p>SR1W4 (C0)</p></td>
+<td><p>SR1W4（C0）</p></td>
 <td><p>2.16</p></td>
 <td><p>2.41</p></td>
 <td><p>313-750 MHz</p></td>
@@ -2696,7 +2695,7 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/82103">Celeron N2840</a></p></td>
-<td><p>SR1YJ (C0)</p></td>
+<td><p>SR1YJ（C0）</p></td>
 <td><p>2.16</p></td>
 <td><p>2.58</p></td>
 <td><p>313-792 MHz</p></td>
@@ -2710,8 +2709,8 @@ SR0EA (Q0)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/76752">Celeron N2910</a></p></td>
-<td><p>SR1LW (B2)<br />
-SR1HQ (B2)</p></td>
+<td><p>SR1LW（B2）<br />
+SR1HQ（B2）</p></td>
 <td><p>4/4</p></td>
 <td><p>1.6</p></td>
 <td></td>
@@ -2725,7 +2724,7 @@ SR1HQ (B2)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/79053">Celeron N2920</a></p></td>
-<td><p>SR1SF (B3)</p></td>
+<td><p>SR1SF（B3）</p></td>
 <td><p>1.86</p></td>
 <td><p>2.1</p></td>
 <td><p>313-844 MHz</p></td>
@@ -2739,7 +2738,7 @@ SR1HQ (B2)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/81073">Celeron N2930</a></p></td>
-<td><p>SR1W3 (C0)</p></td>
+<td><p>SR1W3（C0）</p></td>
 <td><p>1.83</p></td>
 <td><p>2.16</p></td>
 <td><p>313-854 MHz</p></td>
@@ -2753,7 +2752,7 @@ SR1HQ (B2)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-cn/products/82104">Celeron N2940</a></p></td>
-<td><p>SR1YV (C0)</p></td>
+<td><p>SR1YV（C0）</p></td>
 <td><p>1.83</p></td>
 <td><p>2.25</p></td>
 <td><p>2014年7月</p></td>
@@ -2781,13 +2780,13 @@ SR1HQ (B2)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-CN/products/76754">Celeron N2805</a></p></td>
-<td><p>SR1LY (B2)</p>
-<p>SR1HS (B2)</p></td>
+<td><p>SR1LY（B2）</p>
+<p>SR1HS（B2）</p></td>
 <td><p>2/2</p></td>
 <td><p>1.46</p></td>
 <td></td>
 <td><p>1</p></td>
-<td><p>HD Graphics (4 EUs)</p></td>
+<td><p>HD Graphics（4 EUs）</p></td>
 <td><p>313-667 MHz</p></td>
 <td><p>DDR3L-1066</p></td>
 <td><p>4.3 W</p></td>
@@ -2796,7 +2795,7 @@ SR1HQ (B2)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-CN/products/79050">Celeron N2806</a></p></td>
-<td><p>SR1SH (B3)</p></td>
+<td><p>SR1SH（B3）</p></td>
 <td><p>1.6</p></td>
 <td><p>2</p></td>
 <td><p>313-756 MHz</p></td>
@@ -2810,7 +2809,7 @@ SR1HQ (B2)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ark.intel.com/zh-CN/products/81072">Celeron N2807</a></p></td>
-<td><p>SR1W5 (C0)</p></td>
+<td><p>SR1W5（C0）</p></td>
 <td><p>1.58</p></td>
 <td><p>2.16</p></td>
 <td><p>313-750 MHz</p></td>
@@ -2824,7 +2823,7 @@ SR1HQ (B2)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ark.intel.com/zh-cn/products/82102">Celeron N2808</a></p></td>
-<td><p>SR1YH (C0)</p></td>
+<td><p>SR1YH（C0）</p></td>
 <td><p>1.58</p></td>
 <td><p>2.25</p></td>
 <td><p>311-792 MHz</p></td>
@@ -2839,87 +2838,87 @@ SR1HQ (B2)</p></td>
 </tbody>
 </table>
 
-#### "Braswell" (14 nm)
+#### "Braswell"（14 nm）
 
   - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于Broadwell Intel HD Graphics，包含12个EU单元和支持[DirectX 11.2](../Page/DirectX.md "wikilink")，OpenGL 4.3，OpenGL ES 3.0以及 OpenCL 1.2
 
-| 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz)    | 处理器加速频率(GHz)         | 缓存          | 处理器显卡                | 处理器显卡频率(MHz) | 内存控制器 (MHz) | TDP | 插槽          | 发布日期    |
-| ----------------------------------------------------------- | --------------------- | ----- | --------------- | -------------------- | ----------- | -------------------- | ------------ | ----------- | --- | ----------- | ------- |
-| <small>L2(MB)</small>                                       |                       |       |                 |                      |             |                      |              |             |     |             |         |
-| [Celeron N3000](https://ark.intel.com/zh-cn/products/87259) | SR29J (C0)            | 2/2   | 1.04            | 2.08                 | 2           | HD Graphics (12 EUs) | 320-600 MHz  | DDR3L-1600  | 4 W | FC-BGA 1170 | 2015年3月 |
-| [Celeron N3010](https://ark.intel.com/zh-cn/products/91710) | SR2KM (D1)            | 2.24  | HD Graphics 400 | 2016年1月              |             |                      |              |             |     |             |         |
-| [Celeron N3050](https://ark.intel.com/zh-cn/products/87257) | SR29H (C0) SR2A9 (C0) | 1.6   | 2.16            | HD Graphics (12 EUs) | 6 W         | 2015年3月              |              |             |     |             |         |
-| [Celeron N3060](https://ark.intel.com/zh-cn/products/91832) | SR2KN (D1) SR2ZN (D1) | 2.48  | HD Graphics 400 | 2016年1月              |             |                      |              |             |     |             |         |
-| [Celeron N3150](https://ark.intel.com/zh-cn/products/87258) | SR29F (C0) SR2A8 (C0) | 4/4   | 2.08            | HD Graphics (12 EUs) | 320-640 MHz | 2015年3月              |              |             |     |             |         |
-| [Celeron N3160](https://ark.intel.com/ZH-cn/products/91831) | SR2KP (D1)            | 2.24  | HD Graphics 400 | 2016年1月              |             |                      |              |             |     |             |         |
+| 型号                                                          | sSpec编号（步进）         | 核心/线程 | 处理器基本频率（GHz）    | 处理器加速频率（GHz）        | 缓存          | 处理器显卡               | 处理器显卡频率（MHz） | 内存控制器 （MHz） | TDP | 插槽          | 发布日期    |
+| ----------------------------------------------------------- | ------------------- | ----- | --------------- | ------------------- | ----------- | ------------------- | ------------ | ----------- | --- | ----------- | ------- |
+| <small>L2（MB）</small>                                       |                     |       |                 |                     |             |                     |              |             |     |             |         |
+| [Celeron N3000](https://ark.intel.com/zh-cn/products/87259) | SR29J（C0）           | 2/2   | 1.04            | 2.08                | 2           | HD Graphics（12 EUs） | 320-600 MHz  | DDR3L-1600  | 4 W | FC-BGA 1170 | 2015年3月 |
+| [Celeron N3010](https://ark.intel.com/zh-cn/products/91710) | SR2KM（D1）           | 2.24  | HD Graphics 400 | 2016年1月             |             |                     |              |             |     |             |         |
+| [Celeron N3050](https://ark.intel.com/zh-cn/products/87257) | SR29H（C0） SR2A9（C0） | 1.6   | 2.16            | HD Graphics（12 EUs） | 6 W         | 2015年3月             |              |             |     |             |         |
+| [Celeron N3060](https://ark.intel.com/zh-cn/products/91832) | SR2KN（D1） SR2ZN（D1） | 2.48  | HD Graphics 400 | 2016年1月             |             |                     |              |             |     |             |         |
+| [Celeron N3150](https://ark.intel.com/zh-cn/products/87258) | SR29F（C0） SR2A8（C0） | 4/4   | 2.08            | HD Graphics（12 EUs） | 320-640 MHz | 2015年3月             |              |             |     |             |         |
+| [Celeron N3160](https://ark.intel.com/ZH-cn/products/91831) | SR2KP（D1）           | 2.24  | HD Graphics 400 | 2016年1月             |             |                     |              |             |     |             |         |
 
 ### Skylake微架构
 
-"Skylake-U" (14 nm)
+"Skylake-U"（14 nm）
 
-  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、 Smart Cache、AES-NI、英特尔无线高清技术(Intel Wireless Display,WiDi）、Configurable TDP(cTDP)*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、 Smart Cache、AES-NI、英特尔无线高清技术（Intel Wireless Display,WiDi）、Configurable TDP（cTDP）*
 
-| 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)    | 内存控制器 (MHz) | TDP                                                        | 插槽   | 发布日期     |
+| 型号                                                          | sSpec编号（步进）           | 核心/线程 | 处理器基本频率（GHz） | 缓存      | 处理器显卡 | 处理器显卡频率（MHz）    | 内存控制器 （MHz） | TDP                                                        | 插槽   | 发布日期     |
 | ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | --------------- | ----------- | ---------------------------------------------------------- | ---- | -------- |
-| <small>L2(KB)</small>                                       | <small>L3(MB)</small> |       |              |         |       |                 |             |                                                            |      |          |
-| [Celeron 3855U](https://ark.intel.com/zh-cn/products/92211) | SR2EV (D1)            | 2/2   | 1.6          | 2 x 256 | 2     | HD Graphics 510 | 300–900 MHz | DDR3L-1600, LPDDR3-1600, LPDDR3-1866, DDR4-1866, DDR4-2133 | 15 W | BGA 1356 |
-| [Celeron 3955U](https://ark.intel.com/zh-cn/products/92213) | SR2EW (D1)            | 2     |              |         |       |                 |             |                                                            |      |          |
+| <small>L2（KB）</small>                                       | <small>L3（MB）</small> |       |              |         |       |                 |             |                                                            |      |          |
+| [Celeron 3855U](https://ark.intel.com/zh-cn/products/92211) | SR2EV（D1）             | 2/2   | 1.6          | 2 x 256 | 2     | HD Graphics 510 | 300–900 MHz | DDR3L-1600, LPDDR3-1600, LPDDR3-1866, DDR4-1866, DDR4-2133 | 15 W | BGA 1356 |
+| [Celeron 3955U](https://ark.intel.com/zh-cn/products/92213) | SR2EW（D1）             | 2     |              |         |       |                 |             |                                                            |      |          |
 
 ### Goldmont 微架構
 
-#### "Apollo Lake" (14 nm)
+#### "Apollo Lake"（14 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
-| 型号                                                          | sSpec编号(步进)                                                                            | 核心/线程 | 处理器基本频率 | 脉冲频率    | 缓存                          | 处理器显卡                                                                                              | 内存控制器(MHz） | TDP      | 插槽         | 发布日期 |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----- | ------- | ------- | --------------------------- | -------------------------------------------------------------------------------------------------- | ---------- | -------- | ---------- | ---- |
-| [Celeron N3350](https://ark.intel.com/zh-cn/products/95598) | [SR2YB](http://www.cpu-world.com/CPUs/Celeron/Intel-Mobile%20Celeron%20N3350.html)(B1) | 2/2   | 1.10GHz | 2.40GHz | Intel HD 500 (200 / 650MHz) | [DDR3L/LPDDR3](../Page/DDR3_SDRAM.md "wikilink") -1866; [LPDDR4](../Page/移动DDR.md "wikilink")-2400 | 6W         | BGA 1296 | 2016年8月30日 |      |
-| SR2Z7 (B0)                                                  |                                                                                        |       |         |         |                             |                                                                                                    |            |          |            |      |
-| [Celeron N3450](https://ark.intel.com/zh-cn/products/95596) | [SR2YA](http://www.cpu-world.com/CPUs/Celeron/Intel-Mobile%20Celeron%20N3450.html)(B0) | 4/4   | 1.10GHz | 2.20GHz | Intel HD 500 (200 / 700MHZ) |                                                                                                    |            |          |            |      |
-| SR2Z6 (B1)                                                  |                                                                                        |       |         |         |                             |                                                                                                    |            |          |            |      |
+| 型号                                                          | sSpec编号（步进）                                                                            | 核心/线程 | 处理器基本频率 | 脉冲频率    | 缓存                        | 处理器显卡                                                                                              | 内存控制器（MHz） | TDP      | 插槽         | 发布日期 |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----- | ------- | ------- | ------------------------- | -------------------------------------------------------------------------------------------------- | ---------- | -------- | ---------- | ---- |
+| [Celeron N3350](https://ark.intel.com/zh-cn/products/95598) | [SR2YB](http://www.cpu-world.com/CPUs/Celeron/Intel-Mobile%20Celeron%20N3350.html)（B1） | 2/2   | 1.10GHz | 2.40GHz | Intel HD 500（200/650MHz）  | [DDR3L/LPDDR3](../Page/DDR3_SDRAM.md "wikilink") -1866; [LPDDR4](../Page/移动DDR.md "wikilink")-2400 | 6W         | BGA 1296 | 2016年8月30日 |      |
+| SR2Z7（B0）                                                   |                                                                                        |       |         |         |                           |                                                                                                    |            |          |            |      |
+| [Celeron N3450](https://ark.intel.com/zh-cn/products/95596) | [SR2YA](http://www.cpu-world.com/CPUs/Celeron/Intel-Mobile%20Celeron%20N3450.html)（B0） | 4/4   | 1.10GHz | 2.20GHz | Intel HD 500 （200/700MHZ） |                                                                                                    |            |          |            |      |
+| SR2Z6（B1）                                                   |                                                                                        |       |         |         |                           |                                                                                                    |            |          |            |      |
 
 ### Goldmont Plus 微架構
 
-#### "Gemini Lake" (14 nm)
+#### "Gemini Lake"（14 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
-| 型号                                                           | 步进  | 核心/线程                         | 处理器基本频率 | 脉冲频率    | 缓存 （MB） | 处理器显卡                         | 内存控制器(MHz)        | TDP | 插槽       | 发布日期     |
-| ------------------------------------------------------------ | --- | ----------------------------- | ------- | ------- | ------- | ----------------------------- | ----------------- | --- | -------- | -------- |
-| [Celeron N4000](https://ark.intel.com/ZH-cn/products/128988) | B0  | 2/2                           | 1.1GHz  | 2.40GHz | 4       | Intel UHD 600 ( 200 / 650MHz) | DDR4/LPDDR4 -2400 | 6W  | BGA 1090 | 2017年12月 |
-| [Celeron N4100](https://ark.intel.com/zh-cn/products/128983) | 4/4 | Intel UHD 600 ( 200 / 700MHz) |         |         |         |                               |                   |     |          |          |
+| 型号                                                           | 步进  | 核心/线程                     | 处理器基本频率 | 脉冲频率    | 缓存 （MB） | 处理器显卡                     | 内存控制器（MHz）        | TDP | 插槽       | 发布日期     |
+| ------------------------------------------------------------ | --- | ------------------------- | ------- | ------- | ------- | ------------------------- | ----------------- | --- | -------- | -------- |
+| [Celeron N4000](https://ark.intel.com/ZH-cn/products/128988) | B0  | 2/2                       | 1.1GHz  | 2.40GHz | 4       | Intel UHD 600（200/650MHz） | DDR4/LPDDR4 -2400 | 6W  | BGA 1090 | 2017年12月 |
+| [Celeron N4100](https://ark.intel.com/zh-cn/products/128983) | 4/4 | Intel UHD 600（200/700MHz） |         |         |         |                           |                   |     |          |          |
 
 ### [Kaby Lake微架構](../Page/Kaby_Lake微架構.md "wikilink")
 
-#### "Kaby Lake-U" (14 nm)
+#### "Kaby Lake-U"（14 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
-| 型号                                                          | 步进      | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器(MHz)                    | TDP                                                                                                                                       | 插槽  | 发布日期     |
-| ----------------------------------------------------------- | ------- | ----- | ------- | ---------- | ----- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --- | -------- |
-| L2                                                          | L3      |       |         |            |       |                               |                                                                                                                                           |     |          |
-| [Celeron 3865U](https://ark.intel.com/zh-cn/products/96507) | H0      | 2/2   | 1.80GHz | 2 x 256 KB | 2MB   | Intel HD 610 ( 300 / 900MHz ) | [DDR3L](../Page/DDR3_SDRAM.md "wikilink")-1600, [LPDDR3](../Page/移动DDR.md "wikilink")-1866, [DDR4](../Page/DDR4_SDRAM.md "wikilink")-2133 | 15W | BGA 1356 |
-| [Celeron 3965U](https://ark.intel.com/zh-cn/products/96506) | 2.20GHz |       |         |            |       |                               |                                                                                                                                           |     |          |
+| 型号                                                          | 步进      | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器（MHz）               | TDP                                                                                                                                       | 插槽  | 发布日期     |
+| ----------------------------------------------------------- | ------- | ----- | ------- | ---------- | ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | --- | -------- |
+| L2                                                          | L3      |       |         |            |       |                          |                                                                                                                                           |     |          |
+| [Celeron 3865U](https://ark.intel.com/zh-cn/products/96507) | H0      | 2/2   | 1.80GHz | 2 x 256 KB | 2MB   | Intel HD 610（300/900MHz） | [DDR3L](../Page/DDR3_SDRAM.md "wikilink")-1600, [LPDDR3](../Page/移动DDR.md "wikilink")-1866, [DDR4](../Page/DDR4_SDRAM.md "wikilink")-2133 | 15W | BGA 1356 |
+| [Celeron 3965U](https://ark.intel.com/zh-cn/products/96506) | 2.20GHz |       |         |            |       |                          |                                                                                                                                           |     |          |
 
-"Kaby Lake-Y" (14 nm)
-
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
-
-| 型号                                                           | 步进 | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器(MHz)                     | TDP                                                                                        | 插槽 | 发布日期     |
-| ------------------------------------------------------------ | -- | ----- | ------- | ---------- | ----- | ------------------------------ | ------------------------------------------------------------------------------------------ | -- | -------- |
-| L2                                                           | L3 |       |         |            |       |                                |                                                                                            |    |          |
-| [Celeron 3965Y](https://ark.intel.com/zh-cn/products/122698) | H0 | 2/2   | 1.50GHz | 2 x 256 KB | 2MB   | Intel HD 615 ( 300 / 850 MHz ) | [DDR3L](../Page/DDR3_SDRAM.md "wikilink")-1600, [LPDDR3](../Page/移动DDR.md "wikilink")-1866 | 6W | BGA 1515 |
-
-"Kaby Lake-R" (14 nm)
+"Kaby Lake-Y"（14 nm）
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
-| 型号                                                           | 步进 | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器(MHz)                     | TDP                                                                                                                                       | 插槽 | 发布日期     |
-| ------------------------------------------------------------ | -- | ----- | ------- | ---------- | ----- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | -- | -------- |
-| L2                                                           | L3 |       |         |            |       |                                |                                                                                                                                           |    |          |
-| [Celeron 3867U](https://ark.intel.com/zh-cn/products/189270) | H0 | 2/2   | 1.8GHz  | 2 x 256 KB | 2MB   | Intel HD 610 ( 300 / 900 MHz ) | [DDR3L](../Page/DDR3_SDRAM.md "wikilink")-1600, [LPDDR3](../Page/移动DDR.md "wikilink")-1866, [DDR4](../Page/DDR4_SDRAM.md "wikilink")-2133 | 6W | BGA 1356 |
+| 型号                                                           | 步进 | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器（MHz）                | TDP                                                                                        | 插槽 | 发布日期     |
+| ------------------------------------------------------------ | -- | ----- | ------- | ---------- | ----- | ------------------------- | ------------------------------------------------------------------------------------------ | -- | -------- |
+| L2                                                           | L3 |       |         |            |       |                           |                                                                                            |    |          |
+| [Celeron 3965Y](https://ark.intel.com/zh-cn/products/122698) | H0 | 2/2   | 1.50GHz | 2 x 256 KB | 2MB   | Intel HD 615（300/850 MHz） | [DDR3L](../Page/DDR3_SDRAM.md "wikilink")-1600, [LPDDR3](../Page/移动DDR.md "wikilink")-1866 | 6W | BGA 1515 |
+
+"Kaby Lake-R"（14 nm）
+
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
+
+| 型号                                                           | 步进 | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器（MHz）                | TDP                                                                                                                                       | 插槽 | 发布日期     |
+| ------------------------------------------------------------ | -- | ----- | ------- | ---------- | ----- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -- | -------- |
+| L2                                                           | L3 |       |         |            |       |                           |                                                                                                                                           |    |          |
+| [Celeron 3867U](https://ark.intel.com/zh-cn/products/189270) | H0 | 2/2   | 1.8GHz  | 2 x 256 KB | 2MB   | Intel HD 610（300/900 MHz） | [DDR3L](../Page/DDR3_SDRAM.md "wikilink")-1600, [LPDDR3](../Page/移动DDR.md "wikilink")-1866, [DDR4](../Page/DDR4_SDRAM.md "wikilink")-2133 | 6W | BGA 1356 |
 
 ## 外部連結
 

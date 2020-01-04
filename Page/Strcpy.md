@@ -70,7 +70,7 @@ strcpy (char *d, const char *s)
 
 ## 外部連結
 
-  - [`strcpy(3)`](http://www.openbsd.org/cgi-bin/man.cgi?query=strcpy&sektion=3)：複製字串 – [OpenBSD](../Page/OpenBSD.md "wikilink") 函式庫函式[說明手冊](../Page/手册页.md "wikilink")
+  - [`strcpy(3)`](https://web.archive.org/web/20101126031738/http://www.openbsd.org/cgi-bin/man.cgi?query=strcpy&sektion=3)：複製字串 – [OpenBSD](../Page/OpenBSD.md "wikilink") 函式庫函式[說明手冊](../Page/手册页.md "wikilink")
 
 [Category:C標準函式庫](https://zh.wikipedia.org/wiki/Category:C標準函式庫 "wikilink")
 

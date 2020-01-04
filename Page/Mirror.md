@@ -1,3 +1,6 @@
+> 本文内容由[Mirror](https://zh.wikipedia.org/wiki/Mirror)转换而来。
+
+
 《**mirror**》為[堂本光一](../Page/堂本光一.md "wikilink")在2006年9月13日發行的個人名義[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")發行。
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[DJ Max Technika](https://zh.wikipedia.org/wiki/DJ_Max_Technika)转换而来。
+
+
 ，是由[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Pentavision](../Page/Pentavision.md "wikilink")株式会社研发和销售，仅在街机平台推出的[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。此游戏是“DJMAX METRO PROJECT”系列中第一部对外公开的作品。
 
 ## 機體配置

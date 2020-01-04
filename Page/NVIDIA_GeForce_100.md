@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 100](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_100)转换而来。
+
+
 **GeForce 100系列**是[NVIDIA的第九代GeForce顯示晶片](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，皆為[GeForce 9系列重新更名而成](https://zh.wikipedia.org/wiki/GeForce_9 "wikilink")\[1\]，規格基本與對應的GeForce 9系列產品相同，全系列僅提供於預先建置（[OEM](https://zh.wikipedia.org/wiki/OEM "wikilink")）系統中，而不會在[零售](../Page/零售.md "wikilink")市場出現。
 
 ## 產品型號

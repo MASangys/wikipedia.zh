@@ -1,3 +1,6 @@
+> 本文内容由[佳能 EOS 7D](https://zh.wikipedia.org/wiki/佳能_EOS_7D)转换而来。
+
+
 **佳能 EOS 7D**是[Canon旗下第一款採用雙](../Page/佳能.md "wikilink")[DIGIC](https://zh.wikipedia.org/wiki/DIGIC "wikilink")4处理器，單位數字編號命名的[APS-C數位單反](https://zh.wikipedia.org/wiki/APS-C "wikilink")， 同時使用新開發19點十字型自動對焦系統與63區雙層感應器的全新iFCL測光系統，內建雙軸電子水平儀拍照時能調整機身水平。
 
 另外錄影功能改良為獨立單鍵錄影，MPEG-4 AVC （H.264）1920 x 1080 （30p/25p/24p）：每分鐘約330MB，約12分鐘；1280 x 720 （60p/50p）：每分鐘約330MB，約12分鐘； 640 x 480 （60p/50p）：每分鐘約165MB，約24分鐘。相机內置單聲道麥克風，具備外接立體聲麥克風端子。

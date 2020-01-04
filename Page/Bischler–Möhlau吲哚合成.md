@@ -1,3 +1,6 @@
+> 本文内容由[Bischler–Möhlau吲哚合成](https://zh.wikipedia.org/wiki/Bischler–Möhlau吲哚合成)转换而来。
+
+
 **Bischler-Möhlau吲哚合成**（Bischler-Möhlau indole synthesis）
 
 从 α-[溴](../Page/溴.md "wikilink")[苯乙酮](../Page/苯乙酮.md "wikilink")与过量[苯胺](../Page/苯胺.md "wikilink")反应合成 2-[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[吲哚](../Page/吲哚.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]

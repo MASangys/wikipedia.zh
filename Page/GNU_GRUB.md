@@ -55,16 +55,17 @@ GRUB的一个重要的特性是安装它不需依附一个操作系统；但是�
 
 在Linux中，“grub-install”命令是用来把GRUB的步骤1安装到MBR或者分区中的。GRUB的配置文件、步骤2以及其它文件必须安装到某个可用的分区中。如果这些文件或者分区不可用，步骤1将把用户留在[命令行界面](../Page/命令行界面.md "wikilink")。
 
-GRUB配置文件的文件名和位置随系统的不同而不同；如在[Debian](../Page/Debian.md "wikilink")（GRUB Legacy）和[OpenSUSE](../Page/OpenSUSE.md "wikilink")中，这个文件为`/boot/grub/menu.lst`，而在[Fedora](../Page/Fedora.md "wikilink")和[Gentoo中为](https://zh.wikipedia.org/wiki/Gentoo "wikilink")`/boot/grub/grub.conf`。[Fedora](../Page/Fedora.md "wikilink")、[Gentoo Linux和](../Page/Gentoo_Linux.md "wikilink")[Debian](../Page/Debian.md "wikilink")（GRUB 2）使用`/boot/grub/grub.conf` Fedora为了兼容[文件系统层次结构标准](../Page/文件系统层次结构标准.md "wikilink")提供了一个从`/etc/grub.conf`到`/boot/grub/grub.conf`的[符号链接](../Page/符号链接.md "wikilink")。
+GRUB Legacy的設定檔為`/boot/grub/menu.lst`或`/boot/grub/grub.conf`。GRUB 2的設定檔為`/boot/grub/grub.conf`。
 
 除了硬盘外，GRUB也可安装到[光盘](https://zh.wikipedia.org/wiki/光盘 "wikilink")、[软盘](../Page/软盘.md "wikilink")和[闪存盘](../Page/闪存盘.md "wikilink")等[移动介质中](https://zh.wikipedia.org/wiki/移动介质 "wikilink")，这样就可以啟動一台无法从硬盘启动的系统。
 
 ## 参见
 
-  - [Das U-Boot](../Page/Das_U-Boot.md "wikilink")
-  - [LILO](../Page/LILO.md "wikilink")
-  - [NTLDR](../Page/NTLDR.md "wikilink")
   - [Windows Boot Manager](https://zh.wikipedia.org/wiki/Windows_Boot_Manager "wikilink")
+  - [NTLDR](../Page/NTLDR.md "wikilink")
+  - [LILO](../Page/LILO.md "wikilink")
+  - [UEFI](https://zh.wikipedia.org/wiki/UEFI "wikilink")
+  - [BIOS](../Page/BIOS.md "wikilink")
 
 ## 参考资料
 

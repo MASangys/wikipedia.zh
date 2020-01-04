@@ -1,3 +1,6 @@
+> 本文内容由[Seventeen \(雜誌\)](https://zh.wikipedia.org/wiki/Seventeen_\(雜誌\))转换而来。
+
+
 《**Seventeen**》（），是[集英社](../Page/集英社.md "wikilink")發行以[少女為消費對象的日本潮流雜誌](https://zh.wikipedia.org/wiki/少女 "wikilink")，毎月1號發行。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Autoconf](https://zh.wikipedia.org/wiki/Autoconf)转换而来。
+
+
 [Autoconf-automake-process.svg](https://zh.wikipedia.org/wiki/File:Autoconf-automake-process.svg "fig:Autoconf-automake-process.svg")的工作流程图。请注意"configure.ac"在Autoconf早期版本中名为"configure.in" \]\] **GNU Autoconf**是一个在[Bourne shell下制作供编译](../Page/Bourne_shell.md "wikilink")、安装和打包软件的的工具\[1\]。Autoconf并不受程式语言限制，常用于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Erlang](../Page/Erlang.md "wikilink")和[Objective-C](../Page/Objective-C.md "wikilink")。配置脚本控制了一个软件包在特定系统上的安装。在进行一系列测试后，配置脚本从模板中生成[makefile与](https://zh.wikipedia.org/wiki/makefile "wikilink")[头文件](../Page/头文件.md "wikilink")进而调整软件包，使之适应某一种系统。Autoconf与[Automake](../Page/Automake.md "wikilink")、[Libtool](../Page/Libtool.md "wikilink")等软件组成了[GNU构建系统](https://zh.wikipedia.org/wiki/GNU构建系统 "wikilink")\[2\]。Autoconf由于1991年夏天编写用于支持他在[自由软件基金会](../Page/自由软件基金会.md "wikilink")的编程工作\[3\]。此后，Autoconf包含了多人编写的改进代码并成为了使用最广泛的自由编译配置软件。\[4\]\[5\]
 
 ## 使用概要

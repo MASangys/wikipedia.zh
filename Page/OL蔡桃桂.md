@@ -81,7 +81,7 @@
 
 ## 參見
 
-  - \[\[RIVER\]以惡麼餓餓麼哦一樣就喔\]
+  - [RIVER以惡麼餓餓麼哦一樣就喔](https://zh.wikipedia.org/wiki/RIVER "wikilink")
 
 ## 參考資料
 

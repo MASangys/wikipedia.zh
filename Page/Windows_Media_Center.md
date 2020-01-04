@@ -13,7 +13,7 @@ WM是一種可程式化平台，目前有API
 
 ## 外部链接
 
-  - [Windows Media Center主页](http://www.windowsmediacenter.com/)
+  - [Windows Media Center主页](https://web.archive.org/web/20030730151357/http://www.windowsmediacenter.com/)
   - [Windows Vista： 功能介紹：Windows Media Center](http://www.microsoft.com/us/windows/chinese/products/windowsvista/features/details/mediacenter.mspx)
   - [Windows XP Media Center Edition 2005主頁](http://www.microsoft.com/windowsxp/mediacenter/default.mspx)
 

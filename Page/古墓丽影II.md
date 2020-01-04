@@ -1,3 +1,6 @@
+> 本文内容由[古墓丽影II](https://zh.wikipedia.org/wiki/古墓丽影II)转换而来。
+
+
 是属于[古墓丽影系列](../Page/古墓丽影系列.md "wikilink")的一款电子游戏，是游戏《[古墓丽影](https://zh.wikipedia.org/wiki/古墓丽影 "wikilink")》的续作。游戏由[Core Design负责开发](../Page/Core_Design.md "wikilink")，[Eidos Interactive出版](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。原始版本在[PlayStation](../Page/PlayStation.md "wikilink")平台发布，[Windows 95和](../Page/Windows_95.md "wikilink")[Mac版本在](https://zh.wikipedia.org/wiki/Mac "wikilink")1997年11月发布，[PlayStation Network版本在](../Page/PlayStation_Network.md "wikilink")2009年发布。\[1\]\[2\]中国大陆由[北京新天地](../Page/北京新天地.md "wikilink")代理，臺灣由[第三波資訊代理Windows版發售](https://zh.wikipedia.org/wiki/第三波資訊 "wikilink")。
 
 ## 游戏剧情

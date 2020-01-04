@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-EditToolbarThunks.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-EditToolbarThunks.js)转换而来。
+
+
 if ((mw.config.get('wgAction') == 'edit' || mw.config.get('wgAction') == 'submit') && window.jQuery) {
 
 `   window.addButton = true;`

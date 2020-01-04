@@ -1,3 +1,6 @@
+> 本文内容由[澳門巴士MT3路線](https://zh.wikipedia.org/wiki/澳門巴士MT3路線)转换而来。
+
+
 **澳門巴士MT3路線**是一條由**[澳門公共汽車有限公司](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")**經營，往返**[高利亞海軍上將馬路](https://zh.wikipedia.org/wiki/高利亞海軍上將／政府綜合服務大樓站 "wikilink")**和**[望德聖母灣](../Page/望德聖母灣大馬路.md "wikilink")**的循環巴士路線。
 
 ## 簡介及歷史

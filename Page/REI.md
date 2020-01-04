@@ -1,3 +1,6 @@
+> 本文内容由[REI](https://zh.wikipedia.org/wiki/REI)转换而来。
+
+
 **REI**（）是居住在[台灣的女性](https://zh.wikipedia.org/wiki/台灣 "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[人物設計](../Page/人物設計.md "wikilink")師。
 
 ## 人物

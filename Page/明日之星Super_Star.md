@@ -269,20 +269,20 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/最佳台語專輯獎_(金曲獎).md" title="wikilink">最佳台語專輯獎</a></p></td>
-<td><p>《縫夢》</p></td>
-<td><p>時代創藝</p></td>
 <td></td>
 <td><p>首度入圍</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/年度專輯獎_(金曲獎).md" title="wikilink">年度專輯獎</a></p></td>
-<td><p>《縫夢》</p></td>
-<td><p>時代創藝</p></td>
 <td></td>
 <td><p>首度入圍</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,3 +1,6 @@
+> 本文内容由[Apple IIc Plus](https://zh.wikipedia.org/wiki/Apple_IIc_Plus)转换而来。
+
+
 **Apple IIc Plus**是Apple II系列第六款，也是最后一款机型。型号中的"*Plus*"代表其较[Apple IIc增加了一些功能](../Page/Apple_IIc.md "wikilink")，例如更大的存储容量(以3.5英寸内置软驱替代原有的5.25英寸软驱)、更快的处理速度及系统贳件统一标准化。值得注意的一个信息是Apple IIc Plus几乎没有采用任何为Apple II系列开发的新技术，而只有将一些周边整合进传统Apple IIc的设计之中。该设计被接受16位[Apple II<small>GS</small>改进的用户批评](https://zh.wikipedia.org/wiki/Apple_IIgs "wikilink")。
 
 ## 历史

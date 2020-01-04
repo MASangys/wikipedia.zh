@@ -1,3 +1,6 @@
+> 本文内容由[Theatre Echo](https://zh.wikipedia.org/wiki/Theatre_Echo)转换而来。
+
+
 **Theatre Echo**（）是[日本](../Page/日本.md "wikilink")的[劇團和](https://zh.wikipedia.org/wiki/劇團 "wikilink")[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")。座落於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")。法人商號為「**[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")**」。
 
 ## 概要

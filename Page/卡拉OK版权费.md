@@ -1,3 +1,6 @@
+> 本文内容由[卡拉OK版权费](https://zh.wikipedia.org/wiki/卡拉OK版权费)转换而来。
+
+
 **卡拉OK版权费**，又称“**卡拉OK版税**”，全称为“**卡拉OK版权授权许可使用费**”。其义是指，当[量贩式KTV](https://zh.wikipedia.org/wiki/量贩式KTV "wikilink")、[酒店](../Page/酒店.md "wikilink")、[夜总会等](https://zh.wikipedia.org/wiki/夜总会 "wikilink")[卡拉OK](../Page/卡拉OK.md "wikilink")经营场所，以营利为目的使用他人音乐的时候，按照法律向音乐作者支付的版税报酬。
 
 ## 形成原因

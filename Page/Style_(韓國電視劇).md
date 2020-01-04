@@ -1,3 +1,6 @@
+> 本文内容由[Style \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Style_\(韓國電視劇\))转换而来。
+
+
 《**Style**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2009年8月1日起播放的[週末連續劇](../Page/SBS週末連續劇.md "wikilink")，改編[白英旭同名小說](https://zh.wikipedia.org/wiki/白英旭 "wikilink")。[馬來西亞和](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[中国大陆](../Page/中国大陆.md "wikilink")[中文名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")《**風格**》，分别於[八度空間和](https://zh.wikipedia.org/wiki/八度空間_\(電視台\) "wikilink")[江西卫视](../Page/江西卫视.md "wikilink")首播，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")《**我的老闆是惡魔**》，於[中天綜合台](../Page/中天綜合台.md "wikilink")首播。
 
 ## 演出陣容

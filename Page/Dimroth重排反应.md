@@ -1,3 +1,6 @@
+> 本文内容由[Dimroth重排反应](https://zh.wikipedia.org/wiki/Dimroth重排反应)转换而来。
+
+
 **Dimroth重排反应**（Dimroth rearrangement）
 
 最早指[1,2,3-三唑经过](https://zh.wikipedia.org/wiki/1,2,3-三唑 "wikilink")[重排](https://zh.wikipedia.org/wiki/重排 "wikilink")，其[环内与](https://zh.wikipedia.org/wiki/环内 "wikilink")[环外](https://zh.wikipedia.org/wiki/环外 "wikilink")[氮](../Page/氮.md "wikilink")原子发生交换。\[1\]

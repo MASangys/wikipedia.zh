@@ -87,6 +87,12 @@ AcFun创立于2007年6月6日，取意“Anime Comic Fun”\[3\]，初创时期�
 
 2019年9月28日，AcFun独家引进10月新番动画《[碧蓝幻想第二季](https://zh.wikipedia.org/wiki/碧蓝幻想 "wikilink")》播放版-{}-权\[66\]。
 
+2019年12月20日，AcFun独家引进2020年1月新番动画《[成群逐队！西顿学园](https://zh.wikipedia.org/wiki/成群逐队！西顿学园 "wikilink")》、《[达尔文游戏](https://zh.wikipedia.org/wiki/达尔文游戏 "wikilink")》、《[请在T台上微笑](https://zh.wikipedia.org/wiki/请在T台上微笑 "wikilink")》、《[家有圆圆？！～我家的圆圆你知道吗～](https://zh.wikipedia.org/wiki/家有圆圆？！～我家的圆圆你知道吗～ "wikilink")》播放版-{}-权。
+
+2019年12月24日，AcFun独家引进2020年1月新番动画《[SHOW BY ROCK！！第三季](https://zh.wikipedia.org/wiki/SHOW_BY_ROCK！！ "wikilink")》、《[房间露营Δ](https://zh.wikipedia.org/wiki/摇曳露营 "wikilink")》播放版-{}-权。
+
+2019年12月25日，AcFun独家引进2020年1月新番动画《》播放版-{}-权。
+
 ### 投资公司
 
 <table>

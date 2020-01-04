@@ -1,3 +1,6 @@
+> 本文内容由[KOICHI DOMOTO Endless SHOCK Original Sound Track](https://zh.wikipedia.org/wiki/KOICHI_DOMOTO_Endless_SHOCK_Original_Sound_Track)转换而来。
+
+
 《**KOICHI DOMOTO Endless SHOCK Original Sound Track**》為2006年1月11日發售、[音樂劇](../Page/音樂劇.md "wikilink")《[Endless SHOCK](https://zh.wikipedia.org/wiki/Endless_SHOCK "wikilink")》的原聲帶。由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")發行。
 
 ## 解說

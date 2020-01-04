@@ -1,3 +1,6 @@
+> 本文内容由[VP4](https://zh.wikipedia.org/wiki/VP4)转换而来。
+
+
 **VP4**是一種由[On2 Technologies所開發出來的視訊編解碼技術](../Page/On2_Technologies.md "wikilink"). 2001年1月發表.\[1\] On2 Technologies於2001年5月21日，推出Beta版本.\[2\]\[3\] 2001年6月On2 Technologies將VP4推出於網站上.\[4\]
 
 ## 注釋

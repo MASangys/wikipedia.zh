@@ -1,3 +1,6 @@
+> 本文内容由[Carroll重排反应](https://zh.wikipedia.org/wiki/Carroll重排反应)转换而来。
+
+
 **Carroll重排反应**（卡罗尔重排），又称**Carroll–Claisen重排反应**
 
 β-[酮酸](https://zh.wikipedia.org/wiki/酮酸 "wikilink")[烯丙](https://zh.wikipedia.org/wiki/烯丙 "wikilink")[酯](../Page/酯.md "wikilink")发生[Claisen重排产生α](https://zh.wikipedia.org/wiki/Claisen重排 "wikilink")-烯丙基-β-酮酸，再经[脱羧](https://zh.wikipedia.org/wiki/脱羧 "wikilink")，得到γ,δ-[不饱和](https://zh.wikipedia.org/wiki/不饱和 "wikilink")[酮](../Page/酮.md "wikilink")。\[1\] __NOTOC__

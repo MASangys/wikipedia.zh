@@ -1,3 +1,6 @@
+> 本文内容由[VP6](https://zh.wikipedia.org/wiki/VP6)转换而来。
+
+
 **TrueMotion** VP6是由[On2 Technologies所推出的視訊壓縮編解碼器](../Page/On2_Technologies.md "wikilink")（video codec），效能更勝之前的[VP3與](https://zh.wikipedia.org/wiki/VP3 "wikilink")[VP5](https://zh.wikipedia.org/wiki/VP5 "wikilink")。廣泛應用於各大视频网站的[Adobe Flash视频之中](../Page/Adobe_Flash.md "wikilink")。
 
 2003年5月VP6壓縮編解碼器首次亮相\[1\]。2003年10月，On2官方宣布推出TrueMotion VP6 codec\[2\]。2003年11月，On2宣稱VP6被中國的[Enhanced Versatile Disc](https://zh.wikipedia.org/wiki/Enhanced_Versatile_Disc "wikilink")（EVD）所采用。北京E-世界選擇VP6編解碼器作為EVD格式的視訊編碼方法。2005年8月，VP6被Flash Player 8影片編碼器所採用\[3\]\[4\]。

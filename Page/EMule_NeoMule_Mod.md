@@ -1,3 +1,6 @@
+> 本文内容由[EMule NeoMule Mod](https://zh.wikipedia.org/wiki/EMule_NeoMule_Mod)转换而来。
+
+
 **eMule NeoMule Mod**，简称**NeoMule**或**Neo**，是基于官方[eMule开发的一款](https://zh.wikipedia.org/wiki/eMule "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU [GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。NeoMule的功能设置相对于其他eMule Mods较多、较完善。\[1\]
 
 ## 历史

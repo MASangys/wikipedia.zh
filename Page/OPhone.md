@@ -1,3 +1,6 @@
+> 本文内容由[OPhone](https://zh.wikipedia.org/wiki/OPhone)转换而来。
+
+
 **OPhone**，也稱OMS (Open Mobile System)，是一個[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，基於[Android](../Page/Android.md "wikilink")的基礎上改造，為[Android](../Page/Android.md "wikilink")的衍生平台。該平台於2007年啟動研發，於2009年8月31日正式發佈。后由[中國移動的OPhone軟件開發網絡修改](https://zh.wikipedia.org/wiki/中國移動 "wikilink")，並進入其中國市場。
 
 OPhone雖然能提供廉價、低價格比的入門級智能手機，但只能使用[中國移動当时的](https://zh.wikipedia.org/wiki/中國移動 "wikilink")[TD-SCDMA網路和](https://zh.wikipedia.org/wiki/TD-SCDMA "wikilink")[GSM](../Page/GSM.md "wikilink")網絡。同时相比原生Android，Ophone在易用性和用户界面上有着更多的不足。

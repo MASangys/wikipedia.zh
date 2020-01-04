@@ -7,9 +7,8 @@
 
   - 驅動形式：[前置引擎](https://zh.wikipedia.org/wiki/前置引擎 "wikilink")，[後輪驅動](https://zh.wikipedia.org/wiki/後輪驅動 "wikilink")（於2004年起提供[四輪驅動版本](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")）
   - 引擎規格：[直列式4氣缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")或者[汽油引擎](../Page/汽油引擎.md "wikilink")
-  - 變速箱：5前速[自動排檔](https://zh.wikipedia.org/wiki/自動排檔 "wikilink")（於2004年起提供4前速自動排檔予顧客選擇）
+  - 變速箱：[手動排檔](https://zh.wikipedia.org/wiki/手動排檔 "wikilink")（5前速）或[自動排檔](https://zh.wikipedia.org/wiki/自動排檔 "wikilink")（分4/5/6前速，2004年起設4前速選擇，2019年起增設6前速選擇及裝配歐盟六型引擎）
   - 最高載重量：約2.8噸
-  - 2019年提供6前速自動排檔予顧客選擇
 
 最高載重量：約3.3噸
 

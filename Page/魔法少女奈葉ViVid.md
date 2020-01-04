@@ -1,3 +1,6 @@
+> 本文内容由[魔法少女奈葉ViVid](https://zh.wikipedia.org/wiki/魔法少女奈葉ViVid)转换而来。
+
+
 是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")第4期計畫的一部分，與《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》一樣均為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[藤真拓哉](../Page/藤真拓哉.md "wikilink")，2009年起在《[月刊CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")》上連載。[台灣角川](../Page/台灣角川.md "wikilink")於2013年1月22日公告取得授權發行中文版\[1\]。
 
 作品的時間軸位於《[魔法少女奈葉StrikerS Sound StageX](https://zh.wikipedia.org/wiki/魔法少女奈葉_Sound_Stage#StrikerS_Sound_StageX "wikilink")》以及《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》之間，相當於《Force》的2年前。于2014年8月15日宣布[电视动画化](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，随后官网开启。

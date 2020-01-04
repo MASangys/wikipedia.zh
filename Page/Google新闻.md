@@ -1,3 +1,6 @@
+> 本文内容由[Google新闻](https://zh.wikipedia.org/wiki/Google新闻)转换而来。
+
+
 **Google新闻**是[Google](../Page/Google.md "wikilink")开发的一款[Web新闻聚合器](https://zh.wikipedia.org/wiki/Web "wikilink")，由Google首席工程師[克里希纳·巴拉特](https://zh.wikipedia.org/wiki/克里希纳·巴拉特 "wikilink")（Krishna Bharat）創造與領導開發。
 
 ## 歷史

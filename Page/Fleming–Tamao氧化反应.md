@@ -1,3 +1,6 @@
+> 本文内容由[Fleming–Tamao氧化反应](https://zh.wikipedia.org/wiki/Fleming–Tamao氧化反应)转换而来。
+
+
 **Fleming–Tamao氧化反应**（弗莱明-玉尾氧化），又称**Tamao氧化反应**、**Fleming–Tamao–Kumada氧化反应**（弗莱明-玉尾-熊田氧化）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 将[有机硅化合物的](https://zh.wikipedia.org/wiki/有机硅化合物 "wikilink")[硅基转化为](https://zh.wikipedia.org/wiki/硅基 "wikilink")[羟基](../Page/羟基.md "wikilink")的方法。 硅基通过此反应而可作为羟基的等效体。

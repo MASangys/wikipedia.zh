@@ -189,7 +189,9 @@ L形的照門有兩個預設的覘孔，分別在0—300米和300—500米時使
 
 ### 電影
 
-  - 2002年ㄧ《[神鬼認證](../Page/神鬼認證_\(電影\).md "wikilink")》片中的傑森包恩到了瑞士美國大使館的時候，[美國海軍陸戰隊使館警衛隊在執行危機應變程序時](https://zh.wikipedia.org/wiki/美國海軍陸戰隊使館警衛隊 "wikilink")，有使用MAR加利爾突擊步槍。傑森包恩回到家後，美國[中央情報局特別探員垂降進入屋內的時候](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")，使用MAR加利爾突擊步槍。
+  - 1995年—《[-{zh-hans:盗火线; zh-hk:盜火線; zh-hant:烈火悍將;}-](https://zh.wikipedia.org/wiki/烈火悍將 "wikilink")》（Heat）：型號為加利爾5.56 ARM，移除了槍托（但出現了時有槍托時無的連貫性錯誤），由邁克爾·切里托（飾演）於打劫銀行及期後與警察的槍戰中所使用。
+  - 2000年—《》（The Way of the Gun）：型號為加利爾7.62 ARM，由朗博（[班尼西歐·狄奧·托羅](../Page/班尼西歐·狄奧·托羅.md "wikilink")飾演）所使用。
+  - 2002年ㄧ《[神鬼認證](../Page/神鬼認證_\(電影\).md "wikilink")》：片中的傑森包恩到了瑞士美國大使館的時候，[美國海軍陸戰隊使館警衛隊在執行危機應變程序時](https://zh.wikipedia.org/wiki/美國海軍陸戰隊使館警衛隊 "wikilink")，曾使用MAR加利爾突擊步槍。傑森包恩回到家後，美國[中央情報局特別探員垂降進入屋內的時候](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")，也使用MAR加利爾突擊步槍。
   - 2004年—《[-{zh-cn:生化危机2：启示录; zh-tw:惡靈古堡2：啟示錄; zh-hk:生化危機之殲滅生還者}-](../Page/惡靈古堡2：啟示錄.md "wikilink")》（Resident Evil: Apocalypse）：型號為微型加利爾，裝上[紅點鏡](../Page/紅點鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、激光指示器和[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")，被卡洛斯·奧利韋拉（[歐迪·費爾](../Page/歐迪·費爾.md "wikilink")飾演）和[保護傘公司的隊員所使用](../Page/安布雷拉.md "wikilink")。
   - 2009年—《[-{zh-cn:特种部队：眼镜蛇的崛起; zh-tw:特種部隊：眼鏡蛇的崛起; zh-hk:義勇群英之毒蛇風暴}-](../Page/特種部隊：眼鏡蛇的崛起.md "wikilink")》（G.I. Joe: The Rise of Cobra）：型號為加利爾5.56 ARM，裝有[紅點鏡](../Page/紅點鏡.md "wikilink")，被美軍特種部隊所使用。
   - 2015年ㄧ《[-{zh-cn:骇客交锋; zh-tw:黑帽駭客; zh-hk:黑客特攻}-](https://zh.wikipedia.org/wiki/黑帽駭客 "wikilink")》（Blackhat）：型號為加利爾MAR，被[駭客](https://zh.wikipedia.org/wiki/駭客 "wikilink")[犯罪組織所使用](https://zh.wikipedia.org/wiki/犯罪組織 "wikilink")。

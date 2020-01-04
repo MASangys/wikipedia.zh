@@ -1,3 +1,6 @@
+> 本文内容由[Vi-vo](https://zh.wikipedia.org/wiki/Vi-vo)转换而来。
+
+
 **有限公司Vi-vo**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立於2002年3月\[2\]。「Vi-vo」這個公司的由來是[西班牙語中代表](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")「**鮮明華麗，明朗活潑**」\[3\]的意思\[4\]。主要的創立人員是聲優[屋良有作](../Page/屋良有作.md "wikilink")和[石井康嗣](../Page/石井康嗣.md "wikilink")。代表董事是屋良有作。
 
 ## 所属聲優

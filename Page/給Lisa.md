@@ -1,3 +1,6 @@
+> 本文内容由[給Lisa](https://zh.wikipedia.org/wiki/給Lisa)转换而来。
+
+
 **《給lisa》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[彭羚](../Page/彭羚.md "wikilink")的國語專輯，於2001年4月12日推出。
 
 ## 曲目列表

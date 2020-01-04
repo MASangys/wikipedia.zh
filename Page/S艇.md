@@ -1,3 +1,6 @@
+> 本文内容由[S艇](https://zh.wikipedia.org/wiki/S艇)转换而来。
+
+
 **S艇**（Schnellboot，英文fast boat之意），是[第二次世界大戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[德國的一種](https://zh.wikipedia.org/wiki/德國 "wikilink")[魚雷快艇](../Page/魚雷快艇.md "wikilink")。盟軍則稱其**E艇**，一般被認為E是Enemy（敵人）的意思\[1\]\[2\]，但也有可能是指Eilboot（[快艇](https://zh.wikipedia.org/wiki/快艇 "wikilink")）的意思\[3\]\[4\]。 S艇船體比[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[PT艇](../Page/PT艇.md "wikilink")和[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[機動魚雷艇](https://zh.wikipedia.org/wiki/機動魚雷艇 "wikilink")（MTB）還要大的多，適合到外海進行長距離作戰（約700海浬），使得[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")開發更新型的魚雷快艇對應，如。
 
 ## 發展和其整體設計

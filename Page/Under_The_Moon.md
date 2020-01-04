@@ -1,3 +1,6 @@
+> 本文内容由[Under The Moon](https://zh.wikipedia.org/wiki/Under_The_Moon)转换而来。
+
+
 《**Under The Moon**》是2006年12月15日[シュガービーンズ發售的女性向](../Page/WillPlus.md "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[遊戲](../Page/戀愛遊戲.md "wikilink")\[1\]。在2007年8月24日發售[Fan disk](https://zh.wikipedia.org/wiki/Fan_disk "wikilink")《**Under The Moon 〜つきいろ絵本〜**》\[2\]。2009年6月25日由[ディンプル移植](https://zh.wikipedia.org/wiki/ディンプル "wikilink")[PS2發售](https://zh.wikipedia.org/wiki/PS2 "wikilink")《**Under The Moon 〜クレセント〜**》。\[3\]
 
 這個作品的Log是《Under The Moon》，但是官方網站卻是寫《Under the Moon》，『the』這個字可以是小寫也可以是大寫。

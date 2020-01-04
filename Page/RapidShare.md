@@ -1,3 +1,6 @@
+> 本文内容由[RapidShare](https://zh.wikipedia.org/wiki/RapidShare)转换而来。
+
+
 **Rapidshare**是一個[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[檔案託管的](https://zh.wikipedia.org/wiki/檔案託管 "wikilink")[網站](../Page/網站.md "wikilink")，創立於2006年，它提供一鍵存取的付費和免費檔案託管服務（免費版本有某些限制），它運作的經費來自付費用戶所支付的費用。 Rapidshare也是世界上其中一個最大的檔案託管的網站，它聲稱其客戶群已經上載超過10[PB的文件到其](https://zh.wikipedia.org/wiki/PB "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。截至2009年10月，根據[Alexa的](https://zh.wikipedia.org/wiki/Alexa "wikilink")3個月的平均得分調查，Rapidshare.com是全球經常訪問的網站排行16。\[1\]在 2015 年 3 月 31 日，RapidShare 正式停止服務。
 
 ## 運作與服務

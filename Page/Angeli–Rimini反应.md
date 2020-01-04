@@ -1,3 +1,6 @@
+> 本文内容由[Angeli–Rimini反应](https://zh.wikipedia.org/wiki/Angeli–Rimini反应)转换而来。
+
+
 **Angeli–Rimini反应**（Angeli-Rimini reaction）
 
 [醛](../Page/醛.md "wikilink")与 *N*-羟基[苯](../Page/苯.md "wikilink")[磺酰胺在](https://zh.wikipedia.org/wiki/磺酰胺 "wikilink")[碱](../Page/碱.md "wikilink")存在下发生反应生成[酰基羟胺](https://zh.wikipedia.org/wiki/酰基羟胺 "wikilink")（[异羟肟酸](https://zh.wikipedia.org/wiki/异羟肟酸 "wikilink")）和[亚磺酸](https://zh.wikipedia.org/wiki/亚磺酸 "wikilink")。

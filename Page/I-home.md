@@ -1,3 +1,6 @@
+> 本文内容由[I-home](https://zh.wikipedia.org/wiki/I-home)转换而来。
+
+
 [I-home_base.jpg](https://zh.wikipedia.org/wiki/File:I-home_base.jpg "fig:I-home_base.jpg") i-HOME是一個位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[大角咀](../Page/大角咀.md "wikilink")[洋松街](https://zh.wikipedia.org/wiki/洋松街 "wikilink")38號，由華人置業及[市區重建局](../Page/市區重建局.md "wikilink")合作發展，樓高44層，項目於2009年3月開售\[1\]，同年8月3日入伙\[2\]。
 
 ## 簡介

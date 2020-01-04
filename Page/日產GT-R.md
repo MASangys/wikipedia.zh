@@ -70,7 +70,7 @@ GTR有個與一般性能車大相逕庭的設計觀念：重量。此車不追�
 
 ### CBA-R35
 
-於2007年[東京車展](../Page/東京車展.md "wikilink")上，日產展示區內首先播放GT-R在德國[紐伯靈賽道圈速記錄的影片](https://zh.wikipedia.org/wiki/紐伯靈賽道 "wikilink")，隨後日產汽車負責人卡洛斯·戈恩駕駛車型代號**CBA-R35**的GT-R從後台駛出，GT-R正式亮相後，日產汽車在會場內正式公佈2007年12月6日在[日本](../Page/日本.md "wikilink")推出上市，2008年7月7日美國上市，洛杉磯環球日產經銷處於2008年7月7日中午12:01交付第一輛新車，加拿大也緊隨其後7月上市，歐洲市場已經於2008年底上市。推遲的時差，是因為廠方特別為GT-R建立一套獨立的合格銷售據點及維修服務（稱為Nissan High Performance Centre）機制，還有就是手工打造的引擎及傳動裝置等產量很低，每個月能生產約1000輛GT-R。\[10\]
+於2007年[東京車展](../Page/東京車展.md "wikilink")上，日產展示區內首先播放GT-R在德國[紐伯靈賽道圈速記錄的影片](https://zh.wikipedia.org/wiki/紐伯靈賽道 "wikilink")，隨後日產汽車負責人[卡洛斯·戈恩](../Page/卡洛斯·戈恩.md "wikilink")駕駛車型代號**CBA-R35**的GT-R從後台駛出，GT-R正式亮相後，日產汽車在會場內正式公佈2007年12月6日在[日本](../Page/日本.md "wikilink")推出上市，2008年7月7日美國上市，洛杉磯環球日產經銷處於2008年7月7日中午12:01交付第一輛新車，加拿大也緊隨其後7月上市，歐洲市場已經於2008年底上市。推遲的時差，是因為廠方特別為GT-R建立一套獨立的合格銷售據點及維修服務（稱為Nissan High Performance Centre）機制，還有就是手工打造的引擎及傳動裝置等產量很低，每個月能生產約1000輛GT-R。\[10\]
 
 日本以外的[亞太市場方面](https://zh.wikipedia.org/wiki/亞太 "wikilink")，由於貨源長期處於緊張狀態，所以只限於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[澳大利亞以及](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[紐西蘭上市](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，其他銷售地區包括[中東以及](https://zh.wikipedia.org/wiki/中東 "wikilink")[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")。至於[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞以及](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[拉丁美洲](../Page/拉丁美洲.md "wikilink")的上市時間就一直遙遙無期。
 

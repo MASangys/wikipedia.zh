@@ -1,3 +1,6 @@
+> 本文内容由[SdKfz 251半履帶車](https://zh.wikipedia.org/wiki/SdKfz_251半履帶車)转换而来。
+
+
 **SdKfz 251**（）是根据[二战](https://zh.wikipedia.org/wiki/二战 "wikilink")[德国](../Page/德国.md "wikilink")早期装甲部队步兵與坦克协同战术设计和生产的通用性[半履带车](https://zh.wikipedia.org/wiki/半履带车 "wikilink")，共有超過20種子型號，全部生產量約15000輛，為德軍在二戰中使用的核心步兵戰鬥載具。
 
 ## 設計

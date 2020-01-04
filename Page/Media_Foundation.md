@@ -1,3 +1,6 @@
+> 本文内容由[Media Foundation](https://zh.wikipedia.org/wiki/Media_Foundation)转换而来。
+
+
 **Media Foundation**是微軟在Windows上推出的下一代多媒體開發庫，目的是為Windows平台提供統一的多媒體影音解決方案，開發者可以透過Media Foundation播放影片和聲音文件、進行影音編碼或者多媒體文件轉碼等等工作。Media Foundation是[DirectShow](../Page/DirectShow.md "wikilink")為主的舊式多媒體[應用程序接口的替代者與繼承者](https://zh.wikipedia.org/wiki/應用程序接口 "wikilink")，在微軟的計畫下將逐步汰換[DirectShow](../Page/DirectShow.md "wikilink")技術。Media Foundation僅支援Windows Vista或更新的系統。
 
 Media Foundation擅長高品質的音訊和視訊播放，高清內容（如[HDTV](https://zh.wikipedia.org/wiki/HDTV "wikilink"),高清電視）和數位版權管理（DRM）訪問控制。Media Foundation在不同的Windows版本上能力不同，在Windows Vista上僅支持WMV格式，但到了Windows 7後添加了H264編碼支持。Windows 8上則多了數種更高品質的設定。

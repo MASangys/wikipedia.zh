@@ -1,3 +1,6 @@
+> 本文内容由[MAT-49冲锋枪](https://zh.wikipedia.org/wiki/MAT-49冲锋枪)转换而来。
+
+
 **MAT-49**（MAT，，意為：「由國營兵器日蒂勒工廠製造」）是一款由[法国製造](https://zh.wikipedia.org/wiki/法国 "wikilink")、[法軍在](../Page/法國軍事.md "wikilink")1949年至1979年期間採用的[冲锋枪](../Page/冲锋枪.md "wikilink")，主要發射[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")。
 
 ## 歷史

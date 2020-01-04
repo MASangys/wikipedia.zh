@@ -1,3 +1,6 @@
+> 本文内容由[MacPorts](https://zh.wikipedia.org/wiki/MacPorts)转换而来。
+
+
 **MacPorts**原名**DarwinPorts**\[1\]是一个[软件包管理系统](../Page/软件包管理系统.md "wikilink")，可用于简化[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Darwin操作系统内软件的安装](../Page/Darwin_\(操作系统\).md "wikilink")。它是一个用来简化[自由软件](../Page/自由软件.md "wikilink")/[开放源代码软件的安装的自由](https://zh.wikipedia.org/wiki/开放源代码软件 "wikilink")/开放源代码项目，与和BSD类系统的[Ports](../Page/Ports.md "wikilink")的目标和功能类似。2002年，DarwinPorts作为[OpenDarwin](../Page/OpenDarwin.md "wikilink")项目的一部分启动，参与者包括一些[苹果公司的员工](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，如兰德勒·富勒、凯文·冯·维克滕和等。
 
 MacPorts使得用户可以在[终端中通过](https://zh.wikipedia.org/wiki/终端_\(OS_X\) "wikilink")“`sudo port install 软件包名`”的方法来安装很多软件。MacPorts会自动处理软件包依赖、软件包下载和编译的问题。用户可以通过“`sudo port upgrade outdated`”来升级已安装的软件。\[2\]

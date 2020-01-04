@@ -1,3 +1,6 @@
+> 本文内容由[约翰·D·安德森](https://zh.wikipedia.org/wiki/约翰·D·安德森)转换而来。
+
+
 [Anderson_John_NASA.jpg](https://zh.wikipedia.org/wiki/File:Anderson_John_NASA.jpg "fig:Anderson_John_NASA.jpg") **小约翰·D·安德森**（，）是美国[华盛顿特区](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink")[史密森学会](https://zh.wikipedia.org/wiki/史密森学会 "wikilink")[美国空天博物馆空气动力学分馆馆长和](https://zh.wikipedia.org/wiki/美国空天博物馆 "wikilink")[马里兰大学帕克分校](https://zh.wikipedia.org/wiki/马里兰大学帕克分校 "wikilink")[航空航天工程系退休教授](https://zh.wikipedia.org/wiki/航空航天工程 "wikilink")。安德森教授以其卓著的专业知识和教育成就蜚声美国和全世界。他讲授超过40门短期课程，听众包括[空军军官学校](https://zh.wikipedia.org/wiki/美国空军军官学校 "wikilink")，美国政府，以及 [英国的](https://zh.wikipedia.org/wiki/英国 "wikilink") [劳斯莱斯](https://zh.wikipedia.org/wiki/劳斯莱斯公司 "wikilink")，[比利时](../Page/比利时.md "wikilink")的[冯卡门研究中心](https://zh.wikipedia.org/wiki/冯卡门研究中心 "wikilink")。这些课程包括开创性的[高超声速气体动力学](https://zh.wikipedia.org/wiki/高超声速气体动力学 "wikilink")，这是由 [美国航空航天学会](https://zh.wikipedia.org/wiki/美国航空航天学会 "wikilink")（Institute of Aeronautics and Astronautics）和[马里兰大学赞助的](https://zh.wikipedia.org/wiki/马里兰大学 "wikilink")，并且使用卫星进行全国性的直播。在出版领域，1987年 [McGraw-Hill出版社](https://zh.wikipedia.org/wiki/McGraw-Hill "wikilink") 聘请安德森教授作为McGraw-Hill航空航天工程系列书籍的资深顾问编辑。
 
 ## 传记

@@ -1,3 +1,6 @@
+> 本文内容由[MoMo 歡迎來到終末庭園](https://zh.wikipedia.org/wiki/MoMo_歡迎來到終末庭園)转换而来。
+
+
 《**MoMo**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[酒井真由](../Page/酒井真由.md "wikilink")的作品。於[集英社](../Page/集英社.md "wikilink")的[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》2008年9月號開始連載，至2011年3月號結束，全部共33回。台灣方面則是由[尖端出版的](https://zh.wikipedia.org/wiki/尖端 "wikilink")《[夢夢少女漫畫月刊](../Page/夢夢少女漫畫月刊.md "wikilink")》於2009年3月號開始連載，至2011年11月號結束。
 
 2009年7月2日開始，廣播配信中。（[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")）

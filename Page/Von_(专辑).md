@@ -1,3 +1,6 @@
+> 本文内容由[Von \(专辑\)](https://zh.wikipedia.org/wiki/Von_\(专辑\))转换而来。
+
+
 ***Von*** (*Hope*)是[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")[後搖滾](../Page/後搖滾.md "wikilink")樂團[Sigur Rós的第一張專輯](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")。
 
 Sigur Rós在製作這張專輯的時候，花了非常多的時間，但是結果卻不如他們原本想要的構想，於是他們打算把專輯重新再製作一遍，但因為這需要花更多的時間，所以最後放棄了。\[1\]

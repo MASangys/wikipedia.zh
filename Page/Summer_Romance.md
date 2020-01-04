@@ -1,3 +1,6 @@
+> 本文内容由[Summer Romance](https://zh.wikipedia.org/wiki/Summer_Romance)转换而来。
+
+
 《**Summer Romance 87**》是[香港](../Page/香港.md "wikilink")歌手[張國榮](../Page/張國榮.md "wikilink")的第十一張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第八張[粵語錄音室專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1987年8月21日由[新藝寶唱片](../Page/新藝寶唱片.md "wikilink")發行。\[1\]
 
 ## 專輯介紹

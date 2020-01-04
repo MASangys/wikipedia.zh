@@ -1,3 +1,6 @@
+> 本文内容由[KBS月火連續劇](https://zh.wikipedia.org/wiki/KBS月火連續劇)转换而来。
+
+
 **KBS月火連續劇**（，舊稱：）是指[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")（KBS 2TV）於[星期一](../Page/星期一.md "wikilink")及星期二播放的[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，放映時段是22:00至23:10（[KST](https://zh.wikipedia.org/wiki/KST "wikilink")）。此時段播放的劇集絕大多數是時裝劇，每套劇集大約16集，有時長達20集或短至2集。以下是KBS 2TV歷年來所播放的劇集：
 
 ## 劇集列表
@@ -1338,7 +1341,7 @@
 <td style="text-align: center;"><p><a href="../Page/職場之神.md" title="wikilink">職場之神</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/金惠秀.md" title="wikilink">金惠秀</a>、<a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>、<a href="https://zh.wikipedia.org/wiki/鄭有美" title="wikilink">鄭有美</a>、<a href="../Page/李熙俊.md" title="wikilink">李熙俊</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧-{}-彬</a>、<a href="../Page/趙權.md" title="wikilink">趙權</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金惠秀.md" title="wikilink">金惠秀</a>、<a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>、<a href="../Page/鄭有美.md" title="wikilink">鄭有美</a>、<a href="../Page/李熙俊.md" title="wikilink">李熙俊</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧-{}-彬</a>、<a href="../Page/趙權.md" title="wikilink">趙權</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/全昌根.md" title="wikilink">全昌根</a>、<a href="https://zh.wikipedia.org/wiki/盧尚勳" title="wikilink">盧尚勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹蘭中" title="wikilink">尹蘭中</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="../Page/中園美保.md" title="wikilink">中園美保</a>《<a href="../Page/派遣女王.md" title="wikilink">派遣女王</a>》</p></td>
@@ -1454,7 +1457,7 @@
 <td style="text-align: center;"><p><a href="../Page/戀愛的發現.md" title="wikilink">戀愛的發現</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/文晸赫.md" title="wikilink">文晸赫</a>、<a href="https://zh.wikipedia.org/wiki/鄭有美" title="wikilink">鄭有美</a>、<a href="../Page/盛駿.md" title="wikilink">盛駿</a>、<a href="../Page/尹賢旻.md" title="wikilink">尹賢旻</a>、<a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a>、<a href="../Page/尹真伊.md" title="wikilink">尹真伊</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/文晸赫.md" title="wikilink">文晸赫</a>、<a href="../Page/鄭有美.md" title="wikilink">鄭有美</a>、<a href="../Page/盛駿.md" title="wikilink">盛駿</a>、<a href="../Page/尹賢旻.md" title="wikilink">尹賢旻</a>、<a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a>、<a href="../Page/尹真伊.md" title="wikilink">尹真伊</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金成允" title="wikilink">金成允</a>、<a href="../Page/李應福.md" title="wikilink">李應福</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭賢貞" title="wikilink">鄭賢貞</a></p></td>
 <td style="text-align: center;"></td>
@@ -1758,7 +1761,7 @@
 <td style="text-align: center;"><p><a href="../Page/學校2017.md" title="wikilink">學校2017</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a>、<a href="https://zh.wikipedia.org/wiki/金正鉉_(演員)" title="wikilink">金正鉉</a>、<a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a>、<a href="../Page/韓周完.md" title="wikilink">韓周完</a>、<a href="../Page/韓善伙.md" title="wikilink">韓善伙</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a>、<a href="https://zh.wikipedia.org/wiki/金正鉉_(演員)" title="wikilink">金正鉉</a>、<a href="../Page/張東尹.md" title="wikilink">張東尹</a>、<a href="../Page/韓周完.md" title="wikilink">韓周完</a>、<a href="../Page/韓善伙.md" title="wikilink">韓善伙</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴珍錫" title="wikilink">朴珍錫</a>、<a href="https://zh.wikipedia.org/wiki/宋民葉" title="wikilink">宋民葉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭燦美" title="wikilink">鄭燦美</a>、<a href="https://zh.wikipedia.org/wiki/金勝元" title="wikilink">金勝元</a></p></td>
 <td style="text-align: center;"></td>
@@ -1885,7 +1888,7 @@
 <td style="text-align: center;"><p><a href="../Page/國標舞女孩.md" title="wikilink">國標舞女孩</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴世婉.md" title="wikilink">朴世婉</a>、<a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴世婉.md" title="wikilink">朴世婉</a>、<a href="../Page/張東尹.md" title="wikilink">張東尹</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴鉉錫" title="wikilink">朴鉉錫</a></p></td>
 <td style="text-align: center;"><p>權惠智</p></td>
 <td style="text-align: center;"></td>
@@ -1967,8 +1970,8 @@
 2019年11月26日</p></td>
 <td style="text-align: center;"><p><a href="../Page/朝鮮浪漫喜劇–綠豆傳.md" title="wikilink">朝鮮浪漫喜劇–綠豆傳</a><br />
 </p></td>
-<td style="text-align: center;"><p>36</p></td>
-<td style="text-align: center;"><p><a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a>、<a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
+<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p><a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="../Page/張東尹.md" title="wikilink">張東尹</a>、<a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td style="text-align: center;"><p>金東輝</p></td>
 <td style="text-align: center;"><p>林藝珍、白素妍</p></td>
 <td style="text-align: center;"></td>
@@ -2001,17 +2004,6 @@
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td style="text-align: center;"><p>2020年3月2日－<br />
-2020年</p></td>
-<td style="text-align: center;"><p><a href="../Page/快過來.md" title="wikilink">快過來</a><br />
-</p></td>
-<td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a>、<a href="../Page/徐志焄.md" title="wikilink">徐志焄</a></p></td>
-<td style="text-align: center;"><p>池秉賢</p></td>
-<td style="text-align: center;"><p>朱華美</p></td>
-<td style="text-align: center;"></td>
-</tr>
 </tbody>
 </table>
 

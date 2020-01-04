@@ -1,3 +1,6 @@
+> 本文内容由[Love Story \(電視劇\)](https://zh.wikipedia.org/wiki/Love_Story_\(電視劇\))转换而来。
+
+
 《**Love Story**》（日文原名ラブストーリー）是2001年4月15日～6月24日に[TBS系於星期日](../Page/TBS電視台.md "wikilink")21:00～21:54（[東芝日曜劇場](https://zh.wikipedia.org/wiki/日曜劇場 "wikilink")）播放的[日劇](https://zh.wikipedia.org/wiki/日劇 "wikilink")。第一回和最終回延長播放時間至22:24。全部11回。平均收視率20.8%。
 
 ## 故事大綱

@@ -1,3 +1,6 @@
+> 本文内容由[K·C·尼古劳](https://zh.wikipedia.org/wiki/K·C·尼古劳)转换而来。
+
+
 **基里亞科斯·科斯塔·尼古劳**（，简称KCN，），塞浦路斯裔[美国](../Page/美国.md "wikilink")[化学家](../Page/化学家.md "wikilink")，[有机合成](../Page/有机合成.md "wikilink")大师级人物之一。
 
 ## 生平

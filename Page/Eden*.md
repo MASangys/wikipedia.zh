@@ -1,3 +1,6 @@
+> 本文内容由[Eden\*](https://zh.wikipedia.org/wiki/Eden\*)转换而来。
+
+
 《**eden\***》，是[日本](../Page/日本.md "wikilink")[電子遊戲製作公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[minori在](https://zh.wikipedia.org/wiki/minori "wikilink")2009年9月18日發行的一款[美少女遊戲](../Page/美少女遊戲.md "wikilink")。\[1\]
 
 ## 概要

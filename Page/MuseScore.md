@@ -1,3 +1,6 @@
+> 本文内容由[MuseScore](https://zh.wikipedia.org/wiki/MuseScore)转换而来。
+
+
 MuseScore是一个用于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Linux](../Page/Linux.md "wikilink")上的制谱软件，类似于[Finale](../Page/Finale.md "wikilink")和Sibelius，支持多种文件格式和输入方式。\[1\]它是在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")下作为免费和开源软件发布的。MuseScore附有一个免费增值的移动端乐谱浏览与播放应用程序，以及一个在线乐谱共享平台。
 
 ## 歷史

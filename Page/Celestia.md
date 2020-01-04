@@ -1,3 +1,6 @@
+> 本文内容由[Celestia](https://zh.wikipedia.org/wiki/Celestia)转换而来。
+
+
 **Celestia**是克里斯·勞瑞爾（Chris Laurel）以[OpenGL](../Page/OpenGL.md "wikilink")開發的3D[天文模擬軟體](https://zh.wikipedia.org/wiki/天文 "wikilink")。使用者可自由遨遊於依據[依巴谷星表模擬出的](https://zh.wikipedia.org/wiki/依巴谷星表 "wikilink")[宇宙](../Page/宇宙.md "wikilink")，且沒有[速度](../Page/速度.md "wikilink")、方向、時間的限制，並可由任何角度觀賞小至[人造衛星](../Page/人造衛星.md "wikilink")、大至[星系](../Page/星系.md "wikilink")的各種天體。
 
 [NASA和](https://zh.wikipedia.org/wiki/NASA "wikilink")[ESA已將Celestia使用於教育](https://zh.wikipedia.org/wiki/ESA "wikilink")\[1\]和推廣計畫\[2\]，和作為軌道分析軟體的介面。\[3\]

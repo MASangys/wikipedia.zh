@@ -1,7 +1,7 @@
 > 本文内容由[UART](https://zh.wikipedia.org/wiki/UART)转换而来。
 
 
-[UART_8250_Microchip.jpg](https://zh.wikipedia.org/wiki/File:UART_8250_Microchip.jpg "fig:UART_8250_Microchip.jpg")上的UART晶片8250\]\] **通用非同步收发传输器**（Universal Asynchronous Receiver/Transmitter，通常称为**UART**）是一种[异步收發傳輸器](../Page/异步串行通信.md "wikilink")，是[电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")[硬件](../Page/硬件.md "wikilink")的一部分，將数据通过[串行通信](../Page/串行通信.md "wikilink")和[並行通信间作传输转换](https://zh.wikipedia.org/wiki/並行通信 "wikilink")。UART通常用在与其他通信接口（如[EIA](https://zh.wikipedia.org/wiki/電子工業聯盟 "wikilink") [RS-232](https://zh.wikipedia.org/wiki/RS-232 "wikilink")）的连接上。
+[UART_8250_Microchip.jpg](https://zh.wikipedia.org/wiki/File:UART_8250_Microchip.jpg "fig:UART_8250_Microchip.jpg")上的UART晶片8250\]\] **通用非同步收发传输器**（Universal Asynchronous Receiver/Transmitter，通常称为**UART**）是一种[异步收發傳輸器](../Page/异步串行通信.md "wikilink")，是[电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")[硬件](../Page/硬件.md "wikilink")的一部分，將数据透過[串列通訊和](https://zh.wikipedia.org/wiki/串列通訊 "wikilink")[平行通訊间作传输转换](https://zh.wikipedia.org/wiki/平行通訊 "wikilink")。UART通常用在与其他通訊接口（如[EIA](https://zh.wikipedia.org/wiki/電子工業聯盟 "wikilink") [RS-232](https://zh.wikipedia.org/wiki/RS-232 "wikilink")）的连接上。
 
 具体实物表现为独立的模組化芯片，或是微处理器中的內部周边裝置(peripheral)。一般和RS-232C规格的，类似[Maxim的MAX](https://zh.wikipedia.org/wiki/Maxim "wikilink")232之类的标准信号幅度变换芯片进行搭配，作为连接外部设备的接口。在UART上追加同步方式的序列信号变换电路的产品，被称为USART(Universal Synchronous Asynchronous Receiver Transmitter)。
 

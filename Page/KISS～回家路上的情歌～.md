@@ -1,3 +1,6 @@
+> 本文内容由[KISS～回家路上的情歌～](https://zh.wikipedia.org/wiki/KISS～回家路上的情歌～)转换而来。
+
+
 《**KISS～回家路上的情歌～**》為日本音樂組合－[手越增田](../Page/手越增田.md "wikilink")的第2張單曲。在日本、[台灣發售](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 概要

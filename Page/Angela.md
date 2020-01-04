@@ -1,3 +1,6 @@
+> 本文内容由[Angela](https://zh.wikipedia.org/wiki/Angela)转换而来。
+
+
 **angela**為[日本](../Page/日本.md "wikilink")的二人樂隊組合，由atsuko和KATSU組成。隸屬於music wonder circus、[KING records](../Page/國王唱片.md "wikilink")（[STAR CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫歌曲知名。
 
 ## 概要

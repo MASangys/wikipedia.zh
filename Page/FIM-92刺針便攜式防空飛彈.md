@@ -35,7 +35,7 @@
 
 1982年5月21日是刺針初次實戰，於英阿[福克蘭戰爭](https://zh.wikipedia.org/wiki/福克蘭戰爭 "wikilink")，英軍[特種部隊](../Page/特種部隊.md "wikilink")秘密部署了六具飛彈，雖然他們沒有接受很多操作訓練。唯一一個接受該系統訓練的[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[SAS士兵](https://zh.wikipedia.org/wiki/英国空降特勤队 "wikilink")，本應由他來教授其他士兵使用，卻在5月19日的一次直升機失事中喪生。然而1982年5月21日一名SAS士兵擊落了一架阿根廷Pucará 對地攻擊機，在5月30日約上午11點，一架阿根廷FMA IA 58 Pucará攻击机在kent山脈附近被同樣是由SAS士兵所發射的導彈擊落，六名阿根廷特種部隊隊員陣亡，另有八人受傷。然後來發射的連續失誤主要因英軍不熟悉刺針的複雜充電系統和操作程序，所以後來戰爭中雙方都以[吹管防空飛彈](../Page/吹管防空飛彈.md "wikilink")為主力\[3\]\[4\]。
 
-美國[CIA也提供過超過](https://zh.wikipedia.org/wiki/CIA "wikilink")500具刺針給阿富汗游擊隊攻擊蘇聯，在1980年代蘇聯的暴風行動中，給予蘇聯嚴重打擊。1989蘇聯撤退後，美國想買回這些導彈，但有些還是流入[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，\[5\]另外有一些還用在後來推翻[安哥拉](../Page/安哥拉.md "wikilink")政府的行動，80年代[雷根總統也提供給一批導彈給UNITA反政府組織](https://zh.wikipedia.org/wiki/雷根 "wikilink")。在這兩個案例，事後回收導彈都失敗，雖然推測這些導彈會因為電池損壞而漸漸失效。然而，後來發現[巴基斯坦](../Page/巴基斯坦.md "wikilink")還是用刺針在[卡吉爾戰爭中擊落](https://zh.wikipedia.org/wiki/卡吉爾戰爭 "wikilink")[印度](../Page/印度.md "wikilink")Mi-8直昇機和[Mig-21戰機](../Page/米格-21戰鬥機.md "wikilink")，並損壞一架坎培拉型偵察機。巴基斯坦後來還研發出了自己的改良型刺針，並開始賣掉舊型的美國刺針。
+美國[CIA也提供過超過](https://zh.wikipedia.org/wiki/CIA "wikilink")500具刺針給阿富汗游擊隊攻擊蘇聯，在1980年代蘇聯的暴風行動中，給予蘇聯航空軍隊嚴重打擊，使刺針直升機殺手的名號不脛而走。1989蘇聯撤退後，美國想買回這些導彈，但有些還是流入[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，\[5\]另外有一些還用在後來推翻[安哥拉](../Page/安哥拉.md "wikilink")政府的行動，80年代[雷根總統也提供給一批導彈給UNITA反政府組織](https://zh.wikipedia.org/wiki/雷根 "wikilink")。在這兩個案例，事後回收導彈都失敗，雖然推測這些導彈會因為電池損壞而漸漸失效，不過仿製品與替換零件似乎已經存在使得刺針在美國以外仍然持續被使用。後來發現[巴基斯坦](../Page/巴基斯坦.md "wikilink")還是用刺針在[卡吉爾戰爭中擊落](https://zh.wikipedia.org/wiki/卡吉爾戰爭 "wikilink")[印度](../Page/印度.md "wikilink")Mi-8直昇機和[Mig-21戰機](../Page/米格-21戰鬥機.md "wikilink")，並損壞一架坎培拉型偵察機。巴基斯坦後來還正式研發出了自己的改良型刺針，並開始賣掉舊型的美國刺針。
 
 ## 與其他產品比較表
 

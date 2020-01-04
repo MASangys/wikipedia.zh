@@ -1,3 +1,6 @@
+> 本文内容由[Super Girl \(迷你專輯\)](https://zh.wikipedia.org/wiki/Super_Girl_\(迷你專輯\))转换而来。
+
+
 《**Super Girl**》是男子华语组合[Super Junior-M于](../Page/Super_Junior-M.md "wikilink")2009年9月23日发行的首张“迷你专辑”（即[EP](https://zh.wikipedia.org/wiki/EP "wikilink")），也是其发行的第二张唱片。2009年9月在中国大陆发行，\[1\] 2009年10月通过[SM Entertainment和](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[Avex Asia在全亚洲发行](https://zh.wikipedia.org/wiki/Avex_Trax "wikilink")，此專輯入圍第21屆台灣金曲獎最佳演唱組合獎\[2\]。
 
 ## 录制

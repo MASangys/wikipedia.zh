@@ -1,3 +1,6 @@
+> 本文内容由[奥林巴斯PEN E-P1](https://zh.wikipedia.org/wiki/奥林巴斯PEN_E-P1)转换而来。
+
+
 [Bfishadow_Olympus_E-P1.jpg](https://zh.wikipedia.org/wiki/File:Bfishadow_Olympus_E-P1.jpg "fig:Bfishadow_Olympus_E-P1.jpg") *' 奥林巴斯 Pen E-P1*'是[奥林巴斯公司出品的單眼](../Page/奧林巴斯.md "wikilink")[數位相機](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，為奥林巴斯公司公司第一次採用[微4/3鏡頭系統的機種](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，於2009年7月3日進行販售。
 
 ## 概要

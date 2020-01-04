@@ -1,3 +1,6 @@
+> 本文内容由[Real-Us](https://zh.wikipedia.org/wiki/Real-Us)转换而来。
+
+
 **Real-Us**（或Real-US）是一隊[澳門](../Page/澳門.md "wikilink")三人唱作組合，於2003年組成。三位成員以往均為[澳門培正中學](../Page/澳門培正中學.md "wikilink")之學生，早在小學及初中期間認識，再組成Real-Us。 組合的歌曲通常以英文作主導。Real-Us於2004年以《Come and Gone》一曲參加第二屆《澳廣視至愛新聽力 》原創歌曲比賽，需未獲選決賽，但被澳門唱片品牌[輝佳音樂](https://zh.wikipedia.org/wiki/輝佳音樂 "wikilink") (Vocanimals Music) 發掘，並簽約為公司旗下唱作組合，並於2006年正式解約。解約後的Real-Us在音樂上經過兩年休止期。在2008年，憑英文單曲《Drive》入選第六屆《澳廣視至愛新聽力 》決賽及香港Yahoo\!Music 及[伯樂音樂學院](../Page/伯樂音樂學院.md "wikilink")合辦之《尋找音樂人創作大賽》決賽。《Drive》更被重新填上中文歌詞 (名為《界限》)，並收錄在[澳門創作人協會](../Page/澳門創作人協會.md "wikilink")《[回問](https://zh.wikipedia.org/wiki/回問 "wikilink")》合輯內。
 
 ## 組合成員

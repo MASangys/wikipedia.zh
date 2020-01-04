@@ -963,7 +963,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 
 ## 參考資料
 
-[Category:Hey\!_Say\!_JUMP](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
+[Category:Hey\!_Say\!_JUMP](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink")
 
 1.
 2.

@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 300](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_300)转换而来。
+
+
 **NVIDIA GeForce 300系列**是[NVIDIA的第十一代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce](../Page/GeForce.md "wikilink")顯示晶片。首款產品在2009年11月被推出市場。和前代NVIDIA GeForce 100一樣是舊系列圖形處理器的更名版，或是基於舊有圖形處理器推出的新型號顯示卡，而且只供OEM使用，無零售版本。GeForce 300仍採用[TSMC的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")55奈米或65奈米製程來製造，中低端產品會采用新型SDDR3顯示記憶體，部分低階產品更名自[GeForce 200系列](https://zh.wikipedia.org/wiki/GeForce_200 "wikilink")，一些型號更是基於NVIDIA GeForce 9系列的顯示核心，支援Direct 10或10.1\[1\]
 
 ## 歷史

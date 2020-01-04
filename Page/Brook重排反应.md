@@ -1,3 +1,6 @@
+> 本文内容由[Brook重排反应](https://zh.wikipedia.org/wiki/Brook重排反应)转换而来。
+
+
 **Brook重排反应**（布鲁克重排）
 
 早期是指[碱](../Page/碱.md "wikilink")作用下[硅基从](https://zh.wikipedia.org/wiki/硅基 "wikilink")[碳](../Page/碳.md "wikilink")原子向[氧](../Page/氧.md "wikilink")原子的阴离子型 \(\rm \ [1,2]\)-迁移反应，目前已拓展至所有 \(\rm \ [1,\)\(\ n\)\(\rm \ ]\)-碳向氧的硅基迁移反应，现在已发展至 \(\rm \ [1,5]\)-迁移反应。反应是从羟基硅烷到[硅醚](../Page/硅醚.md "wikilink")的转化。\[1\]

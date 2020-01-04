@@ -63,4 +63,4 @@
 
 [Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:2012年关闭的网站](https://zh.wikipedia.org/wiki/Category:2012年关闭的网站 "wikilink") [Category:1997年面世的產品](https://zh.wikipedia.org/wiki/Category:1997年面世的產品 "wikilink")
 
-1.  [Yahoo\! Babel Fish 翻译正式由 Bing Translator 取代](http://www.yseeker.com/archives/7263.html)
+1.

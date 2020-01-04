@@ -1,3 +1,6 @@
+> 本文内容由[Th \(二合字母\)](https://zh.wikipedia.org/wiki/Th_\(二合字母\))转换而来。
+
+
 **Th**（[小寫為](https://zh.wikipedia.org/wiki/小寫字母 "wikilink") th）是[阿爾巴尼亞語](https://zh.wikipedia.org/wiki/阿爾巴尼亞語 "wikilink")、[斯瓦希里語及](https://zh.wikipedia.org/wiki/斯瓦希里語 "wikilink")[冰島語](https://zh.wikipedia.org/wiki/冰島語 "wikilink")[轉寫等之語言的](https://zh.wikipedia.org/wiki/轉寫 "wikilink")[字母](../Page/字母.md "wikilink")。
 
 ## 拉丁字母用途

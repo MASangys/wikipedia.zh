@@ -1,3 +1,6 @@
+> 本文内容由[All My Words](https://zh.wikipedia.org/wiki/All_My_Words)转换而来。
+
+
 《**All My Words**》是[中国大陆](../Page/中国大陆.md "wikilink")演员[刘亦菲](../Page/刘亦菲.md "wikilink")的首张[日语](../Page/日语.md "wikilink")专辑，于2006年9月6日在[日本](../Page/日本.md "wikilink")发行，署名为“”（“**Yifei**”的[片假名](../Page/片假名.md "wikilink")音译）。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Double Fake Under the Gundam](https://zh.wikipedia.org/wiki/Double_Fake_Under_the_Gundam)转换而来。
+
+
 《**Double Fake Under the Gundam**》（ダブルフェイク アンダー・ザ・ガンダム）是[朝霧鐵矢的](https://zh.wikipedia.org/wiki/朝霧鐵矢 "wikilink")[GUNDAM漫畫系列作品](../Page/GUNDAM系列作品.md "wikilink")，由於漫畫中文版在市面上處於絕版狀態令知名度降低。
 
 ## 故事背景

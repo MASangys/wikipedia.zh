@@ -1,3 +1,6 @@
+> 本文内容由[Stetter反应](https://zh.wikipedia.org/wiki/Stetter反应)转换而来。
+
+
 **Stetter反应**（Stetter reaction）
 
 [氰化物](../Page/氰化物.md "wikilink")或[噻唑盐](https://zh.wikipedia.org/wiki/噻唑盐 "wikilink")（如[硫胺素](https://zh.wikipedia.org/wiki/硫胺素 "wikilink")）[催化](../Page/催化.md "wikilink")下[醛](../Page/醛.md "wikilink")[羰基](../Page/羰基.md "wikilink")[碳](../Page/碳.md "wikilink")对[α,β-不饱和化合物的](https://zh.wikipedia.org/wiki/α,β-不饱和化合物 "wikilink")[1,4-加成反应](https://zh.wikipedia.org/wiki/Michael加成反应 "wikilink")，生成1,4-[二羰基化合物及其类似物](https://zh.wikipedia.org/wiki/二羰基化合物 "wikilink")。\[1\]

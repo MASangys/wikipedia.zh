@@ -1,3 +1,6 @@
+> 本文内容由[Eneloop](https://zh.wikipedia.org/wiki/Eneloop)转换而来。
+
+
 [Eneloop_AA_ja.jpg](https://zh.wikipedia.org/wiki/File:Eneloop_AA_ja.jpg "fig:Eneloop_AA_ja.jpg") **eneloop**是[三洋電機](../Page/三洋電機.md "wikilink")開發的[低自放電鎳氫電池](../Page/低自放電鎳氫電池.md "wikilink")，也是市場上第一款同類型產品，於2005年11月14日進行販售，其登錄商標編號為（日本第4947448號・日本第5062218號），以此商品概念為基礎曾於2006年推出系列品牌「**eneloop universe**」。其主要特點是低漏電（自放電），可以在充滿電之後存放一兩年內仍可保持相當電力。
 
 2009年12月，[Panasonic收购了世界最大的可充电电池生产商三洋电机](../Page/松下電器.md "wikilink")50.19%的股份，完成了对公司的控股。\[1\]

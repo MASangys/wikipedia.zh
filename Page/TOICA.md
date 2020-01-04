@@ -1,3 +1,6 @@
+> 本文内容由[TOICA](https://zh.wikipedia.org/wiki/TOICA)转换而来。
+
+
 [TOICA_-_obverse.jpg](https://zh.wikipedia.org/wiki/File:TOICA_-_obverse.jpg "fig:TOICA_-_obverse.jpg") [TOICA_-_reverse.jpg](https://zh.wikipedia.org/wiki/File:TOICA_-_reverse.jpg "fig:TOICA_-_reverse.jpg") **TOICA**（）是一種由[日本](../Page/日本.md "wikilink")[東海旅客鐵道](../Page/東海旅客鐵道.md "wikilink")（JR東海）發行的可再充值、非接觸式的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")（IC卡）形式的乘車票證。此智能卡於2006年11月25日正式發卡。直到2012年3月底已發行約132萬張。採用[索尼公司](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")（Sony）的[FeliCa](../Page/FeliCa.md "wikilink")技術。
 
 「TOICA」也是JR東海的註冊商標。

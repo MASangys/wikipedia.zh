@@ -1,3 +1,6 @@
+> 本文内容由[IOS设备列表](https://zh.wikipedia.org/wiki/IOS设备列表)转换而来。
+
+
 这是一个**iOS设备列表**，包含有使用[iOS系统的](https://zh.wikipedia.org/wiki/iOS "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")、[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。 [iphone_back.jpg](https://zh.wikipedia.org/wiki/File:iphone_back.jpg "fig:iphone_back.jpg")，银色的[iPhone 6 Plus和玫瑰金的iPhone](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink") 6S\]\] [Ipad.jpg](https://zh.wikipedia.org/wiki/File:Ipad.jpg "fig:Ipad.jpg") 2017，太空灰的[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") 12.9"和银色的[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") 11"（附[Apple Pencil](../Page/Apple_Pencil.md "wikilink")）\]\]
 
 ## iPhone 型号
@@ -287,7 +290,7 @@ iPhone6.2</p></td>
 <td><p><strong>3.支援的最新<a href="https://zh.wikipedia.org/wiki/作业系统" title="wikilink">作业系统</a></strong></p></td>
 <td><p>iOS 10.3.4</p></td>
 <td><p>iOS 10.3.3</p></td>
-<td><p>iOS 12.4.3</p></td>
+<td><p>iOS 12.4.4</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -485,7 +488,7 @@ WiFi网页浏览：12<br />
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作业系统" title="wikilink">作业系统</a></strong></p></td>
-<td><p>iOS 13.2.3</p></td>
+<td><p>iOS 13.3</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -941,8 +944,8 @@ FaceTime</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作业系统" title="wikilink">作业系统</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 13.2.3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 13.3</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>显示设备</strong></p></td>
@@ -1086,9 +1089,9 @@ FaceTime</p></td>
 <td><p>iOS 5.1.1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3.5/9.3.6</a></p></td>
 <td><p>iOS 10.3.3/10.3.4</p></td>
-<td><p>iPadOS 13.2.2</p></td>
-<td><p>iPadOS 13.2.2</p></td>
-<td><p>iPadOS 13.2.2</p></td>
+<td><p>iPadOS 13.3</p></td>
+<td><p>iPadOS 13.3</p></td>
+<td><p>iPadOS 13.3</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1456,8 +1459,8 @@ International: 2011年3月25日</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支援最新的作业系统</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.3</p></td>
-<td><p>iPadOS 13.2.2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.4</p></td>
+<td><p>iPadOS 13.3</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2053,10 +2056,10 @@ eSIM</p></td>
 <tr class="odd">
 <td><p>colspan=2 |支持的最新操作系统</p></td>
 <td><p>iOS 9.3.5/9.3.6</p></td>
-<td><p>iOS 12.4.3</p></td>
-<td><p>iOS 12.4.3</p></td>
-<td><p>iPadOS 13.2.2</p></td>
-<td><p>iPadOS 13.2.2</p></td>
+<td><p>iOS 12.4.4</p></td>
+<td><p>iOS 12.4.4</p></td>
+<td><p>iPadOS 13.3</p></td>
+<td><p>iPadOS 13.3</p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |萤幕</p></td>

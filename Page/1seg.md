@@ -1,3 +1,6 @@
+> 本文内容由[1seg](https://zh.wikipedia.org/wiki/1seg)转换而来。
+
+
 **1seg**（）是在[日本](../Page/日本.md "wikilink")主要以[行動電話等](https://zh.wikipedia.org/wiki/行動電話 "wikilink")[移動電子產品為接收對象的](https://zh.wikipedia.org/wiki/移動電子產品 "wikilink")[數位電視服務](https://zh.wikipedia.org/wiki/數位電視 "wikilink")。正式名稱是**面向手机及各种移动终端的服务**\[1\]（）。1seg的名字由来是它使用的频片（segment）数量：数字电视的每个频道里有13个频片，而该服务只使用其中的1个。其余12个提供给高清节目，也相对地称为12seg或full-seg。
 
 2006年4月1日11時（[日本標準時間](../Page/日本標準時間.md "wikilink")）開始於[東京都](../Page/東京都.md "wikilink")、[名古屋市](../Page/名古屋市.md "wikilink")、[大阪市](../Page/大阪市.md "wikilink")等大都市在內的29都府縣放送，同年12月1日提供高畫質節目的同時也將服務範圍推展到43個縣的中心區域，而今2007年幾乎所有的放送局都有提供此服務。

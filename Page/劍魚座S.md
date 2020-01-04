@@ -1,3 +1,6 @@
+> 本文内容由[劍魚座S](https://zh.wikipedia.org/wiki/劍魚座S)转换而来。
+
+
 |- style="vertical-align: top;" | '''[距離](https://zh.wikipedia.org/wiki/宇宙距離階梯 "wikilink") ''' | 169.000 [光年](../Page/光年.md "wikilink")
 （51815.06 [秒差距](../Page/秒差距.md "wikilink")）
 

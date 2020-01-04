@@ -1,3 +1,6 @@
+> 本文内容由[Focal Plus 人聲樂團](https://zh.wikipedia.org/wiki/Focal_Plus_人聲樂團)转换而来。
+
+
 **Focal Plus人聲樂團**，是台灣的純人聲演唱（[阿卡貝拉](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")）[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。他們的音樂除了歌曲主旋律、豐富的人聲和聲之外，也包含了適當的[節奏口技](../Page/節奏口技.md "wikilink")以及[擬聲](https://zh.wikipedia.org/wiki/擬聲 "wikilink")（scat）唱法。由於人聲樂團往往利用[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")、[音響](../Page/音響.md "wikilink")等現代設備，創造出更多元的音樂形式，因此與傳統合唱團的音樂差異甚大。Focal Plus人聲樂團除了具有純人聲演唱的特色之外，又常常在舞台上融入了華麗的服裝與舞蹈，形成其特殊的音樂風格。
 
 ## 簡介

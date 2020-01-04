@@ -1,3 +1,6 @@
+> 本文内容由[VDONext](https://zh.wikipedia.org/wiki/VDONext)转换而来。
+
+
 **VDONext**，又稱**V壹網**，是一個創作生活短片的視像資訊[網站](../Page/網站.md "wikilink")，亦是[香港](../Page/香港.md "wikilink")上市公司[壹傳媒集團](https://zh.wikipedia.org/wiki/壹傳媒集團 "wikilink")（）全資附屬機構\[1\]。網站提供一站式視聽資娛，迎合現代生活視像化潮流，內容包括娛樂、烹飪、美容、數碼科技、笑話、生活冷知識加通識、親子、星座及生肖運程動畫等內容。在《[蘋果日報](https://zh.wikipedia.org/wiki/香港蘋果日報 "wikilink")》的報紙版及網絡版內容中均加入部分VDONext的內容連結\[2\]，用以提供延伸閱讀。
 
 在2010年，VDONext的內容更伸展至流動平台，先後推出手機版網頁、VDONext iPhone App及iPad App，同時還與Sony達成協議，率先將本地的網上視頻內容，透過Sony BRAVIA TV內置的網絡影片播放功能（Internet Video），將VDONext的節目帶入觀眾的客廳中。

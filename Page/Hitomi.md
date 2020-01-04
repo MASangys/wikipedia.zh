@@ -1,3 +1,6 @@
+> 本文内容由[Hitomi](https://zh.wikipedia.org/wiki/Hitomi)转换而来。
+
+
 **hitomi**（），是出身於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")[川崎市](../Page/川崎市.md "wikilink")的創作型女[歌手](../Page/歌手.md "wikilink")。舊姓本名及舊藝名**古谷仁美**，第二度婚後曾改名为*羽田仁美*。2014年5月第三度嫁人，同年宣佈有喜，同第二度前夫生的女兒，組織一家四口的幸福家庭，兒子半歲大\[1\]。
 
 ## 作品
@@ -144,6 +147,6 @@
   - [hitomi official website](https://web.archive.org/web/20090815064751/http://hitomilovelife.net/index.html)
   - [hitomi オフィシャルブログ「hitomiのヒトミ」Powered by Ameba](http://ameblo.jp/ninpu-hitomi/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:小室家族](https://zh.wikipedia.org/wiki/Category:小室家族 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:日本大學校友](https://zh.wikipedia.org/wiki/Category:日本大學校友 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:小室家族](https://zh.wikipedia.org/wiki/Category:小室家族 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:日本大學校友](https://zh.wikipedia.org/wiki/Category:日本大學校友 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
 
 1.  [賀囝囝半歲大](http://hk.apple.nextmedia.com/enews/realtime/20150608/53827060hitomi)

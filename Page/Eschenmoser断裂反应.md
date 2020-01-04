@@ -1,3 +1,6 @@
+> 本文内容由[Eschenmoser断裂反应](https://zh.wikipedia.org/wiki/Eschenmoser断裂反应)转换而来。
+
+
 **Eschenmoser断裂反应**（**埃申莫瑟断裂**），又称**Eschenmoser-Tanabe断裂反应**，是[对甲苯磺酰肼](https://zh.wikipedia.org/wiki/对甲苯磺酰肼 "wikilink") (2) 使 α,β-[环氧](https://zh.wikipedia.org/wiki/环氧 "wikilink")[酮](../Page/酮.md "wikilink") (1) 断裂生成含[炔基](https://zh.wikipedia.org/wiki/炔 "wikilink") (3) 和[酮](../Page/酮.md "wikilink")基 (4) 化合物的反应。\[1\]\[2\]\[3\]\[4\] 也译为碎片化反应、碎裂反应。反应以瑞士化学家[埃尔伯特·埃申莫瑟](https://zh.wikipedia.org/wiki/埃尔伯特·埃申莫瑟 "wikilink")（Albert Eschenmoser）的名字命名。
 
 [Eschemoser_Fragmentation_Scheme.png](https://zh.wikipedia.org/wiki/File:Eschemoser_Fragmentation_Scheme.png "fig:Eschemoser_Fragmentation_Scheme.png")

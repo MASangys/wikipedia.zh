@@ -1,3 +1,6 @@
+> 本文内容由[SDRAM](https://zh.wikipedia.org/wiki/SDRAM)转换而来。
+
+
 [SDR_SDRAM-1.jpg](https://zh.wikipedia.org/wiki/File:SDR_SDRAM-1.jpg "fig:SDR_SDRAM-1.jpg")
 
 **同步動態隨機存取記憶體**（synchronous dynamic random-access memory，简称SDRAM）是有一個[同步接口的動態隨機存取記憶體](https://zh.wikipedia.org/wiki/同步接口 "wikilink")（[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）。通常DRAM是有一个异步接口的，这样它可以随时响应控制输入的变化。而SDRAM有一个同步接口，在响应控制[输入前会等待一个](https://zh.wikipedia.org/wiki/输入 "wikilink")[时钟信号](https://zh.wikipedia.org/wiki/时钟信号 "wikilink")，这样就能和计算机的[系统总线同步](https://zh.wikipedia.org/wiki/系统总线 "wikilink")。时钟被用来驱动一个有限状态机，对进入的指令进行[管線](https://zh.wikipedia.org/wiki/cmn:流水线_\(计算机\) "wikilink")(Pipeline)操作。这使得SDRAM与没有同步接口的异步DRAM(asynchronous DRAM)相比，可以有一个更复杂的操作模式。
@@ -61,6 +64,6 @@ SDRAM本身的延遲其實並不比異步[DRAM更低](https://zh.wikipedia.org/w
 3.  <http://www.semiaccurate.com/2010/08/16/ddr4-not-expected-until-2015/>
 4.   070928 micron.com
 5.
-6.  [Looking forward to DDR4](http://www.pcpro.co.uk/news/220257/idf-ddr3-wont-catch-up-with-ddr2-during-2009.html)
+6.
 7.  [DDR3 successor](http://www.heise-online.co.uk/news/IDF-DDR4-the-successor-to-DDR3-memory--/111367)
 8.   *[English translation](http://translate.google.com/translate?hl=en&sl=de&u=http://www.hardware-infos.com/news.php%3Fnews%3D2332&ei=bi44Sv_wBouZjAfVzYyjDQ&sa=X&oi=translate&resnum=1&ct=result&prev=/search%3Fq%3Dhttp://www.hardware-infos.com/news.php%253Fnews%253D2332%26hl%3Den%26safe%3Doff%26num%3D100)*

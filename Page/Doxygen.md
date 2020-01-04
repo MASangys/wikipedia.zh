@@ -1,3 +1,6 @@
+> 本文内容由[Doxygen](https://zh.wikipedia.org/wiki/Doxygen)转换而来。
+
+
 **Doxygen**是一個适用于[C++](../Page/C++.md "wikilink")、[C](../Page/C.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Python](../Page/Python.md "wikilink")、[IDL](../Page/接口描述语言.md "wikilink")（[CORBA](../Page/CORBA.md "wikilink")和Microsoft flavors）、[Fortran](../Page/Fortran.md "wikilink")、[VHDL](../Page/VHDL.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[C\#和](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[D語言](../Page/D語言.md "wikilink")的文檔生成器。它可以在大多數[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")、[macOS以及](https://zh.wikipedia.org/wiki/macOS "wikilink")[Microsoft Windows上執行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。初始版本的Doxygen使用了一些舊版本DOC++的源代码，在那之后，Dimitri van Heesch重写了Doxygen的源代码。
 
 Doxygen是一個編寫軟件參考-{zh-hans:文檔; zh-tw:文件}-的工具。該-{zh-hans:文檔; zh-tw:文件}-是直接寫在源代码中，因此比較容易保持更新。Doxygen可以交叉引用-{zh-hans:文檔; zh-tw:文件}-和源代码，使文件的讀者可以很容易地引用實際的源代码。

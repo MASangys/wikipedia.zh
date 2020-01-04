@@ -1,3 +1,6 @@
+> 本文内容由[3wPlayer](https://zh.wikipedia.org/wiki/3wPlayer)转换而来。
+
+
 **3wPlayer**，代表一类捆绑有[木马病毒的软件程序](../Page/特洛伊木马_\(电脑\).md "wikilink")。它利用下载录像文件的用户，指导他们下载和安装观看录像所需的软件。
 
 ## DivoCodec

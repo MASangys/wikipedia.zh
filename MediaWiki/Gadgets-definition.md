@@ -87,8 +87,8 @@
   - internalLinkHelper-ilbluehl\[ResourceLoader|dependencies=mediawiki.util,jquery.tipsy,ext.gadget.site-lib|type=general\]|internalLinkHelper-redonly.css|internalLinkHelper-redtipsy.css|internalLinkHelper-altcolor.css|internalLinkHelper-ilbluehl.css|internalLinkHelper-redtipsy.js
   - noteTA\[ResourceLoader|dependencies=jquery.ui,mediawiki.api,ext.gadget.site-lib,jquery.makeCollapsible|default|type=general\]|noteTA.js|noteTA.css
   - noteTAvector\[ResourceLoader|dependencies=site,ext.gadget.site-lib|skins=vector|default|type=general\]|noteTAvector.js|noteTAvector.css
-  - NavFrame\[ResourceLoader|dependencies=ext.gadget.site-lib|default|type=general\]|NavFrame.js|NavFrame.css
-  - collapsibleTables\[ResourceLoader|dependencies=ext.gadget.site-lib|default\]|collapsibleTables.js
+  - NavFrame\[ResourceLoader|dependencies=ext.gadget.site-lib|targets=desktop,mobile|default|type=general\]|NavFrame.js|NavFrame.css
+  - collapsibleTables\[ResourceLoader|dependencies=ext.gadget.site-lib|targets=desktop,mobile|default\]|collapsibleTables.js
   - BugStatusUpdate\[ResourceLoader\]|BugStatusUpdate.js
   - RTRC\[ResourceLoader\]|RTRC.js
   - DisambiguationLinks\[ResourceLoader\]|DisambiguationLinks.css

@@ -1,3 +1,6 @@
+> 本文内容由[O-I超重型坦克](https://zh.wikipedia.org/wiki/O-I超重型坦克)转换而来。
+
+
 **O-I**（試製120t超重戰車“”）是[大日本帝國陸軍](../Page/大日本帝國陸軍.md "wikilink")試做的[超重型坦克](../Page/超重型坦克.md "wikilink")，只生產了1輛。 [IJA_interior_side_view_schematic_of_the_O-I_super_heavy_tank.png](https://zh.wikipedia.org/wiki/File:IJA_interior_side_view_schematic_of_the_O-I_super_heavy_tank.png "fig:IJA_interior_side_view_schematic_of_the_O-I_super_heavy_tank.png") [IJA_diagram_of_the_O-I_super_heavy_tank_suspension.jpg](https://zh.wikipedia.org/wiki/File:IJA_diagram_of_the_O-I_super_heavy_tank_suspension.jpg "fig:IJA_diagram_of_the_O-I_super_heavy_tank_suspension.jpg")
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[自動馬格南V型半自動手槍](https://zh.wikipedia.org/wiki/自動馬格南V型半自動手槍)转换而来。
+
+
 **AMT自動馬格南V型**（；AutoMag，，意為：「自動馬格南」；V，[罗马数字](../Page/罗马数字.md "wikilink")，意為：[5](../Page/5.md "wikilink")）是一款由[美国](../Page/美国.md "wikilink")槍械設計師[哈利·桑福德](https://zh.wikipedia.org/wiki/哈利·桑福德 "wikilink")（）所研製、槍械製造商（，簡稱：AMT）所生產的大型[單動操作型](https://zh.wikipedia.org/wiki/扳機 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[.50 AE](../Page/.50_AE.md "wikilink")（.50 Action Express）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史及設計

@@ -1,3 +1,6 @@
+> 本文内容由[A \(消歧义\)](https://zh.wikipedia.org/wiki/A_\(消歧义\))转换而来。
+
+
 [A a](../Page/A.md "wikilink"), 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第1个[字母](../Page/字母.md "wikilink")。
 
 除此之外，A还可以指代：

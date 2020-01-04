@@ -392,6 +392,100 @@
 </tbody>
 </table>
 
+  - 文庫版
+    感應少年EIJI
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>講談社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2003年6月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 978-4-06-360560-0</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2003年7月11日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>ISBN 978-4-06-360577-8</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2003年8月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>ISBN 978-4-06-360604-1</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2003年9月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>ISBN 978-4-06-360615-7</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2003年10月10日</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>ISBN 978-4-06-360629-4</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2003年11月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>ISBN 978-4-06-360650-8</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 相關書籍
+
+<!-- end list -->
+
+  - 感應少年EIJI：公式大破解（）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>講談社</p></th>
+<th><p>加珈文化</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>全</p></td>
+<td><p>1997年1月23日</p></td>
+<td><p>ISBN 978-4-06-319772-3</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 電視劇
 
 ### 演員

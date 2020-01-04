@@ -1,3 +1,6 @@
+> 本文内容由[Purple software](https://zh.wikipedia.org/wiki/Purple_software)转换而来。
+
+
 是股份有限公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。
 
 ## 概要

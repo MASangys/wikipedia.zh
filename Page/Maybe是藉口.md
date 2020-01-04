@@ -1,3 +1,6 @@
+> 本文内容由[Maybe是藉口](https://zh.wikipedia.org/wiki/Maybe是藉口)转换而来。
+
+
 《**Maybe是藉口**》（），是[AKB48](../Page/AKB48.md "wikilink")的第13张单曲\[1\]。通常盘与剧场盘两种式样分别由[You，Be Cool\!/KING RECORDS与NEW](https://zh.wikipedia.org/wiki/King_Records "wikilink") KING RECORDS在2009年8月26日发售。中心成員由前田敦子擔當。
 
 ## 概要

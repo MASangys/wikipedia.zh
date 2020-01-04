@@ -240,7 +240,7 @@ Windows Vista沿用了微軟的[產品啟動](https://zh.wikipedia.org/wiki/產�
 
 ### 評測
 
-  - [评测和预告](http://www.winsupersite.com/vista/)
+  - [评测和预告](https://web.archive.org/web/20061205055040/http://winsupersite.com/vista/)
 
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink") [Category:Windows_Vista](https://zh.wikipedia.org/wiki/Category:Windows_Vista "wikilink") [Category:已停止開發的作業系統](https://zh.wikipedia.org/wiki/Category:已停止開發的作業系統 "wikilink")
 

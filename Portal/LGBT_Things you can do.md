@@ -1,3 +1,6 @@
+> 本文内容由[Portal:LGBT/Things you can do](https://zh.wikipedia.org/wiki/Portal:LGBT/Things_you_can_do)转换而来。
+
+
 [HILLDEP_indici.png](https://zh.wikipedia.org/wiki/File:HILLDEP_indici.png "fig:HILLDEP_indici.png")
 
 <h4 align="center">

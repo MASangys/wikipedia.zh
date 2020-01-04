@@ -1,3 +1,6 @@
+> 本文内容由[S-型小行星](https://zh.wikipedia.org/wiki/S-型小行星)转换而来。
+
+
 [Eros_-_PIA02923.jpg](https://zh.wikipedia.org/wiki/File:Eros_-_PIA02923.jpg "fig:Eros_-_PIA02923.jpg")。\]\]
 
 **S-型小行星**是由以矽質為主組成的，是在[C-型小行星](../Page/C-型小行星.md "wikilink")之後第二大的族群，大約有17%的[小行星屬於這個族群](https://zh.wikipedia.org/wiki/小行星 "wikilink")。

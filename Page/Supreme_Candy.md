@@ -1,3 +1,6 @@
+> 本文内容由[Supreme Candy](https://zh.wikipedia.org/wiki/Supreme_Candy)转换而来。
+
+
 《**Supreme Candy**》（，意譯：最高糖果～王道之所以為王道！～）是2008年9月26日由遊戲品牌[枕發售的](../Page/枕_\(遊戲品牌\).md "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。\[1\]
 
 2008年4月21日在枕的官方網站以及[Enterbrain](../Page/Enterbrain.md "wikilink")的遊戲雜誌「[TECH GIAN](../Page/TECH_GIAN.md "wikilink")」6月號上首次公開情報。為繼《[H2O -FOOTPRINTS IN THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》《[√after and another](https://zh.wikipedia.org/wiki/√after_and_another "wikilink")》之後，枕的第3款作品，類型為[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，女主角人數為7人。劇本和前二作一樣由[藤倉絢一擔當](https://zh.wikipedia.org/wiki/藤倉絢一 "wikilink")。負責原畫的4名[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")（[いぬがみきら](../Page/狗神煌.md "wikilink")、[梱枝りこ](https://zh.wikipedia.org/wiki/梱枝りこ "wikilink")、[深森](https://zh.wikipedia.org/wiki/水澤深森 "wikilink")、[karory](https://zh.wikipedia.org/wiki/karory "wikilink")）皆為女性。

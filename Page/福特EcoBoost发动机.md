@@ -1,3 +1,6 @@
+> 本文内容由[福特EcoBoost发动机](https://zh.wikipedia.org/wiki/福特EcoBoost发动机)转换而来。
+
+
 **EcoBoost** 是[福特汽车](../Page/福特汽车.md "wikilink")與德國的[FEV Europe GmbH所合作開發生产的](https://zh.wikipedia.org/wiki/FEV_Europe_GmbH "wikilink")[涡轮增压和](https://zh.wikipedia.org/wiki/涡轮增压器 "wikilink")[燃油缸内直喷](https://zh.wikipedia.org/wiki/汽油缸內直噴 "wikilink")6缸、4缸和3缸系列[汽油引擎](../Page/汽油引擎.md "wikilink")。与传统的同排量自然进气引擎相比，使用Ecoboost技术的引擎可以提高约20％的燃油经济性和降低15％的[温室气体](../Page/温室气体.md "wikilink")排放，同时输出更高的功率和扭矩。相对于混合动力和柴油引擎技术的动力输出和燃油经济性，Ecoboost引擎技術是一种消费者承担得起、适合各种工况的新式技術，计划在将来生产的车辆上广泛配置\[1\]。此引擎的前一代為[Duratec引擎](https://zh.wikipedia.org/wiki/福特Duratec引擎 "wikilink")。
 
 ## 全球生产情况

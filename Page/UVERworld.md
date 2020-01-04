@@ -502,6 +502,18 @@ SRCL-8554（通常盤）</p></td>
 <td><p>SRCL-9467〜9468（初回生産限定盤）<br />
 SRCL-9469（通常盤）</p></td>
 </tr>
+<tr class="even">
+<td><p>10th</p></td>
+<td><p>2019年12月4日</p></td>
+<td><p>UNSER</p></td>
+<td><p>CD+BD<br />
+CD+DVD<br />
+CD<br />
+12cm</p></td>
+<td><p>SRCL-11325〜11326（初回生産限定盤A）<br />
+SRCL-11327〜11328（初回生産限定盤B）<br />
+SRCL-11329（通常盤）</p></td>
+</tr>
 </tbody>
 </table>
 

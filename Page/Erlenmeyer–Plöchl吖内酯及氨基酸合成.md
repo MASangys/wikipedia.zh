@@ -1,3 +1,6 @@
+> 本文内容由[Erlenmeyer–Plöchl吖内酯及氨基酸合成](https://zh.wikipedia.org/wiki/Erlenmeyer–Plöchl吖内酯及氨基酸合成)转换而来。
+
+
 **Erlenmeyer–Plöchl吖内酯及氨基酸合成**（Erlenmeyer-Plöchl azlactone and amino acid synthesis）
 
 将[甘氨酸](../Page/甘氨酸.md "wikilink")经过[噁唑酮和](https://zh.wikipedia.org/wiki/噁唑酮 "wikilink")[吖内酯转变为其他](https://zh.wikipedia.org/wiki/吖内酯 "wikilink")[氨基酸](../Page/氨基酸.md "wikilink")的过程。\[1\]\[2\]

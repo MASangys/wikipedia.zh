@@ -1,3 +1,6 @@
+> 本文内容由[Wicked Witch Software](https://zh.wikipedia.org/wiki/Wicked_Witch_Software)转换而来。
+
+
 **Wicked Witch Software**是一家[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[遊戲開發公司](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")，由Daniel Visser在1999年至2001年間創建。一開始公司的基礎是以Visser個人承接案子來營運，目前公司的位置在澳洲[墨爾本](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")。
 
 Wicked Witch Software有過許多和澳洲本地以及國際規模的遊戲開發公司和出版商的合作經驗，目前已經參與過超過50個[PC遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")、[掌機遊戲](https://zh.wikipedia.org/wiki/掌機遊戲 "wikilink")、[手機遊戲以及各種平台的開發](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，其中也包含了[Xbox 360](../Page/Xbox_360.md "wikilink")、[PlayStation 2以及](../Page/PlayStation_2.md "wikilink")[Wii](../Page/Wii.md "wikilink")。

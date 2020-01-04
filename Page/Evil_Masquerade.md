@@ -1,3 +1,6 @@
+> 本文内容由[Evil Masquerade](https://zh.wikipedia.org/wiki/Evil_Masquerade)转换而来。
+
+
 **Evil Masquerade**是於2003年所創立的[丹麥樂隊](https://zh.wikipedia.org/wiki/丹麥 "wikilink")， 其創作的音樂類型為Theatrical Metal，而該樂隊至今仍處於活躍狀態。
 
 ## 歷史簡介

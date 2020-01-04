@@ -1,3 +1,6 @@
+> 本文内容由[MBC月火連續劇](https://zh.wikipedia.org/wiki/MBC月火連續劇)转换而来。
+
+
 *' MBC月火連續劇**（）是[文化廣播在](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[韓國時間星期一](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")、二晚間22:00播出的電視劇。特色節目是每年創社紀念連續劇[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[時代劇在韓國國內有高收視率的佳績而且海外播出也有廣受好評](https://zh.wikipedia.org/wiki/時代劇 "wikilink")，例如《[大長今](../Page/大長今_\(電視劇\).md "wikilink")》、《[伊甸園之東](https://zh.wikipedia.org/wiki/伊甸園之東 "wikilink")》、《[同伊](../Page/同伊.md "wikilink")》帶動觀眾接觸韓國文化。在2011年7月至2018年3月間，此時段播放的電視劇皆以「**月火特別計劃**」（**월화 특별기획*'）為名。
 
 MBC為韓國首創月火劇時段的電視台，劇集收視率及收益皆處於前列位置。但自2015年該年起，MBC月火劇的收視率開始下跌，更在2017年起成為三大無線電視台中收視最差的月火劇時段。同時，電視台內部人士亦指此時段亦開始虧蝕數十億韓元。因此，MBC於2019年6月3日起播出的《[檢法男女2](../Page/檢法男女2.md "wikilink")》開始將此時段前移1小時(21:00)播出，試圖改變收視不振的現象。\[1\]

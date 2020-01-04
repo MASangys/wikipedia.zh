@@ -1,3 +1,6 @@
+> 本文内容由[EMule ScarAngel Mod](https://zh.wikipedia.org/wiki/EMule_ScarAngel_Mod)转换而来。
+
+
 **eMule ScarAngel Mod**，简称**ScarAngel Mod**、**ScarAngel**或**SA**，是基于官方[eMule和](https://zh.wikipedia.org/wiki/eMule "wikilink")[eMule Xtreme Mod开发的一款](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU [GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 历史

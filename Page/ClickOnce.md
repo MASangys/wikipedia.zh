@@ -1,3 +1,6 @@
+> 本文内容由[ClickOnce](https://zh.wikipedia.org/wiki/ClickOnce)转换而来。
+
+
 **ClickOnce**是[微软](../Page/微软.md "wikilink")公司开发的一门用于在网络上发布应用程序的技术\[1\]。于[.NET框架](../Page/.NET框架.md "wikilink")2.0版中引入\[2\]。
 
 ## 特性

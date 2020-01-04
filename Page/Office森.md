@@ -1,3 +1,6 @@
+> 本文内容由[Office森](https://zh.wikipedia.org/wiki/Office森)转换而来。
+
+
 **有限公司 Office森**是[日本](../Page/日本.md "wikilink")的演藝事務所。主要經營聲優的經紀業務。
 
 ## 所属声優

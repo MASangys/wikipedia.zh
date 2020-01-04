@@ -1,3 +1,6 @@
+> 本文内容由[Theora](https://zh.wikipedia.org/wiki/Theora)转换而来。
+
+
 **Theora**是一個免權利金、開放格式的[有損](https://zh.wikipedia.org/wiki/破壞性資料壓縮 "wikilink")[影像壓縮技術](https://zh.wikipedia.org/wiki/影像壓縮 "wikilink")，由[Xiph.Org基金會](../Page/Xiph.Org基金會.md "wikilink")開發，該基金會還開發了著名的聲音編碼技術[Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")，以及多媒體容器檔案格式[Ogg](../Page/Ogg.md "wikilink")。**libtheora**則是Xiph.Org基金會針對Theora格式的實作\[1\]\[2\]。
 
 Theora是由[On2 Technologies公司專屬的](../Page/On2_Technologies.md "wikilink")[VP3編碼器](https://zh.wikipedia.org/wiki/VP3 "wikilink")，經過開放原始碼後衍生而來，目標是達成比[MPEG-4 Part 2更好的編碼效率](../Page/MPEG-4.md "wikilink")。Theora的命名來自於一個電視節目Max Headroom中的角色：Theora Jones\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[SBS水木連續劇](https://zh.wikipedia.org/wiki/SBS水木連續劇)转换而来。
+
+
 **SBS水木連續劇**（），是[SBS於](../Page/SBS_\(韓國\).md "wikilink")[韓國時間星期三](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")、四晚間10:00播出的電視劇。
 
 此時段於2001年1月至2019年3月間以**Drama Special**（）為名。
@@ -2457,28 +2460,6 @@
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td style="text-align: center;"><p>2020年3月－<br />
-2020年月</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Good_Casting" title="wikilink">Good Casting</a>}-<br />
-</p></td>
-<td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/崔江姬.md" title="wikilink">崔江姬</a>、<a href="../Page/李相燁.md" title="wikilink">李相燁</a>、<a href="../Page/金志映_(1974年).md" title="wikilink">金志映</a>、<a href="../Page/柳仁英.md" title="wikilink">柳仁英</a>、<a href="../Page/李鐘赫.md" title="wikilink">李鐘赫</a>、<a href="../Page/李濬榮.md" title="wikilink">李濬榮</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔英勳" title="wikilink">崔英勳</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴智河" title="wikilink">朴智河</a></p></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
 </tbody>
 </table>
 

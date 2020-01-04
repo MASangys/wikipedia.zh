@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA ION](https://zh.wikipedia.org/wiki/NVIDIA_ION)转换而来。
+
+
 **ION**是[NVIDIA公司于](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")2008年12月發佈的行動平台，官方中文名稱“翼揚”。因“ion”在英文中是“[離子](https://zh.wikipedia.org/wiki/離子 "wikilink")”的意思，所以也被俗稱“離子平台”\[1\]。
 
 ## 產品介紹

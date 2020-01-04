@@ -1,3 +1,6 @@
+> 本文内容由[CIS 40 GL附加型榴彈發射器](https://zh.wikipedia.org/wiki/CIS_40_GL附加型榴彈發射器)转换而来。
+
+
 **CIS 40 GL**（現稱：**STK 40 GL**）是一具由[新加坡](../Page/新加坡.md "wikilink")國防企業新加坡特許工業公司（，簡稱：CIS）{{\#tag:ref|現已改稱為（，簡稱：ST Kinetics）}}在1980年代後期自主研製和生產的中折單發下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。它除了可以下掛於步槍的下護木，也可通過增加[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
 
 ## 歷史

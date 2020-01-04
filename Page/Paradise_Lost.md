@@ -1,3 +1,6 @@
+> 本文内容由[Paradise Lost](https://zh.wikipedia.org/wiki/Paradise_Lost)转换而来。
+
+
 《**Paradise Lost**》為[茅原實里](../Page/茅原實里.md "wikilink")歌手活動重新開始後的第五張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。製作、發行公司為[Lantis](../Page/Lantis.md "wikilink")，由[King Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 概要

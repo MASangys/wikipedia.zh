@@ -1,3 +1,6 @@
+> 本文内容由[SNOW](https://zh.wikipedia.org/wiki/SNOW)转换而来。
+
+
 《**SNOW**》是由[日本](../Page/日本.md "wikilink")電子遊戲公司[Visual Art's旗下的](../Page/Visual_Art's.md "wikilink")[Studio Mebius發售的](../Page/Studio_Mebius.md "wikilink")[十八禁](https://zh.wikipedia.org/wiki/十八禁 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。最早的[PC](../Page/PC.md "wikilink")版於2003年1月31日推出。\[1\]之後[Dreamcast](../Page/Dreamcast.md "wikilink")版和[PS2版各於](https://zh.wikipedia.org/wiki/PlayStation2 "wikilink")2003年9月25日\[2\]\[3\]和2004年2月26日\[4\]相繼推出，兩者均移除了所有的成人遊戲内容，其中DC版為全年齡對象版。原先的PC版沒有角色配音，但第二款包含完整角色配音的全新PC版於2004年9月24日發售\[5\]。另外一款續接的PC版《SNOW P・E》（P・E是英文Plus Edition（附加版）的縮寫）於2006年9月發售。\[6\][PSP攜帶版原定於](../Page/PlayStation_Portable.md "wikilink")2006年12月發售，後來被推遲到2007年夏天的8月16日發售\[7\]\[8\]。2008年7月25日發售PC版《SNOW～Standard Edition～》。\[9\]PSP版《SNOW・ダウンロード版》於2010年1月21日發售。\[10\]
 
 ## 概要

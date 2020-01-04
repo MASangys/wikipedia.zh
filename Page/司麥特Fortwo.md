@@ -51,7 +51,7 @@
   - [TKSP台灣聰明車友會](https://archive.is/20130105170344/http://tw.myblog.yahoo.com/smartfun88/)
   - [台灣高雄SmartCar車友會.ForTwo.](https://archive.is/20130105091858/http://tw.myblog.yahoo.com/smartfun88)
   - [smart 全球官方网站](http://www.smart.com)
-  - [smart 中国官方网站](http://china.smart.com/cn)
+  - [smart 中国官方网站](https://web.archive.org/web/20080907114729/http://china.smart.com/cn)
   - [台湾的smart俱乐部网站](http://sch.smartcafe.com.tw/cgi-bin/sch/leoboard.cgi)
   - [亞洲smartcar俱乐部网站](http://www.smartcar-club.com)
   - [中国smart俱乐部](https://web.archive.org/web/20100204212246/http://www.smart-club.cn/index.php)

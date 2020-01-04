@@ -1,3 +1,6 @@
+> 本文内容由[Kakifly](https://zh.wikipedia.org/wiki/Kakifly)转换而来。
+
+
 **kakifly**（），[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，出身於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")\[1\]。其代表作是[四格漫畫](../Page/四格漫畫.md "wikilink")《[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")》，連載於[芳文社](../Page/芳文社.md "wikilink")的雜誌《[Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》、《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》。
 
 ## 人物

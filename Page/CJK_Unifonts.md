@@ -1,3 +1,6 @@
+> 本文内容由[CJK Unifonts](https://zh.wikipedia.org/wiki/CJK_Unifonts)转换而来。
+
+
 **CJK Unifonts**是[開放版權](https://zh.wikipedia.org/wiki/開放版權 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字型](../Page/字型.md "wikilink")，其中的明体 (UMing) 曾為大型[Linux發行版如](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")用作預設中文字型。
 
 ## 緣起

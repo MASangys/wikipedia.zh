@@ -1,3 +1,6 @@
+> 本文内容由[Windows輕鬆傳輸](https://zh.wikipedia.org/wiki/Windows輕鬆傳輸)转换而来。
+
+
 **Windows 輕鬆傳輸**（Windows Easy Transfer）是一個由[微軟所開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")，內建於[Windows Vista用來幫助使用者傳輸一台電腦的檔案及設定至另一台電腦的元件](../Page/Windows_Vista.md "wikilink")。它目前的最新版本讓使用者能夠從一台運行[Windows 2000](../Page/Windows_2000.md "wikilink")、[Windows XP或](../Page/Windows_XP.md "wikilink")[Windows Vista的電腦傳輸至另一台運行Windows](../Page/Windows_Vista.md "wikilink") Vista的電腦\[1\]它取代了原本內建於Windows XP的「檔案及設定傳輸精靈」（Files and Settings Transfer Wizard），並同時也提供Windows XP的使用者下載安裝。\[2\]
 
 ## 傳輸功能

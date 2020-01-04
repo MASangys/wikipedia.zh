@@ -1,7 +1,7 @@
 > 本文内容由[FTIsland](https://zh.wikipedia.org/wiki/FTIsland)转换而来。
 
 
-**FTISLAND**／FTIsland／F.T.Island（;，全稱**Five Treasure Island**，簡稱**FTI** / **FT**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂公司旗下的第一個](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。隊名「五個寶藏島」，意指樂團五個成員：主唱[李洪基](../Page/李洪基.md "wikilink")、吉他[崔鍾訓](../Page/崔鍾訓.md "wikilink")（隊長）（已退團）、貝斯[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、吉他[宋承炫和鼓手](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")[崔敏煥](../Page/崔敏煥.md "wikilink")。
+**FTISLAND**／FTIsland／F.T.Island（;，全稱**Five Treasure Island**，簡稱**FTI** / **FT**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂公司旗下的第一個](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。隊名「五個寶藏島」，意指樂團五個成員：主唱[李洪基](../Page/李洪基.md "wikilink")、吉他[崔鍾訓](../Page/崔鍾訓.md "wikilink")（隊長）（已退團）、貝斯[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、吉他[宋承炫](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")（已退團）和鼓手[崔敏煥](../Page/崔敏煥.md "wikilink")。
 
 樂隊的應援物是小黃旗。歌迷被稱為「**Primadonna**」（義大利文），即「女主角」的意思，簡稱為「**PRI**」。官方應援物名稱：Pentastick。
 
@@ -17,7 +17,7 @@
 
 2015年，發行首次由5位成員共同參與詞曲創作製作的專輯《I WILL》，是FTISLAND演藝事業中新的里程碑，在韓國音樂節目奪得3座冠軍，並且受到美國告示牌網站的專文推薦，稱讚有著強烈搖滾節奏的主打歌〈PRAY〉充滿靈魂，整張專輯更展現出FTISLAND不容置疑的音樂才華。
 
-2019年3月14日，崔鍾訓因扯入鄭俊英群組事件，公司發出聲明宣佈崔鍾訓永久退出組合\[1\]。
+2019年3月14日，崔鍾訓因扯入鄭俊英群組事件，FNC娛樂發出聲明宣佈崔鍾訓永久退出組合\[1\]。同年12月24日，公司宣佈宋承炫在年末約滿後將會專心拍戲工作而退出組合\[2\]\[3\]。
 
 ## 成員資料
 
@@ -27,12 +27,12 @@
 | 漢字                                                  |
 | [李洪基](../Page/李洪基.md "wikilink")                    |
 | [李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink") |
-| [宋承炫](https://zh.wikipedia.org/wiki/宋承炫 "wikilink") |
 | [崔敏煥](../Page/崔敏煥.md "wikilink")                    |
 | 已離開成員                                               |
 | 本名                                                  |
 | 漢字                                                  |
 | [崔鍾訓](../Page/崔鍾訓.md "wikilink")                    |
+| [宋承炫](https://zh.wikipedia.org/wiki/宋承炫 "wikilink") |
 | [吳元斌](../Page/吳元斌.md "wikilink")                    |
 
 ### 成員變遷表
@@ -236,44 +236,6 @@ LineData =
 | 2017年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《哥哥的想法》              | Ep12 \~ 13 17/08/07、17/08/14 擔任特別MC | [李洪基](../Page/李洪基.md "wikilink") |
 | 2017年 | [TV朝鮮](../Page/TV朝鮮.md "wikilink")                  | 《傳說的保齡球》             | 17/03/16 \~                         | [李洪基](../Page/李洪基.md "wikilink") |
 
-### 電台
-
-|       |                                                     |                                                                                                   |        |
-| ----- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------ |
-| 日期    | 電台                                                  | 節目名稱                                                                                              | 集數     |
-| 2010年 | [中廣流行網](../Page/中廣流行網.md "wikilink")                | 《[娛樂E世代](https://zh.wikipedia.org/wiki/娛樂E世代 "wikilink")》                                         | 100303 |
-| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[崔华静的PowerTime](https://zh.wikipedia.org/wiki/崔华静的PowerTime "wikilink")》                         | 100831 |
-| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[希澈的YoungStreet](https://zh.wikipedia.org/wiki/希澈的YoungStreet "wikilink")》                       | 100901 |
-| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[SweetSorrow's TenTenClub](https://zh.wikipedia.org/wiki/SweetSorrow's_TenTenClub "wikilink")》   | 100902 |
-| 2010年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[2FM KTR](https://zh.wikipedia.org/wiki/2FM_KTR "wikilink")》                                     | 100903 |
-| 2010年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[洪真京的歌谣广场](https://zh.wikipedia.org/wiki/洪真京的歌谣广场 "wikilink")》                                   | 100910 |
-| 2010年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[李秀英的music show](https://zh.wikipedia.org/wiki/李秀英的music_show "wikilink")》                       | 100911 |
-| 2010年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[深深打破](https://zh.wikipedia.org/wiki/深深打破 "wikilink")》                                           | 100915 |
-| 2010年 | [中廣流行網](../Page/中廣流行網.md "wikilink")                | 《[娛樂E世代](https://zh.wikipedia.org/wiki/娛樂E世代 "wikilink")》                                         | 101224 |
-| 2011年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[深深打破](https://zh.wikipedia.org/wiki/深深打破 "wikilink")》                                           | 111019 |
-| 2011年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃脫](https://zh.wikipedia.org/wiki/兩點逃脫 "wikilink")》                                           | 111020 |
-| 2011年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[Kiss the radio](https://zh.wikipedia.org/wiki/Kiss_the_radio "wikilink")》                       | 111020 |
-| 2011年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[星光燦爛的夜晚](https://zh.wikipedia.org/wiki/星光燦爛的夜晚 "wikilink")》                                     | 111024 |
-| 2011年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[Old school](https://zh.wikipedia.org/wiki/Old_school "wikilink")》                               | 111031 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[崔華靜的Power Time](https://zh.wikipedia.org/wiki/崔華靜的Power_Time "wikilink")》                       | 130528 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](https://zh.wikipedia.org/wiki/兩點逃出_Cultwo_Show_두시탈출_컬투쇼 "wikilink")》 | 130601 |
-| 2013年 | 東北6縣網路電台                                            | 《STEPPIN' TOHOKU》                                                                                 | 130614 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《POWER FM 金昌烈的Old school》                                                                         | 130924 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《Power FM Boom's Young Street》                                                                    | 131020 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《Power FM 朴素賢的LOVE GAME》                                                                          | 131127 |
-| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《FM 神童-深深打破》                                                                                      | 131128 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《Power FM Young Street》                                                                           | 131129 |
-| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《2FM SJ-Kiss The Radio》                                                                           | 131129 |
-| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《Cool FM 李素羅的歌謠廣場》                                                                                | 131203 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《Power FM 金昌烈的Old school》                                                                         | 131203 |
-| 2015年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《張東民Lady Jane的兩點》                                                                                 | 130327 |
-| 2015年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[Kiss the radio](https://zh.wikipedia.org/wiki/Kiss_the_radio "wikilink")》                       | 150331 |
-| 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[SUNNY'S FM DATE](https://zh.wikipedia.org/wiki/SUNNY'S_FM_DATE "wikilink")》                     | 150401 |
-| 2015年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](https://zh.wikipedia.org/wiki/兩點逃出_Cultwo_Show_두시탈출_컬투쇼 "wikilink")》 | 150402 |
-| 2015年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](https://zh.wikipedia.org/wiki/兩點逃出_Cultwo_Show_두시탈출_컬투쇼 "wikilink")》 | 150716 |
-| 2015年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](https://zh.wikipedia.org/wiki/兩點逃出_Cultwo_Show_두시탈출_컬투쇼 "wikilink")》 | 151119 |
-| 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[朴京林的兩點約會](https://zh.wikipedia.org/wiki/朴京林的兩點約會 "wikilink")》                                   | 151125 |
-
 ### 代言
 
   - Ralph Lauren 香水代言
@@ -282,7 +244,7 @@ LineData =
   - Smart 校服代言
   - 泰國 Just Modern 染髮劑代言（[李洪基](../Page/李洪基.md "wikilink")）
   - Toreore 炸雞代言
-  - 2014 [StayReal](../Page/StayReal.md "wikilink") 潮流服飾品牌代言 \[2\]
+  - 2014 [StayReal](../Page/StayReal.md "wikilink") 潮流服飾品牌代言 \[4\]
   - 2014 呂 洗髮精代言（[李洪基](../Page/李洪基.md "wikilink")）
 
 ## 演唱會
@@ -1279,4 +1241,6 @@ LineData =
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.
-2.  [STAYREAL 服飾代言](http://tw.istayreal.com/news/782)
+2.
+3.
+4.  [STAYREAL 服飾代言](http://tw.istayreal.com/news/782)

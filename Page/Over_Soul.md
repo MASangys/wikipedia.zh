@@ -1,3 +1,6 @@
+> 本文内容由[Over Soul](https://zh.wikipedia.org/wiki/Over_Soul)转换而来。
+
+
 《**Over Soul**》為林原惠第26張單曲，於2001年8月29日發行。
 
 由[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販賣（KICM-3016/KICM-3017）。

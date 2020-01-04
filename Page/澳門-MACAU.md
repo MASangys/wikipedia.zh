@@ -1,3 +1,6 @@
+> 本文内容由[澳門-MACAU](https://zh.wikipedia.org/wiki/澳門-MACAU)转换而来。
+
+
 **澳門-MACAU**（葡萄牙語：**TDM-Macau Satéllite**），原名澳門衛視，是[澳門廣播電視股份有限公司](../Page/澳門廣播電視股份有限公司.md "wikilink")的第四條頻道，2009年10月1日開播。頻道定位為中國與葡語國家及海外華人間的電視廣播平台 ，全天24小時以[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")、[葡語及](https://zh.wikipedia.org/wiki/葡語 "wikilink")[英語廣播](https://zh.wikipedia.org/wiki/英語 "wikilink")，節目以新聞及資訊節目、本地製作、藝術、文化、 教育及綜藝為主，向各地觀眾介紹澳門的城市特色及社會發展，更對澳門各項大型活動作直播。
 
 ## 歷史

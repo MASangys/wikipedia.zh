@@ -1,7 +1,7 @@
 > 本文内容由[HK AG36附加型榴彈發射器](https://zh.wikipedia.org/wiki/HK_AG36附加型榴彈發射器)转换而来。
 
 
-**HK AG36**（AG，，意為：「附加型榴弹发射器模組」）是一具式40毫米[附加型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
+**HK AG36**（AG，，意為：「附加型榴弹发射器模組」）是一款式40毫米[附加型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
 該榴弹发射器的主要設計概念是下掛於[HK G36](../Page/HK_G36突擊步槍.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，設計者是[德国](../Page/德国.md "wikilink")[武器](../Page/武器.md "wikilink")生產[公司](../Page/公司.md "wikilink")[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")的總公司[奧伯恩多夫卡](https://zh.wikipedia.org/wiki/奧伯恩多夫卡 "wikilink")。它是在用作黑克勒&科赫對參與[美国陆军](../Page/美国陆军.md "wikilink")的增強型榴彈發射器模組（Enhanced Grenade Launcher Module，EGLM）的競標產品當中首次出現，而且為了用於增加在下掛於[XM8和](../Page/XM8突擊步槍.md "wikilink")[FN SCAR兩枝步槍後的性能評價](../Page/FN_SCAR突擊步槍.md "wikilink")。
 

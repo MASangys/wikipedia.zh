@@ -1,3 +1,6 @@
+> 本文内容由[Pummerer重排反应](https://zh.wikipedia.org/wiki/Pummerer重排反应)转换而来。
+
+
 **Pummerer重排反应**（Pummerer rearrangement），是用[乙酸酐](../Page/乙酸酐.md "wikilink")将[亚砜](../Page/亚砜.md "wikilink")[重排为α](https://zh.wikipedia.org/wiki/重排 "wikilink")-[酰氧基](https://zh.wikipedia.org/wiki/酰氧基 "wikilink")[硫醚](../Page/硫醚.md "wikilink")的化学反应。  反应中硫原子被还原，邻位碳被氧化。
 
 [Pummerer_Rearrangement_Scheme.png](https://zh.wikipedia.org/wiki/File:Pummerer_Rearrangement_Scheme.png "fig:Pummerer_Rearrangement_Scheme.png")

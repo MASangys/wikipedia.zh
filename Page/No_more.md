@@ -1,3 +1,6 @@
+> 本文内容由[No more](https://zh.wikipedia.org/wiki/No_more)转换而来。
+
+
 「**No more**」為[堂本光一](../Page/堂本光一.md "wikilink")發行的單曲。此作為以電影角色名義發售的作品，也是米壽司的出道單曲。
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[Akabori氨基酸反应](https://zh.wikipedia.org/wiki/Akabori氨基酸反应)转换而来。
+
+
 **Akabori氨基酸反应**（Akabori amino acid reaction）有两种：
 
 1、α-[氨基酸](../Page/氨基酸.md "wikilink")在加热时被[氧化性](https://zh.wikipedia.org/wiki/氧化性 "wikilink")[糖](https://zh.wikipedia.org/wiki/糖 "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Uploadtext-nonfree/zh](https://zh.wikipedia.org/wiki/MediaWiki:Uploadtext-nonfree/zh)转换而来。
+
+
 \-{H|zh-hans:文件; zh-hant:檔案;}- -{H|zh-hans:链接; zh-hant:連結;}- -{H|zh-hans:向导; zh-hant:精靈;}-
 
 <table>

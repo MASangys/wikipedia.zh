@@ -1,3 +1,6 @@
+> 本文内容由[Dowd–Beckwith扩环反应](https://zh.wikipedia.org/wiki/Dowd–Beckwith扩环反应)转换而来。
+
+
 **Dowd–Beckwith扩环反应**（Dowd–Beckwith ring expansion reaction）
 
 环状β-[酮酯经过α](https://zh.wikipedia.org/wiki/酮酯 "wikilink")-[卤烷基取代中间体](https://zh.wikipedia.org/wiki/卤烷基 "wikilink")，得到[环扩大产物](https://zh.wikipedia.org/wiki/环扩大 "wikilink")。\[1\] \[2\]\[3\]

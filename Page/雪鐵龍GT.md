@@ -1,3 +1,6 @@
+> 本文内容由[雪鐵龍GT](https://zh.wikipedia.org/wiki/雪鐵龍GT)转换而来。
+
+
 [CitroenGTbyCitroeninterior.JPG](https://zh.wikipedia.org/wiki/File:CitroenGTbyCitroeninterior.JPG "fig:CitroenGTbyCitroeninterior.JPG") [CitroenGTbyCitroen.JPG](https://zh.wikipedia.org/wiki/File:CitroenGTbyCitroen.JPG "fig:CitroenGTbyCitroen.JPG") **雪鐵龍GT**是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[雪鐵龍於](https://zh.wikipedia.org/wiki/雪鐵龍 "wikilink")2008年8月2日[巴黎車展](../Page/巴黎車展.md "wikilink")發佈的[概念車](../Page/概念車.md "wikilink")，採用[燃料電池技術驅動](https://zh.wikipedia.org/wiki/燃料電池 "wikilink")，本車也是雪鐵龍和日本遊戲廠商[Polyphony Digital合作的產物](../Page/Polyphony_Digital.md "wikilink")，本車原本預計採極少量[量產全世界只有](https://zh.wikipedia.org/wiki/量產 "wikilink")6台，但量產計劃已取消。
 
 ## 設計

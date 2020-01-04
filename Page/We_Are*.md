@@ -1,3 +1,6 @@
+> 本文内容由[We Are\*](https://zh.wikipedia.org/wiki/We_Are\*)转换而来。
+
+
 《**We Are\***》是[KID](../Page/KID.md "wikilink")於2006年7月27日發行的[PS2遊戲](../Page/PlayStation_2.md "wikilink")。標題下方標著「We Are Asterisk.」，符號\*（[星號](../Page/星號.md "wikilink")）不發音。在[MediaWorks](../Page/MediaWorks.md "wikilink")的月刊漫畫雜誌《[月刊電擊Comic Gao\!](../Page/月刊電擊Comic_Gao!.md "wikilink")》自2006年7月號開始連載漫畫版《We Are -Cruel Angel's-》，不過因為KID破產的衝擊而突然連載中斷。
 
 在中国大陆地区发行时使用的名字是《We Are\* 爱在2026》，PC版使用的是代理商[北京娱乐通支持的](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")[古月游戏引擎](https://zh.wikipedia.org/wiki/古月游戏引擎 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[IMI TAR-21突擊步槍](https://zh.wikipedia.org/wiki/IMI_TAR-21突擊步槍)转换而来。
+
+
 **TAR-21**是一款采用[5.56×45mm NATO](../Page/5.56×45mm_NATO.md "wikilink")[弹药的](https://zh.wikipedia.org/wiki/弹药 "wikilink")[以色列](../Page/以色列.md "wikilink")[-{zh-hans:无托结构; zh-hant:犢牛式;}-](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")。TAR-21的含义是**“Tavor Assault Rifle - 21st Century”**（中文翻譯為**「塔沃爾21世紀突击步枪」**）。其名字是來自[他泊山](https://zh.wikipedia.org/wiki/他泊山 "wikilink")（Mount Tabor）。它曾是[吉瓦提步兵旅](https://zh.wikipedia.org/wiki/吉瓦提步兵旅 "wikilink")（2006年8月起）、[戈兰尼步兵旅](https://zh.wikipedia.org/wiki/戈兰尼步兵旅 "wikilink")（2008年8月起）和[納哈爾步兵旅](https://zh.wikipedia.org/wiki/納哈爾步兵旅 "wikilink")（2010年）等多個單位的制式武器。然而隨著最新型的[MTAR-21／X95](../Page/IWI塔沃爾X95突擊步槍.md "wikilink")（微型塔沃爾）已成為[以色列国防军一線部隊的制式突击步枪](https://zh.wikipedia.org/wiki/以色列国防军 "wikilink")，舊版的TAR-21因此被降級為二線部隊的武器。
 
 為了便捷起見，除了表示其型號，以下本文一律以塔沃爾（Tavor的中文翻譯）之作為文章中的簡稱。

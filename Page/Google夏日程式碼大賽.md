@@ -1,3 +1,6 @@
+> 本文内容由[Google夏日程式碼大賽](https://zh.wikipedia.org/wiki/Google夏日程式碼大賽)转换而来。
+
+
 **Google夏日程式碼大賽**（Google Summer of Code），是由[Google公司所主辦的年度开源程式設計项目](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，第一屆從2005年開始。「Summer of Code」之名取自1967年的「[夏日之愛](https://zh.wikipedia.org/wiki/夏日之愛 "wikilink")」（[Summer of Love](https://zh.wikipedia.org/wiki/Summer_of_Love "wikilink")）風潮。比賽的主要目的是鼓勵[學生參與](https://zh.wikipedia.org/wiki/學生 "wikilink")[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[程式設計活動](https://zh.wikipedia.org/wiki/程式設計 "wikilink")。每个成功完成项目的学生都会获得来自Google公司的资助。
 
 ## 概要

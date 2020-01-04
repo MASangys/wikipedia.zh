@@ -1,3 +1,6 @@
+> 本文内容由[Zlib授权条款](https://zh.wikipedia.org/wiki/Zlib授权条款)转换而来。
+
+
 **zlib许可证**是一个[自由软件](../Page/自由软件.md "wikilink")授权[许可证](https://zh.wikipedia.org/wiki/许可证 "wikilink")，它定义了 Zlib 软件库可以分发的条款。它也被许多其它免费软件包使用。[libpng库使用相似的许可证](https://zh.wikipedia.org/wiki/libpng "wikilink")，有时可互换称为zilb/libpng许可证。
 
 zlib许可证已被自由软件基金会（FSF）批准为自由软件许可证，\[1\]也被开源计划（OSI）批准为开源许可证。\[2\]它与GNU通用公共许可证兼容。\[3\]类似于[BSD许可](../Page/BSD许可证.md "wikilink")，除了必须注明来源，还应在发布的软件中保留此授权协议的副本。

@@ -1,3 +1,6 @@
+> 本文内容由[Hexol](https://zh.wikipedia.org/wiki/Hexol)转换而来。
+
+
 **Hexol**分子式为\[Co((OH)<sub>2</sub>Co(NH<sub>3</sub>)<sub>4</sub>)<sub>3</sub>\](SO<sub>4</sub>)<sub>3</sub>，是[阿尔弗雷德·维尔纳](../Page/阿尔弗雷德·维尔纳.md "wikilink")在1914年以[硫酸钴](../Page/硫酸钴.md "wikilink")(Ⅱ)为起始原料合成的一种[无机有](https://zh.wikipedia.org/wiki/无机 "wikilink")[旋光异构性的](https://zh.wikipedia.org/wiki/旋光异构 "wikilink")[配合物](../Page/配合物.md "wikilink")。\[1\]它从结构上来讲是一个以[羟桥相连的四核钴配合物](https://zh.wikipedia.org/wiki/羟桥 "wikilink")，也是第一个制得的纯粹不含[碳](../Page/碳.md "wikilink")的[手性](../Page/手性.md "wikilink")分子，摩尔旋光为−47610°，这是一般有[光学活性的有机化合物所无法比拟的](https://zh.wikipedia.org/wiki/光学活性 "wikilink")。
 
 在制得该配合物后，维尔纳又成功地[拆分出](../Page/手性拆分.md "wikilink")[左旋体和右旋体](https://zh.wikipedia.org/wiki/左旋与右旋 "wikilink")。该拆分过程中，维尔纳先用hexol的氯化物盐与[手性拆分剂](https://zh.wikipedia.org/wiki/手性拆分剂 "wikilink")[<small>D</small>](../Page/甘油醛.md "wikilink")-(+)-溴代[樟脑磺酸](../Page/樟脑磺酸.md "wikilink")银盐反应，沉淀出<small>D</small>-hexol与之生成的盐，然后过滤，并对滤渣和滤液分别进行处理，便可得到<small>D</small>-hexol和<small>L</small>-hexol。hexol的制备和拆分的成功有力证明了维尔纳[配位理论的真实和正确性](https://zh.wikipedia.org/wiki/配位化学 "wikilink")，从而奠定了配位化学的基础。

@@ -1,3 +1,6 @@
+> 本文内容由[雪鐵龍C-Metisse](https://zh.wikipedia.org/wiki/雪鐵龍C-Metisse)转换而来。
+
+
 **雪鐵龍C-Metisse**是一輛[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[雪鐵龍生產的油電混合](https://zh.wikipedia.org/wiki/雪鐵龍 "wikilink")[概念車](../Page/概念車.md "wikilink")，全車以[碳纖維](../Page/碳纖維.md "wikilink")打造車體，最初於2006年[巴黎車展](../Page/巴黎車展.md "wikilink")亮相，它是少見的[柴油](../Page/柴油.md "wikilink")電力混合車輛，並能四輪獨立定位。不過，這並不是該公司第一輛油電混合車，早在2005年時就推出過雪鐵龍C4混合車版。
 
 ## 得獎紀錄

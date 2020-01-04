@@ -1,3 +1,6 @@
+> 本文内容由[Ubuntu Netbook Edition](https://zh.wikipedia.org/wiki/Ubuntu_Netbook_Edition)转换而来。
+
+
 **Ubuntu Netbook Edition**（或*Ubuntu Netbook Remix*\[1\]\[2\]\[3\]）是一個[Ubuntu](../Page/Ubuntu.md "wikilink")的桌面版本，能優化[上网本](../Page/上网本.md "wikilink")的設備，使小屏幕和[Intel Atom處理器能夠更好工作](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")。[Canonical公司](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")，建立Ubuntu的公司，正與[Moblin project合作](https://zh.wikipedia.org/wiki/Moblin_project "wikilink")，以確保Ubuntu Netbook Edition有較低的硬件要求和更高的電池壽命。**现已融入Desktop版本。**
 
 ## 系統要求

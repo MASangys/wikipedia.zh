@@ -1,3 +1,6 @@
+> 本文内容由[WikiHow](https://zh.wikipedia.org/wiki/WikiHow)转换而来。
+
+
 **wikiHow**是一个基于wiki的社区，网站有一个关于“怎么做”文章的外延数据库。 网站的所有内容的授权方式遵守[知识共享](../Page/知识共享.md "wikilink")（署名-非商业性使用-相同方式共享），网站使用一个经过修改的[MediaWiki](../Page/MediaWiki.md "wikilink") 1.12版本\[1\]。网站开始是作为已存在的[eHow网站的一个扩展](https://zh.wikipedia.org/wiki/eHow "wikilink")，如今已拥有56,000篇“怎么做”的文章。wikiHow致力于创建世界上最大的和顶级的“怎么做”指南\[2\]。2009年3月，wikiHow已拥有1千6百万读者。\[3\]
 
 ## 网站历史

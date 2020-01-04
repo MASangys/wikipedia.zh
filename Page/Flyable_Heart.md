@@ -1,3 +1,6 @@
+> 本文内容由[Flyable Heart](https://zh.wikipedia.org/wiki/Flyable_Heart)转换而来。
+
+
 《**Flyable Heart**》（）是UNiSONSHIFT：Blossom於2009年3月19日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2010年5月28日發售以本作女主角白鹭茉百合为主角的[衍生作品](../Page/衍生作品.md "wikilink")《[君之余影静静摇曳](https://zh.wikipedia.org/wiki/君之余影静静摇曳 "wikilink")》，2011年2月25日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Flyable CandyHeart》。後來也陸續改編成漫畫和小說。
 
 故事中的背景舞台鳳繚蘭學園的是以《》的遊華總合学園的姐妹校為範本，而本作的有些角色設定類似於《Peace@Pieces》、《[七色★星露](../Page/七色★星露.md "wikilink")》的人物設定。

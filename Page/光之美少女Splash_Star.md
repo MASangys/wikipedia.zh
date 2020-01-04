@@ -1,3 +1,6 @@
+> 本文内容由[光之美少女Splash Star](https://zh.wikipedia.org/wiki/光之美少女Splash_Star)转换而来。
+
+
 《**光之美少女Splash Star**》（**Splash Star**）是由[東映動畫所製作的動畫作品](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，為《[光之美少女系列](../Page/光之美少女系列.md "wikilink")》的第三季作品，屬第二代光之美少女。
 
 ## 概要

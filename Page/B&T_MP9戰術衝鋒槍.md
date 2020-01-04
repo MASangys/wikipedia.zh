@@ -1,4 +1,7 @@
-**B\&T MP9**（）是一枝由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")的槍械（及其附件的）製造商（簡稱：B\&T或B+T）公司所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")）。當中MP的英文全寫為「」，[中文意為](../Page/汉语.md "wikilink")「[衝鋒手槍](../Page/全自動手槍.md "wikilink")」。MP9發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+> 本文内容由[B\&T MP9戰術衝鋒槍](https://zh.wikipedia.org/wiki/B\&T_MP9戰術衝鋒槍)转换而来。
+
+
+**B\&T MP9**（）是一系列由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")的槍械（及其附件的）製造商（簡稱：B\&T或B+T）公司所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")）。當中MP的英文全寫為「」，[中文意為](../Page/汉语.md "wikilink")「[衝鋒手槍](../Page/全自動手槍.md "wikilink")」。MP9發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
 
@@ -303,9 +306,9 @@ B\&T MP9和TP9亦登場於多部[电影](../Page/电影.md "wikilink")、[电視
 
 ### 電影
 
-  - 2005年—《不悔》：主角金善宇跟南韓黑幫槍戰的時候，最後有使用無槍托的B\&T MP9，但是因為金善宇手受傷只能用單手開槍。
   - 2008年—《[-{zh-hans:全民超人汉考克; zh-hk:街頭超人; zh-tw:全民超人;}-](../Page/全民超人.md "wikilink")》：型號為B\&T MP9，被罪犯所使用，會單手握持。
   - 2009年—《[快克殺手2：極速電擊](https://zh.wikipedia.org/wiki/快克殺手2：極速電擊 "wikilink")》：型號為B\&T MP9，被唐·金的手下所持有，後來被主角契夫·查理奥斯繳獲並在車廂內零距離射殺唐·金。
+  - 2009年—《》：型號為TP9，改裝至可[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，由IBBC銀行所派遣的殺手所使用，其中一枝被路易斯·塞林格（[克萊夫·歐文](../Page/克萊夫·歐文.md "wikilink")飾演）所繳獲。
   - 2010年—《[超危險特工](../Page/超危險特工.md "wikilink")》：型號為B\&T MP9，被馬文（Marvin Boggs，[-{zh-hans:约翰·马尔科维奇; zh-hk:尊·麥高維治; zh-hant:約翰·馬克維奇; zh-tw:約翰·馬克維奇; zh-mo:尊·麥高維治;}-飾演](../Page/約翰·馬克維奇.md "wikilink")）所使用，會單手握持。
   - 2010年—《[-{zh:生化危機4：陰陽界; zh-tw:惡靈古堡4：陰陽界; zh-hk:生化危機3D：戰神再生; zh-cn:生化危机：战神再生;}-](https://zh.wikipedia.org/wiki/惡靈古堡4：陰陽界 "wikilink")》：型號為B\&T MP9，被[艾莉絲](../Page/艾莉絲_\(惡靈古堡\).md "wikilink")（Alice，[-{zh-cn:米拉·乔沃维奇; zh-tw:蜜拉·喬娃薇琪; zh-hk:米娜·祖華域芝;}-飾演](../Page/米拉·乔沃维奇.md "wikilink")）的複製人所使用，會單手握持或[雙持](../Page/雙持.md "wikilink")。
   - 2010年—《[-{zh-tw:浴血任務; zh-cn:敢死队; zh-hk:轟天猛將;}-](../Page/浴血任務.md "wikilink")》：型號為B\&T MP9，被武術家「陰陽」（Yin Yang，[李連杰飾演](https://zh.wikipedia.org/wiki/李連杰 "wikilink")）所使用，會單手握持。

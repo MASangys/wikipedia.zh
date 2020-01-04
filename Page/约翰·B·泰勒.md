@@ -1,3 +1,6 @@
+> 本文内容由[约翰·B·泰勒](https://zh.wikipedia.org/wiki/约翰·B·泰勒)转换而来。
+
+
 **约翰·布赖恩·泰勒**（John Brian Taylor ，），[美国](../Page/美国.md "wikilink")[货币政策方面的专家](https://zh.wikipedia.org/wiki/货币 "wikilink")。
 
 ## 生平

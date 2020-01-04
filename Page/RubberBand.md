@@ -1,15 +1,15 @@
 > 本文内容由[RubberBand](https://zh.wikipedia.org/wiki/RubberBand)转换而来。
 
 
-**RubberBand**，[香港](../Page/香港.md "wikilink")著名樂隊，於2004年成立，成員包括[主音](../Page/主音.md "wikilink")[6號](../Page/繆浩昌.md "wikilink")、[結他手兼隊長阿正](https://zh.wikipedia.org/wiki/結他手 "wikilink")、[低音結他手阿偉以及](https://zh.wikipedia.org/wiki/低音結他手 "wikilink")[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[泥鯭](../Page/黎萬宏.md "wikilink")。2007年與唱片公司[金牌大風](../Page/金牌大風.md "wikilink")簽約，2008年正式出道成為樂壇新力軍，便旋即獲頒[商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")「叱咤樂壇生力軍組合金獎」，成為樂壇新人王。2009年更空降首奪「叱咤樂壇組合金獎」以及「勁歌金曲組合金獎」。2010年再憑《SimpleLoveSong》首奪「叱咤樂壇至尊歌曲大獎」，同年，成員[琴手藝琛宣佈離隊](https://zh.wikipedia.org/wiki/琴手 "wikilink")。2012年憑專輯《[Easy](../Page/Easy.md "wikilink")》首奪「叱咤樂壇至尊唱片大獎」。2013年2月轉投[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。2018年推出歌曲《[未來見](../Page/未來見.md "wikilink")》獲得極高評價而備受關注。2019年更憑電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》演唱歌曲《逆流之歌》獲頒兩項[香港電影金像獎](../Page/香港電影金像獎.md "wikilink")的歌曲獎項。
+**RubberBand**，[香港](../Page/香港.md "wikilink")著名樂隊，於2005年成立，成員包括[主音](../Page/主音.md "wikilink")[6號](../Page/繆浩昌.md "wikilink")、[結他手兼隊長阿正](https://zh.wikipedia.org/wiki/結他手 "wikilink")、[低音結他手阿偉以及](https://zh.wikipedia.org/wiki/低音結他手 "wikilink")[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[泥鯭](../Page/黎萬宏.md "wikilink")。2007年與唱片公司[金牌大風](../Page/金牌大風.md "wikilink")簽約，2008年正式出道成為樂壇新力軍，便旋即獲頒[商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")「叱咤樂壇生力軍組合金獎」，成為樂壇新人王。2009年更空降首奪「叱咤樂壇組合金獎」以及「勁歌金曲組合金獎」。2010年再憑《SimpleLoveSong》首奪「叱咤樂壇至尊歌曲大獎」，同年，成員[琴手藝琛宣佈離隊](https://zh.wikipedia.org/wiki/琴手 "wikilink")。2012年憑專輯《[Easy](../Page/Easy.md "wikilink")》首奪「叱咤樂壇至尊唱片大獎」。2013年2月轉投[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。2018年推出歌曲《[未來見](../Page/未來見.md "wikilink")》獲得極高評價而備受關注。2019年更憑電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》演唱歌曲《逆流之歌》獲頒兩項[香港電影金像獎](../Page/香港電影金像獎.md "wikilink")的歌曲獎項。
 
 除了歌唱事業外，RubberBand的成員亦有涉足[參演及](../Page/演員.md "wikilink")[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")、[廣告](../Page/廣告.md "wikilink")及[廣播劇](../Page/廣播劇.md "wikilink")等，發展全面。
 
 ## 簡介
 
-[USCA2012_RubberBand.JPG](https://zh.wikipedia.org/wiki/File:USCA2012_RubberBand.JPG "fig:USCA2012_RubberBand.JPG") 樂隊成立前，五位成員都在不同的獨立樂隊玩音樂\[3\] 。主音6號（繆浩昌）在2002年畢業於[香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[新聞及傳播學系後](https://zh.wikipedia.org/wiki/新聞 "wikilink")，加入了[香港電台](../Page/香港電台.md "wikilink")電視部當助導\[4\]，直至2003年五位成員相遇後，於2004年RubberBand正式成立。而另兩位成員泥鯭（黎萬宏），樂隊鼓手畢業於[香港城市大學](../Page/香港城市大學.md "wikilink")[物理及材料科學系碩士](https://zh.wikipedia.org/wiki/物理及材料科學系 "wikilink")，結他手阿正畢業於美國波士頓的伯克利音樂學院 (Berklee College of Music)主修電影配樂。
+[USCA2012_RubberBand.JPG](https://zh.wikipedia.org/wiki/File:USCA2012_RubberBand.JPG "fig:USCA2012_RubberBand.JPG") 樂隊成立前，五位成員都在不同的獨立樂隊玩音樂\[3\] 。主音6號（繆浩昌）在2002年畢業於[香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[新聞及傳播學系後](https://zh.wikipedia.org/wiki/新聞 "wikilink")，加入了[香港電台](../Page/香港電台.md "wikilink")電視部當助導\[4\]，直至2004年五位成員相遇後，於2005年RubberBand正式成立。而另兩位成員泥鯭（黎萬宏），樂隊鼓手畢業於[香港城市大學](../Page/香港城市大學.md "wikilink")[物理及材料科學系碩士](https://zh.wikipedia.org/wiki/物理及材料科學系 "wikilink")，結他手阿正畢業於美國波士頓的伯克利音樂學院 (Berklee College of Music)主修電影配樂。
 
-2007年，他們拿著自己的作品，尋找唱片公司為他們出唱片。最終得到[雷頌德](../Page/雷頌德.md "wikilink")賞識，簽進[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")\[5\] （現稱金牌大風娛樂有限公司）。RubberBand在組團時已定下一個傳統：除了精選碟及EP外，悉數以字母順序來命名唱片。
+2006年，他們拿著自己的作品，尋找唱片公司為他們出唱片。最終得到[雷頌德](../Page/雷頌德.md "wikilink")賞識，簽進[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")\[5\] （現稱金牌大風娛樂有限公司）。RubberBand在組團時已定下一個傳統：除了精選碟及EP外，悉數以字母順序來命名唱片。
 
 2008年9月26日，RubberBand推出首張唱片《Apollo 18》，收錄《一早地下鐵》、《遊車河》、《小涼伴》及《Tears》等歌曲。RubberBand於[2008年度叱吒樂壇流行榜頒獎典禮獲得](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮 "wikilink")[叱吒樂壇生力軍組合金獎](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")。同時於頒獎禮上由商台DJ[林海峰擔任該獎項的頒獎嘉賓](https://zh.wikipedia.org/wiki/林海峰 "wikilink")，因為成員泥鯭的模樣與林海峰猶如孖生兄弟。之後兩人出現在EPS廣告，以及RubberBand與林海峰合作歌曲《夾硬泥》。
 
@@ -1515,6 +1515,8 @@ RubberBand於2009年12月1日至12月6日，舉行了為期一星期的[展覽](
 
   - [第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink") - 最佳原創電影歌曲《逆流之歌》
   - [第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink") - 最佳原創電影音樂《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》
+  - 第19屆CASH金帆音樂獎 - 最佳樂團演繹《未來見》
+  - [2019年度叱咤樂壇流行榜頒獎典禮](../Page/2019年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇我最喜愛的組合
 
 ## 參考文獻
 

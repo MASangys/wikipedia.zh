@@ -1,3 +1,6 @@
+> 本文内容由[Eschweiler–Clarke反应](https://zh.wikipedia.org/wiki/Eschweiler–Clarke反应)转换而来。
+
+
 **Eschweiler–Clarke反应**（Eschweiler-Clarke reaction），又称**Eschweiler–Clarke甲基化反应**
 
 [伯胺或](https://zh.wikipedia.org/wiki/伯胺 "wikilink")[仲胺用过量](https://zh.wikipedia.org/wiki/仲胺 "wikilink")[甲酸](../Page/甲酸.md "wikilink")和[甲醛](../Page/甲醛.md "wikilink")处理，得到*N*-[甲基化](../Page/甲基化.md "wikilink")产物。\[1\]\[2\]\[3\]\[4\]

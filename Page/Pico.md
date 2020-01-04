@@ -16,7 +16,7 @@ Pico是由华盛顿大学开发的免费软件，随着[pine电子邮件处理�
 [Category:文本编辑器](https://zh.wikipedia.org/wiki/Category:文本编辑器 "wikilink") [Category:Unix文本编辑器](https://zh.wikipedia.org/wiki/Category:Unix文本编辑器 "wikilink")
 
 1.  [PICO TUTORIAL](http://www.usd.edu/trio/tut/pico/)
-2.  [Editor choices for Unix](http://pangea.stanford.edu/computerinfo/unix/editing/editorchoices.html)
+2.
 3.
 4.  Linux教程（配光盘），萨瓦尔著，清华大学出版社，第41页
 5.

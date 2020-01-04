@@ -186,7 +186,7 @@ Scrum会议一共包含以下四种：
   - [Scrum精髓中文网站](http://www.essentialscrum.cn)
   - [Scrum中文交流社区](http://www.scrumcn.com)
   - [Scrum in five minutes](https://web.archive.org/web/20081125020122/http://www.softhouse.se/Uploades/Scrum_eng_webb.pdf)
-  - [Scrum Alliance](http://www.scrumalliance.org/)
+  - [Scrum Alliance](https://web.archive.org/web/20100901003453/http://www.scrumalliance.org/)
   - [Scrum.org](https://www.scrum.org/)
   - [Scrum and XP from the Trenches](https://web.archive.org/web/20080921225708/http://www.crisp.se/henrik.kniberg/ScrumAndXpFromTheTrenches.pdf)
   - [Scrum articles directory](https://web.archive.org/web/20080229013935/http://www.softdevarticles.com/modules/weblinks/viewcat.php?cid=46)

@@ -1,3 +1,6 @@
+> 本文内容由[AT-X](https://zh.wikipedia.org/wiki/AT-X)转换而来。
+
+
 **動畫劇場X**（，），簡稱**AT-X**，是[東京電視台](../Page/東京電視台.md "wikilink")的[子公司](../Page/子公司.md "wikilink")「株式会社AT-X」（AT-X, Inc.）營運的[動畫專業](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，開播於1997年12月24日，播出範圍為日本全國。
 
 AT-X以播放[无修正版本的动画而闻名](https://zh.wikipedia.org/wiki/无修正 "wikilink")，如《[魔力充电娘](https://zh.wikipedia.org/wiki/魔力充电娘 "wikilink")》、《[最后大魔王](https://zh.wikipedia.org/wiki/最后大魔王 "wikilink")》、《[惡魔高校D×D](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")》等。这些动画在[地面电视经常会因为过高的](https://zh.wikipedia.org/wiki/地面电视 "wikilink")[裸露度而被修正](../Page/殺必死.md "wikilink")（打[马赛克](../Page/馬賽克_\(影像處理\).md "wikilink")，或使用衣物、霧氣或白光等遮挡处理）后才可播放。

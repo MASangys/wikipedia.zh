@@ -17,7 +17,7 @@ Quake Live 是基于稍为更新[id Tech 3引擎的版本](https://zh.wikipedia.
 
 [QuakeLive.png](https://zh.wikipedia.org/wiki/File:QuakeLive.png "fig:QuakeLive.png") Quake Live游戏目标是让玩者在某一场对战里宰其它对手或者其他敌队以称王。这个目标可透过摸熟其关卡3D场景，并同时搜集医药包、武器、弹药、以及多种强化物品来给予对手最大伤害直到其生命值归零、或者在对手攻击下存活。
 
-Quake Live是作为[Quake III: Gold](https://zh.wikipedia.org/wiki/Quake_III_Arena "wikilink")（雷神之锤3及其资料片：团队竞技场）的网页免费版来发布的。\[5\]Quake Live 是由[IGA Worldwide](http://www.igaworldwide.com)在游戏里加入广告提供资金运作的。\[6\]根据技能来匹配玩者的工作则由[GaimTheory](http://www.gaimtheory.com/)开发的metagame引擎驱动；后来该匹配系统的开发在GaimTheory破产后由id Software接手。\[7\]
+Quake Live是作为[Quake III: Gold](https://zh.wikipedia.org/wiki/Quake_III_Arena "wikilink")（雷神之锤3及其资料片：团队竞技场）的网页免费版来发布的。\[5\]Quake Live 是由[IGA Worldwide](https://web.archive.org/web/20190416051819/http://www.igaworldwide.com/)在游戏里加入广告提供资金运作的。\[6\]根据技能来匹配玩者的工作则由[GaimTheory](http://www.gaimtheory.com/)开发的metagame引擎驱动；后来该匹配系统的开发在GaimTheory破产后由id Software接手。\[7\]
 
 ## 游戏模式
 
@@ -38,7 +38,7 @@ Quake Live是作为[Quake III: Gold](https://zh.wikipedia.org/wiki/Quake_III_Are
 
 2008年至2009年，Quake Live开始邀请封测。少數玩家被選擇參與封測，而每個封測玩家都被分配一些邀請名額。 2009年2月24日，遊戲進入了公測程序。由於伺服器流量過大，官方決定以排隊方式减轻服务器的压力以及防止过载。\[10\]在其发布后的6小时内，有113000多位玩家创建了账号。\[11\]其後官方停止了排隊方式並加強了伺服器以控制遊戲上大量的玩家。
 
-一旦Quake Live结束了封闭测试阶段，它的部分资金将来自于游戏内置和网站的广告。[IGA Worldwide](http://www.igaworldwide.com)与[id Software签订了合同](https://zh.wikipedia.org/wiki/id_Software "wikilink")，由其来处理这个游戏的市场营销方面。\[12\]这个模式立即面对着一个问题，广告公司宣布，它们正在因为[金融危机的影响而挣扎](https://zh.wikipedia.org/wiki/2007年－2010年环球金融危机 "wikilink")。 2009年3月，该机构承认，如果进一步的投资不到位，被收购是可能的。\[13\]随着[ZeniMax对](https://zh.wikipedia.org/wiki/ZeniMax "wikilink")[id Software的收购](https://zh.wikipedia.org/wiki/id_Software "wikilink")，游戏中内置广告和网页的广告现在明显变成了只有公司内部或[贝塞斯达软件公司的产品](https://zh.wikipedia.org/wiki/贝塞斯达软件公司 "wikilink")。
+一旦Quake Live结束了封闭测试阶段，它的部分资金将来自于游戏内置和网站的广告。[IGA Worldwide](https://web.archive.org/web/20190416051819/http://www.igaworldwide.com/)与[id Software签订了合同](https://zh.wikipedia.org/wiki/id_Software "wikilink")，由其来处理这个游戏的市场营销方面。\[12\]这个模式立即面对着一个问题，广告公司宣布，它们正在因为[金融危机的影响而挣扎](https://zh.wikipedia.org/wiki/2007年－2010年环球金融危机 "wikilink")。 2009年3月，该机构承认，如果进一步的投资不到位，被收购是可能的。\[13\]随着[ZeniMax对](https://zh.wikipedia.org/wiki/ZeniMax "wikilink")[id Software的收购](https://zh.wikipedia.org/wiki/id_Software "wikilink")，游戏中内置广告和网页的广告现在明显变成了只有公司内部或[贝塞斯达软件公司的产品](https://zh.wikipedia.org/wiki/贝塞斯达软件公司 "wikilink")。
 
 在[QuakeCon](https://zh.wikipedia.org/wiki/QuakeCon "wikilink") 2009中, [John Carmack公开表示](https://zh.wikipedia.org/wiki/John_Carmack "wikilink")，他们对游戏的金融计划已无法为前途渺茫的项目提供足够的收入支持。因此，他宣布正在计划着溢价认购服务。 ShackNews报道，他说：
 

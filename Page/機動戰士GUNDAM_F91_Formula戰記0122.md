@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM F91 Formula戰記0122](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_F91_Formula戰記0122)转换而来。
+
+
 《**機動戰士GUNDAMF91 Formula戰記0122**》（機動戦士ガンダムF91 フォーミュラー戦記0122）是[GUNDAM遊戲系列作品以遊戲形式在](../Page/GUNDAM系列作品.md "wikilink")[SFC推出](https://zh.wikipedia.org/wiki/Super_Family_Computer "wikilink")，在1991年7月6日發售。之後由[岩村俊哉在講談社連載漫畫版](https://zh.wikipedia.org/wiki/岩村俊哉 "wikilink")。
 
 ## 故事背景

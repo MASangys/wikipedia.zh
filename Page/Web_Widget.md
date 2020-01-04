@@ -1,3 +1,6 @@
+> 本文内容由[Web Widget](https://zh.wikipedia.org/wiki/Web_Widget)转换而来。
+
+
 **Web Widget**，中文可译作：**小部件**、**小工具**、**微件**、**挂件**等，是一小块可以在任意一个基于[HTML](../Page/HTML.md "wikilink")的[網頁](../Page/網頁.md "wikilink")上执行代码构成的小部件，它的表现形式可能是[视频](../Page/视频.md "wikilink")、[地图](../Page/地图.md "wikilink")、[新闻](../Page/新闻.md "wikilink")或[小游戏等等](https://zh.wikipedia.org/wiki/小游戏 "wikilink")。它的根本思想来源于[代码复用](../Page/代码复用.md "wikilink")，在一般的情况下，Widget的代码形式包含了[DHTML](https://zh.wikipedia.org/wiki/DHTML "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")及[Adobe Flash](https://zh.wikipedia.org/wiki/Flash "wikilink")。
 
 ## 概要

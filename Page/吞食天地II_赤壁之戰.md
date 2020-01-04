@@ -1,3 +1,6 @@
+> 本文内容由[吞食天地II 赤壁之戰](https://zh.wikipedia.org/wiki/吞食天地II_赤壁之戰)转换而来。
+
+
 {{ Infobox VG | title = 吞食天地II 赤壁之戰 | japanese = 天地を喰らうⅡ 赤壁の戦い | image = <File:Warriors> of Fate.png | caption = 标题画面 | developer = [卡普空](../Page/卡普空.md "wikilink") | released = 街机: 1992年11月
 PlayStation: 1996年3月22日
 Sega Saturn: 1996年9月6日

@@ -1,3 +1,6 @@
+> 本文内容由[Skyfire](https://zh.wikipedia.org/wiki/Skyfire)转换而来。
+
+
 **Skyfire**是一款執行於[Windows Mobile](../Page/Windows_Mobile.md "wikilink")、[Android](../Page/Android.md "wikilink")及[iOS平台上的手機](https://zh.wikipedia.org/wiki/iOS "wikilink")[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。
 
 ## 工作原理

@@ -1,3 +1,6 @@
+> 本文内容由[Berkeley套接字](https://zh.wikipedia.org/wiki/Berkeley套接字)转换而来。
+
+
 [InternetSocketBasicDiagram_zhtw.png](https://zh.wikipedia.org/wiki/File:InternetSocketBasicDiagram_zhtw.png "fig:InternetSocketBasicDiagram_zhtw.png") **伯克利套接字**（） ，又稱為**BSD 套接字**()是一種[应用程序接口](../Page/应用程序接口.md "wikilink")（API），用於[网络套接字](https://zh.wikipedia.org/wiki/网络套接字 "wikilink")（ socket）與[Unix域套接字](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")，包括了一个用[C语言写成的应用程序开发库](https://zh.wikipedia.org/wiki/C语言 "wikilink")，主要用于实现[进程间通讯](https://zh.wikipedia.org/wiki/进程间通讯 "wikilink")，在[计算机网络](../Page/计算机网络.md "wikilink")通讯方面被广泛使用。
 
 Berkeley套接字（也作BSD套接字应用程序接口）刚开始是4.2BSD Unix操作系统（于1983发布）的一套应用程序接口。然而，由于[AT\&T](../Page/AT&T.md "wikilink")的专利保护着[UNIX](https://zh.wikipedia.org/wiki/UNIX操作系统 "wikilink")，所以只有在1989年[伯克利大学才能自由地发布自己的](https://zh.wikipedia.org/wiki/伯克利大学 "wikilink")[操作系统](../Page/操作系统.md "wikilink")和网络库。

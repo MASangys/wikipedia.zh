@@ -7,14 +7,14 @@
 
 ## 成員
 
-全員將於2019年12月26日於團體畢業。
+全員將於2019年12月26日於團體畢業，[Country Girls活動休止](../Page/Country_Girls.md "wikilink")。
 
   - [山木梨沙](../Page/山木梨沙.md "wikilink")將從[早安家族](../Page/早安家族.md "wikilink")、Country Girls及其兼任的[College Cosmos中畢業](https://zh.wikipedia.org/wiki/College_Cosmos "wikilink")，並且引退藝能界。
   - [森戶知沙希](../Page/森戶知沙希.md "wikilink")從Country Girls畢業後，會以[早安少女組。](../Page/早安少女組。.md "wikilink")成員的身分繼續活動。
   - [小關舞將從早安家族及Country](https://zh.wikipedia.org/wiki/小關舞 "wikilink") Girls畢業，並且繼續活躍於藝能界。
   - [船木結](../Page/船木結.md "wikilink")從Country Girls畢業後，將於2020年3月從[ANGERME](../Page/ANGERME.md "wikilink")及早安家族畢業並暫停演藝活動。
 
-### 現任成員
+### 活動休止時的成員
 
 <table>
 <thead>

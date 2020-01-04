@@ -1,4 +1,7 @@
-**J·A·哈普**（James Anthony "J. A." Happ）出生於1982年10月19日，出生地為[伊利諾州的Spring](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink") Valley，現為[紐約洋基](../Page/紐約洋基.md "wikilink")的[先發投手](https://zh.wikipedia.org/wiki/先發投手 "wikilink")。
+> 本文内容由[J·A·哈普](https://zh.wikipedia.org/wiki/J·A·哈普)转换而来。
+
+
+**J·A·哈普**（James Anthony "J. A." Happ，），出生地為[伊利諾州的Spring](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink") Valley，現為[紐約洋基](../Page/紐約洋基.md "wikilink")的[先發投手](https://zh.wikipedia.org/wiki/先發投手 "wikilink")。
 
 ## 職業生涯
 
@@ -30,7 +33,7 @@
 ## 外部連結
 
   -
-[Category:1982年出生](https://zh.wikipedia.org/wiki/Category:1982年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:伊利諾州人](https://zh.wikipedia.org/wiki/Category:伊利諾州人 "wikilink") [Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink") [Category:費城費城人隊球員](https://zh.wikipedia.org/wiki/Category:費城費城人隊球員 "wikilink") [Category:休士頓太空人隊球員](https://zh.wikipedia.org/wiki/Category:休士頓太空人隊球員 "wikilink") [Category:多倫多藍鳥隊球員](https://zh.wikipedia.org/wiki/Category:多倫多藍鳥隊球員 "wikilink")
+[Category:伊利諾州人](https://zh.wikipedia.org/wiki/Category:伊利諾州人 "wikilink") [Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink") [Category:費城費城人隊球員](https://zh.wikipedia.org/wiki/Category:費城費城人隊球員 "wikilink") [Category:休士頓太空人隊球員](https://zh.wikipedia.org/wiki/Category:休士頓太空人隊球員 "wikilink") [Category:多倫多藍鳥隊球員](https://zh.wikipedia.org/wiki/Category:多倫多藍鳥隊球員 "wikilink")
 
 1.
 2.

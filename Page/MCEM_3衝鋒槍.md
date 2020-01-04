@@ -1,3 +1,6 @@
+> 本文内容由[MCEM 3衝鋒槍](https://zh.wikipedia.org/wiki/MCEM_3衝鋒槍)转换而来。
+
+
 **MCEM 3**（，意為：「實驗型卡賓槍3型」）是一款采用[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")的[英国製試驗型](https://zh.wikipedia.org/wiki/英国 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")。
 
 ## 設計

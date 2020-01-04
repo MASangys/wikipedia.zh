@@ -1,3 +1,6 @@
+> 本文内容由[OpenBVE](https://zh.wikipedia.org/wiki/OpenBVE)转换而来。
+
+
 **OpenBVE**是一个独立开发的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[列车模拟器](../Page/列车模拟器.md "wikilink")，OpenBVE的名称来源于 [BVE Trainsim](../Page/BVE_Trainsim.md "wikilink")，即“开放的 BVE”。支持車内外視角自由觀察、立體駕駛室等。OpenBVE 使用 [OpenGL](../Page/OpenGL.md "wikilink") 和 [OpenAL](../Page/OpenAL.md "wikilink")作為 [應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。本项目起源于作者的一个想法，应该有一个[跨平台並且](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[列车模拟器](../Page/列车模拟器.md "wikilink")，而且要比现存的所有此类软件都真实，並注重在駕駛室內驾驶。\[1\]此程式並沒有使用上的限制，发布最新二进制包，同时独立发布其最新[C\#源码](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")。
 
 開發者在2011年5月11日宣布當openBVE進入第二版本的階段，程式會重命名為**Train Simulation Framework**。同時，官方網站域名改為 [trainsimframework.org](http://trainsimframework.org/)，但是程式現時仍然保留openBVE的名稱。\[2\]
