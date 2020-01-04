@@ -15,7 +15,7 @@ WonderSwan系列主機在其生命週期中銷量共計約350萬部，於日本�
 
 [橫井軍平](../Page/橫井軍平.md "wikilink")是一名工程設計師，以主導設計任天堂的[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")[Game Boy聞名](../Page/Game_Boy.md "wikilink")。在[Virtual Boy失敗後](../Page/Virtual_Boy.md "wikilink")，橫井於1996年離開任天堂，自創公司[Koto Laboratory](https://zh.wikipedia.org/wiki/Koto_Laboratory "wikilink")。萬代在此時與他聯繫，請他協助設計一部掌上遊戲機與Game Boy競爭\[4\]。橫井參與了新主機的研發過程，但卻於1997年因車禍逝世，無緣見到WonderSwan正式推出\[5\]。
 
-1998年10月8日，WonderSwan相關資訊於東京首次公開\[6\]。萬代希望藉由「」之名凸顯主機兼具設計美學和性能，即是因為「」（天鵝）普遍被認為是優雅的鳥類，而強勁有力的雙腿則在水面下划動輔助游泳；萬代並承諾WonderSwan將擁有約30小時的電池續航力、合理的售價，以及約50款首發遊戲\[7\]\[8\]。
+1998年10月8日，WonderSwan相關資訊於[東京首次公開](../Page/東京都.md "wikilink")\[6\]。萬代希望藉由「」之名凸顯主機兼具設計美學和性能，即是因為「」（天鵝）普遍被認為是優雅的鳥類，而強勁有力的雙腿則在水面下划動輔助游泳；萬代並承諾WonderSwan將擁有約30小時的電池續航力、合理的售價，以及約50款首發遊戲\[7\]\[8\]。
 
 ### 發售及競爭
 
@@ -49,7 +49,7 @@ WonderSwan的遊戲陣容並不能算是充足。儘管有一些第三方電子�
 
 WonderSwan系列主機在其生命週期內銷量共計約350萬部，於日本掌上遊戲機市場市佔率最高達8%，不過最終仍不敵任天堂的Game Boy Advance\[73\]\[74\]\[75\]。Game Boy Advance之後藉其鮮豔的彩色螢幕和堅實的遊戲陣容持續壟斷日本掌上遊戲機市場，直到[索尼](../Page/索尼.md "wikilink")於2004年推出[PlayStation Portable為止](../Page/PlayStation_Portable.md "wikilink")\[76\]。
 
-輿論多給予WonderSwan正面評價，不過同時也認為WonderSwan較為小眾，僅對部分市場有較大吸引力。傑里米·佩瑞許（）在為USgamer（[Eurogamer](../Page/Eurogamer.md "wikilink")支部）撰寫的報導中將WonderSwan評價為橫井軍平設計哲學的終極體現，同時指出主機對市場的影響不大，惟將主機的失敗歸因於萬代，稱：「儘管WonderSwan最終將只被視為掌上遊戲機史中一次局部的波瀾，不過其已真正擁有做為電子遊戲平臺的地位⋯⋯主機的隱沒更多應歸因於進入市場的時機不當，以及萬代本身異常溫和的行銷策略，而非硬體本身的缺陷所致。」佩瑞許並對WonderSwan系列主機未進入北美地區市場的原因進行了推測：「基於當時[NEO-GEO Pocket相關商品在美國零售通路中有多難找](https://zh.wikipedia.org/wiki/NEO-GEO_Pocket "wikilink")，很難想像消費者會想要另一臺定位尷尬的日本主機。」\[77\][Kotaku](../Page/Kotaku.md "wikilink")的路克·普朗克特（）讚譽了WonderSwan對任天堂的挑戰：「她（WonderSwan）擁有些非常獨特而有趣的事物，並打出了比其他多數掌上遊戲機都要精彩的一役。」\[78\]《》的金·魏爾德（）則批評了WonderSwan缺乏耳機孔和[AC](../Page/交流電.md "wikilink")[變壓器插槽](https://zh.wikipedia.org/wiki/變壓器 "wikilink")，以及按鈕配置對左撇子玩家不友善、在連接耳機轉接器的狀態下無法藉傳輸線進行多人對戰等缺點，不過也讚譽了WonderSwan：「在受到強力競爭的情況下，（萬代）以WonderSwan達成的事情是非常優秀的。主機低廉的售價使其即使是在今天仍然值得作為購買選項考慮。」\[79\]
+輿論多給予WonderSwan正面評價，不過同時也認為WonderSwan較為小眾，僅對部分市場有較大吸引力。傑里米·佩瑞許（）在為USgamer（[Eurogamer](../Page/Eurogamer.md "wikilink")支部）撰寫的報導中將WonderSwan評價為橫井軍平設計哲學的終極體現，同時指出主機對市場的影響不大，惟將主機的失敗歸因於萬代，稱：「儘管WonderSwan最終將只被視為掌上遊戲機史中一次局部的波瀾，不過其已真正擁有做為電子遊戲平臺的地位⋯⋯主機的隱沒更多應歸因於進入市場的時機不當，以及萬代本身異常溫和的行銷策略，而非硬體本身的缺陷所致。」佩瑞許並對WonderSwan系列主機未進入北美地區市場的原因進行了推測：「基於當時[NEOGEO Pocket相關商品在美國零售通路中有多難找](https://zh.wikipedia.org/wiki/NEOGEO_Pocket "wikilink")，很難想像消費者會想要另一臺定位尷尬的日本主機。」\[77\][Kotaku](../Page/Kotaku.md "wikilink")的路克·普朗克特（）讚譽了WonderSwan對任天堂的挑戰：「她（WonderSwan）擁有些非常獨特而有趣的事物，並打出了比其他多數掌上遊戲機都要精彩的一役。」\[78\]《》的金·魏爾德（）則批評了WonderSwan缺乏耳機孔和[AC](../Page/交流電.md "wikilink")[變壓器插槽](https://zh.wikipedia.org/wiki/變壓器 "wikilink")，以及按鈕配置對左撇子玩家不友善、在連接耳機轉接器的狀態下無法藉傳輸線進行多人對戰等缺點，不過也讚譽了WonderSwan：「在受到強力競爭的情況下，（萬代）以WonderSwan達成的事情是非常優秀的。主機低廉的售價使其即使是在今天仍然值得作為購買選項考慮。」\[79\]
 
 ## 參見
 

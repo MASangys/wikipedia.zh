@@ -28,7 +28,7 @@ Envy系列总共有五款控制器。諷刺的是，自從[SoundStorm不再成�
 
   - [VIA: Vinyl Envy24PT PCI 音效控制器](http://www.via.com.tw/en/products/audio/controllers/envy24pt/)
   - [VIA Envy 24 驅動](http://www.viaarena.com/default.aspx?PageID=5&ArticleID=405)
-  - [M-Audio's Revolution 7.1 音效卡](http://www.tech-report.com/reviews/2003q2/maudio-rev/index.x?pg=1)
+  - [M-Audio's Revolution 7.1 音效卡](https://web.archive.org/web/20050124085221/http://www.tech-report.com/reviews/2003q2/maudio-rev/index.x?pg=1)
   - [M-Audio Revolution 7.1](https://web.archive.org/web/20060903173128/http://www.digit-life.com/articles2/m-audio-revolution71/)
 
 [Category:威盛電子](https://zh.wikipedia.org/wiki/Category:威盛電子 "wikilink")

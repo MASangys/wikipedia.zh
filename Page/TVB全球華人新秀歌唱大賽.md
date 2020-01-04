@@ -75,7 +75,7 @@
 <td style="text-align: center;"><p><a href="../Page/黎明.md" title="wikilink">黎明</a></p></td>
 <td style="text-align: center;"><p>最突出台風創新獎：文佩玲<br />
 五週年金咪大獎：文佩玲</p></td>
-<td style="text-align: center;"><p><a href="../Page/關淑怡.md" title="wikilink">關淑怡</a>、<a href="../Page/袁鳳瑛.md" title="wikilink">袁鳳瑛</a>、<a href="../Page/黃翊_(香港).md" title="wikilink">黃翊</a>、<a href="../Page/袁志偉_(歌手).md" title="wikilink">袁志偉</a>、<a href="../Page/林俊賢.md" title="wikilink">林俊賢</a>、尹麗玉、<a href="../Page/陳家碧.md" title="wikilink">陳家碧</a>、<a href="../Page/吳啟明.md" title="wikilink">吳啟明</a>、<a href="../Page/劉錫明.md" title="wikilink">劉錫明</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/關淑怡.md" title="wikilink">關淑怡</a>、<a href="../Page/袁鳳瑛.md" title="wikilink">袁鳳瑛</a>、<a href="../Page/黃翊_(香港).md" title="wikilink">黃翊</a>、<a href="../Page/袁志偉_(歌手).md" title="wikilink">袁志偉</a>、<a href="../Page/林俊賢.md" title="wikilink">林俊賢</a>、尹麗玉、<a href="../Page/陳家碧.md" title="wikilink">陳家碧</a>、<a href="../Page/吳啟明.md" title="wikilink">吳啟明</a>、<a href="../Page/劉錫明.md" title="wikilink">劉錫明</a>、游德康</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -2524,6 +2524,7 @@
 
   - [新秀歌唱大賽溫哥華選拔賽](../Page/新秀歌唱大賽溫哥華選拔賽.md "wikilink")
   - [马来西亚](../Page/马来西亚.md "wikilink")[Astro新秀大赛](../Page/Astro新秀大赛.md "wikilink")
+  - [第五屆新秀歌唱大賽](../Page/第五屆新秀歌唱大賽.md "wikilink")
 
 ## 參考來源
 

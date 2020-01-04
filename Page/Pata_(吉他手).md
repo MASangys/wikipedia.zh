@@ -131,7 +131,7 @@ PATA有一分鐘彈奏結他700至800下的超凡造詣，就連已故隊員[HID
   - 2006年8月24日: Ra:IN於台北市THE WALL舉行連續兩天（8月24日、25日）的現場表演及簽名會，
     並於當日開始發售第二張專輯「BEFORE THE SIREN」的台灣版。
   - 2006年8月25日: Ra:IN台北"THE WALL" Live第二天。
-    參與Ra:IN第二張專輯的鍵盤手[D.I.E.連續兩天的表演全程參加](https://zh.wikipedia.org/wiki/D.I.E. "wikilink")。另台灣歌手阿福兩天皆以特別來賓身份演唱一曲。
+    參與Ra:IN第二張專輯的鍵盤手[D.I.E.連續兩天的表演全程參加](https://zh.wikipedia.org/wiki/D.I.E. "wikilink")。另台灣歌手鄧廣福（阿福）兩天皆以特別來賓身份演唱一曲。
   - 2006年12月2日: 以個人身分於台北華山藝文特區參加簡單生活節演出。
   - 2007年5月19日: Ra:IN於橫濱7th Avenue演出，並宣佈長期合作的鍵盤手DIE（D.I.E）加入、成為Ra:IN的正式團員。
   - 2007年7月27日: Ra:IN「Summer of Love Tour 07」以"千葉LOOK"做為第一站，開始在日本國內展開夏季巡迴演出。

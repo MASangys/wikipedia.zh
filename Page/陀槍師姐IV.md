@@ -1,7 +1,7 @@
 > 本文内容由[陀槍師姐IV](https://zh.wikipedia.org/wiki/陀槍師姐IV)转换而来。
 
 
-《**陀槍師姐IV**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共40集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")、[魏駿傑](../Page/魏駿傑.md "wikilink")、[滕麗名](../Page/滕麗名.md "wikilink")、[林文龍](../Page/林文龍.md "wikilink")及[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")領銜主演，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](../Page/陀槍師姐.md "wikilink")》系列第4輯。
+《**陀槍師姐IV**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共40集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")、[滕麗名](../Page/滕麗名.md "wikilink")、[魏駿傑](../Page/魏駿傑.md "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")及[麥包領銜主演](../Page/麥長青.md "wikilink")，並由[夏雨](https://zh.wikipedia.org/wiki/夏雨 "wikilink")、[朱咪咪](../Page/朱咪咪.md "wikilink")、[張慧儀](../Page/張慧儀.md "wikilink")及[康華](../Page/康華.md "wikilink")聯合演出，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](../Page/陀槍師姐.md "wikilink")》系列第4輯。
 
 ## 演員表
 
@@ -1333,7 +1333,6 @@
 ## 外部連結
 
   - [無綫電視官方網頁 - 陀槍師姐IV](https://web.archive.org/web/20140407221053/http://tvcity.tvb.com/drama/armed4/story/index.html)
-  - [《陀槍師姐IV》 GOTV 第1集重溫](https://web.archive.org/web/20140222162310/http://gotv.tvb.com/programme/103220/153693/)
 
 ## 電視節目的變遷
 

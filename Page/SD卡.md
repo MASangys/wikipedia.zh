@@ -13,7 +13,7 @@
   - [個人數碼助理儲存各類資料](https://zh.wikipedia.org/wiki/個人數碼助理 "wikilink")
   - [手提電話儲存相片](https://zh.wikipedia.org/wiki/手提電話 "wikilink")、鈴聲、音樂、影片等資料
   - [多媒體播放器](https://zh.wikipedia.org/wiki/多媒體播放器 "wikilink")
-  - [掌上型遊樂器](https://zh.wikipedia.org/wiki/掌上型遊樂器 "wikilink")，如：[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")、[NDSL](https://zh.wikipedia.org/wiki/NDSL "wikilink")
+  - [掌上型遊樂器](https://zh.wikipedia.org/wiki/掌上型遊樂器 "wikilink")，如：[任天堂Switch Lite](../Page/任天堂Switch_Lite.md "wikilink")、[任天堂2DS](../Page/任天堂2DS.md "wikilink")、[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[任天堂DSi](../Page/任天堂DSi.md "wikilink")
 
 在2006年，SD卡容量有8/16/32/64/128/256/512[MB](https://zh.wikipedia.org/wiki/MB "wikilink")、1GB/2GB。超过2[GB容量的卡称为](https://zh.wikipedia.org/wiki/GB "wikilink")**[SDHC](../Page/SDHC.md "wikilink")**（注：也有4G的普通sd卡），是SD的升级版本。新一代[SD 2.0](https://zh.wikipedia.org/wiki/SD_2.0 "wikilink")（[SDHC](../Page/SDHC.md "wikilink")）、[SD 3.0](https://zh.wikipedia.org/wiki/SD_3.0 "wikilink")（[SDXC](../Page/SDXC.md "wikilink")）標準規範為SD卡的下一代標準，最大容量可高達2[TB](https://zh.wikipedia.org/wiki/TB "wikilink")。
 

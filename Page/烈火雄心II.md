@@ -450,7 +450,7 @@
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></strong></p></td>
 <td><p><strong>鍾茵怡</strong></p></td>
-<td><p><strong>Chris、白雪雪姐姐（紀瑤專稱）</strong><br />
+<td><p><strong>Chris、白雪雪姐姐/怡姐姐（紀瑤專稱）</strong><br />
 救護隊目，後為救護總隊目<br />
 鍾廣成之女<br />
 紀德田之女友<br />

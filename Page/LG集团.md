@@ -3,7 +3,7 @@
 
 **LG集团**（；），旧名**樂喜金星**（；，简称**樂金**、**LG**），是一家总部位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的跨国企业集团](https://zh.wikipedia.org/wiki/首尔 "wikilink")，主要经营范围包括[电子与](../Page/电子技术.md "wikilink")[通信技术](https://zh.wikipedia.org/wiki/通信技术 "wikilink")、[家电和](https://zh.wikipedia.org/wiki/家电 "wikilink")[化学三大领域](https://zh.wikipedia.org/wiki/化学 "wikilink")，旗下拥有81家集团企业，130家海外当地法人，员工213000人。
 
-LG集团成立于1947年1月5日，最初的名称是“乐喜化学工业社”（现）。1958年10月1日，LG成立“金星社”（现[LG电子](https://zh.wikipedia.org/wiki/LG电子 "wikilink")），之后被称为“乐喜集团”。1982年1月1日，“乐喜集团”改名为“乐喜金星集团”，以涵括其不断成长扩大的电子电器部门。1995年1月，LG集团正式采用目前“LG”这个名称。LG这两个字母是“乐喜金星集团”英文名称“Lucky Goldstar Group”中“Lucky”和“Goldstar”的首字母。
+LG集团成立于1947年1月5日，最初的名称是“乐喜化学工业社”（现[LG化学](../Page/LG化学.md "wikilink")）。1958年10月1日，LG成立“金星社”（现[LG电子](https://zh.wikipedia.org/wiki/LG电子 "wikilink")），之后被称为“乐喜集团”。1982年1月1日，“乐喜集团”改名为“乐喜金星集团”，以涵括其不断成长扩大的电子电器部门。1995年1月，LG集团正式采用目前“LG”这个名称。LG这两个字母是“乐喜金星集团”英文名称“Lucky Goldstar Group”中“Lucky”和“Goldstar”的首字母。
 
 LG集团是韩国企业发展史中诸多“第一”的创作者，包括：创立韩国首家化学工业社“乐喜化学工业社”，并推出首个[化妆品品牌](https://zh.wikipedia.org/wiki/化妆品 "wikilink")“乐喜雪花膏”；最早进入塑料产业领域；创立韩国首家电子工业社“金星社”；生产出韩国的首部[收音机](../Page/收音机.md "wikilink")、[电冰箱](https://zh.wikipedia.org/wiki/电冰箱 "wikilink")、[电视机](../Page/电视机.md "wikilink")、[洗衣机等家电产品](https://zh.wikipedia.org/wiki/洗衣机 "wikilink")；最早面向社会招聘优秀大学毕业生；在韩国财阀中最早实行企业公开；在[韩国财阀](../Page/韩国财阀.md "wikilink")中最早使用英文名字；最早采用控股公司体制等。
 
@@ -11,7 +11,7 @@ LG集团是韩国企业发展史中诸多“第一”的创作者，包括：创
 
 ### 初创期
 
-1947年1月5日，LG集团创始人[具仁会和他的弟弟具哲会以及他的岳父许氏家族人员成立](https://zh.wikipedia.org/wiki/具仁会 "wikilink")“乐喜化学工业社”（现）。战后的韩国，生活日用品奇缺，进口化妆品充斥着市场。乐喜化学推出的韩国首款国产[化妆品](https://zh.wikipedia.org/wiki/化妆品 "wikilink")“乐喜雪花膏”，得到消费者的青睐。仅三四年的时间，乐喜雪花膏就使乐喜化学获利3亿韩圆。通过垄断香脂原料，乐喜在化妆品生产和销售领域站稳了脚跟。乐喜把“制造国民生活必需品”定为企业的宗旨。为研制不宜破碎的化妆品容器，乐喜化学在韩国率先进入[塑料](../Page/塑料.md "wikilink")生产领域，并先后生产出[梳子](https://zh.wikipedia.org/wiki/梳子 "wikilink")、[香皂盒](https://zh.wikipedia.org/wiki/香皂盒 "wikilink")、[牙刷](../Page/牙刷.md "wikilink")、[餐具等大量与国民生活息息相关的塑料产品](https://zh.wikipedia.org/wiki/餐具 "wikilink")。1954年，乐喜凭借自主技术成功开发出韩国最早的[牙膏](https://zh.wikipedia.org/wiki/牙膏 "wikilink")，并迅速战胜美国的[高露洁占领韩国国内市场](https://zh.wikipedia.org/wiki/高露洁 "wikilink")。1959年，乐喜成立了“乐喜油脂”，开始生产[香皂和](https://zh.wikipedia.org/wiki/香皂 "wikilink")[甘油](../Page/甘油.md "wikilink")。
+1947年1月5日，LG集团创始人[具仁会和他的弟弟具哲会以及他的內堂弟许凖九成立](https://zh.wikipedia.org/wiki/具仁会 "wikilink")“乐喜化学工业社”（现[LG化学](../Page/LG化学.md "wikilink")）。战后的韩国，生活日用品奇缺，进口化妆品充斥着市场。乐喜化学推出的韩国首款国产[化妆品](https://zh.wikipedia.org/wiki/化妆品 "wikilink")“乐喜雪花膏”，得到消费者的青睐。仅三四年的时间，乐喜雪花膏就使乐喜化学获利3亿韩圆。通过垄断香脂原料，乐喜在化妆品生产和销售领域站稳了脚跟。乐喜把“制造国民生活必需品”定为企业的宗旨。为研制不宜破碎的化妆品容器，乐喜化学在韩国率先进入[塑料](../Page/塑料.md "wikilink")生产领域，并先后生产出[梳子](https://zh.wikipedia.org/wiki/梳子 "wikilink")、[香皂盒](https://zh.wikipedia.org/wiki/香皂盒 "wikilink")、[牙刷](../Page/牙刷.md "wikilink")、[餐具等大量与国民生活息息相关的塑料产品](https://zh.wikipedia.org/wiki/餐具 "wikilink")。1954年，乐喜凭借自主技术成功开发出韩国最早的[牙膏](https://zh.wikipedia.org/wiki/牙膏 "wikilink")，并迅速战胜美国的[高露洁占领韩国国内市场](https://zh.wikipedia.org/wiki/高露洁 "wikilink")。1959年，乐喜成立了“乐喜油脂”，开始生产[香皂和](https://zh.wikipedia.org/wiki/香皂 "wikilink")[甘油](../Page/甘油.md "wikilink")。
 
 1958年10月1日，乐喜成立韩国最早的电子工业会社“金星社”（现[LG电子](https://zh.wikipedia.org/wiki/LG电子 "wikilink")），开启韩国电子工业的新纪元。通过从[联邦德国收集收音机元件](https://zh.wikipedia.org/wiki/联邦德国 "wikilink")，聘请德国技术人员来韩现场指导，金星社仅用10个月的时间生产出韩国首台[收音机](../Page/收音机.md "wikilink")。续收音机后，金星社又于1960年、1964年、1966年、1968年、1969年在韩国率先生产出[电风扇](https://zh.wikipedia.org/wiki/电风扇 "wikilink")、[冰箱](../Page/冰箱.md "wikilink")、[黑白电视机](https://zh.wikipedia.org/wiki/黑白电视机 "wikilink")、[空调](https://zh.wikipedia.org/wiki/空调 "wikilink")、[洗衣机等产品](https://zh.wikipedia.org/wiki/洗衣机 "wikilink")。在当时提倡使用国货的浪潮下，金星社的产品销售旺盛，独占韩国家电产业的利润，被誉为“家用电子之王”，直至1960年代末，[三星进入家电部门与其展开激烈的竞争](https://zh.wikipedia.org/wiki/三星集团 "wikilink")。
 
@@ -73,7 +73,7 @@ LG集团下属有81家集团企业，经营范围包括电子与信息通信、�
 </ul>
 <h3 id="化学">化学</h3>
 <ul>
-<li></li>
+<li><a href="../Page/LG化学.md" title="wikilink">LG化学</a></li>
 <li></li>
 <li></li>
 </ul>

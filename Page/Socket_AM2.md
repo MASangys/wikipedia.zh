@@ -36,4 +36,4 @@ Socket AM3及Socket AM2+處理器可用於Socket AM2底板，只是[系統匯流
 
 [Category:CPU插座](https://zh.wikipedia.org/wiki/Category:CPU插座 "wikilink")
 
-1.  <http://www.gigabyte.tw/Products/Motherboard/Products_List.aspx?VenderType=AMD&CPUType=socket+am2>
+1.

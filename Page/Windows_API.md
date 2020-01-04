@@ -7,15 +7,15 @@ Windows有一个[软件开发套件](https://zh.wikipedia.org/wiki/Windows_SDK "
 
 ## 歷史
 
-Windows API總會為程式設計師提供大量的構建不同 Windows 的底層結構，這有助於為 Windows 程式設計師開發應用程序提供大量的靈活性和功能。但是，它同樣使 Windows 应用程式要負責處理大量底層且有時是繁瑣的與[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI）相關的操作。
-
-[Charles Petzold](https://zh.wikipedia.org/wiki/Charles_Petzold "wikilink")——許多有關Windows API的暢銷書的作者，曾經說過：\[1\]
+Windows API總會為程式設計師提供大量的構建不同 Windows的底層結構，這有助於為 Windows 程式設計師開發應用程序提供大量的靈活性和功能。但是，它同樣使Windows应用程式要負責處理大量底層且有時是繁瑣的與[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI）相關的操作。
 
 常用的例子程式[Hello world程式](https://zh.wikipedia.org/wiki/Hello_world程式 "wikilink")，通常是用來示範一個系統上最簡單的程序（即在螢幕上印出一行"Hello World"）。
 
-這些年來，Windows 作業系統已經今非昔比，而Windows API也隨之改變和成長並反映出這種變化。Windows API的[Windows 1.0版本只提供不到](../Page/Windows_1.0.md "wikilink")450個[函數調用](https://zh.wikipedia.org/wiki/函數調用 "wikilink")（Subroutine），而現在的版本提供上千個。然而，整體而言，Windows接口保持了相當好的一致性，古老的Windows 1.0程序對習慣於現在版本Windows API的程式設計師也並不陌生。\[2\]
+許多有關Windows API的暢銷書的作者查尔斯·佩佐德（Charles Petzold）曾經說過：\[1\]
 
-[微软](../Page/微软.md "wikilink")特别強調維持軟件的[向後兼容性](https://zh.wikipedia.org/wiki/向後兼容性 "wikilink")。為了實現此一目標，有時微軟甚至不惜支持使用了非官方乃至（編程上）非法的API的軟件。[Raymond Chen](https://zh.wikipedia.org/wiki/Raymond_Chen "wikilink")，一位致力於Windows API的Windows開發者，曾提及他：\[3\]
+這些年來，Windows作業系統已經今非昔比，而Windows API也隨之改變和成長並反映出這種變化。Windows API的[Windows 1.0版本只提供不到](../Page/Windows_1.0.md "wikilink")450個[函數調用](https://zh.wikipedia.org/wiki/函數調用 "wikilink")（Subroutine），而現在的版本提供上千個。然而，整體而言，Windows接口保持了相當好的一致性，古老的Windows 1.0程序對習慣於現在版本Windows API的程式設計師也並不陌生。\[2\]
+
+[微软](../Page/微软.md "wikilink")特别強調維持軟件的[向後兼容性](https://zh.wikipedia.org/wiki/向後兼容性 "wikilink")。為了實現此一目標，有時微軟甚至不惜支持使用了非官方乃至（編程上）非法的API的軟件。一位致力於Windows API的Windows開發者雷蒙德·陈（Raymond Chen）曾提及：\[3\]
 
 ## Windows API分类
 
@@ -122,7 +122,7 @@ API在[Visual Basic中的实现示例](../Page/Visual_Basic.md "wikilink")（这
   - [The Old New Thing](http://blogs.msdn.com/oldnewthing/) Weblog by Microsoft developer [Raymond Chen](https://zh.wikipedia.org/wiki/Raymond_Chen "wikilink")，who works on the Windows API and posts extensively about it.
   - [Localization in Win32](http://www.lingobit.com/solutions/win32/index.html)
   - [pinvoke.net: the interop wiki\!](http://pinvoke.net) PINVOKE.NET attempts to address the difficulty of calling Win32 or other unmanaged APIs in managed code (languages such as C\# and VB .NET).
-  - [Windows API Notes](http://www.cppworld.com/dante/winapinotes/index.htm)
+  - [Windows API Notes](https://web.archive.org/web/20061105114306/http://www.cppworld.com/dante/winapinotes/index.htm)
   - [WinapiZone](http://www.winapizone.net) Free tutorials and extensions for Winapi
   - [Stromcode's Win32/C++ tutorial](http://www.stromcode.com/modules.php?name=Glowdot_Tutorials&op=view&tid=1) (formerly Glowdot) an extensive, 20-part tutorial.
   - [Catch22 Tutorials](https://web.archive.org/web/20061023224552/http://www.catch22.net/tuts/) Well documented Win32 API tutorials for developing small, nifty, and efficient programs in Windows.
@@ -132,8 +132,8 @@ API在[Visual Basic中的实现示例](../Page/Visual_Basic.md "wikilink")（这
 [Category:Windows_API](https://zh.wikipedia.org/wiki/Category:Windows_API "wikilink")
 
 1.  [Charles Petzold](https://zh.wikipedia.org/wiki/Charles_Petzold "wikilink") (December 2001). *Programming Microsoft Windows with C\#.* Microsoft Press. Beyond the Console, page 47.
-2.  [Charles Petzold](https://zh.wikipedia.org/wiki/Charles_Petzold "wikilink")（November 11, 1998）. *Programming Windows, Fifth Edition.* Microsoft Press. APIs and Memory Models, page 9.
-3.  [Raymond Chen](https://zh.wikipedia.org/wiki/Raymond_Chen "wikilink")（October 15, 2003）. *[What about BOZOSLIVEHERE and TABTHETEXTOUTFORWIMPS?](http://blogs.msdn.com/oldnewthing/archive/2003/10/15/55296.aspx)* Retrieved August 27, 2005.
+2.  Charles Petzold（November 11, 1998）. *Programming Windows, Fifth Edition.* Microsoft Press. APIs and Memory Models, page 9.
+3.  Raymond Chen（October 15, 2003）. *[What about BOZOSLIVEHERE and TABTHETEXTOUTFORWIMPS?](http://blogs.msdn.com/oldnewthing/archive/2003/10/15/55296.aspx)* Retrieved August 27, 2005.
 4.  [Microsoft Developer Network](https://zh.wikipedia.org/wiki/Microsoft_Developer_Network "wikilink")（July 2005）. *[Overview of the Windows API.](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winprog/winprog/overview_of_the_windows_api.asp)* Retrieved August 28, 2005.
 5.  [Microsoft Developer Network](https://zh.wikipedia.org/wiki/Microsoft_Developer_Network "wikilink")（July 2005）. *[Base Services.](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winprog/winprog/base_services.asp)* Retrieved August 28, 2005.
 6.  [Microsoft Developer Network](https://zh.wikipedia.org/wiki/Microsoft_Developer_Network "wikilink")（July 2005）. *[Graphics Device Interface.](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winprog/winprog/graphics_device_interface.asp)* Retrieved August 28, 2005.

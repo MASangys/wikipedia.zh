@@ -318,6 +318,12 @@
 （）</p></td>
 <td><p>製作：<a href="../Page/MAPPA.md" title="wikilink">MAPPA</a>、Lapin Track</p></td>
 </tr>
+<tr class="even">
+<td><p>2020年10月－</p></td>
+<td><p><a href="../Page/約定的夢幻島.md" title="wikilink">約定的夢幻島</a>（第2期）<br />
+（）</p></td>
+<td><p>製作：<a href="../Page/CloverWorks.md" title="wikilink">CloverWorks</a></p></td>
+</tr>
 </tbody>
 </table>
 

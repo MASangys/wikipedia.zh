@@ -69,6 +69,7 @@
   - 《[荳荳快樂學堂](https://zh.wikipedia.org/wiki/荳荳快樂學堂 "wikilink")》
   - 《[健康好生活](../Page/健康好生活.md "wikilink")》[陳凝觀](../Page/陳凝觀.md "wikilink")
   - 《[MUCH金點秀](../Page/MUCH金點秀.md "wikilink")》[張秀卿](../Page/張秀卿.md "wikilink")、[邵大倫](https://zh.wikipedia.org/wiki/邵大倫 "wikilink")
+  - 《[聽媽媽的話(電視)](https://zh.wikipedia.org/wiki/聽媽媽的話\(電視\) "wikilink")》[小禎](https://zh.wikipedia.org/wiki/小禎 "wikilink")
 
 ### 戲劇
 
@@ -76,7 +77,7 @@
 
 <!-- end list -->
 
-  - 《我的二哥二嫂》
+  - 《[假如生活欺騙了你](https://zh.wikipedia.org/wiki/假如生活欺騙了你 "wikilink")》
 
 ## 參考資料
 

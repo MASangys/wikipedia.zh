@@ -163,7 +163,7 @@
   - [港澳 新幸福Online官方網站](https://web.archive.org/web/20140519171035/http://sg.gamecyber.net/main.html)
   - [日本 幸福官方網站](http://www.strugarden.info/)
   - [やるならやらねば　ヽ(｀Д´)ノ](https://web.archive.org/web/20080512014106/http://www.geocities.jp/okita0111/)
-  - [幸福-法恩(Fran)網站](http://tommyleu.myweb.hinet.net/SG/)
+  - [幸福-法恩(Fran)網站](https://web.archive.org/web/20080512115230/http://tommyleu.myweb.hinet.net/SG/)
   - [巴哈幸福 Online攻略百科](http://acg.gamer.com.tw/acgDetail.php?s=8077#guide)
 
 [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")

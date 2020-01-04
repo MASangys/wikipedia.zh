@@ -1,7 +1,7 @@
 > 本文内容由[K \(歌手\)](https://zh.wikipedia.org/wiki/K_\(歌手\))转换而来。
 
 
-**K**（，），原名**姜潤成**，出生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")。在[日韩国男](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")，居住于日本。表弟為韓國男子組合[SF9成員](https://zh.wikipedia.org/wiki/SF9 "wikilink")[仁誠](https://zh.wikipedia.org/wiki/仁誠 "wikilink")。
+**K**（，），原名**姜潤成**，出生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")。在[日韩国男](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")，居住于日本。表弟為韓國男子組合[SF9](../Page/SF9.md "wikilink")成員[仁誠](https://zh.wikipedia.org/wiki/仁誠 "wikilink")。
 
 ## 作品 
 

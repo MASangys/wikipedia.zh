@@ -121,9 +121,6 @@ De Beers Diamond Jewellers成立於2001年，由全球最大的精品集團LVMH�
       - [丝芙兰](../Page/丝芙兰.md "wikilink")（Sephora )
       - Maison Francis Kurkdjian
       - Fresh和Fenty Beauty by Rihanna（與流行天后[蕾哈娜](../Page/蕾哈娜.md "wikilink")聯手打造）
-
-<!-- end list -->
-
   - 鐘錶及珠寶
       - [寶格麗](../Page/寶格麗.md "wikilink")（Bulgari）：成立於1884年，
       - [豪雅錶](https://zh.wikipedia.org/wiki/豪雅錶 "wikilink")（TAG Heuer）：成立於1860年，主營鐘錶及計時器。
@@ -132,9 +129,7 @@ De Beers Diamond Jewellers成立於2001年，由全球最大的精品集團LVMH�
       - [迪奧](https://zh.wikipedia.org/wiki/迪奧 "wikilink")（Dior）：成立於1975年，主營腕錶及書寫用品。
       - [佛列德](https://zh.wikipedia.org/wiki/佛列德 "wikilink")（Fred）：成立於1936年，主營珠寶、頂級珠寶及腕錶。
       - [尚美巴黎](https://zh.wikipedia.org/wiki/尚美巴黎 "wikilink")（Chaumet）：成立於1780年，主營珠寶、頂級珠寶及腕表。
-
-<!-- end list -->
-
+      - [蒂芙尼公司](../Page/蒂芙尼公司.md "wikilink")（Tiffany & Co.）：成立於1837年，主營鐘錶和珠寶和銀飾。
   - 精品零售
       - [DFS Galleria](https://zh.wikipedia.org/wiki/DFS_Galleria "wikilink")：成立於1961年，主營免稅商品銷售。
       - [Miami Cruiseline Services](https://zh.wikipedia.org/wiki/Miami_Cruiseline_Services "wikilink")：成立於1963年，主營遊輪免稅商品銷售。
@@ -143,9 +138,6 @@ De Beers Diamond Jewellers成立於2001年，由全球最大的精品集團LVMH�
       - [玻瑪榭百貨](https://zh.wikipedia.org/wiki/玻瑪榭百貨 "wikilink")（Le Bon Marché）：成立於1852年，主營百貨商品、Franck & Fils商店、La Grande Epicerie de Paris。
       - [薩瑪利丹百貨](https://zh.wikipedia.org/wiki/薩瑪利丹百貨 "wikilink")（Samaritaine）：成立於1870年，主營百貨商品。
       - La Grande Epicerie de Paris：成立於1923年，高端美食超市
-
-<!-- end list -->
-
   - 其他領域
       - [Groupe Les Echos](https://zh.wikipedia.org/wiki/Groupe_Les_Echos "wikilink")：Les Echos、Investir、Classica、Radio Classique
       - [Royal Van Lent](https://zh.wikipedia.org/wiki/Royal_Van_Lent "wikilink")

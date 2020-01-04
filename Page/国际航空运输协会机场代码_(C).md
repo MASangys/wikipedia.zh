@@ -858,7 +858,7 @@
 <td><p>CEY</p></td>
 <td><p>KCEY</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/穆雷_(肯塔基州)" title="wikilink">穆雷</a>，<a href="../Page/肯塔基州.md" title="wikilink">肯塔基州</a></p></td>
+<td><p><a href="../Page/穆雷_(肯塔基州).md" title="wikilink">穆雷</a>，<a href="../Page/肯塔基州.md" title="wikilink">肯塔基州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

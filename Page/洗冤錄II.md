@@ -205,7 +205,7 @@
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/于洋_(香港藝人).md" title="wikilink">-{于}-　洋</a></p></td>
+<td><p><a href="../Page/于洋_(香港).md" title="wikilink">-{于}-　洋</a></p></td>
 <td><p>關萬福</p></td>
 <td><p>萬福樓老闆<br />
 關李氏、阮玉寶之夫<br />
@@ -537,7 +537,7 @@
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/于洋_(香港藝人).md" title="wikilink">-{于}-　洋</a></p></td>
+<td><p><a href="../Page/于洋_(香港).md" title="wikilink">-{于}-　洋</a></p></td>
 <td><p>關萬福</p></td>
 <td><p>萬福樓老闆<br />
 關李氏、阮玉寶之夫<br />

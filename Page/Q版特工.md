@@ -596,7 +596,7 @@
   - [Q版特工 Facebook專頁(由梁科慶官方書迷會管理)](http://www.facebook.com/forhing)
   - [Q版特工 維基](http://zh.ahwing.wikia.com)，一個記載與Q版特工有關的維基
 
-[Category:科幻小说](https://zh.wikipedia.org/wiki/Category:科幻小说 "wikilink") [Category:香港小說](https://zh.wikipedia.org/wiki/Category:香港小說 "wikilink") [Category:間諜題材作品](https://zh.wikipedia.org/wiki/Category:間諜題材作品 "wikilink") [Category:推理小說](https://zh.wikipedia.org/wiki/Category:推理小說 "wikilink")
+[Category:中国科幻小说](https://zh.wikipedia.org/wiki/Category:中国科幻小说 "wikilink") [Category:香港小說](https://zh.wikipedia.org/wiki/Category:香港小說 "wikilink") [Category:間諜題材作品](https://zh.wikipedia.org/wiki/Category:間諜題材作品 "wikilink") [Category:推理小說](https://zh.wikipedia.org/wiki/Category:推理小說 "wikilink")
 
 1.  [《The Q-Files》香港閱讀城 HK Reading City](http://www.hkreadingcity.net/library/book/index.phtml?isbn=9789628996025)
 2.

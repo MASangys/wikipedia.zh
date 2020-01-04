@@ -19,9 +19,9 @@ SIS651 和Intel 845G晶片組不支援
 
 ### Prescott-256
 
-  - 插座 [Socket 478与](../Page/Socket_478.md "wikilink")[LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink")，AGTL+ 133 MHz [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink") (QDR, FSB 533)
+  - 插座 [Socket 478与](../Page/Socket_478.md "wikilink")[LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink")，AGTL+ 133 MHz [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink")（QDR, FSB 533）
   - 指令集 [MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，部分产品支持[XD-Bit](https://zh.wikipedia.org/wiki/NX-Bit "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")。
-  - 核心电压 (VCore): 1.40 Volt
+  - 核心电压（VCore）1.40 Volt
   - 发布日期：2004-06-24
   - 制程：90 nm
   - 频率：2.13GHz 到 3.33GHz
@@ -46,9 +46,9 @@ SIS651 和Intel 845G晶片組不支援
 
 ### Cedar Mill-512
 
-  - 插座：[LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink")，133 MHz [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink") (QDR, FSB 533)。
+  - 插座：[LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink")，133 MHz [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink")（QDR, FSB 533）。
   - 指令集 [MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，支持[XD-Bit](https://zh.wikipedia.org/wiki/NX-Bit "wikilink")，[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")。
-  - 核心电压 (VCore): 1.3V
+  - 核心电压（VCore） 1.3V
   - 制程：65 nm
   - 频率：3.06GHz 到 3.6GHz
       -   - 347: 3.066 GHz

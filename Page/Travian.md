@@ -1,11 +1,11 @@
 > 本文内容由[Travian](https://zh.wikipedia.org/wiki/Travian)转换而来。
 
 
-《**Travian**》是一個在[瀏覽器內遊玩的免費](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[網路戰略遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，由[德國Travian遊戲公司所製作](https://zh.wikipedia.org/wiki/德國 "wikilink")。此遊戲並無統一的中文譯名，目前在中國大陸地區有譯为「**部落战争**」，而在香港地區則照樣叫作「Travian」。有部分港台玩家將之簡稱為「Tr」
+《**Travian**》是一個在[瀏覽器內遊玩的免費](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[網路戰略遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，由[德國Travian遊戲公司所製作](https://zh.wikipedia.org/wiki/德國 "wikilink")。此遊戲並無統一中文譯名，目前在中國大陸地區有譯为「**部落战争**」，而在香港地區則照樣叫作「Travian」。有部分港台玩家簡稱之為「Tr」。
 
 ## 遊戲玩法
 
-在《Travian》的遊戲世界中有數千至上萬名玩家。每個玩家一開始都只擁有一個小村莊，之後可以掠奪、戰爭、佔領、[外交](../Page/外交.md "wikilink")、權謀、諜戰、結盟等方式，讓自己的村莊勢力茁壯發達。遊戲的伺服器24小時中隨時都在運作，即便玩家登出後，村落仍會自動採集資源或完成登出前所指定的工程或任務，也代表著當自己登出期間村莊有可能受到其他玩家的攻擊。
+在《Travian》的遊戲世界中有數千至上萬名玩家。每個玩家一開始都只擁有一個小村莊，之後可以掠奪、戰爭、佔領、[外交](../Page/外交.md "wikilink")、權謀、諜戰、結盟等方式，讓自己的村莊勢力茁壯發達。遊戲的伺服器24小時中隨時都在運作，即使玩家登出後，村落仍會自動採集資源或完成登出前所指定的工程或任務，也代表著當自己登出期間村莊有可能受到其他玩家的攻擊。
 
 遊戲世界中有三個種族可供玩家選擇，分別是[羅馬](https://zh.wikipedia.org/wiki/羅馬 "wikilink")、[高盧和](https://zh.wikipedia.org/wiki/高盧 "wikilink")[條頓](https://zh.wikipedia.org/wiki/條頓 "wikilink")（[日耳曼](https://zh.wikipedia.org/wiki/日耳曼 "wikilink")），三個種族在其資源的運用、軍隊的能力和防守的數值各有特色。玩家在選定好種族後，便不得在遊戲中途改變自己的種族。除了前述的三個種族外，遊戲中尚有一個玩家不能選擇的未開發的種族─[賴達族](https://zh.wikipedia.org/wiki/賴達族 "wikilink")，會在伺服器完結前出現，並攻打玩家所建造的世界奇觀，某些不同的版本，賴達族甚至會自己建造世界奇觀。世界奇观代表着创造的骄傲。只有最强大最富有的玩家才能完成。
 

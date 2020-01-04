@@ -7,7 +7,7 @@
 
 2ch是在1999年時由西村博之在美國[阿肯色州](../Page/阿肯色州.md "wikilink")[康威市的](../Page/康威_\(阿肯色州\).md "wikilink")[中阿肯色大学](https://zh.wikipedia.org/wiki/中阿肯色大学 "wikilink")（）求學時所居住大學公寓中初創，\[4\]\[5\]2009年1月2日移交给PACKET MONSTER公司\[6\]其伺服器架設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。而今日該站上大部份的更新，則都是由2ch用戶自願參與的。2ch是巨大的[留言版群](https://zh.wikipedia.org/wiki/留言版 "wikilink")，細分成多個[分類](https://zh.wikipedia.org/wiki/分類 "wikilink")（category），每個分類內有多個[留言板](https://zh.wikipedia.org/wiki/留言板 "wikilink")，留言板內可自由開立討論串（（sure），取自英語thread），討論串則由回應（（resu），取自英語response）構成\[7\]。2ch的架構非常簡單，甚至較[telnet環境的](https://zh.wikipedia.org/wiki/telnet "wikilink")[BBS](../Page/BBS.md "wikilink")系統都要簡單不少。
 
-2ch網站本身的運作是非營利性的，在過去該站的主要收入來源是刊登包含[成人網站在內的](https://zh.wikipedia.org/wiki/成人網站 "wikilink")[交友網站廣告](https://zh.wikipedia.org/wiki/交友網站 "wikilink")，之後又出現[網路賭場的廣告刊登](https://zh.wikipedia.org/wiki/網路賭場 "wikilink")。除此之外，被稱為「●」（，「點」之意）的過去紀錄收費查閱系統，也帶給網站相當程度的資金捐注。\[8\]
+2ch網站本身的運作是非營利性的，在過去該站的主要收入來源是刊登包含[成人網站在內的](https://zh.wikipedia.org/wiki/成人網站 "wikilink")[交友網站廣告](https://zh.wikipedia.org/wiki/交友網站 "wikilink")，之後又出現[網路賭場的廣告刊登](https://zh.wikipedia.org/wiki/網路賭場 "wikilink")。除此之外，被稱為「●」（，「圓型」之意）的過去紀錄收費查閱系統，也帶給網站相當程度的資金捐注。\[8\]
 
 该网站在日本社會有著一定的影響力，其影響力与广播、電視及报刊等的傳統媒體不相上下\[9\]\[10\]\[11\]。截至2008年，2ch每年的收入達到1億[日圓](../Page/日圓.md "wikilink")\[12\]。它在Packet Monster公司的管理下合法經營，而Packet Monster公司則是一個位於[新加坡](../Page/新加坡.md "wikilink")[直落亚逸的公司](https://zh.wikipedia.org/wiki/直落亚逸 "wikilink")\[13\]\[14\]\[15\]。
 

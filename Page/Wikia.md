@@ -54,7 +54,7 @@ Wikia 亦會對提出撤出 Wikia 的用戶進行報復，通常會以撤銷其�
 
 {{-}}
 
-[Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink") [Category:Wikia](https://zh.wikipedia.org/wiki/Category:Wikia "wikilink") [Category:MediaWiki網站](https://zh.wikipedia.org/wiki/Category:MediaWiki網站 "wikilink") [Category:維基農場](https://zh.wikipedia.org/wiki/Category:維基農場 "wikilink") [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink") [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink")
+[Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink") [Category:Wikia](https://zh.wikipedia.org/wiki/Category:Wikia "wikilink") [Category:MediaWiki網站](https://zh.wikipedia.org/wiki/Category:MediaWiki網站 "wikilink") [Category:維基農場](https://zh.wikipedia.org/wiki/Category:維基農場 "wikilink") [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink") [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink") [Category:吉米·威尔士](https://zh.wikipedia.org/wiki/Category:吉米·威尔士 "wikilink")
 
 1.
 2.  [香港網絡大典\#香港網絡大典撤離Wikia討論](http://evchk.wikia.com/wiki/%E9%A6%99%E6%B8%AF%E7%B6%B2%E7%B5%A1%E5%A4%A7%E5%85%B8#.E9.A6.99.E6.B8.AF.E7.B6.B2.E7.B5.A1.E5.A4.A7.E5.85.B8.E6.92.A4.E9.9B.A2Wikia.E8.A8.8E.E8.AB.96)

@@ -5,7 +5,7 @@
 
 除了搜尋網頁外，Google亦提供搜尋圖像、[新聞組](https://zh.wikipedia.org/wiki/新聞組 "wikilink")、新聞網頁、地圖、影片的服務。2005年6月，Google已儲存超過80億個網頁，1億3千萬張圖片，以及超過1億的新聞組訊息 - 總計大概10億4千萬個項目。它也[缓存](../Page/缓存.md "wikilink")了编入索引中的绝大多数网页的内容。
 
-因为Google的名声，“Google”一个事物做动词表示的是“在Google上搜索”。它還有引申义“在互联网上搜索”，甚至“（在实际环境中）搜索”的意思。Google官方-{zh-hans:通过;zh-tw:透過;}-律师信强烈反对这种滥用他们公司名字的习惯，因为它可能會導致Google變成一個[通用商標名](https://zh.wikipedia.org/wiki/通用商標 "wikilink")。\[1\][Google](http://www.google.com)
+因为Google的名声，“Google”一个事物做动词表示的是“在Google上搜索”。它還有引申义“在互联网上搜索”，甚至“（在实际环境中）搜索”的意思。Google官方-{zh-hans:通过;zh-tw:透過;}-律师信强烈反对这种滥用他们公司名字的习惯，因为它可能會導致Google變成一個[通用商標名](https://zh.wikipedia.org/wiki/通用商標 "wikilink")。\[1\]
 
 ## 搜索引擎
 

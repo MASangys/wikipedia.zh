@@ -130,7 +130,7 @@
 [Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink") [Category:中原大學校友](https://zh.wikipedia.org/wiki/Category:中原大學校友 "wikilink") [Category:國立臺北藝術大學校友](https://zh.wikipedia.org/wiki/Category:國立臺北藝術大學校友 "wikilink") [Category:台南市人](https://zh.wikipedia.org/wiki/Category:台南市人 "wikilink") [Category:戴姓](https://zh.wikipedia.org/wiki/Category:戴姓 "wikilink") [Category:臺灣漫畫家](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家 "wikilink")
 
 1.
-2.  [夜貓館咖啡屋:VOFAN - 樂多日誌](http://blog.roodo.com/yamyoukan/archives/4948201.html)
+2.
 3.
 4.  [逗‧貓‧棒 » 關於夜貓和逗貓](http://yamyoukan.net/wordpress/%E9%97%9C%E6%96%BC%E5%A4%9C%E8%B2%93%E5%92%8C%E9%80%97%E8%B2%93/)
 5.

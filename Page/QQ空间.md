@@ -9,7 +9,7 @@
 
 QQ空间拥有说说、日志、分享、相册、视频、留言板、音乐盒、互动、个人档等功能。此外其应用中心有许多第三方应用接入其中，著名的应用有[QQ农场](https://zh.wikipedia.org/wiki/QQ农场 "wikilink")、[QQ牧场](https://zh.wikipedia.org/wiki/QQ牧场 "wikilink")、[QQ餐厅](https://zh.wikipedia.org/wiki/QQ餐厅 "wikilink")、[抢车位](https://zh.wikipedia.org/wiki/抢车位 "wikilink")、[洛克王国等](https://zh.wikipedia.org/wiki/洛克王国 "wikilink")\[2\]。
 
-QQ空间拥有装饰物品，如首页动画、皮肤、导航栏、漂浮物、花藤\[3\]等。但是多数装饰需使用[Q币付费](https://zh.wikipedia.org/wiki/Q币 "wikilink")，只有少数免费物品。同时亦有“[黄钻](https://zh.wikipedia.org/wiki/黄钻_\(QQ\) "wikilink")”付费业务，其拥有QQ空间装饰免费或折扣、大容量相册、个性[域名](../Page/域名.md "wikilink")申请等诸多特权。
+QQ空间拥有装饰物品，如首页动画、皮肤、导航栏、漂浮物、花藤\[3\]等。但是多数装饰需使用[Q币](../Page/Q币.md "wikilink")付费，只有少数免费物品。同时亦有“[黄钻](https://zh.wikipedia.org/wiki/黄钻_\(QQ\) "wikilink")”付费业务，其拥有QQ空间装饰免费或折扣、大容量相册、个性[域名](../Page/域名.md "wikilink")申请等诸多特权。
 
 QQ空间可由用戶提出關閉申請\[4\]。
 

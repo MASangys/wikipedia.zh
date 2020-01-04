@@ -44,8 +44,6 @@ SVK 使用 [Subversion](../Page/Subversion.md "wikilink") 的檔案系統，但�
   - [Perl.com article on SVK](http://www.perl.com/pub/a/2004/03/03/svk.html)
   - [SVK Tutorials](http://www.bieberlabs.com/wordpress/svk-tutorials)
 
-{{-}}
-
 [Category:自由版本控制软件](https://zh.wikipedia.org/wiki/Category:自由版本控制软件 "wikilink") [Category:Perl软件](https://zh.wikipedia.org/wiki/Category:Perl软件 "wikilink")
 
 1.   [Best Practical Solutions Announces SVK Acquisition](http://use.perl.org/~jesse/journal/29812)

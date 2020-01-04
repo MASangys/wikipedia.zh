@@ -47,7 +47,7 @@ XO醬除了可作為烹調食物的調味料，也可直接用作熟食和小吃
 1.  [名氣XO 醬大全！](http://www.ufood.com.hk/restaurant/news/feature/%E5%90%8D%E6%B0%A3XO+%E9%86%AC%E5%A4%A7%E5%85%A8%EF%BC%81)，U Food，2013-01-31
 2.  [經典 XO 醬做法](http://eladies.sina.com.hk/news/180/4/1/446720/1.html) ，新浪香港，2011-01-12
 3.
-4.  [異國廚師一致偏愛　香港名物XO醬](https://bkb.mpweekly.com/cu0003/20180829-81267)
+4.
 5.
 6.  [港式經典 XO醬](http://hd.stheadline.com/beauty/beauty_content.asp?contid=14983&srctype=g) ，頭條日報
 7.  [本地「烈女」XO醬 百元時薪聘婦女剝蒜頭 重新榮耀人的價值](https://www.hk01.com/01%E6%95%99%E7%85%AE/42325/%E6%9C%AC%E5%9C%B0-%E7%83%88%E5%A5%B3-XO%E9%86%AC-%E7%99%BE%E5%85%83%E6%99%82%E8%96%AA%E8%81%98%E5%A9%A6%E5%A5%B3%E5%89%9D%E8%92%9C%E9%A0%AD-%E9%87%8D%E6%96%B0%E6%A6%AE%E8%80%80%E4%BA%BA%E7%9A%84%E5%83%B9%E5%80%BC)，HK01，2016-09-11

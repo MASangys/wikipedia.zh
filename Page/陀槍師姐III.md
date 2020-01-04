@@ -1,7 +1,7 @@
 > 本文内容由[陀槍師姐III](https://zh.wikipedia.org/wiki/陀槍師姐III)转换而来。
 
 
-《**陀槍師姐III**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](https://zh.wikipedia.org/wiki/陀槍師姐_\(電視劇\) "wikilink")》系列第3輯。
+《**陀槍師姐III**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](../Page/陀槍師姐.md "wikilink")》系列第3輯。
 
 ## 演員表
 

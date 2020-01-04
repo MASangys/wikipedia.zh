@@ -73,7 +73,7 @@
 
 而河森在《Macross Plus》、《Macross 7》時則有解釋，指出各自是架空世界中依歷史創作作品，未必以史實為限\[8\]。年表可由當政者隨意詮釋\[9\]，虛構作品風格也不同，像《超時空要塞》是日常電視劇、《超時空要塞：愛，還記得嗎？》是舞台劇、《Macross Plus》是外片、《Macross 7》是漫画、《[Macross Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")》是神話想像、《[Macross F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")》是校園青春\[10\]。
 
-近年來更一改過去排除作法，於《Macross F》中玩起本作的[哏](https://zh.wikipedia.org/wiki/哏 "wikilink")（《Macross 7》雖有但是特典惡搞性質）；《Macross Ace》的「超時空歷史年表」\[11\]，以及「30週年Macross超時空展覽會」的「Macross History」已將《超時空要塞II》相關歷史整合納入。
+近年來更一改過去排除作法，於《Macross F》中玩起本作的[哏](../Page/哏.md "wikilink")（《Macross 7》雖有但是特典惡搞性質）；《Macross Ace》的「超時空歷史年表」\[11\]，以及「30週年Macross超時空展覽會」的「Macross History」已將《超時空要塞II》相關歷史整合納入。
 
 ## 註釋
 

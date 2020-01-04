@@ -68,6 +68,10 @@ PUMA赞助的[田径](../Page/田径.md "wikilink")选手中，最为人熟悉�
   - [防彈少年團](../Page/防彈少年團.md "wikilink")
   - [BLACKPINK](../Page/BLACKPINK.md "wikilink")
 
+### **台灣**
+
+  - [蔡依林](../Page/蔡依林.md "wikilink")
+
 ## 市場主要競爭對手
 
 彪馬的市場對手有[Adidas](https://zh.wikipedia.org/wiki/Adidas "wikilink")、[Asics](https://zh.wikipedia.org/wiki/Asics "wikilink")、[Mizuno](https://zh.wikipedia.org/wiki/Mizuno "wikilink")、[New Balance](https://zh.wikipedia.org/wiki/New_Balance "wikilink")、[NIKE](https://zh.wikipedia.org/wiki/NIKE "wikilink")、[Under Armour等](../Page/Under_Armour.md "wikilink")。

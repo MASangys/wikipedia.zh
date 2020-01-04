@@ -162,6 +162,11 @@
 <td><p>(無)</p></td>
 <td><p>Brain</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/大黃蜂_(DC漫畫).md" title="wikilink">大黃蜂</a></p></td>
+<td><p>凱倫·比徹</p></td>
+<td><p>Bumblebee</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -214,6 +219,14 @@
 <td><p>Captain Atom</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/豹女_(DC漫畫)" title="wikilink">豹女</a></p></td>
+<td><p>普里西拉·里奇<br />
+黛博拉·多曼<br />
+芭芭拉·安·米納娃<br />
+塞巴斯蒂安·巴列斯特羅斯</p></td>
+<td><p>Cheetah</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/泥面人.md" title="wikilink">泥面人</a></p></td>
 <td><p>巴索·卡羅<br />
 馬修·D.·哈根<br />
@@ -225,17 +238,17 @@
 強尼·威廉斯</p></td>
 <td><p>Clayface</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>鐘王</p></td>
 <td><p>威廉·托曼</p></td>
 <td><p>Clock King</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鋼骨_(漫畫).md" title="wikilink">鋼骨</a></p></td>
 <td><p>維克多·史東</p></td>
 <td><p>Cyborg</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/笑匠" title="wikilink">笑匠</a></p></td>
 <td><p>艾德華·布雷克</p></td>
 <td><p>Comedian</p></td>
@@ -453,15 +466,16 @@
 
 ## J
 
-| 中文译名                                                             | 真名         | 英文名              |
-| ---------------------------------------------------------------- | ---------- | ---------------- |
-| [詹姆斯·高登](https://zh.wikipedia.org/wiki/詹姆斯·高登_\(漫畫\) "wikilink") | 詹姆斯·高登     | James Gordon     |
-| [潔西·錢伯斯](../Page/潔西·錢伯斯.md "wikilink")                           | 潔西·錢伯斯     | Jesse Chambers   |
-| [吉米·奧爾森](https://zh.wikipedia.org/wiki/吉米·奧爾森 "wikilink")        | 吉米·奧爾森     | Jimmy Olsen      |
-| [小丑](https://zh.wikipedia.org/wiki/小丑_\(漫畫\) "wikilink")         | （不明）       | Joker            |
-| [約翰·康斯坦汀](../Page/約翰·康斯坦汀.md "wikilink")                         | 約翰·康斯坦汀    | John Constantine |
-| [約拿·海克斯](../Page/約拿·海克斯.md "wikilink")                           | 約拿·伍德森·海克斯 | Jonah Hex        |
-| [祖-艾爾](https://zh.wikipedia.org/wiki/祖-艾爾 "wikilink")            | 祖-艾爾       | Jor-El           |
+| 中文译名                                                             | 真名           | 英文名              |
+| ---------------------------------------------------------------- | ------------ | ---------------- |
+| [詹姆斯·高登](https://zh.wikipedia.org/wiki/詹姆斯·高登_\(漫畫\) "wikilink") | 詹姆斯·高登       | James Gordon     |
+| [潔西·錢伯斯](../Page/潔西·錢伯斯.md "wikilink")                           | 潔西·錢伯斯       | Jesse Chambers   |
+| [潔西卡·克魯茲](../Page/潔西卡·克魯茲.md "wikilink")                         | 潔西卡·薇薇安娜·克魯茲 | Jessica Cruz     |
+| [吉米·奧爾森](https://zh.wikipedia.org/wiki/吉米·奧爾森 "wikilink")        | 吉米·奧爾森       | Jimmy Olsen      |
+| [小丑](https://zh.wikipedia.org/wiki/小丑_\(漫畫\) "wikilink")         | （不明）         | Joker            |
+| [約翰·康斯坦汀](../Page/約翰·康斯坦汀.md "wikilink")                         | 約翰·康斯坦汀      | John Constantine |
+| [約拿·海克斯](../Page/約拿·海克斯.md "wikilink")                           | 約拿·伍德森·海克斯   | Jonah Hex        |
+| [祖-艾爾](https://zh.wikipedia.org/wiki/祖-艾爾 "wikilink")            | 祖-艾爾         | Jor-El           |
 
 ## K
 
@@ -523,6 +537,7 @@
 | 中文译名                                     | 真名                | 英文名        |
 | ---------------------------------------- | ----------------- | ---------- |
 | [雷克斯·路瑟](../Page/雷克斯·路瑟.md "wikilink")   | 亞歷山大·喬瑟夫·「雷克斯」·路瑟 | Lex Luthor |
+| [電女郎](../Page/電女郎.md "wikilink")         | 萊絲莉·威利斯           | Livewire   |
 | [暴狼](../Page/暴狼.md "wikilink")           |                   | Lobo       |
 | [露薏絲·蓮恩](../Page/露薏絲·蓮恩.md "wikilink")   | 露薏絲·蓮恩            | Lois Lane  |
 | [盧修斯·福克斯](../Page/盧修斯·福克斯.md "wikilink") | 盧修斯·福克斯           | Lucius Fox |

@@ -5,7 +5,7 @@
 
 ## 歷史
 
-在微軟開發第一代 Xbox 時，網絡遊戲被設定為 Xbox 戰略的主要支柱之一。雖然 [Sega](../Page/世嘉.md "wikilink") 曾在 1999 年推出的 [Dreamcast](../Page/Dreamcast.md "wikilink") 遊戲機中嘗試推出線上服務 ( 稱為 [SegaNet](https://zh.wikipedia.org/wiki/SegaNet "wikilink") 和 [Dreamarena](https://zh.wikipedia.org/wiki/Dreamarena "wikilink") )；然而由於 Dreamcast 只有附贈[撥號數據機](https://zh.wikipedia.org/wiki/撥號連線 "wikilink")，而後來發布的[寬頻](../Page/寬頻.md "wikilink")數據機也沒有得到廣泛的支持，因此也沒有得到廣泛應用。Dreamcast 的線上功能雖被譽為創新，但在很大程度上被認為是失敗的。Dreamcast 的競爭對手 [PlayStation 2](../Page/PlayStation_2.md "wikilink")，最初更沒有內置聯網功能。
+在微軟開發第一代 Xbox 時，網絡遊戲被設定為 Xbox 戰略的主要支柱之一。雖然[世嘉](../Page/世嘉.md "wikilink")曾在 1999 年推出的 [Dreamcast](../Page/Dreamcast.md "wikilink") 遊戲機中嘗試推出線上服務 ( 稱為 [SegaNet](https://zh.wikipedia.org/wiki/SegaNet "wikilink") 和 [Dreamarena](https://zh.wikipedia.org/wiki/Dreamarena "wikilink") )；然而由於 Dreamcast 只有附贈[撥號數據機](https://zh.wikipedia.org/wiki/撥號連線 "wikilink")，而後來發布的[寬頻](../Page/寬頻.md "wikilink")數據機也沒有得到廣泛的支持，因此也沒有得到廣泛應用。Dreamcast 的線上功能雖被譽為創新，但在很大程度上被認為是失敗的。Dreamcast 的競爭對手 [PlayStation 2](../Page/PlayStation_2.md "wikilink")，最初更沒有內置聯網功能。
 
 微軟希望 Xbox 不會重蹈 Dreamcast 的覆轍。微軟知道，激烈在線遊戲需要大量的寬頻網路流量與硬碟空間，因此滿足這些需求對即將推出的新平台是至關重要的。當時的微軟高層[史蒂夫·鮑爾默和](../Page/史蒂夫·巴爾默.md "wikilink")[比爾·蓋茨兩人有著長遠的眼光](../Page/比尔·盖茨.md "wikilink")，明瞭付費下載內容和附件，將吸引眾多新客戶。基於此，第一代 Xbox 擁有[以太網路端口](../Page/以太网.md "wikilink")（10/100）可連接至寬頻網路，但不支援撥號上網，其在線服務被設計為只支持寬頻用戶。
 

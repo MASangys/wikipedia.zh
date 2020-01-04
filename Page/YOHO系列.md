@@ -1,7 +1,7 @@
 > 本文内容由[YOHO系列](https://zh.wikipedia.org/wiki/YOHO系列)转换而来。
 
 
-[YOHO_Town_Phase_1_2011.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Town_Phase_1_2011.jpg "fig:YOHO_Town_Phase_1_2011.jpg") [YOHO_Town_Phase_1_Entrance_20150905.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Town_Phase_1_Entrance_20150905.jpg "fig:YOHO_Town_Phase_1_Entrance_20150905.jpg")，入口採用香港常見封閉式[物業管理](../Page/物業管理.md "wikilink")\]\] **YOHO**是由[香港](../Page/香港.md "wikilink")[新鴻基地產](../Page/新鴻基地產.md "wikilink")發展的一項重點地產項目，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[元朗區](../Page/元朗區.md "wikilink")[雞地](../Page/雞地.md "wikilink")元龍街8號，但其實該發展的地段包括元朗市地段503號餘段與及其增批地段。整個發展項目於2003年開始，分四期進行。
+[YOHO_Town_Phase_1_2011.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Town_Phase_1_2011.jpg "fig:YOHO_Town_Phase_1_2011.jpg") [YOHO_Town_Phase_1_Entrance_20150905.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Town_Phase_1_Entrance_20150905.jpg "fig:YOHO_Town_Phase_1_Entrance_20150905.jpg")，入口採用香港常見封閉式[物業管理](../Page/物業管理.md "wikilink")\]\] **YOHO系列**，是由[香港](../Page/香港.md "wikilink")[新鴻基地產](../Page/新鴻基地產.md "wikilink")發展的一項重點地產項目，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[元朗區](../Page/元朗區.md "wikilink")[雞地](../Page/雞地.md "wikilink")元龍街8號，但其實該發展的地段包括元朗市地段503號餘段與及其增批地段。整個發展項目於2003年開始，分四期進行。
 
 YOHO採用「綜合城市樞紐」概念， 融合住宅、交通、商場、醫療、教育、天橋系統、多項社區及商業設施於一身，完善區內配套，讓YOHO成為自給自足的大型綜合社區城市。
 

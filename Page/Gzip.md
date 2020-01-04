@@ -42,7 +42,7 @@ gzip的基础是[DEFLATE](../Page/DEFLATE.md "wikilink")，DEFLATE是[LZ77与](.
 
 gzip在[HTTP压缩](https://en.wikipedia.org/wiki/HTTP_compression)，一种在万维网中加速传输HTML和其他内容的技术。它是在 RFC 2016 中规定的三种标准HTTP压缩格式之一。这个RFC（征求意见稿）页定义了一种叫做"DEFLATE"的zlib格式，它和gzip格式相同，除了gzip添加了11字节头部和尾部的负载。但是，现在还是建议使用gzip而不是zlib，因为根据 RFC 1950, [IE](https://en.wikipedia.org/wiki/Internet_Explorer)还没有正确的实现该标准，还不能处理zlib格式。
 
-zlib DEFLATE 已经在 [Protable Network Graphics](https://en.wikipedia.org/wiki/Portable_Network_Graphics)（PNG）格式中使用。
+zlib DEFLATE 已经在 [Portable Network Graphics](https://en.wikipedia.org/wiki/Portable_Network_Graphics)（PNG）格式中使用。
 
 自20世纪90年代末期以来，一个基于数据块排序算法的文件压缩工具[bzip2作为gzip的替代者逐渐得到流行](https://zh.wikipedia.org/wiki/bzip2 "wikilink")，它可以生成相当小的压缩文件，尤其是对于源代码和其他结构化文本更是这样，但代价是最高达4倍的内存与处理器时间消耗。bzip2压缩的tar包传统上叫作`.tar.bz2`或`.tbz`。
 

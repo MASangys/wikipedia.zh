@@ -110,8 +110,7 @@
 
 ## 外部链接
 
-  - [Nexuiz官方网站](http://www.alientrap.org/nexuiz/)
-
+  -
   - [Nexuiz在sourceforge的页面，主下载点](http://sourceforge.net/projects/nexuiz/)
 
   - [Alientrap站点](http://www.alientrap.org/)

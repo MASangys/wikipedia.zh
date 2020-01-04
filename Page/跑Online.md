@@ -549,12 +549,13 @@
   - 2011年︰ [糖兄妹](../Page/糖兄妹.md "wikilink") - 跑出天際\[11\]
   - 2012年︰ [王梓軒](../Page/王梓軒.md "wikilink") - 魅影世紀
   - 2013年︰ [曾翠如](https://zh.wikipedia.org/wiki/曾翠如 "wikilink") - 跑足全程\[12\]
-  - 2019年︰ LaLa ([樂瞳](https://zh.wikipedia.org/wiki/樂瞳 "wikilink") 聲演) - Fantasy Tale\[13\]
+  - 2019年7月︰ LaLa ([樂瞳](https://zh.wikipedia.org/wiki/樂瞳 "wikilink") 聲演) - Fantasy Tale\[13\]
 
 #### 半官方 (創出天際)
 
-  - 2019年︰ LaLa (funfunball 聲演) - 如風的我\[14\] （改編自 라라 - 바람이 되어）
-  - 2019年︰ LaLa (funfunball 聲演) - LALLA\[15\] （改編自韓語版同名歌曲）
+  - 2019年8月︰ LaLa (funfunball 聲演) - 如風的我\[14\] （改編自 라라 - 바람이 되어）
+  - 2019年10月︰ LaLa (funfunball 聲演) - LALLA\[15\] （改編自韓語版同名歌曲）
+  - 2019年12月︰ LaLa (funfunball 聲演) - Dear My Friend\[16\] （改編自韓語版同名歌曲）
 
 ###
 
@@ -563,9 +564,9 @@
 
 ###
 
-  - Thanadol Ninnopparat - GO\!\! (泰語︰เนส ธนดล - GO\!\!)\[16\]
-  - Thanadol Ninnopparat - 我的心是你的 (泰語︰ เนส ธนดล - เพลงหัวใจฉันเป็นของเธอ) \[17\]
-  - Thanadol Ninnopparat - No Thank You (泰語︰ เนส ธนดล - No Thank You) \[18\]
+  - Thanadol Ninnopparat - GO\!\! (泰語︰เนส ธนดล - GO\!\!)\[17\]
+  - Thanadol Ninnopparat - 我的心是你的 (泰語︰ เนส ธนดล - เพลงหัวใจฉันเป็นของเธอ) \[18\]
+  - Thanadol Ninnopparat - No Thank You (泰語︰ เนส ธนดล - No Thank You) \[19\]
 
 ## 關聯產品
 
@@ -768,3 +769,4 @@ Android</p></td>
 16.
 17.
 18.
+19.

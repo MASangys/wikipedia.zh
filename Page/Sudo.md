@@ -56,7 +56,7 @@ sudo使一般使用者不需要知道超級使用者的密碼即可獲得權限�
 
   - [a logging root shell](http://sourceforge.net/projects/rootsh)
 
-  - [sudo(8) man page](http://www.openbsd.org/cgi-bin/man.cgi?query=sudo) from [OpenBSD](../Page/OpenBSD.md "wikilink")
+  - [sudo(8) man page](https://web.archive.org/web/20151128190917/http://www.openbsd.org/cgi-bin/man.cgi?query=sudo) from [OpenBSD](../Page/OpenBSD.md "wikilink")
 
   - [sudo(8) man page](http://www.linuxmanpages.com/man8/sudo.8.php) from linuxmanpages.com
 

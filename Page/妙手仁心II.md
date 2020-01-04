@@ -461,7 +461,7 @@ Johnson之女友</p></td>
 <td><p>何志泓、何心妍之父</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/于洋_(香港藝人).md" title="wikilink">-{于}-　洋</a></p></td>
+<td><p><a href="../Page/于洋_(香港).md" title="wikilink">-{于}-　洋</a></p></td>
 <td><p>何守義</p></td>
 <td><p>何守仁之兄<br />
 何志泓、何心妍之大伯<br />

@@ -451,7 +451,7 @@ WWDC2012发布了处理器昇級為Ivy Bridge架構的13及15吋第二代MacBook
   - **處理器**:15英寸机型配备22nm制程[Ivy Bridge架构](https://zh.wikipedia.org/wiki/Ivy_Bridge "wikilink")2.3/2.6GHz四核Intel Core i7处理器（Turbo Boost高达3.3/3.6GHz），配备6MB共享三级缓存，可选配8MB共享三级缓存的2.7GHz四核Intel Core i7处理器（Turbo Boost高达3.7GHz）。
     13英寸机型配备22nm制程[Ivy Bridge架构](https://zh.wikipedia.org/wiki/Ivy_Bridge "wikilink")2.5GHz双核Intel Core i5处理器（Turbo Boost高达3.1GHz），配备3MB共享三级[缓存](../Page/缓存.md "wikilink")，可选配具备4MB共享三级缓存的2.9GHz双核Intel Core i7处理器（Turbo Boost高达3.6GHz）
   - **内存**:主板集成8GB 1600MHz DDR3L内存（15英寸可选配16GB）
-  - **存储**: SSD，128GB或256GB起（可选配至768GB），
+  - **存储**: Mini-SATA III SSD，128GB或256GB起（可选配至768GB），
   - **图形处理器**: Intel HD Graphics 4000（13和15英寸机型均配备）,GeForce GT 650M（Kepler 28nm）,配备1GB GDDR5显存和图形处理器自动转换功能（仅15英寸机型）
   - **外设连接和扩展**:内建HDMI接口、两个[Thunderbolt](../Page/Thunderbolt.md "wikilink")接口、两个[USB](../Page/USB.md "wikilink")3接口（向下兼容USB 2.0）、耳机/光纤数字音频输出、720p FaceTime HD高清摄像头及主动降噪麦克风，去除了电池电量显示灯，状态显示灯和红外线接收器
   - **电源**:锂聚合物电池，容量95Whr（15英寸机型）或77Whr（13英寸机型），续航7小时，待机30天，OS X Mountain Lion中PowerNap功能，可在休眠时后获得各种即时信息（第二代MacBook Pro不支持）,配备MagSafe 2电源适配器及端口
@@ -475,7 +475,7 @@ WWDC2012发布了处理器昇級為Ivy Bridge架構的13及15吋第二代MacBook
 
 蘋果公司第二次升級配備Retina Display的產品。13寸机型采用Intel第四代酷睿i5 CPU Haswell，主板集成4GB記憶體、Iris內顯，拥有9小时续航时间（持续播放在线视訊），采用了高级的PCIe 128GB SSD存储、802.11ac Wi-Fi、Thunderbolt 2第二代雷电数据接口。
 
-新款15英寸采用更高级的Crystalwell晶片组及第四代酷睿2.0GHz i7 CPU（含高端版 Iris Pro 內显），8GB内存，NV GT 750M独立显卡，续航时间达到8小时（在线视訊播放），集成256GB起步的PCIe SSD快閃記憶體，新一代802.11ac无线方案以及Thunderbolt 2二代雷电数据接口。
+新款15英寸采用更高级的Crystalwell晶片组及第四代酷睿2.0GHz i7 CPU（含高端版 Iris Pro 內显），8GB内存，NV GT 750M独立显卡，续航时间达到8小时（在线视訊播放），集成256GB起步的PCIe 2.0 ×2 SSD快閃記憶體，新一代802.11ac无线方案以及Thunderbolt 2二代雷电数据接口。
 
 #### 2014年7月29日
 
@@ -483,7 +483,7 @@ WWDC2012发布了处理器昇級為Ivy Bridge架構的13及15吋第二代MacBook
 
 #### 2015年3月9日
 
-13 英寸 MacBook Pro 配备 Retina 显示屏新添加了Force Touch，CPU采用了第五代intel i5处理器，基于PCIe技术的ssd读写速度变为2倍，续航能力延长到10小时，内存也由1600MHZ升级到1866MHZ，其余配置没有改变。15英寸在四月添加了Force Touch並把GPU改成AMD Radeon R9 M370X，续航能力延长到9小时，其余配置没有改变。
+13 英寸 MacBook Pro 配备 Retina 显示屏新添加了Force Touch，CPU采用了第五代intel i5处理器，基于PCIe 2.0 ×4技术的ssd读写速度变为2倍，续航能力延长到10小时，内存也由1600MHZ升级到1866MHZ，其余配置没有改变。15英寸在四月添加了Force Touch並把GPU改成AMD Radeon R9 M370X，基于PCIe 3.0 ×4技术的ssd, 续航能力延长到9小时，其余配置没有改变。
 
 ### 配置
 
@@ -781,7 +781,7 @@ WWDC2012发布了处理器昇級為Ivy Bridge架構的13及15吋第二代MacBook
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>Model</strong></p></td>
+<td><p><strong>型號</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>元件</strong></p></td>
@@ -799,29 +799,29 @@ WWDC2012发布了处理器昇級為Ivy Bridge架構的13及15吋第二代MacBook
 <td><p><strong>型號標識識別</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Light-emitting_diode" title="wikilink">LED</a>- 背光寬屏 <a href="https://zh.wikipedia.org/wiki/Retina_Display" title="wikilink">Retina Display</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/顯示器" title="wikilink">顯示器</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/攝影機.md" title="wikilink">攝影</a></strong></p></td>
+<td><p><strong><a href="../Page/攝影機.md" title="wikilink">攝錄鏡頭</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">Processor</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">中央處理器</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p>2.3GHz eight-core Intel Core i9 (<a href="https://ark.intel.com/content/www/us/en/ark/products/192987/intel-core-i9-9880h-processor-16m-cache-up-to-4-80-ghz.html">9880H</a>) Coffee Lake (9th Gen), up to 4.8GHz, 16 MB L3 cache<br />
-<em><span style="color: #969696">Optional 2.4GHz eight-core Intel Core i9 (<a href="https://ark.intel.com/content/www/us/en/ark/products/192990/intel-core-i9-9980hk-processor-16m-cache-up-to-5-00-ghz.html">9980HK</a>) Coffee Lake (9th Gen), up to 5GHz, 16 MB L3 cache</span></em></p></td>
+<td><p>2.3GHz 八核心 Intel Core i9 (<a href="https://ark.intel.com/content/www/us/en/ark/products/192987/intel-core-i9-9880h-processor-16m-cache-up-to-4-80-ghz.html">9880H</a>) Coffee Lake (第 9 代)，最高可達 4.8GHz，配備 16 MB 共享 L3 快取<br />
+<em><span style="color: #969696">可訂製 2.4GHz 八核心 Intel Core i9 (<a href="https://ark.intel.com/content/www/us/en/ark/products/192990/intel-core-i9-9980hk-processor-16m-cache-up-to-5-00-ghz.html">9980HK</a>) Coffee Lake (第 9 代)，最高可達 5GHz，配備 16 MB 共享 L3 快取</span></em></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>系統匯流排</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/隨機存取記憶體" title="wikilink">Memory</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/隨機存取記憶體" title="wikilink">記憶體</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2667MHz PC4-19200 DDR4 SDRAM</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/電腦圖形" title="wikilink">Graphics</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/顯示卡" title="wikilink">顯示卡</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/AMD" title="wikilink">AMD</a> <a href="https://zh.wikipedia.org/wiki/Radeon_Pro" title="wikilink">Radeon Pro</a> 5500M with 4GB of GDDR6 memory and automatic graphics switching<br />
@@ -829,16 +829,16 @@ Intel UHD Graphics 630<br />
 <em>Configurable to AMD Radeon Pro 5500M with 8GB of GDDR6 memory.</em></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/固態硬碟" title="wikilink">儲存空間</a></strong>[5]</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/儲存空間" title="wikilink">儲存空間</a></strong>[5]</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>安全芯片</strong></p></td>
+<td><p><strong>安全晶片</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a></strong></p></td>
+<td><p><strong><a href="../Page/Wi-Fi.md" title="wikilink">無線連接</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Bluetooth" title="wikilink">Bluetooth</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/藍芽" title="wikilink">藍芽</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>連接介面</strong></p></td>
@@ -847,16 +847,16 @@ Intel UHD Graphics 630<br />
 <td><p>4 ports full performance supporting four 4096x2304 or two 6016×3384 displays (single stream each, supports DisplayPort 1.4[6])</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Audio</strong></p></td>
+<td><p><strong>音訊</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>Built-in stereo speakers with high dynamic range, multiple microphones</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Battery</strong> (<a href="../Page/鋰離子聚合物電池.md" title="wikilink">lithium polymer</a>)</p></td>
+<td><p><strong>電池</strong> (<a href="../Page/鋰離子聚合物電池.md" title="wikilink">鋰電池</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Weight</strong></p></td>
+<td><p><strong>重量</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>尺寸</strong></p></td>

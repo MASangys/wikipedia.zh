@@ -790,7 +790,7 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
 
   - [動畫官方網站（Star Child）](http://www.starchild.co.jp/special/toradora/index.html)
 
-  - [電撃文庫網站](http://www.mediaworks.co.jp/users_s/d_hp/)
+  - [電撃文庫網站](https://web.archive.org/web/20070406175727/http://www.mediaworks.co.jp/users_s/d_hp/)
 
 [Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:校園小說](https://zh.wikipedia.org/wiki/Category:校園小說 "wikilink") [Category:2006年小說](https://zh.wikipedia.org/wiki/Category:2006年小說 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 

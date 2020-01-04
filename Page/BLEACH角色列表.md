@@ -642,6 +642,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 <!-- end list -->
 
   -
+    声优：[志村知幸](https://zh.wikipedia.org/wiki/志村知幸 "wikilink")（BLEACH: Brave Souls）
 
 <!-- end list -->
 
@@ -656,6 +657,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 \!colspan="2" width=350|招式名稱 \!rowspan="2"|簡介 |- \!width=100|基本技 \!width=250|延伸招式 |- |rowspan="1"| **斬魄刀 『金毘迦』（Kinpika）** | - ||一把套著寫有「きらんむ」字樣木製刀鞘，形狀似船槳的長柄刀，解放時天示郎會拆下刀鞘，刀刃會閃耀著金色的光芒，能力未知。解放語『天照一閃！金毘迦！』 |- |}
 
   -
+    声优：[常松あゆみ](https://zh.wikipedia.org/wiki/常松あゆみ "wikilink")（BLEACH: Brave Souls）
 
 <!-- end list -->
 
@@ -670,6 +672,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 \!colspan="2" width=350|招式名稱 \!rowspan="2"|簡介 |- \!width=100|基本技 \!width=250|延伸招式 |- |rowspan="2"| **特殊技** |- | **生命柵欄（Cage of Life）** || 運用自己的身體創造樹的種子「產槈」，讓種子吸收自身的靈壓迅速成長茁壯，變成監牢般的樹籠困住對手。成長後的樹群可吸收範圍內的靈子，甚至是將對手的靈子攻擊作為養分使樹枝加速成長。 |- |}
 
   -
+    声优：[上田耀司](https://zh.wikipedia.org/wiki/上田耀司 "wikilink")（BLEACH: Brave Souls）
 
 <!-- end list -->
 
@@ -685,6 +688,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 \!colspan="2" width=350|招式名稱 \!rowspan="2"|簡介 |- \!width=100|基本技 \!width=250|延伸招式 |- |rowspan="2"| **斬魄刀 『鞘伏』（Sayabuse）** |- | - ||外觀和普通斬魄刀無分別，但實為擁有極高鋒利度和滑順度，無論怎麼揮砍都不會損毀，連血液也無法沾染的刀刃。當持刀者將刀柄握緊並豎直刀身的時候，甚至可劈開高靈子濃度的攻擊。由於其刀刃特性無法做出合適的刀鞘，只能放置於裝著凍狀液體的隨身箱，故被王悅視為失敗作並留在靈王宮。王悅戲稱此刀為「會讓磨刀維生的人沒飯吃的刀」。 |- |}
 
   -
+    声优：[佐藤利奈](../Page/佐藤利奈.md "wikilink")（BLEACH: Brave Souls）is
 
 <!-- end list -->
 
@@ -699,6 +703,7 @@ BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLE
 \!colspan="2" width=350|招式名稱 \!rowspan="2"|簡介 |- \!width=100|基本技 \!width=250|延伸招式 |- |rowspan="2"| **特殊技** |- | **極致之衣（Ōken Clothing）** || 將穿有絲線的針持於手裡，趁對方無法察覺時，迅速地重新縫紉該對象的衣服，使其被重新縫製的衣料困住無法動彈，進而被多枚尖刺貫穿身軀。被改造後的衣服，還會多出零番隊的象徵隊花圖樣。 |- |}
 
   -
+    声优：[楠見尚己](https://zh.wikipedia.org/wiki/楠見尚己 "wikilink")（BLEACH: Brave Souls）
 
 <!-- end list -->
 

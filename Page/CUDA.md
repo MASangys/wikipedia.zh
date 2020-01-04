@@ -9,7 +9,7 @@
 
 GeForce 8800 GTX显示卡的运算能力可达到520GFlops，如果建設[SLI系统](https://zh.wikipedia.org/wiki/SLI "wikilink")，就可以达到1TFlops。\[4\]
 
-但程序员在利用CUDA技術時，須分開三种不同的存储器，要面對繁复的线程层次，编译器亦无法自动完成多数任务，以上問題就提高开发难度。而將來的G100會採用第二代的CUDA技術，提高效率，降低开发难度。
+但程序员在利用CUDA技術時，須分開三种不同的暫存器，要面對繁复的线程层次，编译器亦无法自动完成多数任务，以上問題就提高开发难度。而將來的G100會採用第二代的CUDA技術，提高效率，降低开发难度。
 
 目前，已有軟體廠商利用CUDA技術，研發出Adobe Premiere Pro的插件。通過插件，使用者就可以利用[顯示核心去加速](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[H.264/MPEG-4 AVC的编码速度](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")。速度是單純利用[CPU作軟體加速的](https://zh.wikipedia.org/wiki/CPU "wikilink")7倍左右。
 

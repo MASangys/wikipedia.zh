@@ -449,6 +449,8 @@ YouTube自成立以來，其[短片曾被不少機構和公司批評為侵犯版
 
 ## 審查
 
+其他國家進行網路審查後，YouTube在[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")、[沙烏地阿拉伯](https://zh.wikipedia.org/wiki/沙烏地阿拉伯 "wikilink")、[敘利亞及](https://zh.wikipedia.org/wiki/敘利亞 "wikilink")[北韓被封鎖](https://zh.wikipedia.org/wiki/北韓 "wikilink")。2018年4月3日，YouTube總部發生槍擊案。國籍為伊朗的女性嫌疑犯[YouTuber](../Page/YouTuber.md "wikilink")親手去YouTube總部開火襲擊，認為YouTube封殺上傳至YouTube的影片，甚至帳號被凍結。在中國大陸，YouTube於[烏魯木齊七五事件爆發](https://zh.wikipedia.org/wiki/烏魯木齊七五事件 "wikilink")，對YouTube封鎖，須登入或註冊[VPN](https://zh.wikipedia.org/wiki/VPN "wikilink")。中文版YouTube僅在台灣和香港觀看影片。
+
 ## 安全政策
 
 2019年，YouTube更新安全政策，嚴格禁止用戶上傳危險惡作劇和冒險影片，例如假裝住家遭入侵的情境設定、模仿電影情節挑戰蒙眼過馬路等。YouTube強調，限制有害內容是原有規定，未來也適用於對人身安全有潛在危險的惡搞影片。
@@ -480,6 +482,10 @@ YouTube自2008年開始，每年都會在網站上發布[愚人節玩笑](../Pag
 ## 網站癱瘓
 
   - YouTube曾於2018年10月17日發生當機事件\[48\]，約09:16（UTC+8）開始，全球各地大量用戶反應YouTube網站當機，電腦版網頁、手機版網頁、手機版APP皆無法連線，並出現[500服务器错误以及维修猴圖案](https://zh.wikipedia.org/wiki/HTTP状态码#5xx服务器错误 "wikilink")\[49\]，最後於當天約10:40（UTC+8）回復正常。當中亦有全似是含有陰謀論，含有多項存疑問題，但YouTube官方堅稱只是系統錯誤\[50\]。
+
+## 帳號對公司的訂閱
+
+目前[碰碰狐](../Page/碰碰狐.md "wikilink")中文影片在YouTube頻道的訂閱者有226萬位，並且[台灣配音的兒歌也對](https://zh.wikipedia.org/wiki/台灣 "wikilink")[周杰倫](../Page/周杰倫.md "wikilink")、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[南拳媽媽](../Page/南拳媽媽.md "wikilink")等知名藝人授權。報導新聞的[英國廣播公司新聞頻道有](https://zh.wikipedia.org/wiki/英國廣播公司新聞頻道 "wikilink")569萬位訂閱者，[有線電視新聞網則有](https://zh.wikipedia.org/wiki/有線電視新聞網 "wikilink")806萬位訂閱者。在YouTube的訂閱者有104萬位。售賣汽車的[梅賽德斯-賓士](../Page/梅賽德斯-賓士.md "wikilink")有116萬位訂閱者，[BMW](../Page/BMW.md "wikilink")有100萬位訂閱者，[荒原路華有](https://zh.wikipedia.org/wiki/荒原路華 "wikilink")41.1萬位訂閱者，[捷豹](../Page/捷豹.md "wikilink")已經有20.6萬位訂閱者。組織成立的[世界衛生組織有](https://zh.wikipedia.org/wiki/世界衛生組織 "wikilink")11.8萬位訂閱者，[世界衛生組織有](https://zh.wikipedia.org/wiki/世界衛生組織 "wikilink")1.59萬位訂閱者，[聯合國教育、科學及文化組織的YouTube官方頻道有](https://zh.wikipedia.org/wiki/聯合國教育、科學及文化組織 "wikilink")24.3萬位訂閱者。
 
 ## 参見
 

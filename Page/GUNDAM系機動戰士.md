@@ -35,7 +35,7 @@
 
 ### [宇宙世紀](https://zh.wikipedia.org/wiki/宇宙世紀_\(GUNDAM\) "wikilink")（Universal Century(U.C.)）
 
-在描寫『機動戰士GUNDAM』以後的宇宙世紀作品中，GUNDAM以特別象徵優秀的試作MS。特別是地球聯邦軍的技術象徵，更也是聯邦軍的象徵，例如迪坦斯把GUNDAM MK-II當成讓自己正當化的手段使用。之後的Z GUNDAM還是GUNDAM F91等劃世紀的MS，也因外表上和1RX-78-2 GUNDAM有共通點而繼承其名稱。
+在描寫『機動戰士GUNDAM』以後的宇宙世紀作品中，GUNDAM以特別象徵優秀的試作MS。特別是地球聯邦軍的技術及精神象徵，例如迪坦斯把GUNDAM MK-II當成讓自己正當化的手段使用。之後的Z GUNDAM還是GUNDAM F91等劃世紀的MS，也因外表上和RX-78-2 GUNDAM有共通點而繼承其名稱。
 
   - **G**eneral-purpose **U**tility **N**on-**D**iscontinuity **A**ugmentation **M**aneuvering weapon system（全領域泛用增強機動兵器）
   - 這個解釋是在後來追加，首先於《**-{GUNDAM}- WARS I PROJECT Z**》出現。（同時因此令到月神鈦更名為Gundarium Alpha，使用後來使用Gundarium Gamma的Z Project機體全部都被稱為GUNDAM，而不一定有雙眼和V型天線）
@@ -63,15 +63,30 @@ GUNDAM DOUBLE X的是ADVANCED TACTICAL MOBILE SUIT SYSTEM
 C.E.世界觀裡的鋼彈系MS的定義主要在於OS的全名首字母縮寫為G.U.N.D.A.M，而符合該條件的MS通常也是以V字天線和雙眼為特徵。
 
   - 地球联合軍的GAT-X系列，CAT1-X（1〜3）/3 Hyperion以及奥布的[ORB-01 曉稱為](https://zh.wikipedia.org/wiki/ORB-01_Akatsuki "wikilink")**G**eneral **U**nilateral **N**euro-link **D**ispersive **A**utonomic **M**aneuver。\[2\]
+
+<!-- end list -->
+
   - 特指地球联合军自行製作的[GFAS-X1 Destroy稱為](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink")：**G**igantic **U**nilateral **N**umerous **D**ominating **AM**munition。\[3\]
+
+<!-- end list -->
+
   - 由Z.A.F.T.及克莱因派開發的核能機體為：**G**eneration : **U**nsubdued **N**uclear **D**rive/**A**ssault **M**odule。\[4\]
-  - Z.A.F.T.的第二代世代GUNDAM，采用外部氘光束供能機體ZGMF-X23S Saviour、ZGMF-X24S Chaos、ZGMF-X31S Abyss、ZGMF-X56S Impulse、ZGMF-X88S Gaia為：**G**eneration **U**nrestricted **N**etwork **D**rive/**A**ssault **M**odule。\[5\]\[6\]
-  - Z.A.F.T.采用**核．氘**混合供能（Hyper-Deuterion Nuclear Powered）的機體ZGMF-X42S Destiny和ZGMF-X666S Legend為：**G**unnery **U**nited **N**uclear-**D**uetrion **A**dvanced **M**aneuver system。\[7\]
+
+<!-- end list -->
+
+  - Z.A.F.T.的第二代世代GUNDAM，采用外部氘光束供能的機體ZGMF-X23S Saviour、ZGMF-X24S Chaos、ZGMF-X31S Abyss、ZGMF-X56S Impulse、ZGMF-X88S Gaia為：**G**eneration **U**nrestricted **N**etwork **D**rive/**A**ssault **M**odule。\[5\]\[6\]
+
+<!-- end list -->
+
+  - Z.A.F.T.采用**核．氘**混合供能（Hyper-Deuterion Nuclear Powered）的第三世代機體ZGMF-X42S Destiny和ZGMF-X666S Legend為：**G**unnery **U**nited **N**uclear-**D**uetrion **A**dvanced **M**aneuver system。\[7\]
+
+<!-- end list -->
+
   - 特指[機動戰士GUNDAM SEED C.E.73 STARGAZER中出現的](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_C.E.73_STARGAZER "wikilink")[GSX-401FW Stargazer為](https://zh.wikipedia.org/wiki/GSX-401FW_Stargazer "wikilink")**G**uider **UN**manned **D**eployment **A**utonomic **M**anlpulation。
 
 <small>備注：CE中的GUNDAM全寫雖然部份機體一樣，但在OS顯示時其他部份有所不同。</small>
 
-值得一提的是，劇中除了正統的鋼彈系機種以外，也有一些不屬於鋼彈系機種、卻帶有鋼彈外觀特徵的機型，例如歐普軍的量產機MVF-M11C 村雨、地球聯合軍的量產機GAT-SO2R N刃式N。
+值得一提的是，雖然在官方設定上的鋼彈型機種名稱裡會有「鋼彈」一詞，但實際上劇中的世界觀裡，這些機種並未正式冠以鋼彈之名，而是以相同的OS縮寫和類似的外觀特徵為辨認要點。另外，劇中除了正統的鋼彈系機種以外，也有一些不屬於鋼彈系機種、卻帶有鋼彈外觀特徵的機型，例如歐普軍的量產機MVF-M11C 村雨、地球聯合軍的量產機GAT-SO2R N刃式N。
 
 ### 西元（Anno Domini(A.D.)《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》）
 
@@ -229,13 +244,18 @@ GUNDAM在故事開始以前就持有「傳說中的救世主」的稱號。故�
 
   - [獨角獸高達(獨角獸模式)](https://zh.wikipedia.org/wiki/獨角獸高達\(獨角獸模式\) "wikilink")(**Unicorn Gundam (unicorn mode), RX-0**)
     [獨角獸高達 (破壞模式)](https://zh.wikipedia.org/wiki/獨角獸高達_\(破壞模式\) "wikilink")(**Unicorn Gundam (Destroy mode), RX-0**)
-    **-{zh-hk:全武裝;zh-tw:全裝甲型;zh-cn:全装甲型;}-**獨角獸高達(覺醒模式)(**Full Armor Unicorn Gundam(Awaken mode), RX-0**)
-    **-{zh-hk:全武裝;zh-tw:全裝甲型;zh-cn:全装甲型;}-**獨角獸高達(破壞模式)(**Full Armor Unicorn Gundam(Destroy mode), RX-0**)
     **-{zh-hk:全武裝;zh-tw:全裝甲型;zh-cn:全装甲型;}-**獨角獸高達(獨角獸模式)(*' Full Armor Unicorn Gundam(Unicorn Mode), RX-0*')
-    [高達 德爾塔-改](https://zh.wikipedia.org/wiki/高達_德爾塔-改 "wikilink")(**GUNDAM DELTA KAI, MSN-001X**)
-    [獨角獸高達2號機 報喪女妖(破壞模式)](https://zh.wikipedia.org/wiki/獨角獸高達2號機_報喪女妖\(破壞模式\) "wikilink")(**Unicorn Gundam 02 Banshee (Destroy mode), RX-0**)
+    **-{zh-hk:全武裝;zh-tw:全裝甲型;zh-cn:全装甲型;}-**獨角獸高達(破壞模式)(**Full Armor Unicorn Gundam(Destroy mode), RX-0**)
+    **-{zh-hk:全武裝;zh-tw:全裝甲型;zh-cn:全装甲型;}-**獨角獸高達(覺醒模式)(**Full Armor Unicorn Gundam(Awaken mode), RX-0**)
     [獨角獸高達2號機 報喪女妖(獨角獸模式)](https://zh.wikipedia.org/wiki/獨角獸高達2號機_報喪女妖\(獨角獸模式\) "wikilink")(**Unicorn Gundam 02 Banshee (Unicorn mode), RX-0**)
-    [獨角獸高達2號機 報喪女妖命運女神(獨角獸模式)](https://zh.wikipedia.org/wiki/獨角獸高達2號機_報喪女妖命運女神\(獨角獸模式\) "wikilink")(**Unicorn Gundam 02 Banshee Norn(unicorn mode), RX-0\[N\]**)
+    [獨角獸高達2號機 報喪女妖(破壞模式)](https://zh.wikipedia.org/wiki/獨角獸高達2號機_報喪女妖\(破壞模式\) "wikilink")(**Unicorn Gundam 02 Banshee (Destroy mode), RX-0**)
+    [獨角獸高達2號機 報喪女妖命運女神(獨角獸模式)](https://zh.wikipedia.org/wiki/獨角獸高達2號機_報喪女妖命運女神\(獨角獸模式\) "wikilink")(**Unicorn Gundam 02 Banshee Norn(Unicorn mode), RX-0\[N\]**)
+    [獨角獸高達2號機 報喪女妖命運女神(破壞模式)](https://zh.wikipedia.org/wiki/獨角獸高達2號機_報喪女妖命運女神\(破壞模式\) "wikilink")(**Unicorn Gundam 02 Banshee Norn(Destroy mode), RX-0\[N\]**)
+
+### 機動戰士高達 UNICORN MSV
+
+  - [高達 德爾塔](https://zh.wikipedia.org/wiki/高達_德爾塔 "wikilink")(**GUNDAM DELTA, MSN-001**)
+    [高達 德爾塔-改](https://zh.wikipedia.org/wiki/高達_德爾塔-改 "wikilink")(**GUNDAM DELTA KAI, MSN-001X**)
 
 ### 機動戰士高達DOUBLE FAKE
 
@@ -250,10 +270,7 @@ GUNDAM在故事開始以前就持有「傳說中的救世主」的稱號。故�
 
 ### 機動戰士高達F90
 
-  - [F90ⅡI 高達](https://zh.wikipedia.org/wiki/F90ⅡI_高達 "wikilink")(**Gundam F90II Intercept Type, F90ⅡI**)
-    [F90Ⅱ 高達](https://zh.wikipedia.org/wiki/F90Ⅱ_高達 "wikilink")(**Gundam F90Ⅱ, F90Ⅱ**)
-    [F90 高達](https://zh.wikipedia.org/wiki/F90_高達 "wikilink")(**Gundam F90, F90**)
-    [F90ⅡL 高達](https://zh.wikipedia.org/wiki/F90ⅡL_高達 "wikilink")(**Gundam F90 Long Range Type, F90ⅡL**)
+  - [F90 高達](https://zh.wikipedia.org/wiki/F90_高達 "wikilink")(**Gundam F90, F90**)
     [F90A 高達](https://zh.wikipedia.org/wiki/F90A_高達 "wikilink")(**Gundam F90 Assault Type, F90A**)
     [F90D 高達](https://zh.wikipedia.org/wiki/F90D_高達 "wikilink")(**Gundam F90 Destroid Type, F90D**)
     [F90E 高達](https://zh.wikipedia.org/wiki/F90E_高達 "wikilink")(**Gundam F90 Reconnaissance Type, F90E**)
@@ -262,6 +279,9 @@ GUNDAM在故事開始以前就持有「傳說中的救世主」的稱號。故�
     [F90P 高達](https://zh.wikipedia.org/wiki/F90P_高達 "wikilink")(**Gundam F90 Plunge Type, F90P**)
     [F90S 高達](https://zh.wikipedia.org/wiki/F90S_高達 "wikilink")(**Gundam F90 Support Type, F90S**)
     [F90V 高達](https://zh.wikipedia.org/wiki/F90V_高達 "wikilink")(**Gundam F90 VSBR Type, F90V**)
+    [F90Ⅱ 高達](https://zh.wikipedia.org/wiki/F90Ⅱ_高達 "wikilink")(**Gundam F90Ⅱ, F90Ⅱ**)
+    [F90ⅡI 高達](https://zh.wikipedia.org/wiki/F90ⅡI_高達 "wikilink")(**Gundam F90II Intercept Type, F90ⅡI**)
+    [F90ⅡL 高達](https://zh.wikipedia.org/wiki/F90ⅡL_高達 "wikilink")(**Gundam F90 Long Range Type, F90ⅡL**)
     [火星獨立吉翁軍式樣F90](https://zh.wikipedia.org/wiki/火星獨立吉翁軍式樣F90 "wikilink")(**Gundam F90, OMS-90R**)
 
 ### 機動戰士高達影子方程式91
@@ -291,8 +311,8 @@ GUNDAM在故事開始以前就持有「傳說中的救世主」的稱號。故�
 
 ### 機動戰士V高達
 
-  - [V-Dash高達](https://zh.wikipedia.org/wiki/V-Dash高達 "wikilink")(**V-Dash Gundam, LM312V04+SD-VB03A**)
-    [V高達](https://zh.wikipedia.org/wiki/V高達 "wikilink")(**Victory Gundam, LM312V04**)
+  - [V高達](https://zh.wikipedia.org/wiki/V高達 "wikilink")(**Victory Gundam, LM312V04**)
+    [V-Dash高達](https://zh.wikipedia.org/wiki/V-Dash高達 "wikilink")(**V-Dash Gundam, LM312V04+SD-VB03A**)
     [V Hexa高達](https://zh.wikipedia.org/wiki/V_Hexa高達 "wikilink")(**V Hexa Gundam, LM312V06**)
     [V-Dash高達Hexa](https://zh.wikipedia.org/wiki/V-Dash高達Hexa "wikilink")(**V-Dash Gundam Hexa, LM312V06+SD-VB03A**)
     [V2高達](https://zh.wikipedia.org/wiki/V2高達 "wikilink")(**Victory Two Gundam, LM314V21**)
@@ -458,31 +478,38 @@ GUNDAM在故事開始以前就持有「傳說中的救世主」的稱號。故�
 
 #### 機動戰士高達SEED C.E.73 Stargazer
 
-  - [漆黑突擊高達](https://zh.wikipedia.org/wiki/漆黑突擊高達 "wikilink")(**Strike Noir Gundam, GAT-X105E**)
+  - [觀星者高達](https://zh.wikipedia.org/wiki/觀星者高達 "wikilink")(**Stargazer Gundam, GSX-401FW**)
+    [漆黑突擊高達](https://zh.wikipedia.org/wiki/漆黑突擊高達 "wikilink")(**Strike Noir Gundam, GAT-X105E**)
     [翠綠暴風高達](https://zh.wikipedia.org/wiki/翠綠暴風高達 "wikilink")(**Verde Buster Gundam, GAT-X103AP**)
     [尉藍決鬥高達](https://zh.wikipedia.org/wiki/尉藍決鬥高達 "wikilink")(**Blu Duel Gundam, GAT-X1022**)
 
-#### 機動戰士高達SEED ASTRAY
+#### 機動戰士高達SEED MSV
 
-  - [迷惘高達紅色機](https://zh.wikipedia.org/wiki/迷惘高達紅色機 "wikilink")(**Gundam Astray red FRAME, MBF-P02**)
-    [迷惘高達藍色機二型L](https://zh.wikipedia.org/wiki/迷惘高達藍色機二型L "wikilink")(**Gundam Astray Blue Frame Second L, MBF-P03 secondL**)
-    [迷惘高達藍色機二型Revise](https://zh.wikipedia.org/wiki/迷惘高達藍色機二型Revise "wikilink")(**Gundam Astray Blue Frame 2nd Revise, MBF-P03R**)
-    [迷惘高達藍色機](https://zh.wikipedia.org/wiki/迷惘高達藍色機 "wikilink")(**Gundam Astray blue FRAME, MBF-P03**)
-    [迷惘高達金色機](https://zh.wikipedia.org/wiki/迷惘高達金色機 "wikilink")(**Gundam Astray Gold Frame, MBF-P01**)
-    [強化型迷惘高達紅色機](https://zh.wikipedia.org/wiki/強化型迷惘高達紅色機 "wikilink")(**Gundam Astray Red Frame, MBF-P02**)
-    [迷惘高達紅色機強化承載裝備](https://zh.wikipedia.org/wiki/迷惘高達紅色機強化承載裝備 "wikilink")(**Gundam Astray Red Frame with Power Loader, MBF-02**)
-    [亥伯龍高達（1號機）](https://zh.wikipedia.org/wiki/亥伯龍高達（1號機） "wikilink")(**HYPERION Gundam, CAT1-X1/3**)
-    [迷惘高達藍色機二型G](https://zh.wikipedia.org/wiki/迷惘高達藍色機二型G "wikilink")(**Gundam Astray blue Frame Second G**, MBF-03''')
-    [勇士高達](https://zh.wikipedia.org/wiki/勇士高達 "wikilink")(**Dreadnought Gundam, YMF-X000A/H**)
-    [重生高達](https://zh.wikipedia.org/wiki/重生高達 "wikilink")(**Regenerate Gundam, ZGMF-X11A**)
-    [迷惘高達金色機 天](https://zh.wikipedia.org/wiki/迷惘高達金色機_天 "wikilink")(**Gundam Astray Gold Frame Amatsu, MBF-P01-ReAMATU**)
-    [巨劍型瘟神高達](https://zh.wikipedia.org/wiki/巨劍型瘟神高達 "wikilink")(**Sword Calamity, GAT-X133**)
+  - [巨劍型瘟神高達](https://zh.wikipedia.org/wiki/巨劍型瘟神高達 "wikilink")(**Sword Calamity, GAT-X133**)
     [迷惘高達紫色機](https://zh.wikipedia.org/wiki/迷惘高達紫色機 "wikilink")(**gundam astray purple frame, MBF-P05**)
     [深藍禁斷高達](https://zh.wikipedia.org/wiki/深藍禁斷高達 "wikilink")(**Forbidden Blue, GAT-X255**)
     [閃電突擊高達](https://zh.wikipedia.org/wiki/閃電突擊高達 "wikilink")(**Lightning Strike Gundam, GAT-X105+P204QX**)
     [突擊高達.紅 I.W.S.P](https://zh.wikipedia.org/wiki/突擊高達.紅_I.W.S.P "wikilink")(**STRIKE Rouge I.W.S.P, MBF-02 + P202QX**)
     [獵殺高達制式機](https://zh.wikipedia.org/wiki/獵殺高達制式機 "wikilink")(**Type Aero Assault RAIDER Full Spec, GAT-333**)
     [漆黑迷惘高達](https://zh.wikipedia.org/wiki/漆黑迷惘高達 "wikilink")(**Gundam Astray Noir, MBF-P0X**)
+
+#### 機動戰士高達SEED ASTRAY
+
+  - [迷惘高達紅色機](https://zh.wikipedia.org/wiki/迷惘高達紅色機 "wikilink")(**Gundam Astray red FRAME, MBF-P02**)
+    [強化型迷惘高達紅色機](https://zh.wikipedia.org/wiki/強化型迷惘高達紅色機 "wikilink")(**Gundam Astray Red Frame, MBF-P02**)
+    [迷惘高達紅色機強化承載裝備](https://zh.wikipedia.org/wiki/迷惘高達紅色機強化承載裝備 "wikilink")(**Gundam Astray Red Frame with Power Loader, MBF-02**)
+    [迷惘高達藍色機](https://zh.wikipedia.org/wiki/迷惘高達藍色機 "wikilink")(**Gundam Astray blue FRAME, MBF-P03**)
+    [迷惘高達藍色機二型G](https://zh.wikipedia.org/wiki/迷惘高達藍色機二型G "wikilink")(**Gundam Astray blue Frame Second G**, MBF-03''')
+    [迷惘高達藍色機二型L](https://zh.wikipedia.org/wiki/迷惘高達藍色機二型L "wikilink")(**Gundam Astray Blue Frame Second L, MBF-P03 secondL**)
+    [迷惘高達藍色機二型Revise](https://zh.wikipedia.org/wiki/迷惘高達藍色機二型Revise "wikilink")(**Gundam Astray Blue Frame 2nd Revise, MBF-P03R**)
+    [迷惘高達金色機](https://zh.wikipedia.org/wiki/迷惘高達金色機 "wikilink")(**Gundam Astray Gold Frame, MBF-P01**)
+    [迷惘高達金色機 天](https://zh.wikipedia.org/wiki/迷惘高達金色機_天 "wikilink")(**Gundam Astray Gold Frame Amatsu, MBF-P01-ReAMATU**)
+    [重生高達](https://zh.wikipedia.org/wiki/重生高達 "wikilink")(**Regenerate Gundam, ZGMF-X11A**)
+
+#### 機動戰士高達SEED X ASTRAY
+
+  - [勇士高達](https://zh.wikipedia.org/wiki/勇士高達 "wikilink")(**Dreadnought Gundam, YMF-X000A/H**)
+    [亥伯龍高達（1號機）](https://zh.wikipedia.org/wiki/亥伯龍高達（1號機） "wikilink")(**HYPERION Gundam, CAT1-X1/3**)
 
 #### 機動戰士SEED C.E.73 DELTA ASTRAY
 

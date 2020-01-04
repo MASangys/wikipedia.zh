@@ -1,7 +1,7 @@
 > 本文内容由[陀槍師姐II](https://zh.wikipedia.org/wiki/陀槍師姐II)转换而来。
 
 
-《**陀槍師姐II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](https://zh.wikipedia.org/wiki/陀槍師姐_\(電視劇\) "wikilink")》系列第2輯。
+《**陀槍師姐II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](../Page/陀槍師姐.md "wikilink")》系列第2輯。
 
 此劇曾於2002年9月及2009年3月至4月在[翡翠台](../Page/翡翠台.md "wikilink")重播。
 

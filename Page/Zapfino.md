@@ -23,7 +23,7 @@ Zapfino的开发被严重推迟，直到Zapf向[Linotype展示这一项目](http
 
 ## 外部链接
 
-  - [Typowiki: Zapfino](http://typophile.com/wiki/zapfino)
+  - [Typowiki: Zapfino](https://web.archive.org/web/20070208090004/http://typophile.com/wiki/zapfino)
   - [Linotype公司关于Zapfino的描述](https://archive.is/20130128024216/http://www.linotype.com/en/1175/zapfino-family.html)
 
 [Category:字体](https://zh.wikipedia.org/wiki/Category:字体 "wikilink") [Category:蘋果公司字體](https://zh.wikipedia.org/wiki/Category:蘋果公司字體 "wikilink") [Category:Linotype字体](https://zh.wikipedia.org/wiki/Category:Linotype字体 "wikilink")

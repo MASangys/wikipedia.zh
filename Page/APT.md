@@ -40,7 +40,7 @@ APT擁有不少的前端程序：
 | [aptitude](https://zh.wikipedia.org/wiki/aptitude "wikilink") | 字符終端 | 0.2.15.9-2 |
 | [Synaptic](https://zh.wikipedia.org/wiki/Synaptic "wikilink") | 圖形界面 | 0.75.13    |
 | [GNOME 軟體](../Page/GNOME_軟體.md "wikilink")                    | 圖形界面 | 0.4.7-1.2  |
-| [wajig](https://zh.wikipedia.org/wiki/wajig "wikilink")       | 兼容   | 2.0.25     |
+| [wajig](https://zh.wikipedia.org/wiki/:en:Wajig "wikilink")   | 兼容   | 2.0.25     |
 
 ## 示例
 

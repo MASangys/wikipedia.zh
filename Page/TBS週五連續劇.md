@@ -651,7 +651,7 @@
 
 <!-- end list -->
 
-  - 10月－12月：**[4分鐘的金盞菊](https://zh.wikipedia.org/wiki/4分鐘的金盞菊 "wikilink")**（）
+  - 10月－12月：**[4分鐘的金盞菊](../Page/4分鐘的金盞菊.md "wikilink")**（）
 
 <!-- end list -->
 

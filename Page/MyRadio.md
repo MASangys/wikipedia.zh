@@ -150,8 +150,8 @@ MyRadio每天提供6.5小時多元化廣播節目，內容包括資訊、政治�
 毓民會客室<br />
 今晚開你波(暫代主持)<br />
 毓民射馬<br />
-那些年（已完結）</p></td>
-<td><p><a href="../Page/中國國民黨.md" title="wikilink">中國國民黨</a>黨員、<a href="https://zh.wikipedia.org/wiki/時事評論員" title="wikilink">時事評論員</a>、<a href="../Page/癲狗日報.md" title="wikilink">癲狗日報</a>、<a href="../Page/普羅政治學苑.md" title="wikilink">普羅政治學苑</a>創辦人[21]及校長[22]。曾任<a href="https://zh.wikipedia.org/wiki/立法會議員" title="wikilink">立法會議員</a>(2008-2016)。並為<a href="../Page/人民力量.md" title="wikilink">人民力量</a>創黨主席（已退黨）、<a href="../Page/社會民主連線.md" title="wikilink">社會民主連線</a>創黨主席（已退黨）。</p></td>
+那些年（已完結） 前|<a href="../Page/中國國民黨.md" title="wikilink">中國國民黨</a>黨員、<a href="https://zh.wikipedia.org/wiki/時事評論員" title="wikilink">時事評論員</a>、<a href="../Page/癲狗日報.md" title="wikilink">癲狗日報</a>、<a href="../Page/普羅政治學苑.md" title="wikilink">普羅政治學苑</a>創辦人[21]及校長[22]。曾任<a href="https://zh.wikipedia.org/wiki/立法會議員" title="wikilink">立法會議員</a>(2008-2016)。並為<a href="../Page/人民力量.md" title="wikilink">人民力量</a>創黨主席（已退黨）、<a href="../Page/社會民主連線.md" title="wikilink">社會民主連線</a>創黨主席（已退黨）。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/梁錦祥.md" title="wikilink">梁錦祥</a>（台長）</p></td>
@@ -169,7 +169,7 @@ MyUniversity<br />
 <tr class="odd">
 <td><p><a href="../Page/何故.md" title="wikilink">何故</a></p></td>
 <td><p>神秘之夜</p></td>
-<td><p>跨媒體創作人、作家、編劇、影評人、大學講師、文化研究員、遊戲設計師、演員、電視台及電台節目主持</p></td>
+<td><p>跨媒體創作人、作家、編劇、影評人、大學講師、文化研究員、遊戲設計師、演員、電視台及電台節目主持筽</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/林紀陶" title="wikilink">林紀陶</a>（紀陶）</p></td>
@@ -425,12 +425,12 @@ MyUniversity</p></td>
 香港著名影視男演員、節目主持及模特兒。現為香港<a href="../Page/電視廣播有限公司.md" title="wikilink">無綫電視男藝員</a>。<a href="../Page/無綫電視藝員訓練班.md" title="wikilink">無綫電視藝員訓練班</a>第四期藝員進修班畢業藝員、第二屆寶麗金卡拉OK模特兒大賽冠軍、2015年全球粵語主持人大賽冠軍並獲得最有台型大獎。曾為<a href="../Page/亞洲電視.md" title="wikilink">亞洲電視</a>、<a href="https://zh.wikipedia.org/wiki/Now寬頻電視" title="wikilink">Now寬頻電視及</a><a href="../Page/香港有線電視.md" title="wikilink">香港有線電視</a>男藝員。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何志光_(香港).md" title="wikilink">何志光</a>（CK）</p></td>
+<td><p><a href="../Page/何志光_(香港).md" title="wikilink">何志光</a>（He Zhiguang）</p></td>
 <td><p>建國弟兄會 (已完結)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/香港本土力量" title="wikilink">香港本土力量主席</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/安德烈_(香港)" title="wikilink">安德烈</a>（蒸魚安）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安德烈_(香港)" title="wikilink">安德烈</a>（妓安）</p></td>
 <td><p>建國弟兄會 (已完結)</p></td>
 <td><p>作家、文化研究者</p></td>
 </tr>
@@ -543,9 +543,9 @@ MyUniversity</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李政熙.md" title="wikilink">李政熙</a></p></td>
+<td><p><a href="../Page/李政熙.md" title="wikilink">李政熙</a>（人猿，大快活熱狗）</p></td>
 <td><p>網上辣辛聞（嘉賓主持）（已完結）</p></td>
-<td><p>前<a href="../Page/熱血公民.md" title="wikilink">熱血公民</a>成員，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會天平西區選舉</a>。</p></td>
+<td><p>前<a href="../Page/熱血公民.md" title="wikilink">熱血公民</a>成員，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會天平西區選舉</a>。此人喜歡網上圍爐取暖，攻擊Myradio現任主持。</p></td>
 </tr>
 <tr class="even">
 <td><p>Vega</p></td>

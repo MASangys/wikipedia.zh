@@ -226,7 +226,7 @@ Soler於進軍[香港](../Page/香港.md "wikilink")之前，他們曾由[意大
 
   -
   -
-  - [Soler 在台灣的日誌 - 堅持搖滾 SOLER:x2](http://blog.roodo.com/solerx2)
+  - [Soler 在台灣的日誌 - 堅持搖滾 SOLER:x2](https://web.archive.org/web/20071017005506/http://blog.roodo.com/solerx2)
 
 [Category:1972年出生](https://zh.wikipedia.org/wiki/Category:1972年出生 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:澳門男歌手](https://zh.wikipedia.org/wiki/Category:澳門男歌手 "wikilink") [Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink") [Category:意大利裔混血兒](https://zh.wikipedia.org/wiki/Category:意大利裔混血兒 "wikilink") [Category:亞裔混血兒](https://zh.wikipedia.org/wiki/Category:亞裔混血兒 "wikilink") [Category:克倫族人](https://zh.wikipedia.org/wiki/Category:克倫族人 "wikilink")
 

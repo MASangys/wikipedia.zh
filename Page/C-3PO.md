@@ -1,7 +1,7 @@
 > 本文内容由[C-3PO](https://zh.wikipedia.org/wiki/C-3PO)转换而来。
 
 
-[Anthony_Daniels03_cropped.jpg](https://zh.wikipedia.org/wiki/File:Anthony_Daniels03_cropped.jpg "fig:Anthony_Daniels03_cropped.jpg") **C-3PO**（音為See-Threepio），亦有簡單地叫他作**3PO**，是《[星球大戰](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")》系列中的角色，無論聲音或演繹，六部曲全由（Anthony Daniels）所擔任。[星球大戰年表中](https://zh.wikipedia.org/wiki/星球大戰年表 "wikilink")，他於32BBY（[星際大戰首部曲：威脅潛伏](../Page/星際大戰首部曲：威脅潛伏.md "wikilink")）由[安納金·天行者所製造](https://zh.wikipedia.org/wiki/安納金·天行者 "wikilink")，後來與[R2-D2](../Page/R2-D2.md "wikilink")展開多次冒險。
+**C-3PO**（音為See-Threepio），亦有簡單地叫他作**3PO**，是《[星球大戰](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")》系列中的角色，無論聲音或演繹，六部曲全由（Anthony Daniels）所擔任。[星球大戰年表中](https://zh.wikipedia.org/wiki/星球大戰年表 "wikilink")，他於32BBY（[星際大戰首部曲：威脅潛伏](../Page/星際大戰首部曲：威脅潛伏.md "wikilink")）由[安納金·天行者所製造](https://zh.wikipedia.org/wiki/安納金·天行者 "wikilink")，後來與[R2-D2](../Page/R2-D2.md "wikilink")展開多次冒險。
 
 ## 生平
 
@@ -57,7 +57,7 @@ C-3PO在[恩多战役后继续为](https://zh.wikipedia.org/wiki/恩多战役 "w
 
 ## 角色設定
 
-他不只是禮儀[機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")，經過多次的改造，他更成為一部精通六百萬種沟通方式、懂得各地風俗的金色機械人。而無論他如何不願意，他亦要遵從主人的命令。可是C-3PO總是對身旁的人喋喋不休和性格懦弱，常說「我們完了！（）」 、「我的天！（）」、「我有不好的預感！（）」所以有時會令人感到煩擾。他不單只是像其他翻譯機械人只是翻譯，他也有人類的思想。
+[Anthony_Daniels03_cropped.jpg](https://zh.wikipedia.org/wiki/File:Anthony_Daniels03_cropped.jpg "fig:Anthony_Daniels03_cropped.jpg") 他不只是禮儀[機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")，經過多次的改造，他更成為一部精通六百萬種沟通方式、懂得各地風俗的金色機械人。而無論他如何不願意，他亦要遵從主人的命令。可是C-3PO總是對身旁的人喋喋不休和性格懦弱，常說「我們完了！（）」 、「我的天！（）」、「我有不好的預感！（）」所以有時會令人感到煩擾。他不單只是像其他翻譯機械人只是翻譯，他也有人類的思想。
 
 而他與R2-D2這一對拍擋，一個懦弱、一個大膽，成為以後的經典，他也是R2-D2的代言者。而他亦在六部曲中時常被破壞。於2004年，C-3PO更被加入為最有名望機械人的其中一個。
 

@@ -187,7 +187,7 @@ Neo Japan<br />
 初登場為<strong>第1集</strong>。</p></td>
 </tr>
 <tr class="odd">
-<td><p><big><strong>神鋼彈</strong></big><br />
+<td><p><big><strong>神威鋼彈</strong></big><br />
 ゴッドガンダム<br />
 God Gundam</p></td>
 <td><p><strong>駕駛員同為多門·火州，為其二代駕駛機體</strong><br />
@@ -584,6 +584,7 @@ Neo Germany<br />
 
   -
     作為首部未有繼承[宇宙世紀](../Page/宇宙世紀.md "wikilink")（U.C.）的作品，機動武鬥傳G GUNDAM在故事舞台、機械設計及角色設定上，成功在[機動戰士V GUNDAM當年停滯不前的走勢以外](../Page/機動戰士V_GUNDAM.md "wikilink")，開創一個新方向，例如只維持一部作品的全新時代背景、將以高達作為敵我雙方機體、每部作品均有其獨有科技及技能（例如本作中的DG細胞）、以誇張手法表達機體外形及特性，而非UC時代講求嚴謹軍事作風及原理的設定等等，都成為[平成三部曲以後的主流方向](https://zh.wikipedia.org/wiki/平成三部曲 "wikilink")。
+    雖然在之後很多以[宇宙世紀](../Page/宇宙世紀.md "wikilink")為粉絲的鋼彈迷對於該作品並不看好，但這部異端作品隨著時間的過去，逐漸變成[機動戰士GUNDAM系列中膾炙人口的經典作之一](https://zh.wikipedia.org/wiki/機動戰士GUNDAM系列 "wikilink")。
 
 ## 補充
 
@@ -623,6 +624,8 @@ Neo Germany<br />
   - [Mobile Fighter G Gundam: 7th Fight](https://zh.wikipedia.org/wiki/Mobile_Fighter_G_Gundam:_7th_Fight "wikilink")
 
   - (作畫：島本和彥，角川書店)
+
+  - [鋼彈創鬥者TRY](https://zh.wikipedia.org/wiki/鋼彈創鬥者TRY "wikilink")
 
 ## 周邊產品
 

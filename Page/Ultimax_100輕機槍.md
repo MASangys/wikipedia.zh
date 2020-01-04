@@ -98,4 +98,4 @@ Ultimax 100由[新加坡](../Page/新加坡.md "wikilink")在1982年開發及制
 1.  [defensereview.com-Ultimax 100](http://www.defensereview.com/modules.php?name=News&file=article&sid=853)
 2.
 3.  <http://firearmsworld.net/singapore/ultimax/ultimax.htm>
-4.  [美国海军陆战队选择HK-IAR取代M249机枪](http://war.news.163.com/09/1204/14/5PMRLA7700011MTO.html)
+4.

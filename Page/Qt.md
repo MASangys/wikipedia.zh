@@ -893,7 +893,7 @@ Qt Solutions提供Qt額外的組件和工具，使Qt的開發更有效率。在Q
 32.  Supported Qt modules in QtAda
 33. [1](http://code.google.com/p/lqt) Supported Qt modules in lqt
 34.
-35. [Egg Window Manager](http://qt-apps.org/content/show.php/Egg+Window+Manager?content=136862)
+35.
 36. [Qt Software—Adobe Photoshop Elements Album](http://www.qtsoftware.com/qt-in-use/story/app/adobe-photoshop-album)
 37. [TOra uses the Qt library](http://tora.sourceforge.net/)
 38. [Qt为中国移动音乐客户端提供多平台支持](http://qt.nokia.com/about-us-cn/news/from-qt-blog-qt-in-use-qt-helps-power-china-mobile-music-client-for-multiple-platforms/)

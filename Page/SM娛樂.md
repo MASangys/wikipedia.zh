@@ -380,7 +380,7 @@
   - 金汝珍
   - 李采遠
   - 李娜允
-  - 裴多彬
+  - [裴多彬](../Page/裴多彬.md "wikilink")
 
 #### 主持
 
@@ -614,7 +614,7 @@
   - [趙珍虎](../Page/趙珍虎.md "wikilink")（[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")）
   - [鄭丙熙](../Page/G.O.md "wikilink")（[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")，藝名為**G.O**）
   - [金力燦](https://zh.wikipedia.org/wiki/金力燦 "wikilink")
-  - [金仁性](../Page/金仁性.md "wikilink")（[SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")，藝名為**仁誠**）
+  - [金仁性](../Page/金仁性.md "wikilink")（[SF9](../Page/SF9.md "wikilink")，藝名為**仁誠**）
   - [金振煥](../Page/金振煥.md "wikilink")（[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")，藝名為**Jay**）
   - [金鍾旼](../Page/金鍾旼.md "wikilink")（[高耀太](../Page/高耀太.md "wikilink")）
   - 金Timoteo（[HOTSHOT](../Page/HOTSHOT.md "wikilink")）

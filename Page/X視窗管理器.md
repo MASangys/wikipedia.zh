@@ -92,7 +92,7 @@ X视窗管理器和[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 
 
   - [9wm](https://zh.wikipedia.org/wiki/9wm "wikilink") [11](http://unauthorised.org/dhog/9wm.html)（複製 [九號計畫](../Page/貝爾實驗室九號計畫.md "wikilink") 原先的視窗系統）
 
-  - [aewm](https://zh.wikipedia.org/wiki/aewm "wikilink") [12](http://www.red-bean.com/~decklin/software/aewm/)
+  - [aewm](https://zh.wikipedia.org/wiki/aewm "wikilink") [12](https://web.archive.org/web/20061213142305/http://www.red-bean.com/%7Edecklin/software/aewm/)
 
   -
   - [amiwm](https://zh.wikipedia.org/wiki/amiwm "wikilink") [13](http://www.lysator.liu.se/~marcus/amiwm.html) Amiga workbench unix clone.

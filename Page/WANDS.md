@@ -133,7 +133,7 @@
 
 ### 重组（2019年至今）
 
-2019年11月13日，WANDS宣布重组，新主唱[上原大史加入乐队](https://zh.wikipedia.org/wiki/上原大史 "wikilink")，与柴崎浩，木村真也一同组成第5期成员，并计划于2020年1月29日发行新单曲《真っ赤なLip》\[1\]。
+2019年11月13日，WANDS宣布重组，新主唱[上原大史加入乐队](https://zh.wikipedia.org/wiki/上原大史 "wikilink")，与柴崎浩，木村真也一同组成第5期成员，并计划于2020年1月29日发行新单曲《》\[1\]。
 
 ## 音樂作品
 
@@ -443,6 +443,6 @@
   - [WANDS - Being Official Web Site](http://www.being.co.jp/wands/)
   - [WANDS OFFICIAL WEBSITE 第5期](https://wands-official.jp/)
 
-[Category:日本摇滚樂團](https://zh.wikipedia.org/wiki/Category:日本摇滚樂團 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:流行搖滾樂團 "wikilink") [Category:Being旗下艺人](https://zh.wikipedia.org/wiki/Category:Being旗下艺人 "wikilink") [Category:日本金唱片大獎邦樂部門獲獎者](https://zh.wikipedia.org/wiki/Category:日本金唱片大獎邦樂部門獲獎者 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:1991年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1991年成立的音樂團體 "wikilink") [Category:2000年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年解散的音樂團體 "wikilink")
+[Category:日本摇滚樂團](https://zh.wikipedia.org/wiki/Category:日本摇滚樂團 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:流行搖滾樂團 "wikilink") [Category:Being旗下艺人](https://zh.wikipedia.org/wiki/Category:Being旗下艺人 "wikilink") [Category:日本金唱片大獎邦樂部門獲獎者](https://zh.wikipedia.org/wiki/Category:日本金唱片大獎邦樂部門獲獎者 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink") [Category:1991年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1991年成立的音樂團體 "wikilink") [Category:2000年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年解散的音樂團體 "wikilink")
 
 1.

@@ -13,7 +13,7 @@ AXN 頻道是亞洲首屈一指的動作及實境冒險頻道，以 18 至 39 �
 
 2009年3月份，AXN也推出了HD高畫質頻道 （HD）。
 
-AXN Asia隸屬Sony Pictures Entertainment並在Sony Pictures Television Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel與ONE等頻道。
+AXN Asia隸屬Sony Pictures Entertainment並在Sony Pictures Television Networks, Asia（SPENA） 轄下，該公司同時運作GEM、Animax、Sony Channel與ONE等頻道。
 
 台灣行銷由徐樹翔統籌，[《馬蓋先》VR體驗活動2016年在網路掀起熱烈討論](https://www.facebook.com/AXNTW/posts/1516216148407322)。《亞洲達人秀》第三季於2019年2月7日（週四）晚間8:30全球首播，台灣嘻哈舞團MANIAC Family的亮眼表現，也被《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink")》、《[Yahoo奇摩](../Page/Yahoo奇摩.md "wikilink")新聞》、《[中時電子報](../Page/中時電子報.md "wikilink")》與《[NOWnews今日新聞](../Page/NOWnews今日新聞.md "wikilink")》大篇幅報導。
 
@@ -246,13 +246,13 @@ AXN Asia隸屬Sony Pictures Entertainment並在Sony Pictures Television Networks
 
 ### 實境
 
-  - [金氏世界瘋狂全紀錄](https://zh.wikipedia.org/wiki/金氏世界瘋狂全紀錄 "wikilink")(第2季)
+  - [金氏世界瘋狂全紀錄](https://zh.wikipedia.org/wiki/金氏世界瘋狂全紀錄 "wikilink")（第2季）
 
-  - [百战铁人王](https://zh.wikipedia.org/wiki/百战铁人王 "wikilink")(第6季)
+  - [百战铁人王](https://zh.wikipedia.org/wiki/百战铁人王 "wikilink")（第6季）
 
-  - [美國好聲音](https://zh.wikipedia.org/wiki/美國好聲音 "wikilink")(第8季)
+  - [美國好聲音](https://zh.wikipedia.org/wiki/美國好聲音 "wikilink")（第8季）
 
-  - [驚險全記錄](https://zh.wikipedia.org/wiki/驚險全記錄 "wikilink")(第7季)
+  - [驚險全記錄](https://zh.wikipedia.org/wiki/驚險全記錄 "wikilink")（第7季）
 
   - [极限忍者王](https://zh.wikipedia.org/wiki/极限忍者王 "wikilink")
 

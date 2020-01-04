@@ -28,6 +28,17 @@
   - 2018年12月11日，vivo在中国发布智能手机NEX 双屏版。
   - 2019年3月1日，Vivo旗下子品牌[iQOO发布智能手机Vivo](https://zh.wikipedia.org/wiki/Vivo_iQOO "wikilink") iQOO。
 
+## 代言人
+
+  - Xplay5、X7系列：[宋仲基](../Page/宋仲基.md "wikilink")
+  - X9s系列：[倪妮](../Page/倪妮.md "wikilink")
+  - X9、X9s、X20系列：[彭于晏](../Page/彭于晏.md "wikilink")
+  - X20系列：[周冬雨](https://zh.wikipedia.org/wiki/周冬雨 "wikilink")
+  - X20、X23系列：[鹿晗](../Page/鹿晗.md "wikilink")
+  - X27系列：[王嘉爾](../Page/王嘉爾.md "wikilink")
+  - X23、S1、S5系列：[蔡徐坤](../Page/蔡徐坤.md "wikilink")
+  - X23、X30系列：[劉雯](https://zh.wikipedia.org/wiki/劉雯 "wikilink")
+
 ## 全球市场
 
 2014年，vivo开始全面进军海外市场。

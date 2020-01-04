@@ -1124,9 +1124,7 @@ cute是可愛的；令人憐愛的。為了表現女孩們情熱的體溫，將�
 
 {{℃-ute}}
 
-[cat:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/cat:NHK紅白歌合戰出场歌手 "wikilink")
-
-[Category:℃-ute](https://zh.wikipedia.org/wiki/Category:℃-ute "wikilink") [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
+[Category:℃-ute](https://zh.wikipedia.org/wiki/Category:℃-ute "wikilink") [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink")
 
 1.
 2.

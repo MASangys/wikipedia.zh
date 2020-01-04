@@ -100,11 +100,12 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>32</p></td>
-<td><p>1003、1086～1090、1094～1104、1106～1109、1117～1119、1123﹑1124﹑1141～1143、1154、1165、1166</p></td>
+<td><p>30</p></td>
+<td><p>1003、1086～1090、1094～1097、1099～1104、1106～1109、1117、1119、1123﹑1124﹑1141～1143、1154、1165、1166</p></td>
 <td><p>深圳北</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/广梅汕铁路.md" title="wikilink">广梅汕铁路</a></p></td>
-<td><p>1003定員668；1123及更大数值的，定员649；其余定员645。</p></td>
+<td><p>1003定員668；1123及更大数值的，定员649；其余定员645。<br />
+大部分列車已轉配潮州所。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -116,6 +117,14 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2</p></td>
+<td><p>1098、1118</p></td>
+<td><p>潮州</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杭深綫" title="wikilink">杭深綫</a>、<a href="https://zh.wikipedia.org/wiki/梅汕客專" title="wikilink">梅汕客專</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/南昌局集團" title="wikilink">南昌局集團</a></p></td>
 <td><p>21</p></td>
 <td><p>1125～1140、1147～1149、1152、1153</p></td>
@@ -123,7 +132,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p><a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/龙厦铁路.md" title="wikilink">龙厦铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>17</p></td>
 <td><p>1121﹑1122﹑1144～1146、1150、1151、1155～1164</p></td>
 <td><p>福州南</p></td>
@@ -131,7 +140,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>17</p></td>
 <td><p>1081～1085、1091～1093、1105、1110～1116、1120</p></td>
 <td><p>廈門北</p></td>
@@ -139,7 +148,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/成都局集團" title="wikilink">成都局集團</a></p></td>
 <td><p>20</p></td>
 <td><p>1021～1040</p></td>
@@ -148,7 +157,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a>、<a href="../Page/兰渝铁路.md" title="wikilink">兰渝铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>colspan = 6 | <font color=white><strong>CRH1B</strong></font></p></td>
 <td></td>
 <td></td>
@@ -156,7 +165,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集團" title="wikilink">上海局集團</a></p></td>
 <td><p>14</p></td>
 <td><p>1052～1060﹑1076～1080</p></td>
@@ -164,7 +173,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p><a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深客运专线</a></p></td>
 <td><p>1076～1080為第一代CRH1E頭型</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>1041～1045、1047～1051</p></td>
 <td><p>艮山门</p></td>
@@ -173,7 +182,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/中国铁路总公司.md" title="wikilink">中国铁路总公司</a></p></td>
 <td><p>1</p></td>
 <td><p>1046</p></td>
@@ -182,7 +191,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p>|该列車因<a href="../Page/甬台温铁路.md" title="wikilink">甬台温铁路</a><a href="../Page/2011年甬台温铁路列车追尾事故.md" title="wikilink">脱轨事故</a>，13至16號车廂因脱轨而报废，<br />
 1至12號車厢被鐵路總公司改為訓練列車。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>colspan = 6 | <font color=white><strong>CRH1E</strong></font></p></td>
 <td></td>
 <td></td>
@@ -190,7 +199,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集團" title="wikilink">上海局集團</a></p></td>
 <td><p>20</p></td>
 <td><p>1061～1075、1229～1233</p></td>
@@ -198,7 +207,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p><a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深客运专线</a>、<a href="https://zh.wikipedia.org/wiki/广深港高铁" title="wikilink">广深港高铁</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a></p></td>
 <td><p>1073~1075无高级软卧。 1229以后为CRH1A-A头型CRH1E（也无高级软卧）。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>colspan = 6 | <font color=white><strong>CRH1A-A</strong></font></p></td>
 <td></td>
 <td></td>
@@ -206,7 +215,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集團" title="wikilink">广州局集團</a></p></td>
 <td><p>16</p></td>
 <td><p>1169、1172～1176、1217、1218、1234～1236、1242、1243、1247～1249</p></td>
@@ -214,7 +223,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p><a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/广梅汕铁路.md" title="wikilink">广梅汕铁路</a>、<a href="https://zh.wikipedia.org/wiki/广深港高铁" title="wikilink">广深港高铁</a></p></td>
 <td><p>杭深线涉港车次中由广州局集团值乘的部分均由此擔當</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>18</p></td>
 <td><p>1171、1177～1184、1209～1213、1215、1216、1250、1260</p></td>
 <td><p>三亞</p></td>
@@ -222,7 +231,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>29</p></td>
 <td><p>1170、1214、1219～1228、1237～1241、1244～1246、1251～1259</p></td>
 <td><p>佛山（客專場）</p></td>
@@ -230,7 +239,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/南昌局集團" title="wikilink">南昌局集團</a></p></td>
 <td><p>24</p></td>
 <td><p>1185～1208</p></td>
@@ -238,7 +247,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p><a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/龙厦铁路.md" title="wikilink">龙厦铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/鹰厦铁路.md" title="wikilink">鹰厦铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1086,4 +1095,4 @@ ZE 1xxx00</p></td>
 14.
 15. <http://blog.sina.com.cn/s/blog_7c1fcccf0102vm8o.html>
 16.
-17. <http://hsr.huiji.wiki/wiki/CRH1E-NG%E5%9E%8B%E5%8A%A8%E8%BD%A6%E7%BB%84>
+17.

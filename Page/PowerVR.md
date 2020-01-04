@@ -31,6 +31,8 @@ iPod Touch 6G 是採用PowerVR GX6450的4核心圖像處理器（GPU） GPU Spee
 
 ### Intel Atom
 
+[華碩](../Page/華碩.md "wikilink")旗下的[ZenFone部分機型](../Page/華碩ZenFone系列.md "wikilink")，由於採用[Intel Atom作為處理器](https://zh.wikipedia.org/wiki/凌動 "wikilink")，其顯示晶片便是採用PowerVR的架構。
+
 ### Google TV
 
 ### Sony PS Vita

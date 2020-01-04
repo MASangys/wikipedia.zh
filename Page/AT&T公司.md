@@ -1,9 +1,9 @@
 > 本文内容由[AT\&T公司](https://zh.wikipedia.org/wiki/AT\&T公司)转换而来。
 
 
-**美國電話與電報公司**（， American Telephone & Telegraph 的縮寫）是一家為企業客戶及政府機構提供語音、影像、數據傳輸和網路服務的美國[電信公司](https://zh.wikipedia.org/wiki/電訊 "wikilink")。美國電話與電報公司曾長時間壟斷全球電信與有線電視服務。現今的美國電話與電報公司是 [AT\&T](../Page/AT&T.md "wikilink") 公司旗下的子公司，並在之下提供國際長途電話服務。
+**美國電話與電報公司**（， American Telephone & Telegraph 的縮寫）是一家為企業客戶及政府機構提供語音、影像、數據傳輸和網路服務的美國[電信公司](https://zh.wikipedia.org/wiki/電訊 "wikilink")。美國電話與電報公司曾長時間壟斷全球電信與有線電視服務。現今的美國電話與電報公司是[AT\&T](../Page/AT&T.md "wikilink")公司旗下的子公司，並在之下提供國際長途電話服務。
 
-在2005年美國電話與電報公司被之一的SBC電信以 160 億美元收購（現值約178億美元），並繼以 **AT\&T** 為名。
+在2005年美國電話與電報公司被之一的SBC電信以 160 億美元收購（現值約178億美元），並繼以**AT\&T**為名。
 
 雖然美國電話與電報公司作為AT\&T公司的子公司存在，但名字只會偶爾出現在AT\&T公司的新聞稿中\[1\]。
 
@@ -11,7 +11,7 @@
 
 [Lines_and_Metallic_Circuit_Connections,_American_Telephone_and_Telegraph_Co,_March_1,_1891_edit.jpg](https://zh.wikipedia.org/wiki/File:Lines_and_Metallic_Circuit_Connections,_American_Telephone_and_Telegraph_Co,_March_1,_1891_edit.jpg "fig:Lines_and_Metallic_Circuit_Connections,_American_Telephone_and_Telegraph_Co,_March_1,_1891_edit.jpg")
 
-美國電話電報公司源於由[亞歷山大·格拉漢姆·貝爾及他的兩位從事金融的朋友](https://zh.wikipedia.org/wiki/亞歷山大·格拉漢姆·貝爾 "wikilink")[赫巴德及](../Page/加德納·格林·赫巴德.md "wikilink")成立的[貝爾電話公司](https://zh.wikipedia.org/wiki/貝爾電話公司 "wikilink")。 1879年3月更名為國家貝爾電話公司，第二年3月再更名為美國貝爾電話公司。 1881年美國貝爾電話公司從[西聯公司收購了](https://zh.wikipedia.org/wiki/西聯匯款 "wikilink")，三年前西聯公司拒絕了赫巴德報價10萬元出售的電話專利（現值225萬美元）。
+美國電話電報公司源於由[亞歷山大·格拉漢姆·貝爾及他的兩位從事金融的朋友](https://zh.wikipedia.org/wiki/亞歷山大·格拉漢姆·貝爾 "wikilink")[赫巴德及](../Page/加德納·格林·赫巴德.md "wikilink")成立的[貝爾電話公司](../Page/貝爾電話公司.md "wikilink")。 1879年3月更名為國家貝爾電話公司，第二年3月再更名為美國貝爾電話公司。 1881年美國貝爾電話公司從[西聯公司收購了](https://zh.wikipedia.org/wiki/西聯匯款 "wikilink")，三年前西聯公司拒絕了赫巴德報價10萬元出售的電話專利（現值225萬美元）。
 
 1880年美國貝爾公司啟動“建立第一個可商業化的國內長途電話網絡”計畫，美國貝爾公司並於1885年3月3日在紐約州成立美國電話與電報公司。 1892年網絡已從[紐約鋪設至](https://zh.wikipedia.org/wiki/紐約 "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")。
 

@@ -134,7 +134,7 @@ OpenSSL管理委員會目前由7人組成\[1\] 有13個開發人員\[2\]具有�
 <li>支持<a href="../Page/应用层协议协商.md" title="wikilink">应用层协议协商</a></li>
 <li>CMS支持、、<a href="https://zh.wikipedia.org/wiki/ECDH" title="wikilink">ECDH及X</a>9.42 DH</li>
 </ul></td>
-<td><p>1.0.2t（）</p></td>
+<td><p>1.0.2u（）</p></td>
 </tr>
 <tr class="even">
 <td><p>[8]</p></td>
@@ -197,7 +197,7 @@ OpenSSL支持许多不同的加密算法：
 
 ## 心脏出血漏洞
 
-OpenSSL 1.0.1版本（不含1.0.1g）含有一个严重漏洞，可允许攻击者读取服务器的内存信息。该漏洞影响三分之二的活跃网站\[19\]。
+OpenSSL 1.0.1版本（不含1.0.1g）含有一个严重漏洞，可允许攻击者读取服务器的内存信息。该漏洞於2014年4月被公諸於世，影响三分之二的活跃网站\[19\]。
 
 ## 分支
 

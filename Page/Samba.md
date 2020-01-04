@@ -38,7 +38,7 @@ Samba能夠為選定的Unix目錄（包括所有子目錄）建立網絡共享�
   - [Samba官方網站](http://www.samba.org/)
   - [10 years of Samba\!](http://www.samba.org/samba/docs/10years.html)
   - [Samba是怎樣編寫的](http://samba.org/ftp/tridge/misc/french_cafe.txt)
-  - [Samba "how to"](https://calomel.org/samba.html) and [Samba Optimization and Speed Tuning](https://calomel.org/samba_optimize.html)
+  - [Samba "how to"](https://web.archive.org/web/20080314133602/http://calomel.org/samba.html) and [Samba Optimization and Speed Tuning](https://web.archive.org/web/20080328223953/http://calomel.org/samba_optimize.html)
   - [Using Samba 2nd ed.](https://archive.is/20130112041920/http://www.bibsyst.no/samba/docs/using_samba/toc.html)，book licensed under the [GFDL](https://zh.wikipedia.org/wiki/GFDL "wikilink")
   - [Samba-3 by Example](http://www.informit.com/content/images/0131472216/downloads/0131472216_book.pdf)，book licensed under the [OPL](https://zh.wikipedia.org/wiki/Open_Publication_License "wikilink")
   - [Setting up Samba](https://web.archive.org/web/20080522080223/http://www.linux.ie/articles/tutorials/samba.php) Samba教程

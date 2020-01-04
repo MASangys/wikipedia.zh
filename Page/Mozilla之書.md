@@ -1,7 +1,7 @@
 > 本文内容由[Mozilla之書](https://zh.wikipedia.org/wiki/Mozilla之書)转换而来。
 
 
-**Mozilla之書**（****）是[Netscape和](https://zh.wikipedia.org/wiki/Netscape "wikilink")[Mozilla](../Page/Mozilla.md "wikilink")系列[網頁瀏覽器中著名的](../Page/网页浏览器.md "wikilink")[復活節彩蛋](../Page/彩蛋_\(媒体\).md "wikilink")\[1\]\[2\]。使用者只需在網頁瀏覽器的網址列中键入<about:mozilla>就可以看到這本《Mozilla之书》\[3\]\[4\]\[5\]。
+**Mozilla之書**（）是[Netscape和](https://zh.wikipedia.org/wiki/Netscape "wikilink")[Mozilla](../Page/Mozilla.md "wikilink")系列[網頁瀏覽器中著名的](../Page/网页浏览器.md "wikilink")[復活節彩蛋](../Page/彩蛋_\(媒体\).md "wikilink")\[1\]\[2\]。使用者只需在網頁瀏覽器的網址列中键入<about:mozilla>就可以看到這本《Mozilla之书》\[3\]\[4\]\[5\]。
 
 ## 關於Mozilla之書
 

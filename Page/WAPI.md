@@ -88,7 +88,7 @@ WAPI产业联盟成立于2006年3月7日。\[16\]
 10. [宽带无线局域网WAPI国际标准推进获重大突破](http://news.xinhuanet.com/fortune/2009-06/15/content_11546252.htm). 新華網.
 11. [WAPI基础架构虎符TePA正式成为国际标准](http://www.cnbeta.com/articles/118884.htm). cnBeta.
 12. [WAPI可兼容WIFI：手机接入速度更快](http://news.xinhuanet.com/internet/2009-04/29/content_11278353.htm) - 新華網
-13. [WAPI可兼容WIFI 玩家兴奋](http://tech.163.com/09/0429/07/58242UNA000915BE.html) - 網易
+13. [WAPI可兼容WIFI 玩家兴奋](http://tech.163.com/09/0429/07/58242UNA000915BE.html)  - 網易
 14. [WiFi手机或近期解禁 模式将采用与WAPI兼容](http://www.c114.net/news/16/a396102.html) - c114
 15. [WAPI终端芯片模块出炉：与WiFi兼容](http://network.51cto.com/art/200901/105092.htm) - 51CTO
 16. [联盟简介](http://www.wapia.org/about/aboutunion/default.shtml). WAPI产业联盟

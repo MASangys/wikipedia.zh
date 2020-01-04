@@ -802,7 +802,7 @@
 <td><p>DIN</p></td>
 <td><p>VVDB</p></td>
 <td><p><a href="../Page/奠邊府機場.md" title="wikilink">奠邊府機場</a></p></td>
-<td><p><a href="../Page/奠邊府市.md" title="wikilink">奠邊府市</a>，<a href="https://zh.wikipedia.org/wiki/奠邊省" title="wikilink">奠邊省</a></p></td>
+<td><p><a href="../Page/奠邊府市.md" title="wikilink">奠邊府市</a>，<a href="../Page/奠邊省.md" title="wikilink">奠邊省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

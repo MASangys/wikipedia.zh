@@ -71,8 +71,8 @@ CRH5型[电力动车组采用](https://zh.wikipedia.org/wiki/电力动车组 "wi
 </tr>
 <tr class="even">
 <td><p><a href="../Page/中国铁路武汉局集团有限公司.md" title="wikilink">武汉局集团</a></p></td>
-<td><p>31</p></td>
-<td><p>5075～5079﹑5090﹑5091、5095～5110、5123～5127、5133、5136、5137</p></td>
+<td><p>28</p></td>
+<td><p>5076～5079﹑5090﹑5091、5096、5097、5099～5110、5123～5127、5133、5136、5137</p></td>
 <td><p>汉口</p></td>
 <td><p><a href="../Page/汉宜铁路.md" title="wikilink">汉宜铁路</a>、<a href="../Page/宜万铁路.md" title="wikilink">宜万铁路</a>、<a href="../Page/汉丹铁路.md" title="wikilink">汉丹铁路</a></p></td>
 <td></td>
@@ -83,7 +83,7 @@ CRH5型[电力动车组采用](https://zh.wikipedia.org/wiki/电力动车组 "wi
 <td><p>5014～5017﹑5024～5027、5031、5032、5034、5035、5038～5040、5058、5580～5082、5088、5089、5092～5094、5111～5114、5138、5139</p></td>
 <td><p>长春</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/哈大高速铁路" title="wikilink">哈大高铁</a>、<a href="../Page/长珲城际铁路.md" title="wikilink">长珲城际铁路</a>、<a href="../Page/长白铁路.md" title="wikilink">长白铁路</a></p></td>
-<td></td>
+<td><p>5075、5095、5098尚未正式配屬動車所。</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>

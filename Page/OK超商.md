@@ -1,7 +1,7 @@
 > 本文内容由[OK超商](https://zh.wikipedia.org/wiki/OK超商)转换而来。
 
 
-**OK超商**（**來來超商股份有限公司**）是一個成立於[臺灣](../Page/臺灣.md "wikilink")的[超商](https://zh.wikipedia.org/wiki/超商 "wikilink")[加盟體系](https://zh.wikipedia.org/wiki/加盟 "wikilink")，原與[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Circle K合作](../Page/OK便利店.md "wikilink")，后变为獨立的台灣[便利商店](../Page/便利商店.md "wikilink")品牌。
+**OK超商**（**來來超商股份有限公司**）是一個成立於[臺灣](../Page/臺灣.md "wikilink")的[超商](https://zh.wikipedia.org/wiki/超商 "wikilink")[加盟體系](https://zh.wikipedia.org/wiki/加盟 "wikilink")，原與[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Circle K合作](../Page/OK便利店.md "wikilink")，後不續約品牌授權，但由於OK形象已打入市場，所以來來超商對Circle K的商標稍作修改後，取名為OK mart。
 
 ## 歷史
 

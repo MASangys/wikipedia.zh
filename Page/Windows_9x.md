@@ -155,7 +155,7 @@ Windows 9x不支持[超线程](https://zh.wikipedia.org/wiki/超线程 "wikilink
 
 Windows 9x不支持[SATA](../Page/SATA.md "wikilink") [AHCI](../Page/AHCI.md "wikilink")（Windows 2000及Windows XP預設也不支援SATA AHCI，需要安裝驅動程式，較為麻煩），或[USB隨身碟](https://zh.wikipedia.org/wiki/USB隨身碟 "wikilink")（Windows Me除外，Windows 98需要安裝USB隨身碟的驅動程式），但出现为数众多针对Windows 98/Me驱动程序的SATA-I控制器。对Windows 98/Me的硬件驱动程序支持自2005年逐渐减少，特别是主板芯片组和显卡的驱动程序。
 
-早期的Windows 95不支持[USB](../Page/USB.md "wikilink")和[AGP](../Page/AGP.md "wikilink")。
+早期的Windows 95不支持[USB](../Page/USB.md "wikilink")和[AGP](../Page/AGP.md "wikilink")。Windows 95 OSR2可安裝USB補丁和AGP補丁以支援USB和AGP。
 
 Windows 98是第一款支援[ACPI的Windows](https://zh.wikipedia.org/wiki/ACPI "wikilink")。
 

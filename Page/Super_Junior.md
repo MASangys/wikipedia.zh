@@ -330,7 +330,7 @@ LineData =
   - 2012：[Sexy, Free & Single / SPY](../Page/Sexy,_Free_&_Single.md "wikilink")
   - 2014：[Mamacita / This Is Love](../Page/Mamacita.md "wikilink")
   - 2017 / 2018：[Play / Replay](../Page/Play_\(Super_Junior專輯\).md "wikilink")
-  - 2019：[Time_Slip](../Page/Time_Slip.md "wikilink")/[Timeline](https://zh.wikipedia.org/wiki/Timeline "wikilink")
+  - 2019：[Time_Slip](../Page/Time_Slip.md "wikilink")
 
 <!-- end list -->
 
@@ -362,7 +362,15 @@ LineData =
 
 <!-- end list -->
 
-  - 2013：*[Hero](../Page/Hero_\(Super_Junior專輯\).md "wikilink")*
+  - 2013：[Hero](../Page/Hero_\(Super_Junior專輯\).md "wikilink")
+
+<!-- end list -->
+
+  - 迷你專輯
+
+<!-- end list -->
+
+  - 2020：[I Think U](https://zh.wikipedia.org/wiki/I_Think_U "wikilink")
 
 <!-- end list -->
 

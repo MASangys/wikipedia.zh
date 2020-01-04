@@ -345,7 +345,7 @@ ZE 2xxx00</p></td>
 <td><p>2011、2013、2019、2033、2034、2039、2043、2045～2051、2053、2055、2169、2179、2180、2200、2205、2206、2209、2210</p></td>
 <td><p>汉口</p></td>
 <td><p><a href="../Page/武九铁路.md" title="wikilink">武九铁路</a>、<a href="https://zh.wikipedia.org/wiki/合宁铁路" title="wikilink">合宁铁路</a>、<a href="../Page/合武铁路.md" title="wikilink">合武铁路</a>、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/汉丹铁路.md" title="wikilink">汉丹铁路</a>、<a href="../Page/襄渝铁路.md" title="wikilink">襄渝铁路</a></p></td>
-<td></td>
+<td><p>部分列車將會轉配上海局集團。</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
@@ -361,7 +361,7 @@ ZE 2xxx00</p></td>
 <td><p>2001、2003～2009、2012、2015、2018、2020、2024、2026、2028、2030、2031、2044、2057、2058、2153、2154、2158、2159、2161、2166～2168、2174～2177、2181～2184、2186～2189、<br />
 2194～2196、2202～2204</p></td>
 <td><p>上海南</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/沪杭高速铁路" title="wikilink">沪杭高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/金山铁路" title="wikilink">金山铁路</a>、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沪杭高速铁路" title="wikilink">沪杭高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/金山铁路" title="wikilink">金山铁路</a>、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="https://zh.wikipedia.org/wiki/徐宿淮盐铁路" title="wikilink">徐宿淮盐铁路</a>、<a href="https://zh.wikipedia.org/wiki/连淮扬镇铁路" title="wikilink">连淮扬镇铁路</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -376,7 +376,7 @@ ZE 2xxx00</p></td>
 <td><p>12</p></td>
 <td><p>2002、2014、2016、2025、2036～2038、2156、2160、2165、2178、2197</p></td>
 <td><p>南京</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/寧啓鐵路" title="wikilink">寧啓鐵路</a>、<a href="https://zh.wikipedia.org/wiki/寧安城際鐵路" title="wikilink">寧安城際鐵路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寧啓鐵路" title="wikilink">寧啓鐵路</a>、<a href="https://zh.wikipedia.org/wiki/寧安城際鐵路" title="wikilink">寧安城際鐵路</a>、<a href="https://zh.wikipedia.org/wiki/徐宿淮盐铁路" title="wikilink">徐宿淮盐铁路</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -470,8 +470,8 @@ ZE 2xxx00</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>28</p></td>
-<td><p>2274、2320、2329、2331、2341、2343、2344、2349、2372、2379、2388、2403、2408、2409、2448、2496、4005、4019、4028～4030、4056、4060～4062、4064、4065、4067</p></td>
+<td><p>27</p></td>
+<td><p>2274、2320、2329、2331、2341、2343、2344、2349、2372、2379、2388、2403、2408、2409、2448、2496、4005、4019、4028～4030、4056、4060、4062、4064、4065、4067</p></td>
 <td><p>佛山（客专场）</p></td>
 <td><p><a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a></p></td>
 <td></td>
@@ -486,6 +486,14 @@ ZE 2xxx00</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>1</p></td>
+<td><p>4061</p></td>
+<td><p>長沙城際</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長株潭城際鐵路" title="wikilink">長株潭城際鐵路</a>、<a href="https://zh.wikipedia.org/wiki/石長鐵路" title="wikilink">石長鐵路</a>、<a href="https://zh.wikipedia.org/wiki/黔張常鐵路" title="wikilink">黔張常鐵路</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/济南局集团" title="wikilink">济南局集团</a></p></td>
 <td><p>22</p></td>
 <td><p>2225～2227、2267、2268、2332、2334、2361、2362、2365、2410、2411、2414、2415、2459、2483、2485、2486、4010、4011、4051、4052</p></td>
@@ -493,7 +501,7 @@ ZE 2xxx00</p></td>
 <td><p><a href="../Page/胶济客运专线.md" title="wikilink">胶济客运专线</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>2345、2352～2359、2484</p></td>
 <td><p>濟南</p></td>
@@ -501,7 +509,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/昆明局集团" title="wikilink">昆明局集团</a></p></td>
 <td><p>32</p></td>
 <td><p>2229、2232、2264、2265、2273、2322、2460、2478、2489、2499、2828、4021、4026、4053、4054、4057～4059、4082～4095</p></td>
@@ -510,7 +518,7 @@ ZE 2xxx00</p></td>
 <td><p>CRH2A-2460为新头型试验车。<br />
 部分列車即將轉配<a href="https://zh.wikipedia.org/wiki/南昌局集團" title="wikilink">南昌局集團</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/中国铁路总公司.md" title="wikilink">中国铁路总公司</a></p></td>
 <td><p>1</p></td>
 <td><p>2010</p></td>
@@ -518,7 +526,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td><p>200~250km/h综合检测列车</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1867,7 +1875,7 @@ YJ-92A型交流电动机（<a href="https://zh.wikipedia.org/wiki/日立" title=
 <!-- end list -->
 
   - [产品介绍（南车）](https://web.archive.org/web/20080923215229/http://www.csrgc.com.cn/cpyfw/dcz/2008-05-21/47.shtml)
-  - [最高时速300公里 “子弹头”高速列车首次抵汉（163.com）](http://news.163.com/06/1023/09/2U40IAS200011229.html)
+  - [最高时速300公里 “子弹头”高速列车首次抵汉（163.com）](https://web.archive.org/web/20181216120558/http://news.163.com/06/1023/09/2U40IAS200011229.html)
   - [组图：全国铁路将实施第六次大面积提速（人民网）](http://pic.people.com.cn/GB/42592/5058580.html)
   - [走进动车组生产车间 探秘CRH2型列车（组图）](https://web.archive.org/web/20070502163742/http://www.ce.cn/xwzx/gnsz/gdxw/200704/20/t20070420_11101964.shtml)
   - [CRH2車内設備（日语）](http://www.2427junction.com/chinahighcrh2int.html)
@@ -1914,7 +1922,7 @@ YJ-92A型交流电动机（<a href="https://zh.wikipedia.org/wiki/日立" title=
 30.
 31.
 32.
-33. [中国铁路首次开行卧铺动车组](http://news.163.com/08/1222/08/4TOL5IAL0001124J.html)
+33.
 34. [京沪卧铺动车组列车"揭秘": 休闲酒吧搬进车厢](http://news.xinhuanet.com/life/2008-12/19/content_10526206.htm)
 35.
 36.
@@ -1934,7 +1942,7 @@ YJ-92A型交流电动机（<a href="https://zh.wikipedia.org/wiki/日立" title=
 50.
 51.
 52. [CRH380, 新一代的车体 (海子)](http://bbs.hasea.com/thread-440076-1-1.html)
-53. [中国铁路首次开行卧铺动车组](http://news.163.com/08/1222/08/4TOL5IAL0001124J.html)
+53.
 54.
 55.
 56.

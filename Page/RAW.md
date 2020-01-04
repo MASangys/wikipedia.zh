@@ -221,7 +221,7 @@ DNG格式已利用开放源码的开发。 \[34\]相机制造商的使用不同�
 
 [Category:數位攝影](https://zh.wikipedia.org/wiki/Category:數位攝影 "wikilink") [Category:图形文件格式](https://zh.wikipedia.org/wiki/Category:图形文件格式 "wikilink")
 
-1.  [解码原始Linux中的数码照片](http://www.cybercom.net/%7Edcoffin/dcraw/#i18n)
+1.
 2.
 3.  [在线摄影师：松下LX3桶形失真争议](http://theonlinephotographer.typepad.com/the_online_photographer/2008/12/panasonic-lx3-b.html)
 4.  [松下LX3镜头畸变](http://www.imaging-resource.com/PRODS/LX3/LX3A4.HTM)

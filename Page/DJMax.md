@@ -62,7 +62,7 @@ DJMAX的網絡版本在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ### [DJMAX TECHNIKA](../Page/DJ_Max_Technika.md "wikilink")
 
-街机触摸游戏
+2008年街机触摸游戏
 
 ### DJMAX Trilogy
 
@@ -74,7 +74,7 @@ iOS和ANDROID平台的作品，游戏模式类似于Tap Sonic。
 
 ### DJMAX TECHNIKA Q
 
-目前DJMAX系列的iOS和ANDROID平台的最新作品，街机版本的移植作品。
+目前DJMAX系列的iOS和ANDROID平台的最新作品，街机版本的移植作品,於2019年03月29日結束營運。
 
 ### DJMAX TECHNIKA TUNE
 
@@ -83,6 +83,10 @@ PSV平台上的街机移植作品。
 ### [DJMAX Respect](https://zh.wikipedia.org/wiki/DJMax_Respect "wikilink")
 
 2017年7月28日於[PlayStation 4平台上發售](../Page/PlayStation_4.md "wikilink")。
+
+### [DJMAX Respect V](https://zh.wikipedia.org/wiki/DJMax_Respect "wikilink")
+
+2019年12月19日於[Steam](../Page/Steam.md "wikilink")平台上發售,為DJMax Respect的PC版,修改了部分適合PC瀏覽方式及動畫,增加了SC難度。
 
 ## 游戏歌曲
 

@@ -220,7 +220,7 @@
   - [鈴鹿峠](https://zh.wikipedia.org/wiki/鈴鹿峠 "wikilink")：伊勢 - 伊賀
   - [笠置山](https://zh.wikipedia.org/wiki/笠置山 "wikilink")：伊賀 - 大和
   - [宇治](https://zh.wikipedia.org/wiki/宇治 "wikilink")：大和 - 山城
-  - [金剛山](https://zh.wikipedia.org/wiki/金剛山_\(金剛山地\) "wikilink")：大和 - 攝津和泉
+  - [金剛山](../Page/金剛山_\(金剛山地\).md "wikilink")：大和 - 攝津和泉
   - [吉野](../Page/吉野.md "wikilink")：大和 - 紀伊
   - [田倉崎](https://zh.wikipedia.org/wiki/田倉崎 "wikilink")：攝津和泉 - 紀伊
   - [天王山](../Page/天王山.md "wikilink")：攝津和泉 - 山城
@@ -447,7 +447,7 @@
 
 ## 參考連結
 
-  - [信on寄合所](http://ohmynobu.net/index.php)
+  - [信on寄合所](https://web.archive.org/web/20070928160048/http://ohmynobu.net/index.php)
   - [ねじ](https://web.archive.org/web/20070408061205/http://nezi.web.infoseek.co.jp/html/nol/)（2012年5月10日此站点已关闭）
 
 ## 官方網站

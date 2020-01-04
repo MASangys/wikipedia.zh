@@ -53,7 +53,7 @@
 
   - [TRACEROUTE6.net](http://www.traceroute6.net/): 在亚洲区含IPv4 和 IPv6 的線上traceroute工具
 
-  - [Traceroute test](http://www.test-net.org/traceroute/)
+  - [Traceroute test](https://web.archive.org/web/20141129021644/http://www.test-net.org/traceroute/)
 
   - [在线Traceroute路由器追踪工具](https://myipaddress.pro/cn/traceroute)
 

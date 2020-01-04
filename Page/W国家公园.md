@@ -34,7 +34,7 @@ W国家公园有典型的苏丹类型的热带稀树草原的动物。公园内�
   - Poche R (1973) Niger's threatened park 'W'. Oryx 12(2): 216-222 .
   - Rabeil T (2003) Distribution potentielles des grands mammifères dans le Parc du W au Niger. Doctoral Thesis, Univ. Paris VII. 463 S. [3](http://tel.ccsd.cnrs.fr/docs/00/04/71/22/PDF/tel-00006931.pdf)
   - Price et al. (2003) The “W” Regional Park of Benin, Burkina Faso and Niger - Building on a Process of Regional Integration to Address both Local Interests and Transboundary Challenges. World Parks Congress 2003, Durban, RSA. In: Pansky, Diane (ed.). 2005. Governance Stream of the Vth World Parks Congress. Ottawa, Canada: Parks Canada and IUCN/WCPA. ISBN: R62-375/2003E-MRC 0-662-40433-5. [4](https://web.archive.org/web/20110706175402/http://www.earthlore.ca/clients/WPC/English/grfx/sessions/PDFs/session_1/Price.pdf)
-  - W National Park of Niger. 2009. [5](http://www.wwfus.org/bsp/publications/africa/108/190/chap2.htm)
+  - W National Park of Niger. 2009. [5](https://web.archive.org/web/20110928162649/http://www.wwfus.org/bsp/publications/africa/108/190/chap2.htm)
 
 ## 外部链接
 

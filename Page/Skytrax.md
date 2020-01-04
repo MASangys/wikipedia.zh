@@ -146,8 +146,6 @@
 
   - [長榮航空](../Page/長榮航空.md "wikilink")（[星空聯盟](../Page/星空聯盟.md "wikilink")）
 
-  - [馬來西亞航空](https://zh.wikipedia.org/wiki/馬來西亞航空 "wikilink")（[寰宇一家](../Page/寰宇一家.md "wikilink")）
-
   - [加魯達印尼航空](https://zh.wikipedia.org/wiki/加魯達印尼航空 "wikilink")（[天合聯盟](../Page/天合聯盟.md "wikilink")）
 
   - [海南航空](../Page/海南航空.md "wikilink")

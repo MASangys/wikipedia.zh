@@ -3,7 +3,7 @@
 
 **哆啦A夢角色列表**為《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》所有相關作品（包括[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[電視動畫及真人化版本](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")）的登場角色介紹，另日本以外地區的配音員資訊均以[朝日電視台](../Page/朝日電視台.md "wikilink")版本為主。
 
-## 主要角色
+## 主角
 
   -
 
@@ -109,6 +109,31 @@
     8月7日出生。原作為小學4年級的學生，動畫版為小學5年級。哆啦A夢負責照顧的對象。又笨又懶，功課、體育也不好，也因個性懦弱、懶惰而常受師長的責罵及同學的霸凌。但本性(心地)善良，在電影版常有耀眼表現，也熱愛大自然。擅長的項目有射擊、翻花繩和快速入睡。喜歡靜香。
 
 ## 次要角色
+
+  - [出木杉英才](../Page/出木杉英才.md "wikilink")（出木杉，或稱小杉，）
+
+<!-- end list -->
+
+  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1980年4月—2005年3月）→[萩野志保子](../Page/萩野志保子.md "wikilink")（朝日電視台版2005年5月—）／
+
+<!-- end list -->
+
+  -
+    青年期：[納谷六朗](../Page/納谷六朗.md "wikilink")（1989）→[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1999年電影版：[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")）→[大瀧進矢](../Page/大瀧進矢.md "wikilink")（2007）→[萩野志保子](../Page/萩野志保子.md "wikilink")（2010 太雄的結婚前夜）
+
+<!-- end list -->
+
+  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")、[巫哲棋](../Page/巫哲棋.md "wikilink")（無綫版，成年）、[劉惠雲](../Page/劉惠雲.md "wikilink")、[曾秀清](../Page/曾秀清.md "wikilink")（電影版）、[馬慧琪](https://zh.wikipedia.org/wiki/馬慧琪 "wikilink")（STAND BY ME）
+  - 台灣配音員（哆啦A夢版本）：[于正昇](../Page/于正昇.md "wikilink")＆[于正昌](../Page/于正昌.md "wikilink")（1979年版、除了2008年的電影版）→[姚敏敏](../Page/姚敏敏.md "wikilink")（2005年版前52集）→[雷碧文](../Page/雷碧文.md "wikilink")（2005年版第53集起）→[連思宇](../Page/連思宇.md "wikilink")（2005年版第182集起）、[劉如蘋](../Page/劉如蘋.md "wikilink")（電影版，2014年起）
+  - [中国大陆](../Page/中国大陆.md "wikilink")配音員：[武向彤](https://zh.wikipedia.org/wiki/武向彤 "wikilink")（电影版）、[劉紅韻](https://zh.wikipedia.org/wiki/劉紅韻 "wikilink")（廣東梁穎配音版）
+  - 真人版演員：[內村航平](https://zh.wikipedia.org/wiki/內村航平 "wikilink")（豐田汽車廣告）
+
+<!-- end list -->
+
+  -
+    1964年4月生（以前設定為1962年生）。野比大雄的同學，是個近乎完美的少年。讀書成績為班上最好，其他興趣(包括煮食)也有很好的表現，和靜香很談得來，令大雄感到妒忌。最初設定為靜香未來的伴侶，哆啦A夢便是為了這個原因，才回到過去協助大雄改變。
+
+<!-- end list -->
 
   -
 
@@ -259,7 +284,7 @@
     喜歡的食物:[牛排](../Page/牛排.md "wikilink")；討厭的食物:[青椒](https://zh.wikipedia.org/wiki/青椒 "wikilink")、[苦瓜](../Page/苦瓜.md "wikilink")
     2月29日生，大雄的同學，顯示欲強。家境富裕，喜好賣弄、炫耀、耍小聰明，非常乞人憎的富家子。
 
-## 主要角色的家人及配角
+## 主要角色的家人
 
   - [野比玉子](../Page/野比玉子.md "wikilink")（）美國版本稱Tammy，中文舊稱葉美玉
 
@@ -345,62 +370,12 @@
 
   -
     大雄的爸爸，36歲\[9\]，動畫設定為昭和11年（1938年1月24日）出生（『』）\[10\]。
+
     也可稱野比伸助（日文︰），在[1979年版動畫](https://zh.wikipedia.org/wiki/1979年版動畫 "wikilink")《》中，出現「野比野比助」之漢字。[野比大雄](../Page/野比大雄.md "wikilink")的父親，朝九晚五的典型上班族，雙親中他較寵大雄，不過有時候也對大雄很嚴厲，甚至有時候會跟玉子一起責備他。他畫得一手好畫，得過畫賞，年輕時曾經有和某富商之女結婚就有能被捧為名畫家的機會，不過因為堅持「人生的路是要由自己闖出」而沒有接受，因而碰見現時的[妻子](../Page/野比玉子.md "wikilink")（即大雄媽媽[玉子](../Page/野比玉子.md "wikilink")）。有抽煙和喝酒的不良嗜好，多次戒煙不果。閒時愛去釣魚（不過技術不佳）、打高爾夫球（打得也不算好）和打麻將，汽車駕照也老是考不上。因他本身十分容易招風雨（度數為-8.5\[11\]，另外[大雄為](https://zh.wikipedia.org/wiki/大雄 "wikilink")-2，[多啦A夢為](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")+1.5，[小夫為](https://zh.wikipedia.org/wiki/小夫 "wikilink")-7，[靜香為](https://zh.wikipedia.org/wiki/靜香 "wikilink")+9，[胖虎為](https://zh.wikipedia.org/wiki/胖虎 "wikilink")+10），因打高爾夫球時經常都下雨，而被同事稱為「掃帚星」，時不時會成為哆啦A夢法寶的最終受害人。
+
     早期的故事中，幼年的大助曾因二次大戰，要跟別的孩子和老師疏散到鄉下避難，由朝到晚都要耕作勞動，嚴苛的生活一度令大助打算投河自殺，幸好因為一位「白百合般的長髮少女」出現在河邊，並送給他一塊巧克力讓他重新振作，因此大助對巧克力有著一種特別的感情；不過，那位少女其實是乘[時光機回到當時的大雄陰錯陽差下假扮而成的](https://zh.wikipedia.org/wiki/時光機 "wikilink")。（短篇動漫《好像白百合的少女》）
+
     在電影版《大雄與奇蹟之島》當中，曾因時空導航員的出錯，把小孩時的[野比大助誤送到奇跡之島](https://zh.wikipedia.org/wiki/野比大助 "wikilink")。在那時以「馬雅」身份與大雄等人一起參與冒險，可是因失憶棒而忘記當時情景，在他的畫簿中，有一隻金黃色的甲蟲獨角仙，可作為當時的證明。
-
-<!-- end list -->
-
-  - 春待老師，美國版本稱Mr S
-
-<!-- end list -->
-
-  - 日本配音員：[加藤修](https://zh.wikipedia.org/wiki/加藤治 "wikilink")→[雨森雅司](https://zh.wikipedia.org/wiki/雨森雅司 "wikilink")（1973）→[沢りつお](https://zh.wikipedia.org/wiki/沢りつお "wikilink")（1979年4月—5月）→[加藤治](https://zh.wikipedia.org/wiki/加藤治 "wikilink")→不明→[井上和彥](../Page/井上和彥.md "wikilink")（—1981年10月）→[田中亮一](https://zh.wikipedia.org/wiki/田中亮一 "wikilink")（1981年10月—2005年3月）→[高木涉](../Page/高木涉.md "wikilink")（2005年4月—）
-  - 香港配音員：[周鸞](../Page/周鸞.md "wikilink")→[陳曙光](../Page/陳曙光.md "wikilink")（—2015年12月）→[馮志輝](../Page/馮志輝.md "wikilink")、[張英才](../Page/張英才.md "wikilink")（大山版代配、TV早期版）、[黃健強](../Page/黃健強.md "wikilink")（代配）、[張炳強](../Page/張炳強.md "wikilink")（時光機）、[陳永信](../Page/陳永信.md "wikilink")（代配）、[馮志輝](../Page/馮志輝.md "wikilink")（代配）
-  - 台灣配音員
-
-<!-- end list -->
-
-  -
-    小叮噹版本：[楊少文](../Page/楊少文.md "wikilink")（巨童文化VCD）
-    哆啦A夢版本：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")（1979年版、除了2011年的电影版）、[符爽](../Page/符爽.md "wikilink")（1979年版代理）→[李世揚](../Page/李世揚.md "wikilink")（2005年版）、[李景唐](../Page/李景唐.md "wikilink")（2011年电影版）
-
-<!-- end list -->
-
-  - [中国大陆](../Page/中国大陆.md "wikilink")配音員：[高全勝](https://zh.wikipedia.org/wiki/高全勝 "wikilink")（1979年版：廣東梁穎配音版）
-
-<!-- end list -->
-
-  -
-    大雄班上的老師。經常責備大雄上課打瞌睡、遲到、考試零分、粗心等表現。對於遲到或未寫作業的學生會責罵或罰站，但也不時會鼓勵表現不好的大雄，有好的表現的時候也不忘稱讚學生。基本上是期望大雄有所進步的一個好老師。
-    原作本名不詳，動畫版設定亦各有所異：在日本電視台版動畫中姓我成（日語：我成，唸作がなり），在大山時期中註記名字為**先生春待**（せんじょう えいいちろう），目前的2005年版是否沿用不知。他最早出現在1970年3月號的〈大雄變強〉
-    老師家一開始的設定是一個名為幸福莊的公寓，但後來是住在一個獨棟的房子，而在原著漫畫中未提及老師的親人，似乎是獨居。唯在1979年版動畫中出現他的母親，平常住在鄉下。
-
-<!-- end list -->
-
-  - 迷你-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-（），美國版本稱Mini-Doras
-
-[Minidora_char.gif](https://zh.wikipedia.org/wiki/File:Minidora_char.gif "fig:Minidora_char.gif")
-
-  - 日本配音員：[北川智繪](../Page/北川智繪.md "wikilink")（1990年4月）→[佐久間玲](../Page/佐久間玲.md "wikilink")（1994年3月—2005年3月）→（2005年10月—？）→[金元寿子](https://zh.wikipedia.org/wiki/金元寿子 "wikilink")（2017年—）
-  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")（綠色）、[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（黃色）、[鄭麗麗](../Page/鄭麗麗.md "wikilink")（紅色）
-  - 台灣配音員（哆啦A夢版本）：[許淑嬪](../Page/許淑嬪.md "wikilink")（1979年版）
-  - 中國大陸配音員：
-  - 美國配音員：Cristina Valenzuela
-
-<!-- end list -->
-
-  -
-    為紀念哆啦A夢抓住時光罪犯而批量生產的迷你版，也是哆啦A夢的道具之一，收納在四次元口袋中。
-    在1973年雑誌『幼稚園』3月號掲載的故事『』中登場。
-    原先是大量生產，但後期（2004年—）常登場的只有紅、黃、綠色三個。身高30cm，也算是一個道具，是貓型機械人的迷你版。通常待在[多啦A夢的](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")[四次元口袋](https://zh.wikipedia.org/wiki/四次元口袋 "wikilink")。多啦A夢有7個迷你哆啦，每個迷你哆啦也有不同顏色，出現得最多的是紅色，其次是黃色和綠色。[多啦美亦擁有迷你多啦](https://zh.wikipedia.org/wiki/多啦美 "wikilink")。一般的貓型機械人都有耳朵，因此一般的迷你哆啦也有耳朵（如[哆啦利鈕的迷你多啦足球隊就是十一個有耳朵的綠色貓型機械人](https://zh.wikipedia.org/wiki/哆啦A夢七小子#哆啦利鈕 "wikilink")）。後來因為哆啦A夢幫助時空警察捉拿犯人（純粹巧合），有關單位為了紀念，生產了限量版的迷你哆啦。當時的多啦A夢已經失去耳朵，因此這批迷你哆啦也就沒有耳朵。
-    漫畫裡他們只會說一些簡單的字眼；動畫版中我們只能聽到他們「哆啦、哆啦」的叫著（在日語原版動畫中的叫聲為「哆啦啦」），但[大雄等人卻能理解他們的說話](../Page/野比大雄.md "wikilink")。假如不了解時，會服用[翻譯糕](https://zh.wikipedia.org/wiki/翻譯糕 "wikilink")。迷你哆啦有多啦A夢常用道具的迷你版本。但也有多啦A夢可能沒有的道具，如[溫泉蛋](https://zh.wikipedia.org/wiki/溫泉蛋_\(多啦A夢\) "wikilink")、[貓之手等等](https://zh.wikipedia.org/wiki/貓之手 "wikilink")。但因為太小了，不適合人類使用。
-    跟多啦A夢一樣，最喜歡吃[銅鑼燒](https://zh.wikipedia.org/wiki/銅鑼燒 "wikilink")。對美食無法抗拒，有一次紅色迷你多啦為了一枝[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")，答應幫助大雄裝病，也偷吃過多啦A夢的豆沙包（一件不留）。在迷你哆啦與貓之手一集，三個迷你哆啦吃了大約十串的串燒（雖然只吃肉）。迷你哆啦還被​​設定為能識別並修改或修復機器內部結構的道具。
-    在電影版《[大雄與白金迷宮](../Page/大雄與白金迷宮.md "wikilink")》中，哆啦A夢在被拷問時遭到嚴重破壞，大雄將紅色迷你哆啦縮小後由哆啦A夢的鼻子處送入哆啦A夢體內，並成功修復了哆啦A夢；在對付叛變首領納波基斯特拉時，哆啦A夢以​​彈弓將攜帶病毒程式的迷你哆啦送入納波基斯特拉口中，並成功植入病毒，消滅了獨裁者及其叛軍。在漫畫《多啦A夢生病了?》中，-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-美用迷你-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-為不肯做身體檢查的多啦A夢進行修復工作。動畫1979年版的迷你哆啦A夢的配音員有在1989年的電影版《[哆啦美！迷你哆啦SOS！！](https://zh.wikipedia.org/wiki/哆啦美與迷你哆啦SOS "wikilink")》（）和1990年4月6日的播放的TV動畫《哆啦A夢生重病！》中声演。
-
-## 次要角色的家人、配角及寵物
-
-### 野比家
 
   -
 
@@ -510,6 +485,30 @@
   -
     玉子之弟，大雄的舅父。和玉子一様有戴眼鏡。擔任汽車公司的營業員（32卷〈探測想要的東西〉）。性格認真和善，但比較軟弱，而且拙言。
     在2005年版動畫第215集《小夫剪髮記》中客串出現。
+
+<!-- end list -->
+
+  - 迷你-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-（），美國版本稱Mini-Doras
+
+[Minidora_char.gif](https://zh.wikipedia.org/wiki/File:Minidora_char.gif "fig:Minidora_char.gif")
+
+  - 日本配音員：[北川智繪](../Page/北川智繪.md "wikilink")（1990年4月）→[佐久間玲](../Page/佐久間玲.md "wikilink")（1994年3月—2005年3月）→（2005年10月—？）→[金元寿子](https://zh.wikipedia.org/wiki/金元寿子 "wikilink")（2017年—）
+  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")（綠色）、[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（黃色）、[鄭麗麗](../Page/鄭麗麗.md "wikilink")（紅色）
+  - 台灣配音員（哆啦A夢版本）：[許淑嬪](../Page/許淑嬪.md "wikilink")（1979年版）
+  - 中國大陸配音員：
+  - 美國配音員：Cristina Valenzuela
+
+<!-- end list -->
+
+  -
+    為紀念哆啦A夢抓住時光罪犯而批量生產的迷你版，也是哆啦A夢的道具之一，收納在四次元口袋中。
+    在1973年雑誌『幼稚園』3月號掲載的故事『』中登場。
+    原先是大量生產，但後期（2004年—）常登場的只有紅、黃、綠色三個。身高30cm，也算是一個道具，是貓型機械人的迷你版。通常待在[多啦A夢的](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")[四次元口袋](https://zh.wikipedia.org/wiki/四次元口袋 "wikilink")。多啦A夢有7個迷你哆啦，每個迷你哆啦也有不同顏色，出現得最多的是紅色，其次是黃色和綠色。[多啦美亦擁有迷你多啦](https://zh.wikipedia.org/wiki/多啦美 "wikilink")。一般的貓型機械人都有耳朵，因此一般的迷你哆啦也有耳朵（如[哆啦利鈕的迷你多啦足球隊就是十一個有耳朵的綠色貓型機械人](https://zh.wikipedia.org/wiki/哆啦A夢七小子#哆啦利鈕 "wikilink")）。後來因為哆啦A夢幫助時空警察捉拿犯人（純粹巧合），有關單位為了紀念，生產了限量版的迷你哆啦。當時的多啦A夢已經失去耳朵，因此這批迷你哆啦也就沒有耳朵。
+    漫畫裡他們只會說一些簡單的字眼；動畫版中我們只能聽到他們「哆啦、哆啦」的叫著（在日語原版動畫中的叫聲為「哆啦啦」），但[大雄等人卻能理解他們的說話](../Page/野比大雄.md "wikilink")。假如不了解時，會服用[翻譯糕](https://zh.wikipedia.org/wiki/翻譯糕 "wikilink")。迷你哆啦有多啦A夢常用道具的迷你版本。但也有多啦A夢可能沒有的道具，如[溫泉蛋](https://zh.wikipedia.org/wiki/溫泉蛋_\(多啦A夢\) "wikilink")、[貓之手等等](https://zh.wikipedia.org/wiki/貓之手 "wikilink")。但因為太小了，不適合人類使用。
+    跟多啦A夢一樣，最喜歡吃[銅鑼燒](https://zh.wikipedia.org/wiki/銅鑼燒 "wikilink")。對美食無法抗拒，有一次紅色迷你多啦為了一枝[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")，答應幫助大雄裝病，也偷吃過多啦A夢的豆沙包（一件不留）。在迷你哆啦與貓之手一集，三個迷你哆啦吃了大約十串的串燒（雖然只吃肉）。迷你哆啦還被​​設定為能識別並修改或修復機器內部結構的道具。
+    在電影版《[大雄與白金迷宮](../Page/大雄與白金迷宮.md "wikilink")》中，哆啦A夢在被拷問時遭到嚴重破壞，大雄將紅色迷你哆啦縮小後由哆啦A夢的鼻子處送入哆啦A夢體內，並成功修復了哆啦A夢；在對付叛變首領納波基斯特拉時，哆啦A夢以​​彈弓將攜帶病毒程式的迷你哆啦送入納波基斯特拉口中，並成功植入病毒，消滅了獨裁者及其叛軍。在漫畫《多啦A夢生病了?》中，-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-美用迷你-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-為不肯做身體檢查的多啦A夢進行修復工作。動畫1979年版的迷你哆啦A夢的配音員有在1989年的電影版《[哆啦美！迷你哆啦SOS！！](https://zh.wikipedia.org/wiki/哆啦美與迷你哆啦SOS "wikilink")》（）和1990年4月6日的播放的TV動畫《哆啦A夢生重病！》中声演。
+
+## 次要角色的家人及寵物
 
 ### 源家
 
@@ -709,31 +708,6 @@
 
 ### 出木杉家
 
-  - [出木杉英才](../Page/出木杉英才.md "wikilink")（出木杉，或稱小杉，）
-
-<!-- end list -->
-
-  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1980年4月—2005年3月）→[萩野志保子](../Page/萩野志保子.md "wikilink")（朝日電視台版2005年5月—）／
-
-<!-- end list -->
-
-  -
-    青年期：[納谷六朗](../Page/納谷六朗.md "wikilink")（1989）→[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1999年電影版：[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")）→[大滝進矢](https://zh.wikipedia.org/wiki/大滝進矢 "wikilink")（2007）→[萩野志保子](../Page/萩野志保子.md "wikilink")（2010 太雄的結婚前夜）
-
-<!-- end list -->
-
-  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")、[巫哲棋](../Page/巫哲棋.md "wikilink")（無綫版，成年）、[劉惠雲](../Page/劉惠雲.md "wikilink")、[曾秀清](../Page/曾秀清.md "wikilink")（電影版）、[馬慧琪](https://zh.wikipedia.org/wiki/馬慧琪 "wikilink")（STAND BY ME）
-  - 台灣配音員（哆啦A夢版本）：[于正昇](../Page/于正昇.md "wikilink")＆[于正昌](../Page/于正昌.md "wikilink")（1979年版、除了2008年的電影版）→[姚敏敏](../Page/姚敏敏.md "wikilink")（2005年版前52集）→[雷碧文](../Page/雷碧文.md "wikilink")（2005年版第53集起）→[連思宇](../Page/連思宇.md "wikilink")（2005年版第182集起）、[劉如蘋](../Page/劉如蘋.md "wikilink")（電影版，2014年起）
-  - [中国大陆](../Page/中国大陆.md "wikilink")配音員：[武向彤](https://zh.wikipedia.org/wiki/武向彤 "wikilink")（电影版）、[劉紅韻](https://zh.wikipedia.org/wiki/劉紅韻 "wikilink")（廣東梁穎配音版）
-  - 真人版演員：[內村航平](https://zh.wikipedia.org/wiki/內村航平 "wikilink")（豐田汽車廣告）
-
-<!-- end list -->
-
-  -
-    1964年4月生（以前設定為1962年生）。野比大雄的同學，是個近乎完美的少年。讀書成績為班上最好，其他興趣(包括煮食)也有很好的表現，和靜香很談得來，令大雄感到妒忌。最初設定為靜香未來的伴侶，哆啦A夢便是為了這個原因，才回到過去協助大雄改變。
-
-<!-- end list -->
-
   -
     《限時傻瓜彈》發出怪叫。
 
@@ -756,7 +730,7 @@
   -
     和出木杉一樣喜好科學，短篇〈家事圍裙〉出木杉夫婦至火星基地出差時，曾將英世暫置大雄和靜香家裡托他們照顧，卻意外使大雄誤以為靜香並非他未來的妻子而努力地學習做家事。
 
-## 主要角色身邊的人
+## 配角
 
   - 神成（）
 

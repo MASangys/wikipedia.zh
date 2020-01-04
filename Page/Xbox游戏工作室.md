@@ -30,7 +30,7 @@
   - **** - 系列，微软于2018年收购。
   - **** - ，微软于2018年收购。
   - **[The Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")** - 2018年成立。
-  - **[黑曜石娱乐](../Page/黑曜石娱乐.md "wikilink")** - [辐射：新维加斯](../Page/辐射：新维加斯.md "wikilink")、系列，微软于2018年收购。
+  - **[黑曜石娱乐](../Page/黑曜石娱乐.md "wikilink")** - [辐射：新维加斯](../Page/辐射：新维加斯.md "wikilink")、系列、[外圍世界](../Page/外圍世界.md "wikilink")，微软于2018年收购。
   - **[InXile娛樂](https://zh.wikipedia.org/wiki/InXile娛樂 "wikilink")** - ，微软于2018年收购。
   - **[Double Fine Productions](../Page/Double_Fine_Productions.md "wikilink")** - 脑航员，微软于2018年收购。
   - **World's Edge** - 《[帝国时代](https://zh.wikipedia.org/wiki/帝国时代 "wikilink")》系列，微软于2019年建立。

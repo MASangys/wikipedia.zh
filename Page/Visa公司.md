@@ -217,7 +217,7 @@ VISA國際組織本身並不發行VISA卡，而是由VISA國際組織的會員�
 
 ## [國際足協世界盃](../Page/國際足協世界盃.md "wikilink")
 
-2007年，[國際足協和VISA簽約](https://zh.wikipedia.org/wiki/國際足協 "wikilink")，擔任2010年, 2014年和2018年世界盃贊助。
+2007年，[國際足協和VISA簽約](https://zh.wikipedia.org/wiki/國際足協 "wikilink")，擔任2010年、2014年和2018年世界盃贊助。
 
 ## 參見
 

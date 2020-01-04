@@ -129,7 +129,7 @@
 但其縮短的軸距，造成與第八代相同的後座空間狹小，加上SKYLINE與其他同級對手的銷售瓶頸、造成此代SKYLINE除了雙門車型以外並不熱銷。
 
 搭載引擎是全部是直列6氣缸[RB系列引擎](https://zh.wikipedia.org/wiki/RB "wikilink")，並搭載[NEO系統](https://zh.wikipedia.org/wiki/NEO "wikilink"),2.0L的RB20DE型、2.5L的RB25DE型和2.5L附[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")(Turbo)的RB25DET型的3種。以及GTR車型之RB26 DETT 雙渦輪引擎。
-除GT-R版本之外,皆為後輪驅動。
+除GT-R版本和ENR34之外,皆為後輪驅動。
 
 第十代於2002年停產，但其產量比起第九代還要低，僅64,623輛(GT-R計1萬1344輛，佔本代車型約20%)。與此同時也是最後一款Skyline於東京都武藏村山市組裝。
 

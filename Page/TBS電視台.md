@@ -22,10 +22,10 @@
 
   - 2001年3月22日：TBS成立株式會社**TBS LIVE**（）成立，負責TBS電視資訊與直播節目的製作。
   - 2001年10月1日，TBS的電視頻道呼號改為「JORX-TV」，其頻道名稱亦同步從「東京放送」改為「**TBS電視台**」（）。
-  - 2003年12月1日上午11時（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")），TBS開始無線[數位電視廣播](https://zh.wikipedia.org/wiki/數位電視 "wikilink")，呼號為「**JORX-DTV**」。
+  - 2003年12月1日上午11時（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")），TBS開始無線[數碼電視廣播](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")，呼號為「**JORX-DTV**」。
   - 2004年10月1日：TBS娛樂與TBS體育、TBS LIVE合併，並將公司名稱改為「**TBS電視**」（），全面承接TBS的電視節目製作業務。
   - 2009年4月1日：TBS導入[控股公司](../Page/控股公司.md "wikilink")制度，東京放送更名為東京放送控股，TBS電視則承接原東京放送的電視廣播業務，同時接收原東京放送使用的「TBS」簡稱。
-  - 2011年7月24日：TBS結束無線[類比電視](../Page/類比電視.md "wikilink")廣播，全面由數位電視廣播取代。
+  - 2011年7月24日：TBS結束無線[模擬電視廣播](https://zh.wikipedia.org/wiki/模擬電視 "wikilink")，全面由數位電視廣播取代。
   - 2013年5月31日：TBS的電視訊號發射站從[東京鐵塔轉移至](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")[東京晴空塔](../Page/東京晴空塔.md "wikilink")，原在東京鐵塔的設備改為備援之用。
 
 ## 訊號發射站

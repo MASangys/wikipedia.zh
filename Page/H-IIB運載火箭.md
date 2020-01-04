@@ -22,8 +22,6 @@
 
 [Mitsubishi_LE-7A.JPG](https://zh.wikipedia.org/wiki/File:Mitsubishi_LE-7A.JPG "fig:Mitsubishi_LE-7A.JPG") H-IIB運載火箭，第一次發射在2009年9月11日發射成功，能運載8 [噸酬載至](https://zh.wikipedia.org/wiki/噸 "wikilink")[地球同步軌道](https://zh.wikipedia.org/wiki/地球同步軌道 "wikilink")，比[H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink") 4 到6[噸酬載至](https://zh.wikipedia.org/wiki/噸 "wikilink")[地球同步軌道為大](https://zh.wikipedia.org/wiki/地球同步軌道 "wikilink")。它將提供充足的酬載能力使[H-II運載飛船到達](https://zh.wikipedia.org/wiki/H-II運載飛船 "wikilink")[低地軌道](https://zh.wikipedia.org/wiki/低地軌道 "wikilink")（16,500 [公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")）。H-IIB運載火箭是早期的[H-IIA運載火箭的衍生型](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink")。H-IIB 將有二個LE-7A引擎，代替[H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink") 的一個，和四枚主要助推火箭（SRB-A），代替[H-IIA運載火箭](https://zh.wikipedia.org/wiki/H-IIA運載火箭 "wikilink") 的二枚。這個新發射器的研發自2004 年以來，預算大約200億[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")（$1.8億[美元](../Page/美元.md "wikilink")；1.5億[歐元](https://zh.wikipedia.org/wiki/歐元 "wikilink")）。在H-IIB運載火箭 以後，宇宙航空研究開發機構欲開發可載人的H-IIC運載火箭 - 有時並提議H-IIX運載火箭，是為了在2025 年以前到達發射載人太空船的宗旨。
 
-H2B的LEO發射能力是19噸，H2B以傾角51.6度發射HTV到近地[橢圓軌道](../Page/橢圓軌道.md "wikilink")的發射能力是16.5噸。
-
 ## 发射紀錄
 
 <table>
@@ -123,10 +121,38 @@ H2B的LEO發射能力是19噸，H2B以傾角51.6度發射HTV到近地[橢圓軌�
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CubeSat" title="wikilink">CubeSats</a> carried aboard HTV for deployment from the ISS</p></td>
 </tr>
+<tr class="odd">
+<td><p>F7</p></td>
+<td><p>H-IIB</p></td>
+<td></td>
+<td><p>2018年9月22日<br />
+17:52:27</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉信發射場" title="wikilink">LA-Y2</a>, <a href="../Page/種子島.md" title="wikilink">種子島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kounotori_7" title="wikilink">HTV-7</a><br />
+ <a href="https://zh.wikipedia.org/wiki/SPATIUM-I" title="wikilink">SPATIUM-I</a><br />
+ <a href="https://zh.wikipedia.org/wiki/RSP-00" title="wikilink">RSP-00</a><br />
+ <a href="https://zh.wikipedia.org/wiki/STARS-Me" title="wikilink">STARS-Me</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CubeSat" title="wikilink">CubeSats</a> carried aboard HTV for deployment from the ISS</p></td>
+</tr>
+<tr class="even">
+<td><p>F8</p></td>
+<td><p>H-IIB</p></td>
+<td></td>
+<td><p>2019年9月24日<br />
+16:05:05</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉信發射場" title="wikilink">LA-Y2</a>, <a href="../Page/種子島.md" title="wikilink">種子島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kounotori_8" title="wikilink">HTV-8</a><br />
+ <a href="https://zh.wikipedia.org/wiki/NARSSCube-1" title="wikilink">NARSSCube-1</a><br />
+ <a href="https://zh.wikipedia.org/wiki/AQT-D" title="wikilink">AQT-D</a><br />
+ <a href="https://zh.wikipedia.org/wiki/RWASAT-1" title="wikilink">RWASAT-1</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CubeSat" title="wikilink">CubeSats</a> carried aboard HTV for deployment from the ISS. The first launch attempt on 10 September 2019, 21:33 UTC, was postponed due to a fire on the launch pad.</p></td>
+</tr>
 </tbody>
 </table>
 
-## 现役几种主力大型火箭性能一览
+## 全球現役大型运载火箭性能比较
 
 ## 參見
 

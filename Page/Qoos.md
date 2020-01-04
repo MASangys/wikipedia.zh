@@ -64,8 +64,8 @@ Qoos早前在澳門的連線速度首屈一指，但早前有海外的會員指�
 
 [Category:澳門網站](https://zh.wikipedia.org/wiki/Category:澳門網站 "wikilink") [Category:網路搜尋引擎](https://zh.wikipedia.org/wiki/Category:網路搜尋引擎 "wikilink")
 
-1.  [廣告客戶](http://www.qoos.com/qoos/adclient.php) - Qoos
-2.  [Qoos新聞稿](http://bbs.qoos.com/viewthread.php?tid=1355771) 2007/5/21
+1.  [廣告客戶](http://www.qoos.com/qoos/adclient.php)  - Qoos
+2.  [Qoos新聞稿](http://bbs.qoos.com/viewthread.php?tid=1355771)  2007/5/21
 3.  [新聞資訊](http://space.qoos.com/?action-news) - Qoos
 4.  [網站已全面開放帳號申請](http://qoos.com/bbs/announcement.php?id=3#3)
 5.  [Info for qoos.com](http://www.alexa.com/data/details/main?q=qoos.com&url=qoos.com) - Alexa

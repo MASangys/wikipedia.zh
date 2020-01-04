@@ -7,7 +7,7 @@
 
 遊戲以主角伊藤誠與兩位女主角西園寺世界和桂言葉為發展中心，並以相當於電視動畫70集以上的龐大份量敘述故事。對話進行到某種程度後，就不再是單一主軸而會出現兩個選項，根據這個選擇的結果（也可以什麼都不選）兩位女主角的好感度會產生升降，而故事也因好感度產生各種分歧。
 
-在本遊戲中，總共有20個可供選擇的結局（+1個是後日談）存在。由於在網絡上強烈的回響令到Bad ending相當有名，不過實際上Bad ending只有3個（未計10年HQ版本的『轢殺』結局）。另外後宮結局有2個，而實際上在20個結局內有3/4以上（15個）是關於其中一個女主角的Good ending（即使是Good ending，在内容上亦不一定是好事）。本遊戲相當靈活，有可能出現與下面劇情不一樣，但結局標題相同的結局。而且過程也不是絕對的。
+在本遊戲中，總共有20個可供選擇的結局（+1個是後日談）存在。由於在網絡上強烈的回響令到Bad ending相當有名，不過實際上Bad ending只有3個（未計10年HQ版本的『轢殺』結局）。另外後宮結局有2個，而實際上在20個結局內有3/4以上（15個）是關於其中一個女主角的Good ending（即使是Good ending，在内容上亦不一定是好事）。本遊戲相當靈活，有可能出現劇情不一樣，但結局標題相同的結局。而且過程也不是絕對的。
 
 ## 故事
 
@@ -18,6 +18,9 @@
 ## 程式問題
 
 發售當時，程式有玩到一半會強制結束的[BUG](https://zh.wikipedia.org/wiki/程序錯誤 "wikilink")，雖然在回報後立刻釋出了對應的修正檔，但是當時無法改善此情形。此後幾乎每天都有新的修正檔公開，甚至因此產生很難連上官網的混亂情況。結果本作一共發表了11次的更新，不過現在大致上已經解決且不再混亂。至於這些錯誤的成因被認為由於在中途加上的動畫、以角色的好感度作為故事分歧及特殊的程序造成。現在最新版修正檔是Ver1.11，為約273MB的檔案，PS2版/DVDPG版/UMDPG版都是以這版為製作基礎。
+
+  - 胸部修正檔
+    初回版發售後釋出。製作方表示「[誠與](https://zh.wikipedia.org/wiki/伊藤誠_\(角色\) "wikilink")[世界的初體驗畫面中](https://zh.wikipedia.org/wiki/西園寺世界 "wikilink")，世界的[乳房](../Page/乳房.md "wikilink")較[人物設定画顯得更大](https://zh.wikipedia.org/wiki/人物設定 "wikilink")」，故釋出[修正檔縮小世界的胸部](https://zh.wikipedia.org/wiki/修正檔 "wikilink")\[5\]，同時説明只是將世界修正為設定的D/E罩杯，而不是改成[貧乳](https://zh.wikipedia.org/wiki/貧乳 "wikilink")\[6\]。此後釋出的修正檔均含有此修正，安裝時無需先安裝胸部修正檔。
 
 ## 主題歌
 
@@ -62,35 +65,29 @@
 
 2007年7月3日於獨立UHF局開始播放。與[ORBIT的](https://zh.wikipedia.org/wiki/ORBIT "wikilink")《[闇與帽子與書的旅人](../Page/闇與帽子與書的旅人.md "wikilink")》及《[桃華月憚](../Page/桃華月憚.md "wikilink")》等十八禁遊戲原作動畫一樣由[STUDIO DEEN配給](../Page/STUDIO_DEEN.md "wikilink")，並由**[avex mode](https://zh.wikipedia.org/wiki/avex_mode "wikilink")**負責制作。
 
-2007年9月6日起，播放電視台之一的[AT-X](../Page/AT-X.md "wikilink")频道将动画等级调整为15岁以上年龄组（之前是全年龄普通动画），对象为动画版第9话以後\[5\]\[6\]。
+2007年9月6日起，播放電視台之一的[AT-X](../Page/AT-X.md "wikilink")频道将动画等级调整为15岁以上年龄组（之前是全年龄普通动画），对象为动画版第9话以後\[7\]\[8\]。
 
-動畫新作的特別活動日，動畫內出現的[料理的實物版登場](https://zh.wikipedia.org/wiki/料理 "wikilink")，目前公布有三款，[蛋包饭](https://zh.wikipedia.org/wiki/蛋包饭 "wikilink")、世界喜歡的甜點、言葉的冰[檸檬水](../Page/檸檬水.md "wikilink")。\[7\]
+動畫新作的特別活動日，動畫內出現的[料理的實物版登場](https://zh.wikipedia.org/wiki/料理 "wikilink")，目前公布有三款，[蛋包饭](https://zh.wikipedia.org/wiki/蛋包饭 "wikilink")、世界喜歡的甜點、言葉的冰[檸檬水](../Page/檸檬水.md "wikilink")。\[9\]
 
 ### 最终回播放推迟
 
-2007年9月19日，原預定於[神奈川電視台](../Page/神奈川電視台.md "wikilink")播放的最終回，因前一天發生16歲少女以斧頭殺害父親的事件——[京田邊警官殺害事件](../Page/京田邊警官殺害事件.md "wikilink")\[8\]，而碰巧School Days的此集含有女子高中生的暴力和人性黑暗面的情節，神奈川電視台因避諱而在播出了片头曲及赞助商信息之后，無預先通知地以[北欧](https://zh.wikipedia.org/wiki/北欧 "wikilink")[斯堪的纳维亚](../Page/斯堪的纳维亚.md "wikilink")风光片代替了原先播出的动画，其後[千葉電視台和](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")[爱知电视台亦以同樣理由取消了原定的播映计划](https://zh.wikipedia.org/wiki/爱知电视台 "wikilink")。[每日新闻和](https://zh.wikipedia.org/wiki/每日新闻 "wikilink")[日本时报针对此事进行了报导](https://zh.wikipedia.org/wiki/日本时报 "wikilink")\[9\]\[10\]，而已把年齡對象調整為15歲以上的AT-X則沒有更改\[11\]\[12\]\[13\]。[Overflow在当天通过他们的博客发表致歉声明](https://zh.wikipedia.org/wiki/Overflow "wikilink")\[14\]，并请观众等候再次播放。\[15\]在接下来的一周，0verflow宣布它已经安排在9月27日于[秋叶原3D剧场放映最后一集](https://zh.wikipedia.org/wiki/东京动画中心 "wikilink")。希望参加的人必须通过电子邮件注册通行证，满18岁以及携带身份证件和《[Summer Days](../Page/Summer_Days.md "wikilink")》的遊戲軟體。\[16\]同一天，AT-X宣布在九月二十七日和十月一日发布未经修改的最终回动画。\[17\]
+2007年9月19日，原預定於[神奈川電視台](../Page/神奈川電視台.md "wikilink")播放的最終回，因前一天發生16歲少女以斧頭殺害父親的事件——[京田邊警官殺害事件](../Page/京田邊警官殺害事件.md "wikilink")\[10\]，而碰巧School Days的此集含有女子高中生的暴力和人性黑暗面的情節，神奈川電視台因避諱而無預先通知地以[北欧](https://zh.wikipedia.org/wiki/北欧 "wikilink")[斯堪的纳维亚](../Page/斯堪的纳维亚.md "wikilink")风光片代替了原先播出的动画，其後[千葉電視台和](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")[爱知电视台亦以同樣理由取消了原定的播映计划](https://zh.wikipedia.org/wiki/爱知电视台 "wikilink")。[每日新闻和](https://zh.wikipedia.org/wiki/每日新闻 "wikilink")[日本时报针对此事进行了报导](https://zh.wikipedia.org/wiki/日本时报 "wikilink")\[11\]\[12\]，而已把年齡對象調整為15歲以上的AT-X則沒有更改\[13\]\[14\]\[15\]。[Overflow在当天通过他们的博客发表致歉声明](https://zh.wikipedia.org/wiki/Overflow "wikilink")\[16\]，并请观众等候再次播放。\[17\]在接下来的一周，0verflow宣布它已经安排在9月27日于[秋叶原3D剧场放映最后一集](https://zh.wikipedia.org/wiki/东京动画中心 "wikilink")。希望参加的人必须通过电子邮件注册通行证，满18岁以及携带身份证件和《[Summer Days](../Page/Summer_Days.md "wikilink")》的遊戲軟體。\[18\]同一天，AT-X宣布在九月二十七日和十月一日发布未经修改的最终回动画。\[19\]
 
-[Schooldaysniceboat.jpg](https://zh.wikipedia.org/wiki/File:Schooldaysniceboat.jpg "fig:Schooldaysniceboat.jpg")播放的《**School Days**》動畫最終回，在片頭音樂播放完畢後，在觀眾事先不知情的狀況下，緊急停止播出最終話的正片，將畫面切到斯堪的纳维亚风光的欣賞片段，荧屏畫面上方出現一行字：“因故變更播出的節目”。图中的船即为著名的“Nice Boat”。\]\] 另外，因有日本海外網站[4chan](../Page/4chan.md "wikilink")把「風景節目」中的船評為「Nice boat」（中国大陆一般翻译为“好船”或“和谐号”），「Nice boat」一字突然成為話題\[18\]\[19\]\[20\]，更在動畫愛好者中演變成其他意思\[21\]。在2007年第三季度的[Google趨勢搜索記錄中](https://zh.wikipedia.org/wiki/Google趨勢 "wikilink")，“Nice Boat”成为热度极高的搜索关键字。\[22\]而[读卖新闻报道说](https://zh.wikipedia.org/wiki/读卖新闻 "wikilink")，「Nice boat」是雅虎日本搜索从9月17日到23日第十个最流行的词汇。\[23\]
+[Schooldaysniceboat.jpg](https://zh.wikipedia.org/wiki/File:Schooldaysniceboat.jpg "fig:Schooldaysniceboat.jpg")播放的《**School Days**》動畫最終回，在觀眾事先不知情的狀況下，緊急停止播出最終話的正片，將畫面切到斯堪的纳维亚风光的欣賞片段，荧屏畫面上方出現一行字：“因故變更播出的節目”。图中的船即为著名的“Nice Boat”。\]\] 另外，因有日本海外網站[4chan](../Page/4chan.md "wikilink")把「風景節目」中的船評為「Nice boat」（中国大陆一般翻译为“好船”或“和谐号”），「Nice boat」一字突然成為話題\[20\]\[21\]\[22\]，更在動畫愛好者中演變成其他意思\[23\]。在2007年第三季度的[Google趨勢搜索記錄中](https://zh.wikipedia.org/wiki/Google趨勢 "wikilink")，“Nice Boat”成为热度极高的搜索关键字。\[24\]而[读卖新闻报道说](https://zh.wikipedia.org/wiki/读卖新闻 "wikilink")，「Nice boat」是雅虎日本搜索从9月17日到23日第十个最流行的词汇。\[25\]
 
-「Nice boat」一词因此众所周知，并在其他作品中被引用。比如作为一个[彩蛋出现在](../Page/彩蛋_\(媒体\).md "wikilink")《[ef - a fairy tale of the two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》系列中。2009年2月13日，出于恶搞，[角川映画在](https://zh.wikipedia.org/wiki/角川映画 "wikilink")[YouTube](../Page/YouTube.md "wikilink")的频道中上传了一小段蒙太奇帆船的视频代替原定放送的《[小凉宫春日的忧郁](https://zh.wikipedia.org/wiki/凉宫春日的忧郁 "wikilink")》动画首映。\[24\]
+「Nice boat」一词因此众所周知，并在其他作品中被引用。比如作为一个[彩蛋出现在](../Page/彩蛋_\(媒体\).md "wikilink")《[ef - a fairy tale of the two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》系列中。2009年2月13日，出于恶搞，[角川映画在](https://zh.wikipedia.org/wiki/角川映画 "wikilink")[YouTube](../Page/YouTube.md "wikilink")的频道中上传了一小段蒙太奇帆船的视频代替原定放送的《[小凉宫春日的忧郁](https://zh.wikipedia.org/wiki/凉宫春日的忧郁 "wikilink")》动画首映。\[26\]
 
-為紀念《School Days》DVD第1卷發售，預定於2007年9月27日舉行的試映會，原本的參加條件為「未開封的電腦遊戲《School Days》或《Summer Days》」\[25\]，引發支持者的強烈抨擊，後來條件改為該兩電腦遊戲作品「不論開封與否」均可參加\[26\]。
+為紀念《School Days》DVD第1卷發售，預定於2007年9月27日舉行的試映會，原本的參加條件為「未開封的電腦遊戲《School Days》或《Summer Days》」\[27\]，引發支持者的強烈抨擊，後來條件改為該兩電腦遊戲作品「不論開封與否」均可參加\[28\]。
 
 动画版的结局，为原创的Bad Ending，是游戏三个Bad Ending的结合体，并有部分原创情节。
 
-試映會版本的结局，和AT-X播出版本又有不同，更血腥，区别\[27\]：
-
-  - 世界刺殺誠的畫面沒有回憶鏡頭；
-  - 言葉殺世界的畫面無修正；
-  - 剖腹的畫面是粉紅色的。
-
 2008年1月17日，OVA《School Days - Valentine Days》隨PS2遊戲《School Days L X H》作限定版捆綁特典。
 
-2008年2月28日，DVD版本发行完毕，证实以上无修正版本传言，并配有恐怖的效果音（厮杀声），另收录第12话彻底无修正的导演特别剪辑版。
+2008年2月27日，DVD第6卷发行，收錄名為[导演剪辑版的无修正版本](https://zh.wikipedia.org/wiki/导演剪辑版 "wikilink")，其中12話刺殺畫面血液由電視版黑色改為紅色，並加上更過激的鏡頭及配有恐怖的效果音（厮杀声）。此卷包裝貼上警告標語。\[29\]
 
 ### 主題歌
 
-  - 片頭曲「」（第2話～第12話、OVA）
+  - 片頭曲「」（第2話～第11話、OVA）
     作詞：[REM](https://zh.wikipedia.org/wiki/REM "wikilink") 作編曲：[松本彥士](https://zh.wikipedia.org/wiki/松本彥士 "wikilink") 歌：[DeviceHigh](https://zh.wikipedia.org/wiki/DeviceHigh "wikilink")
   - 片尾曲1「」（第1、8話）
     作詞・作曲：[rino](https://zh.wikipedia.org/wiki/rino "wikilink") 編曲：大久保薰 歌：[CooRie](../Page/CooRie.md "wikilink")
@@ -482,13 +479,27 @@
 
   - 2007年8月8日 School Days DRAMA CD
 
-## 評價與影響
+## 評價與反響
+
+### 遊戲版
 
 在開始發售前被認為只是普通的三角關係作為內容，但在實際上遠超過這個預想。和別的作品比較之下，很多人稱本作為「[修羅場](https://zh.wikipedia.org/wiki/修羅場 "wikilink")」，這是由於在Bad ending的高潮劇情時的血腥描寫，而令玩家有憂鬱心情的遊戲「」吸引了許多人的注意。更甚者，這些Bad ending由稍偏頗的角度看來，像是比Happy ending更加用心努力做出來的，所以主張Bad ending才是真正結局的聲浪也相當高。
 
-儘管人們對本作的設定及進程贊同與否，但到現時為止亦沒有同類型內容或劇本的作品出現，而本遊戲亦獲得極高評價，在2005年前期的銷售額是十八禁遊戲第二位，[PC NEWS集計](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")2005年全年銷量7位，年內銷量超過3萬2千張。而Overflow亦靠本作一躍注目。該遊戲曾在日本美少女游戏与动画相关商品销售网站Getchu.com的2005年4月销量榜上排名第1\[28\]，2005年5月排名第7\[29\]。2007年10月，《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《School Days》在入圍的249款遊戲中獲得9票而成為第27名。\[30\]12月日本门户网站GOO给出的年度搜索排名，本作位于2007年播放的动画的动画搜索排行榜第11位。
+儘管人們對本作的設定及進程贊同與否，但到現時為止亦沒有同類型內容或劇本的作品出現，而本遊戲亦獲得極高評價，在2005年前期的銷售額是十八禁遊戲第二位，[PC NEWS集計](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")2005年全年銷量7位，年內銷量超過3萬2千張。而Overflow亦靠本作一躍注目。該遊戲曾在日本美少女游戏与动画相关商品销售网站Getchu.com的2005年4月销量榜上排名第1\[30\]，2005年5月排名第7\[31\]。2007年10月，《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《School Days》在入圍的249款遊戲中獲得9票而成為第27名。\[32\]12月日本门户网站GOO给出的年度搜索排名，本作位于2007年播放的动画的动画搜索排行榜第11位。
 
-2015年，在[加拿大](../Page/加拿大.md "wikilink")影音商業網的十大動畫死亡事件（Top 10 Anime Deaths）榜單中，本作的伊藤誠名列第五\[31\]。
+### 動畫版
+
+英國動漫網站UK Anime Network給予動畫版7分評價（滿分10分），指其是「完全顛覆式的高中戀愛動畫，看完心煩意亂……奇怪的是，這種特立獨行的展開亦引人入勝」\[33\]。動畫評論網站THEM Anime Reviews則只給1分（滿分5分），認為角色「誇張，膚淺，不立體」，動畫「令人不快，愚蠢，氣量狹小，很久沒見過登場角色有如此白癡」\[34\]。
+
+2015年，在[加拿大](../Page/加拿大.md "wikilink")影音商業網的十大動畫死亡事件（Top 10 Anime Deaths）榜單中，本作的伊藤誠名列第五\[35\]。同年，日本的動畫人物百科網站「」舉辦2項投票，其中「伊藤誠 & 桂言葉」及「伊藤誠 & 西園寺世界」分別名列「『最想拆散的動漫情侶』TOP10」第4及第9\[36\]，《School Days》名列「『衝擊最大的動漫最終回』TOP20」第2，僅次於《[Code Geass反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")》\[37\]。
+
+2016年4月2日，在[富士電視台](../Page/富士電視台.md "wikilink")周六晚間節目\[38\]中將本作列入她挑選的「衝擊性結局！看完難受的動畫Best 3」中第2位，並播出最終回部分畫面\[39\]\[40\]，「School Days」隨後進入[Twitter](../Page/Twitter.md "wikilink")話題趨勢榜。0verflow官方\[41\]\[42\]及人物設定、總作畫監督之後亦分別在Twitter上介紹本作品\[43\]\[44\]。
+
+[2015年日本動畫在中國大陸下架事件中](https://zh.wikipedia.org/wiki/2015年日本動畫在中國大陸下架事件 "wikilink")，動畫版被[中華人民共和國文化部列入](https://zh.wikipedia.org/wiki/中華人民共和國文化部 "wikilink")「網絡動漫黑名單」，自此在當地禁播\[45\]。
+
+互聯網電視[AbemaTV](../Page/AbemaTV.md "wikilink")自2016年起於每年的[聖誕夜](../Page/聖誕夜.md "wikilink")特別企畫「[Xmas](../Page/Xmas.md "wikilink")戀愛動畫SP」播放此作品動畫版 ，稱其為「正適合聖夜的戀愛動畫」\[46\]，至2019年已連續4年播放\[47\]，2018年正片播放前更加入5分鐘的「nice boat」畫面\[48\]。被問及為何安排至聖誕夜播出，內部人士說是因為聖誕他們也要工作\[49\]。
+
+## 註釋
 
 ## 参见
 
@@ -504,36 +515,54 @@
   - [腾讯动漫：原来如此\!监督访谈](https://web.archive.org/web/20071105073433/http://comic.qq.com/a/20071031/000020.htm)
   - [網上電台「動漫廢物」的討論](http://www.cuhkacs.org/~acrubbish/blog/2008/acr117_schooldays.html)
 
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:多重结局电子游戏](https://zh.wikipedia.org/wiki/Category:多重结局电子游戏 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:UMDPG](https://zh.wikipedia.org/wiki/Category:UMDPG "wikilink") [Category:學校背景作品](https://zh.wikipedia.org/wiki/Category:學校背景作品 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:多重结局电子游戏](https://zh.wikipedia.org/wiki/Category:多重结局电子游戏 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:UMDPG](https://zh.wikipedia.org/wiki/Category:UMDPG "wikilink") [Category:學校背景作品](https://zh.wikipedia.org/wiki/Category:學校背景作品 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink") [Category:中華人民共和國被禁影視作品](https://zh.wikipedia.org/wiki/Category:中華人民共和國被禁影視作品 "wikilink")
 
 1.
 2.
 3.  [《日在校园 L×H》年底发售\!](http://www.comic.gov.cn/info/goods/2007-09-03/4613.html)
 4.  [《黑化角色大全》上架发售\!爱他就要插死你\!](http://comic.yesky.com/274/8326274.shtml)
-5.  [AT-X - What'sNew 關於9月6日播放《School Days》第9話以後的收看年齡限制](http://www.at-x.com/whats_new/detail.html/1275)
-6.  [挑战和谐耻度\!《日在校园》轻松迈向15禁](http://www.comic.gov.cn/info/caton/2007-09-01/4599.html)
-7.  [贪婪大陆：品尝言叶制作的柠檬水！SCHOOL DAYS特别活动开催决定](http://news.greedland.net/Channel/content/2007/200709/20070913/9417.html)
-8.  [](http://www.asahi.com/national/update/0918/TKY200709180043.html)
-9.
-10.
+5.  [](http://web.archive.org/web/20050429032448/schooldays.0verflow.com/html/scddownload.html)。
+6.
+7.  [AT-X - What'sNew 關於9月6日播放《School Days》第9話以後的收看年齡限制](http://www.at-x.com/whats_new/detail.html/1275)
+8.  [挑战和谐耻度\!《日在校园》轻松迈向15禁](http://www.comic.gov.cn/info/caton/2007-09-01/4599.html)
+9.  [贪婪大陆：品尝言叶制作的柠檬水！SCHOOL DAYS特别活动开催决定](http://news.greedland.net/Channel/content/2007/200709/20070913/9417.html)
+10. [](http://www.asahi.com/national/update/0918/TKY200709180043.html)
 11.
-12. [](http://www.mainichi-msn.co.jp/entertainment/manga/manganews/news/20070919mog00m200002000c.html)
-13. 「School Days」12話放送休止に関して}} |access-date=2007-09-20 |archive-url=<https://web.archive.org/web/20071001172621/http://www.schooldays-anime.com/news/newspup/index.html> |archive-date=2007-10-01 |dead-url=yes }}
-14.
-15.
+12.
+13.
+14. [](http://www.mainichi-msn.co.jp/entertainment/manga/manganews/news/20070919mog00m200002000c.html)
+15. 「School Days」12話放送休止に関して}} |access-date=2007-09-20 |archive-url=<https://web.archive.org/web/20071001172621/http://www.schooldays-anime.com/news/newspup/index.html> |archive-date=2007-10-01 |dead-url=yes }}
 16.
 17.
-18. [Yahoo\!搜尋 急升的時事搜尋關鍵字排名](http://searchblog.yahoo.co.jp/2007/09/post_52.html)
-19. [Hatena - Nice boat](http://d.hatena.ne.jp/keyword/Nice%20boat)
-20.
-21. [KomicaWiki - Nice Boat](http://komica.dyndns.org/wiki/?cmd=read&page=Nice%20Boat&word=nice%20boat)
+18.
+19.
+20. [Yahoo\!搜尋 急升的時事搜尋關鍵字排名](http://searchblog.yahoo.co.jp/2007/09/post_52.html)
+21. [Hatena - Nice boat](http://d.hatena.ne.jp/keyword/Nice%20boat)
 22.
-23.
+23. [KomicaWiki - Nice Boat](http://komica.dyndns.org/wiki/?cmd=read&page=Nice%20Boat&word=nice%20boat)
 24.
-25. [試映會訊息網頁日本時間2007年9月26日0時的魚拓](http://megalodon.jp/?url=http://12.0verflow.com/&date=20070926005143)
-26. [試映會訊息網頁](http://12.0verflow.com/)
-27. [黑化女对决最终话\!《日在校园》奏响和谐人渣死魂神曲\!](http://comic.fznews.com.cn/News/2007-9-29/2007929jd7qd9jxa_101535.shtml)
-28.
+25.
+26.
+27. [試映會訊息網頁日本時間2007年9月26日0時的魚拓](http://megalodon.jp/?url=http://12.0verflow.com/&date=20070926005143)
+28. [試映會訊息網頁](http://12.0verflow.com/)
 29.
 30.
-31. [Top 10 Anime Deaths - YouTube](https://www.youtube.com/watch?v=XVVUJGYCLTA)
+31.
+32.
+33.
+34.
+35. [Top 10 Anime Deaths - YouTube](https://www.youtube.com/watch?v=XVVUJGYCLTA)
+36. [](http://news.mynavi.jp/news/2015/05/14/547/)。
+37. [](http://news.mynavi.jp/news/2015/07/23/621/)。
+38. [](http://www.fujitv.co.jp/b_hp/160402premium/)
+39. [](http://japan.techinsight.jp/2016/04/ichikawasaya-setunasugiruanime-totteokiranking-02.html)
+40. [](http://otapol.jp/2016/04/post-6268_entry.html) -
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.

@@ -1,7 +1,7 @@
 > 本文内容由[壹號皇庭III](https://zh.wikipedia.org/wiki/壹號皇庭III)转换而来。
 
 
-《**壹號皇庭III**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1994年10月10日首播，共20集，監製[鄧特希](../Page/鄧特希.md "wikilink")。初時逢星期日晚播出，後調至星期三晚綜藝時段播出（22：00後）。\[1\]\[2\]\[3\]\[4\]
+《**壹號皇庭III**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1994年10月10日首播，共20集，監製[鄧特希](../Page/鄧特希.md "wikilink")。初時逢星期日晚播出，後調至星期三晚22：00後綜藝時段播出。\[1\]\[2\]\[3\]\[4\]
 
 ## 各集主題
 
@@ -778,16 +778,16 @@
 | [唐葳娜](https://zh.wikipedia.org/wiki/唐葳娜 "wikilink") | 劉看護    |           |
 |                                                     |        |           |
 
-|          |            |
-| -------- | ---------- |
-| **被告**   | 黃　健        |
-| **罪名**   |            |
-| **被害人**  | 周小欣        |
-| **檢控官**  | 江承宙        |
-| **辯方律師** | 李世宏        |
-| **控方證人** |            |
-| **辯方證人** |            |
-| **結果**   | 被告黃健謀殺罪名成立 |
+|          |          |
+| -------- | -------- |
+| **被告**   | 黃　健      |
+| **罪名**   |          |
+| **被害人**  | 周小欣      |
+| **檢控官**  | 江承宙      |
+| **辯方律師** | 李世宏      |
+| **控方證人** |          |
+| **辯方證人** |          |
+| **結果**   | 被告黃健罪名成立 |
 
 #### 十一、歧視
 

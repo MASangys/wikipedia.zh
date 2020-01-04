@@ -43,7 +43,7 @@ PunBB 1.0在2003年8月释出。
 
   - [PunRes – 模组与风格](https://web.archive.org/web/20060402215556/http://punres.org/)
   - [SpinkBB – PunBB界面](http://www.jsand.net/spinkbb/?lang=en)
-  - [MyPunBB – 免费的PunBB空间](http://www.mypunbb.com)
+  - [MyPunBB – 免费的PunBB空间](https://web.archive.org/web/20090331181150/http://mypunbb.com/)
   - [ezDIY.org - 中文PunBB支持站台](http://www.ezdiy.org)
 
 [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink") [Category:自由网络论坛软件](https://zh.wikipedia.org/wiki/Category:自由网络论坛软件 "wikilink")

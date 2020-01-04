@@ -277,7 +277,7 @@ Windows Live ID的密碼與[Xbox Live是相通的](../Page/Xbox_Live.md "wikilin
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_Live_SkyDrive" title="wikilink">Windows Live SkyDrive</a>（前身Windows Live Driver）</p></td>
 <td><p>透過虛擬硬碟進行遙距數據寄存服務[1][2]</p></td>
-<td><p><a href="http://skydrive.com">http://skydrive.com</a></p></td>
+<td><p><a href="https://web.archive.org/web/20090831073142/http://www.skydrive.com/">https://web.archive.org/web/20090831073142/http://www.skydrive.com/</a></p></td>
 <td><p>被取代</p></td>
 <td><p><a href="../Page/OneDrive.md" title="wikilink">OneDrive</a></p></td>
 </tr>

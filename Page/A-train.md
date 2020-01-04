@@ -36,6 +36,7 @@ A列車（遊戲）}}
   - [西武30000系電力動車組](https://zh.wikipedia.org/wiki/西武30000系電力動車組 "wikilink")
   - [首都圈新都市鐵道TX-1000系電力動車組](../Page/首都圈新都市鐵道TX-1000系電力動車組.md "wikilink")
   - [首都圈新都市鐵道TX-2000系電力動車組](https://zh.wikipedia.org/wiki/首都圈新都市鐵道TX-2000系電力動車組 "wikilink")
+  - [首都圈新都市鐵道TX-3000系電力動車組](https://zh.wikipedia.org/wiki/首都圈新都市鐵道TX-3000系電力動車組 "wikilink")
 
 [Unit_395008_at_Ebbsfleet_International.JPG](https://zh.wikipedia.org/wiki/File:Unit_395008_at_Ebbsfleet_International.JPG "fig:Unit_395008_at_Ebbsfleet_International.JPG")\]\]
 

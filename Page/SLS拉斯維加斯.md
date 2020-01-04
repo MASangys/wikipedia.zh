@@ -21,7 +21,7 @@
 
 ## 外部連結
 
-  - [SLS拉斯維加斯酒店官方網站](http://slshotels.com/lasvegas/)
+  - [SLS拉斯維加斯酒店官方網站](https://web.archive.org/web/20140223063116/http://slshotels.com/lasvegas/)
 
 [Category:拉斯維加斯賭場](https://zh.wikipedia.org/wiki/Category:拉斯維加斯賭場 "wikilink") [Category:賭城大道](https://zh.wikipedia.org/wiki/Category:賭城大道 "wikilink") [Category:拉斯維加斯度假村](https://zh.wikipedia.org/wiki/Category:拉斯維加斯度假村 "wikilink") [Category:內華達州地標](https://zh.wikipedia.org/wiki/Category:內華達州地標 "wikilink")
 

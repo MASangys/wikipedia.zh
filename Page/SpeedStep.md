@@ -22,6 +22,7 @@ EIST技術由作業系統執行CPU頻率的調整，Windows XP及以上均提供
 
   - [降频](https://zh.wikipedia.org/wiki/降频 "wikilink")
   - [Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")
+  - [Intel Turbo Boost](https://zh.wikipedia.org/wiki/Intel_Turbo_Boost "wikilink")
 
 ## 外部链接
 

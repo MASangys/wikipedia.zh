@@ -92,9 +92,11 @@ VMware公司新的企业级服务器和工具产品，正在使「将旧的生�
 ## 参见
 
   - [Xen](../Page/Xen.md "wikilink")
+  - [KVM](https://zh.wikipedia.org/wiki/KVM "wikilink")
   - [虚拟机比较](https://zh.wikipedia.org/wiki/虚拟机比较 "wikilink")
   - [Virtual PC](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink")
   - [QEMU](../Page/QEMU.md "wikilink")
+  - [Hyper-V](https://zh.wikipedia.org/wiki/Hyper-V "wikilink")
   - [VirtualBox](../Page/VirtualBox.md "wikilink")
 
 ## 參考資料

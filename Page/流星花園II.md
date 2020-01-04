@@ -28,7 +28,7 @@
   - [董至成](../Page/董至成.md "wikilink") 飾演 杉菜父
   - [王　月](https://zh.wikipedia.org/wiki/王月_\(台湾艺人\) "wikilink") 飾演 杉菜母
   - [焦　姣](../Page/焦姣.md "wikilink") 飾演 婆婆
-  - [曾　江](../Page/曾江.md "wikilink") 飾演 公公（高總裁）
+  - [曾　江](../Page/曾江.md "wikilink") 飾演 高爺爺（總裁）
   - [錢韋杉](../Page/錢韋杉.md "wikilink") 飾演 藤堂靜
   - [劉畊宏](../Page/劉畊宏.md "wikilink") 飾演 阿德
   - [李康宜](../Page/李康宜.md "wikilink") 飾演 阿美

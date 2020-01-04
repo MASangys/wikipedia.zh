@@ -375,14 +375,18 @@ HDMI 2.1根据飞利浦撰写的白皮书增加支持“动态元”
 
 简而言之：“HDMI 2.0A涵盖HDR EOTF信令和静态元数据元数据的动态是HDMI 2.1所涵盖。”
 
-2017年1月4日提出
+HDMI 2.1附加功能:\[5\]\[6\]
 
-  - 頻寬提升至48Gbps
-  - 支援4K 120Hz及8K 60Hz
-  - 支援[高動態範圍成像](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")（HDR），可以針對場景或幀數進行優化
-  - 支援eARC功能
-  - 可針對遊戲幀數進行信號同步，減少[畫面撕裂](../Page/畫面撕裂.md "wikilink")
-  - 向下相容HDMI 2.0、HDMI 1.4
+  - 支持的最大分辨率為 [10K](https://zh.wikipedia.org/wiki/10K_resolution "wikilink")/120Hz
+  - Dynamic HDR for specifying HDR metadata on a scene-by-scene or even a frame-by-frame basis
+  - [Display Stream Compression](https://zh.wikipedia.org/wiki/Display_Stream_Compression "wikilink") (DSC) 1.2 is used for video formats higher than 8K with 4:2:0 chroma subsampling
+  - [High Frame Rate](https://zh.wikipedia.org/wiki/High_frame_rate "wikilink") (HFR) for 4K, 8K, and 10K, which adds support for refresh rates up to 120Hz
+  - Enhanced Audio Return Channel (eARC) for object-based audio formats such as [Dolby Atmos](https://zh.wikipedia.org/wiki/Dolby_Atmos "wikilink") and [DTS:X](https://zh.wikipedia.org/wiki/DTS:X "wikilink")
+  - Enhanced refresh rate features:
+      - Variable Refresh Rate (VRR) reduces or eliminates lag, stutter and frame tearing for more fluid motion in games
+      - Quick Media Switching (QMS) for movies and video eliminates the delay that can result in blank screens before content is displayed
+      - Quick Frame Transport (QFT) reduces latency
+  - Auto Low Latency Mode (ALLM) automatic latency setting to the lowest ideal latency
 
 ## 長度限制問題
 
@@ -402,7 +406,7 @@ HDMI的纜線長度限制是其主要的問題之一，在部分消費者自行�
   - **高速HDMI**
   - **超高速HDMI (48G)**
 
-**標準HDMI**数据线可选支持HDMI版本特定的子技术规范，而**高速HDMI**數據線皆支援，如Deep Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太網路](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")。HDMI 2.1版本則提供新的48G線材規格，包含所有功能。\[5\]
+**標準HDMI**数据线可选支持HDMI版本特定的子技术规范，而**高速HDMI**數據線皆支援，如Deep Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太網路](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")。HDMI 2.1版本則提供新的48G線材規格，包含所有功能。\[7\]
 
 **主要規格**
 
@@ -698,7 +702,7 @@ HDMI的纜線長度限制是其主要的問題之一，在部分消費者自行�
 <td><p>最大signal视频带宽（MHz）</p></td>
 <td><p>165</p></td>
 <td><p>340</p></td>
-<td><p>340 [6]</p></td>
+<td><p>340 [8]</p></td>
 <td><p>600</p></td>
 </tr>
 <tr class="even">
@@ -773,7 +777,7 @@ HDMI的纜線長度限制是其主要的問題之一，在部分消費者自行�
 1.3b<br />
 1.3b1<br />
 1.3c</p></th>
-<th><p>1.4[7]</p></th>
+<th><p>1.4[9]</p></th>
 <th><p>2.0</p></th>
 </tr>
 </thead>
@@ -1033,7 +1037,7 @@ HDMI的纜線長度限制是其主要的問題之一，在部分消費者自行�
 
 ## 授權
 
-HDMI是HDMI Licensing, LLC的登录商标。使用HDMI规格需缴付版权费。版权费分为年会费和产品销售费。\[8\]
+HDMI是HDMI Licensing, LLC的登录商标。使用HDMI规格需缴付版权费。版权费分为年会费和产品销售费。\[10\]
 
   - 年会费：使用HDMI的企业每年缴付10,000美元（2006年7月以前年费为15,000美元）
   - 产品销售费：使用HDMI的规格的产品收取0.15美元，如果产品上有HDMI的标记可享0.05美元折扣，如果该产品含有HDCP保护协议可再享有0.04美元折扣。
@@ -1069,3 +1073,5 @@ HDMI是HDMI Licensing, LLC的登录商标。使用HDMI规格需缴付版权费�
 6.
 7.
 8.
+9.
+10.

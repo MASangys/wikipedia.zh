@@ -13,7 +13,7 @@
 
 ## 外部链接
 
-  - [ZoneAlarm官方主页](http://www.zonelabs.com/)／[官方blog](https://web.archive.org/web/20070228230958/http://blog.zonelabs.com/)／[官方社区](http://forum.zonelabs.org/)
+  - [ZoneAlarm官方主页](http://www.zonelabs.com/)／[官方blog](https://web.archive.org/web/20070228230958/http://blog.zonelabs.com/)／[官方社区](https://web.archive.org/web/20070224023753/http://forum.zonelabs.org/)
   - [ZoneAlarm设置详介](http://soft.yesky.com/security/bdzq/47/2017047.shtml)，天極軟件2005年6月16日。
 
 [Category:软件小作品](https://zh.wikipedia.org/wiki/Category:软件小作品 "wikilink") [Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink")

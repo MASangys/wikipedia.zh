@@ -153,6 +153,16 @@ SK曾经在下面的比赛中取得过前三名：
 
   - João "felps" Vasconcellos
 
+### 部落衝突：皇室戰爭
+
+  - Javi14
+
+  - Sergioramos：)
+
+  - Morten
+
+  - Xopxsam
+
 ## 著名隊員
 
   - [埃米尔·克里斯坦森](https://zh.wikipedia.org/wiki/埃米尔·克里斯坦森 "wikilink")－HeatoN（2005年1月1日轉至[NiP](https://zh.wikipedia.org/wiki/NiP "wikilink")）

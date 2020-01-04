@@ -37,6 +37,7 @@ B\&T MP-9也被[DSArms](http://www.dsarms.com/)推出民用型[TP9戰術手槍](
 
 ### [電影](https://zh.wikipedia.org/wiki/電影 "wikilink")
 
+  - 1995年—《[-{zh-hans:盗火线; zh-hk:盜火線; zh-hant:烈火悍將;}-](https://zh.wikipedia.org/wiki/烈火悍將 "wikilink")》（Heat）：型號為TMP，由派往刺殺尼爾·麥考利的打手所使用。
   - 2014年—《[美國隊長2：酷寒戰士](https://zh.wikipedia.org/wiki/美國隊長2：酷寒戰士 "wikilink")》（Captain America: The Winter Soldier）：型號為SPP，[獵鷹](https://zh.wikipedia.org/wiki/獵鷹_\(漫畫\) "wikilink")（Sam Wilson/Falcon，[安东尼·麦凯](../Page/安东尼·麦凯.md "wikilink")飾演）之[雙持](../Page/雙持.md "wikilink")武器。
 
 ### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")

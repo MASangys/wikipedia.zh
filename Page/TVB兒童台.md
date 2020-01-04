@@ -230,7 +230,7 @@
   - [網絡小精靈](../Page/光速大冒險PIPOPA.md "wikilink")
 
   -
-  - [丁丁歷險記](../Page/丁丁歷險記.md "wikilink")(歐洲經典漫畫改編，粵語版從未在翡翠台播出)
+  - [丁丁歷險記](../Page/丁丁歷險記.md "wikilink")(歐洲經典漫畫改編，粵語版從未在[翡翠台](../Page/翡翠台.md "wikilink")播出)
 
   - [旋風四驅王](../Page/旋風四驅王.md "wikilink")
 

@@ -136,6 +136,8 @@ AP133-162於2016年12月全數更換LED光管照明。
   - AP144／KR6160
   - AP146／KR6768
 
+2019年12月27日，一輛本型號巴士於荔枝角車廠天台轉彎時翻則，沒有人受傷。
+
 ### 新世界第一巴士
 
 [NWFBNeoplanWthWavyLivery.png](https://zh.wikipedia.org/wiki/File:NWFBNeoplanWthWavyLivery.png "fig:NWFBNeoplanWthWavyLivery.png")

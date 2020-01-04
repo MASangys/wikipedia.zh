@@ -298,6 +298,15 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 <td><p>21-700</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>B-604D</p></td>
+<td><p>第22架</p></td>
+<td><p>129</p></td>
+<td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
+<td><p>2019年12月28日</p></td>
+<td><p>21-700</p></td>
+<td><p>浦银租赁第5架</p></td>
+</tr>
 </tbody>
 </table>
 

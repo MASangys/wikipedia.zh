@@ -106,7 +106,7 @@ WPF是下一代圖形API在桌面上的延伸。以WPF撰寫應用程式，具�
 
 ## 外部链接
 
-  - [- .Net Framework 3.0官方社区](http://windowsclient.net/default.aspx)
+  - [- .Net Framework 3.0官方社区](https://web.archive.org/web/20080728104257/http://windowsclient.net/default.aspx)
   - [The Windows Presentation Foundation community portal](https://archive.is/20060615073033/http://wpf.netfx3.com/)—The WPF section of the .NET Framework 3.0 community site.
   - [MSDN Windows Presentation Foundation SDK](http://msdn2.microsoft.com/en-us/library/ms754130.aspx)—Software Development Kit for WPF.
   - [WPFwiki.org](http://wpfwiki.com)—The largest WPF FAQ question and answer repository & Wiki.

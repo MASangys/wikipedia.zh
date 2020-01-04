@@ -1,13 +1,13 @@
 > 本文内容由[TAP葡萄牙航空](https://zh.wikipedia.org/wiki/TAP葡萄牙航空)转换而来。
 
 
-[Tap.a330-200.cs-toe.arp.jpg](https://zh.wikipedia.org/wiki/File:Tap.a330-200.cs-toe.arp.jpg "fig:Tap.a330-200.cs-toe.arp.jpg")
+[TAPHQLisbon.JPG](https://zh.wikipedia.org/wiki/File:TAPHQLisbon.JPG "fig:TAPHQLisbon.JPG")
 
-**TAP葡萄牙航空**（），常見的非正式中文名稱為**葡萄牙航空**，中文簡稱**葡航**，是[葡萄牙](../Page/葡萄牙.md "wikilink")的[國家航空公司](../Page/國家航空公司.md "wikilink")。该公司為[星空聯盟](../Page/星空聯盟.md "wikilink")的成員之一，以-{[里斯本](../Page/里斯本.md "wikilink")}-為該公司基地，葡萄牙航空的主要業務是經營[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[美洲](../Page/美洲.md "wikilink")的業務。
+**TAP葡萄牙航空**（），常見的非正式中文名稱為**葡萄牙航空**，簡稱**葡航**，是[葡萄牙](../Page/葡萄牙.md "wikilink")的[國家航空公司](../Page/國家航空公司.md "wikilink")，以[里斯本機場](../Page/里斯本機場.md "wikilink")為樞紐及公司總部。TAP葡萄牙航空亦是[星空聯盟](../Page/星空聯盟.md "wikilink")的成員，主要業務是經營葡萄牙國內、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[美洲](../Page/美洲.md "wikilink")的航線。
 
 ## 歷史
 
-TAP Portugal成立于1945年3月14日，在1946年9月19日開展由里斯本至[馬德里的商業航線](https://zh.wikipedia.org/wiki/馬德里 "wikilink")。同年12月31日擴展至12個地區，包括[安哥拉](../Page/安哥拉.md "wikilink")、[莫桑比克](../Page/莫桑比克.md "wikilink")等。
+TAP Portugal成立於1945年3月14日，在1946年9月19日開展由里斯本至[馬德里的商業航線](https://zh.wikipedia.org/wiki/馬德里 "wikilink")。同年12月31日擴展至12個地區，包括[安哥拉](../Page/安哥拉.md "wikilink")、[莫桑比克](../Page/莫桑比克.md "wikilink")等。
 
 1947年開展里斯本到[波爾圖](../Page/波爾圖.md "wikilink")的內陸航線；2年後開展[倫敦至](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[聖多美普林西比](https://zh.wikipedia.org/wiki/聖多美普林西比 "wikilink")。
 
@@ -26,7 +26,11 @@ TAP葡萄牙航空曾持有下列航空公司的股份：
 
 ## 機隊
 
-[TAP_Portugal_A320-214_(CS-TNX)_taxiing_at_London_Heathrow_Airport.jpg](https://zh.wikipedia.org/wiki/File:TAP_Portugal_A320-214_\(CS-TNX\)_taxiing_at_London_Heathrow_Airport.jpg "fig:TAP_Portugal_A320-214_(CS-TNX)_taxiing_at_London_Heathrow_Airport.jpg") 截至2018年9月，TAP葡萄牙航空擁有以下飛機\[1\] \[2\]：
+[TAP_A319_CS-TTB_(21169414374).jpg](https://zh.wikipedia.org/wiki/File:TAP_A319_CS-TTB_\(21169414374\).jpg "fig:TAP_A319_CS-TTB_(21169414374).jpg") [A320neo_CS-TVA_at_SV_Cape_Verde.jpg](https://zh.wikipedia.org/wiki/File:A320neo_CS-TVA_at_SV_Cape_Verde.jpg "fig:A320neo_CS-TVA_at_SV_Cape_Verde.jpg") [CS-TJN_at_MUC.jpg](https://zh.wikipedia.org/wiki/File:CS-TJN_at_MUC.jpg "fig:CS-TJN_at_MUC.jpg") [Airbus_A330-202,_TAP_Portugal_AN1571314.jpg](https://zh.wikipedia.org/wiki/File:Airbus_A330-202,_TAP_Portugal_AN1571314.jpg "fig:Airbus_A330-202,_TAP_Portugal_AN1571314.jpg") [TAP_A330-900NEO_rocketing_out_of_Lisbon_(46640476265).jpg](https://zh.wikipedia.org/wiki/File:TAP_A330-900NEO_rocketing_out_of_Lisbon_\(46640476265\).jpg "fig:TAP_A330-900NEO_rocketing_out_of_Lisbon_(46640476265).jpg")
+
+### 現役機隊
+
+截至2018年9月，TAP葡萄牙航空擁有以下飛機\[1\] \[2\]：
 
 <center>
 
@@ -49,7 +53,7 @@ TAP葡萄牙航空曾持有下列航空公司的股份：
 
 </center>
 
-### 已退役機隊
+### 已退役機型
 
   - [卡拉維爾客機](../Page/卡拉維爾客機.md "wikilink")(服役期:1962-1969)
   - [空中巴士A310-300](../Page/空中客车A310.md "wikilink") (服役期:1988-2008)
@@ -65,7 +69,7 @@ TAP葡萄牙航空曾持有下列航空公司的股份：
   - [道格拉斯DC-3](../Page/道格拉斯DC-3.md "wikilink")(服役期:1949-1959)
   - [道格拉斯DC-4](../Page/道格拉斯DC-4.md "wikilink")(服役期:1947-1960)
 
-## 参考文献
+## 參考資料
 
 <div class="references-small">
 

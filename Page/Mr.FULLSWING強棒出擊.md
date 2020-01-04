@@ -1,7 +1,7 @@
 > 本文内容由[Mr.FULLSWING強棒出擊](https://zh.wikipedia.org/wiki/Mr.FULLSWING強棒出擊)转换而来。
 
 
-《**Mr.FULLSWING**》（****）是由[鈴木信也畫的](https://zh.wikipedia.org/wiki/鈴木信也 "wikilink")[搞笑](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")，故事在敘述主角猿野天國加入十二支棒球社，並在埼玉縣初選大會奮鬥的故事。作者在正經訓練及比賽中，加入了非常多[無厘頭的](https://zh.wikipedia.org/wiki/無厘頭 "wikilink")[笑點](https://zh.wikipedia.org/wiki/笑點 "wikilink")，以及引用其他漫畫與時事[梗](https://zh.wikipedia.org/wiki/哏 "wikilink")，但也不失棒球比賽的[熱血](https://zh.wikipedia.org/wiki/熱血 "wikilink")。從2001年23號－2006年23號連載於日本漫畫雜誌[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")。
+《**Mr.FULLSWING**》（****）是由[鈴木信也畫的](https://zh.wikipedia.org/wiki/鈴木信也 "wikilink")[搞笑](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")，故事在敘述主角猿野天國加入十二支棒球社，並在埼玉縣初選大會奮鬥的故事。作者在正經訓練及比賽中，加入了非常多[無厘頭的](https://zh.wikipedia.org/wiki/無厘頭 "wikilink")[笑點](https://zh.wikipedia.org/wiki/笑點 "wikilink")，以及引用其他漫畫與時事[梗](../Page/哏.md "wikilink")，但也不失棒球比賽的[熱血](https://zh.wikipedia.org/wiki/熱血 "wikilink")。從2001年23號－2006年23號連載於日本漫畫雜誌[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")。
 
 ## 概要
 
