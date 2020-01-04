@@ -1,3 +1,6 @@
+> 本文内容由[Woollim娛樂](https://zh.wikipedia.org/wiki/Woollim娛樂)转换而来。
+
+
 **Woollim Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wikilink")[经纪公司](https://zh.wikipedia.org/wiki/经纪公司 "wikilink")，於2003年9月創立，代表為[李重燁](https://zh.wikipedia.org/wiki/李重燁 "wikilink")（）。創立初期的音樂風格為[Rock和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，而後於2010年推出首組偶像男子團體[INFINITE](../Page/INFINITE.md "wikilink")，成為[K-POP主流經紀公司之一](../Page/韓國流行音樂.md "wikilink")。
 
 ## 旗下藝人
@@ -50,7 +53,8 @@
 <td><p>2017年8月28日</p></td>
 <td><p><a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/男" title="wikilink">男</a></p></td>
-<td><p><a href="../Page/李大烈.md" title="wikilink">大烈</a>、<a href="https://zh.wikipedia.org/wiki/崔聖允" title="wikilink">Y</a>、<a href="https://zh.wikipedia.org/wiki/李長埈" title="wikilink">長埈</a>、<a href="https://zh.wikipedia.org/wiki/孫永宅" title="wikilink">TAG</a> 、<a href="https://zh.wikipedia.org/wiki/裴勝民" title="wikilink">勝民</a>、<a href="https://zh.wikipedia.org/wiki/奉宰鉉" title="wikilink">宰鉉</a>、<a href="https://zh.wikipedia.org/wiki/金知範" title="wikilink">知範</a>、<a href="https://zh.wikipedia.org/wiki/金東炫_(Golden_Child_成員)" title="wikilink">東炫</a>、<a href="https://zh.wikipedia.org/wiki/洪周燦" title="wikilink">周燦</a>、<a href="https://zh.wikipedia.org/wiki/崔普閔" title="wikilink">普閔</a></p></td>
+<td><p><a href="../Page/李大烈.md" title="wikilink">大烈</a>、<a href="../Page/崔誠允.md" title="wikilink">Y</a>、<a href="../Page/李長埈.md" title="wikilink">長埈</a>、<a href="../Page/孫永宅.md" title="wikilink">TAG</a> 、<a href="../Page/裴勝民.md" title="wikilink">勝民</a><br />
+<a href="../Page/奉宰鉉.md" title="wikilink">宰鉉</a>、<a href="../Page/金知範.md" title="wikilink">知範</a>、<a href="../Page/金東炫_(Golden_Child_成員).md" title="wikilink">東炫</a>、<a href="../Page/洪周燦.md" title="wikilink">周燦</a>、<a href="../Page/崔普閔.md" title="wikilink">普閔</a></p></td>
 <td><p><a href="../Page/李大烈.md" title="wikilink">大烈</a></p></td>
 <td><p>活動中</p></td>
 <td><p>Goldenness (골드니스)</p></td>
@@ -236,6 +240,14 @@
 <td><p>INSPIRIT (인스피릿)</p></td>
 <td><p>珍珠金屬金色</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年10月8日</p></td>
+<td><p>2014年11月12日</p></td>
+<td><p><a href="../Page/Kei.md" title="wikilink">金志妍</a></p></td>
+<td><p>女</p></td>
+<td><p>Lovelinus (러블리너스)</p></td>
+<td><p><strong>-</strong></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -289,7 +301,7 @@
   - 崔宇赫（以[Like A Movie出道](../Page/Like_A_Movie.md "wikilink")）
   - [李婁彬](../Page/李婁彬.md "wikilink")（曾參與《[少年24](../Page/少年24.md "wikilink")》、《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，後以[1TEAM](../Page/1TEAM.md "wikilink")出道）
   - [鄭游寯](https://zh.wikipedia.org/wiki/鄭游寯 "wikilink")（曾參與《[少年24](../Page/少年24.md "wikilink")》，後以[D1CE](../Page/D1CE.md "wikilink")出道）
-  - [田雄](https://zh.wikipedia.org/wiki/田雄 "wikilink")（曾是[JYP娛樂](../Page/JYP娛樂.md "wikilink")及[YG娛樂](../Page/YG娛樂.md "wikilink")練習生，後以[AB6IX](../Page/AB6IX.md "wikilink")出道
+  - [田雄](https://zh.wikipedia.org/wiki/田雄 "wikilink")（曾是[JYP娛樂](../Page/JYP娛樂.md "wikilink")及[YG娛樂](../Page/YG娛樂.md "wikilink")練習生，後以[AB6IX](../Page/AB6IX.md "wikilink")出道）
   - 文俊號（曾參與《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》，後因個人因素退出）
   - 具寶慧（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[Heart Rabbit Girls出道](../Page/Heart_Rabbit_Girls.md "wikilink")）
   - [曺承希](../Page/曺承希.md "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[F-VE DOLLS](../Page/F-VE_DOLLS.md "wikilink")、[DIA出道](https://zh.wikipedia.org/wiki/DIA "wikilink")，現為演員）
@@ -305,6 +317,8 @@
   - 金彩璘（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
   - 安書允（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
   - 劉靜恩（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
+  - 李寶拉（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
+  - 劉敏序（後因個人因素退出，曾以[Flashe出道](https://zh.wikipedia.org/wiki/Flashe "wikilink")）
   - 尹素允（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")、[Rocket Punch預備成員](../Page/Rocket_Punch.md "wikilink")，後因個人因素退出）
 
 ## Woollim Label
@@ -318,8 +332,8 @@
   - [即将出道7人偶像组合Infinite9日举行出道公演](https://web.archive.org/web/20161103220838/http://labikpop.blogbus.com/logs/65391296.html)
   - [INFINITE所屬經紀公司公開新組合“Tasty”成員](http://www.koreastardaily.com/tc/news/19483)
   - [Infinite经纪公司将推出新人女歌手刘智愛](https://web.archive.org/web/20130503085410/http://kpoppark.com/201304/1611322955352.html)
-  - [Woollim Label 即將推出新女團 — LOVELYZ (러블리즈)](http://kpopn.com/2014/11/03/247525/)
-  - [SM Entertainment合併 Woollim Entertainment.](http://kpopn.com/2013/08/09/187756/)
+  - [Woollim Label 即將推出新女團 — LOVELYZ (러블리즈)](https://web.archive.org/web/20141231095430/http://kpopn.com/2014/11/03/247525/)
+  - [SM Entertainment合併 Woollim Entertainment.](https://web.archive.org/web/20140810020345/http://kpopn.com/2013/08/09/187756/)
   - [SM Culture & Contents to merge with Woollim Entertainment](https://web.archive.org/web/20150521144027/http://www.privateequitykorea.com/ma-news/sm-culture-contents-to-merge-with-woollim-entertainment/)
 
 ## 外部連結

@@ -1,3 +1,6 @@
+> 本文内容由[Y Combinator \(公司\)](https://zh.wikipedia.org/wiki/Y_Combinator_\(公司\))转换而来。
+
+
 [Paul_Graham_talking_about_Prototype_Day_at_Y_Combinator_Summer_2009.jpg](https://zh.wikipedia.org/wiki/File:Paul_Graham_talking_about_Prototype_Day_at_Y_Combinator_Summer_2009.jpg "fig:Paul_Graham_talking_about_Prototype_Day_at_Y_Combinator_Summer_2009.jpg")在Y Combinator Prototype Day谈论\]\]
 
 **Y Combinator**（簡稱**YC**）成立於2005年3月，是一家以投資種子階段[初創公司為業務的](https://zh.wikipedia.org/wiki/创业公司 "wikilink")[創投公司](https://zh.wikipedia.org/wiki/創投 "wikilink")\[1\]。與傳統的創投公司不同，Y Combinator比較像一個初創公司團隊的「孵化器」，並以孕育創業公司為目標的「訓練營」\[2\]；他們不只會向初創公司提供一定金額的[種子基金](https://zh.wikipedia.org/wiki/種子基金 "wikilink")，而且會給予他們創業建議，以及每年舉行兩次，每次為期三個月的「課程」，以讓參加了的創業團隊增強他們的執行能力。Y Combinator會收取初創公司的[總資產淨值的平均](../Page/股東權益.md "wikilink")6個百分比的資金作為回報\[3\]。
@@ -66,51 +69,29 @@ Y Combinator由[保罗·格雷厄姆](../Page/保罗·格雷厄姆.md "wikilink"
 [Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink") [Category:山景城公司](https://zh.wikipedia.org/wiki/Category:山景城公司 "wikilink") [Category:美国金融公司](https://zh.wikipedia.org/wiki/Category:美国金融公司 "wikilink") [Category:风险投资公司](https://zh.wikipedia.org/wiki/Category:风险投资公司 "wikilink") [Category:2005年成立的公司](https://zh.wikipedia.org/wiki/Category:2005年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22. [Y Combinator is launching a startup program in China](https://techcrunch.com/2018/08/14/y-combinator-china-qi-lu/).TechCrunch.2018-08-15.\[2018-10-14\].
-
 23.
-
 24.
-
 25.
-
 26.
 27.

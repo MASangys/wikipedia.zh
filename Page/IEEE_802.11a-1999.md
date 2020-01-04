@@ -1,3 +1,6 @@
+> 本文内容由[IEEE 802.11a-1999](https://zh.wikipedia.org/wiki/IEEE_802.11a-1999)转换而来。
+
+
 **IEEE 802.11a**或标准称之为**IEEE 802.11a-1999**，是[802.11](../Page/IEEE_802.11.md "wikilink")[原始标准的一个修订标准](../Page/IEEE_802.11_\(原始标准\).md "wikilink")，于1999年获得批准。
 
 ## 描述

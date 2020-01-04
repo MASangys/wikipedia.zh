@@ -1,3 +1,6 @@
+> 本文内容由[Jane Doe](https://zh.wikipedia.org/wiki/Jane_Doe)转换而来。
+
+
 《**Jane Doe**》，[日本](../Page/日本.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[AKB48](../Page/AKB48.md "wikilink")成員[高橋南](../Page/高橋南.md "wikilink")的個人solo出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2013年4月3日由[日本環球音樂發售](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 作品解説
@@ -142,16 +145,11 @@ Type-C收錄的是翻唱[前田敦子](../Page/前田敦子.md "wikilink")的歌
 [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:富士火十劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火十劇主題曲 "wikilink") [Category:2013年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2013年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2013年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2013年Hot_Singles_Sales冠軍單曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.

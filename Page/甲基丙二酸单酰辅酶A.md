@@ -1,3 +1,6 @@
+> 本文内容由[甲基丙二酸单酰辅酶A](https://zh.wikipedia.org/wiki/甲基丙二酸单酰辅酶A)转换而来。
+
+
 **甲基丙二酸单酰辅酶A** （或简称**甲基丙二酰辅酶A**）是由[辅酶A](../Page/辅酶A.md "wikilink")与[甲基丙二酸](../Page/甲基丙二酸.md "wikilink")通过[硫酯键结合的重要](https://zh.wikipedia.org/wiki/硫酯键 "wikilink")[代谢中间产物](https://zh.wikipedia.org/wiki/代谢中间产物 "wikilink")，参与许多生物合成与分解反应。\[1\]
 
 ## 生物合成及转换

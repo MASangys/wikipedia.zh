@@ -1,3 +1,6 @@
+> 本文内容由[TNAW](https://zh.wikipedia.org/wiki/TNAW)转换而来。
+
+
 **TNAW**（**Total Nonstop Action Wrestling**） 是位在美國佛羅里達州的摔角團體，以「IMPACT」作為最大的標語，主打的是高衝擊力的摔角風格。每個禮拜，TNA 都會在佛州的環球影城的場地，舉辦並錄製每周的摔角節目《Impact Wrestling》( 即先前的 TNA iMPACT\! )，並在美國電視頻道 POP TV 上播出。TNA 這裡有著堅強的卡司，有各個實力堅強的摔角巨星如 [Bobby Lashley](https://en.wikipedia.org/wiki/Bobby_Lashley)、[Drew Galloway](https://en.wikipedia.org/wiki/Drew_Galloway)、[Ethan Carter III](https://en.wikipedia.org/wiki/Ethan_Carter_III)、[Moose](https://en.wikipedia.org/wiki/Moose_\(wrestler\)) 等人，來為各位呈現最精彩的摔角對決。
 
 ## 介紹

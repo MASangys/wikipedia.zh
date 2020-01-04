@@ -1,3 +1,6 @@
+> 本文内容由[还生-NEXT](https://zh.wikipedia.org/wiki/还生-NEXT)转换而来。
+
+
 [张新英](https://zh.wikipedia.org/wiki/张新英 "wikilink"){{、w}}[柳秀荣](https://zh.wikipedia.org/wiki/柳秀荣 "wikilink"){{、w}}
 [李宗秀](../Page/李宗秀.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 14 | list_episodes = | executive_producer = | producer = | editor = | location = | cinematography = | camera = | runtime = | company = | distributor = | channel = [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | picture_format = | audio_format = | slogan = | first_run =  | first_aired = 2005年5月16日 | last_aired = 2005年6月28日 | status = | preceded_by = [美妙人生](../Page/美妙人生.md "wikilink") | followed_by = [律师们](https://zh.wikipedia.org/wiki/律师们 "wikilink") | related = | website = <http://www.imbc.com/broad/tv/drama/next/> | production_website = }} 《**还生-NEXT**》（）是韩国[MBC电视台于](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2005年所放映连续剧，共14集。其讲述了几个人在几世轮回中，发生的爱情故事。
 

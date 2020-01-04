@@ -1,3 +1,6 @@
+> 本文内容由[②Smile Sensation](https://zh.wikipedia.org/wiki/②Smile_Sensation)转换而来。
+
+
 《**②Smile Sensation**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[S/mileage的第](https://zh.wikipedia.org/wiki/S/mileage "wikilink")2枚原創專輯，於2013年5月22日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要

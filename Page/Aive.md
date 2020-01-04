@@ -1,3 +1,6 @@
+> 本文内容由[Aive](https://zh.wikipedia.org/wiki/Aive)转换而来。
+
+
 **Aive**（、，本名不詳）是出身於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")的女[模特兒](../Page/模特兒.md "wikilink")及[寫真偶像](../Page/寫真偶像.md "wikilink")，她擁有一半孟加拉血統及一半日本血統。\[1\]父親是[孟加拉人](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")，母親是日本人。
 
 ## 參考資料

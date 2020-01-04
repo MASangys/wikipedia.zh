@@ -1,3 +1,6 @@
+> 本文内容由[Running Man節目列表](https://zh.wikipedia.org/wiki/Running_Man節目列表)转换而来。
+
+
 以下列出《**[Running Man](../Page/Running_Man.md "wikilink")**》節目內容，包括參與演出的嘉賓、該集的主題、拍攝地點及最終結果。
 
 ## 節目
@@ -18,6 +21,7 @@
   - [2017年Running Man節目列表](../Page/2017年Running_Man節目列表.md "wikilink")（集數：332－383）
   - [2018年Running Man節目列表](../Page/2018年Running_Man節目列表.md "wikilink")（集數：384－432）
   - [2019年Running Man節目列表](../Page/2019年Running_Man節目列表.md "wikilink")（集數：433－483）
+  - [2020年Running Man節目列表](../Page/2020年Running_Man節目列表.md "wikilink")（集數：484－）
 
 ## 外部連結
 

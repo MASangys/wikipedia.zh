@@ -1,3 +1,6 @@
+> 本文内容由[ALAXALA Networks](https://zh.wikipedia.org/wiki/ALAXALA_Networks)转换而来。
+
+
 **ALAXALA Networks**（全稱：**ALAXALA Networks株式會社**，）是2004年於[日本](../Page/日本.md "wikilink")成立的[日立製作所](../Page/日立製作所.md "wikilink")子公司。
 
 ## 參考文獻

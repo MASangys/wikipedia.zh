@@ -1,3 +1,6 @@
+> 本文内容由[當然SKE!!](https://zh.wikipedia.org/wiki/當然SKE!!)转换而来。
+
+
 《**當然SKE\!\!**》（），是一個於[bayfm所播放的深夜廣播節目](https://zh.wikipedia.org/wiki/bayfm "wikilink")，每週一25:30 - 26:00播出，由[SKE48](../Page/SKE48.md "wikilink")的成員主持。
 
 ## 概要

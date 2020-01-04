@@ -1,3 +1,6 @@
+> 本文内容由[TAS2R14](https://zh.wikipedia.org/wiki/TAS2R14)转换而来。
+
+
 **味觉感受器，类型2，成员14，TAS2R14** 是一个人类基因组中*TAS2R14*基因编码的蛋白质，是苦味味觉感受器的一员\[1\]\[2\]\[3\]。
 
 ## 功能
@@ -31,12 +34,8 @@ TAS2R14和其它几种苦味感受器也在人类呼吸道[平滑肌](../Page/�
 [Category:G蛋白偶联受体](https://zh.wikipedia.org/wiki/Category:G蛋白偶联受体 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.

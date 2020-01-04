@@ -1,12 +1,11 @@
+> 本文内容由[模块:String](https://zh.wikipedia.org/wiki/模块:String)转换而来。
+
+
 \--\[\[
 
 This module is intended to provide access to basic string functions.
 
-Most of the functions provided here can be invoked with named
-parameters, unnamed parameters, or a mixture. If named parameters are
-used, Mediawiki will automatically remove any leading or trailing
-whitespace from the parameter. Depending on the intended use, it may be
-advantageous to either preserve or remove such whitespace.
+Most of the functions provided here can be invoked with named parameters, unnamed parameters, or a mixture. If named parameters are used, Mediawiki will automatically remove any leading or trailing whitespace from the parameter. Depending on the intended use, it may be advantageous to either preserve or remove such whitespace.
 
 Global options
 
@@ -29,16 +28,13 @@ local str = {}
 
 This function returns the length of the target string.
 
-Usage: {{\#invoke:String|len|target_string|}} OR
-{{\#invoke:String|len|s=target_string}}
+Usage: {{\#invoke:String|len|target_string|}} OR {{\#invoke:String|len|s=target_string}}
 
 Parameters
 
 `   s: The string whose length to report`
 
-If invoked using named parameters, Mediawiki will automatically remove
-any leading or trailing whitespace from the target string. \]\] function
-str.len( frame )
+If invoked using named parameters, Mediawiki will automatically remove any leading or trailing whitespace from the target string. \]\] function str.len( frame )
 
 `   local new_args = str._getParameters( frame.args, {'s'} );`
 `   local s = new_args['s'] or '';`
@@ -48,11 +44,9 @@ end
 
 \--\[\[ sub
 
-This function returns a substring of the target string at specified
-indices.
+This function returns a substring of the target string at specified indices.
 
-Usage: {{\#invoke:String|sub|target_string|start_index|end_index}} OR
-{{\#invoke:String|sub|s=target_string|i=start_index|j=end_index}}
+Usage: {{\#invoke:String|sub|target_string|start_index|end_index}} OR {{\#invoke:String|sub|s=target_string|i=start_index|j=end_index}}
 
 Parameters
 
@@ -61,13 +55,9 @@ Parameters
 `   j: The last index of the string to return, defaults to the last character.`
 `   `
 
-The first character of the string is assigned an index of 1. If either i
-or j is a negative value, it is interpreted the same as selecting a
-character by counting from the end of the string. Hence, a value of -1
-is the same as selecting the last character of the string.
+The first character of the string is assigned an index of 1. If either i or j is a negative value, it is interpreted the same as selecting a character by counting from the end of the string. Hence, a value of -1 is the same as selecting the last character of the string.
 
-If the requested indices are out of range for the given string, an error
-is reported. \]\] function str.sub( frame )
+If the requested indices are out of range for the given string, an error is reported. \]\] function str.sub( frame )
 
 `   local new_args = str._getParameters( frame.args, { 's', 'i', 'j' } );`
 `   local s = new_args['s'] or '';`
@@ -95,10 +85,7 @@ is reported. \]\] function str.sub( frame )
 
 end
 
-\--[This function implements that features of {{str sub old}} and is
-kept in order to maintain these older
-templates.](https://zh.wikipedia.org/wiki/This_function_implements_that_features_of_{{str_sub_old}}_and_is_kept_in_order_to_maintain_these_older_templates. "wikilink")
-function str.sublength( frame )
+\--[This function implements that features of {{str sub old}} and is kept in order to maintain these older templates.](https://zh.wikipedia.org/wiki/This_function_implements_that_features_of_{{str_sub_old}}_and_is_kept_in_order_to_maintain_these_older_templates. "wikilink") function str.sublength( frame )
 
 `   local i = tonumber( frame.args.i ) or 0`
 `   local len = tonumber( frame.args.len )`
@@ -108,13 +95,9 @@ end
 
 \--\[\[ match
 
-This function returns a substring from the source string that matches a
-specified pattern.
+This function returns a substring from the source string that matches a specified pattern.
 
-Usage:
-{{\#invoke:String|match|source_string|pattern_string|start_index|match_number|plain_flag|nomatch_output}}
-OR
-{{\#invoke:String|pos|s=source_string|pattern=pattern_string|start=start_index
+Usage: {{\#invoke:String|match|source_string|pattern_string|start_index|match_number|plain_flag|nomatch_output}} OR {{\#invoke:String|pos|s=source_string|pattern=pattern_string|start=start_index
 
 `   |match=match_number|plain=plain_flag|nomatch=nomatch_output}}`
 
@@ -133,19 +116,11 @@ Parameters
 `       text.  Defaults to false.`
 `   nomatch: If no match is found, output the "nomatch" value rather than an error.`
 
-If invoked using named parameters, Mediawiki will automatically remove
-any leading or trailing whitespace from each string. In some
-circumstances this is desirable, in other cases one may want to preserve
-the whitespace.
+If invoked using named parameters, Mediawiki will automatically remove any leading or trailing whitespace from each string. In some circumstances this is desirable, in other cases one may want to preserve the whitespace.
 
-If the match_number or start_index are out of range for the string
-being queried, then this function generates an error. An error is also
-generated if no match is found. If one adds the parameter
-ignore_errors=true, then the error will be suppressed and an empty
-string will be returned on any failure.
+If the match_number or start_index are out of range for the string being queried, then this function generates an error. An error is also generated if no match is found. If one adds the parameter ignore_errors=true, then the error will be suppressed and an empty string will be returned on any failure.
 
-For information on constructing Lua patterns, a form of \[regular
-expression\], see:
+For information on constructing Lua patterns, a form of \[regular expression\], see:
 
   - <http://www.lua.org/manual/5.1/manual.html#5.4.1>
   - <http://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Patterns>
@@ -223,30 +198,22 @@ end
 
 \--\[\[ pos
 
-This function returns a single character from the target string at
-position pos.
+This function returns a single character from the target string at position pos.
 
-Usage: {{\#invoke:String|pos|target_string|index_value}} OR
-{{\#invoke:String|pos|target=target_string|pos=index_value}}
+Usage: {{\#invoke:String|pos|target_string|index_value}} OR {{\#invoke:String|pos|target=target_string|pos=index_value}}
 
 Parameters
 
 `   target: The string to search`
 `   pos: The index for the character to return`
 
-If invoked using named parameters, Mediawiki will automatically remove
-any leading or trailing whitespace from the target string. In some
-circumstances this is desirable, in other cases one may want to preserve
-the whitespace.
+If invoked using named parameters, Mediawiki will automatically remove any leading or trailing whitespace from the target string. In some circumstances this is desirable, in other cases one may want to preserve the whitespace.
 
 The first character has an index value of 1.
 
-If one requests a negative value, this function will select a character
-by counting backwards from the end of the string. In other words pos =
--1 is the same as asking for the last character.
+If one requests a negative value, this function will select a character by counting backwards from the end of the string. In other words pos = -1 is the same as asking for the last character.
 
-A requested value of zero, or a value greater than the length of the
-string returns an error. \]\] function str.pos( frame )
+A requested value of zero, or a value greater than the length of the string returns an error. \]\] function str.pos( frame )
 
 `   local new_args = str._getParameters( frame.args, {'target', 'pos'} );`
 `   local target_str = new_args['target'] or '';`
@@ -260,17 +227,7 @@ string returns an error. \]\] function str.pos( frame )
 
 end
 
-\--[str_find This function duplicates the behavior of {{str_find}},
-including all of its quirks. This is provided in order to support
-existing templates, but is NOT RECOMMENDED for new code and templates.
-New code is recommended to use the "find" function instead. Returns the
-first index in "source" that is a match to "target". Indexing is
-1-based, and the function returns -1 if the "target" string is not
-present in "source". Important Note: If the "target" string is empty /
-missing, this function returns a value of "1", which is generally
-unexpected behavior, and must be accounted for
-separatetly.](https://zh.wikipedia.org/wiki/str_find_This_function_duplicates_the_behavior_of_{{str_find}},_including_all_of_its_quirks._This_is_provided_in_order_to_support_existing_templates,_but_is_NOT_RECOMMENDED_for_new_code_and_templates._New_code_is_recommended_to_use_the_"find"_function_instead._Returns_the_first_index_in_"source"_that_is_a_match_to_"target"._Indexing_is_1-based,_and_the_function_returns_-1_if_the_"target"_string_is_not_present_in_"source"._Important_Note:_If_the_"target"_string_is_empty_/_missing,_this_function_returns_a_value_of_"1",_which_is_generally_unexpected_behavior,_and_must_be_accounted_for_separatetly. "wikilink")
-function str.str_find( frame )
+\--[str_find This function duplicates the behavior of {{str_find}}, including all of its quirks. This is provided in order to support existing templates, but is NOT RECOMMENDED for new code and templates. New code is recommended to use the "find" function instead. Returns the first index in "source" that is a match to "target". Indexing is 1-based, and the function returns -1 if the "target" string is not present in "source". Important Note: If the "target" string is empty / missing, this function returns a value of "1", which is generally unexpected behavior, and must be accounted for separatetly.](https://zh.wikipedia.org/wiki/str_find_This_function_duplicates_the_behavior_of_{{str_find}},_including_all_of_its_quirks._This_is_provided_in_order_to_support_existing_templates,_but_is_NOT_RECOMMENDED_for_new_code_and_templates._New_code_is_recommended_to_use_the_"find"_function_instead._Returns_the_first_index_in_"source"_that_is_a_match_to_"target"._Indexing_is_1-based,_and_the_function_returns_-1_if_the_"target"_string_is_not_present_in_"source"._Important_Note:_If_the_"target"_string_is_empty_/_missing,_this_function_returns_a_value_of_"1",_which_is_generally_unexpected_behavior,_and_must_be_accounted_for_separatetly. "wikilink") function str.str_find( frame )
 
 `   local new_args = str._getParameters( frame.args, {'source', 'target'} );`
 `   local source_str = new_args['source'] or '';`
@@ -291,13 +248,9 @@ end
 
 \--\[\[ find
 
-This function allows one to search for a target string or pattern within
-another string.
+This function allows one to search for a target string or pattern within another string.
 
-Usage:
-{{\#invoke:String|find|source_str|target_string|start_index|plain_flag}}
-OR
-{{\#invoke:String|find|source=source_str|target=target_str|start=start_index|plain=plain_flag}}
+Usage: {{\#invoke:String|find|source_str|target_string|start_index|plain_flag}} OR {{\#invoke:String|find|source=source_str|target=target_str|start=start_index|plain=plain_flag}}
 
 Parameters
 
@@ -307,18 +260,11 @@ Parameters
 `   plain: Boolean flag indicating that target should be understood as plain`
 `       text and not as a Lua style regular expression, defaults to true`
 
-If invoked using named parameters, Mediawiki will automatically remove
-any leading or trailing whitespace from the parameter. In some
-circumstances this is desirable, in other cases one may want to preserve
-the whitespace.
+If invoked using named parameters, Mediawiki will automatically remove any leading or trailing whitespace from the parameter. In some circumstances this is desirable, in other cases one may want to preserve the whitespace.
 
-This function returns the first index \>= "start" where "target" can be
-found within "source". Indices are 1-based. If "target" is not found,
-then this function returns 0. If either "source" or "target" are missing
-/ empty, this function also returns 0.
+This function returns the first index \>= "start" where "target" can be found within "source". Indices are 1-based. If "target" is not found, then this function returns 0. If either "source" or "target" are missing / empty, this function also returns 0.
 
-This function should be safe for UTF-8 strings. \]\] function str.find(
-frame )
+This function should be safe for UTF-8 strings. \]\] function str.find( frame )
 
 `   local new_args = str._getParameters( frame.args, {'source', 'target', 'start', 'plain' } ); `
 `   local source_str = new_args['source'] or '';`
@@ -343,13 +289,9 @@ end
 
 \--\[\[ replace
 
-This function allows one to replace a target string or pattern within
-another string.
+This function allows one to replace a target string or pattern within another string.
 
-Usage:
-{{\#invoke:String|replace|source_str|pattern_string|replace_string|replacement_count|plain_flag}}
-OR
-{{\#invoke:String|replace|source=source_string|pattern=pattern_string|replace=replace_string|
+Usage: {{\#invoke:String|replace|source_str|pattern_string|replace_string|replacement_count|plain_flag}} OR {{\#invoke:String|replace|source=source_string|pattern=pattern_string|replace=replace_string|
 
 `  count=replacement_count|plain=plain_flag}}`
 
@@ -393,8 +335,7 @@ Parameters
 
 end
 
-\--[simple function to pipe string.rep to
-templates.](https://zh.wikipedia.org/wiki/simple_function_to_pipe_string.rep_to_templates. "wikilink")
+\--[simple function to pipe string.rep to templates.](https://zh.wikipedia.org/wiki/simple_function_to_pipe_string.rep_to_templates. "wikilink")
 
 function str.rep( frame )
 
@@ -486,13 +427,7 @@ function str.split(inputstr, sep, no_pattern, ignore_null)
 
 end
 
-\--[Helper function that populates the argument list given that user may
-need to use a mix of named and unnamed parameters. This is relevant
-because named parameters are not identical to unnamed parameters due to
-string trimming, and when dealing with strings we sometimes want to
-either preserve or remove that whitespace depending on the
-application.](https://zh.wikipedia.org/wiki/Helper_function_that_populates_the_argument_list_given_that_user_may_need_to_use_a_mix_of_named_and_unnamed_parameters._This_is_relevant_because_named_parameters_are_not_identical_to_unnamed_parameters_due_to_string_trimming,_and_when_dealing_with_strings_we_sometimes_want_to_either_preserve_or_remove_that_whitespace_depending_on_the_application. "wikilink")
-function str._getParameters( frame_args, arg_list )
+\--[Helper function that populates the argument list given that user may need to use a mix of named and unnamed parameters. This is relevant because named parameters are not identical to unnamed parameters due to string trimming, and when dealing with strings we sometimes want to either preserve or remove that whitespace depending on the application.](https://zh.wikipedia.org/wiki/Helper_function_that_populates_the_argument_list_given_that_user_may_need_to_use_a_mix_of_named_and_unnamed_parameters._This_is_relevant_because_named_parameters_are_not_identical_to_unnamed_parameters_due_to_string_trimming,_and_when_dealing_with_strings_we_sometimes_want_to_either_preserve_or_remove_that_whitespace_depending_on_the_application. "wikilink") function str._getParameters( frame_args, arg_list )
 
 `   local new_args = {};`
 `   local index = 1;`
@@ -511,9 +446,7 @@ function str._getParameters( frame_args, arg_list )
 
 end
 
-\--[Helper function to handle error
-messages.](https://zh.wikipedia.org/wiki/Helper_function_to_handle_error_messages. "wikilink")
-function str._error( error_str )
+\--[Helper function to handle error messages.](https://zh.wikipedia.org/wiki/Helper_function_to_handle_error_messages. "wikilink") function str._error( error_str )
 
 `   local frame = mw.getCurrentFrame();`
 `   local error_category = frame.args.error_category or '字符串模块报告的错误';`
@@ -533,9 +466,7 @@ function str._error( error_str )
 
 end
 
-\--[Helper Function to interpret boolean
-strings](https://zh.wikipedia.org/wiki/Helper_Function_to_interpret_boolean_strings "wikilink")
-function str._getBoolean( boolean_str )
+\--[Helper Function to interpret boolean strings](https://zh.wikipedia.org/wiki/Helper_Function_to_interpret_boolean_strings "wikilink") function str._getBoolean( boolean_str )
 
 `   local boolean_value;`
 `   `
@@ -556,10 +487,7 @@ function str._getBoolean( boolean_str )
 
 end
 
-\--[Helper function that escapes all pattern characters so that they
-will be treated as plain
-text.](https://zh.wikipedia.org/wiki/Helper_function_that_escapes_all_pattern_characters_so_that_they_will_be_treated_as_plain_text. "wikilink")
-function str._escapePattern( pattern_str )
+\--[Helper function that escapes all pattern characters so that they will be treated as plain text.](https://zh.wikipedia.org/wiki/Helper_function_that_escapes_all_pattern_characters_so_that_they_will_be_treated_as_plain_text. "wikilink") function str._escapePattern( pattern_str )
 
 `   return mw.ustring.gsub( pattern_str, "([%(%)%.%%%+%-%*%?%[%^%$%]])", "%%%1" );`
 

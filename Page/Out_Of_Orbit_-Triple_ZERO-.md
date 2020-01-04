@@ -1,3 +1,6 @@
+> 本文内容由[Out Of Orbit -Triple ZERO-](https://zh.wikipedia.org/wiki/Out_Of_Orbit_-Triple_ZERO-)转换而来。
+
+
 《**Out Of Orbit 〜Triple ZERO〜**》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在2002年2月20日发行的第16张单曲。销售方为Antinous Records。
 
 ## 概要

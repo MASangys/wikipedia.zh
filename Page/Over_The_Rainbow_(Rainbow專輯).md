@@ -1,3 +1,6 @@
+> 本文内容由[Over The Rainbow \(Rainbow專輯\)](https://zh.wikipedia.org/wiki/Over_The_Rainbow_\(Rainbow專輯\))转换而来。
+
+
 「**Over The Rainbow**」是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Rainbow的第](https://zh.wikipedia.org/wiki/Rainbow "wikilink")1枚原創日語專輯。於2012年3月28日發行。唱片公司為[Universal Music](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 ## 概要

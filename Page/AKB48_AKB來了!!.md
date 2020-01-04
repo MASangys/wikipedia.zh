@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 AKB來了!!](https://zh.wikipedia.org/wiki/AKB48_AKB來了!!)转换而来。
+
+
 **AKB48 AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")於2010年8月17日至31日於[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")6個地方舉行的全國巡迴演唱會\[1\]。
 
 ## 概要
@@ -393,79 +396,50 @@
 [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.
-
 25.
-
 26.
 27.
 28.
-
 29.
-
 30.
 31.
 32.
-
 33.
-
 34.
 35.
 36.
-
 37.
-
 38.
 39.
 40.
-
 41.
-
 42.
 43.
 44.
 45.
-
 46.
-
 47.
-
 48. [DVD介紹頁面](http://www.akb48-dvdcatalog.com/tour10/)

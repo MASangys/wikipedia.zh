@@ -1,3 +1,6 @@
+> 本文内容由[伴娘HOLD不住](https://zh.wikipedia.org/wiki/伴娘HOLD不住)转换而来。
+
+
 《**伴娘HOLD不住**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：***Bachelorette***）是一部2012年美國黑色喜劇片，[Leslye Headland導演兼编剧](https://zh.wikipedia.org/wiki/:en:Leslye_Headland "wikilink")，[克絲汀·鄧斯特](https://zh.wikipedia.org/wiki/克絲汀·鄧斯特 "wikilink")、[艾拉·費雪](../Page/艾拉·費雪.md "wikilink")和[麗茲·凱普蘭](../Page/麗茲·凱普蘭.md "wikilink")主演。
 
 ## 劇情

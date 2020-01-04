@@ -1,3 +1,6 @@
+> 本文内容由[GATE 奇幻自衛隊](https://zh.wikipedia.org/wiki/GATE_奇幻自衛隊)转换而来。
+
+
 《**GATE 奇幻自衛隊**》（，中文直譯為：**门：自卫队在彼之地如此战斗**）是由日本小说家[柳內巧](../Page/柳內巧.md "wikilink")编写的[奇幻小说](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。續作《GATE第二季：自衛隊在彼之海如此戰鬥》（）連載中。截至2018年4月全系列已售賣了445萬本。
 
 ## 劇情簡介
@@ -679,6 +682,14 @@
 <td><p>13</p></td>
 <td><p>2018年6月1日</p></td>
 </tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2018年12月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2019年6月30日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -799,7 +810,7 @@
 
   - 第一期
     片頭曲《〜》
-    塡詞、作曲：岸田，編曲、主唱：[岸田教團\&THE明星Rockets](https://zh.wikipedia.org/wiki/岸田教團&THE明星Rockets "wikilink")
+    塡詞、作曲：岸田，編曲、主唱：[岸田教團\&THE明星Rockets](../Page/岸田教團&THE明星Rockets.md "wikilink")
 
 <!-- end list -->
 
@@ -1168,7 +1179,7 @@
 
   - [官方宣传片](http://www.youtube.com/watch?v=2Hn5V_qjKiI&feature=fvsr)
 
-  - [コミカライズ版の掲載ページ](http://www.alphapolis.co.jp/manga/viewOpening/138000030/)
+  - [コミカライズ版の掲載ページ](https://web.archive.org/web/20151016140318/http://www.alphapolis.co.jp/manga/viewOpening/138000030/)
 
   - [原作官方網站](http://www.gate-alphapolis.com/)
 

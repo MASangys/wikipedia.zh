@@ -1,3 +1,6 @@
+> 本文内容由[2013年Astro华丽台电视剧列表](https://zh.wikipedia.org/wiki/2013年Astro华丽台电视剧列表)转换而来。
+
+
 本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 ## 8.00港劇時段
@@ -53,7 +56,7 @@ Men with No Shadows</p></td>
 Wish and Switch</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<a href="../Page/李思捷.md" title="wikilink">李思捷</a>、<a href="https://zh.wikipedia.org/wiki/李詩韻" title="wikilink">李詩韻</a>、<br />
-<a href="../Page/王浩信.md" title="wikilink">王浩信</a>、<a href="../Page/商天娥.md" title="wikilink">商天娥</a>、<a href="https://zh.wikipedia.org/wiki/劉江" title="wikilink">劉　江</a></p></td>
+<a href="../Page/王浩信.md" title="wikilink">王浩信</a>、<a href="../Page/商天娥.md" title="wikilink">商天娥</a>、<a href="../Page/劉江_(香港).md" title="wikilink">劉　江</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/林志華.md" title="wikilink">林志華</a></p></td>
 <td style="text-align: center;"><p><a href="http://programme.tvb.com/drama/wishandswitch">網頁</a></p></td>
 <td style="text-align: center;"><p>主：交換快樂 (<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<a href="../Page/李思捷.md" title="wikilink">李思捷</a>)</p></td>

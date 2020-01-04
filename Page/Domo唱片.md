@@ -1,3 +1,6 @@
+> 本文内容由[Domo唱片](https://zh.wikipedia.org/wiki/Domo唱片)转换而来。
+
+
 **Domo**是位於加州洛杉磯的一間唱片公司。
 
 創始人內藤栄一於1990年創立**Domo唱片公司**。在那之前，內藤曾是[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")、[錄音工程師及經紀人](https://zh.wikipedia.org/wiki/錄音 "wikilink")。**Domo**這名子取自日文 , 意思是『謝謝』，為的是感謝過去合作過的歌手們。

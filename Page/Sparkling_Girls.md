@@ -1,3 +1,6 @@
+> 本文内容由[Sparkling Girls](https://zh.wikipedia.org/wiki/Sparkling_Girls)转换而来。
+
+
 **Sparkling Girls**，簡稱**SKG**，是一隊[香港](../Page/香港.md "wikilink")女子跳唱組合，於2012年11月正式出道，為[亞洲星光影視旗下藝人](https://zh.wikipedia.org/wiki/亞洲星光影視 "wikilink")。組合成立初期的成員包括**吳宥萱（Sena）**、**莊茜佳（Tasha）**和**林宜鎂（Meow）**，後來**林宜鎂（Meow）**因為跳舞引致嚴重受傷而暫時退出，並由新成員**高韻（N'IE）**加入取代\[1\]\[2\]。
 
 ## 成員
@@ -186,7 +189,7 @@ Sunshine Kiss Gift</p></td>
 
 ## 外部連結
 
-  - [Sparkling Girls官網](http://www.sparklinggirls.com)
+  - [Sparkling Girls官網](https://web.archive.org/web/20130806161331/http://www.sparklinggirls.com/)
   - [Sparkling Girls的Facebook主頁](http://www.facebook.com/hksparklinggirls)
   - [Sparkling Girls的新浪微博](http://weibo.com/sparklinggirls)
   - [成員Sena的新浪微博](http://weibo.com/senang)
@@ -200,7 +203,7 @@ Sunshine Kiss Gift</p></td>
   - [香港人網：唔潮唔吹第57集—Sparkling Girls](https://web.archive.org/web/20160306111153/http://hkreporter.loved.hk/audio_archive.php?archive_id=17352)
   - [東方日報：Sparkling Girls韓風舞不停](http://orientaldaily.on.cc/cnt/entertainment/20121024/00282_028.html)
   - [Young動態：Sparkling Girls出席翁航融新專輯發佈會](https://web.archive.org/web/20121120073045/http://blog.youngd.cn/archives/1821/)
-  - [網易新聞：Sparkling Girls广州性感跨年(图)](http://news.163.com/13/0102/14/8K7JU76300014AED.html)
+  - [網易新聞：Sparkling Girls广州性感跨年(图)](https://web.archive.org/web/20190217235840/http://news.163.com/13/0102/14/8K7JU76300014AED.html)
   - [太陽報：Sparkling Girls獲校長點醒](http://the-sun.on.cc/cnt/entertainment/20130111/00470_046.html)
   - [TVB：音樂360之Sparkling Girls](http://mytv.tvb.com/music/360degrees/141309#page-1)
   - [昔日太陽：Sparkling Girls同鐘舒漫撐台環保](http://the-sun.on.cc/cnt/entertainment/20130324/00470_030.html)
@@ -211,7 +214,7 @@ Sunshine Kiss Gift</p></td>
 2.  [昔日東方：Sparkling Girls舞到腰傷](http://orientaldaily.on.cc/cnt/entertainment/20130324/00282_037.html)
 3.  [東方日報 11.01.2013](https://scontent-nrt.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/408478_158406664309061_383488869_n.jpg?oh=7e7dbd517351e608df5fa1628bd8ab3b&oe=559C119E)
 4.  [蘋果日報 14.12.2013](http://hk.apple.nextmedia.com/realtime/racing/20131214/51994008)
-5.  [Tasha Chong's Fans Club](http://profileengine.com/groups/profile/428221980/-tasha-chongs-fans-club#/groups/profile/428221980/-tasha-chongs-fans-club)
+5.
 6.  可以譯為“SiuMei”
 7.  官方MV版，**“SiuMei”**為**“Meow”**
 8.  [網易娛樂：女团Sparkling Girls首秀 MV邀金曲奖导演执镜](http://ent.163.com/12/0830/17/8A61TU4P00031H0O.html)

@@ -1,3 +1,6 @@
+> 本文内容由[劇團EXILE](https://zh.wikipedia.org/wiki/劇團EXILE)转换而来。
+
+
 **劇團EXILE**是[HIRO擔任總監的](../Page/五十嵐廣行.md "wikilink")[日本](../Page/日本.md "wikilink")劇團。
 
 ## 簡歷

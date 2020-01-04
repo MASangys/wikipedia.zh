@@ -1,3 +1,6 @@
+> 本文内容由[Autopackage](https://zh.wikipedia.org/wiki/Autopackage)转换而来。
+
+
 [Autopackage_installing_software.png](https://zh.wikipedia.org/wiki/File:Autopackage_installing_software.png "fig:Autopackage_installing_software.png")
 
 **Autopackage**是一個[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[軟體包管理系統](https://zh.wikipedia.org/wiki/軟體包管理系統 "wikilink")，其目標為可以簡易的創造在所有的[Linux發行版上安裝的軟體包](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，此專案由Mike Hearn於2002年時創立。

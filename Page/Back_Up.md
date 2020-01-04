@@ -1,3 +1,6 @@
+> 本文内容由[Back Up](https://zh.wikipedia.org/wiki/Back_Up)转换而来。
+
+
 《**Back Up**》是[許志安](../Page/許志安.md "wikilink")的個人音樂專輯，於2004年10月29日推出。此專輯的包裝為立體封面，同步還發行了[SACD](https://zh.wikipedia.org/wiki/SACD "wikilink")。
 
 ## 曲目

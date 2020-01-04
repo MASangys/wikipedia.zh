@@ -1,3 +1,6 @@
+> 本文内容由[HTC First](https://zh.wikipedia.org/wiki/HTC_First)转换而来。
+
+
 **HTC First**（代號：HTC Myst）是[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")、[Facebook](../Page/Facebook.md "wikilink")與[AT\&T](../Page/AT&T.md "wikilink")共同推出支援[長期演進技術](../Page/長期演進技術.md "wikilink")（LTE）及[近場通訊](../Page/近場通訊.md "wikilink")（NFC）的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，預載[Android](../Page/Android.md "wikilink") 4.1及[Facebook Home介面](../Page/Facebook_Home.md "wikilink")，於2013年4月12日在AT\&T獨家販售。此機於Facebook在2013年4月4日舉辦的發表會上發表，是Facebook自行推出的首支手機，此次發表會還發表Facebook推出的新介面程式「Facebook Home」。
 
 此機是宏達電繼[HTC ChaCha與](../Page/HTC_ChaCha.md "wikilink")[HTC Salsa之後](../Page/HTC_Salsa.md "wikilink")，為Facebook設計的第三支手機。

@@ -1,3 +1,6 @@
+> 本文内容由[宇宙刑事Shaider](https://zh.wikipedia.org/wiki/宇宙刑事Shaider)转换而来。
+
+
 |                                                               |
 | ------------------------------------------------------------- |
 | **[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")** |

@@ -1,3 +1,6 @@
+> 本文内容由[CETME自動步槍](https://zh.wikipedia.org/wiki/CETME自動步槍)转换而来。
+
+
 **CETME自動步槍**是由[西班牙](../Page/西班牙.md "wikilink")特種材料技術研究中心（Centro de Estudios Técnicos de Materiales Especiales）於1950年配合由路德維希·福爾格里姆勒研製的[滾輪延遲反沖式閉鎖槍機開發出來的一系列武器](../Page/反沖作用_\(槍械\).md "wikilink")，該槍在不久更成為[西班牙軍隊的制式步槍](https://zh.wikipedia.org/wiki/西班牙軍隊 "wikilink")。
 
 ## 歷史

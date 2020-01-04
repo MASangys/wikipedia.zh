@@ -1,3 +1,6 @@
+> 本文内容由[Portal:VRMMO](https://zh.wikipedia.org/wiki/Portal:VRMMO)转换而来。
+
+
 __NOTOC__
 
 <div align="center">

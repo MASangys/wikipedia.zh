@@ -1,7 +1,7 @@
 > 本文内容由[Ingress](https://zh.wikipedia.org/wiki/Ingress)转换而来。
 
 
-**Ingress**中文有译为**虛擬入口**\[1\]或**浸视界**\[2\]，是一款基于[地理位置的](https://zh.wikipedia.org/wiki/基于位置的服务 "wikilink")[大型多人](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[侵入式虚拟现实](https://zh.wikipedia.org/wiki/侵入式虚拟现实游戏 "wikilink")[游戏](../Page/电子游戏.md "wikilink")。由[Niantic Labs](../Page/Niantic.md "wikilink") 开发，於2012年11月16日开始在[Android](../Page/Android.md "wikilink") 平台進行測試，\[3\]于2013年12月15日正式發布。\[4\]2014年7月15日登陆[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 平台。\[5\]
+**Ingress**（中文译为**虛擬入口**\[1\]或**浸视界**\[2\]），是一款基于[地理位置的](https://zh.wikipedia.org/wiki/基于位置的服务 "wikilink")[大型多人](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[侵入式虚拟现实](https://zh.wikipedia.org/wiki/侵入式虚拟现实游戏 "wikilink")[游戏](../Page/电子游戏.md "wikilink")。由[Niantic Labs](../Page/Niantic.md "wikilink") 开发，於2012年11月16日开始在[Android](../Page/Android.md "wikilink") 平台進行測試，\[3\]于2013年12月15日正式發布。\[4\]2014年7月15日登陆[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 平台。\[5\]
 
 ## 故事背景
 

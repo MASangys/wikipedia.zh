@@ -1,3 +1,6 @@
+> 本文内容由[Complex.h](https://zh.wikipedia.org/wiki/Complex.h)转换而来。
+
+
 **`complex.h`**是[C標準函数庫中的](https://zh.wikipedia.org/wiki/C標準函数庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，提供了[复数算术所需要的宏定义与函数声明](../Page/复数_\(数学\).md "wikilink")。
 
 ## 类型

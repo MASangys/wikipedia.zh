@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior Donghae \& Eunhyuk](https://zh.wikipedia.org/wiki/Super_Junior_Donghae_\&_Eunhyuk)转换而来。
+
+
 **Super Junior-D\&E**是韓國演唱團體[Super Junior的第五個官方子團體](../Page/Super_Junior.md "wikilink")，由Super Junior的兩名成員[東海與](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")於2011年組成。2016年憑藉迷你專輯《[Present](https://zh.wikipedia.org/wiki/Present_\(Super_Junior-D&E迷你專輯\) "wikilink")》獲頒[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")年度最佳專輯獎\[1\]。
 
 ## 簡歷
@@ -183,16 +186,17 @@ Team One Sound的彼得通過Twitter寫道，[Super Junior成員](../Page/Super_
 
   - 其他大型演唱會
 
-|             |                   |                 |
-| ----------- | ----------------- | --------------- |
-| 日期          | 演唱會名稱             | 舉行地點            |
-| 2014年3月16日  | Kansai Collection | 大阪京瓷巨蛋          |
-| 2014年4月19日  | 東京GirlsAward      | 國立代代木競技場        |
-| 2014年11月14日 | 倫敦韓國電影節           | 倫敦萊斯特廣場         |
-| 2015年2月11日  | 2015年CCTV網路春晚     |                 |
-| 2015年5月22日  | 樂天家族演唱會           | 蠶室綜合運動場奧林匹克主競技場 |
-| 2017年8月20日  | 2017 KCON in LA   | 洛杉機史坦波中心        |
-| 2018年8月4日   | A-Nation演唱會       | 長崎鹿特丹特設會場       |
+|             |                   |                                              |
+| ----------- | ----------------- | -------------------------------------------- |
+| 日期          | 演唱會名稱             | 舉行地點                                         |
+| 2014年3月16日  | Kansai Collection | 大阪京瓷巨蛋                                       |
+| 2014年4月19日  | 東京GirlsAward      | 國立代代木競技場                                     |
+| 2014年11月14日 | 倫敦韓國電影節           | 倫敦萊斯特廣場                                      |
+| 2015年2月11日  | 2015年CCTV網路春晚     |                                              |
+| 2015年5月22日  | 樂天家族演唱會           | 蠶室綜合運動場奧林匹克主競技場                              |
+| 2017年8月20日  | 2017 KCON in LA   | 洛杉機史坦波中心                                     |
+| 2018年8月4日   | A-Nation演唱會       | 長崎鹿特丹特設會場                                    |
+| 2019年12月31日 | 2020臺北最HIGH新年城    | 臺北[市民廣場](../Page/市民廣場_\(臺北市\).md "wikilink") |
 
 ## 獎項
 
@@ -282,26 +286,15 @@ Team One Sound的彼得通過Twitter寫道，[Super Junior成員](../Page/Super_
 [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.

@@ -1,3 +1,6 @@
+> 本文内容由[HAPPINESS -WINTER MIX-](https://zh.wikipedia.org/wiki/HAPPINESS_-WINTER_MIX-)转换而来。
+
+
 [GLAY](../Page/GLAY.md "wikilink")的第18張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介

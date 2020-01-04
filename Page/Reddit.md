@@ -1,16 +1,19 @@
+> 本文内容由[Reddit](https://zh.wikipedia.org/wiki/Reddit)转换而来。
+
+
 （）\[1\]（有媒体译作：**红迪**\[2\]\[3\]）是一个娱乐、社交及新聞网站，注册用户可以将文字或連結在網站上發布，使它基本上成為了一個[電子佈告欄系統](../Page/BBS.md "wikilink")。注册用户可以对这些帖子进行投票，结果将被用来进行排名和决定它在首页或子页的位置。網站上的內容分類被稱為「subreddit」。subreddit的內容包括新聞、電子遊戲、電影、音樂、書籍、健身、食物和圖片分享等。
 
 Reddit由在[維吉尼亞大學讀書時當時是室友的](https://zh.wikipedia.org/wiki/維吉尼亞大學 "wikilink")和[亞歷克西斯·瓦尼安](../Page/亞歷克西斯·瓦尼安.md "wikilink")於2005年創立。[康泰納仕於](https://zh.wikipedia.org/wiki/康泰納仕 "wikilink")2006年收購了該網站。Reddit於2011年9月脫離康泰納仕，成為康泰納仕母公司[先進出版公司](../Page/先進出版公司.md "wikilink")的子公司。雖然先進出版公司是其最大股東，但Reddit是獨立運作的\[4\]。Reddit公司的總部設在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")的[旧金山](../Page/旧金山.md "wikilink")。在2014年10月，Reddit在由主持，包括[馬克·安德森](https://zh.wikipedia.org/wiki/馬克·安德森 "wikilink")、[彼得·泰爾](../Page/彼得·泰爾.md "wikilink")、、[史努比狗狗](../Page/史努比狗狗.md "wikilink")和[謝拉·力圖的一輪投資中獲得](https://zh.wikipedia.org/wiki/謝拉·力圖 "wikilink")5000萬美元\[5\]。他們的投資使Reddit公司的估值達5億美元\[6\]\[7\]。
 
-2018年8月，陆续有网友发现Reddit在中国大陆不可用\[8\]\[9\]\[10\]。随后证实Reddit受到了[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")，部分地区不可用\[11\]\[12\]。
+2018年8月，陆续有网友发现Reddit在[中国大陆](../Page/中国大陆.md "wikilink")不可用\[8\]\[9\]\[10\]。随后证实Reddit受到了[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")，部分地区不可用\[11\]\[12\]。
 
-目前Reddit是美国第五大网站，流量仅次于[Google](../Page/Google.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")以及[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")，月活用户数达3.3亿\[13\]。
+目前Reddit是[美国第五大网站](https://zh.wikipedia.org/wiki/最受歡迎網站列表 "wikilink")，流量仅次于[Google](../Page/Google.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")以及[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")，月活用户数达3.3亿\[13\]。
 
 ## 概觀
 
 ### 網站
 
-Reddit是由已註冊用戶的帖子所集成的，基本上是一個[電子佈告欄系統](../Page/BBS.md "wikilink")。「Reddit」這個名稱的由來是因為它與英文過去式「read it」（已閱讀）的發音相同\[14\]。網站的內容分成眾多分類，而以下的五十個分類的帖子，或叫作「預設 subreddits」，是未註冊、未登入及剛註冊用戶上首頁上所見到的內容。，它們包括\[15\]：
+Reddit是由已註冊用戶的帖子所集成的，基本上是一個[電子佈告欄系統](../Page/BBS.md "wikilink")。「Reddit」這個名稱的由來是因為它與英文[過去式](https://zh.wikipedia.org/wiki/過去式 "wikilink")「read it」（已閱讀）的發音相同\[14\]。網站的內容分成眾多分類，而以下的五十個分類的帖子，或叫作「預設 subreddits」，是未註冊、未登入及剛註冊用戶上首頁上所見到的內容。，它們包括\[15\]：
 
 | 分類   | Subreddit                                                                                                  |
 | ---- | ---------------------------------------------------------------------------------------------------------- |
@@ -127,250 +130,129 @@ Reddit當初是使用[Common Lisp編寫](../Page/Common_Lisp.md "wikilink")，�
 [Category:Reddit](https://zh.wikipedia.org/wiki/Category:Reddit "wikilink") [Category:新聞網站](https://zh.wikipedia.org/wiki/Category:新聞網站 "wikilink") [Category:美国网站](https://zh.wikipedia.org/wiki/Category:美国网站 "wikilink") [Category:2005年建立的網站](https://zh.wikipedia.org/wiki/Category:2005年建立的網站 "wikilink") [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:社交書籤](https://zh.wikipedia.org/wiki/Category:社交書籤 "wikilink") [Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
-
 2.  <http://home.xinhua-news.com/history>
-
 3.  <http://www.xinhuanet.com/world/2016-04/09/c_128877110.htm>
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.  GreatFire.org|accessdate=2018-08-11|work=zh.greatfire.org|language=zh-hans}}
-
 12.  Reddit 被屏蔽|accessdate=2018-08-11|work=www.solidot.org}}
-
 13. [美国第五大网站 Reddit要被腾讯拿下](https://news.mydrivers.com/1/614/614049.htm)
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.  (archive.org link)
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
 47.
 48.
 49.
 50.
-
 51.  Discord 服务被屏蔽|accessdate=2018-08-12|work=www.solidot.org}}
-
 52. [“美版贴吧”Reddit完成3亿美元融资：腾讯领投](http://tech.sina.com.cn/i/2019-02-12/doc-ihqfskcp4460331.shtml)
-
 53. [腾讯据传投资美国Reddit论坛 引网民发动“天安门之乱”](http://news.dwnews.com/global/news/2019-02-11/60117350.html)
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59. [Yishan Wong: "We stand for freedom of speech. We will uphold existing rules against posting dox on reddit. But the reality is those rules end at our platform, and we will respect journalism as a form of speech that we don't ban. We believe further change can come only from example-setting."](http://i.imgur.com/7oWt3.jpg)
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106. [Reddit CEO Ellen Pao apologizes: 'We screwed up'](http://money.cnn.com/2015/07/06/technology/reddit-back-online-ellen-pao/index.html) By Laurie Segall and Chris Isidore *CNN.com* July 6, 2015
-
 107. [Reddit CEO Ellen Pao Issues an Apology for the Direction of the Site](http://www.foxnews.com/us/2015/07/06/reddit-ceo-ellen-pao-issues-apology-for-direction-site/)  by Laura Entis *FoxNews.com* July 06, 2015
-
 108.
-
 109.
-
 110.
 111.
-
 112.
-
 113.
-
 114. [中共網軍入侵Reddit搶控話語權](https://hk.news.appledaily.com/international/daily/article/20190319/20636454) 蘋果日報 2019-03-19
-
 115.
-
 116.
-
 117.
-
 118.
-
 119. [Sites Using Pylons](http://wiki.pylonshq.com/display/pylonscommunity/Sites+Using+Pylons)  – Pylons Community – PythonWeb
-
 120.
-
 121. [What's new on Reddit: Reddit now powered by jQuery](http://blog.reddit.com/2009/01/reddit-now-powered-by-jquery.html) – Posted by Chris Slowe (keysersosa) (Friday, January 30, 2009) – blog.reddit
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.

@@ -1,3 +1,6 @@
+> 本文内容由[ED6型电力动车组](https://zh.wikipedia.org/wiki/ED6型电力动车组)转换而来。
+
+
 **ED6型电力动车组**（）是[俄罗斯铁路的](../Page/俄罗斯铁路运输.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为3000伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[杰米霍沃机器制造厂](../Page/杰米霍沃机器制造厂.md "wikilink")设计制造，于2001年研制成功，但未投入批量生产。
 
 ## 发展历史

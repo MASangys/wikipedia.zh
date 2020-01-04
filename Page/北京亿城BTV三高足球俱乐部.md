@@ -1,3 +1,6 @@
+> 本文内容由[北京亿城BTV三高足球俱乐部](https://zh.wikipedia.org/wiki/北京亿城BTV三高足球俱乐部)转换而来。
+
+
 **北京亿城BTV三高足球俱乐部**，也称**人大附中三高足球俱乐部**，简称**北京三高**，是一家位于[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[北京市](../Page/北京市.md "wikilink")的[足球俱乐部](https://zh.wikipedia.org/wiki/足球俱乐部 "wikilink")，成立于1992年。
 
 ## 概况

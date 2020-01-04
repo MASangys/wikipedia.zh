@@ -1,3 +1,6 @@
+> 本文内容由[Yev型电动列车](https://zh.wikipedia.org/wiki/Yev型电动列车)转换而来。
+
+
 **Yev型电动列车**（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：Вагон метро типа «Ев»）是[布达佩斯地铁](../Page/布达佩斯地铁.md "wikilink")的[电力动车组车款之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，现在已经逐步退出使用。
 
 ## 简介

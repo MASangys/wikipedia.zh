@@ -1,3 +1,6 @@
+> 本文内容由[THE GRASSHOPPERS](https://zh.wikipedia.org/wiki/THE_GRASSHOPPERS)转换而来。
+
+
 《**THE GRASSHOPPERS**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Sunny Hill的第](../Page/Sunny_Hill.md "wikilink")3張韓語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2012年1月13日由[LOEN Entertainment發售](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")。
 
 ## 概要

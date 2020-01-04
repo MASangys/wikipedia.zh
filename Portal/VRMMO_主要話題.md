@@ -1,3 +1,6 @@
+> 本文内容由[Portal:VRMMO/主要話題](https://zh.wikipedia.org/wiki/Portal:VRMMO/主要話題)转换而来。
+
+
 ## 用戶端技術
 
 ### 使用者介面
@@ -169,6 +172,14 @@
 </tr>
 </tbody>
 </table>
+
+## 程式技術
+
+  - [軟體工程](../Page/软件工程.md "wikilink")、[軟體架構](../Page/软件架构.md "wikilink")
+  - [資料結構](../Page/数据结构.md "wikilink")、[演算法](../Page/算法.md "wikilink")
+  - [事件驅動](../Page/事件驅動程式設計.md "wikilink")、[MVC](../Page/MVC.md "wikilink")
+  - [設計模式](../Page/设计模式_\(计算机\).md "wikilink")
+  - [UML](https://zh.wikipedia.org/wiki/UML "wikilink")
 
 ## 其他相關
 

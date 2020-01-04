@@ -1,3 +1,6 @@
+> 本文内容由[WORLD OF FANTASY](https://zh.wikipedia.org/wiki/WORLD_OF_FANTASY)转换而来。
+
+
 《**WORLD OF FANTASY**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第12張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2011年5月25日發行。唱片公司為。
 
 ## 概要

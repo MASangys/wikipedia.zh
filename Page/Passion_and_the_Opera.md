@@ -1,3 +1,6 @@
+> 本文内容由[Passion and the Opera](https://zh.wikipedia.org/wiki/Passion_and_the_Opera)转换而来。
+
+
 《**Passion and the Opera**》是芬兰[交响金属乐团](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿](../Page/夜愿.md "wikilink")专辑《[Oceanborn](../Page/Oceanborn.md "wikilink")》的第三张单曲，单曲只以卡套形式发行\[1\]。歌曲只在1999年至2001年间现场演唱，但2007年，夜愿原主唱[塔雅·图伦尼](../Page/塔雅·图伦尼.md "wikilink")在和她自己的乐队现场演唱了音乐。
 
 单曲封面绘制着和《Oceanborn》与《[Wishmaster](../Page/Wishmaster.md "wikilink")》封面一样的猫头鹰\[2\]。

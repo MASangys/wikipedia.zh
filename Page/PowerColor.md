@@ -1,3 +1,6 @@
+> 本文内容由[PowerColor](https://zh.wikipedia.org/wiki/PowerColor)转换而来。
+
+
 **PowerColor**是[撼訊科技在](https://zh.wikipedia.org/wiki/撼訊科技 "wikilink")1997年於[臺灣](../Page/臺灣.md "wikilink")臺北縣（今[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")）所創立的自有品牌，在數個國家和地區都設有[辦事處](https://zh.wikipedia.org/wiki/辦事處 "wikilink")、研發中心或[工廠](../Page/工廠.md "wikilink")，包括臺灣、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[荷蘭及](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[美國等](https://zh.wikipedia.org/wiki/美國 "wikilink")。美國[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[沃尔纳特](https://zh.wikipedia.org/wiki/沃尔纳特_\(加利福尼亚州\) "wikilink")，負責[北美和](https://zh.wikipedia.org/wiki/北美 "wikilink")[拉丁美洲](../Page/拉丁美洲.md "wikilink")市場的業務。 2003年中，[鴻海集團旗下](https://zh.wikipedia.org/wiki/鴻海集團 "wikilink")[富士康收購撼訊科技](https://zh.wikipedia.org/wiki/富士康 "wikilink")14%股份，成為撼訊科技最大股東，並且自此之後成為富士康的獨家合作生產商。目前撼訊的顯卡年出貨量超過600萬張。
 
 ## 產品
@@ -21,20 +24,12 @@ PowerColor的產品一般提供三年的保固服務。\[10\]
 [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:顯示設備硬體公司](https://zh.wikipedia.org/wiki/Category:顯示設備硬體公司 "wikilink") [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink") [Category:臺灣電腦硬體公司](https://zh.wikipedia.org/wiki/Category:臺灣電腦硬體公司 "wikilink")
 
 1.  [Power Color USA does Nvidia - The Inquirer](http://www.theinquirer.net/default.aspx?article=34404)
-
 2.  [Press Release](http://www.nvidia.com/object/IO_35375.html)
-
 3.
-
 4.  [Why PowerColor Radeons are different to ATI Radeons - The Inquirer](http://www.theinquirer.net/?article=12997)
-
 5.  [Powercolor range stands out from the graphics crowd - The Inquirer](http://www.theinquirer.net/?article=16470)
-
 6.  [Welcome to the PowerColor World - Products](http://www.powercolor.com/eng/Products.asp)
-
 7.
 8.  [Welcome to the PowerColor World - Awards](http://www.powercolor.com/au/Awards.asp)
-
 9.  [PowerColor Official Website - Graphics, Cases, Power Supply](http://www.powercolor.com/Tw/default.asp)
-
 10. [bit-tech.net | Review - PowerColor Radeon X1950 Pro 256MB](http://www.bit-tech.net/hardware/2006/10/30/powercolor_radeon_x1950_pro/1)

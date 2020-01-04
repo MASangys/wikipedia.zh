@@ -1,3 +1,6 @@
+> 本文内容由[Weebly](https://zh.wikipedia.org/wiki/Weebly)转换而来。
+
+
 **Weebly**是一个免费的网站托管服务，其特点是通过拖拽来建设网站 \[1\]\[2\]\[3\]\[4\]\[5\]。在[《时代》周刊上](https://zh.wikipedia.org/wiki/时代周刊 "wikilink")，Weebly成为其在2007年评选的50个最佳网站中获得第四。Weebly也曾刊登在《[华尔街日报](../Page/华尔街日报.md "wikilink")》，《[旧金山纪事报](../Page/旧金山纪事报.md "wikilink")》和《[新闻周刊](../Page/新闻周刊.md "wikilink")》 上\[6\]\[7\]\[8\]\[9\]\[10\]。截至2012年7月，Weebly有超过1200万的用户，12％的美国人每月访问Weebly\[11\]\[12\]\[13\]。Weebly的总部设在[美国旧金山](../Page/旧金山.md "wikilink")\[14\]\[15\]。David Repo担任CEO，Dan Hacker担任COO，Chris Helmer担任CTO。
 
 ## 历史
@@ -33,27 +36,17 @@ Weebly用户还可以选择在自己的网页中投放广告。Weebly支持[Goog
 [Category:全球資訊網](https://zh.wikipedia.org/wiki/Category:全球資訊網 "wikilink") [Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.
 15.
@@ -61,25 +54,18 @@ Weebly用户还可以选择在自己的网页中投放广告。Weebly支持[Goog
 17.
 18.
 19.
-
 20.
-
 21.
 22.
 23.
 24.
-
 25.
-
 26.
 27.
 28.
-
 29.
-
 30.
 31.
-
 32.
 33.
 34.

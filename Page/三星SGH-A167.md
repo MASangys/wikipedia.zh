@@ -1,3 +1,6 @@
+> 本文内容由[三星SGH-A167](https://zh.wikipedia.org/wiki/三星SGH-A167)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:A167.jpg "fig:缩略图") **Samsung SGH-A167**是由[三星電子](../Page/三星電子.md "wikilink")發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 
 ## 評價

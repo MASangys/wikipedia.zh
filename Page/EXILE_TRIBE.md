@@ -1,3 +1,6 @@
+> 本文内容由[EXILE TRIBE](https://zh.wikipedia.org/wiki/EXILE_TRIBE)转换而来。
+
+
 **EXILE TRIBE**，又譯為**放浪一族**，是日本流行音樂團體[放浪兄弟](../Page/放浪兄弟.md "wikilink")（EXILE）及其成員的派生組合與個人表演項目、加上EXILE的系列男女組合，所共同組成的[大型音樂表演企劃](https://zh.wikipedia.org/wiki/超級樂團 "wikilink")，起始於2011年。
 
 ## 簡歷

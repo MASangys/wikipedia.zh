@@ -1,3 +1,6 @@
+> 本文内容由[Cowsay](https://zh.wikipedia.org/wiki/Cowsay)转换而来。
+
+
 **cowsay**是一个生成[ASCII](../Page/ASCII.md "wikilink")图片的程序，显示一头牛的消息。\[1\]它也可以使用预先制作的图像，以生成其他动物的图片，如Linux的吉祥物企鹅。由于它是用Perl编写的，它也适用于其他系统，如微软的Windows。还有一个相关的程序，名为**`cowthink`**，则为一头牛在思考，而不是说话。.cow文件能使cowsay产生不同样式的“牛”和“眼睛”等。\[2\]有时，[IRC](../Page/IRC.md "wikilink")、桌面截图和[软件文档](../Page/软件文档.md "wikilink")中会使用它。它更像[黑客文化中的玩笑](https://zh.wikipedia.org/wiki/黑客文化 "wikilink")，但一段时间后，它也较常被一般人使用。在2007年，它被选为[Debian](../Page/Debian.md "wikilink")的今日软件包。\[3\]
 
 Cowsay和Cowthink是用[Perl](../Page/Perl.md "wikilink")[语言写成的](../Page/编程语言.md "wikilink")，正因为如此，它很容易用在[Unix系统任务上](https://zh.wikipedia.org/wiki/Unix "wikilink")，比如，告诉用户他们的主目录已满，或他们有新邮件等等。另外，它也可以适应[通用网关接口](../Page/通用网关接口.md "wikilink")。\[4\]
@@ -64,7 +67,7 @@ Unix命令[`fortune`](https://zh.wikipedia.org/wiki/fortune_\(Unix\) "wikilink")
 ## 外部链接
 
   -
-  - [Cowsay于ascii.gallery](http://ascii.gallery/cowsay)
+  - [Cowsay于ascii.gallery](https://web.archive.org/web/20150210173043/http://ascii.gallery/cowsay)
 
   - [Linux内核中的Cowsay](http://lxr.linux.no/source/arch/parisc/kernel/traps.c?v=2.6.11#L196)
 
@@ -86,13 +89,8 @@ Unix命令[`fortune`](https://zh.wikipedia.org/wiki/fortune_\(Unix\) "wikilink")
 [Category:ASCII艺术](https://zh.wikipedia.org/wiki/Category:ASCII艺术 "wikilink") [Category:用Perl编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Perl编程的自由软件 "wikilink") [Category:自由Android软件](https://zh.wikipedia.org/wiki/Category:自由Android软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  在[C0控制符及基本拉丁文](https://zh.wikipedia.org/wiki/C0控制符及基本拉丁文 "wikilink")（U+0021–U+007E）外的字符将不会正确显示，因为这些参数只接受输入值的前两个字节。使用一个预定义的牛面孔将会覆盖**`-e`**和**`-T`**的任何值。
-
 6.

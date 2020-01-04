@@ -1,3 +1,6 @@
+> 本文内容由[GNOME Do](https://zh.wikipedia.org/wiki/GNOME_Do)转换而来。
+
+
 **GNOME Do**（通常被称作**Do**）是最初由David Siegel开发的一个[GNU/Linux下的流行的](../Page/Linux.md "wikilink")[自由](../Page/自由及开放源代码软件.md "wikilink")[应用程序启动器](https://zh.wikipedia.org/wiki/应用程序启动器 "wikilink")\[1\]，现在由Alex Launi维护。与其他应用程序启动器不同，它不仅可以查找应用程序和文件，还可以指定针对查找结果的动作。GNOME Do可以快速在GNOME环境下（应用程序、[Evolution和](https://zh.wikipedia.org/wiki/Evolution "wikilink")[Pidgin](../Page/Pidgin.md "wikilink")联系人、[Firefox](../Page/Firefox.md "wikilink")书签、[Rhythmbox](../Page/Rhythmbox.md "wikilink")艺术家和唱片集，等等）查找多种用户创建的内容，并且在其上执行基本的操作（运行、打开、发送邮件、聊天、播放，等等）\[2\]。
 
 虽然Do主要面向[GNOME](../Page/GNOME.md "wikilink")桌面而设计，但是它也可以在其他[桌面环境](../Page/桌面环境.md "wikilink")中工作，如[KDE](../Page/KDE.md "wikilink")。
@@ -34,14 +37,14 @@ Docky 2\[5\]\[6\]\[7\]\[8\]是独立于GNOME Do的一个应用程序。计划将
   -
   - [White paper on DaveBSD.com](http://davebsd.com/do/gnome_do_white_paper.pdf)
 
-  - [GNOME Do – Launcher tool to search and launch applications files and more](http://www.susegeek.com/desktop/gnome-do-launcher-tool-to-search-and-launch-applications-files-and-more/), susegeek.com
+  - [GNOME Do – Launcher tool to search and launch applications files and more](https://web.archive.org/web/20130405003313/http://www.susegeek.com/desktop/gnome-do-launcher-tool-to-search-and-launch-applications-files-and-more/), susegeek.com
 
 [Category:GNOME](https://zh.wikipedia.org/wiki/Category:GNOME "wikilink")
 
 1.  [Lifehacker - Fast File and Program Launching with GNOME Do](http://lifehacker.com/software/featured-linux-download/fast-file-and-program-launching-with-gnome-do-330110.php)
 2.  Ubuntu 10.04 Add/Remove Applications description for GNOME Do
 3.
-4.  [Do.DaveBSD.com](http://do.davebsd.com/wiki/index.php?title=Docky)
+4.
 5.
 6.
 7.

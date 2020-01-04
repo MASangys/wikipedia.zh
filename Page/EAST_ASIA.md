@@ -1,3 +1,6 @@
+> 本文内容由[EAST ASIA](https://zh.wikipedia.org/wiki/EAST_ASIA)转换而来。
+
+
 《**EAST ASIA**》是[日本](../Page/日本.md "wikilink")歌手[中島美雪](../Page/中島美雪.md "wikilink")發行於1992年的一張[音樂專輯](../Page/音樂專輯.md "wikilink")，亦指該專輯的一支同名主打歌曲。“EAST ASIA”意為“[東亞](https://zh.wikipedia.org/wiki/東亞 "wikilink")”。1992年，在第34屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")中入圍十佳專輯。
 
 ## 歌曲《EAST ASIA》

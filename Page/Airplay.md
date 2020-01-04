@@ -1,3 +1,6 @@
+> 本文内容由[Airplay](https://zh.wikipedia.org/wiki/Airplay)转换而来。
+
+
 **AirPlay**（简称**AP**，中文名称：**飞乐**\[1\]）是一款小巧的免费[音频](https://zh.wikipedia.org/wiki/音频 "wikilink")[播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")，作者为[樊一鹏](https://zh.wikipedia.org/wiki/樊一鹏 "wikilink")，另由 Eric Yao 负责对外联系与推广。AirPlay功能包括界面全部是用C++混合汇编代码编写。
 
 AirPlay的外观吸引了不少用户\[2\]。但同样是由于界面的需要，AirPlay的CPU占用比常见的音频播放器为高\[3\]。

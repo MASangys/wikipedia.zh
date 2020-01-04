@@ -1,4 +1,7 @@
-**金鍾炫**\[1\]（，），藝名**JR**（）。為[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下首個男子團體[NU'EST](../Page/NU'EST.md "wikilink")隊長，擔任主Rapper和領舞\[2\]。2017年以本名參加《[PRODUCE 101 (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》\[3\]，展示出非凡的領導力，被譽為「國民隊長」，温柔穩重的表現與不凡實力獲得大眾目光\[4\]，雖然最後未能入選[Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")\[5\]，卻仍贏得極高人氣。
+> 本文内容由[JR \(NU\'EST\)](https://zh.wikipedia.org/wiki/JR_\(NU\'EST\))转换而来。
+
+
+**金鍾炫**\[1\]（，），藝名**JR**（）。為[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下首個男子團體[NU'EST](../Page/NU'EST.md "wikilink")隊長，擔任主Rapper和主舞\[2\]。2017年以本名參加《[PRODUCE 101 (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》\[3\]，展示出非凡的領導力，被譽為「國民隊長」，温柔穩重的表現與不凡實力獲得大眾目光\[4\]，雖然最後未能入選[Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")\[5\]，卻仍贏得極高人氣。
 
 ## 經歷
 
@@ -12,7 +15,7 @@
 
 ### NU'EST
 
-2012年3月15日以JR（Junior Royal 縮寫）為藝名，成為男子團體NU'EST的隊長出道，擔任主Rapper和領舞。出道曲〈FACE〉將視線集中在學校暴力和孤立等社會問題上，令他們成為青少年代言人。\[16\]〈[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")〉更曾是男子團體出道曲於YouTube頻道最高觀看次數記錄保持者，觀看次數高達一億。
+2012年3月15日以JR（Junior Royal 縮寫）為藝名，成為男子團體NU'EST的隊長出道，擔任主Rapper和主舞。出道曲〈FACE〉將視線集中在學校暴力和孤立等社會問題上，令他們成為青少年代言人。\[16\]〈[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")〉更曾是男子團體出道曲於YouTube頻道最高觀看次數記錄保持者，觀看次數高達一億。
 
 2013年，以二張迷你專輯《[Hello](https://zh.wikipedia.org/wiki/Hello_\(NU'EST迷你專輯\) "wikilink")》和《[Sleep Talking](../Page/Sleep_Talking.md "wikilink")》回歸，主打曲均講述愛情。\[17\]\[18\]急速轉變的風格和長時間在海外發展，時隔1年多才在韓國正式回歸\[19\]，長期忽略韓國市場，導致粉絲流失，專輯銷售持續下降。然而，JR多次表達自己未能帶領NU'EST 走向成功之路，把不成功的原因歸咎於自己身上。
 
@@ -101,17 +104,17 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 ### 固定綜藝
 
-|                        |           |                                                           |            |        |
-| ---------------------- | --------- | --------------------------------------------------------- | ---------- | ------ |
-| **日期**                 | **電視台**   | **節目名稱**                                                  |            | **集數** |
-| 2017年4月7日-6月16日        | Mnet      | 《PRODUCE 101 第二季》                                         |            | EP1-11 |
-| 2017年8月6日-2018年3月18日   | JTBC      | 《夜行鬼怪》                                                    | EP2 開始固定主持 | EP2-32 |
-| 2017年9月1日-11月16日       | tvN       | 《[奇怪的歌手](https://zh.wikipedia.org/wiki/奇怪的歌手 "wikilink")》 | EP8 開始固定主持 | EP8-19 |
-| 2018年4月28日-5月19日       | E Channel | 《出生以來第一次》                                                 |            | EP9-12 |
-| 2018年6月29日-9月14日       | JTBC2     | 《[自討苦吃](../Page/自討苦吃.md "wikilink")S2》                    | S2 固定主持    | EP1-12 |
-| 2018年7月11日-8月29日       | Mnet      | 《[Love Catcher](../Page/Love_Catcher.md "wikilink")》      | 固定主持       | EP1-8  |
-| 2018年7月20日-2019年5月14日  | JTBC      | 《連線LIFE（中譯：網線生活）》                                         | EP3 開始固定主持 | EP3-42 |
-| 2018年12月20日-2019年1月24日 | Mnet      | 《[不是你所認識的我](../Page/不是你所認識的我.md "wikilink")》              | 固定主持       | EP1-6  |
+|                        |           |                                                            |            |        |
+| ---------------------- | --------- | ---------------------------------------------------------- | ---------- | ------ |
+| **日期**                 | **電視台**   | **節目名稱**                                                   |            | **集數** |
+| 2017年4月7日-6月16日        | Mnet      | 《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》 |            | EP1-11 |
+| 2017年8月6日-2018年3月18日   | JTBC      | 《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》                       | EP2 開始固定主持 | EP2-32 |
+| 2017年9月1日-11月16日       | tvN       | 《[奇怪的歌手](https://zh.wikipedia.org/wiki/奇怪的歌手 "wikilink")》  | EP8 開始固定主持 | EP8-19 |
+| 2018年4月28日-5月19日       | E Channel | 《出生以來第一次》                                                  |            | EP9-12 |
+| 2018年6月29日-9月14日       | JTBC2     | 《[自討苦吃](../Page/自討苦吃.md "wikilink")S2》                     | S2 固定主持    | EP1-12 |
+| 2018年7月11日-8月29日       | Mnet      | 《[Love Catcher](../Page/Love_Catcher.md "wikilink")》       | 固定主持       | EP1-8  |
+| 2018年7月20日-2019年5月14日  | JTBC      | 《連線LIFE（中譯：網線生活）》                                          | EP3 開始固定主持 | EP3-42 |
+| 2018年12月20日-2019年1月24日 | Mnet      | 《[不是你所認識的我](../Page/不是你所認識的我.md "wikilink")》               | 固定主持       | EP1-6  |
 
 ### 綜藝節目
 
@@ -469,107 +472,56 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 [Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink") [Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:江原道出身人物](https://zh.wikipedia.org/wiki/Category:江原道出身人物 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
 
 1.
-
-2.  [NU'EST 隊長 JR 公開](http://kpopn.niusnews.com/=K30kg815)kpopn
-
+2.  [NU'EST 隊長 JR 公開](http://kpopn.niusnews.com/=K30kg815) kpopn
 3.  [NU'EST 將暫停活動，參加《101》第二季](http://kpopn.niusnews.com/=K2ey6sy1) kpopn
-
 4.  [韩综Produce101男版第二次排名 金鐘炫第一賴冠霖第二](http://www.ishowx.com/zongyixinwen/83037.html)
-
 5.  [今夏最遺憾！「國民隊長」金鍾炫未能入選Wanna One 被拆散的NU'EST能否開始走花路呢？](http://www.koreastardaily.com/tc/news/95573)韓星網
-
 6.
-
 7.  [NU'EST公開首名成員JR](http://www.koreastardaily.com/tc/news/14556)韓星網
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. [AS Boys Collaborated already with AS](http://www.dkpopnews.net/2011/10/newsas-boys-collaborated-already-with.html)
-
-13. [Pledis Boys 成員公開](http://kpopn.niusnews.com/=K08ktg11)kpopn
-
+13. [Pledis Boys 成員公開](http://kpopn.niusnews.com/=K08ktg11) kpopn
 14. [網友最期待： Pledis Boys](http://kpopn.niusnews.com/=K0k43gg6) kpopn
-
 15. [Pledis Boys 出道在即](http://kpopn.niusnews.com/=K2dec9d1) kpopn
-
 16. [強勢登場！韓團NU’EST大跳椅子舞一舉竄紅](https://hk.news.yahoo.com/%E5%BC%B7%E5%8B%A2%E7%99%BB%E5%A0%B4-%E9%9F%93%E5%9C%98nu-est%E5%A4%A7%E8%B7%B3%E6%A4%85%E5%AD%90%E8%88%9E-%E8%88%89%E7%AB%84%E7%B4%85-160936720.html)
-
-17. [NU'EST《Hello》預告](http://kpopn.niusnews.com/=K29y7660)kpopn
-
-18. [NU'EST 新曲 MV、音源](http://kpopn.niusnews.com/=K1laa440)kpopn
-
-19. [NU'EST 2月17日攜迷你四輯回歸](http://kpopn.niusnews.com/=K04wg345)kpopn
-
+17. [NU'EST《Hello》預告](http://kpopn.niusnews.com/=K29y7660) kpopn
+18. [NU'EST 新曲 MV、音源](http://kpopn.niusnews.com/=K1laa440) kpopn
+19. [NU'EST 2月17日攜迷你四輯回歸](http://kpopn.niusnews.com/=K04wg345) kpopn
 20.
-
 21. [JR、MinHyun《Daybreak》MV 公開](http://kpopn.niusnews.com/=K1or4b40) kpopn
-
 22. [「素昧平生的兩人」9月韓國上映 NU'EST全員出演](http://times.hinet.net/news/20271226)HiNet新聞
-
 23. [NU'EST成軍5年後 將加入選秀節目重拚出道](http://ent.ltn.com.tw/news/breakingnews/1986010)自由時報
-
 24. [《101》練習生讓NU'EST隊長說重話態度惹議IG照全刪](http://star.ettoday.net/news/914913)ETNEWS
-
 25. [《101》寶座換人！NU'EST隊長揪心唱「對我是最後1次」](http://star.ettoday.net/news/923637)ETNEWS
-
 26. [Produce 101第7集金鐘炫李健熙盧太鉉得11萬票　尹智聖權玄彬捱批](https://www.hk01.com/%E9%9F%93%E8%BF%B7/92405/Produce-101%E7%AC%AC7%E9%9B%86%E9%87%91%E9%90%98%E7%82%AB%E6%9D%8E%E5%81%A5%E7%86%99%E7%9B%A7%E5%A4%AA%E9%89%89%E5%BE%9711%E8%90%AC%E7%A5%A8-%E5%B0%B9%E6%99%BA%E8%81%96%E6%AC%8A%E7%8E%84%E5%BD%AC%E6%8D%B1%E6%89%B9)
-
 27. [《Produce101》第二季第2輪順位發表　生存的35名練習生有誰呢？](http://www.koreastardaily.com/tc/news/94932)韓星網
-
 28. [大家都為他落淚！男團隊長《101》再出發失利卻創奇蹟](http://www.appledaily.com.tw/realtimenews/article/entertainment/20170617/1142294/)蘋果日報
-
 29. [「國民隊長」金鐘炫慘遭《101》淘汰 暖心發文安慰粉絲](http://ent.ltn.com.tw/news/breakingnews/2103125)自由時報
-
 30. [趁熱追擊！舊歌逆襲排行榜　NU'EST預計下半年回歸](http://www.setn.com/News.aspx?NewsID=263989)三立新聞
-
 31. [NU'EST宣佈本次回歸是小分隊！ 維持四人直到黃旼炫歸來，NU’EST W的含義令人感動！](https://www.koreastardaily.com/tc/news/96468)韓星網
-
 32. [미래가 기대되는 ‘프듀2’ 멤버 1위 김종현, 워너원은 아니지만](http://www.newsen.com/news_view.php?uid=201706221104194110)newsen
-
 33. [直播22萬人次搶看　「NU'EST」再現逆行奇蹟](http://www.appledaily.com.tw/realtimenews/article/new/20170703/1152891/)蘋果日報
-
 34. [「偶像教父」鄭亨敦攜手FTIsland李弘基&「國民隊長」金鐘炫開啟JTBC【徹夜不歸新綜藝】！？](https://www.koreastardaily.com/tc/news/96465)韓星網
-
 35. [金钟炫崔珉起最新画报公开 纯净美男帅气迷人](http://www.bntnews.cn/app/news.php?nid=47247)bntnews
-
 36.
-
 37.
-
 38. [Never](https://www.youtube.com/watch?v=kmbMEZq8tIg)
-
 39. [Super Hot](https://www.youtube.com/watch?v=10PxlB37_bc)
-
 40. [Always](https://www.youtube.com/watch?v=0AwBokwCGuY)
-
 41.
 42. [NU'EST JR，冉冉升起的新星「鐘炫」 「視線集中」](https://www.yahoo.com/news/nuest-jr-%E5%86%89%E5%86%89%E5%8D%87%E8%B5%B7%E7%9A%84%E6%96%B0%E6%98%9F-%E9%90%98%E7%82%AB-%E8%A6%96%E7%B7%9A%E9%9B%86%E4%B8%AD-054650878.html)yahoo news
-
 43.
-
 44.
-
 45.
 46.
-
 47. [Bangkok city MV](https://www.youtube.com/watch?v=0lDoBvLxnwQ&t=26s)
-
 48. [Wonder Boy MV](https://www.youtube.com/watch?v=clUVsZcKKaE)
-
 49. [LOVE LETTER MV](https://www.youtube.com/watch?v=26ZkajXYNcw)
-
 50. [Pledis 家族專輯曲目公開](http://kpopn.niusnews.com/=K0fw2w00) kpopn
-
-51. [《孤獨的美食家》曝全明星版海報 修傑楷陳建州出演](http://fj.people.com.cn/n/2015/0521/c234651-24947496.html)
-
-52. [李智勳、JR 的床上畫報](http://kpopn.niusnews.com/=K2qsqqs7)kpopn
-
-53. [95Line合拍Arena成熟畫報](http://kpopn.niusnews.com/=K1c9b977)kpopn
-
+51.
+52. [李智勳、JR 的床上畫報](http://kpopn.niusnews.com/=K2qsqqs7) kpopn
+53. [95Line合拍Arena成熟畫報](http://kpopn.niusnews.com/=K1c9b977) kpopn
 54.

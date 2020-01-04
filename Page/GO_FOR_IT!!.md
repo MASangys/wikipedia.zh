@@ -1,3 +1,6 @@
+> 本文内容由[GO FOR IT!!](https://zh.wikipedia.org/wiki/GO_FOR_IT!!)转换而来。
+
+
 《**GO FOR IT\!\!**》是[日本](../Page/日本.md "wikilink")的女歌手[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")18張單曲，在2012年7月25日由[SME Records Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[DAN VS.](https://zh.wikipedia.org/wiki/DAN_VS.)转换而来。
+
+
 **Dan Vs.**照字面可以翻譯成**丹槓上誰**，是一部美國[Flash動畫](https://zh.wikipedia.org/wiki/Flash動畫 "wikilink")，由丹·馬達爾（Dan Mandel）與克里斯·裴爾森（Chris Pearson）發起。首度上映是在2011年1月1日一月在美國電視頻道撥出，現今播放到第三季。主題是男主角Dan因為各種原因而單方面怨恨或與某人結仇，並接著進行復仇計畫的故事。
 
 ## 角色介紹

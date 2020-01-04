@@ -1,3 +1,6 @@
+> 本文内容由[Big E](https://zh.wikipedia.org/wiki/Big_E)转换而来。
+
+
 [Big_E_Langston_Raw.jpg](https://zh.wikipedia.org/wiki/File:Big_E_Langston_Raw.jpg "fig:Big_E_Langston_Raw.jpg")
 
 [Dolph_Ziggler_with_AJ_Lee_&_Big_E_Langston.jpg](https://zh.wikipedia.org/wiki/File:Dolph_Ziggler_with_AJ_Lee_&_Big_E_Langston.jpg "fig:Dolph_Ziggler_with_AJ_Lee_&_Big_E_Langston.jpg")和[AJ Lee](https://zh.wikipedia.org/wiki/AJ_Lee "wikilink")\]\]

@@ -1,3 +1,6 @@
+> 本文内容由[Missing You \(GLAY\)](https://zh.wikipedia.org/wiki/Missing_You_\(GLAY\))转换而来。
+
+
 《**Missing You**》為[GLAY](../Page/GLAY.md "wikilink")的第21張單曲，台灣有發行台壓版。
 
 ## 簡介

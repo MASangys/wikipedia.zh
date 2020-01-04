@@ -1,3 +1,6 @@
+> 本文内容由[Kuolema Tekee Taiteilijan](https://zh.wikipedia.org/wiki/Kuolema_Tekee_Taiteilijan)转换而来。
+
+
 《**Kuolema Tekee Taiteilijan**》是芬兰[交响金属乐团](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿](../Page/夜愿.md "wikilink")专辑《[Once](../Page/Once_\(夜愿专辑\).md "wikilink")》的第三张单曲。专辑由[Spinefarm唱片于](https://zh.wikipedia.org/wiki/Spinefarm唱片 "wikilink")2004年11月24日随白金版《Once》一起发行\[1\]。单曲仅在日本和芬兰发行。
 
 《Kuolema Tekee Taiteilijan》是芬兰语“死亡创造艺术家”的意思。在纪录片《[A Day Before Tomorrow](https://zh.wikipedia.org/wiki/End_of_an_Era "wikilink")》的尾声中可以听到管弦乐/器乐版的《Kuolema Tekee Taiteilijan》。

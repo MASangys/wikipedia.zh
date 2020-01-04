@@ -1,3 +1,6 @@
+> 本文内容由[Grezzo](https://zh.wikipedia.org/wiki/Grezzo)转换而来。
+
+
 **GREZZO**（）是一家日本的[电子游戏开发商](../Page/电子游戏产业.md "wikilink")，它创立于2006年12月 。\[1\]现任首席执行官兼总裁[石井浩一](../Page/石井浩一.md "wikilink")也是该公司的创始人，他此前因为负责[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")的《[圣剑传说](https://zh.wikipedia.org/wiki/圣剑传说系列 "wikilink")》系列而出名。
 
 ## 公司作品

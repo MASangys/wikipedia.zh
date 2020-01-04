@@ -1,3 +1,6 @@
+> 本文内容由[The SeeYa](https://zh.wikipedia.org/wiki/The_SeeYa)转换而来。
+
+
 **The SeeYa**（）是由[MBK Entertainment所打造的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")4人女子團體組合，是繼承[SeeYa](../Page/SeeYa.md "wikilink")之名的全新組合，成員包括[玟京](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")、、[憐朱](../Page/許憐朱.md "wikilink")、[書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")；在2012年11月12日正式出道。出道曲為〈Be With You〉為一首與同是Core Contents Media旗下男子組合[SPEED成員泰云合作的歌曲](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。而〈Be With You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wiki/朱相旭 "wikilink")[林晶恩](../Page/林晶恩.md "wikilink")演出。組合已宣告解散。
 
 ## 經歷

@@ -1,3 +1,6 @@
+> 本文内容由[櫻Trick](https://zh.wikipedia.org/wiki/櫻Trick)转换而来。
+
+
 是[タチ的日本](https://zh.wikipedia.org/wiki/タチ "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品，於[芳文社](../Page/芳文社.md "wikilink")旗下《[Manga Time Kirara Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")》雜誌Vol.1（2011年3月發售）連載至2017年10月号（2017年8月发售）\[1\]\[2\]，[單行本已出版](https://zh.wikipedia.org/wiki/單行本 "wikilink")8冊。本作於《Manga Time Kirara Miracle\!》2013年8月號發表動畫化消息\[3\]。
 
 ## 故事簡介
@@ -548,13 +551,9 @@
 [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  單行本第1集第2頁
-
 5.
 6.
 7.
@@ -562,8 +561,6 @@
 9.
 10.
 11. 兩人當時用意外事故蒙混過去。
-
 12.
-
 13.
 14.

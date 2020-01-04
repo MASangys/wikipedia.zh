@@ -1,3 +1,6 @@
+> 本文内容由[Chromecast](https://zh.wikipedia.org/wiki/Chromecast)转换而来。
+
+
 **Chromecast**（網路上又簡稱CC）是[Google](../Page/Google.md "wikilink")在2013年推出的一款[數位電視棒](https://zh.wikipedia.org/wiki/高清USB手指 "wikilink")，运行精简版[Chrome OS操作系统](../Page/Chrome_OS.md "wikilink")。主要功能為將傳統電視、顯示器等升級為[網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink")，使其具有播放網路媒體的功能。
 
 ## 功能与配置
@@ -8,9 +11,14 @@ Chromecast是一款仅有2英寸（72公厘，5.08厘米）长的小型设备，
 
 ## 型號比較
 
-|                                                  |                                      |
-| ------------------------------------------------ | ------------------------------------ |
-| <abbr title="不再售卖，但原有软件可持续获得更新的设备版本">较早版本</abbr> | <abbr title="正在售卖中的设备版本">当前版本</abbr> |
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <thead>
@@ -145,23 +153,16 @@ Google同时公开发布了名为“Google Cast SDK”的[软件开发工具包]
 
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:2013年面世的產品](https://zh.wikipedia.org/wiki/Category:2013年面世的產品 "wikilink") [Category:網路硬體](https://zh.wikipedia.org/wiki/Category:網路硬體 "wikilink")
 
-1.  [谷歌低价推电视投影迷你配件 Chromecast 及 SDK](http://tech2ipo.com/60803)
-
+1.
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
 12.
 13.

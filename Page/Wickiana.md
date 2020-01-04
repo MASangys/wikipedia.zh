@@ -1,3 +1,6 @@
+> 本文内容由[Wickiana](https://zh.wikipedia.org/wiki/Wickiana)转换而来。
+
+
 **Wickiana**是由[蘇黎世的](https://zh.wikipedia.org/wiki/蘇黎世 "wikilink")（1522-1588） 於1560至1587年間收集的24卷集，是時期的一個重要來源。
 
 威克生活在[慈運理的繼承者](https://zh.wikipedia.org/wiki/慈運理 "wikilink")[海因里希·布林格](../Page/海因里希·布林格.md "wikilink")統治時期的[蘇黎世](https://zh.wikipedia.org/wiki/蘇黎世 "wikilink")，他曾在[蒂宾根](../Page/蒂宾根.md "wikilink")研究神學，並作為、城市醫院和普雷迪格教堂的牧師。之後，他在[蘇黎世大教堂擔任](https://zh.wikipedia.org/wiki/蘇黎世大教堂 "wikilink")[法政牧師](../Page/法政牧師.md "wikilink")和第二任[會吏長](https://zh.wikipedia.org/wiki/會吏長 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[The Back Best](https://zh.wikipedia.org/wiki/The_Back_Best)转换而来。
+
+
 {{Infobox Album | Name = The Back Best | Type = [精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink") | Artist = [柴咲幸](../Page/柴咲幸.md "wikilink") | Released = 2008年3月12日 | Recorded = | Genre = [J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink") | Length = | Label = [環球音樂](../Page/環球音樂_\(日本\).md "wikilink") | Producer = | Reviews = *[Allmusic](https://zh.wikipedia.org/wiki/Allmusic "wikilink")*  [link](http://www.allmusic.com/album/kou-shibasaki-back-best-mw0001667480) | Chart position =\*第3名（[公信榜](https://zh.wikipedia.org/wiki/公信榜 "wikilink")） | Certification = | Last album = \[\[嬉嬉|嬉嬉
 
 《**The Back Best**》（柴自選）為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2008年3月12日發行的精選輯，與《[Single Best](../Page/Single_Best.md "wikilink")》同時發行；本專輯收錄了B面曲及專輯曲，由柴崎幸選曲。

@@ -1,3 +1,6 @@
+> 本文内容由[Panorama](https://zh.wikipedia.org/wiki/Panorama)转换而来。
+
+
 Panorama本意是指[全景图](../Page/全景图.md "wikilink")。
 
 此外还可以指：

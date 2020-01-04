@@ -1,3 +1,6 @@
+> 本文内容由[HTC One SC](https://zh.wikipedia.org/wiki/HTC_One_SC)转换而来。
+
+
 **HTC One SC**是台灣手機[宏達國際電子](../Page/宏達國際電子.md "wikilink")旗下[One系列的一款](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，於2012年9月7日於中國發表。搭載[Android](../Page/Android.md "wikilink") 4.0.4及[HTC Sense](../Page/HTC_Sense.md "wikilink") 4.1、1Ghz雙核心處理器，使用[Beats Audio™音訊技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")，4GB ROM及1GB RAM，支援[MicroSD](../Page/MicroSD.md "wikilink")最高擴充至32GB。使用4.3吋[WVGA螢幕及](https://zh.wikipedia.org/wiki/WVGA "wikilink")500萬像素的相機鏡頭。支援雙模雙待([CDMA](https://zh.wikipedia.org/wiki/CDMA "wikilink")/[GSM](../Page/GSM.md "wikilink"))。此款手機僅在中國的[中國電信及台灣的](https://zh.wikipedia.org/wiki/中國電信 "wikilink")[亞太電信](../Page/亞太電信.md "wikilink")販賣，宏達電也於同日發表兩隻規格及價格幾乎相同的兩隻手機—[中國聯通推出的](https://zh.wikipedia.org/wiki/中國聯通 "wikilink")[One SU及](https://zh.wikipedia.org/wiki/HTC_One_SU "wikilink")[中國移動推出的](https://zh.wikipedia.org/wiki/中國移動 "wikilink")[One ST](https://zh.wikipedia.org/wiki/HTC_One_ST "wikilink")，三支手機主要為外觀上的差異。\[1\]\[2\]
 
 ## 參見

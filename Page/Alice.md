@@ -1,3 +1,6 @@
+> 本文内容由[Alice](https://zh.wikipedia.org/wiki/Alice)转换而来。
+
+
 通常翻译为**艾莉絲**、**愛莉絲**、**愛麗絲**或**艾麗斯**，可以指：
 
   - [爱丽丝 (人名)](../Page/爱丽丝_\(人名\).md "wikilink")，列举了名为“”、“艾莉絲”、“愛莉絲”、“愛麗絲”或“艾麗斯”的名人和虚构角色
@@ -25,6 +28,7 @@
   - *[Alice: An Interactive Museum](https://zh.wikipedia.org/wiki/Alice:_An_Interactive_Museum "wikilink")*, a 1991 adventure game
   - *[American McGee's Alice](https://zh.wikipedia.org/wiki/American_McGee's_Alice "wikilink")*, a 2000 computer game
   - [*Through the Looking Glass* (video game)](https://zh.wikipedia.org/wiki/Through_the_Looking_Glass_\(video_game\) "wikilink") or *Alice*, a 1984 Macintosh computer game
+  - [爱丽丝·玛格特洛伊德](https://zh.wikipedia.org/wiki/爱丽丝·玛格特洛伊德 "wikilink")，《[东方Project](https://zh.wikipedia.org/wiki/东方Project "wikilink")》人物
 
 ## 电影
 
@@ -100,7 +104,7 @@
 
   - 美国密苏里州爱丽丝
 
-  - 美国[北达科他州爱丽丝](https://zh.wikipedia.org/wiki/爱丽丝_\(北达科他州\) "wikilink")
+  - 美国[北达科他州爱丽丝](../Page/爱丽丝_\(北达科他州\).md "wikilink")
 
   - 美国
 

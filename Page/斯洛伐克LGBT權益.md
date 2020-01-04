@@ -1,3 +1,6 @@
+> 本文内容由[斯洛伐克LGBT權益](https://zh.wikipedia.org/wiki/斯洛伐克LGBT權益)转换而来。
+
+
 **斯洛伐克的女同性戀、男同性戀、雙性戀與跨性別者權益**正受到非[LGBT](../Page/LGBT.md "wikilink")族群的壓抑。[同性性行為在](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")[斯洛伐克](../Page/斯洛伐克.md "wikilink")合法，但同志家庭卻不受平等保障。在斯洛伐克，人民普遍信仰[天主教](../Page/天主教.md "wikilink")，因此有別於同是中歐國家的鄰國[捷克](../Page/捷克.md "wikilink")和[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")，對LGBT族群較不寬容，不過該國仍允許同性戀到軍隊服役也有制定反歧視保護的法律來保障同志族群的權益。
 
 ## 同性性行為相關法律歷程

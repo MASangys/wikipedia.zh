@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸Leone](https://zh.wikipedia.org/wiki/速霸陸Leone)转换而来。
+
+
 **速霸陸Leone**（）為[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1971年至1994年間推出的[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")，乃[速霸陸ff-1 1300G的後繼車款](../Page/速霸陸ff-1_1300G.md "wikilink")。而1994年至2001年間推出第四、五代[旅行車](../Page/旅行車.md "wikilink")車型，則是以旅行車車型為基礎的兄弟車。
 
 車名「Leone」在[義大利語中表示](https://zh.wikipedia.org/wiki/義大利語 "wikilink")「[獅子](https://zh.wikipedia.org/wiki/獅 "wikilink")」之意。此車款在[歐洲某些國家稱為](https://zh.wikipedia.org/wiki/歐洲 "wikilink")**速霸陸L系列**（如速霸陸DL、GL等），或者按[排氣量表示成](https://zh.wikipedia.org/wiki/排氣量 "wikilink")**速霸陸1400**、**速霸陸1600**等車名。
@@ -105,7 +108,7 @@ Image:1989-1994 Subaru L Series station wagon (2011-03-10).jpg|五門旅行車�
 [Category:1971年面世的汽車](https://zh.wikipedia.org/wiki/Category:1971年面世的汽車 "wikilink") [Category:速霸陸車輛](https://zh.wikipedia.org/wiki/Category:速霸陸車輛 "wikilink") [Category:緊湊型轎車](https://zh.wikipedia.org/wiki/Category:緊湊型轎車 "wikilink") [Category:雙門轎跑車](https://zh.wikipedia.org/wiki/Category:雙門轎跑車 "wikilink") [Category:日本汽車技術240選](https://zh.wikipedia.org/wiki/Category:日本汽車技術240選 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink") [Category:水平對臥引擎車輛](https://zh.wikipedia.org/wiki/Category:水平對臥引擎車輛 "wikilink") [Category:拉力賽車輛](https://zh.wikipedia.org/wiki/Category:拉力賽車輛 "wikilink")
 
 1.  [続・バンまつり（国産車編）⑦](http://blogs.yahoo.co.jp/rara1735/8276543.html)。
-2.  詳請可參考[ＳＥＥＣ－Ｔ](http://www.geocities.jp/misamima90/t03.htm)。
+2.  詳請可參考[ＳＥＥＣ－Ｔ](http://www.geocities.jp/misamima90/t03.htm) 。
 3.  分動箱並非差速器，詳情請參考[新華網：概念不可混淆 分動箱差速器關係與差別](http://news.xinhuanet.com/auto/2011-02/22/c_121107078.htm)一文。
 4.  關於此技術，詳情請見[AWD TRANSFER SYSTEM](http://downloads.bustedfingermotorsports.com/02%20OB%20-%20legacy%20Service%20Manual/AUTOMATIC%20TRANSMISSION%20MECHANISM%20AND%20FUNCTION%20SECTION/MSA5T0200A30121.pdf)。
 5.  1960年代[速霸陸450](../Page/速霸陸450.md "wikilink")也曾以此名使用在外銷版本上。

@@ -1,3 +1,6 @@
+> 本文内容由[Boys Meet U \(SHINee單曲\)](https://zh.wikipedia.org/wiki/Boys_Meet_U_\(SHINee單曲\))转换而来。
+
+
 《**Boys Meet U**》是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第8张日語[单曲](../Page/单曲.md "wikilink")。2013年8月21日由[EMI](../Page/EMI.md "wikilink")发售。
 
 ## 概要

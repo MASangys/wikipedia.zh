@@ -1,3 +1,6 @@
+> 本文内容由[Kindle Paperwhite](https://zh.wikipedia.org/wiki/Kindle_Paperwhite)转换而来。
+
+
 **Kindle Paperwhite**是一個[亞馬遜公司的](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/電子書閱讀器 "wikilink")\[1\]。 [Kindle](../Page/Kindle.md "wikilink") Paperwhite最初於2012年9月6日亞馬遜所舉行的發布會上發布，包括了一個[Wi-Fi](../Page/Wi-Fi.md "wikilink")版本和一個[3G](../Page/3G.md "wikilink")版本。於2013年6月7日下午4時登陸中國地區。在亞馬遜、蘇寧易購和蘇寧網點開售\[2\]。 Paperwhite使用了一塊6英寸的[E-Ink](https://zh.wikipedia.org/wiki/E-Ink "wikilink")（俗稱電子墨水）螢幕。同時，還使用了一種新型的閱讀燈來為Paperwhite提供照明。截止2019年1月，Paperwhite发布至Paperwhite4\[3\]。
 
 ## 设计
@@ -94,13 +97,10 @@ Paperwhite内置了翻译功能，在阅读外文书籍时，可以自动调用�
 [Category:亞馬遜公司](https://zh.wikipedia.org/wiki/Category:亞馬遜公司 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
 8.

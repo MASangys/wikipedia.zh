@@ -1,3 +1,6 @@
+> 本文内容由[Oh! \(单曲\)](https://zh.wikipedia.org/wiki/Oh!_\(单曲\))转换而来。
+
+
 《**Oh\!**》是[韓國流行音樂女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[少女時代的第](https://zh.wikipedia.org/wiki/少女時代 "wikilink")5張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年9月26日由[環球唱片發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ## 概要

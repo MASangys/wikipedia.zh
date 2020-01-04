@@ -1,5 +1,8 @@
-**車善玗**（，）曾為韓國男子團體[B1A4](../Page/B1A4.md "wikilink")组合的成員之一 。出生於韓國[光州廣域市](../Page/光州廣域市.md "wikilink")，是隊中的Rapper。組合的專輯中也收錄Baro創作歌曲。2016年ShareFakta_Kpop「南韓最帥臉蛋」前100名的男星中，Baro為第57名。
-2018月6月30日，與[WM娛樂合約到期](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，不續約。同年7月17日，與[HODOO娛樂簽訂專屬合約](https://zh.wikipedia.org/wiki/HODOO娛樂 "wikilink")。
+> 本文内容由[Baro](https://zh.wikipedia.org/wiki/Baro)转换而来。
+
+
+**車善玗**（，）曾為韓國男子團體[B1A4](../Page/B1A4.md "wikilink")组合的成員之一。出生於韓國[光州廣域市](../Page/光州廣域市.md "wikilink")，是隊中的Rapper。組合的專輯中也收錄Baro創作歌曲。2016年ShareFakta_Kpop「南韓最帥臉蛋」前100名的男星中，Baro為第57名。
+2018月6月30日，與[WM娛樂合約到期](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，不續約。同年7月17日，與[HODOO娛樂簽訂專屬合約](https://zh.wikipedia.org/wiki/HODOO娛樂 "wikilink")。2019年7月30日於第7師團新兵教育隊訓練所入伍，5週的基礎軍事訓練活動後，將以現役身分於陸軍服役。
 
 ## 影視作品
 
@@ -15,11 +18,12 @@
 | 2015                                                        | [Mnet](../Page/Mnet.md "wikilink")                     | [七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")                      | 羅賓‧車（客串：第九集） |
 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [憤怒的媽媽](../Page/憤怒的媽媽.md "wikilink")                   | 洪尚泰                                                           |              |
 | Naver TVCast                                                | [Loss：Time：Life](../Page/人生補時_\(韓國電視劇\).md "wikilink") | Baro                                                          |              |
-| 2016                                                        | [KBS](../Page/韓國放送公社.md "wikilink")                    | [Master－麵條之神](../Page/Master－麵條之神.md "wikilink")              | 金吉道青年時期      |
+| 2016                                                        | [KBS](../Page/韓國放送公社.md "wikilink")                    | [Master－麵條之神](../Page/Master－麵條之神.md "wikilink")              | 金吉道(青年時期)    |
 | 2017                                                        | KBS                                                    | [Manhole：夢遊仙境的奉弼](../Page/Manhole：夢遊仙境的奉弼.md "wikilink")      | 趙錫泰          |
 | 2018                                                        | MBC                                                    | [壞刑警](../Page/壞刑警.md "wikilink")                              | 蔡東允          |
 | 2019                                                        | K LEAGUE                                               | Two Hearts                                                    | 車善玗          |
 | 2019                                                        | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink")    | [Level Up](../Page/Level_Up.md "wikilink")                    | 郭韓哲          |
+| 2019                                                        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")    | [請融化我吧](../Page/請融化我吧.md "wikilink")                          | 黃炳深(青年時期)    |
 
 ### 電影
 

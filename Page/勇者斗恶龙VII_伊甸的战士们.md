@@ -1,3 +1,6 @@
+> 本文内容由[勇者斗恶龙VII 伊甸的战士们](https://zh.wikipedia.org/wiki/勇者斗恶龙VII_伊甸的战士们)转换而来。
+
+
 ，是由[HeartBeat](https://zh.wikipedia.org/wiki/HeartBeat_\(游戏公司\) "wikilink")\[1\]和[ArtePiazza](../Page/ArtePiazza.md "wikilink")\[2\]开发，[艾尼克斯](../Page/艾尼克斯.md "wikilink")发行于2000年在[PlayStation](../Page/PlayStation.md "wikilink")平台发行的日本[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，于2001年在北美以《Dragon Warrior VII》名義发行。《勇者斗恶龙VII》[任天堂3DS](../Page/任天堂3DS.md "wikilink")重制版于2013年2月7日在日本发行，2016年9月16日在欧美发行，这也是本作首次正式在欧洲发售。\[3\]
 
 《勇者斗恶龙VII》是继1995年[超级任天堂前作](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")《[勇者斗恶龙VI 幻之大地](../Page/勇者斗恶龙VI_幻之大地.md "wikilink")》之后，[勇者斗恶龙系列的第七部本传作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。《勇者斗恶龙VII》在发售之后累计銷量406万份，并于2001年4月6日成为日本當地最畅销的PlayStation平台游戏 \[4\]。游戏為自《[勇者斗恶龙IV](https://zh.wikipedia.org/wiki/勇者斗恶龙IV "wikilink")》1992年在北美发售后，首个在日本以外发售的本传游戏，也是最后一个以“Dragon Warrior”为题在北美发售的游戏。游戏由一直监理勇者斗恶龙系列的[堀井雄二](../Page/堀井雄二.md "wikilink")制作\[5\]。美工与角色设计依然由一直为勇者斗恶龙进行创作的漫画家[鸟山明负责](https://zh.wikipedia.org/wiki/鸟山明 "wikilink")。
@@ -50,78 +53,49 @@
 
   -
 
-[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:制作中止的任天堂64游戏](https://zh.wikipedia.org/wiki/Category:制作中止的任天堂64游戏 "wikilink") [Category:时间旅行游戏](https://zh.wikipedia.org/wiki/Category:时间旅行游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
+[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:制作中止的任天堂64游戏](https://zh.wikipedia.org/wiki/Category:制作中止的任天堂64游戏 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:时间旅行游戏](https://zh.wikipedia.org/wiki/Category:时间旅行游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
-
 16.
 17.
 18.
-
 19.
-
 20.
-
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
 29.
-
 30.
 31.
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
 40.
-
 41.
-
 42.
 43.
 44.
@@ -130,5 +104,4 @@
 47.
 48.
 49.
-
 50.

@@ -1,3 +1,6 @@
+> 本文内容由[Yellow Submarine \(歌曲\)](https://zh.wikipedia.org/wiki/Yellow_Submarine_\(歌曲\))转换而来。
+
+
 **Yellow Submarine**(黃色潛水艇)是[英國樂團](https://zh.wikipedia.org/wiki/英國 "wikilink") [The Beatles](https://zh.wikipedia.org/wiki/披頭四 "wikilink") 於1966年發行的的歌曲，由 [Paul](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink") 創作及由 [Ringo](../Page/林格·斯塔.md "wikilink") 主唱。它被收錄在 [Revolver](https://zh.wikipedia.org/wiki/Revolver "wikilink") 中和以單曲發行。
 
 此曲受到樂迷歡迎，單曲維持於英國排行榜榜首4星期，留在榜上達13星期。它以1966年英國最暢銷的單曲以獲得[艾弗·諾韋洛獎](https://zh.wikipedia.org/wiki/艾弗·諾韋洛獎 "wikilink")。

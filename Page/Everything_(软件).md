@@ -1,3 +1,6 @@
+> 本文内容由[Everything \(软件\)](https://zh.wikipedia.org/wiki/Everything_\(软件\))转换而来。
+
+
 **Everything**是一个[私有的](../Page/专有软件.md "wikilink")[免费Windows](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[桌面搜索引擎](https://zh.wikipedia.org/wiki/桌面搜索 "wikilink")，可以在[NTFS](../Page/NTFS.md "wikilink")卷上快速地根据名称查找文件和目录。由澳大利亚人大卫·卡彭特（David Carpenter）开发。2009年10月30日，在拥有70,000用户的[Wakoopa](../Page/Wakoopa.md "wikilink")网站排名中，Everything在1757个应用程序中排名第857，超越了老牌压缩工具[WinZip](../Page/WinZip.md "wikilink")\[1\]。直到2013年，Everything仍处于开发状态。
 
 ## 工作原理

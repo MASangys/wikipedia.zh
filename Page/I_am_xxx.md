@@ -1,3 +1,6 @@
+> 本文内容由[I am xxx](https://zh.wikipedia.org/wiki/I_am_xxx)转换而来。
+
+
 [GLAY](../Page/GLAY.md "wikilink")的第41張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2009年5月25日發行。
 
 ## 簡介

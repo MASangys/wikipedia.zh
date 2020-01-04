@@ -1,3 +1,6 @@
+> 本文内容由[May姐有請](https://zh.wikipedia.org/wiki/May姐有請)转换而来。
+
+
 《**May姐有請**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的飲食節目。
 
 第一輯共22集，由[馮美基](../Page/馮美基.md "wikilink")（May姐）及[曾華倩](../Page/曾華倩.md "wikilink")擔任主持，於2011年11月6日起[香港時間](../Page/香港時間.md "wikilink")逢星期日20:00-21:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")提供網上節目重溫（集數上傳後兩個月後會刪除）。2012年10月開始逢星期六晚上7:00在高清翡翠台重播。

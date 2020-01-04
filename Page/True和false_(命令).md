@@ -1,3 +1,6 @@
+> 本文内容由[True和false \(命令\)](https://zh.wikipedia.org/wiki/True和false_\(命令\))转换而来。
+
+
 在[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，**`true`**和**`false`**的唯一功能就是始终返回设定的[退出状态](https://zh.wikipedia.org/wiki/退出状态 "wikilink")。程序员和脚本通常使用退出状态评估命令执行的成功（0状态）与否（不为零）。*true*和*false*命令可以代表命令成功的[逻辑值](https://zh.wikipedia.org/wiki/逻辑值 "wikilink")，因为*true*返回0，*false*返回1。
 
 ## 用法

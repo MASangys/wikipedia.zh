@@ -1,3 +1,6 @@
+> 本文内容由[模块:China Expwy Name](https://zh.wikipedia.org/wiki/模块:China_Expwy_Name)转换而来。
+
+
 -----
 
 \-- Module:China Expwy Name - Lua module for China Expwy Name template
@@ -8,8 +11,7 @@
 
 local p = {}
 
-\-- Icon width for different code, according to GB5768-2009 local
-width_translation = {
+\-- Icon width for different code, according to GB5768-2009 local width_translation = {
 
 `   [1] = "22px",`
 `   [2] = "27px",`
@@ -26,12 +28,7 @@ width_translation = {
 
 }
 
-\-- Province library local province_lib = mw.loadData("Module:China
-Expwy Name/Province") -- Main expressway code-name translation library
-local expwy_lib = mw.loadData("Module:China Expwy Name/NameFromCode")
-local image_refs = mw.loadData("Module:China Expwy Name/ImageRefs") --
-Code translation against ambiguity, such as G1501s local
-code_translation = mw.loadData("Module:China Expwy Name/TranslateCode")
+\-- Province library local province_lib = mw.loadData("Module:China Expwy Name/Province") -- Main expressway code-name translation library local expwy_lib = mw.loadData("Module:China Expwy Name/NameFromCode") local image_refs = mw.loadData("Module:China Expwy Name/ImageRefs") -- Code translation against ambiguity, such as G1501s local code_translation = mw.loadData("Module:China Expwy Name/TranslateCode")
 
 function trim(s)
 
@@ -80,8 +77,7 @@ end
 
 end
 
-\-- Functionality for raw code fetching (e.g., G1501SH -\> G1501)
-function p.translatecode(frame)
+\-- Functionality for raw code fetching (e.g., G1501SH -\> G1501) function p.translatecode(frame)
 
 `   if frame.args[1] == nil then`
 `       return ""`
@@ -159,11 +155,9 @@ function internal_image_link(frame, typ, link)
 
 `   if image_ref_exists then`
 `       if link == nil then`
-`           return '`[`'``   ``..``   ``image_width``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/File:'_.._base_image_name_.._'.svg "fig:' .. image_width .. '")`'`
+`           return '`[`'``   ``..``   ``image_width``   ``..``   ``'`](https://zh.wikipedia.org/wiki/File:'_.._base_image_name_.._'.svg "fig:' .. image_width .. '")`'`
 `       else`
-`           return '`[`'``   ``..``   ``image_width``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/File:'_.._base_image_name_.._'.svg "fig:' .. image_width .. '")`'`
+`           return '`[`'``   ``..``   ``image_width``   ``..``   ``'`](https://zh.wikipedia.org/wiki/File:'_.._base_image_name_.._'.svg "fig:' .. image_width .. '")`'`
 `       end`
 `   else`
 `       return ""`
@@ -171,15 +165,13 @@ function internal_image_link(frame, typ, link)
 
 end
 
-\-- Functionality for sign width fetching function
-p.image_no_name(frame)
+\-- Functionality for sign width fetching function p.image_no_name(frame)
 
 `   return internal_image_link(frame, 0, nil)`
 
 end
 
-\-- Functionality for sign width fetching function
-p.image_with_name(frame)
+\-- Functionality for sign width fetching function p.image_with_name(frame)
 
 `   return internal_image_link(frame, 1, nil)`
 
@@ -276,6 +268,4 @@ end
 
 return p
 
-[Category:线路名出现错误的中国高速公路条目](https://zh.wikipedia.org/wiki/Category:线路名出现错误的中国高速公路条目 "wikilink")
-[Category:线路名出现错误的中国高速公路条目](https://zh.wikipedia.org/wiki/Category:线路名出现错误的中国高速公路条目 "wikilink")
-[Category:线路名出现错误的中国高速公路条目](https://zh.wikipedia.org/wiki/Category:线路名出现错误的中国高速公路条目 "wikilink")
+[Category:线路名出现错误的中国高速公路条目](https://zh.wikipedia.org/wiki/Category:线路名出现错误的中国高速公路条目 "wikilink") [Category:线路名出现错误的中国高速公路条目](https://zh.wikipedia.org/wiki/Category:线路名出现错误的中国高速公路条目 "wikilink") [Category:线路名出现错误的中国高速公路条目](https://zh.wikipedia.org/wiki/Category:线路名出现错误的中国高速公路条目 "wikilink")

@@ -1,5 +1,7 @@
-\--based on
-[en:Module:Footnotes](https://zh.wikipedia.org/wiki/en:Module:Footnotes "wikilink")
+> 本文内容由[模块:Cfn](https://zh.wikipedia.org/wiki/模块:Cfn)转换而来。
+
+
+\--based on [en:Module:Footnotes](https://zh.wikipedia.org/wiki/en:Module:Footnotes "wikilink")
 
 f = {
 
@@ -58,11 +60,9 @@ function core( args )
 
 `   if args.ref ~= 'none' then`
 `       if args.ref ~= "" then`
-`           result = "`[`"``   ``..``   ``result``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/#"_.._args.ref_.._" "wikilink")`";`
+`           result = "`[`"``   ``..``   ``result``   ``..``   ``"`](https://zh.wikipedia.org/wiki/#"_.._args.ref_.._" "wikilink")`";`
 `       else`
-`           result = "`[`"``   ``..``   ``result``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/#CITEREF"_.._args.P1_.._args.P2_.._args.P3_.._args.P4_.._args.vol_.._args.year_.._args.month_.._args.day_.._" "wikilink")`";`
+`           result = "`[`"``   ``..``   ``result``   ``..``   ``"`](https://zh.wikipedia.org/wiki/#CITEREF"_.._args.P1_.._args.P2_.._args.P3_.._args.P4_.._args.vol_.._args.year_.._args.month_.._args.day_.._" "wikilink")`";`
 `       end`
 `   end`
 

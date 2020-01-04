@@ -27,12 +27,12 @@
 
 ## 外部链接
 
-  - [《新超级马里奥兄弟U》官方网站](http://www.nintendo.co.jp/wiiu/arpj/)
-  - [《新超级马里奥兄弟U》官方网站](http://newsupermariobrosu.nintendo.com/)
-  - [《New超级瑪利歐兄弟U豪華版》官方网站](http://www.nintendo.tw/switch/new_super_mario_bros_u_deluxe/)
-  - [《New超级瑪利歐兄弟U豪華版》官方网站](http://www.nintendo.hk/switch/new_super_mario_bros_u_deluxe/)
+  -
+  -
   - [New スーパーマリオブラザーズ U チャンネル](http://www.youtube.com/user/NewMarioUJA)（任天堂官方视频频道|Youtube）
+
   - [社長が訊く 『Wii U』 New スーパーマリオブラザーズ U 篇](http://www.nintendo.co.jp/wiiu/interview/hardware/vol7/index.html)
+
   - [New スーパーマリオブラザーズ U デラックス My Nintendo Store](https://store.nintendo.co.jp/category/SWITCH_SOFT/HAC_P_ADALA.html)
 
 <!-- end list -->

@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚Lumia 520](https://zh.wikipedia.org/wiki/诺基亚Lumia_520)转换而来。
+
+
 **诺基亚Lumia 520**是在2013年诺基亚移动世界大会上宣布的入门级智能手机。Lumia 520於2013年2月發表，搭载[Windows Phone 8](../Page/Windows_Phone_8.md "wikilink") + [Lumia Amber](https://zh.wikipedia.org/wiki/Lumia_Amber "wikilink")。在 2013 年 9 月 Lumia 520 成为世界上最畅销的[Windows设备](https://zh.wikipedia.org/wiki/Windows "wikilink")，比任何其他的Windows手机、PC或平板电脑更多。直到2014 年 7 月，Lumia 520 得到了1200万次的啟用，诺基亚和微软都分别扮演了关键角色。\[1\]
 
 后来发布微升级的后续版[诺基亚Lumia 520T](https://zh.wikipedia.org/wiki/诺基亚Lumia_520T "wikilink")、[诺基亚Lumia 525和](https://zh.wikipedia.org/wiki/诺基亚Lumia_525 "wikilink")[诺基亚Lumia 526](https://zh.wikipedia.org/wiki/诺基亚Lumia_526 "wikilink").

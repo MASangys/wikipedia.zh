@@ -1,3 +1,6 @@
+> 本文内容由[DFS \(英國零售\)](https://zh.wikipedia.org/wiki/DFS_\(英國零售\))转换而来。
+
+
 **DFS傢俱股份有限公司**，簡稱**DFS傢俱股份**，以及**DFS傢俱**（****，），於1983年由創立當時名為「傢俱直銷供應專門店」（Direct Furnishing Supplies），前身為「DFS傢俱控股股份有限公司」。
 
 主要在[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[愛爾蘭銷售各國沙發和軟性傢俱產品](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")。總部位於[南约克郡](../Page/南约克郡.md "wikilink")[唐克斯特](https://zh.wikipedia.org/wiki/唐克斯特 "wikilink")。

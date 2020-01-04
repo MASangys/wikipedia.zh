@@ -1,3 +1,6 @@
+> 本文内容由[Karatsuba算法](https://zh.wikipedia.org/wiki/Karatsuba算法)转换而来。
+
+
 **Karatsuba算法**是一种快速[相乘算法](https://zh.wikipedia.org/wiki/相乘算法 "wikilink")，它由[Anatolii Alexeevitch Karatsuba于](https://zh.wikipedia.org/wiki/Anatolii_Alexeevitch_Karatsuba "wikilink")1960年提出并于1962年发表。<ref name="kara1962">
 
 ` `

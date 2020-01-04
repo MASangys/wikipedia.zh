@@ -1,3 +1,6 @@
+> 本文内容由[Netlink](https://zh.wikipedia.org/wiki/Netlink)转换而来。
+
+
 **Netlink套接字家族**（）是一組Linux核心介面（Linux kernel interfaces），可用於[行程間通訊](../Page/行程間通訊.md "wikilink")，Linux内核与[用户空间的进程间](https://zh.wikipedia.org/wiki/用户空间 "wikilink")、用户进程间的通讯。然而它并不像[网络套接字可以用于主机间通讯](https://zh.wikipedia.org/wiki/网络套接字 "wikilink")，Netlink只能用于同一主机上进程通讯，并通过PID来标识它们。
 
 Netlink被设计为在[Linux内核](../Page/Linux内核.md "wikilink")与用户空间进程传送各种网络信息。网络工具[iproute2利用](https://zh.wikipedia.org/wiki/iproute2 "wikilink") Netlink从用户空间与内核进行通讯。Netlink由一个在用户空间的标准的Socket接口和内核模块 提供的内核API组成。Netlink的设计比[ioctl更加灵活](https://zh.wikipedia.org/wiki/ioctl "wikilink")，Netlink使用了AF_NETLINK Socket 家族。

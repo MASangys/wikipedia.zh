@@ -1,3 +1,6 @@
+> 本文内容由[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜)转换而来。
+
+
 [GLAY](../Page/GLAY.md "wikilink")的第5張A面[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 簡介

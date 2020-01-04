@@ -1,3 +1,6 @@
+> 本文内容由[SS-N-26球果导弹](https://zh.wikipedia.org/wiki/SS-N-26球果导弹)转换而来。
+
+
 **P-800“缟玛瑙（Oniks）”**（[北約代號](../Page/北約代號.md "wikilink")SS-N-26、Strobile）是苏联[切洛梅設計局](https://zh.wikipedia.org/wiki/切洛梅設計局 "wikilink")1983年設計用來取代[P-270“蚊子”和](../Page/P-270蚊子导弹.md "wikilink")[P-700“花崗岩”的超音速反艦飛彈](https://zh.wikipedia.org/wiki/P-700导弹 "wikilink")，是P-700的改进版，[GRAU编号](https://zh.wikipedia.org/wiki/GRAU "wikilink")3M55。出口型称为Yakhont，意为红宝石或蓝宝石，外界通稱**寶石反艦飛彈**。
 
 ## 彈體設計

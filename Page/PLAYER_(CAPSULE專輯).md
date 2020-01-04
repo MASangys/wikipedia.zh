@@ -1,3 +1,6 @@
+> 本文内容由[PLAYER \(CAPSULE專輯\)](https://zh.wikipedia.org/wiki/PLAYER_\(CAPSULE專輯\))转换而来。
+
+
 《**PLAYER**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第11張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2010年3月3日發行。唱片公司為。
 
 ## 概要
@@ -14,8 +17,8 @@
 
 ### iTunes Store限定配信
 
-### DVD
+### DVD（初回限定盘）
 
-1.  **Hello×iida**（Music Clip）
+1.  **Hello×iida** -music clip-
 
 [Category:CAPSULE音樂專輯](https://zh.wikipedia.org/wiki/Category:CAPSULE音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")

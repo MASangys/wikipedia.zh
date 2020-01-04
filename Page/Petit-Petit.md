@@ -1,3 +1,6 @@
+> 本文内容由[Petit-Petit](https://zh.wikipedia.org/wiki/Petit-Petit)转换而来。
+
+
 《**Petit-Petit**》 是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[IDOLING\!\!\!的第二張錄音室專輯](https://zh.wikipedia.org/wiki/IDOLING!!! "wikilink")。2009年8月19日由[波麗佳音發售](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
@@ -20,7 +23,7 @@
   - [iTunes Japan內的專輯Petit-Petit](https://itunes.apple.com/jp/album/petit-petit/id326559082)
   - [IDOLING\!\!\!官方網站](https://web.archive.org/web/20130104175310/http://idoling.fujitv.co.jp/) - 富士電視台
   - [IDOLING\!\!\!官方網站](https://archive.is/20120709032731/http://idoling.info/) - 波麗佳音
-  - [波麗佳音官方網站](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_3010&CMD=DSP&DSP_ATSCOD=30595700)
+  - [波麗佳音官方網站](https://web.archive.org/web/20090129204226/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_3010&CMD=DSP&DSP_ATSCOD=30595700)
   - [Petit‐Petit(高級版)](https://web.archive.org/web/20160307172537/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001329&DSP_SKHKETSEQ=001)
   - [Petit‐Petit(標準版)](https://web.archive.org/web/20160307050630/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001329&DSP_SKHKETSEQ=002)
   - [Petit‐Petit(低價版)](https://web.archive.org/web/20160307112002/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001329&DSP_SKHKETSEQ=003)

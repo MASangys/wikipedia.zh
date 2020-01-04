@@ -1,3 +1,6 @@
+> 本文内容由[FictionBook](https://zh.wikipedia.org/wiki/FictionBook)转换而来。
+
+
 **FictionBook** 是建基於[XML](../Page/XML.md "wikilink")的[電子書](../Page/電子書.md "wikilink")格式，起源並流行於[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。此類檔案格式為.fb2 。
 
 它包含設定碑文體、經文體及引用的標籤；而[電子書](../Page/電子書.md "wikilink")的[元數據](https://zh.wikipedia.org/wiki/元數據 "wikilink")，包括作者、書名及出版社等資料，亦可在檔案中找到。因此，此格式適合用於各種自動處理、設置索引及電子書管理等。同時，將此檔案格式轉為其他[電子書](../Page/電子書.md "wikilink")格式亦較方便。
@@ -13,17 +16,11 @@
   - 支援文檔類型：
       -
       - 字幕
-
       - 碑文
-
       - 詩
-
       - 語錄
-
       - 參考和腳註
-
       - 表格（惟不是所有讀者可閱覽）
-
       - [點陣圖](https://zh.wikipedia.org/wiki/點陣圖 "wikilink") ([JPEG](../Page/JPEG.md "wikilink") 及 [PNG](../Page/PNG.md "wikilink") ）
 
 <!-- end list -->
@@ -44,7 +41,7 @@
 
   - [FictionBook Portal](http://www.fictionbook.org/index.php/Eng:FictionBook)
   - [FictionBook 2.1 specification](http://www.fictionbook.org/index.php/Eng:XML_Schema_Fictionbook_2.1)
-  - [www.fictionbook-lib.org site with english e-books in fictionbook format](http://www.fictionbook-lib.org/)
+  - [www.fictionbook-lib.org site with english e-books in fictionbook format](https://web.archive.org/web/20130529222420/http://fictionbook-lib.org/)
   - [ManyBooks.net](http://manybooks.net/) – 包含所有[古騰堡工程的書籍](https://zh.wikipedia.org/wiki/古騰堡工程 "wikilink")，其格式為.fb2
 
 ### 相關教學

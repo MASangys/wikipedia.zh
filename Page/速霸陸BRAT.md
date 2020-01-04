@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸BRAT](https://zh.wikipedia.org/wiki/速霸陸BRAT)转换而来。
+
+
 **速霸陸BRAT**（）之車名來自「**B**i-drive **R**ecreational **A**ll-terrain **T**ransporter」，為[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1978年至1993年間推出的二門多功能轎跑車（[coupé utility](https://zh.wikipedia.org/wiki/:en:Coupé_utility "wikilink")）。此車款乃衍生自[第二代Leone的](https://zh.wikipedia.org/wiki/速霸陸Leone#第二代（1979年-1984年） "wikilink")[4WD](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")[旅行車](../Page/旅行車.md "wikilink")車型，專門外銷[北美洲](../Page/北美洲.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭等](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[國家](https://zh.wikipedia.org/wiki/國家 "wikilink")。
 
 ## 概要與歷史

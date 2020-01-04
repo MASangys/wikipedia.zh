@@ -1,3 +1,6 @@
+> 本文内容由[PIECES OF A DREAM](https://zh.wikipedia.org/wiki/PIECES_OF_A_DREAM)转换而来。
+
+
 「**PIECES OF A DREAM**」（夢的碎片）是[化學超男子](../Page/化學超男子.md "wikilink")的出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2001年3月9日發售。
 
 ## 解説

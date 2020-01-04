@@ -1,3 +1,6 @@
+> 本文内容由[Gaon音乐榜](https://zh.wikipedia.org/wiki/Gaon音乐榜)转换而来。
+
+
 **Gaon Chart**（；又譯**佳音排行榜**）為[韓國第一個由政府承認的](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由管理，[韓國文化體育觀光部贊助](../Page/大韩民国文化体育观光部.md "wikilink")。成立此排行榜的目的是希望建立一個像[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")「[Billboard](../Page/告示牌榜單.md "wikilink")」和[日本](../Page/日本.md "wikilink")的「[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")」般，公信力甚高的全國官方排行榜，並宣揚其大眾音樂文化。Gaon Chart於2010年二月正式開始運作。
 
 ## 概要

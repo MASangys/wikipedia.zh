@@ -1,3 +1,6 @@
+> 本文内容由[迈克尔·H·哈特](https://zh.wikipedia.org/wiki/迈克尔·H·哈特)转换而来。
+
+
 **迈克尔·H·哈特**（），出生于[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，是一位天体物理学家，写了三本历史书，以及很多关于各种主题的有争议的文章。哈特认为自己是个杰斐逊自由派，而他的批评者称他是[保守派和](https://zh.wikipedia.org/wiki/保守派 "wikilink")[种族分离主义者](https://zh.wikipedia.org/wiki/种族分离主义者 "wikilink")。
 
 ## 天文学研究

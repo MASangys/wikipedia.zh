@@ -1,3 +1,6 @@
+> 本文内容由[Portal:第二次世界大戰/Picture/3月](https://zh.wikipedia.org/wiki/Portal:第二次世界大戰/Picture/3月)转换而来。
+
+
 __NOTOC__ [Portal:第二次世界大戰/Picture/3月1日](https://zh.wikipedia.org/wiki/Portal:第二次世界大戰/Picture/3月1日 "wikilink")
 
 <div style="clear: both">

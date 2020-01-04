@@ -1,3 +1,6 @@
+> 本文内容由[DBC主場](https://zh.wikipedia.org/wiki/DBC主場)转换而来。
+
+
 **DBC主場**是一個由[香港數碼電台製作的](https://zh.wikipedia.org/wiki/香港數碼電台 "wikilink")[即時](https://zh.wikipedia.org/wiki/實時 "wikilink")[現場直播](../Page/現場直播.md "wikilink")節目，以討論[香港](../Page/香港.md "wikilink")政事為主，並接受聽眾致電發表意見（亦即稱為「[烽煙節目](https://zh.wikipedia.org/wiki/烽煙節目 "wikilink")」）。2013年起於[數碼一台](../Page/數碼一台.md "wikilink")（旗艦台）內播出，每次為三[小時](https://zh.wikipedia.org/wiki/小時 "wikilink")；2014年11月10日起，改於[數碼二台](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")（新聞台）播放，並且縮短時間至兩小時。主持人亦改由[蔡展翔](https://zh.wikipedia.org/wiki/蔡展翔 "wikilink")、[李家文](../Page/李家文.md "wikilink")、[阮大可](https://zh.wikipedia.org/wiki/阮大可 "wikilink")、[方健儀](../Page/方健儀.md "wikilink")及[李華明](../Page/李華明.md "wikilink")輪流主持。
 
 ## 歷史

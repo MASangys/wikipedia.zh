@@ -1,3 +1,6 @@
+> 本文内容由[CSR \(企業\)](https://zh.wikipedia.org/wiki/CSR_\(企業\))转换而来。
+
+
 **CSR plc**（），原名**劍橋矽晶無線電**或**英商劍橋無線電**（），是一間創立於1998年的[跨國](../Page/跨國公司.md "wikilink")[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")，總部位於英國[劍橋](../Page/劍橋.md "wikilink")。主要產品為[無線電](https://zh.wikipedia.org/wiki/無線電 "wikilink")、[藍牙](../Page/藍牙.md "wikilink")晶片、音訊處理與定位晶片。在2011年，它的收益名列世界第13大無廠半導體公司。2015年被高通公司收購。
 
 ## 歷史

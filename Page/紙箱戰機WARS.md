@@ -1,3 +1,6 @@
+> 本文内容由[紙箱戰機WARS](https://zh.wikipedia.org/wiki/紙箱戰機WARS)转换而来。
+
+
 《**紙箱戰機WARS**》（）為[LEVEL-5](../Page/LEVEL-5.md "wikilink")公司所開發的[3DS用](https://zh.wikipedia.org/wiki/3DS "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》系列的第三作暨第二代，預定於2013年3月17日發售。先行[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2013年4月3日至12月25日播放，逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19:27-19:55於[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播出。全37話。
 
 ## 故事概要
@@ -913,23 +916,17 @@ BS放送</p></td>
 
   - [《紙箱戰機WARS》東京電視台網站](http://www.tv-tokyo.co.jp/anime/lbxwars/index2.html)
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:角色扮演电子游戏](https://zh.wikipedia.org/wiki/Category:角色扮演电子游戏 "wikilink") [Category:Level-5游戏](https://zh.wikipedia.org/wiki/Category:Level-5游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink") [Category:角色扮演電子遊戲](https://zh.wikipedia.org/wiki/Category:角色扮演電子遊戲 "wikilink") [Category:Level-5遊戲](https://zh.wikipedia.org/wiki/Category:Level-5遊戲 "wikilink") [Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink") [Category:任天堂3DS獨佔遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS獨佔遊戲 "wikilink") [Category:後傳電子遊戲](https://zh.wikipedia.org/wiki/Category:後傳電子遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
 
 1.  臺灣[Animax撥出動畫版時譯作](../Page/Animax_Asia.md "wikilink")「俄羅士聯合」。
-
 2.
 3.
 4.  臺灣[Animax撥出動畫版時譯作](../Page/Animax_Asia.md "wikilink")「戰爭時分」。
-
 5.
 6.
 7.
 8.  佔領成功時的廣播內容為：據點壓制完成。（該據點）的擁有權，由（原佔領的假想國）移交至（成功佔領的假想國）。請（原佔領的假想國）的登錄機體，立即停止戰鬥，並且儘速離開（該據點）範圍。（來源為臺灣[Animax播出時的翻譯](../Page/Animax_Asia.md "wikilink")。）
-
 9.  [TVB標題以播放時所顯示的字幕為準](https://zh.wikipedia.org/wiki/TVB "wikilink")。
-
 10.
-
 11. 臺灣AnimaxHD先播出，之後Animax播出前提供的宣傳片是6:30日語原音版。2015年4月23日當天播出時為國語配音，為避免觀眾混淆，播出數天後取消播出節目的宣傳片。
-
 12. [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10152660400212121/?type=3&theater)，2017/1/17閱覽。

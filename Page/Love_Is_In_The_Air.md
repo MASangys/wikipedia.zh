@@ -1,3 +1,6 @@
+> 本文内容由[Love Is In The Air](https://zh.wikipedia.org/wiki/Love_Is_In_The_Air)转换而来。
+
+
 《**Love Is In The Air**》是[日本](../Page/日本.md "wikilink")[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")37张[单曲](../Page/单曲.md "wikilink")，於2013年6月26日由[avex trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

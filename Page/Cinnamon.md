@@ -1,3 +1,6 @@
+> 本文内容由[Cinnamon](https://zh.wikipedia.org/wiki/Cinnamon)转换而来。
+
+
 **Cinnamon**是[类Unix系統下的一個](https://zh.wikipedia.org/wiki/类Unix系統 "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")。最初是[GNOME Shell的一個](../Page/GNOME_Shell.md "wikilink")[衍生版本](https://zh.wikipedia.org/wiki/復刻_\(軟體工程\) "wikilink")，由[Linux Mint開發](../Page/Linux_Mint.md "wikilink")，提供了相似于[GNOME](../Page/GNOME.md "wikilink") 2，易於使用的传统[用户界面](../Page/用户界面.md "wikilink")，从Cinnamon 2.0开始，成为独立的[桌面环境](../Page/桌面环境.md "wikilink")。
 
 ## 歷史
@@ -77,34 +80,19 @@ Cinnamon在[Linux Mint](../Page/Linux_Mint.md "wikilink") 12的套件庫中首�
 
 1.
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. <http://www.snowlinux.de/625-news-snowlinux-4>
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

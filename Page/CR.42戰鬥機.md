@@ -1,3 +1,6 @@
+> 本文内容由[CR.42戰鬥機](https://zh.wikipedia.org/wiki/CR.42戰鬥機)转换而来。
+
+
 [Fiat_C.R.42_Falco_3-view.svg](https://zh.wikipedia.org/wiki/File:Fiat_C.R.42_Falco_3-view.svg "fig:Fiat_C.R.42_Falco_3-view.svg") [Fiat_CR_42_Falco_fighter_parked.jpg](https://zh.wikipedia.org/wiki/File:Fiat_CR_42_Falco_fighter_parked.jpg "fig:Fiat_CR_42_Falco_fighter_parked.jpg")
 
 **CR.42戰鬥機**是[CR.32戰鬥機改良型](https://zh.wikipedia.org/wiki/CR.32戰鬥機 "wikilink")，其生產商[飛雅特把發動機改為更大馬力的風冷式](https://zh.wikipedia.org/wiki/飛雅特 "wikilink")，由於意大利戰機設計思維仍停留在[第一次世界大戰](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，認為雙翼機的轉彎能力比單翼機的高速重要，故CR.42仍然是雙翼戰鬥機，在[第二次世界大戰時仍是意大利空軍主力戰鬥機之一](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，例如在[北非戰場](../Page/北非戰場.md "wikilink")上，CR.42經常要和比它先進的英製[颶風式](../Page/颶風戰鬥機.md "wikilink")、[噴火式戰鬥機等單翼戰鬥機交戰](https://zh.wikipedia.org/wiki/噴火式戰鬥機 "wikilink")，在科技與性能劣勢下理所當然處於下風，最後CR.42於1942年停產。

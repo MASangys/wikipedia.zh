@@ -1,3 +1,6 @@
+> 本文内容由[卡巴拉島Online](https://zh.wikipedia.org/wiki/卡巴拉島Online)转换而来。
+
+
 是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NTREEV軟體公司開發的](https://zh.wikipedia.org/wiki/NTREEV "wikilink")[2D](../Page/二维计算机图形.md "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")，以可愛動漫風格為特色，加上一些獨特或原創系統的[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，遊戲中[移動](https://zh.wikipedia.org/wiki/移動 "wikilink")、[戰鬥](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")、[鑽地和許多其他功能主要是透過](https://zh.wikipedia.org/wiki/鑽地 "wikilink")[鼠標控制](https://zh.wikipedia.org/wiki/鼠標 "wikilink")，並利用[鍵盤F](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")1\~F8等作為快捷鍵。各國版本皆為免費暢遊，但也有[現金](https://zh.wikipedia.org/wiki/現金 "wikilink")[商店](../Page/商店.md "wikilink")的功能，又稱為「MyShop」，可以利用現金購買遊戲中的特殊物品。
 
 ## 故事

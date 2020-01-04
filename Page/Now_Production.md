@@ -1,3 +1,6 @@
+> 本文内容由[Now Production](https://zh.wikipedia.org/wiki/Now_Production)转换而来。
+
+
 **Now Production**（，又称Nowpro）是开发与发行电子游戏的日本电子游戏公司。公司于1986年建立，并开始为[南梦宫](../Page/南梦宫.md "wikilink")、[Hudson Soft](../Page/Hudson_Soft.md "wikilink")、[卡普空](../Page/卡普空.md "wikilink")、[TAITO](https://zh.wikipedia.org/wiki/TAITO "wikilink")、[科乐美](https://zh.wikipedia.org/wiki/科乐美 "wikilink")、[世嘉](../Page/世嘉.md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")等大型日本公司开发各种游戏。
 
 Nowpro现在还参与手机软件、在线游戏、弹珠机和老虎机 软硬件的开发。

@@ -1,3 +1,6 @@
+> 本文内容由[乐天LPGA锦标赛](https://zh.wikipedia.org/wiki/乐天LPGA锦标赛)转换而来。
+
+
 **乐天LPGA锦标赛**（）是[LPGA巡回赛的一场女子职业高尔夫赛事](https://zh.wikipedia.org/wiki/美国女子职业高尔夫协会 "wikilink")。赛事于在[美国](../Page/美国.md "wikilink")[夏威夷州](../Page/夏威夷州.md "wikilink")首次举办。
 
 赛事的赞助商是[乐天集团](https://zh.wikipedia.org/wiki/乐天集团 "wikilink")，一家[韩国企业集团](https://zh.wikipedia.org/wiki/韩国 "wikilink")。赛事的协办赞助商是J高尔夫，一家韩国广播公司。

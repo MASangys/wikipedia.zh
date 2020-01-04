@@ -1,3 +1,6 @@
+> 本文内容由[暗黑前线 \(VOY\)](https://zh.wikipedia.org/wiki/暗黑前线_\(VOY\))转换而来。
+
+
 “****”（**Dark Frontier**）是[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[电视剧](../Page/电视剧.md "wikilink")《[星际旅行：航海家号](https://zh.wikipedia.org/wiki/星际旅行：航海家号 "wikilink")》的加长剧集，是该系列的第五季第十五、六集。在电视网首播时播出兩個小时，但在后来重播时被一分为二。\[1\]该集是本系列电视剧中除首尾两集以外仅有的三部兩小時加長版之一。该剧于1999年被授予[艾美奖](../Page/艾美奖.md "wikilink")系列节目最佳视觉特效奖。\[2\]\[3\]
 
 ## 剧情
@@ -39,18 +42,14 @@
 [Category:星际旅行：航海家号剧情](https://zh.wikipedia.org/wiki/Category:星际旅行：航海家号剧情 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
 6.
 7.
 8.  [黑暗前线的剧本](http://www.chakoteya.net/Voyager/517.htm)The Voyager Transcripts-Dark Frontier
-
 9.
 10.
 11. [《星际迷航：航海家号》所获得的艾美奖及提名列表](http://www.emmys.com/shows/star-trek-voyager)
-
 12. [1999年艾美奖最佳视觉特效奖获奖及提名列表](http://www.emmys.com/shows/star-trek-voyager)

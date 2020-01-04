@@ -1,3 +1,6 @@
+> 本文内容由[EDVAC報告書的第一份草案](https://zh.wikipedia.org/wiki/EDVAC報告書的第一份草案)转换而来。
+
+
 [Firstdraftofrepo00vonn_0003.jpg](https://zh.wikipedia.org/wiki/File:Firstdraftofrepo00vonn_0003.jpg "fig:Firstdraftofrepo00vonn_0003.jpg")報告書的第一份草案封面\]\] [ENIAC_Penn1.jpg](https://zh.wikipedia.org/wiki/File:ENIAC_Penn1.jpg "fig:ENIAC_Penn1.jpg") 《**[EDVAC](../Page/EDVAC.md "wikilink")報告書的第一份草案**》（），一般簡稱為***第一份草案***，是由[约翰·冯·诺伊曼](../Page/约翰·冯·诺伊曼.md "wikilink")所撰寫共101頁文件，於1945年6月30日，由[ENIAC機密計劃的安全官](https://zh.wikipedia.org/wiki/ENIAC "wikilink")所發表。內容包含了第一次公諸於世的使用儲存程式概念電腦的邏輯設計描述，即後來成為眾所熟知且頗具爭議的[范紐曼型架構](../Page/冯·诺伊曼结构.md "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[我的PS搭檔](https://zh.wikipedia.org/wiki/我的PS搭檔)转换而来。
+
+
 《**我的PS搭檔**》（，）是一部於2012年上映的韓國愛情喜劇電影，以[電話性爱作為題材](https://zh.wikipedia.org/wiki/電話調情 "wikilink")。
 
 ## 劇情介紹

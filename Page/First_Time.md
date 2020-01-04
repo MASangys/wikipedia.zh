@@ -1,3 +1,6 @@
+> 本文内容由[First Time](https://zh.wikipedia.org/wiki/First_Time)转换而来。
+
+
 《**First Time**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第1張原創專輯。於1998年7月8日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

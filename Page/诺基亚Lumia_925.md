@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚Lumia 925](https://zh.wikipedia.org/wiki/诺基亚Lumia_925)转换而来。
+
+
 **Nokia Lumia 925**是2013年夏季推出的一部採用金屬設計元素的Lumia手機（以往Lumia手機都用膠為材質）。主要是四旁使用鋁合金，後蓋也是使用聚碳酸酯材料，有白、灰、黑三色選擇。
 
 Nokia Lumia 925配置[Snapdragon第四代](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")（S4）MSM8960 1.5GHz處理器、4.5吋1280 × 768解析度螢幕、870萬像素並帶有PureView技術的卡爾蔡司相機鏡頭、2000mAh電池，它有16GB ROM內置記憶體，但不支援MicroSD記憶卡，支援4G LTE五頻操作，包括香港的1800及2600頻段。屬於2013年度的[Windows Phone 8旗艦機](../Page/Windows_Phone_8.md "wikilink")。

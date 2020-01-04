@@ -1,3 +1,6 @@
+> 本文内容由[OpenEHR](https://zh.wikipedia.org/wiki/OpenEHR)转换而来。
+
+
 **OpenEHR**（[中文](https://zh.wikipedia.org/wiki/中文 "wikilink"):**开放电子健康档案**），是[开放的医疗卫生信息标准规范](https://zh.wikipedia.org/wiki/开放 "wikilink")，它描述了管理和存储，检索和交换的[電子健康紀錄](../Page/電子健康紀錄.md "wikilink")(EHRs)数据。 在开放电子健康档案中，一个人的健康数据存储是一个“生命周期”，独立于供应商，以人为本的电子病历。开放电子健康档案的规范不是电子健康档案系统之间的数据交换， 而是以其他规范为准绳的数据交换， 如[EN13606和](https://zh.wikipedia.org/wiki/EN13606 "wikilink")[HL7](../Page/Health_Level_7.md "wikilink")。
 
 开放电子健康档案规范是由非盈利的[开放电子健康档案基金会来维护](https://zh.wikipedia.org/wiki/开放电子健康档案基金会 "wikilink")，用于支持对电子健康档案的开放式研究，开发和实施。开放电子健康档案规范是基于[欧洲](../Page/欧洲.md "wikilink")和[澳大利亚](../Page/澳大利亚.md "wikilink")对电子健康档案15年的研究和发展，所结合地新的范例， 包括已众所周知的原型方法的规范内容。\[1\]\[2\]

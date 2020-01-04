@@ -1,4 +1,7 @@
-**Green Monday**是[香港](../Page/香港.md "wikilink")一[社會企業](https://zh.wikipedia.org/wiki/社會企業 "wikilink")，於2012年的[世界地球日](../Page/世界地球日.md "wikilink")（即4月22日）成立，致力推廣[週一素食日](https://zh.wikipedia.org/wiki/週一素食日 "wikilink")。透過與連鎖餐廳、連鎖生活專門店、酒店、大學、中小學、醫院及各類企業等合作，推出無肉餐單、素食廚藝班、健康講座等，在港推廣逢星期一吃素及環保健康的生活，多方面推動大眾加入無綠不歡星期一的行列。\[1\] Green Monday 於2014年被《快公司》雜誌選為“中國最佳創新公司50”。
+> 本文内容由[Green Monday](https://zh.wikipedia.org/wiki/Green_Monday)转换而来。
+
+
+**Green Monday**是[香港](../Page/香港.md "wikilink")一[社會企業](https://zh.wikipedia.org/wiki/社會企業 "wikilink")，於2012年的[世界地球日](../Page/世界地球日.md "wikilink")（即4月22日）成立，致力推廣[週一素食日](https://zh.wikipedia.org/wiki/週一素食日 "wikilink")。透過與連鎖餐廳、連鎖生活專門店、酒店、大學、中小學、醫院及各類企業等合作，推出無肉餐單、素食廚藝班、健康講座、經營素食超市兼餐廳Green Common等，在港推廣逢星期一吃素及環保健康的生活，多方面推動大眾加入無綠不歡星期一的行列。\[1\] Green Monday 於2014年被《快公司》雜誌選為“中國最佳創新公司50”。
 
 ## 宗旨
 
@@ -26,12 +29,12 @@ Green Monday自2012年11月開始，在校園推廣名為“無綠不歡星期�
 
 ## 獎項
 
-HKMA/TVB 傑出市場策劃獎銅獎
-HKMA/TVB 小預算市場策劃獎
-Go Green Awards 2013 – 惜玩惜食達人大獎
-明報周刊2013 Local Heroes
-東週刊傑出企業策略大獎2013
-《快公司》“2014中國最佳創新公司50”
+  - HKMA/TVB 傑出市場策劃獎銅獎
+  - HKMA/TVB 小預算市場策劃獎
+  - Go Green Awards 2013 – 惜玩惜食達人大獎
+  - 明報周刊2013 Local Heroes
+  - 東週刊傑出企業策略大獎2013
+  - 《快公司》“2014中國最佳創新公司50”
 
 ## 名人大使
 

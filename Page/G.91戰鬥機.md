@@ -1,3 +1,6 @@
+> 本文内容由[G.91戰鬥機](https://zh.wikipedia.org/wiki/G.91戰鬥機)转换而来。
+
+
 G.91是意大利菲亞特應[北約要求所研製的輕型戰鬥機](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")，為意大利在二戰後首種自行研製的噴射戰鬥機，其外表酷似美製[F-86D戰鬥機](../Page/F-86軍刀戰鬥機.md "wikilink")，飛行機動性優秀而且維修簡易，可執行空戰和轟炸等各種任務，意大利空軍[三色箭飛行表演隊都曾使用G](https://zh.wikipedia.org/wiki/三色箭飛行表演隊 "wikilink").91作為表演機。
 
 ## 型号演变

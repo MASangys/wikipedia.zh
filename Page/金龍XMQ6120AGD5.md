@@ -1,8 +1,11 @@
-**金龍XMQ6120AGD5**（）是[中國大陸車商](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[金龍客車所生產的一款](https://zh.wikipedia.org/wiki/金龍客車 "wikilink")[低底盤公車](../Page/特低地台巴士.md "wikilink")，共有三門及雙門兩種車款。
+> 本文内容由[金龍XMQ6120AGD5](https://zh.wikipedia.org/wiki/金龍XMQ6120AGD5)转换而来。
+
+
+**金龍XMQ6120AGD5**（）是[中國大陸車商](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[金龍客車所生產的一款](https://zh.wikipedia.org/wiki/金龍客車 "wikilink")[低底盤公車](../Page/特低地台巴士.md "wikilink")，共有三門及雙門兩種車款。
 
 ## 臺灣規格
 
-[廈門金龍三門公車_038U5首都客運.jpg](https://zh.wikipedia.org/wiki/File:廈門金龍三門公車_038U5首都客運.jpg "fig:廈門金龍三門公車_038U5首都客運.jpg")三門版車款\]\]
+[KINGLONG_-_XMQ6120AGD5_-_018-U5.jpg](https://zh.wikipedia.org/wiki/File:KINGLONG_-_XMQ6120AGD5_-_018-U5.jpg "fig:KINGLONG_-_XMQ6120AGD5_-_018-U5.jpg")三門版車款\]\]
 
   - 引擎：[Cummins](../Page/康明斯.md "wikilink") ISB6.7EV300B
   - 最大馬力：300[hp](../Page/馬力.md "wikilink")(215.7kW)/2300rpm

@@ -1,3 +1,6 @@
+> 本文内容由[C替代标记](https://zh.wikipedia.org/wiki/C替代标记)转换而来。
+
+
 **C替代标记**指一批[C语言常见运算符的可选拼写](https://zh.wikipedia.org/wiki/C语言 "wikilink")。它们实现为[C標準函式庫](../Page/C標準函式庫.md "wikilink")中`iso646.h`头文件内的一组宏定义。此标记作为[C90标准的修正案于](https://zh.wikipedia.org/wiki/ANSI_C#C90 "wikilink")1995年增补。
 
 替代标记允许程序员使用[C语言按位和逻辑](https://zh.wikipedia.org/wiki/C语言 "wikilink")，原先的标记在一些[国际和非](https://zh.wikipedia.org/wiki/国际 "wikilink")[QWERTY键盘上很难输入](https://zh.wikipedia.org/wiki/QWERTY "wikilink")。根据[ISO/IEC 646标准实现的头文件有一些区域性的变化](https://zh.wikipedia.org/wiki/ISO/IEC_646 "wikilink")，其中一些用重音字符替换了C运算符使用的标点符号。

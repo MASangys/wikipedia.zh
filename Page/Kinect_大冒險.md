@@ -1,3 +1,6 @@
+> 本文内容由[Kinect 大冒險](https://zh.wikipedia.org/wiki/Kinect_大冒險)转换而来。
+
+
 《**Kinect 大冒險**》（）是一個於2010年[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[電子娛樂展覽上](https://zh.wikipedia.org/wiki/E3 "wikilink")\[1\]發佈的[Xbox 360](../Page/Xbox_360.md "wikilink")[冒險](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[體育類](https://zh.wikipedia.org/wiki/體育類遊戲 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，為Xbox 360[Kinect](../Page/Kinect.md "wikilink")套裝附贈遊戲，\[2\]由Good Science Studio開發，由[微软游戏工作室發佈](https://zh.wikipedia.org/wiki/微软游戏工作室 "wikilink")，共包含5種冒險及運動遊戲。\[3\]
 
 ## 遊戲系統
@@ -57,45 +60,37 @@
 
 ## 評價
 
-《Kinect 大冒險》獲得的評價好壞參半。[Metacritic](../Page/Metacritic.md "wikilink")得出此遊戲的分數為61/100分\[14\]，而[GameRankings則得出此遊戲的分數為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")65.39%。\[15\]
+《Kinect 大冒險》獲得的評價好壞參半。[Metacritic](../Page/Metacritic.md "wikilink")得出此遊戲的分數為61/100分\[14\]，而[GameRankings](../Page/GameRankings.md "wikilink")則得出此遊戲的分數為65.39%。\[15\]
 
-[IGN](../Page/IGN.md "wikilink")給予此遊戲6.5/10，稱讚其畫質和音效，但就批評遊戲太快完結。\[16\][Eurogamer](../Page/Eurogamer.md "wikilink")給予此遊戲6/10分，並批評其遊戲模式太少和吸引力不能持久。\[17\]《[Game Informer](../Page/Game_Informer.md "wikilink")》則給予此遊戲7.5/10分，稱讚其善用Kinect、高清的卡通化畫質和高可玩性。\[18\][GameSpot](../Page/GameSpot.md "wikilink")給予此遊戲7/10分，稱讚其良好的操作和遊戲難度繁多，但就批評遊戲種類太少和部份遊戲對玩家的要求太高。\[19\]《Xbox官方雜誌》給予此遊戲7/10分，稱讚遊戲令人愉快和具高吸引力，但仍然批評遊戲種類太少。\[20\]而電子遊戲脫口秀《[Good Game](https://zh.wikipedia.org/wiki/Good_Game "wikilink")》的兩位主持人則分別給予此遊戲6/10分和6.5/10分，稱讚其善用Kinect，但就批評遊戲不值得玩。\[21\]
+[IGN](../Page/IGN.md "wikilink")給予此遊戲6.5/10，稱讚其畫質和音效，但就批評遊戲太快完結。\[16\][Eurogamer](../Page/Eurogamer.md "wikilink")給予此遊戲6/10分，並批評其遊戲模式太少和吸引力不能持久。\[17\]《[Game Informer](../Page/Game_Informer.md "wikilink")》則給予此遊戲7.5/10分，稱讚其善用Kinect、高清的卡通化畫質和高可玩性。\[18\][GameSpot](../Page/GameSpot.md "wikilink")給予此遊戲7/10分，稱讚其良好的操作和遊戲難度繁多，但就批評遊戲種類太少和部份遊戲對玩家的要求太高。\[19\]《Xbox官方雜誌》給予此遊戲7/10分，稱讚遊戲令人愉快和具高吸引力，但仍然批評遊戲種類太少。\[20\]而電子遊戲脫口秀《[Good Game](https://zh.wikipedia.org/wiki/Good_Game "wikilink")》的兩位主持人則分別給予此遊戲6/10分和6.5/10分，稱讚其善用Kinect，但就批評遊戲不太耐玩。\[21\]
 
 ## 銷售
 
-作為一個附贈遊戲，《Kinect 大冒險》已售出了逾1800萬套遊戲，相比Kinect售出了2000萬部僅少了200萬。此遊戲是最暢銷的Xbox 360遊戲。\[22\]
+作為一個附贈遊戲，《Kinect 大冒險》當時售出了逾1800萬套遊戲，相比Kinect售出了2000萬部僅少了200萬。此遊戲是最暢銷的Xbox 360遊戲，於2013年確定銷出超過二千萬份遊戲。\[22\] \[23\]
 
 ## 參考文獻
 
 ## 外部連結
 
   - [官方網站](http://marketplace.xbox.com/en-US/Product/Kinect-Adventures/66acd000-77fe-1000-9115-d8024d5308ed)
-  - [《Kinect 大冒險》成就列表](http://123Kinect.com/Kinect-adventures-achievements/)
-  - [《Kinect 大冒險》新聞](http://123Kinect.com/tag/Kinect-adventures)
+  - [《Kinect 大冒險》成就列表](https://web.archive.org/web/20101103230620/http://123kinect.com/kinect-adventures-achievements/)
+  - [《Kinect 大冒險》新聞](https://web.archive.org/web/20120313050030/http://123kinect.com/tag/Kinect-adventures)
 
 [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:Kinect游戏](https://zh.wikipedia.org/wiki/Category:Kinect游戏 "wikilink") [Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:Xbox_360獨佔遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360獨佔遊戲 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:官方中文化游戏](https://zh.wikipedia.org/wiki/Category:官方中文化游戏 "wikilink")
 
 1.
 2.
-
 3.
-
 4.
-
 5.  [Kinect Adventures\! - Xbox.com](http://marketplace.xbox.com/en-US/Product/Kinect-Adventures/66acd000-77fe-1000-9115-d8024d5308ed)
-
 6.
-7.  [Kinect Adventures includes Online Multiplayer, Space Pop and 20,000 Leaks](http://123Kinect.com/Kinect-adventures-online-multiplaye/)
-
-8.  [exclusive interview science studio - 123KINECT](http://123Kinect.com/exclusive-interview-science-studio/2/)
-
+7.
+8.
 9.
-
 10.
 11.
 12.
 13. [Kinect for Xbox 360 All You Need is You](http://www.xbox.com/en-US/Kinect)
-
 14.
 15.
 16.
@@ -104,5 +99,5 @@
 19.
 20.
 21.
-
 22.  BGR|date=2013-02-12|accessdate=2013-02-27|work=BGR}}
+23. As of February 12, 2013, the [Kinect](../Page/Kinect.md "wikilink") sensor has sold 24 million units, BGR|date=2013-02-12|accessdate=2013-02-27|work=BGR}}each of which is bundled with a copy of Kinect Adventures.

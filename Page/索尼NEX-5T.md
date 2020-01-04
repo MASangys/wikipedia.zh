@@ -1,3 +1,6 @@
+> 本文内容由[索尼NEX-5T](https://zh.wikipedia.org/wiki/索尼NEX-5T)转换而来。
+
+
 **索尼 NEX-5T**是[索尼](../Page/索尼.md "wikilink")于2013年8月27日发布的一款[α品牌](https://zh.wikipedia.org/wiki/Sony_α "wikilink")[電子式取景可換鏡頭相機](https://zh.wikipedia.org/wiki/電子式取景可換鏡頭相機 "wikilink")。作为[索尼 NEX-5R的升级产品](https://zh.wikipedia.org/wiki/索尼_NEX-5R "wikilink")，在外观上NEX-5T与前者几乎完全相同。NEX-5T在NEX-5R的基础之上加入了[NFC功能](https://zh.wikipedia.org/wiki/NFC "wikilink")，因此在外观上除型号标识外仅比后者在手柄侧面多了一个近场通信标识。\[1\]
 
 ## 参考

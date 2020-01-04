@@ -1,3 +1,6 @@
+> 本文内容由[LG Optimus L9](https://zh.wikipedia.org/wiki/LG_Optimus_L9)转换而来。
+
+
 **LG Optimus L9**是[LGOptimus](../Page/LG集团.md "wikilink") L系列中的高階手機，是一台擁有[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")、搭載[Android](../Page/Android.md "wikilink")4.0版本的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，繼承[LG Optimus L7](https://zh.wikipedia.org/wiki/LG_Optimus_L7 "wikilink")，在2012年10月31日推出。該手機比L7有更強的規格及功能，如全高清1080p錄影、螢幕[解析度提高](https://zh.wikipedia.org/wiki/解析度 "wikilink")、RAM增至1GB及雙核處理器等等，而該手機可升級至4.1版本的Android。\[1\]
 
 ## 變種

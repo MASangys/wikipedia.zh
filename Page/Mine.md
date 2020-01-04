@@ -1,3 +1,6 @@
+> 本文内容由[Mine](https://zh.wikipedia.org/wiki/Mine)转换而来。
+
+
 「**Mine**」是[日本](../Page/日本.md "wikilink")的[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[河西智美](../Page/河西智美.md "wikilink")的第二张[单曲](../Page/单曲.md "wikilink")。将在2013年5月8日由发行。
 
 ## 概要

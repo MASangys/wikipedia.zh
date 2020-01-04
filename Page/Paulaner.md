@@ -1,3 +1,6 @@
+> 本文内容由[Paulaner](https://zh.wikipedia.org/wiki/Paulaner)转换而来。
+
+
 [Paulanersz.jpg](https://zh.wikipedia.org/wiki/File:Paulanersz.jpg "fig:Paulanersz.jpg")\]\] ，中文译作**宝隆纳**\[1\]、**宝莱纳**\[2\]或**柏龙**\[3\]，是一家[德国](../Page/德国.md "wikilink")[啤酒厂](https://zh.wikipedia.org/wiki/啤酒厂 "wikilink")，由纽德克奥博德欧（）[修道院](../Page/修道院.md "wikilink")的[修士于](https://zh.wikipedia.org/wiki/修士 "wikilink")1634年在[慕尼黑](../Page/慕尼黑.md "wikilink")创立。它以创始人[托钵修士弗朗西斯](../Page/托钵修会.md "wikilink")·德·宝拉（）的名字命名。自1810年起，Paulaner开始成为[慕尼黑啤酒节](../Page/慕尼黑啤酒节.md "wikilink")指定的6家供应商之一\[4\]。
 
 Paulaner目前在德国最畅销的[啤酒](../Page/啤酒.md "wikilink")中排名第八\[5\]。

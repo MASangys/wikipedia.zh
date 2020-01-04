@@ -1,3 +1,6 @@
+> 本文内容由[My盛Lady](https://zh.wikipedia.org/wiki/My盛Lady)转换而来。
+
+
 《**My盛Lady**》（）（台灣TVBS歡樂台播出的名稱是《**曠男勝女**》），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝喜劇[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[黃子華](../Page/黃子華.md "wikilink")、[徐子珊](../Page/徐子珊.md "wikilink")及[陳敏之](../Page/陳敏之.md "wikilink")領銜主演，並由[阮兆祥](../Page/阮兆祥.md "wikilink")、[許紹雄](../Page/許紹雄.md "wikilink")、[江美儀](../Page/江美儀.md "wikilink")、[高海寧](../Page/高海寧.md "wikilink")、[沈震軒](../Page/沈震軒.md "wikilink")、[林子善](../Page/林子善.md "wikilink")及[梁靖琪](../Page/梁靖琪.md "wikilink")聯合主演，監製為[文偉鴻](https://zh.wikipedia.org/wiki/文偉鴻 "wikilink")。本劇劇名中的「My盛」跟廣東話「賣剩」同音，同時「盛Lady」亦影射「剩女」，語帶[雙關](https://zh.wikipedia.org/wiki/雙關語 "wikilink")。
 
 於[萬千星輝頒獎典禮2013](../Page/萬千星輝頒獎典禮2013.md "wikilink")中，[黃子華](../Page/黃子華.md "wikilink")與[許紹雄](../Page/許紹雄.md "wikilink")分別憑此劇獲得最佳男主角獎及最佳男配角獎。
@@ -654,7 +657,7 @@ Paulala Beauty美容院老闆<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/徐玟晴.md" title="wikilink">徐玟晴</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1044,6 +1047,7 @@ Paulala Beauty美容院老闆<br />
 
 ## 記事
 
+  - 此劇「盛花蕾 」原定由[佘诗曼飾演](https://zh.wikipedia.org/wiki/佘诗曼 "wikilink")，因檔期問題辭演，後改由[徐子珊](../Page/徐子珊.md "wikilink")飾演。
   - 2013年5月28日：此劇舉行開鏡拜神儀式。
   - 2013年7月14日：此剧杀青。
 

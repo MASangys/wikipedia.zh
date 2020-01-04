@@ -1,3 +1,6 @@
+> 本文内容由[SBS 6](https://zh.wikipedia.org/wiki/SBS_6)转换而来。
+
+
 **SBS 6**是[荷兰](../Page/荷兰.md "wikilink")的一个商业性电视频道，由[Sanoma](https://zh.wikipedia.org/wiki/Sanoma "wikilink")（67%）和[塔尔珀传媒控股](https://zh.wikipedia.org/wiki/塔尔珀传媒控股 "wikilink")（33%）联合所有。集团在荷兰的其他频道有[NET 5和](../Page/NET_5.md "wikilink")[Veronica](../Page/Veronica_\(电视频道\).md "wikilink")。
 
 ## 历史

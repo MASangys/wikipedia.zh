@@ -1,3 +1,6 @@
+> 本文内容由[AJ·李](https://zh.wikipedia.org/wiki/AJ·李)转换而来。
+
+
 **愛波爾·珍妮特·曼德茲**（，），是一名[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[作家和退休的](https://zh.wikipedia.org/wiki/作家 "wikilink")[職業摔角](../Page/職業摔角.md "wikilink")[選手](https://zh.wikipedia.org/wiki/選手 "wikilink")，以在[WWE時期的擂台名](https://zh.wikipedia.org/wiki/WWE "wikilink")**AJ·李**（）而聞名。
 
 2015年4月3日，[WWE已證實AJ以選手身分引退](https://zh.wikipedia.org/wiki/WWE "wikilink")。

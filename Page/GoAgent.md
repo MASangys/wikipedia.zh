@@ -46,10 +46,6 @@ GoAgent依赖Google App Engine服务器，在发送请求、获取网页内容�
       - 在GoAgent 3.2.1版本之后这个漏洞得以修复。
   - GoAgent 本身对 TLS 证书的认证存在问题，而且默认时不对证书进行检查，这导致在使用 GoAgent 时存在 HTTPS 中间人攻击的风险。\[8\]
 
-### 对云服务的滥用
-
-在中国大陆，[防火长城](../Page/防火长城.md "wikilink")为了屏蔽GreatFire、GoAgent等项目而屏蔽了[Amazon S3](../Page/Amazon_S3.md "wikilink")、[Cloudflare](https://zh.wikipedia.org/wiki/Cloudflare "wikilink")、、等云服务产品，而且GreatFire、GoAgent等项目在客观上有滥用这些云服务用作翻牆伺服器的嫌疑。此外由於這些無辜的雲伺服器被牆，因而一些身处中国大陆的程序员表示，这些项目应该为这些云服务在中国大陆被封杀的现状承担责任。也有人认为GFW和[方濱興才应该为这些云服务在中国大陆被封杀的现状承担最大责任](https://zh.wikipedia.org/wiki/方濱興 "wikilink")。\[9\]
-
 ## 注意事项
 
 由於GoAgent所使用的[Google App Engine被认为可以作为开放式代理](../Page/Google_App_Engine.md "wikilink")，因此其使用的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[山景城](https://zh.wikipedia.org/wiki/山景城_\(加利福尼亞州\) "wikilink")[Google](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[數據中心的出口](https://zh.wikipedia.org/wiki/數據中心 "wikilink")[IP地址段会受到部分網站的封鎖或限制](https://zh.wikipedia.org/wiki/IP位址 "wikilink")（如对[維基百科只能瀏覽而不能編輯](https://zh.wikipedia.org/wiki/維基百科 "wikilink")），以防止恶意攻擊。
@@ -66,7 +62,7 @@ XX-Net是一个免费的桌面应用程序，是基于GoAgent的一个GUI图形�
 
 此項目旨在提供公共而開放的服務端供普通用戶使用，有GreatAgent-ga與GreatAgent-wp兩個版本，分別對應GoAgent與WallProxy這兩個常用的代理程式；除此之外，還提供配置好的[Firefox](../Page/Firefox.md "wikilink")，免去了用戶自行配置、調試的麻煩。
 
-目前，GreatAgent已部署830個適用於GoAgent的AppID和1210個適用於WallProxy的AppID，兩者在功能上有所不同。GreatAgent-ga版本僅支援Google的搜尋和[YouTube](../Page/YouTube.md "wikilink")的在線視訊，並且不支援中國大陸國內網站的訪問；而GreatAgent-wp則沒有上述限制，被稱為「電影 AppID」，意指其連線速率較快，但是抗干擾能力不佳。\[10\]
+目前，GreatAgent已部署830個適用於GoAgent的AppID和1210個適用於WallProxy的AppID，兩者在功能上有所不同。GreatAgent-ga版本僅支援Google的搜尋和[YouTube](../Page/YouTube.md "wikilink")的在線視訊，並且不支援中國大陸國內網站的訪問；而GreatAgent-wp則沒有上述限制，被稱為「電影 AppID」，意指其連線速率較快，但是抗干擾能力不佳。\[9\]
 
 ### GoAgent GUI
 
@@ -88,15 +84,15 @@ Smartladder是一个内置4947个AppID的GoAgent的打包版本集，包括单�
 
 枫叶香蕉是一个用[Delphi](../Page/Delphi.md "wikilink")语言编写的，基于GoAgent、[WallProxy等代理工具的代理客户端](https://zh.wikipedia.org/wiki/WallProxy "wikilink")。
 
-2014年11月4日，北京警方以“涉嫌寻衅滋事”为由抓捕了其主要维护者许东（OnionHacker）。据报道许东被抓捕和其推特发布支持占中言论有关，以及其推特发布的追求自由言论是其身陷囹圄的重要因素。之后，网络著名维权人士“超级低俗屠夫”在其推特发起募款行动，为其筹集律师费用。在民间维权力量积极活动和施压下，许东于2015年1月30日离开北京第一看守所，恢复自由，总共被关押89天.\[11\]。
+2014年11月4日，北京警方以“涉嫌寻衅滋事”为由抓捕了其主要维护者许东（OnionHacker）。据报道许东被抓捕和其推特发布支持占中言论有关，以及其推特发布的追求自由言论是其身陷囹圄的重要因素。之后，网络著名维权人士“超级低俗屠夫”在其推特发起募款行动，为其筹集律师费用。在民间维权力量积极活动和施压下，许东于2015年1月30日离开北京第一看守所，恢复自由，总共被关押89天.\[10\]。
 
-在许东被捕后，GoAgent 的主要贡献者之一phus.lu 在其[Twitter](../Page/Twitter.md "wikilink")中发表声明，称其“从未在 GoAgent 获得直接或间接的经济利益，也未接受过任何境外和境内组织的捐助；从未提供基于 GoAgent 的公共服务和政治看法”。phus.lu 解释到，在许东被捕后发表声明，是为了“以防万一”\[12\]。
+在许东被捕后，GoAgent 的主要贡献者之一phus.lu 在其[Twitter](../Page/Twitter.md "wikilink")中发表声明，称其“从未在 GoAgent 获得直接或间接的经济利益，也未接受过任何境外和境内组织的捐助；从未提供基于 GoAgent 的公共服务和政治看法”。phus.lu 解释到，在许东被捕后发表声明，是为了“以防万一”\[11\]。
 
 ## 停止维护
 
-2015年8月25日，在[Shadowsocks](../Page/Shadowsocks.md "wikilink")作者迫于警方压力删除其项目之后，GoAgent的开发者也删除了该项目。\[13\]
+2015年8月25日，在[Shadowsocks](../Page/Shadowsocks.md "wikilink")作者迫于警方压力删除其项目之后，GoAgent的开发者也删除了该项目。\[12\]
 
-GoAgent项目删除不久，[GitHub](../Page/GitHub.md "wikilink")即遭到了来自中国的[DDoS攻击](https://zh.wikipedia.org/wiki/DDoS "wikilink")。开发者普遍认为此次攻击与中国政府有关。\[14\]2015年8月28日，[电子前哨基金会](../Page/电子前哨基金会.md "wikilink")针对Shadowsocks和GoAgent被删除一事发表评论，对中国政府针对翻墙软件作者的打击表示了强烈的谴责。\[15\]
+GoAgent项目删除不久，[GitHub](../Page/GitHub.md "wikilink")即遭到了来自中国的[DDoS攻击](https://zh.wikipedia.org/wiki/DDoS "wikilink")。开发者普遍认为此次攻击与中国政府有关。\[13\]2015年8月28日，[电子前哨基金会](../Page/电子前哨基金会.md "wikilink")针对Shadowsocks和GoAgent被删除一事发表评论，对中国政府针对翻墙软件作者的打击表示了强烈的谴责。\[14\]
 
 ## 注释
 
@@ -125,5 +121,4 @@ GoAgent项目删除不久，[GitHub](../Page/GitHub.md "wikilink")即遭到了�
 11.
 12.
 13.
-14.
-15. <small>（[中文翻译](https://zh.wikipedia.org/wiki/s:Translation:Speech_that_Enables_Speech:_China_Takes_Aim_at_Its_Coders "wikilink")）</small>
+14. <small>（[中文翻译](https://zh.wikipedia.org/wiki/s:Translation:Speech_that_Enables_Speech:_China_Takes_Aim_at_Its_Coders "wikilink")）</small>

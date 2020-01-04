@@ -1,3 +1,6 @@
+> 本文内容由[Down Beat](https://zh.wikipedia.org/wiki/Down_Beat)转换而来。
+
+
 ***Down Beat***是一個致力於「[爵士](../Page/爵士.md "wikilink")、[藍調](../Page/藍調.md "wikilink")和超越」（jazz, blues and beyond）的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，最後一個單詞beyond表示其擴張、「超越」其前一年所獨家報導的爵士領域。該雜誌於1934年誕生於[伊利諾伊州](https://zh.wikipedia.org/wiki/伊利諾伊州 "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")，它以樂曲中第一個節拍（downbeat）命名。
 
 Down Beat雜誌每年都發表讀者及評論家對於各類型音樂中的排行統計。Down Beat爵士樂名人堂（The Down Beat Jazz Hall of Fame）獲獎者來自於讀者和評論家的投票。每年讀者的投票結果於十二月發佈，而評論家的統計則在八月發佈。

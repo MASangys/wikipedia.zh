@@ -1,3 +1,6 @@
+> 本文内容由[你正在看着夕阳吗？ \(JKT48单曲\)](https://zh.wikipedia.org/wiki/你正在看着夕阳吗？_\(JKT48单曲\))转换而来。
+
+
 《**你正在看着夕阳吗？**》（Yuuhi wo Miteiruka?）是[印度尼西亚](../Page/印度尼西亚.md "wikilink")女子偶像组合[JKT48](../Page/JKT48.md "wikilink")的第2张单曲唱片，于2013年7月3日由發行\[1\]。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《Yuuhi wo Miteiruka?》實際上就是姊妹團體[AKB48](../Page/AKB48.md "wikilink")的第6首單曲《[妳正在看著夕陽嗎？](../Page/妳正在看著夕陽嗎？.md "wikilink")》（），只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
 
 ## 概要

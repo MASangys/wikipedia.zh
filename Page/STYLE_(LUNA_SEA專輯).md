@@ -1,3 +1,6 @@
+> 本文内容由[STYLE \(LUNA SEA專輯\)](https://zh.wikipedia.org/wiki/STYLE_\(LUNA_SEA專輯\))转换而来。
+
+
 《**STYLE**》是由[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[月之海](../Page/月之海.md "wikilink")所發行的第5張錄音專輯，為月之海首次於發行當週登上[Oricon](../Page/Oricon.md "wikilink")專輯榜第一名的作品。
 
 ## 專輯名稱

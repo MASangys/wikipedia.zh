@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia L](https://zh.wikipedia.org/wiki/索尼Xperia_L)转换而来。
+
+
 **Sony Xperia L**是[Sony公司於](https://zh.wikipedia.org/wiki/Sony "wikilink")2013年發佈的中低階[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，主打攝影功能，相機用上 800 萬像素 Exmor RS + VGA 視訊相機的組合，支援 HDR 拍照與錄影，再加上實體快門鍵，可做到快速啟動快拍功能。於2013年5月推出。\[1\]
 
 ## 設計

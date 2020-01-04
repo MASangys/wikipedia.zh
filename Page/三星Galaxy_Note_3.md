@@ -1,4 +1,7 @@
-**Samsung Galaxy Note 3**是一款由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")所生產的一款建構於[安卓平台的高端大螢幕平板式](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")（[平板手機](https://zh.wikipedia.org/wiki/平板手機 "wikilink")），於2013年9月4日於[德國柏林](https://zh.wikipedia.org/wiki/德國 "wikilink")[IFA展上的三星產品發表會上發佈](../Page/柏林國際廣播展.md "wikilink")\[1\]。同期的最大競爭對手是Apple [iPhone 5及](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[HTC One (M7)](../Page/HTC_One_\(M7\).md "wikilink")。
+> 本文内容由[三星Galaxy Note 3](https://zh.wikipedia.org/wiki/三星Galaxy_Note_3)转换而来。
+
+
+**Samsung Galaxy Note 3**是一款由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")所生產的一款建構於[安卓平台的高端大螢幕平板式](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")（[平板手機](https://zh.wikipedia.org/wiki/平板手機 "wikilink")），於2013年9月4日於[德國柏林](https://zh.wikipedia.org/wiki/德國 "wikilink")[IFA展上的三星產品發表會上發佈](../Page/柏林國際廣播展.md "wikilink")\[1\]。同期的最大競爭對手是Apple [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")，[iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")，[HTC One (M7)及](../Page/HTC_One_\(M7\).md "wikilink")[Sony Xperia Z1](../Page/Sony_Xperia_Z1.md "wikilink")。
 
 繼承上一代機型（[Galaxy Note II](https://zh.wikipedia.org/wiki/Galaxy_Note_II "wikilink")），Note 3被設計成一部更輕巧的手機，背殼是[塑膠材質的以及擁有皮質的觸感](https://zh.wikipedia.org/wiki/塑膠 "wikilink")。
 
@@ -49,43 +52,24 @@ Note 3被曝出做工問題，部分Note 3的國外用家於網上抱怨自己�
 [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19. [Galaxy Note 3跑分作弊？其實幾乎所有Android廠商都在作弊啦！](http://www.chinatimes.com/realtimenews/Galaxy-Note-3跑分作弊？其實幾乎所有Android廠商都在作弊啦！-20131005001474-260412)
-
 20. [做工堪憂！Galaxy Note 3被曝Home鍵移位](http://digital.sina.com.hk/news/-7-1424298/1.html)
-
 21. [奧斯卡／12 大咖玩自拍 GALAXY S5、Note 3 成意外焦點](http://www.ettoday.net/news/20140303/330468.htm)
-
 22. [三星老梗 惹惱歐巴馬](http://www.appledaily.com.tw/appledaily/article/international/20140408/35752440/)

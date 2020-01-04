@@ -1,3 +1,6 @@
+> 本文内容由[Crunchyroll](https://zh.wikipedia.org/wiki/Crunchyroll)转换而来。
+
+
 **Crunchyroll**，簡稱**CR**，是美国的一家提供[东亚相关](https://zh.wikipedia.org/wiki/东亚 "wikilink")[流媒体](../Page/流媒体.md "wikilink")影视服务和国际交流社区的网站。
 
 ## 概要
@@ -104,6 +107,14 @@
   - 2月，宣布付費收視訂戶已破百萬\[21\]。
   - 3月，開始藉[Steam](../Page/Steam.md "wikilink")平台銷售線上動畫。
 
+<!-- end list -->
+
+  - 2018年
+
+<!-- end list -->
+
+  - 11月，Funimation取消合作，兩家不再交流影音作品提供各自訂戶收看。
+
 ## 網站標誌
 
 [File:Crunchyroll_oldlogo-1.png|開站時標識，被2008年版取代](File:Crunchyroll_oldlogo-1.png%7C開站時標識，被2008年版取代) [File:Crunchyroll_oldlogo-2.png|2008年啟用的標識，被現行標識取代](File:Crunchyroll_oldlogo-2.png%7C2008年啟用的標識，被現行標識取代) [File:Crunchyroll_logo_2012.png|2012年啟用的現行標識](File:Crunchyroll_logo_2012.png%7C2012年啟用的現行標識)
@@ -129,7 +140,7 @@
 1.
 2.  [Crunchyroll - shinji - Profile Info](http://www.crunchyroll.com/user/shinji)
 3.  [Interview: Crunchyroll's Vu Nguyen](http://www.animenewsnetwork.com/interview/2008-03-25/vu-nguyen). Anime News Network. 2008-03-25.
-4.   「Crunchy Roll」是一種美式壽司脆卷。
+4.   「Crunch roll」是一種美式壽司脆卷。
 5.  [Crunchyroll Pushes the Envelope On Video Copyright](http://techcrunch.com/2007/08/29/crunchyroll-pushes-the-envelope-on-video-copyright/). TechCrunch. 2007-08-29.
 6.  [Mr. Kun Gao](http://www.ict-summit.jp/2010/en/speakers/index.html#sp6b-4) . Global ICT Summit 2010.
 7.

@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸EA族引擎](https://zh.wikipedia.org/wiki/速霸陸EA族引擎)转换而来。
+
+
 **速霸陸EA族引擎**為[日本](../Page/日本.md "wikilink")[富士重工業在](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1966年至1994年之間開發製造的一系列[水平對臥四缸](../Page/水平對臥四缸引擎.md "wikilink")[汽油](../Page/汽油.md "wikilink")[往復式發動機](https://zh.wikipedia.org/wiki/往復式發動機 "wikilink")，此條目一併記述[速霸陸Alcyone](../Page/速霸陸Alcyone.md "wikilink")所搭載的ER27型[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")。
 
 ## 概要
@@ -166,9 +169,9 @@
 
 ## 參考資料
 
-  - [スバル：EA71型エンジン](http://greeco-channel.com/car/engine/subaru_eg/ea71/)
+  - [スバル：EA71型エンジン](https://web.archive.org/web/20131017190946/http://greeco-channel.com/car/engine/subaru_eg/ea71/)
 
-  - [スバル：EA82型エンジン](http://greeco-channel.com/car/engine/subaru_eg/ea82/)
+  - [スバル：EA82型エンジン](https://web.archive.org/web/20131017190623/http://greeco-channel.com/car/engine/subaru_eg/ea82/)
 
   - [日本の自動車技術240選：水平対向エンジンEA52 (スバル1000等搭載)](https://web.archive.org/web/20130310183024/http://jsae.or.jp/autotech/data/9-1.html)
 
@@ -183,4 +186,4 @@
 [Category:水平對臥引擎](https://zh.wikipedia.org/wiki/Category:水平對臥引擎 "wikilink") [Category:速霸陸引擎與技術](https://zh.wikipedia.org/wiki/Category:速霸陸引擎與技術 "wikilink") [Category:日本汽車技術240選](https://zh.wikipedia.org/wiki/Category:日本汽車技術240選 "wikilink")
 
 1.  請分別參看[日本の自動車技術240選：水平対向エンジンEA52 (スバル1000等搭載)](http://www.jsae.or.jp/autotech/data/9-1.html) 和[日本の自動車技術240選：EA-71](http://www.jsae.or.jp/autotech/data/9-6.html)兩個網頁。
-2.  詳請可參考[ＳＥＥＣ－Ｔ](http://www.geocities.jp/misamima90/t03.htm)。
+2.  詳請可參考[ＳＥＥＣ－Ｔ](http://www.geocities.jp/misamima90/t03.htm) 。

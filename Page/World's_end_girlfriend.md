@@ -1,3 +1,6 @@
+> 本文内容由[World\'s end girlfriend](https://zh.wikipedia.org/wiki/World\'s_end_girlfriend)转换而来。
+
+
 **world's end girlfriend（[日语](../Page/日语.md "wikilink")：ワールズ・エンド・ガールフレンド）**是由[日本](../Page/日本.md "wikilink")[前卫](https://zh.wikipedia.org/wiki/前卫 "wikilink")[音乐人](https://zh.wikipedia.org/wiki/音乐人 "wikilink")**[前田胜彦](https://zh.wikipedia.org/wiki/前田胜彦 "wikilink")（Katsuhiko Maeda）**组建的单人[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，简称“**WEG**”。 __FORCETOC__
 
 ## 概述
@@ -1194,59 +1197,33 @@ world's end girlfriend名义</p></td>
 [Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink") [Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink") [Category:后摇滚乐团](https://zh.wikipedia.org/wiki/Category:后摇滚乐团 "wikilink") [Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:電子音樂家](https://zh.wikipedia.org/wiki/Category:電子音樂家 "wikilink") [Category:1975年出生](https://zh.wikipedia.org/wiki/Category:1975年出生 "wikilink") [Category:日本音樂製作人](https://zh.wikipedia.org/wiki/Category:日本音樂製作人 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
 
 1.  原名Richard David James，来自[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")，从[20世纪80年代中后期开始活跃至今的](https://zh.wikipedia.org/wiki/20世纪80年代 "wikilink")[电子音乐大师](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")。
-
 2.  [world's end girlfriend－Last.fm](http://www.lastfm.jp/music/world's+end+girlfriend)
-
 3.  [world's end girlfriend－Erased Tapes Records](http://www.erasedtapes.com/artists/biography/15/World's+End+Girlfriend)  及 [world's end girlfriend－F.R.D Record](http://frdrecord.com/artist/artist_07.html)
-
 4.  日本[电子音乐人](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[编曲家](https://zh.wikipedia.org/wiki/编曲家 "wikilink")，1992年开始以[嘻哈](../Page/嘻哈.md "wikilink")组合News From Street Connection的成员身份活动，1998年单人出道，创有F.R.D Record、op.disc等厂牌。
-
 5.  原名[中尾真人](https://zh.wikipedia.org/wiki/中尾真人 "wikilink")，[流行乐](https://zh.wikipedia.org/wiki/流行乐 "wikilink")[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")。
-
 6.  Sónar于每年6月第三周在[西班牙](../Page/西班牙.md "wikilink")[巴塞罗那举办](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")，是一个前卫音乐与[新媒体](https://zh.wikipedia.org/wiki/新媒体 "wikilink")[艺术](../Page/艺术.md "wikilink")的音乐节，吸引全球[先锋派](https://zh.wikipedia.org/wiki/先锋派 "wikilink")、[实验派艺术家参加](https://zh.wikipedia.org/wiki/实验音乐 "wikilink")。
-
 7.  电影《[おそいひと](https://zh.wikipedia.org/wiki/おそいひと "wikilink")》于2004年，在第五届[东京FILMeX国际电影节上首映](https://zh.wikipedia.org/wiki/东京FILMeX国际电影节 "wikilink")，但因引起争议未能在国内上映。2005年开始在众多[国际](https://zh.wikipedia.org/wiki/国际 "wikilink")[电影节](../Page/电影节.md "wikilink")中获得好评，2007年12月1日再次“回归”日本，于[东京](../Page/东京.md "wikilink")ポレポレ東中野[电影院上映后](https://zh.wikipedia.org/wiki/电影院 "wikilink")，终于迎来全国公映。之后还以《LATE BLOOMER》的英文译名在[北美上映](https://zh.wikipedia.org/wiki/北美 "wikilink")，并发行DVD。
-
 8.  来自[美国](../Page/美国.md "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[旧金山](../Page/旧金山.md "wikilink")的后摇乐队。
-
 9.  来自[美国](../Page/美国.md "wikilink")[俄勒冈州](../Page/俄勒冈州.md "wikilink")[波特兰的后摇乐队](https://zh.wikipedia.org/wiki/波特兰 "wikilink")。
-
 10. All Tomorrow's Parties Festival于1999年在[英国创办](https://zh.wikipedia.org/wiki/英国 "wikilink")，汇聚了[后摇](https://zh.wikipedia.org/wiki/后摇滚 "wikilink")、[先锋](https://zh.wikipedia.org/wiki/前卫 "wikilink")、[独立](https://zh.wikipedia.org/wiki/独立音乐 "wikilink")、[地下说唱等另类音乐界精英](../Page/另类嘻哈.md "wikilink")。
-
 11. 电影《[空気人形](https://zh.wikipedia.org/wiki/空気人形 "wikilink")》改编自[业田良家的漫画原作](https://zh.wikipedia.org/wiki/业田良家 "wikilink")《ゴーダ哲学堂 空気人形》，于2009年5月14日，在[第62届戛纳电影节](../Page/第62届戛纳电影节.md "wikilink")的“一种注目”单元中上映后，受到业界好评，同年9月26日于日本正式公映。
-
 12. [OTOTOY－world's end girlfriendの革新的挑戦\! division series遂に完結\!](http://ototoy.jp/feature/20100620)
-
 13. 由world's end girlfriend创立的厂牌，旗下音乐人包括world's end girlfriend、[matryoshka](https://zh.wikipedia.org/wiki/matryoshka "wikilink")、[about tess](https://zh.wikipedia.org/wiki/about_tess "wikilink")、[夢中夢](https://zh.wikipedia.org/wiki/夢中夢 "wikilink")、[Ryoma Maeda](https://zh.wikipedia.org/wiki/Ryoma_Maeda "wikilink")、[Joseph Nothing Orchestra](https://zh.wikipedia.org/wiki/Joseph_Nothing_Orchestra "wikilink")、[KASHIWA Daisuke](https://zh.wikipedia.org/wiki/KASHIWA_Daisuke "wikilink")、[Go-qualia](https://zh.wikipedia.org/wiki/Go-qualia "wikilink")、[XINLISUPREME](https://zh.wikipedia.org/wiki/XINLISUPREME "wikilink")、[N-qia](https://zh.wikipedia.org/wiki/N-qia "wikilink")、[bronbaba等](https://zh.wikipedia.org/wiki/bronbaba "wikilink")。
-
 14.
 15. 电影《[星空（Starry Starry Night）](https://zh.wikipedia.org/wiki/星空_\(2011年电影\) "wikilink")》改编自[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")[几米的同名](https://zh.wikipedia.org/wiki/几米 "wikilink")[绘本](https://zh.wikipedia.org/wiki/绘本 "wikilink")《星空》，由[中国大陆](../Page/中国大陆.md "wikilink")、台湾联合出品，于2011年11月3日、4日在[中国大陆](https://zh.wikipedia.org/wiki/中国 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳门](https://zh.wikipedia.org/wiki/澳门 "wikilink")、台湾、[新加坡](../Page/新加坡.md "wikilink")等地陆续上映。
-
 16. 协助WEG完成现场演出的乐队，双鼓+双吉他+萨克斯风 阵容。[LIQUIDROOM](http://www.liquidroom.net/livereport/947/)
-
 17. [world's end girlfriend | The Towering information](http://www.worlds-end-girlfriend.org/tower/index.html)
-
 18. 日本[民谣](https://zh.wikipedia.org/wiki/民谣 "wikilink")[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")、[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")，除了《Storytelling, Again》，也曾参与《Starry Starry Night soundtrack》一些作品的人声部分。
-
 19. 协助WEG完成现场演出的乐队，小提琴+大提琴+萨克斯风+贝斯+吉他+架子鼓 阵容。[LIQUIDROOM](http://www.liquidroom.net/livereport/947/)
-
 20. [world's end girlfriend－noble](http://www.noble-label.net/artist/?ja&weg) 及 [world's end girlfriend | Polyphony Discograpy "Other Works"](http://www.worlds-end-girlfriend.org/virgin/index.html)
-
 21.
 22.
 23. 所有《Xmas Song》版本的免费配信，无论是OTOTOY还是VBR，均维持一个月左右，到当年12月底为止。
-
 24.
 25. [HARDCORE LIFE presented By GUHROOVY](http://www.guhroovy.com/blog/archives/2007/09/dj_cd.html)
-
 26. [キラキラジブリ One in a million－Happinet Music Web](http://happinet-p.com/jp2/music/special/080701_3.html)
-
 27. [ナタリー - 112組参加の震災救済支援コンピ「Play for Japan」配信](http://natalie.mu/music/news/46414)
-
 28. [ナタリー - 澁澤龍彦の遺作を石橋英子、Ametsub、wegらが音で表現](http://natalie.mu/music/news/58069)
-
 29. [Virgin Babylon Records | Unsupermaket](http://www.virgin-babylon-records.com/unsupermarket/music_020.html)
-
 30. [wegからのサンプリングのみで作られたアルバム無料配信](http://www.virgin-babylon-records.com/)
-
 31. 在VBR官方网店[Unsupermarket购买过产品的顾客均会收到这封邮件](https://zh.wikipedia.org/wiki/Unsupermarket "wikilink")。

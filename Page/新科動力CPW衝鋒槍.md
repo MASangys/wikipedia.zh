@@ -35,6 +35,7 @@ CPW的[機匣上下整合了共兩條](https://zh.wikipedia.org/wiki/機匣 "wik
   - [FN P90衝鋒槍](../Page/FN_P90衝鋒槍.md "wikilink")
   - [FN PS90半自動卡賓槍](../Page/FN_PS90半自動卡賓槍.md "wikilink")
   - [AR-57卡賓槍](../Page/AR-57卡賓槍.md "wikilink")
+  - [儒格57半自動手槍](https://zh.wikipedia.org/wiki/儒格57半自動手槍 "wikilink")
   - [HK MP7衝鋒槍](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")
   - [斯泰爾TMP衝鋒槍](../Page/斯泰爾TMP衝鋒槍.md "wikilink")
   - [B\&T MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")

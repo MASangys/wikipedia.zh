@@ -11,7 +11,7 @@
 
 ## 工具
 
-目前最广泛利用的zergRush漏洞必须在[adb](https://zh.wikipedia.org/wiki/Android_adb "wikilink") shell下运行\[5\]，而adb shell只能将手机用USB数据线与PC连接之后才能開啟，因此常用的Root工具都是PC程式，透過Android系统的adb shell运行漏洞利用程序。亦有部分工具能直接在Android设备上运行。
+目前最广泛利用的zergRush漏洞必须在[adb](../Page/Android调试桥.md "wikilink") shell下运行\[5\]，而adb shell只能将手机用USB数据线与PC连接之后才能開啟，因此常用的Root工具都是PC程式，透過Android系统的adb shell运行漏洞利用程序。亦有部分工具能直接在Android设备上运行。
 
 部分用戶已開發Android设备上直接运行的Root工具。通常只对部分系统或机型适用，部分用户會無法成功Root或效果不佳。程式通常簡易操作，不需親自執行，但同時也帶來強制安裝授權管理軟體，並間接剝奪授權自由等問題。
 

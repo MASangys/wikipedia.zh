@@ -1,3 +1,6 @@
+> 本文内容由[Fight](https://zh.wikipedia.org/wiki/Fight)转换而来。
+
+
 《**fight**》是日本歌手[YUI](../Page/YUI.md "wikilink")的第21张\[1\]单曲，亦是迄今为止其以YUI个人名义所发行的最后一张新单曲。2012年9月5日由[gr8\!records发售](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概述

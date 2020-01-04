@@ -1,3 +1,6 @@
+> 本文内容由[Message \(MYNAME單曲\)](https://zh.wikipedia.org/wiki/Message_\(MYNAME單曲\))转换而来。
+
+
 「**Message**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第1張數位[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年10月28日由[H2media發售](https://zh.wikipedia.org/wiki/H2media "wikilink")。
 
 ## 概要

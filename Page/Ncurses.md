@@ -1,3 +1,6 @@
+> 本文内容由[Ncurses](https://zh.wikipedia.org/wiki/Ncurses)转换而来。
+
+
 **`ncurses`**（**n**ew **curses**）是一个[程序库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，它提供了[API](../Page/应用程序接口.md "wikilink")，可以允许程序员编写独立于终端的。它是一个[虚拟终端](../Page/虚拟终端.md "wikilink")中的“类[GUI](../Page/图形用户界面.md "wikilink")”[应用软件工具箱](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它还优化了屏幕刷新方法，以减少使用远程[shell时遇到的](../Page/Unix_shell.md "wikilink")[延迟](../Page/延迟_\(工程学\).md "wikilink")。
 
 ## 历史
@@ -92,25 +95,17 @@ Ncurses是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikil
 
 1.
 2.
-
 3.
 4.
-
 5.
 6.
 7.  The [README](https://zh.wikipedia.org/wiki/README "wikilink") file in ncurses 1.8.1 states "v0.1 July 31, 1992" and "v1.8.1 November 5, 1993", which agrees with the [NEWS (changelog) file](http://invisible-island.net/ncurses/NEWS.gz)
-
 8.  [NCURSES - Frequently Asked Questions (FAQ): Who wrote NCURSES?](http://invisible-island.net/ncurses/ncurses.faq.html#who_did_it)
-
 9.
 10. [A Hacker's Guide to Ncurses Internals](http://invisible-island.net/ncurses/hackguide.html#abstract)
-
 11.
-
 12. [NCURSES - Frequently Asked Questions (FAQ): Is it GPL'd?](http://invisible-island.net/ncurses/ncurses.faq.html#is_it_gpl)
-
 13.
 14.
 15.
-
 16.

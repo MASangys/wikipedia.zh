@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸EK族引擎](https://zh.wikipedia.org/wiki/速霸陸EK族引擎)转换而来。
+
+
 **速霸陸EK族引擎**為[日本](../Page/日本.md "wikilink")[富士重工業早期](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")（1960年代至1980年代）開發製造、搭載於[輕型車](../Page/輕型車.md "wikilink")的直列二缸[汽油](../Page/汽油.md "wikilink")[往復式發動機](https://zh.wikipedia.org/wiki/往復式發動機 "wikilink")。自1958年該公司以[速霸陸360](../Page/速霸陸360.md "wikilink")切入[汽車市場起](https://zh.wikipedia.org/wiki/汽車 "wikilink")，該族引擎曾為旗下輕型車的主要動力來源，並發展出[氣冷式](https://zh.wikipedia.org/wiki/氣冷式引擎 "wikilink")、水冷式、[二衝程](../Page/两冲程循环.md "wikilink")、[四衝程等型式](../Page/四冲程循环.md "wikilink")；甚至到1980年代後期配合[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")及[機械增壓器以榨出更大的動力](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")，對接手的[速霸陸EN族引擎](../Page/速霸陸EN族引擎.md "wikilink")產生重大影響。
 
 ## EK31型
@@ -131,8 +134,8 @@
 
 [Category:活塞發動機](https://zh.wikipedia.org/wiki/Category:活塞發動機 "wikilink") [Category:速霸陸引擎與技術](https://zh.wikipedia.org/wiki/Category:速霸陸引擎與技術 "wikilink")
 
-1.  參考[スバル360 52型](http://www.nipponstyle.jp/exhibition/spot8/kata_052g.html)。
+1.  參考[スバル360 52型](http://www.nipponstyle.jp/exhibition/spot8/kata_052g.html) 。
 2.  參看[The Story of the Subaru 360 in Australia](http://www.mysubaru360.com/Subaru_360s_in_Australia.html)，第四段。
 3.  參看[スバル博物館：スバルR2](http://members.subaru.jp/know/museum/subarur2/01.php)，「エンジン・システム　強制空冷2サイクル2気筒」之段落。
 4.  在引擎內加裝防鏽閥門以抑制噪音，詳情見[スバルＩＳＶ](http://www.geocities.jp/misamima90/t01.htm)內文。
-5.  詳請可參考[ＳＥＥＣ－Ｔ](http://www.geocities.jp/misamima90/t03.htm)。
+5.  詳請可參考[ＳＥＥＣ－Ｔ](http://www.geocities.jp/misamima90/t03.htm) 。

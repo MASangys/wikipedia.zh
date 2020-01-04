@@ -1,3 +1,6 @@
+> 本文内容由[VP9](https://zh.wikipedia.org/wiki/VP9)转换而来。
+
+
 **VP9**是[谷歌公司为了替换老旧的](../Page/Google.md "wikilink")[VP8](../Page/VP8.md "wikilink")影像编码格式并与[动态专家图像组（MPEG）主導的](../Page/MPEG.md "wikilink")[高效率视频编码（H.265/HEVC）競爭所開發的免费](https://zh.wikipedia.org/wiki/High_Efficiency_Video_Coding "wikilink")、开源的影像編碼格式。
 
 VP9主要被用於Google旗下著名的影音分享網站[YouTube](../Page/YouTube.md "wikilink")。\[1\]\[2\]VP9一般与[Opus音频编码一起以](https://zh.wikipedia.org/wiki/Opus_codec "wikilink")[WebM](../Page/WebM.md "wikilink")格式封裝。\[3\]
@@ -55,36 +58,20 @@ VP9標準支援四種編碼格式設定（Profiles）：profile 0、profile 1、
 [Category:视频编解码器](https://zh.wikipedia.org/wiki/Category:视频编解码器 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:电脑术语](https://zh.wikipedia.org/wiki/Category:电脑术语 "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 
 1.  Alex Converse (Google), 19 September 2015: \[//www.youtube.com/watch?v=gkz1ZvejmEc New video compression techniques under consideration for VP10\] – presentation at the VideoLAN Dev Days 2015 in Paris
-
 2.  Anja Schmoll-Trautmann (CNET), April 8, 2015: \[//www.cnet.de/88148309/ Youtube: Kompression mit Codec VP9 gestartet\] (german)
-
 3.
-
 4.
-
 5.
-
 6.  [VP8 Bitstream Specification License](https://www.webmproject.org/license/bitstream/)
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15. [1](https://www.mozilla.org/en-US/firefox/28.0/releasenotes/)
-
 16.
-
 17.
-
 18.

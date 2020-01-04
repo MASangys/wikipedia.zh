@@ -1,3 +1,6 @@
+> 本文内容由[英雄本色II](https://zh.wikipedia.org/wiki/英雄本色II)转换而来。
+
+
 《**英雄本色II**》（）是一部1987年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，[吳宇森執導](https://zh.wikipedia.org/wiki/吳宇森 "wikilink")，為《英雄本色系列》中的第二部。
 
 ## 劇情
@@ -57,7 +60,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/香港電影金像獎最佳動作設計" title="wikilink">最佳動作設計</a></p></td>
+<td><p><a href="../Page/香港電影金像獎最佳動作設計.md" title="wikilink">最佳動作設計</a></p></td>
 <td><p><a href="../Page/程小東.md" title="wikilink">程小東</a></p></td>
 <td></td>
 <td></td>

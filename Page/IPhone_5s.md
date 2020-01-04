@@ -1,6 +1,9 @@
+> 本文内容由[IPhone 5s](https://zh.wikipedia.org/wiki/IPhone_5s)转换而来。
+
+
 **iPhone 5s**是美國[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2013年9月推出的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，是第七代[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
 
-iPhone 5s搭載[iOS 7作為](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，手機外觀與硬體方面則首次新增了金色選項，內部電池略為增加到1560毫安时，與全新相機鏡頭（但未提升像素，僅改良使感光面積增大）、雙色閃光燈（True Tone）、新一代[Apple A7處理器](../Page/Apple_A7.md "wikilink")、並且是全球首部採用[64位元](../Page/64位元.md "wikilink")處理器的智慧型手機。\[1\]\[2\]此外增加iOS系列硬體第一次採用，也是業界最先使用的專利按壓式[指紋辨識](https://zh.wikipedia.org/wiki/指紋辨識 "wikilink")（touch finger print）功能。
+iPhone 5s搭載[iOS 7作為](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，手機外觀與硬體方面則首次新增金色選項，內部電池略為增加到1560毫安时，與全新相機鏡頭（但未提升像素，僅改良使感光面積增大）、雙色閃光燈（True Tone）、新一代[Apple A7處理器](../Page/Apple_A7.md "wikilink")、並且是全球首部採用[64位元](../Page/64位元.md "wikilink")處理器的智慧型手機。\[1\]\[2\]此外增加iOS系列硬體第一次採用，也是業界最先使用的專利按壓式[指紋辨識](https://zh.wikipedia.org/wiki/指紋辨識 "wikilink")（touch finger print）功能。
 
 iPhone 5s及[iPhone 5c在開售後首三日共錄得九百萬破紀錄銷量](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")\[3\]。
 
@@ -10,9 +13,7 @@ iPhone 5s及[iPhone 5c在開售後首三日共錄得九百萬破紀錄銷量](ht
 
 iPhone 5s 搭載採用[64 位元架構的](https://zh.wikipedia.org/wiki/64_位元 "wikilink")[Apple A7處理器](../Page/Apple_A7.md "wikilink")，可向下相容 [32 位元](https://zh.wikipedia.org/wiki/32_位元 "wikilink") 的應用程式（在更新至 iOS 11 後，对 32 位元的應用程式的支持已被删除），並支持 [OpenGL ES](../Page/OpenGL_ES.md "wikilink") 3.0。\[4\]官方指A7處理器比上一代的A6處理器快兩倍。\[5\]
 
-### 触控 ID (Touch ID)
-
-由於蘋果公司於2012年7月收購指紋感應器製造商 AuthenTec，因此在正式发布之前已經有媒體猜測下一代 iPhone 有[指紋識別功能](https://zh.wikipedia.org/wiki/指紋識別 "wikilink")\[6\]。在发布會上確認指纹识别器的名字为[Touch ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")，並被裝嵌在被[蓝宝石](../Page/蓝宝石.md "wikilink")[水晶覆盖之下的Home键中](https://zh.wikipedia.org/wiki/水晶 "wikilink")。識別器具有500[ppi的扫描精度](../Page/每英寸像素.md "wikilink")，指纹資料會被存储在A7处理器的一个獨立安全区（Secure Enclave）内，任何软件都无权限访问，且永遠不會被備份至蘋果[伺服器或](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")。
+Touch ID= 由於蘋果公司於2012年7月收購指紋感應器製造商 AuthenTec，因此在正式发布之前已經有媒體猜測下一代 iPhone 有[指紋識別功能](https://zh.wikipedia.org/wiki/指紋識別 "wikilink")\[6\]。在发布會上確認指纹识别器的名字为[Touch ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")，並被裝嵌在被[蓝宝石](../Page/蓝宝石.md "wikilink")[水晶覆盖之下的Home键中](https://zh.wikipedia.org/wiki/水晶 "wikilink")。識別器具有500[ppi的扫描精度](../Page/每英寸像素.md "wikilink")，指纹資料會被存储在A7处理器的一个獨立安全区（Secure Enclave）内，任何软件都无权限访问，且永遠不會被備份至蘋果[伺服器或](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")。
 
 依照測試，[貓掌的生物特徵也可以讓触控](https://zh.wikipedia.org/wiki/貓 "wikilink") ID (Touch ID) 辨識。\[7\]
 

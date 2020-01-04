@@ -970,9 +970,9 @@
 <td><p>|</p></td>
 <td><p>拉斐爾·納達爾 (8)*</p></td>
 <td></td>
-<td></td>
-<td><p>2</p></td>
-<td><p><strong>198</strong></p></td>
+<td><p>現今</p></td>
+<td><p>8</p></td>
+<td><p><strong>206</strong></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1027,7 +1027,7 @@
 <tr class="even">
 <td><p>6.</p></td>
 <td><p>拉斐爾·納達爾 +</p></td>
-<td><p><strong>198</strong></p></td>
+<td><p><strong>206</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>

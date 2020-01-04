@@ -1,12 +1,15 @@
-**B\&T APC**（）是一系列由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")的（簡稱：B\&T或B+T）公司設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")。APC9發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，而APC45發射[.45 ACP口徑手枪子彈](../Page/.45_ACP.md "wikilink")。APC的英文全寫為「」，[中文意為](../Page/汉语.md "wikilink")「先進警用[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")」。
+> 本文内容由[B\&T APC衝鋒槍](https://zh.wikipedia.org/wiki/B\&T_APC衝鋒槍)转换而来。
+
+
+**B\&T APC**（）是一系列由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")的（簡稱：B\&T或B+T）公司設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")。APC9發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，而APC45則發射[.45 ACP口徑手枪子彈](../Page/.45_ACP.md "wikilink")。APC的英文全寫為「」，[中文意為](../Page/汉语.md "wikilink")「先進警用[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")」。
 
 ## 歷史
 
-整個APC系列的設計原因是，世界仍然需要一款介於[個人防衛武器](../Page/個人防衛武器.md "wikilink")與5.56 毫米[突击步枪](../Page/突击步枪.md "wikilink")之間、最先進的9 毫米警用卡賓槍或衝鋒槍。
+整個APC系列的設計原因是，世界仍然需要一款介於[個人防衛武器](../Page/個人防衛武器.md "wikilink")與5.56 毫米[突击步枪](../Page/突击步枪.md "wikilink")之間、最先進的9毫米警用卡賓槍或衝鋒槍。
 
-在輕武器市場，保障產品性能的前提下，價格競爭力成為公司賴以生存的法寶。目前國際市場上9 毫米槍彈的種類繁多，價格也很便宜，令9 毫米口徑武器在各國警察中裝備量很大。
+在輕武器市場，保障產品性能的前提下，價格競爭力成為公司賴以生存的法寶。目前國際市場上9毫米槍彈的種類繁多，價格也很便宜，令9 毫米口徑武器在各國警察中裝備量很大。
 
-瑞士公司自從生產[B\&T MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")（該槍亦具有作為個人防衞武器的能力）以來，在這個課題上已經獲得了豐富的經驗，並從許多客戶獲得反饋意見。從反饋意見所得知，無論是一把9 毫米[手枪](../Page/手枪.md "wikilink")、[冲锋枪](../Page/冲锋枪.md "wikilink")或[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，很多認為已經是現代化的9 毫米子彈事實上已經遠遠過時。在這些類別中，其他具有競爭力的產品如非一些使用[衝壓](../Page/衝壓.md "wikilink")件，就是使用金屬加工的老舊設計，導致武器沉重而昂貴。另一方面，不少其他的衝鋒槍產品最初就是由大口徑開始生產，導致衝鋒槍的尺寸可與5.56 毫米突擊步槍相比。\[1\]
+瑞士公司自從生產[B\&T MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")（該槍亦具有作為個人防衞武器的能力）以來，在這個課題上已經獲得了豐富的經驗，並從許多客戶獲得反饋意見。從反饋意見所得知，無論是一把9毫米[手枪](../Page/手枪.md "wikilink")、[冲锋枪](../Page/冲锋枪.md "wikilink")或[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，很多認為已經是現代化的9毫米子彈事實上已經遠遠過時。在這些類別中，其他具有競爭力的產品如非一些使用[衝壓](../Page/衝壓.md "wikilink")件，就是使用金屬加工的老舊設計，導致武器沉重而昂貴。另一方面，不少其他的衝鋒槍產品最初就是由大口徑開始生產，導致衝鋒槍的尺寸可與5.56 毫米突擊步槍相比。\[1\]
 
 於是，在[图恩](../Page/图恩.md "wikilink")的布鲁加&托梅公司在2011年為其客戶生產及提供了一種新武器，B\&T APC警用衝鋒槍。
 
@@ -120,6 +123,7 @@ APC556突擊步槍型是APC9衝鋒槍的[5.56×45毫米](../Page/5.56×45mm_NATO
   - [FAMAE SAF衝鋒槍](../Page/FAMAE_SAF衝鋒槍.md "wikilink")
   - [HK UMP衝鋒槍](../Page/HK_UMP衝鋒槍.md "wikilink")
   - [KRISS Vector衝鋒槍](../Page/KRISS_Vector衝鋒槍.md "wikilink")
+  - [Pindad PM2衝鋒槍](../Page/Pindad_PM2衝鋒槍.md "wikilink")
   - [PP-19野牛冲锋枪](../Page/PP-19野牛冲锋枪.md "wikilink")
   - [PP-19-01勇士衝鋒槍](../Page/PP-19-01勇士衝鋒槍.md "wikilink")
   - [PPSh-41和](../Page/PPSh-41冲锋枪.md "wikilink")[PPS-43](https://zh.wikipedia.org/wiki/PPS冲锋枪 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")
@@ -149,10 +153,10 @@ APC556突擊步槍型是APC9衝鋒槍的[5.56×45毫米](../Page/5.56×45mm_NATO
 
   -   - 2011年12月下號：[布鲁加-托梅公司轻武器展](https://web.archive.org/web/20140226071350/http://wap.139sz.cn/read/article.php?id=179091&all=1)（B\&T APC9、APC45）
       - 2012年3月上號：[瑞士B-T公司 APC警用冲锋枪](http://mall.cnki.net/magazine/Article/QBQI201205001.htm)（B\&T APC9）
-      - 2013年3月上號：[第七届GPEC展览会轻武器精选](http://www.xzbu.com/8/view-3970938.htm)（B\&T APC223）
+      - 2013年3月上號：[第七届GPEC展览会轻武器精选](https://web.archive.org/web/20140301105016/http://www.xzbu.com/8/view-3970938.htm)（B\&T APC223）
       - 2014年2月上號：瑞士B\&T武器公司APC系列冲锋枪（B\&T APC9、APC45）
-      - 2014年3月下號：[第十八届MILIPOL巴黎国际军警装备展览会呈送](http://www.xzbu.com/8/view-4926313.htm)（B\&T APC300）
-      - 2014年4月下號：[2014IWA展会新品汇（上）](http://www.xzbu.com/8/view-5642605.htm)（B\&T APC556）
+      - 2014年3月下號：[第十八届MILIPOL巴黎国际军警装备展览会呈送](https://web.archive.org/web/20140331191503/http://www.xzbu.com/8/view-4926313.htm)（B\&T APC300）
+      - 2014年4月下號：[2014IWA展会新品汇（上）](https://web.archive.org/web/20140714125645/http://www.xzbu.com/8/view-5642605.htm)（B\&T APC556）
       - 2015年4月上號：[瑞士B\&T公司APC556步枪](http://mall.cnki.net/magazine/Article/QBQI201507002.htm)（B\&T APC556）
 
 <!-- end list -->
@@ -223,9 +227,6 @@ APC556突擊步槍型是APC9衝鋒槍的[5.56×45毫米](../Page/5.56×45mm_NATO
 11.
 12.
 13. [The Firearm Blog—B\&T APC9 Submachine Gun](http://www.thefirearmblog.com/blog/2011/10/25/bt-apc9-submachine-gun/) Retrieved on April 26, 2013.
-
 14. [The Firearm Blog—B\&T APC9 Civilian Model](http://www.thefirearmblog.com/blog/2012/03/01/bt-apc9-civilian-model/) Retrieved on April 26, 2013.
-
 15.
-
 16.

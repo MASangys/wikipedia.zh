@@ -1,4 +1,7 @@
-**BOB芭比**，台灣雙人女子組合，一般通稱**芭比**，由大芭比（[安苡葳](https://zh.wikipedia.org/wiki/安苡葳 "wikilink")）與小芭比（[張辰瑀](https://zh.wikipedia.org/wiki/張辰瑀 "wikilink")）組成；前身為**櫻桃姐妹**，1996年出道並與[黃西田](../Page/黃西田.md "wikilink")演唱台語歌曲\[1\]，並於2000年改名，是少數國台語都有出專輯的歌手。
+> 本文内容由[BOB芭比](https://zh.wikipedia.org/wiki/BOB芭比)转换而来。
+
+
+**BOB芭比**，台灣雙人女子組合，一般通稱**芭比**，由大芭比[安苡葳與小芭比](https://zh.wikipedia.org/wiki/安苡葳 "wikilink")（[張辰瑀](https://zh.wikipedia.org/wiki/張辰瑀 "wikilink")）組成，2010年芭比[安苡葳單飛](https://zh.wikipedia.org/wiki/安苡葳 "wikilink")，是少數國台語都有出專輯的歌手。
 
 ### 成員
 
@@ -11,11 +14,10 @@
 <td><p><strong>備註</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>安苡葳<br />
-<small>（Anne）</small></p></td>
+<td><p>芭比<a href="https://zh.wikipedia.org/wiki/安苡葳" title="wikilink">安苡葳</a></p></td>
 <td><p>詹蕙純</p></td>
 <td></td>
-<td><p>舊藝名<strong>大芭（大芭比）</strong>。</p></td>
+<td><p>舊藝名<strong>大芭比</strong>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>張辰瑀／小芭比</p></td>
@@ -396,7 +398,7 @@
 <td><p>2018-12-21</p></td>
 <td><p>愛飛兒</p></td>
 <td><ol>
-<li>重圓</li>
+<li>重圓（延禧攻略主題曲）</li>
 <li>佛心來的愛</li>
 <li>愛飛兒</li>
 <li>自己的女王</li>
@@ -406,6 +408,13 @@
 <li>愛情快遞</li>
 <li>234N1</li>
 <li>阿婆的蔘仔(客)</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p>2019-4-5</p></td>
+<td><p>愛情摩天輪ft臭屁嬰仔（單曲）</p></td>
+<td><ol>
+<li>愛情摩天輪</li>
 </ol></td>
 </tr>
 </tbody>
@@ -445,5 +454,3 @@
 
   -
 [Category:1996年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1996年成立的音樂團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語歌手](https://zh.wikipedia.org/wiki/Category:華語歌手 "wikilink") [Category:台语女歌手](https://zh.wikipedia.org/wiki/Category:台语女歌手 "wikilink")
-
-1.  [黄西田V.S櫻桃姐妹](http://www.fuki-world.com/twsongs/singert/dspsong.cgi?a=L0651)

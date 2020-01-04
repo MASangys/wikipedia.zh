@@ -1,3 +1,6 @@
+> 本文内容由[Movin\' On](https://zh.wikipedia.org/wiki/Movin\'_On)转换而来。
+
+
 《**Movin' On**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[連詩雅的第二張音樂專輯](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")、第一張全主打EP，於2012年11月27日推出。全碟共有五首歌曲，隨碟附送一片DVD，收錄所有歌曲的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。
 
 2012年12月14日，[華納唱片推出限量版](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")，特別加送One2free x Shiga親自設計的別注版iPhone 5 Case一個。

@@ -1036,7 +1036,7 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
       - 2014年1月下號：[第八届DSEI展会上的轻武器及装备(上)](https://web.archive.org/web/20140225024151/http://www.wenfeii.com/8/view-7165.htm)
       - 2014年5月下號：[2014西格—绍尔公司新品赏析](https://web.archive.org/web/20140814192819/http://www.cnreaders.com/qingbingqi/45158.html)（X-FIVE系列）
       - 2015年6月下號：[新型轻武器及附件精选](https://web.archive.org/web/20150703145831/http://gdwap.dooland.com/article.php?id=687083)（X-6比赛型）
-      - 2015年7月下號：[西格―绍尔公司2015新品汇](http://www.xzbu.com/8/view-6895457.htm)（P226单动型）
+      - 2015年7月下號：[西格―绍尔公司2015新品汇](https://web.archive.org/web/20160304124041/http://www.xzbu.com/8/view-6895457.htm)（P226单动型）
       - 2015年12月上號：[知名轻武器公司新品汇](https://web.archive.org/web/20160326083518/http://www.wmwk.org/m//Default.aspx?Id=4175455)（P226军团型）
 
 <!-- end list -->

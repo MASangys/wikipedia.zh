@@ -1,3 +1,6 @@
+> 本文内容由[忘年感謝祭 來洗牌吧，AKB！ SKE也請多關照吧](https://zh.wikipedia.org/wiki/忘年感謝祭_來洗牌吧，AKB！_SKE也請多關照吧)转换而来。
+
+
 **忘年感謝祭 來洗牌吧，AKB！ SKE也請多關照吧**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2008年12月20日在[JCB Hall](../Page/MEETS_PORT.md "wikilink")（現TOKYO DOME CITY HALL）舉行的演唱會\[1\]，為AKB48在2008年最後一個演唱會。
 
 ## 概要
@@ -108,32 +111,18 @@
 [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. [DVD介紹頁面](https://shopping.akb48-group.com/selection/detail/1/10896)
-
 16.

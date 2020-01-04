@@ -49,7 +49,7 @@
 
   - [I BCL.](https://ibcl.us/)
   - [广播爱好者](http://www.leowood.net)
-  - [广播之友](http://zuji.51.net/bcl/)
+  - [广播之友](https://web.archive.org/web/20120708042807/http://zuji.51.net/bcl/)
 
 [Category:无线电技术](https://zh.wikipedia.org/wiki/Category:无线电技术 "wikilink") [Category:電台](https://zh.wikipedia.org/wiki/Category:電台 "wikilink") [Category:嗜好](https://zh.wikipedia.org/wiki/Category:嗜好 "wikilink") [Category:收藏](https://zh.wikipedia.org/wiki/Category:收藏 "wikilink")
 

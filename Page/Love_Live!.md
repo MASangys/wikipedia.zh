@@ -1,3 +1,6 @@
+> 本文内容由[Love Live!](https://zh.wikipedia.org/wiki/Love_Live!)转换而来。
+
+
 **LoveLive\! School idol project**（）是由[日本](../Page/日本.md "wikilink")[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")、唱片公司[Lantis](../Page/Lantis.md "wikilink")、以及ACG月刊雜誌《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》共同合作推出的读者参与活动以及由此展开的多媒体企划\[1\]。項目原案由[公野櫻子設計](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")，監督為[京極尚彥](../Page/京極尚彥.md "wikilink")，角色設計和插圖由室田雄平製作，總製作人則由[齋藤滋](../Page/齋藤滋.md "wikilink")擔任。
 
 ## 企劃概要

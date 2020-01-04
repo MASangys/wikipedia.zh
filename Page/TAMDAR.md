@@ -1,3 +1,6 @@
+> 本文内容由[TAMDAR](https://zh.wikipedia.org/wiki/TAMDAR)转换而来。
+
+
 **TAMDAR**（译作**对流层机载气象数据报告系统**）是一个气象监测系统，由安装在商用飞机上的现场大气传感器组成，用于数据收集。它收集的信息与天气气球在高空携带的[无线电探空仪](../Page/无线电探空仪.md "wikilink")收集的信息相似。它是由AirDat LLC公司开发的，AirDat LLC于2013年4月被松下航空电子公司收购，现在基于美国的松下天气解决方案（Panasonic Weather Solutions）公司运营。
 
 ## 历史

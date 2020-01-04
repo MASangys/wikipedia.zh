@@ -1,3 +1,6 @@
+> 本文内容由[AFI百年百大电影台词](https://zh.wikipedia.org/wiki/AFI百年百大电影台词)转换而来。
+
+
 **AFI百年百大电影台词**（）是[美国电影學院](https://zh.wikipedia.org/wiki/美国电影學院 "wikilink")（AFI）[“百年百大”系列的第八個部分](https://zh.wikipedia.org/wiki/AFI百年百大系列 "wikilink")。該表單列出了[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[电影](../Page/电影.md "wikilink")中的100句电影台詞。评委团由1,500位艺术家、评论家、历史学家組成。該表單於2005年6月21日在一个长达3小时的电视节目上公布。該节目由演员[皮爾斯·布洛斯南主持](https://zh.wikipedia.org/wiki/皮爾斯·布洛斯南 "wikilink")，並有許多[好萊塢演員](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")、制片人发表评论。[美国內战史诗片](https://zh.wikipedia.org/wiki/美国內战 "wikilink")《[乱世佳人](../Page/乱世佳人.md "wikilink")》（1939年）裡[克拉克·蓋博说的电影台词](https://zh.wikipedia.org/wiki/克拉克·蓋博 "wikilink")「」獲選為AFI百年百大电影台词的第一名。
 
 ## 評選和標準

@@ -1,3 +1,6 @@
+> 本文内容由[达尔号车辆运输舰 \(T-AKR-312\)](https://zh.wikipedia.org/wiki/达尔号车辆运输舰_\(T-AKR-312\))转换而来。
+
+
 **达尔号车辆运输舰**（，**[舷號T](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-AKR-312**）是[沃森级车辆运输舰的第三艘](https://zh.wikipedia.org/wiki/沃森级车辆运输舰 "wikilink")，以[荣誉勋章](../Page/荣誉勋章.md "wikilink")获得者，在[越南战争](../Page/越南战争.md "wikilink")中阵亡的[拉里·G·达尔](https://zh.wikipedia.org/wiki/拉里·G·达尔 "wikilink")[专业军士](https://zh.wikipedia.org/wiki/专业军士 "wikilink")（Larry G. Dahl）命名。
 
 1998年10月2日该舰下水，并于1999年7月13日服役。它是美国[军事海运司令部所属的](https://zh.wikipedia.org/wiki/军事海运司令部 "wikilink")19艘[大型中速滚装船](../Page/大型中速滚装船.md "wikilink")中的一艘，也是执行战略预置任务的33艘运输舰中的一员。

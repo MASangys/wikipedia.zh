@@ -1,3 +1,6 @@
+> 本文内容由[Riverhillsoft](https://zh.wikipedia.org/wiki/Riverhillsoft)转换而来。
+
+
 **Riverhillsoft**（，[羅馬字](https://zh.wikipedia.org/wiki/平文式羅馬字 "wikilink")：）是1982年至2000年間運營的日本電子遊戲生產商。它為[MSX](../Page/MSX.md "wikilink")、[Pioneer LaserActive](../Page/Pioneer_LaserActive.md "wikilink")、[3DO遊戲機](https://zh.wikipedia.org/wiki/3DO_Interactive_Multiplayer "wikilink")、[PlayStation](../Page/PlayStation.md "wikilink")、[Dreamcast](../Page/Dreamcast.md "wikilink")、[Sega Game Gear和](https://zh.wikipedia.org/wiki/Sega_Game_Gear "wikilink")[PC-FX](../Page/PC-FX.md "wikilink")平臺發行了作品。
 
 ## 歷史

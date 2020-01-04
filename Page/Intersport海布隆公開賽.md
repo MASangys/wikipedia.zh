@@ -1,3 +1,6 @@
+> 本文内容由[Intersport海布隆公開賽](https://zh.wikipedia.org/wiki/Intersport海布隆公開賽)转换而来。
+
+
 **Intersport海布隆公開賽**是從1984年開始於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[塔爾海姆舉辦的室內硬地網球賽事](https://zh.wikipedia.org/wiki/塔爾海姆 "wikilink")。為[ATP挑戰賽等級的賽事](https://zh.wikipedia.org/wiki/ATP挑戰賽 "wikilink")。
 
 ## 歷屆賽事

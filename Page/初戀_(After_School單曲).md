@@ -1,3 +1,6 @@
+> 本文内容由[初戀 \(After School單曲\)](https://zh.wikipedia.org/wiki/初戀_\(After_School單曲\))转换而来。
+
+
 《**初戀**》（첫 사랑）是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[After School的第](../Page/After_School.md "wikilink")6張韓語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2013年6月13日由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")發售。
 
 ## 概要

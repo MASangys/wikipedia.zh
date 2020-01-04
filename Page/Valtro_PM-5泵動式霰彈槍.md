@@ -1,3 +1,6 @@
+> 本文内容由[Valtro PM-5泵動式霰彈槍](https://zh.wikipedia.org/wiki/Valtro_PM-5泵動式霰彈槍)转换而来。
+
+
 **Valtro PM-5**是一款由[意大利](../Page/意大利.md "wikilink")槍械製造商[Valtro公司所設計及生產的](https://zh.wikipedia.org/wiki/Valtro "wikilink")[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，它被各地的軍隊和執法機關，包括法國海軍所採用，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 設計細節

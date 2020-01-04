@@ -1,11 +1,13 @@
+> 本文内容由[模块:Citation](https://zh.wikipedia.org/wiki/模块:Citation)转换而来。
+
+
 -----
 
 \-- Module:Citation - Lua module for Citation auxiliary templates
 
 -----
 
-\-- For the  formatting functions, see: Module:Citation/CS1 -- (see
-NOTES at bottom) --require "mw.text"
+\-- For the  formatting functions, see: Module:Citation/CS1 -- (see NOTES at bottom) --require "mw.text"
 
 local z = {
 
@@ -52,8 +54,7 @@ function onlyinprint(content)
 
 end
 
-\-- This returns a string with HTML character entities for wikitext
-markup characters. function wikiescape(text)
+\-- This returns a string with HTML character entities for wikitext markup characters. function wikiescape(text)
 
 `   text = text:gsub( '[&\'%[%]{|}]', {    `
 `           ['&'] = '&',    `
@@ -97,10 +98,7 @@ function createTag(t, frame)
 
 end
 
-\--[This is a clone of mw.text.nowiki. When the mw.text library is
-installed, this can be replaced by a call to that
-library.](https://zh.wikipedia.org/wiki/This_is_a_clone_of_mw.text.nowiki._When_the_mw.text_library_is_installed,_this_can_be_replaced_by_a_call_to_that_library. "wikilink")
-function nowiki( s )
+\--[This is a clone of mw.text.nowiki. When the mw.text library is installed, this can be replaced by a call to that library.](https://zh.wikipedia.org/wiki/This_is_a_clone_of_mw.text.nowiki._When_the_mw.text_library_is_installed,_this_can_be_replaced_by_a_call_to_that_library. "wikilink") function nowiki( s )
 
 `   -- string.gsub is safe here, because we're only caring about ASCII chars`
 `   s = string.gsub( s, '["&\'<=>%[%]{|}]', {`
@@ -140,8 +138,7 @@ function externallinkid(args)
 `   end`
 `   `
 `   local t0 = onlyinprint(args.label .. sep .. args.id)`
-`   local t1 = hideinprint("`[`"``   ``..``   ``args.label``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._args.link_.._" "wikilink")`" .. sep .. "[" .. args.prefix .. url_string .. args.suffix .. " " .. nowiki(args.id) .. "]")`
+`   local t1 = hideinprint("`[`"``   ``..``   ``args.label``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._args.link_.._" "wikilink")`" .. sep .. "[" .. args.prefix .. url_string .. args.suffix .. " " .. nowiki(args.id) .. "]")`
 `   `
 `   return t0 .. t1`
 
@@ -253,8 +250,7 @@ function crossref(frame, label, args)
 `   end        `
 `   local pagename = args.pagename or ""`
 `   local ps = args.Postscript or ""`
-`   return LB .. "`[`"``   ``..``   ``text``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/"_.._pagename_.._"#"_.._anchor_.._" "wikilink")`" .. loc .. RB .. ps`
+`   return LB .. "`[`"``   ``..``   ``text``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._pagename_.._"#"_.._anchor_.._" "wikilink")`" .. loc .. RB .. ps`
 
 end
 
@@ -364,8 +360,7 @@ function refend0(frame, config, args)
 
 " end
 
-\-- This is used by  to create DOI links in the style used in citations.
-function z.doi(frame)
+\-- This is used by  to create DOI links in the style used in citations. function z.doi(frame)
 
 `   local pframe = frame:getParent()`
 `   local id = pframe.args.id or pframe.args[1] or ""`
@@ -373,8 +368,7 @@ function z.doi(frame)
 
 end
 
-\-- This is used by  to create ISSN links in the style used in
-citations. function z.ISSN(frame)
+\-- This is used by  to create ISSN links in the style used in citations. function z.ISSN(frame)
 
 `   local pframe = frame:getParent()`
 `   local Name = pframe.args[1] or ""`
@@ -382,24 +376,21 @@ citations. function z.ISSN(frame)
 
 end
 
-\-- This is used by templates such as  to create the (encoded) anchor
-name for a Harvard cross-reference hyperlink. function z.SFNID(frame)
+\-- This is used by templates such as  to create the (encoded) anchor name for a Harvard cross-reference hyperlink. function z.SFNID(frame)
 
 `   local pframe = frame:getParent()`
 `   return anchorid('FOOTNOTE', pframe.args)`
 
 end
 
-\-- This is used by templates such as  to create the Harvard
-cross-reference text. function z.Harvard(frame)
+\-- This is used by templates such as  to create the Harvard cross-reference text. function z.Harvard(frame)
 
 `   local pframe = frame:getParent()`
 `   return crossref(frame, pframe.args)`
 
 end
 
-\-- This is used by templates such as  to create the entire
-cross-reference. function z.sfn(frame)
+\-- This is used by templates such as  to create the entire cross-reference. function z.sfn(frame)
 
 `   local pframe = frame:getParent()`
 `   pframe.args.Postscript = pframe.args.postscript or pframe.args.ps or ".";`
@@ -438,8 +429,7 @@ end
 `   local P2 = args[2] or ""`
 `   local P3 = args[3] or ""`
 `   local id = nil`
-`   local contents = "`[`["``   ``..``   ``P2``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/#endnote_"_.._P1_.._P3_.._" "wikilink")`]"`
+`   local contents = "`[`["``   ``..``   ``P2``   ``..``   ``"`](https://zh.wikipedia.org/wiki/#endnote_"_.._P1_.._P3_.._" "wikilink")`]"`
 `   local params = {}`
 `   params.class="reference"`
 `   if ( args.noid == nil or args.noid == "" ) then params.id = "ref_" .. P1 .. P3 end`
@@ -458,8 +448,7 @@ end
 `   local contents `
 `   if arrow ~= "" then`
 `       local sup_arrow = createTag({name="sup",contents=arrow,params={}})`
-`       contents = "`[<b>`"``   ``..``   ``sup_arrow``   ``..``
- ``"`</b>](https://zh.wikipedia.org/wiki/#ref_"_.._id_.._arrow_.._" "wikilink")`" .. postscript`
+`       contents = "`[<b>`"``   ``..``   ``sup_arrow``   ``..``   ``"`</b>](https://zh.wikipedia.org/wiki/#ref_"_.._id_.._arrow_.._" "wikilink")`" .. postscript`
 `       if "none" == arrow then arrow = "^" end -- Change this AFTER using it in the ID parameter and the contents.`
 `   else`
 `       contents = (args[2] or "") .. postscript`
@@ -512,94 +501,10 @@ return z
 
 -----
 
-\--NOTES -- -- NOTE A1: This Lua module was originally designed to
-handle a mix -- of citation styles, crossing Vancouver style with
-Wikipedia's -- local Citation Style 1 (CS1) from
-{Template:Citation/core}. -- However, the conflicting positions of
-parameters, scattered -- in twisted locations across this module, led to
-a separate -- variation just to untangle the CS1 format of citations. --
--- NOTE D2: The placement of dots and other separators between the --
-displayed parameters has been a continual headache, to keep --
-coordinated with the data in parentheses "(data)". There -- has been a
-need to pre-check for the existence of related -- options, to keep from
-putting double-dots ".." in some cases. -- In particular, the omission
-of the "title=" parameter has led -- to several cases of a spurious dot
-". ." because the original -- design had treated the title as a
-mandatory parameter. --
+\--NOTES -- -- NOTE A1: This Lua module was originally designed to handle a mix -- of citation styles, crossing Vancouver style with Wikipedia's -- local Citation Style 1 (CS1) from {Template:Citation/core}. -- However, the conflicting positions of parameters, scattered -- in twisted locations across this module, led to a separate -- variation just to untangle the CS1 format of citations. -- -- NOTE D2: The placement of dots and other separators between the -- displayed parameters has been a continual headache, to keep -- coordinated with the data in parentheses "(data)". There -- has been a need to pre-check for the existence of related -- options, to keep from putting double-dots ".." in some cases. -- In particular, the omission of the "title=" parameter has led -- to several cases of a spurious dot ". ." because the original -- design had treated the title as a mandatory parameter. --
 
 -----
 
-\--HISTORY: --18Oct2012 Fixed lead-space in Chapter by omitting " ".
---18Oct2012 Fixed lead-space in Chapter/Title as end " " of
-Authors/Date/... --19Oct2012 Put HISTORY comments to log major changes
-(not typos). --19Oct2012 Fixed extra dot ".." in Title by omitting at
-end of "tcommon=...". --19Oct2012 For pages, put \&nbsp in "p. " etc.
---19Oct2012 Enhanced "pages=" to detect lone page as "p." else "pp."
-prefix. --19Oct2012 Fixed to show "." after Periodical name (work,
-newspaper...). --19Oct2012 Fixed web-link to have spaces "\[...
-Archived\] from the original". --19Oct2012 Fixed to show ";" between
-authors & coauthors. --19Oct2012 Fixed to omit extra "." after
-coauthors. --20Oct2012 Fixed COinS data to not urlencode all, as
-"ctx_ver=Z39.88-2004" --20Oct2012 Fixed COinS to not end as "&" but use
-lead "\&rft...=" form. --20Oct2012 Fixed COinS to not url.encode page's
-"rfr_id=..." pagename. --20Oct2012 Fixed COinS data when "web" to
-default to rft.genre "book". --05Nov2012 Add a span wrapper even when
-there is no Ref parameter --15Feb2013 Added Agency for "agency=xx".
---19Feb2013 Put NOTES comments to explain module operation. --19Feb2013
-Copied as Module:Citation/CS1 to alter to match wp:CS1 form. --19Feb2013
-Changed OrigYear to use \[__\] for CS1 style. --19Feb2013 Fixed to not
-show duplicate Publisher/Agency. --19Feb2013 Moved page-number
-parameters to after final date. --19Feb2013 Fixed to not put double-dots
-after title again. --20Feb2013 Changed to omit dot "." if already ends
-with dot. --20Feb2013 If class "journal" shows Publisher after
-Periodical/Series. --20Feb2013 Shifted Format to after Language, and
-Others after Volume. --20Feb2013 Set AccessDate +
-<span class="reference-accessdate"> --20Feb2013 Fixed url when
-deadurl=no. --20Feb2013 Added sepc for separator character between
-parameters. --20Feb2013 Put "OCLC" for "Online Computer Library Center".
---20Feb2013 Fix empty "authorlink=" as person.link \~= "". --20Feb2013
-Added space after AuthorSep & AuthorNameSep. --21Feb2013 Added
-args.contributor (was missing parameter). --21Feb2013 Fixed EditorSep
-(was misspelled "EdithorSep"). --21Feb2013 Set OCinSdata.rft_val_fmt =
-"<info:ofi/fmt:kev:mtx:book>" --21Feb2013 Checked to omit blank codes
-(asin= | doi= etc.). --21Feb2013 Set enddot to end line if not
-config.CitationClass "citation". --21Feb2013 Fixed to show "issn=x" as
-the ISSN code. --21Feb2013 Fixed to show "id=x" after Zbl code.
---21Feb2013 Changed to omit double-dot before date when already dot.
---21Feb2013 Order config.CitationClass "citation": Volume, Issue,
-Publisher. --21Feb2013 Put warning "Bad DOI (expected "10."..)" in DOI
-result. --21Feb2013 Automatically unbolded volume+comma when \> 4 long.
---21Feb2013 Changed to allow lowercase "asin-tld". --22Feb2013 Fixed
-ref=harv to extract Year from Date. --22Feb2013 Set Harvard refer. span
-id if config.CitationClass "citation". --22Feb2013 Fixed
-config.CitationClass "citation" as span class="citation". --22Feb2013
-Capitalized "Archived/Retrieved" only when sepc is dot ".". --23Feb2013
-Fixed author editor for "in" or "In" and put space after sepc.
---23Feb2013 Changed to omit dot in "et al." when sepc is "." separator.
---23Feb2013 Fixed "author1-first" to also get args.given or args.given1.
---23Feb2013 Fixed args.article to set Title, after Periodical is Title.
---23Feb2013 Fixed to allow blank Title (such as "contribution=mytitle").
---23Feb2013 Fixed double-dot ".." at end of Editors list --26Feb2013
-Moved "issue=" data to show before "page=". --26Feb2013 Moved "type="
-data to show after "format=". --26Feb2013 For "pmc=" link, omitted
-suffix "/?tool=pmcentrez". --27Feb2013 For coauthors, omitted extra
-separator after authors. --27Feb2013 For date, allowed empty date to use
-month/day/year. --27Feb2013 Fixed double-dot ".." at end of
-authors/coauthors list. --27Feb2013 Reset editor suffix as ", ed." when
-date exists. --27Feb2013 Removed duplicate display of "others=" data.
---27Feb2013 Removed parentheses "( )" around "department" TitleNote.
---05Mar2013 Moved Language to follow Periodical or Series. --05Mar2013
-Fixed Edition to follow Series or Volume. --05Mar2013 Fixed class
-encyclopaedia to show article as quoted Chapter. --05Mar2013 Fixed class
-encyclopaedia to show page as "pp." or "p.". --07Mar2013 Changed class
-encyclopaedia to omit "( )" around publisher. --07Mar2013 Fixed end
-double-dot by string.sub(idcommon,-1,-1) was "-1,1". --13Mar2013 Removed
-enddot "." after "quote=" parameter. --13Mar2013 Changed
-config.CitationClass "news" to use "p." page format. --13Mar2013 Fixed
-missing "location=" when "web" or "encyclopaedia". --14Mar2013 Fixed end
-double-dot after book/work title. --14Mar2013 Fixed double-dot before
-"p." or "pp." page number. --14Mar2013 Fixed config.CitationClass "book"
-to use p./pp. page. -- --End
+\--HISTORY: --18Oct2012 Fixed lead-space in Chapter by omitting " ". --18Oct2012 Fixed lead-space in Chapter/Title as end " " of Authors/Date/... --19Oct2012 Put HISTORY comments to log major changes (not typos). --19Oct2012 Fixed extra dot ".." in Title by omitting at end of "tcommon=...". --19Oct2012 For pages, put \&nbsp in "p. " etc. --19Oct2012 Enhanced "pages=" to detect lone page as "p." else "pp." prefix. --19Oct2012 Fixed to show "." after Periodical name (work, newspaper...). --19Oct2012 Fixed web-link to have spaces "\[... Archived\] from the original". --19Oct2012 Fixed to show ";" between authors & coauthors. --19Oct2012 Fixed to omit extra "." after coauthors. --20Oct2012 Fixed COinS data to not urlencode all, as "ctx_ver=Z39.88-2004" --20Oct2012 Fixed COinS to not end as "&" but use lead "\&rft...=" form. --20Oct2012 Fixed COinS to not url.encode page's "rfr_id=..." pagename. --20Oct2012 Fixed COinS data when "web" to default to rft.genre "book". --05Nov2012 Add a span wrapper even when there is no Ref parameter --15Feb2013 Added Agency for "agency=xx". --19Feb2013 Put NOTES comments to explain module operation. --19Feb2013 Copied as Module:Citation/CS1 to alter to match wp:CS1 form. --19Feb2013 Changed OrigYear to use \[__\] for CS1 style. --19Feb2013 Fixed to not show duplicate Publisher/Agency. --19Feb2013 Moved page-number parameters to after final date. --19Feb2013 Fixed to not put double-dots after title again. --20Feb2013 Changed to omit dot "." if already ends with dot. --20Feb2013 If class "journal" shows Publisher after Periodical/Series. --20Feb2013 Shifted Format to after Language, and Others after Volume. --20Feb2013 Set AccessDate + <span class="reference-accessdate"> --20Feb2013 Fixed url when deadurl=no. --20Feb2013 Added sepc for separator character between parameters. --20Feb2013 Put "OCLC" for "Online Computer Library Center". --20Feb2013 Fix empty "authorlink=" as person.link \~= "". --20Feb2013 Added space after AuthorSep & AuthorNameSep. --21Feb2013 Added args.contributor (was missing parameter). --21Feb2013 Fixed EditorSep (was misspelled "EdithorSep"). --21Feb2013 Set OCinSdata.rft_val_fmt = "<info:ofi/fmt:kev:mtx:book>" --21Feb2013 Checked to omit blank codes (asin= | doi= etc.). --21Feb2013 Set enddot to end line if not config.CitationClass "citation". --21Feb2013 Fixed to show "issn=x" as the ISSN code. --21Feb2013 Fixed to show "id=x" after Zbl code. --21Feb2013 Changed to omit double-dot before date when already dot. --21Feb2013 Order config.CitationClass "citation": Volume, Issue, Publisher. --21Feb2013 Put warning "Bad DOI (expected "10."..)" in DOI result. --21Feb2013 Automatically unbolded volume+comma when \> 4 long. --21Feb2013 Changed to allow lowercase "asin-tld". --22Feb2013 Fixed ref=harv to extract Year from Date. --22Feb2013 Set Harvard refer. span id if config.CitationClass "citation". --22Feb2013 Fixed config.CitationClass "citation" as span class="citation". --22Feb2013 Capitalized "Archived/Retrieved" only when sepc is dot ".". --23Feb2013 Fixed author editor for "in" or "In" and put space after sepc. --23Feb2013 Changed to omit dot in "et al." when sepc is "." separator. --23Feb2013 Fixed "author1-first" to also get args.given or args.given1. --23Feb2013 Fixed args.article to set Title, after Periodical is Title. --23Feb2013 Fixed to allow blank Title (such as "contribution=mytitle"). --23Feb2013 Fixed double-dot ".." at end of Editors list --26Feb2013 Moved "issue=" data to show before "page=". --26Feb2013 Moved "type=" data to show after "format=". --26Feb2013 For "pmc=" link, omitted suffix "/?tool=pmcentrez". --27Feb2013 For coauthors, omitted extra separator after authors. --27Feb2013 For date, allowed empty date to use month/day/year. --27Feb2013 Fixed double-dot ".." at end of authors/coauthors list. --27Feb2013 Reset editor suffix as ", ed." when date exists. --27Feb2013 Removed duplicate display of "others=" data. --27Feb2013 Removed parentheses "( )" around "department" TitleNote. --05Mar2013 Moved Language to follow Periodical or Series. --05Mar2013 Fixed Edition to follow Series or Volume. --05Mar2013 Fixed class encyclopaedia to show article as quoted Chapter. --05Mar2013 Fixed class encyclopaedia to show page as "pp." or "p.". --07Mar2013 Changed class encyclopaedia to omit "( )" around publisher. --07Mar2013 Fixed end double-dot by string.sub(idcommon,-1,-1) was "-1,1". --13Mar2013 Removed enddot "." after "quote=" parameter. --13Mar2013 Changed config.CitationClass "news" to use "p." page format. --13Mar2013 Fixed missing "location=" when "web" or "encyclopaedia". --14Mar2013 Fixed end double-dot after book/work title. --14Mar2013 Fixed double-dot before "p." or "pp." page number. --14Mar2013 Fixed config.CitationClass "book" to use p./pp. page. -- --End
 
-[Category:Pages_with_DOIs_inactive_since_"_.._selectyear(inactive)_.._"](https://zh.wikipedia.org/wiki/Category:Pages_with_DOIs_inactive_since_"_.._selectyear\(inactive\)_.._" "wikilink")
-[Category:含有DOI错误的引用的页面](https://zh.wikipedia.org/wiki/Category:含有DOI错误的引用的页面 "wikilink")
+[Category:Pages_with_DOIs_inactive_since_"_.._selectyear(inactive)_.._"](https://zh.wikipedia.org/wiki/Category:Pages_with_DOIs_inactive_since_"_.._selectyear\(inactive\)_.._" "wikilink") [Category:含有DOI错误的引用的页面](https://zh.wikipedia.org/wiki/Category:含有DOI错误的引用的页面 "wikilink")

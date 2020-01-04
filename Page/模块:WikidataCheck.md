@@ -1,3 +1,6 @@
+> 本文内容由[模块:WikidataCheck](https://zh.wikipedia.org/wiki/模块:WikidataCheck)转换而来。
+
+
 local p = {}
 
 function p.wikidatacheck(frame)
@@ -44,7 +47,4 @@ end
 
 return p
 
-[Category:不在維基數據的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:不在維基數據的"_.._catbase_.._" "wikilink")
-[Category:不在維基數據的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:不在維基數據的"_.._catbase_.._" "wikilink")
-[Category:與維基數據相同的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:與維基數據相同的"_.._catbase_.._" "wikilink")
-[Category:與維基數據不同的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:與維基數據不同的"_.._catbase_.._" "wikilink")
+[Category:不在維基數據的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:不在維基數據的"_.._catbase_.._" "wikilink") [Category:不在維基數據的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:不在維基數據的"_.._catbase_.._" "wikilink") [Category:與維基數據相同的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:與維基數據相同的"_.._catbase_.._" "wikilink") [Category:與維基數據不同的"_.._catbase_.._"](https://zh.wikipedia.org/wiki/Category:與維基數據不同的"_.._catbase_.._" "wikilink")

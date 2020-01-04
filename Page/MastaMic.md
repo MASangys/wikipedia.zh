@@ -1,3 +1,6 @@
+> 本文内容由[MastaMic](https://zh.wikipedia.org/wiki/MastaMic)转换而来。
+
+
 **馬米**（，），原名**唐崇政**，花名唐從政，[香港](../Page/香港.md "wikilink")男[饒舌歌手及音樂人](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")。
 
 ## 簡歷
@@ -253,10 +256,10 @@ Critical [Kung Fu](https://zh.wikipedia.org/wiki/Kung_Fu "wikilink") feat. [DJ T
 
 ## 外部連結
 
-  - [官方網站](http://www.mastamic.com.hk/)
+  - [官方網站](https://web.archive.org/web/20130518111803/http://mastamic.com.hk/)
   - [Facebook專頁](https://www.facebook.com/MastaMic?fref=ts)
 
 [Category:粤语Hip-Hop](https://zh.wikipedia.org/wiki/Category:粤语Hip-Hop "wikilink") [Category:香港男歌手](https://zh.wikipedia.org/wiki/Category:香港男歌手 "wikilink") [Category:饒舌歌手](https://zh.wikipedia.org/wiki/Category:饒舌歌手 "wikilink") [Category:香港創作歌手](https://zh.wikipedia.org/wiki/Category:香港創作歌手 "wikilink") [Category:張祝珊英文中學校友](https://zh.wikipedia.org/wiki/Category:張祝珊英文中學校友 "wikilink") [Category:武漢大學校友](https://zh.wikipedia.org/wiki/Category:武漢大學校友 "wikilink") [Category:香港YouTuber](https://zh.wikipedia.org/wiki/Category:香港YouTuber "wikilink")
 
 1.
-2.  [【年度人物】當Rap Up回顧將成往事 MastaMic 一次過Rap盡香港3,653天](https://bkb.mpweekly.com/cu0001/20171230-62960?v=false)
+2.

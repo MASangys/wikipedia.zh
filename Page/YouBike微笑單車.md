@@ -1,3 +1,6 @@
+> 本文内容由[YouBike微笑單車](https://zh.wikipedia.org/wiki/YouBike微笑單車)转换而来。
+
+
 **YouBike微笑單車**（通稱**YouBike**）為[臺灣](../Page/臺灣.md "wikilink")自行車製造商[巨大機械建置與營運的](https://zh.wikipedia.org/wiki/巨大機械 "wikilink")[公共自行車](../Page/公共自行車.md "wikilink")租賃系統，其電子與雲端的部分則由微程式資訊\[1\]負責設計，最初由子公司[捷安特](../Page/捷安特.md "wikilink")公司負責，2015年後改由同屬巨大機械旗下的微笑單車股份有限公司負責。
 
 YouBike微笑單車以[公辦民營模式經營](https://zh.wikipedia.org/wiki/公辦民營 "wikilink")，第一個營運系統位於[臺北市](../Page/臺北市.md "wikilink")，目前在臺灣有[臺北市](../Page/臺北市.md "wikilink")、[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")、[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")、[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")、[新竹科學園區](https://zh.wikipedia.org/wiki/新竹科學園區 "wikilink")、[苗栗縣](../Page/苗栗縣.md "wikilink")、[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")、[彰化縣等地的公共自行車系統採用該系統](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")，臺灣以外則有中國大陸[福建省](../Page/福建省.md "wikilink")[泉州市](../Page/泉州市.md "wikilink")、[莆田市](../Page/莆田市.md "wikilink")採用。
@@ -70,12 +73,29 @@ YouBike微笑單車在2016年8月31日凌晨1點執行中彰地區系統更新�
 | 新竹、竹科、苗栗 | 630   | 600 | 0        | 605   |
 | 臺中、彰化    | 815   | 750 | 605      | 0     |
 
+## 資訊查詢工具
+
+可利用[YouBike官方網站](https://taipei.youbike.com.tw/station/map)以及[APP](https://play.google.com/store/apps/details?id=tw.com.sstc.youbike&hl=zh_TW)來查詢附近的站點位置，其中使用官方APP還可以查詢交易紀錄。
+
+而目前有第三方的開發團隊，推出能夠透過LINE規劃YouBike借還車路線的工具：[YouBike Today 小幫手](https://youbike-today.blogspot.com)，輸入出發地和目的地，就能自動規劃路線，就像Google Map一樣，會告訴你所需的時間以及最快、最近、最安全的三種路線，供用戶選擇。\[19\]
+
+也可以透過[台灣等公車](https://play.google.com/store/apps/details?id=nexti.android.bustaiwan&hl=zh_TW)系列的APP，查詢公車站附近的YouBike站點。配合公車使用情境，在車上就能查詢下車後的站點狀況，方便通勤族使用。
+
+此外還有[UBike](https://apps.apple.com/tw/app/ubike/id677994013) 這個由Smdlab.所研發的APP，介面清楚，特色是能夠預測等待時間。
+
+
+
 ## 參考資料
 
 ## 外部連結
 
   - [YouBike 微笑單車](https://www.youbike.com.tw/)（臺灣）
   - [YouBike 微笑單車](https://www.youbike.me/)（中國大陸）
+  - 資訊查詢工具
+      - [APP](https://play.google.com/store/apps/details?id=tw.com.sstc.youbike&hl=zh_TW)
+      - LINE機器人：[YouBike Today 小幫手](https://youbike-today.blogspot.com)
+      - [台灣等公車APP](https://play.google.com/store/apps/details?id=nexti.android.bustaiwan&hl=zh_TW)
+      - [UBike](https://apps.apple.com/tw/app/ubike/id677994013)
 
 [Category:臺灣公共自行車](https://zh.wikipedia.org/wiki/Category:臺灣公共自行車 "wikilink") [Category:公共自行車](https://zh.wikipedia.org/wiki/Category:公共自行車 "wikilink") [Category:巨大集團](https://zh.wikipedia.org/wiki/Category:巨大集團 "wikilink")
 
@@ -97,3 +117,4 @@ YouBike微笑單車在2016年8月31日凌晨1點執行中彰地區系統更新�
 16. [莆田YouBike微笑自行車收費標準](https://putian.youbike.me/cn/use_rates.php)
 17. [YouBike也有身分證！跨區租借 收調度費600起跳](https://www.youtube.com/watch?v=EIpfRHT_UK4)
 18. [臺中市iBike公共自行車費率說明](https://i.youbike.com.tw/use/rates)
+19.  生活|url=[https://www.nownews.com/news/20190916/3632218/|accessdate=2019-10-02|date=2019-09-16|last=毓琪|first=趙|work=NOWnews](https://www.nownews.com/news/20190916/3632218/%7Caccessdate=2019-10-02%7Cdate=2019-09-16%7Clast=毓琪%7Cfirst=趙%7Cwork=NOWnews) 今日新聞|language=zh-TW}}

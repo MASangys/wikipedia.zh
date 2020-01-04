@@ -1,3 +1,6 @@
+> 本文内容由[Moment \(連詩雅EP\)](https://zh.wikipedia.org/wiki/Moment_\(連詩雅EP\))转换而来。
+
+
 《**Moment**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[連詩雅的第一張音樂專輯](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")，於2010年11月19日推出。全碟共有5首歌曲，隨碟附送一片DVD，收錄三個[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Monstar](https://zh.wikipedia.org/wiki/Monstar)转换而来。
+
+
 《**Monstar**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")自2013年5月17日起每週五21:50（[KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）播出的音樂電視劇，為Mnet自製的第一部電視劇，與[tvN共同首播](../Page/TVN.md "wikilink")。由《[阿娘使道傳](../Page/阿娘使道傳.md "wikilink")》[鄭允晶作家和](https://zh.wikipedia.org/wiki/鄭允晶 "wikilink")《[灰姑娘的姐姐](../Page/灰姑娘的姐姐.md "wikilink")》、《[成均館緋聞](../Page/成均館緋聞.md "wikilink")》導演[金元錫](../Page/金元錫.md "wikilink")聯手合作，講述曾經受過心靈創傷的青少年從音樂出發，譜出一段關於愛情、友情與夢想的故事。\[1\]\[2\]
 
 ## 出演陣容
@@ -22,12 +25,12 @@
 <td><p><a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a></p></td>
 <td><p>尹雪燦</p></td>
 <td><p>MSG娛樂旗下男子團體Man In Black，同時也是Color Bar的隊長，擅長作詞作曲及編曲，在少女之間有著極高人氣的偶像。喜歡世伊，與善宇本是青梅竹馬兼世交，因為誤會而決裂。 自尊心和勝負欲旺盛。為尹家領養來的孤兒，曾被養母拋棄過一次，因而對母親十分敬畏。</p></td>
-<td></td>
+<td><p><a href="../Page/袁德基.md" title="wikilink">袁德基</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/夏沇秀.md" title="wikilink">夏沇秀</a><br />
 <small>少年：<a href="https://zh.wikipedia.org/wiki/金初恩" title="wikilink">金初恩</a></small></p></td>
-<td><p>| 閔世伊</p></td>
+<td><p>| 閔世伊（港譯：敏世兒）</p></td>
 <td><p>從紐西蘭回到韓國的轉學生，雖在紐西蘭居住五年，卻因為每天過著放羊的生活其實不會英文。 從小跟在創作歌手的父親身邊學習音樂，彈得一手好吉他和擁有一副好歌喉，幼時與善宇同為吉他班同學，後因父親過世而漸漸淡忘善宇。 父親過世後打擊過大後患上失語症，才因此遷居紐西蘭生活，卻一直以為是因為是母親外遇的關係，獨自搬回韓國與阿姨同住。</p></td>
 <td></td>
 </tr>
@@ -124,7 +127,7 @@ Color Bar一開始為她嘲笑雪燦一行人像是調色盤一樣五顏六色�
 <td><p><a href="../Page/尹鐘焄.md" title="wikilink">尹鐘焄</a></p></td>
 <td><p>申在祿</p></td>
 <td><p>北村高中管弦樂團All for one的鈸手，沒有任何特別厲害之處，喜歡帶頭霸凌奎東，卻常常跟在俊熙和孝琳身後。</p></td>
-<td></td>
+<td><p><a href="../Page/何偉誠.md" title="wikilink">何偉誠</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -149,7 +152,7 @@ Color Bar一開始為她嘲笑雪燦一行人像是調色盤一樣五顏六色�
 <td><p><a href="../Page/李姬珍.md" title="wikilink">李姬珍</a></p></td>
 <td><p>獨孤順</p></td>
 <td><p>北村高中二年四班班導，All for one指導老師，也是世伊的阿姨。</p></td>
-<td></td>
+<td><p><a href="../Page/顧詠雪.md" title="wikilink">顧詠雪</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金宣敬.md" title="wikilink">金宣敬</a><br />
@@ -170,15 +173,15 @@ Color Bar一開始為她嘲笑雪燦一行人像是調色盤一樣五顏六色�
 
 ### MSG娛樂
 
-|                                  |        |                                                                                               |          |
-| -------------------------------- | ------ | --------------------------------------------------------------------------------------------- | -------- |
-| **演員**                           | **角色** | **介紹**                                                                                        | **香港配音** |
-| [趙在允](../Page/趙在允.md "wikilink") | 洪經紀人   | Man In Black兼雪燦個人經紀人，特徵是抱著雪燦抱枕走動，經常因為雪燦的緋聞遭公司代表責罵，卻還是非常幫助雪燦。                                  |          |
-| [金希沅](../Page/金希沅.md "wikilink") | 高代表    | MSG娛樂代表。對雪燦我行我素的行為感到頭痛，卻因為雪燦的高人氣而無法輕易放手。擔心雪燦唸太多書變的多愁善感因此放任雪燦專注演藝事業，卻因為歌迷暴力事件要求雪燦回到學校作為閉門思過處罰。 |          |
-| [李旼赫](../Page/李旼赫.md "wikilink") | MALO   | MSG娛樂旗下男子團體Man In Black成員                                                                     |          |
-| [李昌燮](../Page/李昌燮.md "wikilink") | Hwain  |                                                                                               |          |
-| [任炫植](../Page/任炫植.md "wikilink") | 星      |                                                                                               |          |
-| [陸星材](../Page/陸星材.md "wikilink") | 阿諾德    |                                                                                               |          |
+|                                  |        |                                                                                               |                                  |
+| -------------------------------- | ------ | --------------------------------------------------------------------------------------------- | -------------------------------- |
+| **演員**                           | **角色** | **介紹**                                                                                        | **香港配音**                         |
+| [趙在允](../Page/趙在允.md "wikilink") | 洪經紀人   | Man In Black兼雪燦個人經紀人，特徵是抱著雪燦抱枕走動，經常因為雪燦的緋聞遭公司代表責罵，卻還是非常幫助雪燦。                                  | [郭俊廷](../Page/郭俊廷.md "wikilink") |
+| [金希沅](../Page/金希沅.md "wikilink") | 高代表    | MSG娛樂代表。對雪燦我行我素的行為感到頭痛，卻因為雪燦的高人氣而無法輕易放手。擔心雪燦唸太多書變的多愁善感因此放任雪燦專注演藝事業，卻因為歌迷暴力事件要求雪燦回到學校作為閉門思過處罰。 | [羅偉亮](../Page/羅偉亮.md "wikilink") |
+| [李旼赫](../Page/李旼赫.md "wikilink") | MALO   | MSG娛樂旗下男子團體Man In Black成員                                                                     |                                  |
+| [李昌燮](../Page/李昌燮.md "wikilink") | Hwain  |                                                                                               |                                  |
+| [任炫植](../Page/任炫植.md "wikilink") | 星      |                                                                                               |                                  |
+| [陸星材](../Page/陸星材.md "wikilink") | 阿諾德    |                                                                                               |                                  |
 
 ### 北村高中
 
@@ -190,7 +193,7 @@ Color Bar一開始為她嘲笑雪燦一行人像是調色盤一樣五顏六色�
 
 ### 客串出演
 
-  - [李周妍](../Page/李周妍.md "wikilink") 飾演 雅莉
+  - [李周妍](../Page/李周妍.md "wikilink") 飾演 雅莉（香港配音：[周文瑛](../Page/周文瑛.md "wikilink")）
 
   - [李聖旻](../Page/李聖旻.md "wikilink") 飾演 電影導演
 

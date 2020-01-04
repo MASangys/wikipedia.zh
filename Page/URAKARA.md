@@ -12,7 +12,7 @@
   - 奎利：[奎利](../Page/朴奎利.md "wikilink")
   - 昇延：[昇延](../Page/韓昇延.md "wikilink")
   - 妮可：[妮可](../Page/鄭龍珠.md "wikilink")
-  - 荷拉：[荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")
+  - 荷拉：
   - 知英：[知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")
   - パク社長2号：[清水基治](https://zh.wikipedia.org/wiki/清水基治 "wikilink")
 

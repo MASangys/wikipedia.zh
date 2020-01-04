@@ -7,11 +7,13 @@
 
 ### Robynn（葉晴晴）
 
-Robynn（葉晴晴），是已故[中共元老](https://zh.wikipedia.org/wiki/中共元老 "wikilink")[葉劍英的孫女](https://zh.wikipedia.org/wiki/葉劍英 "wikilink")\[1\] ，[葉選廉和](https://zh.wikipedia.org/wiki/葉選廉 "wikilink")[苏丹丹的女兒](https://zh.wikipedia.org/wiki/苏丹丹 "wikilink")\[2\]\[3\]。兒時就讀[瑪利諾修院學校](../Page/瑪利諾修院學校.md "wikilink")（小學部），15歲便赴[美國升讀高中](https://zh.wikipedia.org/wiki/美國 "wikilink")，其後入读美國的[西北大學](https://zh.wikipedia.org/wiki/西北大学_\(伊利诺州\) "wikilink")，並在大學為[無伴奏合唱團Treblemakers編曲和當音樂指導](https://zh.wikipedia.org/wiki/無伴奏合唱團 "wikilink")。\[4\]在美國由求學時期開始，Robynn就熱愛[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")，其中一首由Robynn寫的無伴奏合唱曲《時鐘的聲音》，也收錄在合唱團的專輯《定義》（Definition）中，而這首歌也在美國的2013年當代無伴奏合唱錄音獎（Contemporary A Cappella Recording Award，縮寫 CARA）中得到「最佳學術原創歌曲」（Best Scholastic Original Song）提名\[5\]。她大學時期主修[心理學](https://zh.wikipedia.org/wiki/心理學 "wikilink")\[6\]，畢業回港後從事特殊教育工作，曾在[自閉症](../Page/自閉症.md "wikilink")兒童訓練中心任職行為治療師。\[7\]。
+Robynn（葉晴晴），是已故[中共元老](https://zh.wikipedia.org/wiki/中共元老 "wikilink")[葉劍英的孫女](https://zh.wikipedia.org/wiki/葉劍英 "wikilink")\[1\] ，[葉選廉和苏丹丹的女兒](https://zh.wikipedia.org/wiki/葉選廉 "wikilink")\[2\]\[3\]。兒時就讀[瑪利諾修院學校](../Page/瑪利諾修院學校.md "wikilink")（小學部），15歲便赴[美國升讀高中](https://zh.wikipedia.org/wiki/美國 "wikilink")，其後入读美國的[西北大學](https://zh.wikipedia.org/wiki/西北大学_\(伊利诺州\) "wikilink")，並在大學為[無伴奏合唱團Treblemakers編曲和當音樂指導](https://zh.wikipedia.org/wiki/無伴奏合唱團 "wikilink")。\[4\]在美國由求學時期開始，Robynn就熱愛[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")，其中一首由Robynn寫的無伴奏合唱曲《時鐘的聲音》，也收錄在合唱團的專輯《定義》（Definition）中，而這首歌也在美國的2013年當代無伴奏合唱錄音獎（Contemporary A Cappella Recording Award，縮寫 CARA）中得到「最佳學術原創歌曲」（Best Scholastic Original Song）提名\[5\]。她大學時期主修[心理學](https://zh.wikipedia.org/wiki/心理學 "wikilink")\[6\]，畢業回港後從事特殊教育工作，曾在[自閉症](../Page/自閉症.md "wikilink")兒童訓練中心任職行為治療師。\[7\]。
 
 Robynn 曾為 Wong Fu Productions 拍過短片《One Days HK - See Through》\[8\] 和 《Left on Shing Wong》。Robynn也曾和加拿大網路歌手 Jian C 自家製作原創曲《What I'll Tell You Everyday》\[9\]。
 
-2010年在[蜂鳥音樂](../Page/蜂鳥音樂.md "wikilink")舉辦的《Brand New Star》比賽獲得冠軍，於網上推出原創曲《When the Sky Falls》\[10\]。 2010年11月，曾被邀請到新加坡的 Timbre 表演；2011年的1月及4月也曾到[台北的](https://zh.wikipedia.org/wiki/台北 "wikilink") A House 演出。
+2010年在[蜂鳥音樂](../Page/蜂鳥音樂.md "wikilink")舉辦的《Brand New Star》比賽獲得冠軍，於網上推出原創曲《When the Sky Falls》\[10\]。
+
+2010年11月，曾被邀請到新加坡的 Timbre 表演；2011年的1月及4月也曾到[台北的](https://zh.wikipedia.org/wiki/台北 "wikilink") A House 演出。
 
 2019年，《明陣》，是Robynn（葉晴晴）婚後重回工作軌道的第一擊，《負攝石》《明陣》均收錄在四月推出的新碟中。\[11\]
 
@@ -31,7 +33,7 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 
 2011年，Robynn與Kendy在一個音樂聚會中經友人介紹下認識，發覺彼此無論在音樂理念、熱誠、曲風以至聲線都不謀而合，二人自此便結下不解之緣。後來更一起製作改編歌曲，翻唱作品於[YouTube](../Page/YouTube.md "wikilink")上發放，與大眾分享她們的音樂。
 
-2011年7月13日，她們於YouTube發放第一首翻唱作品《你是我的女人》，旋即大獲好評，受網民熱捧，[熱爆網路](https://zh.wikipedia.org/wiki/網路走紅 "wikilink")。
+2011年7月13日，她們於YouTube發放第一首翻唱作品《你是我的女人》，旋即大獲好評，受網民熱捧，熱爆網路。
 
 二人曾於網路徵求組合名字，網民大多建議其組合名稱為「Robynn & Kendy」，兩人亦沿用至今。她們於各大小商場演出，於各表演場地如Backstage、Fullcup Music Cafe等舉辦小型音樂會，擔任歌唱比賽的表演嘉賓及接受各大傳媒的訪問，人氣逐步上升。
 
@@ -1443,7 +1445,7 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
   -
   - [Robynn & Kendy官方iPhone App](http://itunes.apple.com/hk/app/robynn-kendy/id526686894?l=zh&mt=8&ls=1)
 
-[Category:香港客家人](https://zh.wikipedia.org/wiki/Category:香港客家人 "wikilink") [Category:梅縣人](https://zh.wikipedia.org/wiki/Category:梅縣人 "wikilink") [Category:香港音樂家](https://zh.wikipedia.org/wiki/Category:香港音樂家 "wikilink") [Category:香港作曲家](https://zh.wikipedia.org/wiki/Category:香港作曲家 "wikilink") [Category:香港填詞人](https://zh.wikipedia.org/wiki/Category:香港填詞人 "wikilink") [Category:中國女子演唱團體](https://zh.wikipedia.org/wiki/Category:中國女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink") [Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:網路歌手](https://zh.wikipedia.org/wiki/Category:網路歌手 "wikilink")
+[Category:香港客家人](https://zh.wikipedia.org/wiki/Category:香港客家人 "wikilink") [Category:梅縣人](https://zh.wikipedia.org/wiki/Category:梅縣人 "wikilink") [Category:香港音樂家](https://zh.wikipedia.org/wiki/Category:香港音樂家 "wikilink") [Category:香港作曲家](https://zh.wikipedia.org/wiki/Category:香港作曲家 "wikilink") [Category:香港填詞人](https://zh.wikipedia.org/wiki/Category:香港填詞人 "wikilink") [Category:中國女子演唱團體](https://zh.wikipedia.org/wiki/Category:中國女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink") [Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:網路歌手](https://zh.wikipedia.org/wiki/Category:網路歌手 "wikilink") [Category:二人组](https://zh.wikipedia.org/wiki/Category:二人组 "wikilink")
 
 1.
 2.

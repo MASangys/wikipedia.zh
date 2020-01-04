@@ -1,3 +1,6 @@
+> 本文内容由[The Ultraman](https://zh.wikipedia.org/wiki/The_Ultraman)转换而来。
+
+
 『**The Ultraman**』（原題：）是[日本](../Page/日本.md "wikilink")的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。由[TBS](../Page/TBS.md "wikilink")在1979年4月4日至1980年3月26日播放，全50話。「[超人力霸王系列](../Page/超人力霸王系列.md "wikilink")」第8部作品，第3期的第1部作品。平均收視率11.0%。
 
 ## 各話一覽

@@ -1,3 +1,6 @@
+> 本文内容由[CR催淚性毒氣](https://zh.wikipedia.org/wiki/CR催淚性毒氣)转换而来。
+
+
 **CR催泪性毒气**，化学全称**二苯并\[b,f\]\[1,4\]氧杂吖庚因**（），化学式为C<sub>13</sub>H<sub>9</sub>NO，是一种，美军代号。原为药物合成过程中发现的副产物，于1962年首次人工合成\[1\]。CR被发现后很快就因极强的刺激性而受到军方关注，由英国防化研究所研究数年后移交美国进行全面评价，尔后由英国国防部专项拨款对其生理作用机理进行研究，并于1973年正式用于装备部队。美军于同年将其列入制式装备。
 
 ## 理化性质
@@ -41,20 +44,12 @@ CR和CS不同，CS可以用大量水去除，然而水却反而会加剧CR的作
 [Category:化学武器](https://zh.wikipedia.org/wiki/Category:化学武器 "wikilink") [Category:催泪剂](https://zh.wikipedia.org/wiki/Category:催泪剂 "wikilink") [Category:有机氮化合物](https://zh.wikipedia.org/wiki/Category:有机氮化合物 "wikilink") [Category:刺激性毒剂](https://zh.wikipedia.org/wiki/Category:刺激性毒剂 "wikilink")
 
 1.
-
 2.  Hossein Fakhraian,Yaser Nafary Chemlnform Abstract:Reinvestigation og Alternative Method for the Preparation of Dibenzo\[b,f\] \[1,4\]oxazepine.J.Heterocycl.Chem.49,988-992(2009)
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.  Farida Helmy, "Chemical Combat"（《化学战争》）, Egypt Today Magazine（《埃及今日杂志》）, January 2012 issue
-
 9.
-
 10.

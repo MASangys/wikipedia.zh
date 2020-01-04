@@ -1,3 +1,6 @@
+> 本文内容由[柏木由紀的YUKIRIN TIME](https://zh.wikipedia.org/wiki/柏木由紀的YUKIRIN_TIME)转换而来。
+
+
 **《柏木由紀的YUKRIN TIME》**（），是在[FM東京](../Page/FM東京.md "wikilink")所播放的深夜廣播[談話節目](https://zh.wikipedia.org/wiki/談話節目 "wikilink")，每週六24:00 - 24:30播出，由[柏木由紀](../Page/柏木由紀.md "wikilink")主持。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[索德曼号车辆运输舰 \(T-AKR-317\)](https://zh.wikipedia.org/wiki/索德曼号车辆运输舰_\(T-AKR-317\))转换而来。
+
+
 **索德曼号车辆运输舰**（，**[舷號T](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-AKR-317**）是[沃森级车辆运输舰的第八艘](https://zh.wikipedia.org/wiki/沃森级车辆运输舰 "wikilink")，以[荣誉勋章](../Page/荣誉勋章.md "wikilink")获得者，在[突出部之役](../Page/突出部之役.md "wikilink")表现突出的[威廉·A·索德曼](https://zh.wikipedia.org/wiki/威廉·A·索德曼 "wikilink")[一等兵](https://zh.wikipedia.org/wiki/一等兵 "wikilink")（William A. Soderman）命名。
 
 2002年4月26日该舰下水，并于2002年9月24日服役。它是美国[军事海运司令部所属的](https://zh.wikipedia.org/wiki/军事海运司令部 "wikilink")19艘[大型中速滚装船](../Page/大型中速滚装船.md "wikilink")中的一艘，也是执行战略预置任务的33艘运输舰中的一员。

@@ -1,3 +1,6 @@
+> 本文内容由[Sd.Kfz. 250半履带车](https://zh.wikipedia.org/wiki/Sd.Kfz._250半履带车)转换而来。
+
+
 ''' Sd.Kfz. 250 ''' (Sonderkraftfahrzeug 250) 是一种轻型装甲[半履带车](https://zh.wikipedia.org/wiki/半履带车 "wikilink")，由[德马格设计并与](https://zh.wikipedia.org/wiki/德马格 "wikilink")[汉诺马格设计的](https://zh.wikipedia.org/wiki/汉诺马格 "wikilink")[Sd.Kfz.251外观非常相似](https://zh.wikipedia.org/wiki/SdKfz_251半履带车 "wikilink")。它被[纳粹德国在](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")[二战中使用](https://zh.wikipedia.org/wiki/二战 "wikilink")。 Sd.Kfz. 250在1939 年被采用作为制式的半履带车，但生产的延期导致1941年中期才开始使用
 
 ## 发展

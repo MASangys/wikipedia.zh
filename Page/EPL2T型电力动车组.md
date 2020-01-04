@@ -1,3 +1,6 @@
+> 本文内容由[EPL2T型电力动车组](https://zh.wikipedia.org/wiki/EPL2T型电力动车组)转换而来。
+
+
 **EPL2T型电力动车组**（）是[乌克兰铁路](../Page/乌克兰铁路.md "wikilink")的[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为3000伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[卢甘斯克机车制造厂](../Page/卢甘斯克机车制造厂.md "wikilink")设计制造，于2001年研制成功并投入批量生产。至2008年停产，共生产了35列EPL2T型电力动车组，均配属于[顿涅茨克铁路局](../Page/顿涅茨克铁路局.md "wikilink")、[利沃夫铁路局](../Page/利沃夫铁路局.md "wikilink")和[第聂伯河沿岸铁路局](https://zh.wikipedia.org/wiki/第聂伯河沿岸铁路局 "wikilink")\[1\]。
 
 ## 技術特點
@@ -18,7 +21,7 @@ EPL2T型电力动车组是[动力分散式列车](https://zh.wikipedia.org/wiki/
 
 ## 外部链接
 
-  - [ПАО «Лугансктепловоз»: Электропоезд ЕПЛ2Т](http://www.luganskteplovoz.com/ProdOsnProduct/OnlyOsnProduct/26)
+  - [ПАО «Лугансктепловоз»: Электропоезд ЕПЛ2Т](https://web.archive.org/web/20121104212022/http://www.luganskteplovoz.com/ProdOsnProduct/OnlyOsnProduct/26)
 
   - [«Подвижной состав»: Электропоезд ЭПЛ2Т](https://web.archive.org/web/20150518230132/http://railway-publish.com/epl2t.html)
 

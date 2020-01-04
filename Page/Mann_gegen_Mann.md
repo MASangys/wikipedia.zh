@@ -1,3 +1,6 @@
+> 本文内容由[Mann gegen Mann](https://zh.wikipedia.org/wiki/Mann_gegen_Mann)转换而来。
+
+
 "**Mann gegen Mann**"（德译：人对抗人）是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，歌曲的内容跟[同性恋有关](https://zh.wikipedia.org/wiki/同性恋 "wikilink")，也是Rammstein在"Stripped"MV之后首次在MV中裸露。
 
 ## MV

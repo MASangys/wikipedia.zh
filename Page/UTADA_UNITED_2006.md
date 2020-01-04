@@ -1,3 +1,6 @@
+> 本文内容由[UTADA UNITED 2006](https://zh.wikipedia.org/wiki/UTADA_UNITED_2006)转换而来。
+
+
 《**UTADA UNITED 2006**》是日本歌手[宇多田光](../Page/宇多田光.md "wikilink")自出道以來第2次的全國巡迴演唱會，由2006年7月1日開始舉辦。
 
 ## 場次
@@ -39,6 +42,6 @@
 
 ## 參考資料
 
-  - [宇多田光官方網站](http://www.emimusic.jp/hikki/)
+  - [宇多田光官方網站](https://web.archive.org/web/20081118160943/http://www.emimusic.jp/hikki/)
 
 [Category:2006年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2006年巡回演唱会 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:宇多田光影像作品](https://zh.wikipedia.org/wiki/Category:宇多田光影像作品 "wikilink") [Category:2006年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2006年音樂相關影像作品 "wikilink")

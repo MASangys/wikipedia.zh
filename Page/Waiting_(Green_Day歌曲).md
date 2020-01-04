@@ -1,3 +1,6 @@
+> 本文内容由[Waiting \(Green Day歌曲\)](https://zh.wikipedia.org/wiki/Waiting_\(Green_Day歌曲\))转换而来。
+
+
 《**Waiting**》是美國[朋克搖滾](../Page/朋克搖滾.md "wikilink")樂隊[Green Day的歌曲](https://zh.wikipedia.org/wiki/Green_Day "wikilink")，是該樂隊第六隻專輯《[Warning](https://zh.wikipedia.org/wiki/Warning_\(Green_Day唱片\) "wikilink")》的第三首單曲，音樂MV由[馬克·韋布執導](https://zh.wikipedia.org/wiki/馬克·韋布 "wikilink")\[1\]。
 
 此曲的旋律被認為與[佩托拉·克拉克的歌曲](https://zh.wikipedia.org/wiki/佩托拉·克拉克 "wikilink")《[Downtown](https://zh.wikipedia.org/wiki/Downtown_\(克拉克歌曲\) "wikilink")》相似\[2\]\[3\]。

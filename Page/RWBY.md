@@ -1,3 +1,6 @@
+> 本文内容由[RWBY](https://zh.wikipedia.org/wiki/RWBY)转换而来。
+
+
 **RWBY**（發音同*Ruby*），是一部由美國動畫工作室製作的[網路動畫](https://zh.wikipedia.org/wiki/ONA "wikilink")，RWBY運用了[2.5D動畫技術](https://zh.wikipedia.org/wiki/2.5D "wikilink")，創造出流暢華麗的戰鬥畫面，亦是整部作品中的一大亮點。由動畫家[蒙提·欧伍創作並導演](https://zh.wikipedia.org/wiki/蒙提·欧伍 "wikilink")。首集於2013年7月5日在2013年首映並於7月18日起經網路公開播放。\[1\]\[2\]\[3\]
 
 作品名字《RWBY》取自四位主角名字的首字母，Ruby、Weiss、Blake 和 Yang，發音和第一女主角 Ruby 相同。
@@ -409,7 +412,8 @@ Salem：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder
 <!-- end list -->
 
   -
-    Atlas開發的[人形機器人](../Page/人形機器人.md "wikilink")，是第一個能生成aura的人造人，於第三季第九章與Pyrrha對戰時，因Emerald的幻覺而使Pyrrha失手將她支解。和Ruby是好友。
+    Atlas開發的[人形機器人](../Page/人形機器人.md "wikilink")，是第一個能生成aura的人造人，個性天真無邪，於第三季第九章與Pyrrha對戰時，因Emerald的幻覺而使Pyrrha失手將她支解。和Ruby是好友。
+    於第七季中得知其身體雖遭到破壞，但中樞核心並未受損，之後經由生父皮耶特羅博士修復。
     使用的武器為後背背包內帶有細鋼絲的多組摺疊刃，亦可凝聚塵能量發射能量光束。
     角色設計源自「[皮諾丘](../Page/木偶奇遇记.md "wikilink")」，在說謊時會打嗝。
 
@@ -482,7 +486,7 @@ Salem：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder
 
 <!-- end list -->
 
-  - **妮奧波莉妲**（英文名：，又稱**妮奧 Neo**，英文無配音，日文配音：[藤村鼓乃美](../Page/藤村鼓乃美.md "wikilink")）
+  - **妮奧波莉妲**（英文名：，又稱**妮奧 Neo**，英文配音：Casey Lee Williams，日文配音：[藤村鼓乃美](../Page/藤村鼓乃美.md "wikilink")）
 
 <!-- end list -->
 
@@ -640,6 +644,16 @@ Salem：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder
   -
     鎮守Argus的Atlas軍官，為一名矮小的老太婆，身邊總是跟著兩名時不時拍她馬屁的隨扈。個性傲慢、衝動又好大喜功，深以自己國家的強盛軍力為傲，認為Argus人民能安居樂業都應當歸功於Atlas的軍隊。另一方面又崇拜艾恩伍德將軍並經常想展示好表現給他。
 
+<!-- end list -->
+
+  - **皮耶特羅博士**（英文名：Dr.Pietro）
+
+<!-- end list -->
+
+  -
+    被譽為Atlas最強大腦的男子，平時隱居在地面上的曼特舊街區中。
+    是Penny的生父，同時也是替瑪麗亞製作神經連結光學義眼的人。
+
 ### 其他配角
 
   - **茲威**（英文名：Zwei）
@@ -675,9 +689,10 @@ Salem：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder
 
   -
     與Qrow是姐弟關係，山賊的領袖，是Yang的母親，生下Yang之後不久即因不明原因離家出走，過去Beacon學院的菁英小隊「STRQ」的成員之一。
+    出現時常以戮獸面具遮掩臉部示人，是因為要隱瞞她為春季聖女的身份(因為使用四季之力眼眶會有紅焰出現)。
     武器為[野太刀](https://zh.wikipedia.org/wiki/野太刀 "wikilink")，刀鞘上有轉輪能夠在刀刃入鞘後改變刀身上的塵屬性後再拔出。
     其外像力可連結特定的人(已知的有:Yang、Taiyang和Qrow),並製造出傳送門。另外還有Ozpin給的能夠變身成渡鴉的能力。
-    第五季時，為了拿到聖物而與Cinder合作，後來在避風學園的地下金庫揭露她才是真正的春季聖女的事實。隨後與偷襲她的Cinder大打出手，將其打落深淵後冰封。
+    第五季時，為了拿到聖物而與Cinder合作，後來在避風學園的地下金庫揭露她才是真正的春季聖女的事實，而前一任的春季之女早已被她殺害。隨後與偷襲她的Cinder大打出手，將其打落深淵後冰封。
     「Raven」在英語是渡鴉的意思\[41\]，「Branwen」是威爾斯語，意思為「祝福的白鴉」。
 
 <!-- end list -->
@@ -697,7 +712,7 @@ Salem：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder
 <!-- end list -->
 
   -
-    一間地下舞廳的老闆，與黑道「空頭幫」的老大，號稱是Vale的包打聽。羅曼曾向他借走了他許多人手去執行計畫，但那些人都沒有回來，因此朱尼爾與其斷絕了合作。
+    Vale市區一間地下舞廳的老闆，與黑道「空頭幫」的老大，號稱是Vale的包打聽。羅曼曾向他借走了他許多人手去執行計畫，但那些人都沒有回來，因此朱尼爾與其斷絕了合作。
     預告片中曾被Yang砸場。使用一擊多發、可變型成大鐵棍的火箭筒。於第二季再次登場，其部下曾將Yang視為黑名單，但因其替她打圓場才失敗收場。
 
 <!-- end list -->
@@ -708,7 +723,7 @@ Salem：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder
 
   -
     Ruby一夥人在前往Atlas的途中遇到的老婆婆，雖然年邁但卻意外的有著年輕人般的性格與活力，懂得很多關於魔獸的知識。
-    真實身分是比STRQ小隊更早時代的傳奇獵人，以「屠戮死神（Grimm Reaper）」一名為人所稱著的鐮刀使，並且和Ruby同樣是「銀眼」的持有者，但在一次行動中遇襲遭人砍瞎雙眼，之後就此銷聲匿跡。在那之後則是仰賴電子義眼來維持視力。另外她也擁有駕駛飛艇的技術，在Vol 6和Weiss奪取軍用飛艇幫助Ruby一行人離開Argus、對抗Atlas超大型人型兵器、消滅海中戮獸Leviathan，並在最終話抵達Atlas。
+    真實身分是比STRQ小隊更早時代的傳奇獵人，以「屠戮死神（Grimm Reaper）」一名為人所稱著的鐮刀使，不僅和Ruby同樣是「銀眼」的持有者，更是Qrow少年時代的偶像，但在一次行動中遇襲遭人砍瞎雙眼，之後就此銷聲匿跡。在那之後則是仰賴電子義眼來維持視力。另外她也擁有駕駛飛艇的技術，在Vol 6和Weiss奪取軍用飛艇幫助Ruby一行人離開Argus、對抗Atlas超大型人型兵器、消滅海中戮獸Leviathan，並在最終話抵達Atlas。
 
 <!-- end list -->
 
@@ -759,7 +774,7 @@ RWBY的世界觀是在一個叫「-{zh-hans:树𣎴子;zh-tw:遺風;zh-hk:樹�
       - 獅鳩獸（）：第三季襲擊武鬥會場及Beacon學院的魔獸
       - 巨龍形（）：在襲擊Beacon學院的行動中出現的特殊魔獸，外型為標準的西方式巨龍，體液滴下後會出現各類其他型態的魔獸，摧毀了跨大陸通訊塔，最後因為Ruby的銀瞳能力被冰凍在半毀的塔頂。
       - 巨猿（）：猩猩外觀的魔獸，第四季前導片中登場，表皮相當的厚，一般攻擊不易貫穿。
-      - 幽靈型（）：第四季第一集Ruby依附近村莊委託討伐的對象，本體戰鬥力不明，但能附身在無機物上並將之轉化成身體使用，面部似乎是弱點所在。
+      - 靈鬼（）：第四季第一集Ruby依附近村莊委託討伐的對象，本體戰鬥力不明，但能附身在無機物上並將之轉化成身體使用，面部似乎是弱點所在。
       - 海龍型（）：第四季第三集出場，水生類型，背後有著膜狀翼，能從口中吐出能量集束攻擊。
       - 騎士型（）：外型類似半人馬，同時有獸首及類似人的上半身的特殊魔獸，雙手能自由伸縮進行攻擊，是摧毀Ren的故鄉「黑百合鎮」的元兇
       - 水母型（）：被Salem當作遠距離視訊電話及劊子手使用的特殊魔獸。
@@ -1860,93 +1875,56 @@ Kerry Shawcross</small></p></td>
   - [《RWBY》日本官方網站](http://rwby.jp/)
 
   -
-[Category:美国动画](https://zh.wikipedia.org/wiki/Category:美国动画 "wikilink") [Category:網絡動畫](https://zh.wikipedia.org/wiki/Category:網絡動畫 "wikilink") [Category:2013年動畫](https://zh.wikipedia.org/wiki/Category:2013年動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:格林童话题材作品](https://zh.wikipedia.org/wiki/Category:格林童话题材作品 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink") [Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink") [Category:超能力题材作品](https://zh.wikipedia.org/wiki/Category:超能力题材作品 "wikilink") [Category:季節題材作品](https://zh.wikipedia.org/wiki/Category:季節題材作品 "wikilink")
+[Category:美国动画](https://zh.wikipedia.org/wiki/Category:美国动画 "wikilink") [Category:網絡動畫](https://zh.wikipedia.org/wiki/Category:網絡動畫 "wikilink") [Category:2013年動畫](https://zh.wikipedia.org/wiki/Category:2013年動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:格林童话题材作品](https://zh.wikipedia.org/wiki/Category:格林童话题材作品 "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink") [Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink") [Category:超能力题材作品](https://zh.wikipedia.org/wiki/Category:超能力题材作品 "wikilink") [Category:季節題材作品](https://zh.wikipedia.org/wiki/Category:季節題材作品 "wikilink") [Category:動畫改編漫畫](https://zh.wikipedia.org/wiki/Category:動畫改編漫畫 "wikilink") [Category:Ultra_Jump](https://zh.wikipedia.org/wiki/Category:Ultra_Jump "wikilink") [Category:少年Jump+](https://zh.wikipedia.org/wiki/Category:少年Jump+ "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
 10.
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27. 《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》2015年7月號 p.32-33
-
 28. <https://twitter.com/montyoum/status/406894139746172928>
-
 29.
 30.
-
 31. 第一章第14集
-
 32. 第三章第2集
-
 33. 在所有的角色中，Ozpin是唯一一個不符合色彩命名法規則的角色
-
 34. 第三章第8集
-
 35. 第一章第15集
-
 36. 第四章第5集
-
 37. 第二季第4集
-
 38. 第三季第2集
-
 39. 第三章第7集
-
 40. RWBY第三章第3集中，通訊器上的W正是Watts博士的標誌
-
 41. 渡鴉（Raven）的體型比一般烏鴉（Crow）要再大上一號，這應該是影射Raven和Qrow是姐弟一事
-
 42. 在希伯來聖經·以賽亞書中意為「遺落」，讀作dǔn
-
 43. 魔獸能感應負面情緒，如果負面情緒過度擴散，將引來大量的魔獸，有許多小型聚落就是因為這樣被魔獸摧毀的
-
 44. 第二季第1集的食物大戰中的食物武器應該都上了-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-，否則考量到那些食物的硬度是否能拿來食用......
-
 45. 之後在第五季第七集證實當時的巫師正是好幾代前的Ozpin
-
 46. 對Sienna來說，白牙的宗旨依然是為了訴求平等對待，只是相較以往採取了激進的手段，而這對奉行弗納人優位主義的Adam而言是個阻礙
-
 47. 第三季第5集錦標賽中與Weiss對戰的Flynt Coal提及他父親就是其中之一
-
 48. Ilia的家人也是其中之一
-
 49.
 50.
 51.

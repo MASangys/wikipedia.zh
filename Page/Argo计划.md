@@ -1,3 +1,6 @@
+> 本文内容由[Argo计划](https://zh.wikipedia.org/wiki/Argo计划)转换而来。
+
+
 [Argo_Logo.png](https://zh.wikipedia.org/wiki/File:Argo_Logo.png "fig:Argo_Logo.png") [2016-04-countries.png](https://zh.wikipedia.org/wiki/File:2016-04-countries.png "fig:2016-04-countries.png")
 
 **Argo**是一个海洋观测系统的名称，可为[气候](https://zh.wikipedia.org/wiki/气候学 "wikilink")、天气、[海洋学](../Page/海洋学.md "wikilink")及渔业研究提供实时海洋观测数据。\[1\]\[2\]
@@ -80,7 +83,7 @@ Durack和Wijffels最近发表的一篇具代表性论文中，分析了全球海
   - [实时交互地图](https://web.archive.org/web/20120722225517/http://argo.jcommops.org/website/Argo/)
   - [实时谷歌地球文件](http://argo.jcommops.org/FTPRoot/Argo/Status/status.kmz)
   - [Coriolis全球Argo资料中心服务器-欧盟镜像](https://web.archive.org/web/20080513041420/http://www.coriolis.eu.org/cdc/dataSelection/cdcDataSelections.asp)
-  - [FNMOC全球Argo 资料中心服务器-美国镜像](http://www.usgodae.org/cgi-bin/argo_select.pl)
+  - [FNMOC全球Argo 资料中心服务器-美国镜像](https://web.archive.org/web/20160109174623/http://www.usgodae.org/cgi-bin/argo_select.pl)
   - [美国海洋大气局/太平洋海洋环境实验室剖面浮标项目](http://floats.pmel.noaa.gov/) 作为Argo计划的一部分布放浮标、提供Argo [在线数据](https://web.archive.org/web/20060210183949/http://floats.pmel.noaa.gov/floats/)，为美国Argo计划的浮标开展[延时模式盐度校正和质量控制](https://web.archive.org/web/20051218072012/http://floats.pmel.noaa.gov/argo/index.jsp) 。
   - [由Argo资料揭示的阿拉斯加湾变化状况](http://www.pac.dfo-mpo.gc.ca/science/oceans/Argo/index-eng.html)
   - [加拿大政府渔业与海洋部，Argo计划](http://www.isdm-gdsi.gc.ca/isdm-gdsi/argo/index-eng.html)

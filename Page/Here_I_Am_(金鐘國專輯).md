@@ -1,3 +1,6 @@
+> 本文内容由[Here I Am \(金鐘國專輯\)](https://zh.wikipedia.org/wiki/Here_I_Am_\(金鐘國專輯\))转换而来。
+
+
 《**Here I Am**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")，於2008年10月22日由101 Entertainment製作、Mnet Media所發行的第五張個人專輯。這專輯是他履行為期兩年的兵役以後重返樂壇之作，並以《今天比昨天更好》（）為主打歌曲。
 
 ## 曲目

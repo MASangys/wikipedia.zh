@@ -1,3 +1,6 @@
+> 本文内容由[FIM-43紅眼便攜式防空飛彈](https://zh.wikipedia.org/wiki/FIM-43紅眼便攜式防空飛彈)转换而来。
+
+
 [Redeye_Surface_to_Air_Missile_06.jpg](https://zh.wikipedia.org/wiki/File:Redeye_Surface_to_Air_Missile_06.jpg "fig:Redeye_Surface_to_Air_Missile_06.jpg")
 
 **FIM-43紅眼防空飛彈**是[第二次世界大戰後美國的第一代步兵用肩射式防空飛彈](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，1959年由通用動力公司研發。

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Uploadtext-default/zh-my](https://zh.wikipedia.org/wiki/MediaWiki:Uploadtext-default/zh-my)转换而来。
+
+
   -
     <span style="font-size: large; color: red">**请等等！**</span> 上传任何文件之前，请务必了解**[Wikipedia:图像使用守则](https://zh.wikipedia.org/wiki/Wikipedia:图像使用守则 "wikilink")**以及**[Wikipedia:版权常见问题解答](https://zh.wikipedia.org/wiki/Wikipedia:版权常见问题解答 "wikilink")**的规范。
     <span style="font-size: small;">为了方便简体字和繁体字用户搜索对方上传的图片，文件名称请**避免使用汉字**。</span>

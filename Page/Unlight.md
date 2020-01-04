@@ -1,3 +1,6 @@
+> 本文内容由[Unlight](https://zh.wikipedia.org/wiki/Unlight)转换而来。
+
+
 **《Unlight》**是一款[免費遊戲](https://zh.wikipedia.org/wiki/網路遊戲免費模式 "wikilink")[卡片對戰](../Page/交換卡片遊戲.md "wikilink")[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，由日本公司TechWay開發。在[日本](../Page/日本.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[美國都有推出對應的遊戲語系版本](https://zh.wikipedia.org/wiki/美國 "wikilink")。於2017年10月18日，終止所有平台服務。
 
 ## 遊戲方式
@@ -21,7 +24,11 @@
 
 ## 營運方式
 
-Unlight遊戲於平台上是採免費，只有部分道具的收費模式，並且可以取得一定數量的角色和道具，但如果想要加速遊戲的節奏或是取得更多角色則必須購買商城物品。 購買商城物品則是需要使用平台代理商的虛擬點數，而帳號以及其虛擬道具為各遊戲平台所綁定無法移轉。玩家之間無法進行虛擬物品及點數交易，不過玩家可以透過寄送任務進行任務交換。 商城物品只是加速遊戲節奏，並不會影響玩家遊玩的本質。
+Unlight遊戲於平台上是採免費，只有部分道具的收費模式，並且可以取得一定數量的角色和道具，但如果想要加速遊戲的節奏或是取得更多角色則必須購買商城物品。
+
+購買商城物品則是需要使用平台代理商的虛擬點數，而帳號以及其虛擬道具為各遊戲平台所綁定無法移轉。玩家之間無法進行虛擬物品及點數交易，不過玩家可以透過寄送任務進行任務交換。
+
+商城物品只是加速遊戲節奏，並不會影響玩家遊玩的本質。
 
 ## 各語系平台
 
@@ -36,7 +43,7 @@ Unlight遊戲於平台上是採免費，只有部分道具的收費模式，並�
   - 2017年9月7日於Facebook平台暫停繁體中文版
   - 2017年10月18日niconico日文版暫停營運
   - 2019年7月30日於Facebook發布公告，TechWay已於2018年10月將Unlight（網頁版）的商標權與版權讓渡給株式会社CPA，並作為免費的開放資源。
-  - 2019年8月7日於Unlight 開源後，由玩家組成的 Open Unlight 團隊將原始碼重新架設出新伺服器，私服開始營運。
+  - 2019年8月7日於Unlight 開源後，由玩家組成的Open Unlight團隊將原始碼重新架設出新伺服器，私服開始營運。
 
 ## 外部連結
 
@@ -48,7 +55,7 @@ Unlight遊戲於平台上是採免費，只有部分道具的收費模式，並�
   - [日文官方推特](https://twitter.com/Unlight_JP/)
   - [英文官方推特](https://twitter.com/Unlight_EN/)
   - [非官方中文資料站](http://www38.atwiki.jp/unlight-fbtw//)
-  - [官方網站](http://unlight-world.com//)
+  - [官方網站](https://web.archive.org/web/20190801200406/http://unlight-world.com/)
   - [Open Unlight 私人伺服器 (營運中)](https://unlight.app/)
   - [Open Unlight GitHub](https://github.com/open-unlight/)
 

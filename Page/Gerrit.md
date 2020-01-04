@@ -1,3 +1,6 @@
+> 本文内容由[Gerrit](https://zh.wikipedia.org/wiki/Gerrit)转换而来。
+
+
 **Gerrit**，一種[开放源代码](../Page/开放源代码.md "wikilink")的[代碼審查软件](https://zh.wikipedia.org/wiki/代碼審查 "wikilink")，使用网页界面。利用[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，同一個团队的软件开发者，可以相互审阅彼此修改后的代码，決定是否能够提交，回退或是继续修改。它使用版本控制系統[Git](../Page/Git.md "wikilink")作为底层。\[1\]
 
 ## 歷史
@@ -21,6 +24,8 @@
   - [eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")\[7\]
 
   - [Eclipse基金会](../Page/Eclipse基金会.md "wikilink")\[8\]
+
+  - Ericsson
 
   - [Garmin](https://zh.wikipedia.org/wiki/Garmin "wikilink")\[9\]
 

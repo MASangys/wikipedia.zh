@@ -1,3 +1,6 @@
+> 本文内容由[Tuxera](https://zh.wikipedia.org/wiki/Tuxera)转换而来。
+
+
 Tuxera公司是[文件系统](../Page/文件系统.md "wikilink")[软件](../Page/软件.md "wikilink")的开发商和供应商。其最流行的产品Tuxera NTFS和Tuxera exFAT已经登陆包括[Linux](../Page/Linux.md "wikilink")、[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")、[QNX](../Page/QNX.md "wikilink")、[Mac OS等多种平台](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。Tuxera的客户包括众多在[智能手机](../Page/智能手机.md "wikilink")、[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")、[电视](../Page/电视.md "wikilink")、[电视机顶盒](https://zh.wikipedia.org/wiki/电视机顶盒 "wikilink")、[车载娱乐系统](https://zh.wikipedia.org/wiki/车载娱乐系统 "wikilink")、[存储产品等消费电子领域的顶尖生产厂商](https://zh.wikipedia.org/wiki/存储产品 "wikilink")。许多消费者应该了解Tuxera NTFS for Mac，这是Tuxera公司旗下专门为实现在Mac平台上对[NTFS](../Page/NTFS.md "wikilink")分区进行无缝读写功能的软件。
 
 Tuxera公司成立于2008年，总部位于[芬兰](../Page/芬兰.md "wikilink")[赫尔辛基](../Page/赫尔辛基.md "wikilink")，目前已经在[硅谷](../Page/硅谷.md "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[台北和](https://zh.wikipedia.org/wiki/台北 "wikilink")[首尔建立了办公室](https://zh.wikipedia.org/wiki/首尔 "wikilink")。

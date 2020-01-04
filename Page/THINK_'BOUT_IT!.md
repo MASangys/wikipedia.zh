@@ -1,3 +1,6 @@
+> 本文内容由[THINK \'BOUT IT!](https://zh.wikipedia.org/wiki/THINK_\'BOUT_IT!)转换而来。
+
+
 「**THINK 'BOUT IT\!**」 （中文譯名：重整出發\!)是[THE SECOND from EXILE的出道單曲](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")。2012年11月7日於日本發行。
 
 ## 解說
@@ -75,17 +78,11 @@ THE SECOND from EXILE的出道單曲。分「CD+DVD」、「CD」2種形態發�
 [Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 
 1.  [TOKYO HEADLINE Vol.571](http://www.tokyoheadline.com/vol571/feature.10689.php)
-
 2.  [THE SECOND from EXILEの出道單曲「THINK 'BOUT IT\!」10/17（水）先行配信スタート！](http://t-second.jp/news/2012101203.html)
-
 3.  [「THINK 'BOUT IT\!」先行配信 レコチョク(R)ランキング初登場2位！](http://t-second.jp/news/2012101801.html)
-
 4.  『[月刊EXILE](../Page/月刊EXILE.md "wikilink")』2012年12月號 P27
-
 5.  [EXILE新ユニットの初シングルは「悪の教典」主題歌“THINK 'BOUT IT\!”](http://tower.jp/article/news/2012/09/07/n01)
-
 6.
 7.
 8.  『月刊EXILE』2012年12月號 P29
-
 9.

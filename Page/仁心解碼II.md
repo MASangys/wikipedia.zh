@@ -1183,7 +1183,7 @@ Franco前女友<br />
 </p></td>
 <td><p>（第7集）/<br />
 蒙面街頭歌手<br />
-影射<a href="https://zh.wikipedia.org/wiki/龍小菌" title="wikilink">龍小菌</a>（第17-18、24集）</p></td>
+影射<a href="../Page/龍小菌.md" title="wikilink">龍小菌</a>（第17-18、24集）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳勉良.md" title="wikilink">陳勉良</a></p></td>

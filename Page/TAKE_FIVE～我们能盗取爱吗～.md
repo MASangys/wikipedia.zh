@@ -1,3 +1,6 @@
+> 本文内容由[TAKE FIVE～我们能盗取爱吗～](https://zh.wikipedia.org/wiki/TAKE_FIVE～我们能盗取爱吗～)转换而来。
+
+
 《**TAKE FIVE～我们能盗取爱吗～**》（）是自2013年4月19日在[TBS电视台播出的日本电视剧](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")。 2014年舞台劇化，講述2065年日劇版主角帆村正義的子孫－－帆村守回到過去改變歷史的故事。由[Kis-My-Ft2的](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")[藤谷太輔](../Page/藤谷太輔.md "wikilink")主演。5月13日在東京赤坂首演，5月28日轉到大阪梅田續演。
 
 ## 電視劇

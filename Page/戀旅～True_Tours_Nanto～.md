@@ -1,3 +1,6 @@
+> 本文内容由[戀旅～True Tours Nanto～](https://zh.wikipedia.org/wiki/戀旅～True_Tours_Nanto～)转换而来。
+
+
 《**戀旅～True Tours Nanto～**》（）是日本的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2013年4月28日起於[日本](../Page/日本.md "wikilink")[南礪市地區播放](https://zh.wikipedia.org/wiki/南礪市 "wikilink")。
 
 ## 概要
@@ -111,5 +114,4 @@
 [Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink")
 
 1.
-
 2.

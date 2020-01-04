@@ -1,3 +1,6 @@
+> 本文内容由[魔物獵人攜帶版2nd](https://zh.wikipedia.org/wiki/魔物獵人攜帶版2nd)转换而来。
+
+
 《**魔物獵人攜帶版2nd**》（，）是於2007年2月22日在日本發佈的一個《[魔物獵人系列](../Page/魔物獵人系列.md "wikilink")》遊戲，其平台為[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")。
 
 ## 概述

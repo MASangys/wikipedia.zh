@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Asha 501](https://zh.wikipedia.org/wiki/諾基亞Asha_501)转换而来。
+
+
 **Nokia Asha 501**是由[諾基亞於](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")2013年5月9日在[印度](../Page/印度.md "wikilink")發布的低端[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，並在2013年6月24日開售。按照諾基亞的分類，Asha 501 是「全觸屏」手機。設支持雙[SIM卡](../Page/SIM卡.md "wikilink")的版本。
 
 手機内置 [Nokia Asha Platform](https://zh.wikipedia.org/wiki/Nokia_Asha_Platform "wikilink") 1.0 系統。網絡方面手機有包括[藍牙](../Page/藍牙.md "wikilink")和[Wi-Fi](../Page/Wi-Fi.md "wikilink")等功能，但沒有3G連接，移動網絡需依靠EDGE和GPRS（2.75G）。諾基亞聲稱手機電池能支持最多48天的待機時間和17小時的通話時間。\[1\]

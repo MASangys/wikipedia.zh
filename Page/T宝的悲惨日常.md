@@ -1,3 +1,6 @@
+> 本文内容由[T宝的悲惨日常](https://zh.wikipedia.org/wiki/T宝的悲惨日常)转换而来。
+
+
 《**T宝的悲惨日常**》（，*wooser's hand-to-mouth life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wikilink")[ふじのきともこ所画的](https://zh.wikipedia.org/wiki/ふじのきともこ "wikilink")[网络漫画作品](https://zh.wikipedia.org/wiki/网络漫画 "wikilink")，改編[电视动画於](https://zh.wikipedia.org/wiki/电视动画 "wikilink")2012年10月開始放送。
 
 ## 概要

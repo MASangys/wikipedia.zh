@@ -1,3 +1,6 @@
+> 本文内容由[EXPG](https://zh.wikipedia.org/wiki/EXPG)转换而来。
+
+
 **EXPG**（**EX**ILE **P**ROFESSIONAL **G**YM）是藝人經紀公司[LDH所營運的專業表演者培訓學校](https://zh.wikipedia.org/wiki/LDH_\(藝人經紀公司\) "wikilink")。於2003年由[五十嵐廣行](../Page/五十嵐廣行.md "wikilink")所創辦。
 
 ## 沿革

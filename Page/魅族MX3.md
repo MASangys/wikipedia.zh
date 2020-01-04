@@ -1,3 +1,6 @@
+> 本文内容由[魅族MX3](https://zh.wikipedia.org/wiki/魅族MX3)转换而来。
+
+
 **魅族 MX3**（型号：M35X）是[魅族于](https://zh.wikipedia.org/wiki/魅族 "wikilink")2013年9月2日发布的旗舰智能手机产品。该系列手机有前黑后白、白色版以及“银翼版”等三种外观，可更换多种颜色背壳。产品搭载为大屏手机优化的[Flyme OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink") 3.0系统。\[1\]
 
 ## 外部链接

@@ -1,3 +1,6 @@
+> 本文内容由[閃電十一人GO3 銀河](https://zh.wikipedia.org/wiki/閃電十一人GO3_銀河)转换而来。
+
+
 《**閃電十一人GO3 銀河 大霹靂/超新星**》（）由[LEVEL-5](../Page/LEVEL-5.md "wikilink")推出閃電十一人GO的第三作，並將平台設置在[任天堂3DS](../Page/任天堂3DS.md "wikilink")。於2013年12月5日發售。
 
 ## 劇情大綱
@@ -107,4 +110,4 @@
 
   - [閃電十一人GO3 官方網站](http://www.inazuma.jp/gogalaxy/)
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:閃電十一人系列電子遊戲](https://zh.wikipedia.org/wiki/Category:閃電十一人系列電子遊戲 "wikilink") [Category:體育遊戲](https://zh.wikipedia.org/wiki/Category:體育遊戲 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:閃電十一人系列電子遊戲](https://zh.wikipedia.org/wiki/Category:閃電十一人系列電子遊戲 "wikilink") [Category:體育電子遊戲](https://zh.wikipedia.org/wiki/Category:體育電子遊戲 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")

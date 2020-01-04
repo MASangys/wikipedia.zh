@@ -1,4 +1,7 @@
-**Raw 女子冠軍**（），是隸屬於[世界摔角娛樂的一冠軍項目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")，它於1956年成立於當時的（）。而有趣的是，WWE女子冠軍曾經出了一位男性的冠軍：。
+> 本文内容由[Raw 女子冠軍](https://zh.wikipedia.org/wiki/Raw_女子冠軍)转换而来。
+
+
+**Raw 女子冠軍**（），是隸屬於[世界摔角娛樂的一冠軍項目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")，它亮相於2016年4月3日的第32屆摔角狂熱大賽，並由名人堂成員Lita發布。
 
 ## WWE RAW 女子冠軍
 

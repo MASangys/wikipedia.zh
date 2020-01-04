@@ -1,3 +1,6 @@
+> 本文内容由[BBS鄉民的正義前傳：必要之闇](https://zh.wikipedia.org/wiki/BBS鄉民的正義前傳：必要之闇)转换而来。
+
+
 《**BBS鄉民的正義前傳：必要之闇**》（）是由台灣導演林世勇所執導的電影《[BBS鄉民的正義](../Page/BBS鄉民的正義.md "wikilink")》前傳，於2013年11月15日於網路上映，改編自台灣[BBS](../Page/BBS.md "wikilink")網路事件。
 
 ## 劇情
@@ -130,4 +133,4 @@
 
   -
   -
-[Category:臺灣BBS](https://zh.wikipedia.org/wiki/Category:臺灣BBS "wikilink") [Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink") [Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink") [Category:台灣動作片](https://zh.wikipedia.org/wiki/Category:台灣動作片 "wikilink") [Category:前傳電影](https://zh.wikipedia.org/wiki/Category:前傳電影 "wikilink") [Category:臺灣真人真事改編電影](https://zh.wikipedia.org/wiki/Category:臺灣真人真事改編電影 "wikilink") [Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink")
+[Category:臺灣BBS](https://zh.wikipedia.org/wiki/Category:臺灣BBS "wikilink") [Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink") [Category:2013年臺灣電影](https://zh.wikipedia.org/wiki/Category:2013年臺灣電影 "wikilink") [Category:台灣動作片](https://zh.wikipedia.org/wiki/Category:台灣動作片 "wikilink") [Category:前傳電影](https://zh.wikipedia.org/wiki/Category:前傳電影 "wikilink") [Category:臺灣真人真事改編電影](https://zh.wikipedia.org/wiki/Category:臺灣真人真事改編電影 "wikilink") [Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink")

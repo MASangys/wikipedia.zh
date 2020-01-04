@@ -1,3 +1,6 @@
+> 本文内容由[ONLY ONE](https://zh.wikipedia.org/wiki/ONLY_ONE)转换而来。
+
+
 《**ONLY ONE**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第1枚正規韓語專輯。於2010年2月3日發行。唱片公司為[NH Media](../Page/NH_Media.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[TvN晨間連續劇](https://zh.wikipedia.org/wiki/TvN晨間連續劇)转换而来。
+
+
 **tvN晨間連續劇**（），亦稱**tvN日日連續劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台每逢週一至五晨間播放的](https://zh.wikipedia.org/wiki/tvN "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於2012年2月。
 
 《[黃色福壽草](https://zh.wikipedia.org/wiki/黃色福壽草 "wikilink")》為[tvN首部自製日日晨間劇](https://zh.wikipedia.org/wiki/tvN "wikilink")，由無線台[MBC所有之製作公司](https://zh.wikipedia.org/wiki/MBC "wikilink")[MBC C\&I製作](https://zh.wikipedia.org/wiki/MBC_C&I "wikilink")，找來於高收視家庭電視劇《[唐突的女人](../Page/唐突的女人.md "wikilink")》、《[一閃一閃亮晶晶](../Page/一閃一閃亮晶晶_\(韓國電視劇\).md "wikilink")》中頗有知名度的[李幼梨](../Page/李幼梨.md "wikilink")擔綱主演，與於《[你真漂亮](../Page/你真漂亮.md "wikilink")》中表現優異的男星[玄宇成](../Page/玄宇成.md "wikilink")、《[全都給你](../Page/全都給你.md "wikilink")》、《[我們家的女人們](../Page/我們家的女人們.md "wikilink")》裡深植人心惡女形象的[尹兒貞](../Page/尹兒貞.md "wikilink")及演出多部經典戲劇的[鄭燦](../Page/鄭燦.md "wikilink")搭檔演出，播出後，收視開紅盤，連續19周纏綿有線電視收視冠軍，於亞洲各地也頗有知名度，特別是於[台灣更是直逼本土偶像劇](https://zh.wikipedia.org/wiki/台灣 "wikilink")《[真愛找麻煩](../Page/真愛找麻煩.md "wikilink")》的高收視。第二部晨間劇《[玻璃假面](../Page/玻璃假面_\(韓國電視劇\).md "wikilink")》亦拿下收視第一的榮耀。

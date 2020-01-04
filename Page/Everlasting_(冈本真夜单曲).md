@@ -1,3 +1,6 @@
+> 本文内容由[Everlasting \(冈本真夜单曲\)](https://zh.wikipedia.org/wiki/Everlasting_\(冈本真夜单曲\))转换而来。
+
+
 《**Everlasting**》是日本创作歌手[冈本真夜](../Page/冈本真夜.md "wikilink")的第九张[单曲](../Page/单曲.md "wikilink")。1998年11月18日发售。发售商是[Tokuma Japan Communications](https://zh.wikipedia.org/wiki/Tokuma_Japan_Communications "wikilink")。
 
 ## 概要

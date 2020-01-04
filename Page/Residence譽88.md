@@ -1,3 +1,6 @@
+> 本文内容由[Residence譽88](https://zh.wikipedia.org/wiki/Residence譽88)转换而来。
+
+
 [Residence譽88.JPG](https://zh.wikipedia.org/wiki/File:Residence譽88.JPG "fig:Residence譽88.JPG") **Residence譽88**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[元朗](../Page/元朗.md "wikilink")[鳳翔路](https://zh.wikipedia.org/wiki/鳳翔路 "wikilink")88號，是[新鴻基地產](../Page/新鴻基地產.md "wikilink")的精品住宅項目，由新鴻基旗下頂級品牌「帝譽服務有限公司」管理。
 
 新輝城建工程負責承建。物業分為兩座，共提供352個住宅單位，預計2014年9月入伙，示範單位設於[九龍站](../Page/九龍站_\(港鐵\).md "wikilink")[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")。\[1\]\[2\]\[3\]\[4\]

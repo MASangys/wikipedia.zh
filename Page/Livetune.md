@@ -1,3 +1,6 @@
+> 本文内容由[Livetune](https://zh.wikipedia.org/wiki/Livetune)转换而来。
+
+
 **livetune**是一個[日本](../Page/日本.md "wikilink")音樂團體。原為同人音樂社團，如今是音樂製作人 kz 的個人團體。當前所屬音樂公司為 [TOY'S FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 
 ## 概要
@@ -116,59 +119,34 @@ livetune 為最早商業出道的[VOCALOID](../Page/VOCALOID.md "wikilink")音�
 [Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink") [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
 1.  「初音ミク」CDデビュー ビクター全国発売へ ソフトで制作の15曲収録『[北海道新聞](https://zh.wikipedia.org/wiki/北海道新聞 "wikilink")』2008年8月21日付朝刊、第10面
-
 2.  來自《Re:package》專輯盒封解說文。
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
 22.
 23.
 24.
 25.
-
 26.
-
 27.
-
 28.
-
 29.
 30.
-
 31.
 32.

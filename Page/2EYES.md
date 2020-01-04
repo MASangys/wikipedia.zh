@@ -1,3 +1,6 @@
+> 本文内容由[2EYES](https://zh.wikipedia.org/wiki/2EYES)转换而来。
+
+
 **2EYES**（），是[韓國公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SidusHQ](../Page/SidusHQ.md "wikilink")繼推出韓國國民偶像團體[g.o.d之後](https://zh.wikipedia.org/wiki/g.o.d "wikilink")，時隔十多年再度推出的偶像團體，為四人女子演唱團體，成員包括香淑、慧潾、多慎、多恩四名，團名的寓意是透過自身與粉絲的雙眼分享對音樂的共鳴。2013年6月20日，在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》以《別囂張》一曲正式出道。
 
 出道之前，香淑、慧潾、多慎和多恩便參與由[SidusHQ](../Page/SidusHQ.md "wikilink")主辦的[JTBC](../Page/JTBC.md "wikilink")電視台選秀節目《》，多慎為節目最終冠軍。慧潾曾為[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生。
@@ -195,4 +198,4 @@
   -
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink") [Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  [2EYES 成員個人概念照公開](http://kpopn.com/2015/08/19/292459/) 韓娛最前線 2015年08月19日
+1.  [2EYES 成員個人概念照公開](http://kpopn.com/2015/08/19/292459/)  韓娛最前線 2015年08月19日

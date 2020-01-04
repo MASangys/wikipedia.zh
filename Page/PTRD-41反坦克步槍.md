@@ -1,3 +1,6 @@
+> 本文内容由[PTRD-41反坦克步槍](https://zh.wikipedia.org/wiki/PTRD-41反坦克步槍)转换而来。
+
+
 **PTRD-41**（，意為：**捷格加廖夫系統反坦克步槍1941年型**）是[蘇聯紅軍於](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")[二次大戰期間採用的一種](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")[反坦克步槍](../Page/反坦克步槍.md "wikilink")，它是一種發射[14.5×114毫米槍彈的單發步槍](../Page/14.5×114mm.md "wikilink")。由於反坦克步槍早已是過時的武器，所以此槍無法擊穿較新的[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[坦克](../Page/坦克.md "wikilink")，並只能穿透二戰初期的坦克以及裝甲較弱的[自行火砲](https://zh.wikipedia.org/wiki/自行火砲 "wikilink")。
 
 ## 歷史

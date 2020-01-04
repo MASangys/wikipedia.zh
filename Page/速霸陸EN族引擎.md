@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸EN族引擎](https://zh.wikipedia.org/wiki/速霸陸EN族引擎)转换而来。
+
+
 **速霸陸EN族引擎**為[日本](../Page/日本.md "wikilink")[富士重工業在](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1989年至2012年之間開發製造、搭載於[輕型車](../Page/輕型車.md "wikilink")的水冷式[直列四缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")[汽油](../Page/汽油.md "wikilink")[往復式發動機](https://zh.wikipedia.org/wiki/往復式發動機 "wikilink")，除了D、X二型為[DOHC設計外](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")，其餘皆為[SOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")。在2012年停產時，此族引擎為所有輕型車車種唯一、亦是日本全車系唯一搭載[機械增壓器的引擎](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")。
 
 ## EN05A型

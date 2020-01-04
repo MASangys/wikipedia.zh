@@ -1,3 +1,6 @@
+> 本文内容由[SBS晨間連續劇](https://zh.wikipedia.org/wiki/SBS晨間連續劇)转换而来。
+
+
 **SBS晨間連續劇**（），亦稱**SBS日日晨間劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS每逢週一至週五晨間播放的](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1991年12月。
 
 ## 播映時間
@@ -1222,7 +1225,7 @@
 <td style="text-align: center;"><p><a href="../Page/你的女人.md" title="wikilink">你的女人</a><br />
 </p></td>
 <td style="text-align: center;"><p>120</p></td>
-<td style="text-align: center;"><p><a href="../Page/李幼梨.md" title="wikilink">李幼梨</a>、<a href="../Page/朴胤載.md" title="wikilink">朴胤載</a>、<a href="../Page/林湖.md" title="wikilink">林湖</a>、<a href="https://zh.wikipedia.org/wiki/朴榮鄰" title="wikilink">朴榮鄰</a>、<a href="https://zh.wikipedia.org/wiki/李秉旭" title="wikilink">李秉旭</a>、<a href="../Page/鄭漢溶.md" title="wikilink">鄭漢溶</a>、<a href="../Page/李美英.md" title="wikilink">李美英</a>、<a href="https://zh.wikipedia.org/wiki/姜石定" title="wikilink">姜石定</a>、<a href="../Page/劉河俊.md" title="wikilink">劉河俊</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李幼梨.md" title="wikilink">李幼梨</a>、<a href="../Page/朴胤載.md" title="wikilink">朴胤載</a>、<a href="../Page/林湖.md" title="wikilink">林湖</a>、<a href="../Page/朴榮鄰.md" title="wikilink">朴榮鄰</a>、<a href="https://zh.wikipedia.org/wiki/李秉旭" title="wikilink">李秉旭</a>、<a href="../Page/鄭漢溶.md" title="wikilink">鄭漢溶</a>、<a href="../Page/李美英.md" title="wikilink">李美英</a>、<a href="https://zh.wikipedia.org/wiki/姜石定" title="wikilink">姜石定</a>、<a href="../Page/劉河俊.md" title="wikilink">劉河俊</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭孝" title="wikilink">鄭孝</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李道英.md" title="wikilink">李道英</a></p></td>
 <td style="text-align: center;"></td>
@@ -1433,7 +1436,7 @@
 <td style="text-align: center;"><p><a href="../Page/甜蜜的冤家.md" title="wikilink">甜蜜的冤家</a><br />
 </p></td>
 <td style="text-align: center;"><p>124</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴恩惠.md" title="wikilink">朴恩惠</a>、<a href="https://zh.wikipedia.org/wiki/劉健_(韓國)" title="wikilink">劉健</a>、、</p></td>
+<td style="text-align: center;"><p><a href="../Page/朴恩惠.md" title="wikilink">朴恩惠</a>、<a href="https://zh.wikipedia.org/wiki/劉健_(韓國)" title="wikilink">劉健</a>、、<a href="https://zh.wikipedia.org/wiki/朴泰仁" title="wikilink">朴泰仁</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李賢植" title="wikilink">李賢植</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白英淑" title="wikilink">白英淑</a></p></td>
 <td style="text-align: center;"></td>
@@ -1548,12 +1551,12 @@
 <td style="text-align: center;"><p><strong>UHD畫質製作</strong></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年11月11日-2020年<br />
+<td style="text-align: center;"><p>2019年11月12日－2020年5月<br />
 </p></td>
 <td style="text-align: center;"><p><a href="../Page/想品嚐一下味道嗎？.md" title="wikilink">想品嚐一下味道嗎？</a><br />
 </p></td>
 <td style="text-align: center;"><p>124</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓英_(演員)" title="wikilink">韓英</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/沈宜英.md" title="wikilink">沈宜英</a>、<a href="../Page/徐道永.md" title="wikilink">徐道永</a>、<a href="../Page/徐河俊.md" title="wikilink">徐河俊</a>、、、</p></td>
 <td style="text-align: center;"><p><a href="../Page/尹柳海.md" title="wikilink">尹柳海</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金道賢" title="wikilink">金道賢</a></p></td>
 <td style="text-align: center;"></td>

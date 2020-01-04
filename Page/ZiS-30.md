@@ -1,3 +1,6 @@
+> 本文内容由[ZiS-30](https://zh.wikipedia.org/wiki/ZiS-30)转换而来。
+
+
 **ZiS-30**是[蘇聯于](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1941年開始生產的[驅逐戰車](../Page/驅逐戰車.md "wikilink")或稱為自行反坦克炮。
 
 ## 開發及設計
@@ -25,5 +28,5 @@ ZiS-30在1941-1942年[莫斯科戰役](../Page/莫斯科戰役.md "wikilink")期
 [Category:驅逐戰車](https://zh.wikipedia.org/wiki/Category:驅逐戰車 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
 
 1.  David Porter著，Soviet Tank Unit 1939-45 ISBN 978-986-6326-70-7
-2.  <http://www.wwiivehicles.com/ussr/guns.asp>
+2.
 3.  David Porter著，Soviet Tank Unit 1939-45 ISBN 978-986-6326-70-7

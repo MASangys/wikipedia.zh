@@ -1,3 +1,6 @@
+> 本文内容由[北京BISS国际学校](https://zh.wikipedia.org/wiki/北京BISS国际学校)转换而来。
+
+
 [THINK_Global_Students_at_BISS.jpg](https://zh.wikipedia.org/wiki/File:THINK_Global_Students_at_BISS.jpg "fig:THINK_Global_Students_at_BISS.jpg") **北京BISS国际学校**\[1\](**Beijing BISS International School**)是一所位于[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[朝阳区的国际学校](https://zh.wikipedia.org/wiki/朝阳区_\(北京\) "wikilink")，创立于1994年。面积有11,000[平方米](../Page/平方米.md "wikilink")。拥有幼儿园预科班到高三（12年级）\[2\]
 
 2012年幼儿园和一年级学费为109,800元。该校拥有至少330名学生。\[3\] 幼儿园学费为150,000元，一年级学费為206,000元，11-12年级学费為245,000元。

@@ -1,3 +1,6 @@
+> 本文内容由[Pussy \(歌曲\)](https://zh.wikipedia.org/wiki/Pussy_\(歌曲\))转换而来。
+
+
 "**Pussy**"是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，收录于[Liebe ist für alle da专辑](../Page/Liebe_ist_für_alle_da.md "wikilink")\[1\]，歌曲带有争议性的色情MV，由乐队成员表演，部分由替身表演。\[2\]
 
 单曲MV于2009年9月16日发布于[The Gauntlet](http://www.thegauntlet.com/article/307/16877/Rammstein-releases-video-for-Pussy.html)视频也同时确认了新单曲名称。

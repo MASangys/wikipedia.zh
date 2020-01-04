@@ -1,3 +1,6 @@
+> 本文内容由[SCO Group](https://zh.wikipedia.org/wiki/SCO_Group)转换而来。
+
+
 **SCO Group**，簡稱SCO，前身為**Caldera Systems**、**Caldera International**，破產後曾改名為**TSG Group, Inc**，美國電腦軟體公司，在併購了[聖克魯茲作業](../Page/聖克魯茲作業.md "wikilink")（Santa Cruz Operation）伺服器軟體與伺服器技術部門，得到[UnixWare與](https://zh.wikipedia.org/wiki/UnixWare "wikilink")[OpenServer](../Page/OpenServer.md "wikilink")技術，引起了[SCO-Linux爭議](https://zh.wikipedia.org/wiki/SCO-Linux爭議 "wikilink")。
 
 2007年，SCO Group申請破產。2011年4月，UnXis收購SCO Group，將它更名為TSG Group。

@@ -1,3 +1,6 @@
+> 本文内容由[Libavcodec](https://zh.wikipedia.org/wiki/Libavcodec)转换而来。
+
+
 **libavcodec**是一款[LGPL](../Page/GNU宽通用公共许可证.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")编解码库，用于视频和音频数据的编解码工作。带有这个名字的库有[FFmpeg](../Page/FFmpeg.md "wikilink")项目和[Libav项目](https://zh.wikipedia.org/wiki/Libav "wikilink")，但是它们却彼此不兼容。
 
 libavcodec是个集成了许多开源多媒体应用和框架。常见的[MPlayer](../Page/MPlayer.md "wikilink")、[xine和](https://zh.wikipedia.org/wiki/xine "wikilink")[VLC媒体播放器都使用它作为它们的主要内置解码引擎](https://zh.wikipedia.org/wiki/VLC "wikilink")，用于许多音频视频格式在所有支持的平台上的重放。它也被[ffdshow试用解码器用作主要的解码库](https://zh.wikipedia.org/wiki/ffdshow "wikilink")。libavcodec也被用于视频编辑和转换应用，例如[Avidemux](../Page/Avidemux.md "wikilink")、或者[Kdenlive](../Page/Kdenlive.md "wikilink")既用它解码也用其编码。
@@ -120,13 +123,15 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
   - [Truespeech](https://zh.wikipedia.org/wiki/Truespeech "wikilink")（僅解碼）
 
-  - [TTA](../Page/TTA.md "wikilink")（僅解碼）
+  - [TrueHD](https://zh.wikipedia.org/wiki/杜比TrueHD "wikilink")（编码仍在实验中）
+
+  - [TTA](../Page/TTA.md "wikilink")
 
   - [TwinVQ](https://zh.wikipedia.org/wiki/TwinVQ "wikilink")（僅解碼）
 
   - [Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")
 
-  - [WavPack](../Page/WavPack.md "wikilink")（僅解碼）
+  - [WavPack](../Page/WavPack.md "wikilink")
 
   - 1與2
 
@@ -275,6 +280,8 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
   - [FreeJ](https://zh.wikipedia.org/wiki/FreeJ "wikilink")
   - [Ingex Studio](https://zh.wikipedia.org/wiki/Ingex "wikilink") – used by [BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")
   - [PulseAudio](../Page/PulseAudio.md "wikilink") – includes only resamplers code\[8\]
+
+## 注释
 
 ## 参考资料
 

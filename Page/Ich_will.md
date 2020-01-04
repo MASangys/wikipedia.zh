@@ -1,3 +1,6 @@
+> 本文内容由[Ich will](https://zh.wikipedia.org/wiki/Ich_will)转换而来。
+
+
 "**Ich will**"（德译：我想）是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，2001年9月10日最初发布于德国，由于一天后的[九一一袭击事件](../Page/九一一袭击事件.md "wikilink")，许多频道没有播送该曲的MV（原计划9月11日晚在美国电视上播出）。德版单曲目录包含了由[Flake翻唱的](https://zh.wikipedia.org/wiki/克里斯汀·洛伦茨 "wikilink")[雷蒙斯合唱团的歌曲](https://zh.wikipedia.org/wiki/雷蒙斯合唱团 "wikilink")"Pet Sematary"。
 
 ## MV

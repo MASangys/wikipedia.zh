@@ -1,3 +1,6 @@
+> 本文内容由[Pencil2D](https://zh.wikipedia.org/wiki/Pencil2D)转换而来。
+
+
 {{ infobox software | name = Pencil2D | screenshot = [Pencil-home.png](https://zh.wikipedia.org/wiki/File:Pencil-home.png "fig:Pencil-home.png")
 Pencil官网上的宣传图片。\[1\] | developer = Pascal Naidon | latest release version = 0.6.2 | latest release date =  | programming language = [C++](../Page/C++.md "wikilink") | operating_system = [Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink"), [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"), [Linux](../Page/Linux.md "wikilink"), [BSD](../Page/FreeBSD.md "wikilink") | genre = [动画](../Page/计算机动画.md "wikilink") | license = [GNU General Public License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink") | website = <http://www.pencil2d.org/> }}
 

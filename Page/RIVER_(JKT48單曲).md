@@ -1,3 +1,6 @@
+> 本文内容由[RIVER \(JKT48單曲\)](https://zh.wikipedia.org/wiki/RIVER_\(JKT48單曲\))转换而来。
+
+
 《**RIVER**》是[印度尼西亚](../Page/印度尼西亚.md "wikilink")女子偶像组合[JKT48](../Page/JKT48.md "wikilink")的第1张单曲唱片，分为通常盘与剧场盘两种式样，剧场盘在5月11日\[1\]起于JKT48剧场先行，通常盘于5月17日正式由发行。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《RIVER》實際上就是姊妹團體[AKB48](../Page/AKB48.md "wikilink")的第14首單曲《[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")》，只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia SP](https://zh.wikipedia.org/wiki/索尼Xperia_SP)转换而来。
+
+
 **Sony Xperia SP**是2013年[Sony公司發佈的中階](https://zh.wikipedia.org/wiki/Sony "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，是[Sony Xperia S和](../Page/Sony_Xperia_S.md "wikilink")[Sony Xperia SL的兄弟機](https://zh.wikipedia.org/wiki/Sony_Xperia_SL "wikilink")，屬於[Xperia](../Page/Xperia.md "wikilink")系列。
 
 機身採鋁合金邊框，底部設有會變換多色的炫彩透明帶，會因應來電、訊息或音樂播放而閃耀不同的燈光效果，於2013年4月推出。\[1\]Xperia SP採用Qualcomm MSM8960T 1.7GHz 雙核心處理器, 比起一般的雙核心處理器手機表現出更佳的性能。\[2\]

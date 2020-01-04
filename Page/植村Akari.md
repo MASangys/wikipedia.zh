@@ -1,3 +1,6 @@
+> 本文内容由[植村Akari](https://zh.wikipedia.org/wiki/植村Akari)转换而来。
+
+
 **植村あかり**（）[Hello\! Pro研修生第十四期成員](../Page/Hello!_Pro研修生.md "wikilink")。現為[Hello\! Project旗下女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")[Juice=Juice的成員之一](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")。
 
 隸屬於[UP-FRONT AGENCY事務所](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。2013年夏天正式出道。血型O型，身高164.4公分。

@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸ff-1](https://zh.wikipedia.org/wiki/速霸陸ff-1)转换而来。
+
+
 **速霸陸ff-1**（）為[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1969年至1971年間推出的[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")，乃[速霸陸1000](../Page/速霸陸1000.md "wikilink")的後繼車款，美規車名則為**速霸陸ff-1 Star**。
 
 車名中的「ff」代表[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「**f**ront-engine, **f**ront-wheel drive layout」，也就是「[前置前驅](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")」之意。

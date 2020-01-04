@@ -1,3 +1,6 @@
+> 本文内容由[Midnight Sun](https://zh.wikipedia.org/wiki/Midnight_Sun)转换而来。
+
+
 「**Midnight Sun**」（午夜陽光）是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST的第](https://zh.wikipedia.org/wiki/BEAST "wikilink")5張迷你專輯，於2012年7月22日發行，主打歌為「美麗的夜晚」，唱片公司為[Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。\[1\]新曲「Midnight（數星星的夜）」為此專輯的先行曲目，並於2012年7月15日數位發行。此曲往後成為BEAST第三張日語單曲「Midnight -數星星的夜-」的韓語版本。\[2\]日本版本於9月26日發行，共有兩版，一版追加收錄BEAST在韓國發行的數位單曲「我知道了（이럴 줄 알았어）」，\[3\]另一版則是加贈DVD，內容為專輯歌曲的音樂錄影帶。\[4\]
 
 ## 收錄內容
@@ -75,21 +78,15 @@
 [Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:2012年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯週榜冠軍作品 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
 8.
 9.
-
 10.
-
 11.
 12.
 13.

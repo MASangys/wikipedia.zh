@@ -1,3 +1,6 @@
+> 本文内容由[Macross The Musicalture](https://zh.wikipedia.org/wiki/Macross_The_Musicalture)转换而来。
+
+
 「**Macross The Musicalture**」（）是日本動畫作品「[Macross Series](https://zh.wikipedia.org/wiki/Macross_Series "wikilink")」的首部[音樂劇](../Page/音樂劇.md "wikilink")作品。於2012年10月3日至10月8日，在[Tokyo Dome City Hall](../Page/MEETS_PORT.md "wikilink")（）全8場公演。
 
 ## 概要

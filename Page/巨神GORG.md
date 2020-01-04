@@ -1,3 +1,6 @@
+> 本文内容由[巨神GORG](https://zh.wikipedia.org/wiki/巨神GORG)转换而来。
+
+
 FUTANARI
 
 《**巨神GORG**》（原題：）是[日本](../Page/日本.md "wikilink")的[機器人動畫](../Page/機器人動畫.md "wikilink")。由[東京電視台](../Page/東京電視台.md "wikilink")在1984年4月5日至同年9月27日播放，全26話。

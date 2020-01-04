@@ -1,3 +1,6 @@
+> 本文内容由[东方茨歌仙 ～ Wild and Horned Hermit.](https://zh.wikipedia.org/wiki/东方茨歌仙_～_Wild_and_Horned_Hermit.)转换而来。
+
+
 《**東方茨歌仙 〜 Wild and Horned Hermit.**》（）是[东方Project在](https://zh.wikipedia.org/wiki/东方Project "wikilink")[一迅社](../Page/一迅社.md "wikilink")《》上连载的漫画作品。从2010年7月24日在该刊开始连载，也在同社刊《Comic REX》2011年5 - 6月号和2012年3 - 4月刊发布「（番外篇）」。原作为ZUN，由作画。
 
 ## 剧情概述

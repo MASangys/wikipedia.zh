@@ -1,3 +1,6 @@
+> 本文内容由[文明帝國V：美麗新世界](https://zh.wikipedia.org/wiki/文明帝國V：美麗新世界)转换而来。
+
+
 《**文明帝國V：美麗新世界**》（）是[回合制策略](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[文明帝國V](https://zh.wikipedia.org/wiki/文明帝國V "wikilink")》的第二個[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")。此資料片的消息在2013年3月15日公佈，資料片增加了9個新文-{}-明、8個世界奇觀、兩個情景、貿易路線機制和世界議會機制。\[1\]《美麗新世界》2013年7月9日在美國發售，12日在世界其他地方發售。\[2\]
 
 ## 新增文明
@@ -20,7 +23,7 @@
 <td><p><a href="../Page/皮雅斯特王朝时期的波兰.md" title="wikilink">波兰</a></p></td>
 <td><p>波兰文明</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/卡西米尔三世" title="wikilink">卡西米尔三世</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波兰翼骑兵" title="wikilink">翼骑兵</a></p></td>
+<td><p><a href="../Page/波兰翼骑兵.md" title="wikilink">翼骑兵</a></p></td>
 <td><p>-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/公爵马厩" title="wikilink">公爵马厩</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/团结工会" title="wikilink">团结协作</a></p></td>

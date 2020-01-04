@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 NY公演](https://zh.wikipedia.org/wiki/AKB48_NY公演)转换而来。
+
+
 **AKB48 NY公演**是[日本](../Page/日本.md "wikilink")女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2009年9月27日在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")舉行的演唱會，亦是AKB48第一個海外演唱會\[1\]\[2\]\[3\]。
 
 ## 概要
@@ -66,37 +69,22 @@
 <!-- end list -->
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
 16.
 17.
-
 18.
-
 19.
-
 20. [DVD介紹頁面](http://www.akb48-dvdcatalog.com/mag_3/)

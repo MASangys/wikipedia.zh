@@ -1,3 +1,6 @@
+> 本文内容由[LDH \(藝能事務所\)](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\))转换而来。
+
+
 **株式會社LDH JAPAN**（*LDH JAPAN Inc.*）是[日本](../Page/日本.md "wikilink")的[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀及綜合](../Page/經紀公司.md "wikilink")[娛樂](../Page/娛樂.md "wikilink")公司，於2002年10月17日由[放浪兄弟](../Page/放浪兄弟.md "wikilink")（EXILE）的6名初期成員出資成立。公司名稱是其成立宗旨「**<u>L</u>**ove, **<u>D</u>**ream, **<u>H</u>**appiness」的縮寫。旗下擁有[放浪一族](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")（EXILE TRIBE）、[E.G.family等眾多](https://zh.wikipedia.org/wiki/#E.G.family "wikilink")[歌舞系的藝人及音樂組合](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")。
 
 ## 概要

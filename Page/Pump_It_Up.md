@@ -1,3 +1,6 @@
+> 本文内容由[Pump It Up](https://zh.wikipedia.org/wiki/Pump_It_Up)转换而来。
+
+
 **Pump It Up**，简称“**PIU**”或“**Pump**”，是一款由韩国公司发布的一款跳舞机游戏。该游戏是由五個箭頭組成的的跳舞毯或踏板，玩家根據屏幕上的指示踩下相應的箭頭；该游戏的第一个版本在韩国于1999年8月发售，且该游戏发售至其他国家的市场。目前最新作为《Pump it Up 2015 (Prime版+Japanese Edition)》
 
 ## 法定权利问题

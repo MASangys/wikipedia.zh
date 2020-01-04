@@ -1,3 +1,6 @@
+> 本文内容由[AKB48之野望](https://zh.wikipedia.org/wiki/AKB48之野望)转换而来。
+
+
 《**AKB48之野望**》是[智能手提電話專用的免費](https://zh.wikipedia.org/wiki/智能手提電話 "wikilink")[網上遊戲](https://zh.wikipedia.org/wiki/網上遊戲 "wikilink")。
 
 ## 概述

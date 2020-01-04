@@ -1,3 +1,6 @@
+> 本文内容由[雷明登SR8狙擊步槍](https://zh.wikipedia.org/wiki/雷明登SR8狙擊步槍)转换而来。
+
+
 **雷明登SR8狙擊步槍**（）是一枝由[美国](../Page/美国.md "wikilink")槍械製造商[雷明登軍品分公司](../Page/雷明登武器公司.md "wikilink")（，雷明登武器公司的分部門）所研製的原型[手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史和設計

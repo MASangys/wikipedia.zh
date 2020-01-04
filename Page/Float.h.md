@@ -1,3 +1,6 @@
+> 本文内容由[Float.h](https://zh.wikipedia.org/wiki/Float.h)转换而来。
+
+
 **`float.h`**是[C標準函数庫中的](https://zh.wikipedia.org/wiki/C標準函数庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了浮点类型的一些极限值。
 
 ## 宏

@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Camera](https://zh.wikipedia.org/wiki/三星Galaxy_Camera)转换而来。
+
+
 [Samsung_Galaxy_Camera.png](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_Camera.png "fig:Samsung_Galaxy_Camera.png") [Samsung_Galaxy_Camera_rear.png](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_Camera_rear.png "fig:Samsung_Galaxy_Camera_rear.png") **Samsung Galaxy Camera**是一个[傻瓜相机](../Page/傻瓜相机.md "wikilink")，是一个基于Android的移动设备。Galaxy Camera在2012年8月宣布的口号是“相机。重生。”（）\[1\]，但当时没有提及的价格或出货日期。\[2\]
 
 该相机采用16万像素的CMOS传感器和21倍的光学[变焦镜头](../Page/变焦镜头.md "wikilink")，以及[Wi-Fi](../Page/Wi-Fi.md "wikilink")和[3G](../Page/3G.md "wikilink")连接，一个，可以在照片上标记[地理位置](../Page/地理标记的照片.md "wikilink")。相机附带的软件可以存储，组织，编辑和在线共享图像和视频\[3\]。与其他Android设备一样，其他软件可以从[Google Play等商店下载](../Page/Google_Play.md "wikilink")。\[4\]

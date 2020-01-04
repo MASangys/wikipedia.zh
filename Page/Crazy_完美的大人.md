@@ -1,3 +1,6 @@
+> 本文内容由[Crazy 完美的大人](https://zh.wikipedia.org/wiki/Crazy_完美的大人)转换而来。
+
+
 《**Crazy 完美的大人**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第21張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年4月3日由[zetima發售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Vahan突擊步槍](https://zh.wikipedia.org/wiki/Vahan突擊步槍)转换而来。
+
+
 **Vahan**（[亞美尼亞語](https://zh.wikipedia.org/wiki/亞美尼亞語 "wikilink")：Վահան，意為「護盾」）是由Vahan S. Manasian研製的一種[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
 
 ## 歷史

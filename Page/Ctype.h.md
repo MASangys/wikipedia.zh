@@ -1,3 +1,6 @@
+> 本文内容由[Ctype.h](https://zh.wikipedia.org/wiki/Ctype.h)转换而来。
+
+
 **`ctype.h`**是[C標準函数庫中的](https://zh.wikipedia.org/wiki/C標準函数庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了一批[C语言字符分类函数](https://zh.wikipedia.org/wiki/C语言 "wikilink")（C character classification functions），用于测试字符是否属于特定的字符类别，如字母字符、控制字符等等。既支持单字节字符，也支持[宽字符](https://zh.wikipedia.org/wiki/宽字符 "wikilink")。\[1\]
 
 ## 实现

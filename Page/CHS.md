@@ -1,3 +1,6 @@
+> 本文内容由[CHS](https://zh.wikipedia.org/wiki/CHS)转换而来。
+
+
 **CHS**可能指：
 
   - [加拿大血友病协会](https://zh.wikipedia.org/wiki/加拿大血友病协会 "wikilink")（），一家位于加拿大代表罹患遗传性出血疾病人士及其朋友与家庭的组织

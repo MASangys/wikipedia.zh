@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 1st演唱會「想見你～柱子沒了唷!～」](https://zh.wikipedia.org/wiki/AKB48_1st演唱會「想見你～柱子沒了唷!～」)转换而来。
+
+
 **AKB48 1st演唱會 「想見你～柱子沒了唷\!～」\[1\]**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2006年11月3日至4日於[日本青年館](../Page/日本青年館.md "wikilink")舉行的演唱會\[2\]，為AKB48的初次演唱會。
 
 ## 概要
@@ -125,23 +128,14 @@
 [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 
 1.  [AKB48劇場](../Page/AKB48劇場.md "wikilink")有兩根大柱子遮蔽視線，此場地原為創團期因租不到較佳場地而租下的表演場所。歌迷會因而稱「柱子會」。
-
 2.
-
 3.
-
 4.  [演唱會網站](https://web.archive.org/web/20070206173038/http://www.akb48.co.jp/1stconcert/)（Internet Archive）
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
-
 12.

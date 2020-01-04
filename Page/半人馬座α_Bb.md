@@ -1,3 +1,6 @@
+> 本文内容由[半人馬座α Bb](https://zh.wikipedia.org/wiki/半人馬座α_Bb)转换而来。
+
+
 [Artist’s_impression_of_a_planet_around_Alpha_Centauri_B_(symbolic,_annotated).jpg](https://zh.wikipedia.org/wiki/File:Artist’s_impression_of_a_planet_around_Alpha_Centauri_B_\(symbolic,_annotated\).jpg "fig:Artist’s_impression_of_a_planet_around_Alpha_Centauri_B_(symbolic,_annotated).jpg")所繪的半人馬座αBb想像圖\]\] **半人馬座αBb**（**Alpha Centauri Bb**），即**南門二Bb**，是環繞[光譜類型](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink") K 型主序星[南門二](../Page/南門二.md "wikilink")B的一顆可能的[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")，距離地球約4.37光年，位於[半人馬座](https://zh.wikipedia.org/wiki/半人馬座 "wikilink")。目前該行星的存在可能性已被推翻\[1\]。
 
 一個來自歐洲的觀測者團隊於2012年10月聲稱發現該行星，消息廣為傳媒報導，不過有一些天文學家則抱持懷疑態度，認為該歐洲團隊把數據過度解讀。

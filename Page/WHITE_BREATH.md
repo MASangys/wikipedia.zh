@@ -1,3 +1,6 @@
+> 本文内容由[WHITE BREATH](https://zh.wikipedia.org/wiki/WHITE_BREATH)转换而来。
+
+
 《**WHITE BREATH**》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在1997年10月12日发行的单曲。为自身的第六张单曲。唱片由日本索尼音乐娱乐(Epic Records Japan)代理發行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Free!](https://zh.wikipedia.org/wiki/Free!)转换而来。
+
+
 《**Free\!**》（）是由[日本動畫公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")[京都動畫](../Page/京都動畫.md "wikilink")和旗下子公司[Animation Do共同製作的](../Page/京都動畫.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2013年7月3日至9月25日播放第1期，2014年7月2日至9月24日播放第2期，第三期於2018年7月11日至2018年9月26日播放。於[TOKYO MX與](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")[朝日放送](../Page/朝日放送.md "wikilink")（Asahi Broadcasting Corporation）等電視台播放。
 
 ## 概要
@@ -1601,37 +1604,21 @@ WEB版預告映像</p></td>
 [Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink") [Category:2017年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2017年日本劇場動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:游泳題材作品](https://zh.wikipedia.org/wiki/Category:游泳題材作品 "wikilink") [Category:鳥取縣背景作品](https://zh.wikipedia.org/wiki/Category:鳥取縣背景作品 "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:Lantis](https://zh.wikipedia.org/wiki/Category:Lantis "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:體育動畫](https://zh.wikipedia.org/wiki/Category:體育動畫 "wikilink") [Category:2013年日本小說](https://zh.wikipedia.org/wiki/Category:2013年日本小說 "wikilink") [Category:高中背景小說](https://zh.wikipedia.org/wiki/Category:高中背景小說 "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  標題以播放時所顯示的字幕為準。
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16. [「Free\!」系列](https://twitter.com/iwatobi_sc/status/843418371924221952)在[Twitter](../Page/Twitter.md "wikilink")的官方網站. 2017-03-19 \[2017-03-22\] （日語）.
-
 17.
-
 18.
-
 19.

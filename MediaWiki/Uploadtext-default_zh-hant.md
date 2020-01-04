@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Uploadtext-default/zh-hant](https://zh.wikipedia.org/wiki/MediaWiki:Uploadtext-default/zh-hant)转换而来。
+
+
   -
     <span style="font-size: large; color: red">**請等等！**</span> 上載任何檔案之前，請務必了解**[Wikipedia:圖像使用守則](https://zh.wikipedia.org/wiki/Wikipedia:圖像使用守則 "wikilink")**以及**[Wikipedia:版權常見問題解答](https://zh.wikipedia.org/wiki/Wikipedia:版權常見問題解答 "wikilink")**的規範。
     <span style="font-size: small;">為了方便簡體字和繁體字用戶搜尋對方上載的圖片，檔案名稱請**避免使用漢字**。</span>

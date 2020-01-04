@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla在地化](https://zh.wikipedia.org/wiki/Mozilla在地化)转换而来。
+
+
 **Mozilla在地化**是指[Mozilla](../Page/Mozilla.md "wikilink")產品的[在地化版本](https://zh.wikipedia.org/wiki/國際化與在地化 "wikilink")。這通常是指產品的翻譯以及當地特色的加入。
 
 在地化通常是由一群[志工所組成的團體](https://zh.wikipedia.org/wiki/志工 "wikilink")（摩茲志士）所進行。
@@ -2167,17 +2170,12 @@
   - [網頁瀏覽器列表](https://zh.wikipedia.org/wiki/網頁瀏覽器列表 "wikilink")
   - [網頁瀏覽器時間線](https://zh.wikipedia.org/wiki/網頁瀏覽器時間線 "wikilink")
 
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink") [Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink")
+[Category:Firefox](https://zh.wikipedia.org/wiki/Category:Firefox "wikilink") [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink") [Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink")
 
 1.
-
 2.
 3.
-
 4.  ，原載於[1](http://www.angeloliu.org/read-80.html)
-
 5.
-
 6.
-
 7.

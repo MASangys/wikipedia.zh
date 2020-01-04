@@ -7,7 +7,7 @@
 
 [1940_Tula_SVT40.jpg](https://zh.wikipedia.org/wiki/File:1940_Tula_SVT40.jpg "fig:1940_Tula_SVT40.jpg")
 
-軍用[半自動步槍的歷史大約可以追溯到](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")20世纪1936年，當時[美軍部隊大規模地列裝了](https://zh.wikipedia.org/wiki/美軍 "wikilink")[M1加蘭德步枪](https://zh.wikipedia.org/wiki/M1加蘭德步枪 "wikilink")，此為史上第一款大量裝備軍隊的半自動步槍。
+軍用[半自動步槍的歷史大約可以追溯到](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")20世纪初。1908年，墨西哥上將曼努埃爾·蒙德拉貢發明的[蒙德拉貢步槍](../Page/蒙德拉貢步槍.md "wikilink")，為史上第一款裝備軍隊并被運用於从[墨西哥革命](../Page/墨西哥革命.md "wikilink")至[越南战争](../Page/越南战争.md "wikilink")多场战争的半自動步槍。
 
 在20世纪30年代，托卡列夫即試製了一種後座式的半自動步槍，此謂**SVT-38**，並著力把它改進成採用短行程活塞的導氣式，即是**SVT-40**。
 

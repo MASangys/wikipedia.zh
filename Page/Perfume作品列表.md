@@ -1161,6 +1161,11 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>再生</p></td>
+<td><p>KASICO(監督:關和亮)</p></td>
+</tr>
 </tbody>
 </table>
 

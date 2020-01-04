@@ -1,3 +1,6 @@
+> 本文内容由[SEKAI NO OWARI](https://zh.wikipedia.org/wiki/SEKAI_NO_OWARI)转换而来。
+
+
 **SEKAI NO OWARI**（），意即[世界末日](https://zh.wikipedia.org/wiki/世界末日 "wikilink")，簡稱（SEKAOWA），為[日本](../Page/日本.md "wikilink")的一隊四人樂隊，於2007年組成。於2011年憑藉[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[INORI](https://zh.wikipedia.org/wiki/INORI "wikilink")》正式出道，隸屬[TOY'S FACTORY旗下](../Page/TOY'S_FACTORY.md "wikilink")。成員有三男一女，包括主唱Fukase、結他手及團長Nakajin、鋼琴手Saori和戴着[小丑](../Page/小丑.md "wikilink")面具的DJ LOVE。過往的名稱為，海外活動以**End of the World**為名稱進行。
 
 ## 成員
@@ -12,7 +15,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Fukase（深瀨慧）</p></td>
+<td><p>Fukase（深瀬慧）</p></td>
 <td></td>
 <td><p>主唱</p></td>
 </tr>
@@ -64,9 +67,11 @@ SEKAI NO OWARI的四名成員都是識於微時的朋友。Fukase和Saori由[幼
 
 承著紅白的氣勢，2015年1月14日推出了第2張大碟「Tree」，首周已獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")中大碟榜第1名；售出超過24萬張，是上一張大碟首周銷量的3.8倍\[50\]，同時亦宣佈了將於7月在[日產體育場舉行一連兩日的演唱會](https://zh.wikipedia.org/wiki/日產體育場 "wikilink")，共14萬人次的出席。
 
+2019年，SEKAI NO OWARI舉行亞巡，首站為台灣場，於10月11日在台北TICC舉行。\[51\]\[52\]
+
 ## 風格
 
-SEKAI NO OWARI並非由一名成員主導創作，除了DJ LOVE以外的成員都會作曲和填詞，而且會從個人的作品選出主打的歌曲。\[51\]他們的歌詞中常常出現極度對立的主題，如「生與死」、「希望與絕望」、「戰爭與和平」等。\[52\]不過，主唱Fukase常將這些陰暗的歌詞配以輕快的旋律，他曾表示很喜歡以反面來描寫正面的事物。\[53\]他們的歌曲亦被形容為將現實和幻想融合，擁有其獨特的夢幻世界觀。\[54\]\[55\]
+SEKAI NO OWARI並非由一名成員主導創作，除了DJ LOVE以外的成員都會作曲和填詞，而且會從個人的作品選出主打的歌曲。\[53\]他們的歌詞中常常出現極度對立的主題，如「生與死」、「希望與絕望」、「戰爭與和平」等。\[54\]不過，主唱Fukase常將這些陰暗的歌詞配以輕快的旋律，他曾表示很喜歡以反面來描寫正面的事物。\[55\]他們的歌曲亦被形容為將現實和幻想融合，擁有其獨特的夢幻世界觀。\[56\]\[57\]
 
 ## 作品列表
 
@@ -78,7 +83,7 @@ SEKAI NO OWARI並非由一名成員主導創作，除了DJ LOVE以外的成員�
 <th><p>張數</p></th>
 <th><p>發行日期</p></th>
 <th><p>名稱</p></th>
-<th><p>最高週榜排名[56]</p></th>
+<th><p>最高週榜排名[58]</p></th>
 <th><p>規格</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 </tr>
@@ -300,7 +305,7 @@ CD</p></td>
 <th><p>張數</p></th>
 <th><p>發行日期</p></th>
 <th><p>名稱</p></th>
-<th><p>最高週榜排名[57]</p></th>
+<th><p>最高週榜排名[59]</p></th>
 <th><p>規格</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 </tr>
@@ -387,7 +392,7 @@ CD</p></td>
 
 ### DVD
 
-| 編號      | 發行日期       | 名稱                                                                                                                                        | 規格           | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 最高週榜排名\[58\] |
+| 編號      | 發行日期       | 名稱                                                                                                                                        | 規格           | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 最高週榜排名\[60\] |
 | ------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------- | ------------ |
 | 1       | 2011年6月15日 | **[2010.12.23 SHIBUYA C.C.Lemon Hall](https://zh.wikipedia.org/wiki/2010.12.23_SHIBUYA_C.C.Lemon_Hall "wikilink")**                       | DVD          | LADV-0004                                             | 16位          |
 | 2       | 2013年7月17日 | **[ARENA TOUR 2013「ENTERTAINMENT」 in 国立代々木第一体育館](https://zh.wikipedia.org/wiki/ARENA_TOUR_2013「ENTERTAINMENT」_in_国立代々木第一体育館 "wikilink")** | 2DVD         | TFBQ-18140                                            | 2位           |
@@ -666,8 +671,8 @@ CD</p></td>
 <td><p>2018年 / <a href="../Page/第69回NHK紅白歌合戰.md" title="wikilink">第69回</a></p></td>
 <td><p>5</p></td>
 <td><p>サザンカ</p></td>
-<td></td>
-<td></td>
+<td><p>31/</p></td>
+<td><p>乃木坂46</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -710,94 +715,62 @@ CD</p></td>
 [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:TOY'S_FACTORY](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:日本唱片大獎編曲獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎編曲獎獲獎者 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
 8.
-
 9.
 10.
 11.
-
 12. [SEKAI NO OWARI來港怕變肥仔](http://hk.apple.nextmedia.com/entertainment/art/20141029/18915668)，蘋果日報，2014年10月29日。
-
 13. Fukase 於出席27/10/2014《SMAPXSMAP》的節目中及其他的電視訪問節目中多次提及相關的事情。
-
 14.
 15.
-
 16.
 17.
-
 18.
 19.
 20.
-
 21.
-
 22.
-
 23.
 24.
 25.
 26.
-
 27.
-
 28.
 29.
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
 43.
 44.
-
 45.
-
 46. [NHK全國學校音樂節公式網頁介紹2015年度比賽各組別曲目的創作者及作詞者。](http://www.nhk.or.jp/ncon/music_program/artist27.html#pagetop)
-
 47. [セカオワ制作「Nコン」課題曲の詳細発表、タイトルは「プレゼント」](http://natalie.mu/music/news/138263)，音樂Natalie，2015年2月10日
-
 48. [セカオワ、『Nコン』課題曲2・22発表，](http://www.oricon.co.jp/news/2048461/full/)Oricon Style，2015年2月10日。
-
 49. [NHK全國學校音樂比賽2015年中學組專頁。](http://www.nhk.or.jp/ncon/music_program/kadaikyoku_j.html#pagetop)
-
 50. [【オリコン】セカオワ、アルバム初1位 前作比3.8倍・18万枚増](http://www.oricon.co.jp/news/2047413/full/)，Oricon Style，2015年1月20日。
-
 51.
 52.
 53.
 54.
 55.
 56.
-
 57.
 58.
+59.
+60.

@@ -1,3 +1,6 @@
+> 本文内容由[Antique Romance](https://zh.wikipedia.org/wiki/Antique_Romance)转换而来。
+
+
 《**Antique Romance**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Sunny Hill的第](../Page/Sunny_Hill.md "wikilink")2枚迷你專輯。於2012年12月14日發行。唱片公司為[LOEN Entertainment](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")。
 
 ## 概要

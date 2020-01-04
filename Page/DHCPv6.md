@@ -1,3 +1,6 @@
+> 本文内容由[DHCPv6](https://zh.wikipedia.org/wiki/DHCPv6)转换而来。
+
+
 **DHCPv6**是一个用来配置工作在[IPv6](../Page/IPv6.md "wikilink")网络上的IPv6[主机所需的](https://zh.wikipedia.org/wiki/主机 "wikilink")[IP地址](../Page/IP地址.md "wikilink")、IP前缀和/或其他配置的[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")。
 
 IPv6主机可以使用[无状态地址自动配置](https://zh.wikipedia.org/wiki/无状态地址自动配置 "wikilink")（SLAAC）或DHCPv6来获得IP地址。DHCP倾向于被用在需要集中管理主机的站点，而无状态自动配置不需要任何集中管理，因此后者更多地被用在典型家庭网络这样的场景下。
@@ -22,7 +25,7 @@ DHCP唯一标识符（DUID）用于客户端从DHCPv6服务器获得IP地址。�
 
   - DHCPv6客户端从`[fe80::aabb:ccff:fedd:eeff]:546`发送**Solicit**至`[ff02::1:2]:547`。
   - DHCPv6服务器从`[fe80::0011:22ff:fe33:5566]:547`回应一个**Advertise**给`[fe80::aabb:ccff:fedd:eeff]:546`。
-  - DHCPv6客户端从`[fe80::aabb:ccff:fedd:eeff]:546`回应一个**Request**给`[ff02::1:2]:547`。（依照[RFC 3315](http://tools.ietf.org/html/rfc3315)的[section 13](http://tools.ietf.org/html/rfc3315#section-13)，所有客户端消息都发送到多播地址)
+  - DHCPv6客户端从`[fe80::aabb:ccff:fedd:eeff]:546`回应一个**Request**给`[ff02::1:2]:547`。（依照[RFC 8415](http://tools.ietf.org/html/rfc8415)的[section 14](http://tools.ietf.org/html/rfc8415#section-14)，所有客户端消息都发送到多播地址)
   - DHCPv6服务器以`[fe80::0011:22ff:fe33:5566]:547`到`[fe80::aabb:ccff:fedd:eeff]:546`的**Reply**结束。
 
 ## IETF标准
@@ -34,6 +37,9 @@ DHCP唯一标识符（DUID）用于客户端从DHCPv6服务器获得IP地址。�
   - RFC 3736, "Stateless Dynamic Host Configuration Protocol (DHCP) Service for IPv6"
   - RFC 5007, "DHCPv6 Leasequery"
   - RFC 6221, "Lightweight DHCPv6 Relay Agent"
+  - RFC 6355, "Definition of the UUID-Based DHCPv6 Unique Identifier (DUID-UUID)"
+  - RFC 6939, "Client Link-Layer Address Option in DHCPv6"
+  - RFC 8415, "Dynamic Host Configuration Protocol for IPv6 (DHCPv6)" - Obsoletes RFC 3315, RFC 3633, RFC 3736, RFC 4242, RFC 7083, RFC 7283, RFC 7550.
 
 ## 参考资料
 

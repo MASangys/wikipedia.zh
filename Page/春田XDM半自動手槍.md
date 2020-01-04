@@ -1,4 +1,7 @@
-**春田XDM**（；XD<sup>M</sup>，全稱：**X**-treme **D**uty-**M**ore；「M」同時亦指[槍管](../Page/槍管.md "wikilink")和比賽等級）是一系列由[克罗地亚](../Page/克罗地亚.md "wikilink")槍械製造商公司（前稱：I.M.金屬工廠，目前亦生產[VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")）研製的[聚合物](../Page/聚合物.md "wikilink")[底把和](../Page/机匣.md "wikilink")[擊針發射的](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。它們與它們的前輩，[HS2000手槍](../Page/HS2000手槍.md "wikilink")（即是在美國最廣為人知的春田XD）極為相似，同樣由[克罗地亚](../Page/克罗地亚.md "wikilink")[卡爾洛瓦茨的HS](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink") Produkt公司設計和生產。而此槍的稱呼，春田XDM半自動手槍就是HS Produkt公司授權生產以後，春田公司在[美国](../Page/美国.md "wikilink")商業市場上出售的名稱。\[1\]
+> 本文内容由[春田XDM半自動手槍](https://zh.wikipedia.org/wiki/春田XDM半自動手槍)转换而来。
+
+
+**春田XDM**（；XD<sup>M</sup>，全稱：**X**-treme **D**uty-**M**ore；「M」同時亦指[槍管](../Page/槍管.md "wikilink")和比賽等級）是一系列由[克罗地亚](../Page/克罗地亚.md "wikilink")槍械製造商公司（前稱：I.M.金屬工廠，目前亦生產[VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")）研製的[聚合物](../Page/聚合物.md "wikilink")[底把和](../Page/机匣.md "wikilink")[擊針發射的](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。它們與它們的前輩，[HS2000半自動手槍](../Page/HS2000半自動手槍.md "wikilink")（即是在美國最廣為人知的春田XD）極為相似，同樣由[克罗地亚](../Page/克罗地亚.md "wikilink")[卡爾洛瓦茨的HS](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink") Produkt公司設計和生產。而該槍的稱呼，春田XDM半自動手槍就是HS Produkt公司授權生產以後，春田公司在[美国](../Page/美国.md "wikilink")商業市場上出售的名稱。\[1\]
 
 ## 歷史
 
@@ -12,9 +15,9 @@
 
 春田XDM是一把[聚合物](../Page/聚合物.md "wikilink")底把、[钢](../Page/钢.md "wikilink")製嵌件並具有配件安裝導軌的[短後座行程作用和](../Page/後座作用.md "wikilink")[擊針發射式](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。春田XDM最初只有9×19毫米和.40 S\&W口徑型，後來再推出.45 ACP口徑型。春田XDM不但改善了春田XD的缺點，而且從將其外表重新設計到加大其槍身，以達到更符合潮流的型象。其外表除了比原來的XD手槍更為美觀，尤其是“全地形”前半凹陷內加線條及大小格子握把表面圖案，在握把上的每個輪廓的[角度和深度亦已經過充分計算令垂直](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")、水平和扭轉的控制最大化。主要緊抓[套筒鋸齒已經進行了修改](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，具有更深、更長的「之」字型紋路，一個更好、更具敏感性的緊抓點。所有XDM手槍具有握把和扳機保險機構，槍身頂部、槍管後方的以及[槍管](../Page/槍管.md "wikilink")。
 
-在用以安裝[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[附件安裝導軌上的橫向凹槽再增加至三條](../Page/皮卡汀尼導軌.md "wikilink")，缺口式[照門和片狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星都改為夜間用瞄準具](../Page/照準器.md "wikilink")，握把亦得到改進，將其略為縮小、表面的紋理由粗糙表面改為前半凹陷內加線條及大小格子表面以及將握把頂端的凹槽向[扳機護圈方向延長為溝槽](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。除此以外，握把亦由過往不能更換設計改為可以換裝3種大小格子表面的可更換式後方握把片的模塊化設計，有小型、中型和大型這3種尺寸。
+在用以安裝[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件的](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[附件安裝導軌上的橫向凹槽再增加至三條](../Page/皮卡汀尼導軌.md "wikilink")，缺口式[照門和片狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星都改為夜間用瞄準具](../Page/照準器.md "wikilink")，握把亦得到改進，將其略為縮小、表面的紋理由粗糙表面改為前半凹陷內加線條及大小格子表面以及將握把頂端的凹槽向[扳機護環方向延長為溝槽](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。除此以外，握把亦由過往不能更換設計改為可以換裝3種大小格子表面的可更換式後方握把片的模塊化設計，有小型、中型和大型這3種尺寸。
 
-XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wikilink")。它們採用一種聚合物[底把加上](../Page/机匣.md "wikilink")[钢](../Page/钢.md "wikilink")片鑲塊，[戰術燈](../Page/戰術燈.md "wikilink")安裝導軌和防止有人意圖扣下的情況外發射的[扳機保險](https://zh.wikipedia.org/wiki/扳機保險 "wikilink")。當看到擊針尾突出和裝上了[拋光的](https://zh.wikipedia.org/wiki/拋光 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物底座製造的雙排式[彈匣](../Page/彈匣.md "wikilink")的話，白色的[擊針指示器從](https://zh.wikipedia.org/wiki/撞針指示器 "wikilink")[套筒的後方彈出](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，並且警告使用者要注意手槍在待擊狀態。當使用者將一發子彈在[膛室](../Page/膛室.md "wikilink")內，從套筒的上方、[拋殼口的後方彈出](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")，使用者可以看到或摸到以注意安全。手槍在[扳機護圈後部的兩邊都裝有可以靈巧地使用的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣](../Page/彈匣.md "wikilink")釋放按鈕。手槍的分解方式就是轉動底把左側的槓桿向上，使套筒向底把前方方向拆出。這與[SIG Sauer製造的](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")[P220手槍系列一樣](../Page/SIG_P220手槍.md "wikilink")，採取的是完全一樣的分解機構。
+XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wikilink")。它們採用一種聚合物[底把加上](../Page/机匣.md "wikilink")[钢](../Page/钢.md "wikilink")片鑲塊，[戰術燈](../Page/戰術燈.md "wikilink")安裝導軌和防止有人意圖扣下的情況外發射的[扳機保險](https://zh.wikipedia.org/wiki/扳機保險 "wikilink")。當看到擊針尾突出和裝上了[拋光的](https://zh.wikipedia.org/wiki/拋光 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物底座製造的雙排式[彈匣](../Page/彈匣.md "wikilink")的話，白色的[擊針指示器從](https://zh.wikipedia.org/wiki/撞針指示器 "wikilink")[套筒的後方彈出](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，並且警告使用者要注意手槍在待擊狀態。當使用者將一發子彈在[膛室](../Page/膛室.md "wikilink")內，從套筒的上方、[拋殼口的後方彈出](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")，使用者可以看到或摸到以注意安全。手槍在扳機護環後部的兩邊都裝有可以靈巧地使用的[彈匣](../Page/彈匣.md "wikilink")釋放按鈕。手槍的分解方式就是轉動底把左側的槓桿向上，使套筒向底把前方方向拆出。這與[西格&紹爾](../Page/西格&紹爾.md "wikilink")製造的[P220手槍系列一樣](../Page/SIG_P220手槍.md "wikilink")，採取的是完全一樣的分解機構。
 
 春田XDM有點不尋常的地方就是位於握把背後的[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")，必需按壓才可發射，可以大大減低[走火的機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。這種保險功能目前只會裝在一些舊式的手槍，例如[M1911手槍](../Page/M1911手槍.md "wikilink")及其衍生型，但很少會有現代手槍使用這種保險。春田XDM的和可更換式[握把背板都是春田XDM最顯著的特點](https://zh.wikipedia.org/wiki/握把背板 "wikilink")。其他功能還包括一條十分有效的[復進簧](https://zh.wikipedia.org/wiki/復進簧 "wikilink")[導桿](https://zh.wikipedia.org/wiki/復進簧導桿 "wikilink")，它亦是一個不明顯的裝置。復進簧導桿的頂頭裝置就在[槍管](../Page/槍管.md "wikilink")的下方並突出了少許，並保持[套筒在直接抵著一個目標時仍能回到](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[閉膛狀態](https://zh.wikipedia.org/wiki/閉膛 "wikilink")，例如在自衛的情況下零距離抵著敵人的[胸部](https://zh.wikipedia.org/wiki/胸 "wikilink")。這可以防止套筒在直接抵著目標時被向後推，因為該裝置代替套筒抵著目標的表面，從而增加了此槍能夠正常運作的機會。\[6\]
 
@@ -24,7 +27,7 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
 
 春田XDM是由[拋光](https://zh.wikipedia.org/wiki/拋光 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")連[聚合物](../Page/聚合物.md "wikilink")彈匣底座所製造的左右雙排交錯可拆卸式[彈匣](../Page/彈匣.md "wikilink")所供彈。春田XDM 9×19毫米和.40 S\&W口徑型的[彈匣](../Page/彈匣.md "wikilink")容量，分別從16、12發增加至19、16發，春田XDM在彈匣容量方面的改進與[格洛克](../Page/格洛克.md "wikilink")手槍相比可說是有過之而無不及。
 
-經過熱處理以後的金屬部分表面會利用一種專利的（Tenifer Plus+）處理過程。這種處理的特點是具有極高的耐磨擦性和耐腐蝕，它會滲入金屬和[表面處理部分](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，甚至在表面以下的一定深度並且變成類似的性質。特尼弗Plus+氮化的處理過程中會產生[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")、無眩光表面和64[HRC等級](https://zh.wikipedia.org/wiki/洛氏硬度試驗 "wikilink")（相比之下，一顆[工業鑽石的評級為](../Page/钻石.md "wikilink")70 HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度。與HS2000一樣，春田XDM的這種處理使得它特別適合作為個人的手槍（尤其是其袖珍型），而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。\[7\]採用類似表面處理的還有瓦爾特[PPS](../Page/瓦爾特PPS手槍.md "wikilink")、[PPQ](../Page/瓦爾特PPQ手槍.md "wikilink")、[PPX手槍](../Page/瓦爾特PPX手槍.md "wikilink")。
+經過熱處理以後的金屬部分表面會利用一種專利的（Tenifer Plus+）處理過程。這種處理的特點是具有極高的耐磨擦性和耐腐蝕，它會滲入金屬和[表面處理部分](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，甚至在表面以下的一定深度並且變成類似的性質。特尼弗Plus+氮化的處理過程中會產生[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")、無眩光表面和64[HRC等級](https://zh.wikipedia.org/wiki/洛氏硬度試驗 "wikilink")（相比之下，一顆[工業鑽石的評級為](../Page/钻石.md "wikilink")70 HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度。與HS2000一樣，春田XDM的這種處理使得它特別適合作為個人的手槍（尤其是其袖珍型），而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。\[7\]採用類似表面處理的還有瓦爾特[PPS](../Page/瓦爾特PPS半自動手槍.md "wikilink")、[PPQ](../Page/瓦爾特PPQ半自動手槍.md "wikilink")、[PPX手槍](../Page/瓦爾特PPX半自動手槍.md "wikilink")。
 
 有別於上一代XD手槍的是，XDM不需要扣動扳機以拆卸全槍，使[不完全分解更為安全和更快](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")。\[8\]
 
@@ -46,7 +49,7 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
 
   - ：武裝部隊\[15\]
 
-  - ：警察\[16\]
+  - ：警察\[16\]、[伊拉克特種作戰部隊](../Page/伊拉克特種作戰部隊.md "wikilink")
 
   - ：[義大利民主情報安全局](../Page/義大利民主情報安全局.md "wikilink")()
 
@@ -277,7 +280,7 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：     | 9×19毫米                                                                                                                                                 |
 | 彈匣：                                                    | 3－19發，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                                                                 |
-| [槍管](../Page/槍管.md "wikilink")：                        | 5.28英吋（134.11毫米）／5.34英吋（135.64毫米，連槍口保護環），钢製，Melonite®，完全支持的上膛坡道，槍口具有螺紋（.5"×28 TPI）和螺紋保護器                                                               |
+| [槍管](../Page/槍管.md "wikilink")：                        | 5.28英吋（134.11毫米）／5.34英吋（135.64毫米，連槍口保-{護環}-），钢製，Melonite®，完全支持的上膛坡道，槍口具有螺紋（.5"×28 TPI）和螺紋保護器                                                           |
 | 瞄準具型式：                                                 | 鳩尾槽式，前部和後部（鋼製），三點式準星，為了加裝[消聲器](../Page/抑制器.md "wikilink")，高度有所提高                                                                                       |
 | [瞄準基線](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")： | 6.6英吋（167.64毫米）                                                                                                                                        |
 | [扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")： | 5.5－7.7[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")                                                                                               |
@@ -298,7 +301,7 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
 | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：     | 10毫米Auto                                                                                                         |
 | 彈匣：                                                    | 2－15發，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                           |
-| [槍管](../Page/槍管.md "wikilink")：                        | 5.28英吋（134.11毫米）／5.34英吋（135.64毫米，連槍口保護環），钢製，Melonite®，完全支持的上膛坡道，槍口具有螺紋（.578"×28 TPI）和螺紋保護器                       |
+| [槍管](../Page/槍管.md "wikilink")：                        | 5.28英吋（134.11毫米）／5.34英吋（135.64毫米，連槍口保-{護環}-），钢製，Melonite®，完全支持的上膛坡道，槍口具有螺紋（.578"×28 TPI）和螺紋保護器                   |
 | 瞄準具型式：                                                 | 鳩尾槽式，前部和後部（鋼製），三點式準星                                                                                             |
 | [扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")： | 5.5－7.7[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")                                                         |
 | 底把：                                                    | 黑色聚合物                                                                                                            |
@@ -317,7 +320,7 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
 | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：     | .45 ACP                                                                                                          |
 | 彈匣：                                                    | 3－13發，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                           |
-| [槍管](../Page/槍管.md "wikilink")：                        | 5.28英吋（134.11毫米）／5.34英吋（135.64毫米，連槍口保護環），钢製，Melonite®，完全支持的上膛坡道，槍口具有螺紋（.578"×28 TPI）和螺紋保護器                       |
+| [槍管](../Page/槍管.md "wikilink")：                        | 5.28英吋（134.11毫米）／5.34英吋（135.64毫米，連槍口保-{護環}-），钢製，Melonite®，完全支持的上膛坡道，槍口具有螺紋（.578"×28 TPI）和螺紋保護器                   |
 | 瞄準具型式：                                                 | 鳩尾槽式，前部和後部（鋼製），三點式準星                                                                                             |
 | [瞄準基線](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")： | 6.75英吋（171.45毫米）                                                                                                 |
 | [扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")： | 5.5－7.7[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")                                                         |
@@ -420,11 +423,12 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
 ## 參見
 
   - [格洛克](../Page/格洛克.md "wikilink")
-  - [CZ 100](../Page/CZ_100手槍.md "wikilink")
+  - [CZ 100](https://zh.wikipedia.org/wiki/CZ_100半自動手槍 "wikilink")、[CZ 110](../Page/CZ_110半自動手槍.md "wikilink")
   - [HS95](https://zh.wikipedia.org/wiki/HS95半自動手槍 "wikilink")
-  - [HS2000手槍](../Page/HS2000手槍.md "wikilink")（春田XD手槍）
+  - [HS2000半自動手槍](../Page/HS2000半自動手槍.md "wikilink")（春田XD半自動手槍）
   - [春田XD-S](../Page/春田XD-S半自動手槍.md "wikilink")
   - [春田911](https://zh.wikipedia.org/wiki/春田911半自動手槍 "wikilink")
+  - [春田地獄貓](https://zh.wikipedia.org/wiki/春田地獄貓半自動手槍 "wikilink")
   - [VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")
   - [RBG-6連發式榴彈發射器](https://zh.wikipedia.org/wiki/RBG-6連發式榴彈發射器 "wikilink")
 
@@ -490,9 +494,9 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
       - [Springfield’s Slickest Pistol?](http://www.gunsandammo.com/video/springfields-slickest-pistol/)
       - [Springfield Armory XDM .40](http://www.gunsandammo.com/video/springfield-armory-xdm/)
       - [Springfield Armory XDM Review](http://www.gunsandammo.com/video/springfield-xdm/)
-      - [Springfield 3.8 XDm Compact Review](http://www.gunsandammo.com/reviews/springfield-3-8-xdm-compact-review/)
+      - [Springfield 3.8 XDm Compact Review](https://web.archive.org/web/20151125185806/http://www.gunsandammo.com/reviews/springfield-3-8-xdm-compact-review/)
       - [Take Your Shot: The Most Versatile Pistol on the Market](http://www.gunsandammo.com/blogs/for-the-love-of-competition/take-your-shot-the-most-versatile-pistol-on-the-market/)
-      - [First Look: Crimson Trace Laserguard in Green](http://www.gunsandammo.com/blogs/news-brief/first-look-crimson-trace-laserguard-in-green/)
+      - [First Look: Crimson Trace Laserguard in Green](https://web.archive.org/web/20151125185741/http://www.gunsandammo.com/blogs/news-brief/first-look-crimson-trace-laserguard-in-green/)
       - [Springfield Armory Introduces XD(M) Threaded Barrel Versions](http://www.gunsandammo.com/first-look/springfield-armory-introduces-xdm-threaded-barrel-versions/)
       - [First Look: Suppressor-Ready Springfield XDM](http://www.gunsandammo.com/first-look/first-look-suppressor-ready-springfield-xdm/)
 
@@ -588,34 +592,22 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
 [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:克羅地亞半自動手槍](https://zh.wikipedia.org/wiki/Category:克羅地亞半自動手槍 "wikilink") [Category:克羅地亞槍械](https://zh.wikipedia.org/wiki/Category:克羅地亞槍械 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:10毫米Auto槍械](https://zh.wikipedia.org/wiki/Category:10毫米Auto槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Springfield Armory - Introducing the XD(m) Polymer Handgun](http://the-m-factor.com/html/design.html)
-
 9.
 10. Jones, Richard D. *Jane's Infantry Weapons 2009/2010*. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0-7106-2869-5.
-
 11. [Modern Firearms – Handguns – HS2000 / Springfield XD pistol](http://world.guns.ru/handguns/hg48-e.htm)
-
 12.
 13.
 14.
 15.
 16. [24sata – Irački MUP kupio hrvatske pištolje za svoje policajce](http://www.24sata.hr/news/iracki-mup-kupio-hrvatske-pistolje-za-svoje-policajce/147791)
-
 17.
-
 18.
 19.
 20.
@@ -629,33 +621,18 @@ XDM使用了單[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wik
 28.
 29.
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.

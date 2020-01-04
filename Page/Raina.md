@@ -15,6 +15,8 @@ Raina高中時與[2AM](../Page/2AM.md "wikilink")的[趙權](../Page/趙權.md "
 
 2017年7月31日暌違兩年Solo回歸，發行單曲《飯 電影 咖啡館》，主打歌〈Loop〉和公司后辈[NU'EST](../Page/NU'EST.md "wikilink")的成員[Aron搭檔合作](../Page/郭英敏.md "wikilink")，一同進行兩週的宣傳活動。\[8\]
 
+2019年12月27日，與[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")約滿不續約，離開公司。
+
 ## 廣告
 
   - 2011年： The saem 美妝品牌

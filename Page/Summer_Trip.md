@@ -1,3 +1,6 @@
+> 本文内容由[Summer Trip](https://zh.wikipedia.org/wiki/Summer_Trip)转换而来。
+
+
 《**Summer Trip**》（解放豔夏）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年7月31日發行的第55張單曲。
 
 ## 簡介
@@ -59,15 +62,10 @@
 [分類:倖田來未歌曲](https://zh.wikipedia.org/wiki/分類:倖田來未歌曲 "wikilink") [分類:2013年單曲](https://zh.wikipedia.org/wiki/分類:2013年單曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.

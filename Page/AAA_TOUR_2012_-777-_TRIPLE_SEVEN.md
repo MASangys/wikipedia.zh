@@ -1,3 +1,6 @@
+> 本文内容由[AAA TOUR 2012 -777- TRIPLE SEVEN](https://zh.wikipedia.org/wiki/AAA_TOUR_2012_-777-_TRIPLE_SEVEN)转换而来。
+
+
 「**AAA TOUR 2012 -777- TRIPLE SEVEN**」是[日本](../Page/日本.md "wikilink")的[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2013年2月13日推出的DVD，由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

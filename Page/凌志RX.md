@@ -1,3 +1,6 @@
+> 本文内容由[凌志RX](https://zh.wikipedia.org/wiki/凌志RX)转换而来。
+
+
 **凌志RX** (**Lexus RX**）是一款由[凌志](../Page/凌志.md "wikilink")自1997年開始設計製造的豪华[运动型多用途车](../Page/运动型多用途车.md "wikilink")。
 
 ## 概要

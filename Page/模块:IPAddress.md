@@ -1,13 +1,9 @@
-\--\[=\[ Functions are not "local", so other modules can require this
-module and call them directly. We return an object with 3 small stub
-functions to call the real ones so that the functions can be called from
-templates also.
+> 本文内容由[模块:IPAddress](https://zh.wikipedia.org/wiki/模块:IPAddress)转换而来。
 
-Only [dotted
-decimal](https://zh.wikipedia.org/wiki/dotted_decimal "wikilink")
-notation for IPv4 supported. Does not support dotted hexadecimal, dotted
-octal, or single-number formats (see
-[IPv4\#Address_representations](https://zh.wikipedia.org/wiki/IPv4#Address_representations "wikilink")).
+
+\--\[=\[ Functions are not "local", so other modules can require this module and call them directly. We return an object with 3 small stub functions to call the real ones so that the functions can be called from templates also.
+
+Only [dotted decimal](https://zh.wikipedia.org/wiki/dotted_decimal "wikilink") notation for IPv4 supported. Does not support dotted hexadecimal, dotted octal, or single-number formats (see [IPv4\#Address_representations](https://zh.wikipedia.org/wiki/IPv4#Address_representations "wikilink")).
 
 Unit tests at Module:IPAddress/tests \]=\]
 
@@ -50,9 +46,6 @@ end
 
 local p = {}
 
-function p.isIpV6(frame) return _isIpV6( frame.args\[ 1 \] ) and "1" or
-"0" end function p.isIpV4(frame) return _isIpV4( frame.args\[ 1 \] )
-and "1" or "0" end function p.isIp(frame) return _isIp( frame.args\[ 1
-\] ) or "" end
+function p.isIpV6(frame) return _isIpV6( frame.args\[ 1 \] ) and "1" or "0" end function p.isIpV4(frame) return _isIpV4( frame.args\[ 1 \] ) and "1" or "0" end function p.isIp(frame) return _isIp( frame.args\[ 1 \] ) or "" end
 
 return p

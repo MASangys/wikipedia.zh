@@ -1,3 +1,6 @@
+> 本文内容由[Kickstarter](https://zh.wikipedia.org/wiki/Kickstarter)转换而来。
+
+
 **Kickstarter**是一間於2009年在[美国](../Page/美国.md "wikilink")[纽约](../Page/纽约.md "wikilink")成立、最初基于[美国人後來拓展至各國的产品募資平台](https://zh.wikipedia.org/wiki/美国人 "wikilink")，它透过该网站进行[公众募资以提供人们进行创意项目的筹集资金](https://zh.wikipedia.org/wiki/公众集资 "wikilink")。\[1\]
 
 Kickstarter有许多种创意项目募集资金，\[2\]譬如[电影](../Page/电影.md "wikilink")、[音乐](../Page/音乐.md "wikilink")、[舞台剧](https://zh.wikipedia.org/wiki/舞台剧 "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[新闻学](../Page/新闻学.md "wikilink")、[电视游戏以及与](https://zh.wikipedia.org/wiki/电视游戏 "wikilink")[食物](../Page/食物.md "wikilink")有关的项目，或者是一些科技產品等等，形式包羅萬象。\[3\]只是考慮到募資平台的特性，规定人们不能透過Kickstarter作为投资项目来赚钱，也就是說被投資方不可能回報金錢。因而他们以返还实物奖励（但可以標價）或者独一无二的经验给资助者來回饋，像一本写着感谢的笔记、定制的T恤、与作家共进晚餐，或者一个新产品的最初体验。\[4\]
@@ -218,204 +221,105 @@ Kickstarter与项目创建者双方都曾因似乎存在欺诈而取消了项目
 [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:2009年建立的网站](https://zh.wikipedia.org/wiki/Category:2009年建立的网站 "wikilink") [Category:互联网公司](https://zh.wikipedia.org/wiki/Category:互联网公司 "wikilink") [Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink") [Category:群眾募資](https://zh.wikipedia.org/wiki/Category:群眾募資 "wikilink") [Category:Kickstarter計劃](https://zh.wikipedia.org/wiki/Category:Kickstarter計劃 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. Kickstarter - Team <http://www.kickstarter.com/team>
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. [We’re now open to creators in Hong Kong & Singapore\!](https://www.kickstarter.com/blog/1942)，官网。
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25. [Adrianne Jeffries, "Jellyfish Tanks, Funded 54 Times Over on Kickstarter, Turn Out to Be Jellyfish Death Traps UPDATED", BetaBeat, March 15, 2012](http://www.betabeat.com/2012/03/15/jellyfish-tanks-funded-54-times-over-on-kickstarter-turn-out-to-be-jellyfish-death-traps/)
-
 26. [Joe Brown, "We're Done With Kickstarter", Gizmodo, March 29, 2012](http://gizmodo.com/5897449/were-done-with-kickstarter)
-
 27. [Ryan Tate, "End Online Panhandling Forever\!", Gawker, November 10, 2011](http://gawker.com/5858118/end-online-panhandling-forever)
-
 28.
-
 29.
 30. [Kevin Stout, "Kickstarter, Pros and Cons", 148Apps.biz, April 23, 2012](http://148apps.biz/kickstarter-pros-and-cons/)
-
 31.
-
 32.
-
 33. "[2011: The Stats](http://www.kickstarter.com/blog/2011-the-stats)", January 9, 2012, Kickstarter.com, accessed February 3, 2012.
-
 34. ["Double Fine Kickstarter hits 3 million, drive closing on Ustream"](http://www.joystiq.com/2012/03/13/double-fine-kickstarter-hits-3-million-drive-closing-on-ustream/) , [Joystiq](../Page/Joystiq.md "wikilink"), March 13, 2012, Retrieved March 13, 2012.
-
 35. Carl Franzen "[Crowd-Funding Website Kickstarter Has Double Million Dollar Day](http://idealab.talkingpointsmemo.com/2012/02/kickstarters-double-million-dollar-day.php?ref=fpnewsfeed) ", TPM, February 10, 2012, Retrieved February 11, 2012
-
 36.
-
 37.
-
 38.
 39.
-
 40.
 41. [Eric Blattberg, "Kickstarter Bans Project Renderings, Adds ‘Risks and Challenges’ Section, Crowdsourcing.org 21 September 2012](http://www.crowdsourcing.org/editorial/kickstarter-bans-project-renderings-adds-risks-and-challenges-section-/19431)
-
 42. [Mark Milian, "After Raising Money on Kickstarter, Side Project Lands Another $3 million", Blomberg Tech Deals, 6 September 2012](http://go.bloomberg.com/tech-deals/2012-09-06-after-raising-money-on-kickstarter-side-project-lands-another-3-million/)
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78. [The Veronica Mars Movie Project](http://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project)
-
 79. [Fans pledge $3 million for 'Veronica Mars' movie in 2 days – Series creator Rob Thomas on the latest with the Kickstarter campaign](http://startingpoint.blogs.cnn.com/2013/03/15/fans-pledge-3-million-for-veronica-mars-movie-in-2-days-series-creator-rob-thomas-on-the-latest-with-the-kickstarter-campaign/?iref=allsearch)
-
 80. [Reaper Miniatures Bones: An Evolution Of Gaming Miniatures](http://www.kickstarter.com/projects/1513061270/reaper-miniatures-bones-an-evolution-of-gaming-min)
-
 81. [Wish I Was Here](http://www.kickstarter.com/projects/1869987317/wish-i-was-here-1)
-
 82. [FORM 1: An affordable, professional 3D printer](http://www.kickstarter.com/projects/formlabs/form-1-an-affordable-professional-3d-printer)
-
 83. [Evan Ackerman “Update:Eye3 Drone Officially Too Good to be True”, IEEE Spectrum January 31, 2012.](http://spectrum.ieee.org/automaton/robotics/diy/update-eye3-drone-officially-too-good-to-be-true)
-
 84.
-
 85. [Adrian Jeffries, “When Kickstarter Goes Wrong: Were 419 Backers Almost Taken for a $27,637 Ride?”, BetaBeat, September 15, 2011.](http://www.betabeat.com/2011/09/15/when-kickstarter-goes-wrong-were-419-backers-almost-taken-for-a-27637-ride/)
-
 86. [Kirk Hamilton “Creator of ‘Satirical’ Tentacle-Rape Game Apologizes”, Kotaku, May 17, 2012](http://kotaku.com/5911214/creator-of-satirical-tentacle+rape-game-apologizes)
-
 87. [Pepitone, Julianne, “Kickstarter pulls plug on scam minutes before $120,000 heist”, CNN Money, 17 June 2013](http://money.cnn.com/2013/06/17/technology/kickstarter-scam-kobe-jerky/index.html)
-
 88.
-
 89. [Despite claiming otherwise, Kickstarter quietly removes projects](http://misener.org/despite-claiming-otherwise-kickstarter-quietly-removes-projects/), [Dan Misener](https://zh.wikipedia.org/wiki/Dan_Misener "wikilink"), September 20, 2012
-
 90. [Kicked to the Curb: Kickstarter’s Hidden Wasteheap of Killed Projects, Wired, September 23, 2012](http://www.wired.com/design/2012/09/kickstarter-takedowns/)
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98. [Jan Wolfe, “ArtistShare Can't Show Kickstarter Infringes Crowd-Funding Patent” The AM Law Litigation Daily, 19 February 2013.](http://www.americanlawyer.com/digestTAL.jsp?id=1202588722943&ArtistShare_Cant_Show_Kickstarter_Infringes_CrowdFunding_Patent&slreturn=20130407191903)
-
 99.
-
 100.
-
 101.
-
 102. [Joseph Flaherty, “3D Systems Sues Formlabs and Kickstarter for Patent Infringement” Wired, 21 November 2012](http://www.wired.com/design/2012/11/3d-systems-formlabs-lawsuit/#)
-
 103. \[<http://www.huffingtonpost.co.uk/2012/11/22/kickstarter-sued-formlabs-3d-printer_n_2174936.html>, “Kickstarter Sued: Formlabs 3D Printer Accused Of Patent Breach” Huffington Post, 21 November 2012\]

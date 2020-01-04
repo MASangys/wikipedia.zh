@@ -1,3 +1,6 @@
+> 本文内容由[Limits.h](https://zh.wikipedia.org/wiki/Limits.h)转换而来。
+
+
 **`limits.h`**是[C標準函数庫中的](https://zh.wikipedia.org/wiki/C標準函数庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了整数类型的一些极限值。
 
 ## [-{zh-cn:宏;zh-tw:巨集}-](../Page/巨集.md "wikilink")

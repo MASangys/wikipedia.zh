@@ -1,3 +1,6 @@
+> 本文内容由[Hope and The Silver Sunrise](https://zh.wikipedia.org/wiki/Hope_and_The_Silver_Sunrise)转换而来。
+
+
 [GLAY](../Page/GLAY.md "wikilink")的[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[TVB Amazing Summer](https://zh.wikipedia.org/wiki/TVB_Amazing_Summer)转换而来。
+
+
 **Amazing Summer**是[香港](../Page/香港.md "wikilink")[無綫電視由](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2012年起推出的[暑期節目宣傳活動](https://zh.wikipedia.org/wiki/暑期 "wikilink")，接替以往暑期的[TVB兒童節](../Page/TVB兒童節.md "wikilink")。起初推出**Amazing Summer**是爲了抗衡競爭對手[有線電視的](../Page/香港有線電視.md "wikilink")[2012年倫敦奧運直播而加强地面频道的节目阵容](https://zh.wikipedia.org/wiki/2012年倫敦奧運 "wikilink")，其後該活動大受歡迎，并作为传统环节在每年暑期延续。
 
 此主題系列會推介豐富的[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[綜藝及](../Page/綜藝節目.md "wikilink")[資訊節目予家庭觀眾](https://zh.wikipedia.org/wiki/資訊節目 "wikilink")，使他們足不出戶亦可渡過一個充實的暑假。参与该宣传活动的节目会在开始播映时在画面左上角闪现每年"Amazing Summer"的动画图案。
@@ -469,7 +472,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>韓流館：<a href="https://zh.wikipedia.org/wiki/樂園_(電影)" title="wikilink">樂園</a></p></td>
+<td><p>韓流館：<a href="../Page/樂園_(電影).md" title="wikilink">樂園</a></p></td>
 <td><p>8月12日 00:55</p></td>
 <td></td>
 <td></td>
@@ -913,7 +916,7 @@
 </tr>
 <tr class="odd">
 <td><p>轉播體育節目</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/跳水世界盃" title="wikilink">FINA跳水世界盃2014</a>》</p></td>
+<td><p>《<a href="../Page/跳水世界盃.md" title="wikilink">FINA跳水世界盃2014</a>》</p></td>
 <td><p>7月16日至20日 下午3:00／下午4:05／晚上6:05／晚上7:30</p></td>
 <td><p>－</p></td>
 <td></td>
@@ -1408,22 +1411,22 @@
 
 ### [J2](../Page/J2.md "wikilink")
 
-| 類別                                                                                    | 節目名稱                                                           | 播放日期及時間                                         | 集數                               | 備註                                              |
-| ------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------- | -------------------------------- | ----------------------------------------------- |
-| 首播外購動畫                                                                                | [青之祓魔師II](https://zh.wikipedia.org/wiki/青之祓魔師II "wikilink")    | 7月30日起 逢星期日 23:35                               | 12                               | 同為2017年[J2動漫熱](../Page/J2動漫熱.md "wikilink")推介節目 |
-| \[\[ALL_OUT                                                                          | |ALL OUT                                                       | 全力達陣\]\]                                        | 8月6日 星期日 00:15 8月13日起 逢星期日 00:05 | 25                                              |
-| 首播外購動畫劇場版／特別篇                                                                         | [全職獵人劇場版 最終任務](https://zh.wikipedia.org/wiki/全職獵人 "wikilink")  | 7月23日 星期日 00:35                                 | rowspan="2"                      |                                                 |
-| [熱血自由式\! 極速青春\!](https://zh.wikipedia.org/wiki/熱血自由式 "wikilink")                      | 7月30日 星期日 00:35                                                |                                                 |                                  |                                                 |
-| \[\[WORKING                                                                           | 無聊西餐廳|Working                                                  | 特別 無聊西餐廳\]\]                                    | 8月6日 星期日 00:45                   | 1                                               |
-| [機動戰士高達THE ORIGIN Ⅲ破曉起義](https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN "wikilink")  | 8月13日 星期日 00:35                                                | 同為2017年[J2動漫熱](../Page/J2動漫熱.md "wikilink")推介節目 |                                  |                                                 |
-| [機動戰士高達THE ORIGIN Ⅳ命運的前夜](https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN "wikilink") | 8月20日 星期日 00:35                                                |                                                 |                                  |                                                 |
-| 首播外購劇集                                                                                | [嫉妒的化身](../Page/嫉妒的化身.md "wikilink")                           | 6月27日起 逢星期一至五 23:05                             | 31                               |                                                 |
-| [小學餐女廚神](https://zh.wikipedia.org/wiki/小學餐女廚神 "wikilink")                             | 8月5日起 逢星期六 23:00及 星期日 22:30                                    | 10                                              |                                  |                                                 |
-| [High 5 制霸青春](../Page/High_5_制霸青春.md "wikilink")                                      | 8月8日起 逢星期一至五 19:00                                             | 20                                              |                                  |                                                 |
-| [法妻當自強](../Page/法妻當自強.md "wikilink")                                                  | 8月9日起 逢星期一至五 23:15                                             |                                                 |                                  |                                                 |
-| 首播綜藝及資訊節目                                                                             | [後生仔傾-{吓}-偈](https://zh.wikipedia.org/wiki/♯後生仔傾吓偈 "wikilink") | 7月4日起 逢星期二、四 21:35                              | |                                |                                                 |
-| [Busking不停音樂](https://zh.wikipedia.org/wiki/Busking不停音樂 "wikilink")（第二輯）              | 7月21日起 逢星期五 21:00                                              |                                                 |                                  |                                                 |
-| [3日2夜](../Page/3日2夜.md "wikilink")                                                    | 8月5日起 逢星期六 20:30                                               |                                                 |                                  |                                                 |
+| 類別                                                                                    | 節目名稱                                                          | 播放日期及時間                                         | 集數                               | 備註                                              |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------- | -------------------------------- | ----------------------------------------------- |
+| 首播外購動畫                                                                                | [青之祓魔師II](https://zh.wikipedia.org/wiki/青之祓魔師II "wikilink")   | 7月30日起 逢星期日 23:35                               | 12                               | 同為2017年[J2動漫熱](../Page/J2動漫熱.md "wikilink")推介節目 |
+| \[\[ALL_OUT                                                                          | |ALL OUT                                                      | 全力達陣\]\]                                        | 8月6日 星期日 00:15 8月13日起 逢星期日 00:05 | 25                                              |
+| 首播外購動畫劇場版／特別篇                                                                         | [全職獵人劇場版 最終任務](https://zh.wikipedia.org/wiki/全職獵人 "wikilink") | 7月23日 星期日 00:35                                 | rowspan="2"                      |                                                 |
+| [熱血自由式\! 極速青春\!](https://zh.wikipedia.org/wiki/熱血自由式 "wikilink")                      | 7月30日 星期日 00:35                                               |                                                 |                                  |                                                 |
+| \[\[WORKING                                                                           | 無聊西餐廳|Working                                                 | 特別 無聊西餐廳\]\]                                    | 8月6日 星期日 00:45                   | 1                                               |
+| [機動戰士高達THE ORIGIN Ⅲ破曉起義](https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN "wikilink")  | 8月13日 星期日 00:35                                               | 同為2017年[J2動漫熱](../Page/J2動漫熱.md "wikilink")推介節目 |                                  |                                                 |
+| [機動戰士高達THE ORIGIN Ⅳ命運的前夜](https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN "wikilink") | 8月20日 星期日 00:35                                               |                                                 |                                  |                                                 |
+| 首播外購劇集                                                                                | [嫉妒的化身](../Page/嫉妒的化身.md "wikilink")                          | 6月27日起 逢星期一至五 23:05                             | 31                               |                                                 |
+| [小學餐女廚神](https://zh.wikipedia.org/wiki/小學餐女廚神 "wikilink")                             | 8月5日起 逢星期六 23:00及 星期日 22:30                                   | 10                                              |                                  |                                                 |
+| [High 5 制霸青春](../Page/High_5_制霸青春.md "wikilink")                                      | 8月8日起 逢星期一至五 19:00                                            | 20                                              |                                  |                                                 |
+| [法妻當自強](../Page/法妻當自強.md "wikilink")                                                  | 8月9日起 逢星期一至五 23:15                                            |                                                 |                                  |                                                 |
+| 首播綜藝及資訊節目                                                                             | [\#後生仔傾-{吓}-偈](../Page/後生仔傾吓偈.md "wikilink")                  | 7月4日起 逢星期二、四 21:35                              | |                                |                                                 |
+| [Busking不停音樂](https://zh.wikipedia.org/wiki/Busking不停音樂 "wikilink")（第二輯）              | 7月21日起 逢星期五 21:00                                             |                                                 |                                  |                                                 |
+| [3日2夜](../Page/3日2夜.md "wikilink")                                                    | 8月5日起 逢星期六 20:30                                              |                                                 |                                  |                                                 |
 
 ### [明珠台](../Page/明珠台.md "wikilink")
 
@@ -1540,7 +1543,7 @@
 | 首播自製劇集                                                                | [好日子](https://zh.wikipedia.org/wiki/好日子_\(無綫電視剧\) "wikilink") | 6月24日 逢星期一至五 20:30    | 20  |     |
 | [十二傳說](../Page/十二傳說.md "wikilink")                                    | 7月15日 逢星期一至五 21:30                                            | 25                    |     |     |
 | [包青天再起風雲](../Page/包青天再起風雲.md "wikilink")                              | 7月22日 逢星期一至五 20:30                                            | 30                    |     |     |
-| [她她她的少女時代](../Page/她她她的少女時代.md "wikilink")                            | 8月19日 起逢週一至五 20:30                                            | 20                    |     |     |
+| [她她她的少女時代](../Page/她她她的少女時代.md "wikilink")                            | 8月19日 起逢週一至五 21：30                                            | 20                    |     |     |
 |                                                                       |                                                               |                       |     |     |
 | 首播綜藝及資訊節目                                                             | [懿想得到](../Page/懿想得到.md "wikilink")                            | 7月1日 逢星期一至五 22:30     | 10  |     |
 | [街市遊樂團](../Page/街市遊樂團.md "wikilink")雙馬篇                               | 7月6日 逢星期六 20:00-20:30                                         | 10                    |     |     |
@@ -1564,159 +1567,27 @@
 
 ### [J2](../Page/J2.md "wikilink")
 
-<table style="width:10%;">
-<colgroup>
-<col style="width: 1%" />
-<col style="width: 3%" />
-<col style="width: 2%" />
-<col style="width: 1%" />
-<col style="width: 2%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>類別</p></th>
-<th><p>節目名稱</p></th>
-<th><p>播放日期及時間</p></th>
-<th><p>集數</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>首播綜藝及資訊節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣潮點圖鑑" title="wikilink">台灣潮點圖鑑</a></p></td>
-<td><p>6月28日起 逢星期五19:00</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/原住台灣之輕旅行" title="wikilink">原住台灣之輕旅行</a></p></td>
-<td><p>7月1日起 逢星期一19:00</p></td>
-<td><p>6</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/北歐潮什麼" title="wikilink">北歐潮什麼</a></p></td>
-<td><p>7月1日起 逢星期一20:30</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/小滋女孩放暑假" title="wikilink">小滋女孩放暑假</a></p></td>
-<td><p>7月2日起 逢星期二19:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/跟我點餐吧" title="wikilink">跟我點餐吧</a></p></td>
-<td><p>7月17日起 逢星期三19:00</p></td>
-<td><p>7</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/背包女行之加勒比海" title="wikilink">背包女行之加勒比海</a></p></td>
-<td><p>7月25日起逢 星期四19:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/冲遊泰國" title="wikilink">冲遊泰國</a></p></td>
-<td><p>7月26日起 逢星期五20:30</p></td>
-<td></td>
-<td><p>第五輯</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>7月26日起 逢星期五21:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/旅行記_-_台北以外" title="wikilink">旅行記 - 台北以外</a></p></td>
-<td><p>8月12日起 逢星期一19:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/歐洲鐵騎遊" title="wikilink">歐洲鐵騎遊</a></p></td>
-<td><p>8月17日起 逢星期六20:30</p></td>
-<td><p>3</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>首播外購動畫</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/進擊的巨人3" title="wikilink">進擊的巨人3</a></p></td>
-<td><p>7月20日起 逢星期六00:05</p></td>
-<td><p>10(#13-22)</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>首播外購動畫劇場版／特別篇</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/熱血自由式" title="wikilink">熱血自由式！友情接力</a></p></td>
-<td><p>7月21日 星期日00:05</p></td>
-<td><p>rowspan="4" </p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/熱血自由式" title="wikilink">熱血自由式！友情約定</a></p></td>
-<td><p>7月28日 星期日00:05</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN" title="wikilink">機動戰士高達THE ORIGIN V 激戰 魯姆會戰</a></p></td>
-<td><p>8月4日 星期日00:05</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN" title="wikilink">機動戰士高達THE ORIGIN VI 紅彗星的誕生</a></p></td>
-<td><p>8月11日 星期日00:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>首播外購劇集</p></td>
-<td><p><a href="../Page/皇后的品格.md" title="wikilink">皇后的品格</a></p></td>
-<td><p>6月24日起 逢星期一至五22:35</p></td>
-<td><p>34</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/馬成的喜悅.md" title="wikilink">愛情失咗憶</a></p></td>
-<td><p>8月9日起 逢星期一至五22:35</p></td>
-<td><p>22</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/我要準時下班.md" title="wikilink">我要準時放工！</a></p></td>
-<td><p>8月10日起 逢星期六22:35</p></td>
-<td><p>10</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Heaven？.md" title="wikilink">餐廳天團</a></p></td>
-<td><p>8月11日起 逢星期日23:00</p></td>
-<td><p>10</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 類別                                                                                       | 節目名稱                                                         | 播放日期及時間            | 集數          | 備註 |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------ | ----------- | -- |
+| 首播綜藝及資訊節目                                                                                | [台灣潮點圖鑑](https://zh.wikipedia.org/wiki/台灣潮點圖鑑 "wikilink")    | 6月28日起 逢星期五19:00   |             |    |
+| [原住台灣之輕旅行](https://zh.wikipedia.org/wiki/原住台灣之輕旅行 "wikilink")                            | 7月1日起 逢星期一19:00                                              | 6                  |             |    |
+| [北歐潮什麼](https://zh.wikipedia.org/wiki/北歐潮什麼 "wikilink")                                  | 7月1日起 逢星期一20:30                                              |                    |             |    |
+| [小滋女孩放暑假](https://zh.wikipedia.org/wiki/小滋女孩放暑假 "wikilink")                              | 7月2日起 逢星期二19:00                                              |                    |             |    |
+| [跟我點餐吧](https://zh.wikipedia.org/wiki/跟我點餐吧 "wikilink")                                  | 7月17日起 逢星期三19:00                                             | 7                  |             |    |
+| [背包女行之加勒比海](https://zh.wikipedia.org/wiki/背包女行之加勒比海 "wikilink")                          | 7月25日起逢 星期四19:00                                             |                    |             |    |
+| [冲遊泰國](https://zh.wikipedia.org/wiki/冲遊泰國 "wikilink")                                    | 7月26日起 逢星期五20:30                                             |                    | 第五輯         |    |
+| [眼睛去旅行](../Page/眼睛去旅行.md "wikilink")                                                     | 7月26日起 逢星期五21:00                                             |                    |             |    |
+| [旅行記 - 台北以外](https://zh.wikipedia.org/wiki/旅行記_-_台北以外 "wikilink")                        | 8月12日起 逢星期一19:00                                             |                    |             |    |
+| [歐洲鐵騎遊](https://zh.wikipedia.org/wiki/歐洲鐵騎遊 "wikilink")                                  | 8月17日起 逢星期六20:30                                             | 3                  |             |    |
+| 首播外購動畫                                                                                   | [進擊的巨人3](https://zh.wikipedia.org/wiki/進擊的巨人3 "wikilink")    | 7月20日起 逢星期六00:05   | 10(\#13-22) |    |
+| 首播外購動畫劇場版／特別篇                                                                            | [熱血自由式！友情接力](https://zh.wikipedia.org/wiki/熱血自由式 "wikilink") | 7月21日 星期日00:05     | rowspan="4" |    |
+| [熱血自由式！友情約定](https://zh.wikipedia.org/wiki/熱血自由式 "wikilink")                             | 7月28日 星期日00:05                                               |                    |             |    |
+| [機動戰士高達THE ORIGIN V 激戰 魯姆會戰](https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN "wikilink") | 8月4日 星期日00:05                                                |                    |             |    |
+| [機動戰士高達THE ORIGIN VI 紅彗星的誕生](https://zh.wikipedia.org/wiki/機動戰士鋼彈_THE_ORIGIN "wikilink") | 8月11日 星期日00:00                                               |                    |             |    |
+| 首播外購劇集                                                                                   | [皇后的品格](../Page/皇后的品格.md "wikilink")                         | 6月24日起 逢星期一至五22:35 | 34          |    |
+| [愛情失咗憶](../Page/馬成的喜悅.md "wikilink")                                                     | 8月9日起 逢星期一至五22:35                                            | 22                 |             |    |
+| [我要準時放工！](../Page/我要準時下班.md "wikilink")                                                  | 8月10日起 逢星期六22:35                                             | 10                 |             |    |
+| [餐廳天團](../Page/Heaven？.md "wikilink")                                                    | 8月11日起 逢星期日23:00                                             | 10                 |             |    |
 
 ### [明珠台](../Page/明珠台.md "wikilink")
 

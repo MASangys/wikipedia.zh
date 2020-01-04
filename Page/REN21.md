@@ -1,3 +1,6 @@
+> 本文内容由[REN21](https://zh.wikipedia.org/wiki/REN21)转换而来。
+
+
 **REN21**, **21世纪可再生能源政策网**公司作为全球性的政策网络，为国际领导提供[可再生能源平台](https://zh.wikipedia.org/wiki/可再生能源 "wikilink")。致力于在[发展中及](../Page/发展中国家.md "wikilink")[工业化国家经济体系中为](https://zh.wikipedia.org/wiki/工业化国家 "wikilink")[可再生能源的](https://zh.wikipedia.org/wiki/可再生能源 "wikilink")[商业化快速发展提供政策支持](https://zh.wikipedia.org/wiki/可再生能源商业化 "wikilink")。
 
 21世纪可再生能源网络公司作为全球性的政策网络，为国际领导提供新能源平台。致力于在[发展中及](../Page/发展中国家.md "wikilink")[工业化经济体系中为可再生能源的](https://zh.wikipedia.org/wiki/工业化国家 "wikilink")[快速发展提供政策支持](https://zh.wikipedia.org/wiki/可再生能源商业化 "wikilink")。

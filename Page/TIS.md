@@ -1,3 +1,6 @@
+> 本文内容由[TIS](https://zh.wikipedia.org/wiki/TIS)转换而来。
+
+
 **TIS**（ティーアイエス，TIS株式会社，Toyo Information Systems，东洋情报系统株式会社）是日本ITホールディングス（IT Holdings）集团旗下的大型系统集成，外包服务和IT解决方案提供商。根据2008年[日本经济新闻的报告](https://zh.wikipedia.org/wiki/日本经济新闻 "wikilink")，在全日本年销售额100亿日元以上的182家IT解决方案提供商中其排名位于第5位，在独立系IT解决方案商中排第2位\[1\]。以东京，名古屋，大阪3个总部为基点为IT事业提供服务、公司注册总部为位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[新宿区的东京总部](https://zh.wikipedia.org/wiki/新宿区 "wikilink")。
 
 ## 简介

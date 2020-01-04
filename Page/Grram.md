@@ -1,3 +1,6 @@
+> 本文内容由[Grram](https://zh.wikipedia.org/wiki/Grram)转换而来。
+
+
 **grram**原是[日本](../Page/日本.md "wikilink")的一支[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，由GIZA旗下的子公司：D-GO所属。grram在2013年3月29日演唱会后解散，主唱[久川实津纪继续使用grram的名义进行音乐活动](https://zh.wikipedia.org/wiki/久川实津纪 "wikilink")。
 
 ## 来历
@@ -220,7 +223,5 @@ grram名字是由[北欧神话](../Page/北欧神话.md "wikilink")中的宝剑[
 [Category:Being](https://zh.wikipedia.org/wiki/Category:Being "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.  [久川实津纪的新人乐队grram结成](http://www.barks.jp/news/?id=1000076506) *BARKS*
-
 2.  [名侦探柯南片尾曲，出道前的新乐队提拔](http://www.hotexpress.co.jp/news/120126_grram/) ''hotexpress
-
 3.

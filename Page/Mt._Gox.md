@@ -1,3 +1,6 @@
+> 本文内容由[Mt. Gox](https://zh.wikipedia.org/wiki/Mt._Gox)转换而来。
+
+
 **Mt.Gox**是一間位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")的[比特币](../Page/比特币.md "wikilink")交易所。Mt.Gox最初由Jed McCaled在2010年7月建立，后来在2011年3月卖给了由創建的Tibanne Co.。\[1\]於2014年2月因被黑客盜取比特幣而下線，暫停網上交易。\[2\]不久亦申請破產保護。\[3\]
 
 ## 歷史
@@ -62,41 +65,24 @@ Mt.Gox对低于100个比特币的个人用户每一比交易收取0.6%的手续�
 [Category:比特币交易平台](https://zh.wikipedia.org/wiki/Category:比特币交易平台 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:日本金融公司](https://zh.wikipedia.org/wiki/Category:日本金融公司 "wikilink")
 
 1.  [en.bitcoin.it/wiki/MtGox](https://en.bitcoin.it/wiki/MtGox)
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.  <http://p2pbucks.com/?p=2654>
-
 8.
-
 9.  [Mt.Gox“一夜猝死”凸显比特币交易风险](http://www.apdnews.com/news/72476.html) ，亚太日报，2014年3月3日
-
 10. [Mt.Gox的CEO从比特币基金会董事会辞职](http://finance.sina.com.cn/money/forex/20140224/135918311107.shtml)
-
 11. [全球最大比特币交易网站Mt.Gox被指破产](http://tech.ifeng.com/internet/special/bitcoin-news/content-3/detail_2014_02/25/34165082_0.shtml)
-
 12.
-
 13.
-
 14. [Mt. Gox receives subpoena from federal prosecutor](http://www.reuters.com/article/2014/02/26/mtgox-subpoena-idUSL3N0LV0UZ20140226) - WSJ, Tue Feb 25, 2014 9:20pm EST
-
 15. [Mt.Gox的中斷據傳源於全球政府對於比特幣的鎮壓](http://hereisthecity.com/en-gb/2014/02/25/insider-mt-gox-closure-allegedly-due-to-attacks-from-governments/page/1-2/), 20140226
-
 16.
-
 17.
-
 18.
 19.
 20.
-
 21.
-
 22.

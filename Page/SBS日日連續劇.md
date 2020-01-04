@@ -1,3 +1,6 @@
+> 本文内容由[SBS日日連續劇](https://zh.wikipedia.org/wiki/SBS日日連續劇)转换而来。
+
+
 **SBS日日連續劇**（），亦稱**SBS日日劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台每逢週一至週五晚間播放的](../Page/SBS_\(韓國\).md "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1991年12月。自《愛情的讚歌》才正式成為SBS的劇種之一。《去郊遊的女人》於2004年10月8日播畢後，SBS取消此劇種，直至2007年10月8日，《[那女人好可怕](../Page/殘酷的愛.md "wikilink")》首播，SBS才重啟此劇種的播出，結束長達3年左右的收播。2017年4月，SBS表示因為廣告費縮減，為了可以集中製作電視節目，決定於《[一滴一滴的愛](../Page/一滴一滴的愛.md "wikilink")》播畢後再次收播，原定接檔劇《[想品嚐一下味道嗎？](../Page/想品嚐一下味道嗎？.md "wikilink")》取消播放。
 
 ## 播映時間
@@ -158,7 +161,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/超越地平線" title="wikilink">超越地平線</a><br />
 </p></td>
 <td style="text-align: center;"><p>68</p></td>
-<td style="text-align: center;"><p><a href="../Page/李成宰.md" title="wikilink">李成宰</a>、<a href="../Page/李泰蘭.md" title="wikilink">李泰蘭</a>、<a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a>、<a href="https://zh.wikipedia.org/wiki/黃仁成" title="wikilink">黃仁成</a>、<a href="../Page/潘曉靜.md" title="wikilink">潘曉靜</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李成宰.md" title="wikilink">李成宰</a>、<a href="../Page/李泰蘭.md" title="wikilink">李泰蘭</a>、<a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a>、<a href="../Page/黃仁成.md" title="wikilink">黃仁成</a>、<a href="../Page/潘曉靜.md" title="wikilink">潘曉靜</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭乙英.md" title="wikilink">鄭乙英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李琴琳" title="wikilink">李琴琳</a></p></td>
 <td style="text-align: center;"></td>
@@ -391,7 +394,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/去郊遊的女人" title="wikilink">去郊遊的女人</a><br />
 </p></td>
 <td style="text-align: center;"><p>94</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴志榮" title="wikilink">朴志榮</a>、<a href="https://zh.wikipedia.org/wiki/黃仁成" title="wikilink">黃仁成</a>、<a href="https://zh.wikipedia.org/wiki/金泰妍" title="wikilink">金泰妍</a>、<a href="../Page/金圭哲.md" title="wikilink">金圭哲</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴志榮" title="wikilink">朴志榮</a>、<a href="../Page/黃仁成.md" title="wikilink">黃仁成</a>、<a href="https://zh.wikipedia.org/wiki/金泰妍" title="wikilink">金泰妍</a>、<a href="../Page/金圭哲.md" title="wikilink">金圭哲</a></p></td>
 <td style="text-align: center;"><p>|<a href="../Page/鄭乙英.md" title="wikilink">鄭乙英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴真淑" title="wikilink">朴真淑</a></p></td>
 <td style="text-align: center;"></td>

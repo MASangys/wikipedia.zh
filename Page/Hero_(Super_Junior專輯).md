@@ -1,3 +1,6 @@
+> 本文内容由[Hero \(Super Junior專輯\)](https://zh.wikipedia.org/wiki/Hero_\(Super_Junior專輯\))转换而来。
+
+
 《Hero》是韓國演唱團體[Super Junior的第一張日語正規專輯](../Page/Super_Junior.md "wikilink")，於2013年7月24日發行。\[1\]\[2\]專輯一發行便登上日本[Oricon](../Page/Oricon.md "wikilink")公信榜專輯日榜首位。\[3\]
 
 ## 簡介
@@ -68,12 +71,8 @@
 [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

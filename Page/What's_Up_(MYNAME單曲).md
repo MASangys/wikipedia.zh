@@ -1,3 +1,6 @@
+> 本文内容由[What\'s Up \(MYNAME單曲\)](https://zh.wikipedia.org/wiki/What\'s_Up_\(MYNAME單曲\))转换而来。
+
+
 《**What's Up**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第2張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年11月21日由[irving發售](https://zh.wikipedia.org/wiki/irving "wikilink")。
 
 ## 概要

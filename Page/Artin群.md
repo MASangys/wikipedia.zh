@@ -1,3 +1,6 @@
+> 本文内容由[Artin群](https://zh.wikipedia.org/wiki/Artin群)转换而来。
+
+
 [數學上](https://zh.wikipedia.org/wiki/數學 "wikilink")，**Artin群**，或稱**廣義辮群**，是指有如下[展示的](../Page/群的展示.md "wikilink")[群](../Page/群.md "wikilink")：
 
 \[\Big\langle x_1,x_2,\ldots,x_n \Big| \langle x_i, x_j \rangle^{m_{i,j}}=\langle x_j, x_i \rangle^{m_{j,i}}, i,j\in \{1,2,\ldots, n\}, i\neq j \Big\rangle\] 其中

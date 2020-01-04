@@ -1,3 +1,6 @@
+> 本文内容由[Google玩笑和复活节彩蛋列表](https://zh.wikipedia.org/wiki/Google玩笑和复活节彩蛋列表)转换而来。
+
+
 [Google](../Page/Google.md "wikilink")有在[愚人节](../Page/愚人节.md "wikilink")发布愚人消息、开玩笑，以及制作各种[复活节彩蛋](../Page/复活节彩蛋.md "wikilink")的传统。本列表列出了Google在其产品中添加的复活节彩蛋以及历年的愚人节玩笑。需要注意的是，其中部分彩蛋或玩笑可能已移除，且部分仅支持特定语言版本。
 
 ## 复活节彩蛋
@@ -20,6 +23,7 @@ Google曾在其产品与服务中制作与添加过诸多复活节彩蛋。
 | Stellar     | [Google地球](../Page/Google地球.md "wikilink")                                     |
 | Playful     | 随机[Google互动式涂鸦](../Page/Google涂鸦.md "wikilink")                                |
 | Wonderful   | 随机[世界奇迹项目](../Page/世界七大奇迹.md "wikilink")                                       |
+| Adventurous | 随机Google小遊戲                                                                    |
 | Generous    | [Google One Today](https://zh.wikipedia.org/wiki/Google_One_Today "wikilink")  |
 | Curious     | [Google搜索](../Page/Google搜索.md "wikilink")"I'm Felling Curious"（我感到好奇）         |
 
@@ -101,7 +105,7 @@ Google曾在其产品与服务中制作与添加过诸多复活节彩蛋。
 
 ### Android
 
-[Android_logo.jpg](https://zh.wikipedia.org/wiki/File:Android_logo.jpg "fig:Android_logo.jpg") 自Google Android操作系统姜饼（2.3）起，每一个版本的操作系统中均包含一个不同的有趣的被隐藏的动画彩蛋。彩蛋可以通过访问“设置”，“关于手机”，反复触摸“Android版本”部分开启。
+[Android.GIF](https://zh.wikipedia.org/wiki/File:Android.GIF "fig:Android.GIF") 自Google Android操作系统姜饼（2.3）起，每一个版本的操作系统中均包含一个不同的有趣的被隐藏的动画彩蛋。彩蛋可以通过访问“设置”，“关于手机”，反复触摸“Android版本”部分开启。
 
   - 2.3 （Gingerbread，姜饼小人）：显示一副Android机器人在僵尸群中的图像。触摸图像显示“*Zombie Art by Jack Larson*”（杰克·拉森的僵尸艺术）。
   - 3.x （Honeycomb，蜂窝）：显示一副Android蜜蜂的图像。
@@ -269,86 +273,46 @@ Google已经选择了愚人节的前一天，宣布他们的一些实际产品�
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:愚人節笑話](https://zh.wikipedia.org/wiki/Category:愚人節笑話 "wikilink") [Category:恶搞文化](https://zh.wikipedia.org/wiki/Category:恶搞文化 "wikilink") [Category:網路謠言](https://zh.wikipedia.org/wiki/Category:網路謠言 "wikilink")
 
 1.
-
 2.
-
 3.   Search Engine Watch|accessdate=2018-09-08|work=searchenginewatch.com|language=en-US}}
-
 4.
-
 5.  [Gooooooal\! Easter Egg From Google](http://gonegoogling.com/2010/06/08/gooooooal-easter-egg-from-google/) , [Gone Googling](http://gonegoogling.com/) . Retrieved June 10, 2010.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. [Google玩“你”：在搜索栏里输入“Zerg Rush”试试| 36氪](http://www.36kr.com/p/104220.html)
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23. [冰淇淋三明治飞起来 Android4.0彩蛋曝光_三星 I9250（Galaxy Nexus）_3G新闻-中关村在线](http://3.zol.com.cn/259/2597803.html)
-
 24.
-
 25.
-
 26. [MentalPlex Gif Animation](http://www.google.com/mentalplex/foolanim.gif)
-
 27.
-
 28. [Google MentalPlex Search Results Page](http://www.google.com/mentalplex/MP_results.html)
-
 29. [graphs3.gif](http://www.google.com/technology/graphs3.gif)
-
 30.
-
 31. 谷歌愚人節推「穿越搜索」「上當者」不計其數. 2011-04-02 \[2011-04-04\].
-
 32. 飛越時空！ Google推出「穿越搜尋」服務. udn數位資訊. 2011-04-01 \[2013-05-24\].
-
 33. 愚人節玩笑成真，Google「穿越搜索」帶你穿越時空. <http://www.techbang.com/posts/7175-topics-google-through-the-google-search-the-joke-into-a-real-time-travel-machine>. 2011-04-01.
-
 34.
-
 35. <https://www.google.com/intl/zh-TW/landing/nose/>
-
 36.
-
 37.
 38.
-
 39.
 40.
-
 41.
-
 42.
-
 43.
-
 44.

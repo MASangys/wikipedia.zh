@@ -1,3 +1,6 @@
+> 本文内容由[A Whole New World God Only Knows](https://zh.wikipedia.org/wiki/A_Whole_New_World_God_Only_Knows)转换而来。
+
+
 《**A Whole New World God Only Knows**》為[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[只有神知道的世界](../Page/只有神知道的世界.md "wikilink")Ⅱ》的[OP](../Page/主題曲.md "wikilink")，Oratorio The World God Only Knows系列的第二部作品\[1\]。
 
 ## 解說

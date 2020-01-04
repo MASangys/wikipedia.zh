@@ -1,3 +1,6 @@
+> 本文内容由[Quis custodiet ipsos custodes？](https://zh.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes？)转换而来。
+
+
 ****是一句，通常被认为出自[古罗马](../Page/古罗马.md "wikilink")[诗人](https://zh.wikipedia.org/wiki/诗人 "wikilink")[尤维纳利斯](../Page/尤维纳利斯.md "wikilink")的讽刺作品《Satire VI》段落 347章8節，直译为「谁来把守守卫者？」，亦译「谁来监督监督者？」，这句话也有一些比较白話的翻译和改编，例「监管之人，谁人监管？」\[1\] 。在现代的用法中，它的出现经常伴随有[柏拉图](../Page/柏拉图.md "wikilink")政治哲学或者政治腐败等的问题，但是现在没有已知连接到柏拉图或者政治理论的原始来源。
 
 ## 原文

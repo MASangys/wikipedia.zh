@@ -1,3 +1,6 @@
+> 本文内容由[Never Exhausted](https://zh.wikipedia.org/wiki/Never_Exhausted)转换而来。
+
+
 《**Never Exhausted**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王浩信](../Page/王浩信.md "wikilink")的首張專輯，於2006年5月9日推出。專輯第一主打是《訊號》，第二主打則為《別怕》；隨專輯附送一張DVD，內含六首歌曲的音樂錄影帶\[1\]。
 
 ## 曲目

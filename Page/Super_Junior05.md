@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior05](https://zh.wikipedia.org/wiki/Super_Junior05)转换而来。
+
+
 **Super Junior05**是[韓國演唱組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior的第一張錄音室專輯](../Page/Super_Junior.md "wikilink")。 當時組合名稱為"Super Junior05"，出道初期為12名成員，直到2006年5月27日第13位成員[圭賢](../Page/圭賢.md "wikilink")加入組合並發行單曲《U》，才正式定名為Super Junior。
 
 ## 專輯簡介

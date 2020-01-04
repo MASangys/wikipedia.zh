@@ -1,3 +1,6 @@
+> 本文内容由[BOHEMIAN SUMMER 2000](https://zh.wikipedia.org/wiki/BOHEMIAN_SUMMER_2000)转换而来。
+
+
 《**BOHEMIAN SUMMER 2000**》，是日本歌手[宇多田光](../Page/宇多田光.md "wikilink")在2000年7月至8月開始所舉辦出道以來第1次的全國巡迴演唱會。
 
 ## 演唱會名稱
@@ -49,6 +52,6 @@
 21.
 ## 參考資料
 
-  - [宇多田光官方網站](http://www.emimusic.jp/hikki/)
+  - [宇多田光官方網站](https://web.archive.org/web/20081118160943/http://www.emimusic.jp/hikki/)
 
 [Category:宇多田光](https://zh.wikipedia.org/wiki/Category:宇多田光 "wikilink") [Category:2000年音乐](https://zh.wikipedia.org/wiki/Category:2000年音乐 "wikilink")

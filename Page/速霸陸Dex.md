@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸Dex](https://zh.wikipedia.org/wiki/速霸陸Dex)转换而来。
+
+
 **速霸陸Dex**（）為2008年起由[日本](../Page/日本.md "wikilink")[大發工業製造](https://zh.wikipedia.org/wiki/大發工業株式會社 "wikilink")、[富士重工業販售的](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，其原型車為[大發Coo](https://zh.wikipedia.org/wiki/大發Coo "wikilink")（外銷版名大發Materia）。
 
 ## 概要

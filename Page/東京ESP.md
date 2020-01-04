@@ -1,3 +1,6 @@
+> 本文内容由[東京ESP](https://zh.wikipedia.org/wiki/東京ESP)转换而来。
+
+
 是漫畫家[瀬川はじめ的](https://zh.wikipedia.org/wiki/瀬川はじめ "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。在2013年5月宣布動畫化\[1\]。並在2014年1月《[月刊少年ACE](https://zh.wikipedia.org/wiki/月刊少年ACE "wikilink")》上確定放送時間會在7月份\[2\]。3月12號動畫官網正式上線\[3\]。
 
 ## 劇情簡介

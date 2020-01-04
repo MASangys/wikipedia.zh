@@ -1,3 +1,6 @@
+> 本文内容由[LOVE SONG \(第三代J Soul Brothers單曲\)](https://zh.wikipedia.org/wiki/LOVE_SONG_\(第三代J_Soul_Brothers單曲\))转换而来。
+
+
 《**LOVE SONG**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[第三代J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")3張單曲，於2011年5月11日由[rhythm zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")；5月27日於台灣數位發行。
 
 ## 概要

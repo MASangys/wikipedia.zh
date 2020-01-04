@@ -1,3 +1,6 @@
+> 本文内容由[ATP中國國際網球挑戰賽](https://zh.wikipedia.org/wiki/ATP中國國際網球挑戰賽)转换而来。
+
+
 **ATP中國國際網球挑戰賽**是從2012年開始於 [中國](../Page/中國.md "wikilink")[昆明市](../Page/昆明市.md "wikilink")[安寧市舉辦的紅土網球賽事](https://zh.wikipedia.org/wiki/安寧市 "wikilink")。為[ATP挑戰賽等級的賽事](https://zh.wikipedia.org/wiki/ATP挑戰賽 "wikilink")。
 
 ## 歷屆賽事

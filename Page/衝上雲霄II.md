@@ -1561,6 +1561,10 @@ BJ Chong之朋友，後為其女友</p></td>
 
 ### 香港播放
 
+#### 首播
+
+#### 重播
+
 ### 香港以外地區播放
 
 [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink") [Category:2012無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2012無綫節目巡禮劇集 "wikilink") [Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink") [Category:機場背景作品](https://zh.wikipedia.org/wiki/Category:機場背景作品 "wikilink") [Category:衝上雲霄系列](https://zh.wikipedia.org/wiki/Category:衝上雲霄系列 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")

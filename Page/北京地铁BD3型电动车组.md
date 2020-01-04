@@ -1,3 +1,6 @@
+> 本文内容由[北京地铁BD3型电动车组](https://zh.wikipedia.org/wiki/北京地铁BD3型电动车组)转换而来。
+
+
 **北京地铁BD3型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，外观与[BD2型基本一致](../Page/北京地铁BD2型电动车组.md "wikilink")，但为斩波调阻车，现在已经退出运营。
 
 ## 简介

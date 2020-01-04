@@ -1,4 +1,7 @@
-，是收錄電影《[五月天追夢3DNA](../Page/五月天追夢3DNA.md "wikilink")》原聲帶的音樂專輯，由[相信音樂製作](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")、[環球音樂發行](https://zh.wikipedia.org/wiki/環球唱片_\(台灣\) "wikilink")，共收錄16首歌，於2011年9月16日發行。 專輯除收錄電影裡的演唱曲目之外，也收錄多首[五月天](../Page/五月天.md "wikilink")經典曲目的改編作品。全片[配樂由五月天負責](https://zh.wikipedia.org/wiki/配樂 "wikilink")，配合電影情境將原曲改編、重新製作。
+> 本文内容由[五月天追夢3DNA電影原聲帶](https://zh.wikipedia.org/wiki/五月天追夢3DNA電影原聲帶)转换而来。
+
+
+，是收錄電影《[五月天追夢3DNA](../Page/五月天追夢3DNA.md "wikilink")》原聲帶的音樂專輯，由[相信音樂](../Page/相信音樂.md "wikilink")製作、[環球音樂發行](https://zh.wikipedia.org/wiki/環球唱片_\(台灣\) "wikilink")，共收錄16首歌，於2011年9月16日發行。 專輯除收錄電影裡的演唱曲目之外，也收錄多首[五月天](../Page/五月天.md "wikilink")經典曲目的改編作品。全片[配樂由五月天負責](https://zh.wikipedia.org/wiki/配樂 "wikilink")，配合電影情境將原曲改編、重新製作。
 
 ## 收錄曲目
 

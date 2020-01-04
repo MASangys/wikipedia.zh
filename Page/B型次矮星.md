@@ -1,3 +1,6 @@
+> 本文内容由[B型次矮星](https://zh.wikipedia.org/wiki/B型次矮星)转换而来。
+
+
 [Subdwarf_B_star_schematic_cross_section.png](https://zh.wikipedia.org/wiki/File:Subdwarf_B_star_schematic_cross_section.png "fig:Subdwarf_B_star_schematic_cross_section.png") **B型次矮星**（**subdwarf B star**，[縮寫](../Page/縮寫.md "wikilink")：**sdB**）是一種[光譜類型B型的](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")[次矮星](../Page/次矮星.md "wikilink")。這種恆星和典型次矮星不同的是它的表面溫度和亮度較高\[1\]，在[赫羅圖](../Page/赫羅圖.md "wikilink")的位置是在「極端[水平分支](../Page/水平分支.md "wikilink")」。這些恆星的質量大約是0.5倍太陽質量，並且只含有1%氫，其餘成分大多是氦。而半徑則是太陽的0.15到0.25倍，表面溫度20000到40000 [K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")。
 
 B型次矮星是在恆星演化的晚期階段。[紅巨星](../Page/紅巨星.md "wikilink")的核心開始進行[氦](../Page/氦.md "wikilink")的[核融合之前失去主要由氫組成的外層](https://zh.wikipedia.org/wiki/核融合 "wikilink")，剩下的核心即為B型次矮星。這些紅巨星提早喪失質量的原因至今仍不明，不過聯星系統中和另一顆成員星的交互作用可能是主要機制。單一B型次矮星可能是兩顆[白矮星](../Page/白矮星.md "wikilink")合併的結果。B型次矮星被認為是恆星變成白矮星前沒有經過巨星階段的產物。
@@ -42,15 +45,11 @@ B型次矮星中又可分為三種[變星](../Page/變星.md "wikilink")：
 
 1.
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
 10.

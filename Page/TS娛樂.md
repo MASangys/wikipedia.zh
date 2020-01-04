@@ -1,3 +1,6 @@
+> 本文内容由[TS娛樂](https://zh.wikipedia.org/wiki/TS娛樂)转换而来。
+
+
 **TS娛樂**（）是韓國的一間[經紀公司](../Page/經紀公司.md "wikilink")，於2008年成立，社長為金泰松（），其於2018年4月27日身故，享年52歲。葬禮於首爾國立中央醫療院第207號靈堂進行，旗下藝人亦因此全面停工。 TS娛樂在2008年推出男子嘻哈雙人團體[Untouchable](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")；2009年推出女子音樂組合[Secret](../Page/Secret_\(組合\).md "wikilink")\[1\]；2012年推出男子音樂組合[B.A.P](../Page/B.A.P.md "wikilink")\[2\]；2014年推出女子音樂組合[SONAMOO](../Page/SONAMOO.md "wikilink")。2017年推出男子音樂組合[TRCNG](../Page/TRCNG.md "wikilink")。
 
 ## 旗下藝人
@@ -22,8 +25,8 @@
 <td><p>2008年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Untouchable_(南韓組合)" title="wikilink">Untouchable</a></p></td>
 <td><p>男</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、D.Action</p></td>
-<td><p>Sleepy</p></td>
+<td><p>D.Action</p></td>
+<td></td>
 <td><p>活動中</p></td>
 <td></td>
 <td></td>
@@ -42,8 +45,8 @@
 <td><p>2014年</p></td>
 <td><p><a href="../Page/SONAMOO.md" title="wikilink">SONAMOO</a></p></td>
 <td><p>女</p></td>
-<td><p>受玟、旼宰、D.ana、娜玹、宜珍、High.D、New Sun</p></td>
-<td><p>受玟</p></td>
+<td><p>旼宰、D.ana、宜珍、High.D、New Sun</p></td>
+<td></td>
 <td><p>活動中</p></td>
 <td><p>松果</p></td>
 <td></td>
@@ -52,8 +55,8 @@
 <td><p>2017年</p></td>
 <td><p><a href="../Page/TRCNG.md" title="wikilink">TRCNG</a></p></td>
 <td><p>男</p></td>
-<td><p>JI HUN、HA YOUNG、TAE SEON、HAK MIN、WOO YEOP、JI SUNG、HYUN WOO、SI WOO、HO HYEON、KANG MIN</p></td>
-<td><p>TAE SEON</p></td>
+<td><p>JI HUN、HA YOUNG、HAK MIN、JI SUNG、HYUN WOO、SI WOO、HO HYEON、KANG MIN</p></td>
+<td></td>
 <td><p>活動中</p></td>
 <td><p>待宣布</p></td>
 <td></td>
@@ -62,6 +65,14 @@
 </table>
 
 ## 过去旗下艺人
+
+### 合約糾紛中
+
+  - [Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")（Untouchable）
+  - [受玟](../Page/池受玟.md "wikilink")（[SONAMOO](../Page/SONAMOO.md "wikilink")）
+  - [娜玹](../Page/金娜炫.md "wikilink")（[SONAMOO](../Page/SONAMOO.md "wikilink")）
+  - [泰宣](https://zh.wikipedia.org/wiki/泰宣 "wikilink")（[TRCNG](../Page/TRCNG.md "wikilink")）
+  - [祐葉](https://zh.wikipedia.org/wiki/祐葉 "wikilink")（[TRCNG](../Page/TRCNG.md "wikilink")）
 
 ### 个人歌手
 

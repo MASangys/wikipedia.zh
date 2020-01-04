@@ -24,7 +24,7 @@ K9架構的設計基於[K7和K](https://zh.wikipedia.org/wiki/AMD_K7 "wikilink")
 
 但是這個計劃尚處於概念化階段的時候就被下令取消研發，在超微官方宣布K8下一代架構後大約6個月，雖然此時K9的電路架構已完成，但仍未有任何以K9名義的晶片流片。\[12\]此時不少媒體猜測K8的下一代微架構將是K8L/[K10](https://zh.wikipedia.org/wiki/K10 "wikilink")，也有K10架構也被取消研發的傳聞。而後來K10微架構發布以後也有不少特性和當年K9微架構被披露出來時相近。
 
-在一段時間裡K9是新一代雙核心[AMD64微處理器的內部架構代號](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，以[Athlon 64 X2的品牌出現](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")，\[13\]\[14\]然而超微卻有計劃試圖放棄原來以“K”字號的架構命名方式，並且尋求一個根據不同市場需要劃分處理器效能等級的計劃。\[15\]另也有傳言指，AMD取消K9而繼續沿用K8的名稱並直接跳到K10，是因為K9的英文發音和「canine」（狗類）類似。\[16\]
+在一段時間裡K9是新一代雙核心[AMD64微處理器的內部架構代號](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，以[Athlon 64 X2的品牌出現](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")，\[13\]\[14\]然而超微卻有計劃試圖放棄原來以“K”字號的架構命名方式，並且尋求一個根據不同市場需要劃分處理器效能等級的計劃。\[15\]另也有傳言指，AMD取消K9而繼續沿用K8的名稱並直接跳到K10，是因為K9的英文發音和「canine」（犬類）類似。\[16\]
 
 ## 參考資料
 

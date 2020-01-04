@@ -1,3 +1,6 @@
+> 本文内容由[Best Friend\'s Girl](https://zh.wikipedia.org/wiki/Best_Friend\'s_Girl)转换而来。
+
+
 《**Best Friend's Girl**》為[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[第三代J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")1張單曲，於2010年11月10日由[rhythm zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

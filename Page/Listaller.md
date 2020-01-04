@@ -1,3 +1,6 @@
+> 本文内容由[Listaller](https://zh.wikipedia.org/wiki/Listaller)转换而来。
+
+
 **Listaller**是一個[自由的電腦軟體安裝系統](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")（類似[軟體包管理系統](https://zh.wikipedia.org/wiki/軟體包管理系統 "wikilink")），目標是讓創建可在所有的[Linux發行版上安裝的軟體包變得容易](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，它也提供了許多工具及API讓Linux上的軟體管理更加友善。
 
 ## 歷史
@@ -34,7 +37,7 @@ Listaller的重要性在於它可以跟桌面環境、已存在的軟體管理�
 
 ## 外部連結
 
-  - [Project homepage](http://listaller.tenstral.net/)
+  - [Project homepage](https://web.archive.org/web/20120203221057/http://listaller.tenstral.net/)
 
 [Category:歸檔格式](https://zh.wikipedia.org/wiki/Category:歸檔格式 "wikilink")
 

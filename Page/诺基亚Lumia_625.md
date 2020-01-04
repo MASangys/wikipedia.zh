@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚Lumia 625](https://zh.wikipedia.org/wiki/诺基亚Lumia_625)转换而来。
+
+
 **Nokia Lumia 625**是一款由[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")2013年7月24日发布，以[Windows Phone 8為作業系統的智能手機](../Page/Windows_Phone_8.md "wikilink"), 是諾基亞2013年的智能手機。Lumia 625目前有橙、綠、黃、白、黑顏色選擇，採用聚碳酸脂物料，是可以換殼的，但不可換電。它主打的賣點之一，就是更大的4.7吋的屏幕，不過解像度仍然停留在800x480的WVGA規格，換算只有 201 PPI 。規格方面亦是入門級的，採用 MSM8930 SoC、 512MB RAM 、 8GB ROM（支援外置插卡）、500 萬 / 30 萬像素雙相機、2000 mAh 電池。香港版支援 4G LTE 連線，打通 1800 / 2600 雙頻網絡。
 
 ## 主要特色

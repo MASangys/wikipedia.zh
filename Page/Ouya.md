@@ -1,3 +1,6 @@
+> 本文内容由[Ouya](https://zh.wikipedia.org/wiki/Ouya)转换而来。
+
+
 **Ouya**（ ; <small>stylized</small> "OUYA"）\[1\] 是於2013年推出的[電視遊戲機](https://zh.wikipedia.org/wiki/電視遊戲機 "wikilink")，使用經修改過的[Android](../Page/Android.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，是第一個開放平台的遊戲機。產品項目在2012年\[2\]，由資深遊戲行業人士[Julie Uhrman](https://zh.wikipedia.org/wiki/Julie_Uhrman "wikilink")\[3\] 創立，並邀請了設計師[Yves Béhar合作設計項目和產品經理](https://zh.wikipedia.org/wiki/Yves_Béhar "wikilink")[Muffi Ghadiali一起組成工作團隊](https://zh.wikipedia.org/wiki/Muffi_Ghadiali "wikilink")。\[4\]Ouya在一個月的時間內，經由[Kickstarter](../Page/Kickstarter.md "wikilink")網站募集了700萬美元\[5\]，最後總共慕集859萬6474美元的開發資金，成為該網站歷來慕得金額第二位的集資項目。開發套件已於2012年12月底出貨給遊戲開發者。\[6\]2012年12月28日，開發商除了寄送開發者套件外，還發表開箱文。\[7\]主機於2013年6月25日發行。\[8\]
 
 [OuyaDeveloperConsole.png](https://zh.wikipedia.org/wiki/File:OuyaDeveloperConsole.png "fig:OuyaDeveloperConsole.png")

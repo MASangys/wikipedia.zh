@@ -1,3 +1,6 @@
+> 本文内容由[Muv-Luv Alternative Total Eclipse](https://zh.wikipedia.org/wiki/Muv-Luv_Alternative_Total_Eclipse)转换而来。
+
+
 **Muv-Luv Alternative Total Eclipse**（）是[日本](../Page/日本.md "wikilink")遊戲公司[âge的電玩作品](https://zh.wikipedia.org/wiki/âge "wikilink")[Muv-Luv Alternative的](../Page/Muv-Luv_Alternative.md "wikilink")[衍生作品](../Page/衍生作品.md "wikilink")（外传），原作為揭載於[Enterbrain](../Page/Enterbrain.md "wikilink")社《[TECH GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](https://zh.wikipedia.org/wiki/吉宗鋼紀 "wikilink")，自2007年12月25日起開始連載，之後小說內容被改編成漫畫、動畫、PS3遊戲、Xbox 360遊戲、PC遊戲。動畫版自2012年7月1日起開播。
 
 ## 劇情

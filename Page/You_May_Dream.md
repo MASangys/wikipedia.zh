@@ -1,3 +1,6 @@
+> 本文内容由[You May Dream](https://zh.wikipedia.org/wiki/You_May_Dream)转换而来。
+
+
 《**You May Dream**》是[LISP的首張單曲](https://zh.wikipedia.org/wiki/LISP_\(組合\) "wikilink")，於2011年4月13日由[DIVE II entertainment發行](https://zh.wikipedia.org/wiki/DIVE_II_entertainment "wikilink")。
 
 ## 概要

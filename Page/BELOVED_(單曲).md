@@ -1,3 +1,6 @@
+> 本文内容由[BELOVED \(單曲\)](https://zh.wikipedia.org/wiki/BELOVED_\(單曲\))转换而来。
+
+
 **BELOVED**是[GLAY](../Page/GLAY.md "wikilink")的第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[NEW CHALLENGE](https://zh.wikipedia.org/wiki/NEW_CHALLENGE)转换而来。
+
+
 《**NEW CHALLENGE**》是[韓國的男子音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第4張迷你專輯。於2013年3月21日發行。唱片公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")。
 
 ## 概要

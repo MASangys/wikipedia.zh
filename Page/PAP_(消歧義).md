@@ -1,3 +1,6 @@
+> 本文内容由[PAP \(消歧義\)](https://zh.wikipedia.org/wiki/PAP_\(消歧義\))转换而来。
+
+
 **PAP** 或 **Pap** 可以指：
 
 ## 地名
@@ -36,7 +39,7 @@
   -
   - （Phosphatidic acid phosphatase）
 
-  - （Pulmonary alveolar proteinosis）
+  - [肺泡蛋白質沉積症](https://zh.wikipedia.org/wiki/肺泡蛋白質沉積症 "wikilink")（Pulmonary alveolar proteinosis）
 
 ## 武器
 

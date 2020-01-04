@@ -1,3 +1,6 @@
+> 本文内容由[寶石寵物 Sunshine角色列表](https://zh.wikipedia.org/wiki/寶石寵物_Sunshine角色列表)转换而来。
+
+
 **寶石寵物 Sunshine角色列表**介紹《[寶石寵物 Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 
 ## 寶石寵物
@@ -12,7 +15,7 @@
     喜歡御影，但和御影有對戒
     在48話中拒絕陶魯的表白
     在52話中以「我的夢想是要成為御影同學的新娘」的話向御影表白
-  - **奈娜**（、Labra）
+  - **拉布拉**（、Labra）
     [配音員](../Page/配音員.md "wikilink")：日本：[澤城美雪](../Page/澤城美雪.md "wikilink")／香港：[劉惠雲](../Page/劉惠雲.md "wikilink")
     室友：安祖娜
     語尾是「love」。
@@ -22,7 +25,7 @@
 
 <!-- end list -->
 
-  - **安祖娜**（、Angela）
+  - **安潔拉**（、Angela）
     [配音員](../Page/配音員.md "wikilink")：日本：[豐崎愛生](../Page/豐崎愛生.md "wikilink")／香港：[程文意](../Page/程文意.md "wikilink")→[成瑤孆](../Page/成瑤孆.md "wikilink")
     室友：拉布拉
     羊駝，語尾是「paca」，討厭別人破壞自己的毛。
@@ -98,7 +101,7 @@
 
 <!-- end list -->
 
-  - **戴安娜**（、Diana）
+  - **-{黛安娜}-**（、Diana）
     [配音員](../Page/配音員.md "wikilink")：日本：[宍戶留美](../Page/宍戶留美.md "wikilink")／香港：[黃淑芬](../Page/黃淑芬.md "wikilink")
     貴族黑貓，迪安的女朋友。
 

@@ -836,6 +836,13 @@
   - 12.04 - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")<sup>6th</sup> - Hip<sup>1st</sup>
   - 12.11 - [EXO](../Page/EXO.md "wikilink")<sup>17th</sup> - Obsession<sup>1st</sup>
   - 12.18 - 停播
+  - 12.25 - 2019下半年結算特輯
+
+### 2020年
+
+一月
+
+  - 01.01 - 停播
 
 ## 藝人成就
 

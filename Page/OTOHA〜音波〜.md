@@ -1,3 +1,6 @@
+> 本文内容由[OTOHA〜音波〜](https://zh.wikipedia.org/wiki/OTOHA〜音波〜)转换而来。
+
+
 「**OTOHA〜音波〜**」（）是日本歌手[松澤由美的第](https://zh.wikipedia.org/wiki/松澤由美 "wikilink")2支[单曲](../Page/单曲.md "wikilink")。1997年1月25日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")发售。
 
 ## 概要

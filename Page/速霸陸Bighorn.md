@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸Bighorn](https://zh.wikipedia.org/wiki/速霸陸Bighorn)转换而来。
+
+
 **速霸陸Bighorn**（）乃是[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1988年至1993年間販售的[越野車](https://zh.wikipedia.org/wiki/越野車 "wikilink")、中型[運動型多用途車](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，其原型為[五十鈴](../Page/五十鈴.md "wikilink")汽車出品的（日規名稱五十鈴Bighorn）。由於富士重工業和五十鈴汽車之間簽署了[OEM代工協議](https://zh.wikipedia.org/wiki/贴牌生产 "wikilink")，故[換上速霸陸的廠徽銘牌](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")。詳細的機械構造規格，請參閱之條目。
 
 ## 概要與歷史

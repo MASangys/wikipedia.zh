@@ -1,3 +1,6 @@
+> 本文内容由[日界線 \(美國NBC電視節目\)](https://zh.wikipedia.org/wiki/日界線_\(美國NBC電視節目\))转换而来。
+
+
 **《日界線》**（，也稱）是美國的一個[新聞雜誌](../Page/新聞雜誌.md "wikilink")節目。在[全國廣播公司](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")（NBC）播出，由《[NBC晚间新闻](../Page/NBC晚间新闻.md "wikilink")》主播[萊斯特·霍爾特](../Page/萊斯特·霍爾特.md "wikilink")主持。
 
 ## 外部連結

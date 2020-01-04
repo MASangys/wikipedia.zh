@@ -108,7 +108,7 @@
 
 1.  [Assembly.org — Official website](http://www.assembly.org)
 2.  [Results from Assembly 2003](http://www.demoparty.net/assembly2003/results.html)
-3.  [Interview: Rovio's Peter Vesterbacka on the history of the company](http://www.criticalgamer.co.uk/2011/07/11/interview-rovio%E2%80%99s-peter-vesterbacka-on-the-history-of-the-company/)
+3.
 4.
 5.
 6.  [Apple Names All-Time Top App Store Apps | The Mac Observer](http://www.macobserver.com/tmo/article/apple_names_all-time_top_app_store_apps/) Retrieved May 14, 2012.

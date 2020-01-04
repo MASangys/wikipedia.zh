@@ -1,3 +1,6 @@
+> 本文内容由[Allophone](https://zh.wikipedia.org/wiki/Allophone)转换而来。
+
+
 **Allophone**是主要在[加拿大](../Page/加拿大.md "wikilink")[魁北克使用的](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[政治](../Page/政治.md "wikilink")[术语](https://zh.wikipedia.org/wiki/术语 "wikilink")，指除[加拿大原住民](../Page/加拿大原住民.md "wikilink")外母语既非[英语](../Page/英语.md "wikilink")也非[法语](../Page/法语.md "wikilink")的人\[1\]\[2\]。在除[魁北克以外的加拿大英语区](https://zh.wikipedia.org/wiki/魁北克 "wikilink")，这个词也有少量使用。与**Allophone**对应的词为**Anglophone**和**Francophone**，分别指母语为英语和法语的人。
 
 ## 词源
@@ -35,7 +38,7 @@ Allophone是魁北克人口增长的重要部分。Allophone人口的快速增�
 
 ## 参考文献
 
-[Category:政治术语](https://zh.wikipedia.org/wiki/Category:政治术语 "wikilink")
+[Category:政治术语](https://zh.wikipedia.org/wiki/Category:政治术语 "wikilink") [Category:加拿大](https://zh.wikipedia.org/wiki/Category:加拿大 "wikilink")
 
 1.
 2.

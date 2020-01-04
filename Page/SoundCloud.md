@@ -1,3 +1,6 @@
+> 本文内容由[SoundCloud](https://zh.wikipedia.org/wiki/SoundCloud)转换而来。
+
+
 **SoundCloud**是一個線上音樂分享平臺，它允許人們合作、交流和分享原創音樂錄音，总部位于[德国](../Page/德国.md "wikilink")[柏林](../Page/柏林.md "wikilink")。\[1\]截至2018年5月，已拥有1.75億注册用户\[2\]。
 
 ## 歷史

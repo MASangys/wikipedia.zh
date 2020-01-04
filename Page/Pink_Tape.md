@@ -1,3 +1,6 @@
+> 本文内容由[Pink Tape](https://zh.wikipedia.org/wiki/Pink_Tape)转换而来。
+
+
 **《Pink Tape》**是[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[f(x)的第二張正規專輯](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")。於2013年7月29日發行。唱片公司為[SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 ## 「初智齒（Rum Pum Pum Pum）」

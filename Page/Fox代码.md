@@ -1,3 +1,6 @@
+> 本文内容由[Fox代码](https://zh.wikipedia.org/wiki/Fox代码)转换而来。
+
+
 ****代碼是[北约飞行员示意发射或模擬發射](https://zh.wikipedia.org/wiki/北约 "wikilink")[空对空武器或者其它作戰行為时使用的無線電](https://zh.wikipedia.org/wiki/空對空導彈 "wikilink")。[陸軍航空兵使用另一種簡碼或術語](https://zh.wikipedia.org/wiki/陸軍航空兵 "wikilink")，因為直升機發射武器種類大多為空對地武器。
 
 Fox是[北约音标字母](../Page/北约音标字母.md "wikilink")中**Foxtrot**的缩寫，該單詞代表英文字母F，為「Fire」（開火）的縮寫。使用這個代碼是為了避免，示意其他飛行員以確保他們不會進入武器飛行路徑造成危險。Fox代碼有四種，形式均是在Fox後面加上數字英文，用作區分發射武器所使用的[傳感器類型](https://zh.wikipedia.org/wiki/傳感器 "wikilink")。它們分別為：
@@ -18,7 +21,6 @@ Fox是[北约音标字母](../Page/北约音标字母.md "wikilink")中**Foxtrot
 [Category:無線電](https://zh.wikipedia.org/wiki/Category:無線電 "wikilink") [Category:簡碼](https://zh.wikipedia.org/wiki/Category:簡碼 "wikilink") [Category:代码列表](https://zh.wikipedia.org/wiki/Category:代码列表 "wikilink") [Category:北大西洋公约组织](https://zh.wikipedia.org/wiki/Category:北大西洋公约组织 "wikilink") [Category:軍事航空](https://zh.wikipedia.org/wiki/Category:軍事航空 "wikilink")
 
 1.
-
 2.
 3.
 4.  Webster, J. C.; C. R. Allen (2 August 1972). [Speech Intelligibility in Naval Aircraft Radios](http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=AD0748202) (Technical report). San Diego, California: Naval Electronics Laboratory Center. p. 61. \[1 June 2012\].

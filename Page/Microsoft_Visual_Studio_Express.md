@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Visual Studio Express](https://zh.wikipedia.org/wiki/Microsoft_Visual_Studio_Express)转换而来。
+
+
 **Microsoft Visual Studio Express**是一套由[微軟公司開發的](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[免費](../Page/免費軟體.md "wikilink")\[1\][整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")，是[Microsoft Visual Studio產品線上的輕量版本](../Page/Microsoft_Visual_Studio.md "wikilink")。其具有易學易用的特點，而功能稍弱；故其受眾是愛好者和學生，而非專業開發者。
 
 Express版本於Microsoft Visual Studio 2005最初出現。

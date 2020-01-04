@@ -1,3 +1,6 @@
+> 本文内容由[飛虎II](https://zh.wikipedia.org/wiki/飛虎II)转换而来。
+
+
 《**飛虎II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬德鐘](https://zh.wikipedia.org/wiki/馬德鐘 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[羅仲謙](../Page/羅仲謙.md "wikilink")領銜主演，並由[梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[黃智雯](../Page/黃智雯.md "wikilink")、[袁偉豪](../Page/袁偉豪.md "wikilink")及[苟芸慧](../Page/苟芸慧.md "wikilink")聯合主演，監製[林志華](../Page/林志華.md "wikilink")。此劇為《[飛虎](https://zh.wikipedia.org/wiki/飛虎_\(電視劇\) "wikilink")》的[續集](https://zh.wikipedia.org/wiki/續集 "wikilink")，為第18屆香港國際影視展中無綫電視所推介的19部劇集之一，亦為**無綫電視邁向48週年台慶劇**，亦是[鄧健泓](../Page/鄧健泓.md "wikilink")、[高鈞賢](../Page/高鈞賢.md "wikilink")、[蔡淇俊](../Page/蔡淇俊.md "wikilink")在無線電視的告別作。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 演員表
@@ -12,23 +15,36 @@
 <td><p>'''暱稱／關係</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/林嘉華.md" title="wikilink">林嘉華</a></p></td>
+<td><p><strong>梁日鋒</strong></p></td>
+<td><p><strong>梁sir</strong><br />
+（並無參演本劇）</p></td>
+</tr>
+<tr class="odd">
 <td><p><strong><a href="../Page/洪天明.md" title="wikilink">洪天明</a></strong></p></td>
 <td><p><strong>潘子龍</strong></p></td>
 <td><p><strong>潘Sir、Roy</strong><br />
 警司，實為黑警<br />
 前<a href="https://zh.wikipedia.org/wiki/CIB" title="wikilink">CIB</a><a href="../Page/總督察.md" title="wikilink">總督察</a><br />
-展瀚韜、高兆倫之直属上司<br />
-鍾韋恩前上司並出賣她<br />
+展瀚韜、高兆倫之直屬上司<br />
+鍾韋恩之前上司，並出賣她<br />
 於一年前和盡雞殺害蘇洪<br />
 於第10集殺害盡雞，後自殺身亡</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/曾偉權.md" title="wikilink">曾偉權</a></p></td>
+<td><p><strong>葉樹輝</strong></p></td>
+<td><p><strong>媽打</strong><br />
+<a href="../Page/警署警長.md" title="wikilink">警署警長</a>、A team副隊長<br />
+（並無參演本劇）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/馬德鐘" title="wikilink">馬德鐘</a></strong></p></td>
 <td><p><strong>展瀚韜</strong></p></td>
 <td><p><strong>展Sir</strong><br />
 <a href="../Page/高級督察.md" title="wikilink">高級督察</a>（A Team指揮官）<br />
-於潘子龍被通缉后暂代飞虎队总指挥官<br />
-潘子龍之直属下屬<br />
+於潘子龍被通緝後暫代飛虎隊總指揮官<br />
+潘子龍之直屬下屬<br />
 展雲超、羅寶蓮之子<br />
 展宗齊之孫<br />
 莊卓嬅、丁慧慧之前男友<br />
@@ -41,21 +57,11 @@
 <td><p>高兆倫</p></td>
 <td><p><strong>高Sir</strong><br />
 <a href="../Page/高級督察.md" title="wikilink">高級督察</a>（B Team指揮官）<br />
-潘子龍之直属下属<br />
-第5集後升職为<a href="../Page/總督察.md" title="wikilink">總督察</a><br />
-高智昊、郭德偉、徐家明、俞學禮之上司</p></td>
+潘子龍之直屬下屬<br />
+第5集後升職為<a href="../Page/總督察.md" title="wikilink">總督察</a><br />
+郭德偉、徐家明、俞學禮之上司 |-[[</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/羅仲謙.md" title="wikilink">羅仲謙</a></strong></p></td>
-<td><p><strong>俞學禮</strong></p></td>
-<td><p>警長（A Team攻擊手, 後為B Team攻擊手及B Team副指揮官），後於第10集重返A Team，後升為<a href="https://zh.wikipedia.org/wiki/见习督察" title="wikilink">见习督察</a><br />
-俞学恩之弟<br />
-展瀚韜之下屬，後反目，最後和好<br />
-蘇文強之男友，於第10集為其夫<br />
-舒子麗之追求對象<br />
-參見上輯<a href="https://zh.wikipedia.org/wiki/飛虎_(電視劇)" title="wikilink"><strong>飛虎</strong></a></p></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a></strong></p></td>
 <td><p><strong>莊卓源</strong></p></td>
 <td><p>警長（A Team<a href="../Page/狙擊手.md" title="wikilink">狙擊手</a>）<br />
@@ -66,41 +72,41 @@
 俞學禮之好友<br />
 參見上輯<a href="https://zh.wikipedia.org/wiki/飛虎_(電視劇)" title="wikilink"><strong>飛虎</strong></a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/黃智雯.md" title="wikilink">黃智雯</a></strong></p></td>
 <td><p><strong>蘇文強</strong></p></td>
-<td><p>见习督察，飛虎學員，後為A Team攻擊手<br />
+<td><p>見習督察，飛虎學員，後為A Team攻擊手<br />
 展瀚韜之下屬<br />
 俞學禮之女友，於第10集為其妻<br />
 舒子麗之情敵，後為好友<br />
 參見上輯<a href="https://zh.wikipedia.org/wiki/飛虎_(電視劇)" title="wikilink"><strong>飛虎</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a></strong></p></td>
 <td><p><strong>謝家星</strong></p></td>
 <td><p>警長（A Team攻擊手）<br />
 展瀚韜之下屬<br />
 俞學禮、莊卓源之好友<br />
-與舒子麗有感線<br />
+與舒子麗有感情線<br />
 參見上輯<a href="https://zh.wikipedia.org/wiki/飛虎_(電視劇)" title="wikilink"><strong>飛虎</strong></a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/何俊軒.md" title="wikilink">何俊軒</a></strong></p></td>
 <td><p><strong>胡力全</strong></p></td>
 <td><p><strong>Nick</strong><br />
-警長（A Team攻擊手），於第5集在田新喜弃械投降的情况下非法枪伤其，于第6集被革职<br />
+警長（A Team攻擊手），於第5集在田新喜棄械投降的情况下非法槍傷其，於第6集被革職<br />
 展瀚韜之下屬<br />
 於第8集接手「Cafe虎」酒吧<br />
 參見上輯<a href="https://zh.wikipedia.org/wiki/飛虎_(電視劇)" title="wikilink"><strong>飛虎</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/何君誠.md" title="wikilink">何君誠</a></strong></p></td>
 <td><p><strong>郭德偉</strong></p></td>
 <td><p>警長（A Team攻擊手，後為B Team狙擊手）<br />
 展瀚韜之下屬，後反目，最後和好<br />
 參見上輯<a href="https://zh.wikipedia.org/wiki/飛虎_(電視劇)" title="wikilink"><strong>飛虎</strong></a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/許家傑.md" title="wikilink">許家傑</a></strong></p></td>
 <td><p><strong>徐家明</strong></p></td>
 <td><p><strong>表哥</strong><br />
@@ -108,63 +114,63 @@
 展瀚韜之下屬，後反目，最後和好<br />
 參見上輯<a href="https://zh.wikipedia.org/wiki/飛虎_(電視劇)" title="wikilink"><strong>飛虎</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/高鈞賢.md" title="wikilink">高鈞賢</a></p></td>
 <td><p>高智昊</p></td>
 <td><p><strong>K朗</strong><br />
 飛虎學員，後為A Team隊員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/李晉強.md" title="wikilink">李晉強</a></p></td>
 <td><p>楊　剛</p></td>
 <td><p>飛虎學員，後為A Team隊員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊</a></p></td>
 <td><p>林文輝</p></td>
 <td><p>飛虎學員，後為A Team隊員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳偉洪.md" title="wikilink">陳偉洪</a></p></td>
 <td><p>胡細良</p></td>
 <td><p>飛虎學員，後為B Team隊員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/王致迪" title="wikilink">王致迪</a></p></td>
 <td><p>李保嘉</p></td>
 <td><p>飛虎學員，後為B Team隊員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
 <td><p>何錦榮</p></td>
 <td><p>飛虎學員，後為B Team隊員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/謝光耀" title="wikilink">謝光耀</a></p></td>
 <td><p>鄭志遠</p></td>
 <td><p>飛虎學員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/張明偉.md" title="wikilink">張明偉</a></p></td>
 <td><p>葉毅勇</p></td>
 <td><p>飛虎學員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/曾海昌" title="wikilink">曾海昌</a></p></td>
 <td><p>劉善泉</p></td>
 <td><p>飛虎學員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳光耀_(演員)" title="wikilink">陳光耀</a></p></td>
 <td><p>莊俊安</p></td>
 <td><p>飛虎學員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳家良" title="wikilink">陳家良</a></p></td>
 <td><p>黃　沙</p></td>
 <td><p>飛虎學員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/施駿喆" title="wikilink">施駿喆</a></p></td>
 <td><p>-{范}-　武</p></td>
 <td><p>飛虎學員</p></td>

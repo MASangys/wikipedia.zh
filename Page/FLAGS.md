@@ -1,3 +1,6 @@
+> 本文内容由[FLAGS](https://zh.wikipedia.org/wiki/FLAGS)转换而来。
+
+
 《FLAGS》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在2011年6月22日发行[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，為[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")的第二十五张单曲。唱片由[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")(Epic Records Japan)代理發行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Google+开发人员直播](https://zh.wikipedia.org/wiki/Google+开发人员直播)转换而来。
+
+
 **Google开发者实时录像** （） 是由[Google](../Page/Google.md "wikilink")全年在全球针对网络开发者分享其实时录像资料等。\[1\] 通过实时录像和[Google+](../Page/Google+.md "wikilink")视频实录，以及[Youtube上传的视频资料等](https://zh.wikipedia.org/wiki/Youtube "wikilink")，\[2\] 它们是全球性的并由谷歌组织。它们重点讨论网络的架构，移动产品，基于谷歌应用软件的研发公司和开放式网络技术，例如[Android](../Page/Android.md "wikilink")、[HTML5](../Page/HTML5.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Google App Engine](../Page/Google_App_Engine.md "wikilink")、[Google Web Toolkit和给予每个参与者一次绝佳机会来学习谷歌开发者研发的产品](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")，也同时与参与项目的工程师互动分享。
 
 ## 参见

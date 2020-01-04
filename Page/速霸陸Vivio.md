@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸Vivio](https://zh.wikipedia.org/wiki/速霸陸Vivio)转换而来。
+
+
 **速霸陸Vivio**（）乃[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1992年至1998年間研發製造的[輕型車](../Page/輕型車.md "wikilink")，為[速霸陸Rex](../Page/速霸陸Rex.md "wikilink")的後繼車款。2001年該款車曾在[中國](../Page/中國.md "wikilink")市場國產化，即為**[貴航雲雀WOW](https://zh.wikipedia.org/wiki/貴航雲雀 "wikilink")**（屬後期型）\[1\]，至於原裝進口版則稱為**斯巴魯小公主**。
 
 車名源於[英語中的](https://zh.wikipedia.org/wiki/英語 "wikilink")「vivid」，表示色彩鮮豔之意；此外該車引擎[排氣量](https://zh.wikipedia.org/wiki/排氣量 "wikilink")「660」以[羅馬數字書寫為](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink") 「VI VI 0」，與「vivio」近似。

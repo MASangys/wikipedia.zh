@@ -27,12 +27,12 @@
 
   -
     C01AC01 [G-毒毛旋花苷](https://zh.wikipedia.org/wiki/G-毒毛旋花苷 "wikilink")（G-strophanthin）
-    C01AC03 [磁麻苷](https://zh.wikipedia.org/wiki/磁麻苷 "wikilink")（Cymarin）
+    C01AC03 [磁麻苷](../Page/磁麻苷.md "wikilink")（Cymarin）
 
 ### C01AX 其它强心苷类（Other cardiac glycosides）
 
   -
-    C01AX02 [黄夹次苷](https://zh.wikipedia.org/wiki/黄夹次苷 "wikilink")（Peruvoside）
+    C01AX02 [黄夹次苷](../Page/黄夹次苷.md "wikilink")（Peruvoside）
 
 ## C01B [抗心律失常药](https://zh.wikipedia.org/wiki/抗心律失常 "wikilink"),Ⅰ类和Ⅲ类（Antiarrhythmics, class I and III）
 

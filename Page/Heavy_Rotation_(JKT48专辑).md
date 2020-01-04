@@ -1,3 +1,6 @@
+> 本文内容由[Heavy Rotation \(JKT48专辑\)](https://zh.wikipedia.org/wiki/Heavy_Rotation_\(JKT48专辑\))转换而来。
+
+
 《**Heavy Rotation**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")的第一张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。在2013年2月16日由发售。[歌词中大部分都是从日语翻译成](https://zh.wikipedia.org/wiki/歌词 "wikilink")[印度尼西亚语的](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")。
 
 ## 概要

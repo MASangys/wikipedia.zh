@@ -1,3 +1,6 @@
+> 本文内容由[大熊座II矮星系](https://zh.wikipedia.org/wiki/大熊座II矮星系)转换而来。
+
+
 {{ Infobox Galaxy | image = | caption = | name =大熊座II矮星系\[1\] | epoch = [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") | type = dSph\[2\] | ra = \[3\] | dec = \[4\] | dist_ly = 98 ± 16 [kly](../Page/光年.md "wikilink") \[5\] | z = | appmag_v = 14.3 ± 0.5\[6\] | size_v = 32 ± 2′\[7\] | constellation name = [大熊座](../Page/大熊座.md "wikilink") | names = UMa II 星系，大熊座II矮星系\[8\] }}
 
 **大熊座II矮星系** (**UMa II dSph**) 是座落在[大熊座](../Page/大熊座.md "wikilink")的一個[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")，於2006年在[史隆數位巡天](../Page/史隆數位巡天.md "wikilink")的資料中被發現\[9\]。這個星系與太陽的距離大約30,000秒差距，並以116公里/秒的速度常像太陽運行\[10\]。它被歸類為[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink") (dSph)，意味著它是橢球的形狀 (長短軸比～2：1)，[半光度半徑大約是](../Page/有效半徑.md "wikilink")140秒差距\[11\]。
@@ -18,7 +21,6 @@ Uma II的恆星族群裡有許多年老的恆星，它們形成的年代至少�
 [Category:矮橢球星系](https://zh.wikipedia.org/wiki/Category:矮橢球星系 "wikilink") [Category:大熊座](https://zh.wikipedia.org/wiki/Category:大熊座 "wikilink") [Category:本星系群](https://zh.wikipedia.org/wiki/Category:本星系群 "wikilink") [Category:銀河系次集團](https://zh.wikipedia.org/wiki/Category:銀河系次集團 "wikilink")
 
 1.
-
 2.
 3.
 4.

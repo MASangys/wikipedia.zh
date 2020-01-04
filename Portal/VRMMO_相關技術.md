@@ -1,3 +1,6 @@
+> 本文内容由[Portal:VRMMO/相關技術](https://zh.wikipedia.org/wiki/Portal:VRMMO/相關技術)转换而来。
+
+
 [Portal:VRMMO/相關技術/1](https://zh.wikipedia.org/wiki/Portal:VRMMO/相關技術/1 "wikilink")
 
 <div style="clear: both">

@@ -1,3 +1,6 @@
+> 本文内容由[Hyuk](https://zh.wikipedia.org/wiki/Hyuk)转换而来。
+
+
 **Hyuk**（，）本名**韓相爀**（），韓國男歌手，男子流行音樂團體[VIXX](../Page/VIXX.md "wikilink")\[1\] 成員之一，隊內擔任副唱、副領舞、忙內。隸屬於韓國著名經紀公司[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")。韓國音樂著作權協會註冊登記編號為[10013627](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10013627)。2019年1月12日發行個人第1首數位單曲《Boy with a Star》。
 
 ## 作品
@@ -95,6 +98,7 @@
 
 ## 外部連結
 
+  -
   -
 [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:大田廣域市出身人物](https://zh.wikipedia.org/wiki/Category:大田廣域市出身人物 "wikilink") [Category:韓姓](https://zh.wikipedia.org/wiki/Category:韓姓 "wikilink")
 

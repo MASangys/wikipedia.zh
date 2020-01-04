@@ -1,3 +1,6 @@
+> 本文内容由[Henstock–Kurzweil积分](https://zh.wikipedia.org/wiki/Henstock–Kurzweil积分)转换而来。
+
+
 在[数学](../Page/数学.md "wikilink")中，**Henstock–Kurzweil积分**（也称为**Luzin积分**、**Perron积分**，有时为了和广义Denjoy积分区别而称为**Denjoy积分**）是[黎曼积分](../Page/黎曼积分.md "wikilink")的一种推广，有些情况下比[勒贝格积分更加宽泛](https://zh.wikipedia.org/wiki/勒贝格积分 "wikilink")。
 
 Henstock-Kurzweil积分最早是由二十世纪初[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[数学家](../Page/数学家.md "wikilink")引进的。Arnaud Denjoy在研究形似：
@@ -55,7 +58,6 @@ Henstock-Kurzweil积分最早是由二十世纪初[法国](https://zh.wikipedia.
 [Category:积分的定义](https://zh.wikipedia.org/wiki/Category:积分的定义 "wikilink")
 
 1.
-
 2.
 3.
 4.

@@ -1,3 +1,6 @@
+> 本文内容由[Office 365](https://zh.wikipedia.org/wiki/Office_365)转换而来。
+
+
 [Office365RetailPack.JPG](https://zh.wikipedia.org/wiki/File:Office365RetailPack.JPG "fig:Office365RetailPack.JPG") **Microsoft Office 365**是[微軟建基於](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Microsoft Office辦公室套件的](../Page/Microsoft_Office.md "wikilink")[雲端辦公室方案](https://zh.wikipedia.org/wiki/雲端 "wikilink")，包括免費的線上[Office Online](../Page/Office_Online.md "wikilink")、線上會議[Skype for Business](../Page/Skype_for_Business.md "wikilink")、管理信件的[Outlook Web App](https://zh.wikipedia.org/wiki/Outlook_Web_App "wikilink")、建立小組溝通網站的[SharePoint Online等](https://zh.wikipedia.org/wiki/SharePoint_Online "wikilink")。\[1\]
 
 ## 订阅形式

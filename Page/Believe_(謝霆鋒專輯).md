@@ -1,3 +1,6 @@
+> 本文内容由[Believe \(謝霆鋒專輯\)](https://zh.wikipedia.org/wiki/Believe_\(謝霆鋒專輯\))转换而来。
+
+
 《**Believe**》是[謝霆鋒](../Page/謝霆鋒.md "wikilink")的第五張音樂專輯，於1999年4月推出。該專輯更獲頒同年[四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")的大碟獎。
 
 ## 曲目

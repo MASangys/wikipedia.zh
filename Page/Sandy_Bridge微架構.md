@@ -189,7 +189,7 @@ Intel從Sandy Bridge微架構開始，處理器與PCH晶片組、晶片組與各
 
 ### 晶片組
 
-在6系列晶片組中，全線均採用[LGA1155之處理器插座](https://zh.wikipedia.org/wiki/LGA1155 "wikilink")。H6X系列型號的H61晶片組不支援[RAID](../Page/RAID.md "wikilink")，H67和H61既不支援超頻（即使是不鎖倍頻的K系列處理器），也不支援渦輪加速技術（即使處理器支援），但支援核芯[顯卡顯示輸出](https://zh.wikipedia.org/wiki/顯卡 "wikilink")；而P6X系列則支援H6X所不支援的功能，但不支援核芯顯卡的顯示輸出；而Z6X系列則支援P6X和H6X的所有功能。
+在6系列晶片組中，全線均採用[LGA1155之處理器插座](https://zh.wikipedia.org/wiki/LGA1155 "wikilink")。H6X系列型號的H61晶片組不支援[RAID](../Page/RAID.md "wikilink")，H67和H61不支援超頻（即使是不鎖倍頻的K系列處理器），但支援核芯[顯卡顯示輸出](https://zh.wikipedia.org/wiki/顯卡 "wikilink")；而P6X系列則支援H6X所不支援的功能，但不支援核芯顯卡的顯示輸出；而Z6X系列則支援P6X和H6X的所有功能。
 
 2012年中期推出的7系列全系列晶片組，除了供Intel Ivy Bridge使用以外，還可與Intel Sandy Bridge相容，其中的H7X、Z7X型號的晶片組全面支援顯示訊號輸出，以及Turbo Boost（除H7X型號之晶片組以外）。而2011年後期發布的供Sandy Bridge-E處理器使用的X79晶片組，採用LGA2011插座，無顯示輸出支援，除了支援K/X系列不鎖倍頻的處理器，還支援多個基準時鐘頻率預設值的調整，這些值由Intel官方預設。
 

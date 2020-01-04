@@ -1,3 +1,6 @@
+> 本文内容由[Cheki☆Love](https://zh.wikipedia.org/wiki/Cheki☆Love)转换而来。
+
+
 《**チェキ☆ラブ**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PURETTY](../Page/PURETTY.md "wikilink")所推出的首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[1\]，2012年9月5日由[Universal Music發行](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ## 概要
@@ -35,6 +38,5 @@
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:星光少女](https://zh.wikipedia.org/wiki/Category:星光少女 "wikilink")
 
 1.  [PURETTY CD資訊](http://purettyweb.jp/discography/)
-
 2.
 3.  「星光少女 美夢成真 雜誌 第10卷」（2012年）19頁。ISBN 978-4-04-728140-0

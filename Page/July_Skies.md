@@ -1,3 +1,6 @@
+> 本文内容由[July Skies](https://zh.wikipedia.org/wiki/July_Skies)转换而来。
+
+
 July Skies乐队介绍 July Skies是Antony Harding的个人乐队，从开始至今的大部分时间里都是Anthony Harding的个人计划。此外，在演出和录制作品时，另一支氛围后摇乐队Epic 45也往往参与。两队音乐的确有相近之处，只不过前者更飘，吉它的缓拨、并不刺耳的回授和呓语一般的人声构成了July Skies音乐的主体,深沉、低缓的暗色乐风。充满怀旧情绪，有些颓废，有些浪漫；但也可以理解为仅仅是一种缥缈的“瑜珈音乐”，或“旅行音乐”。这样的乐队类似的有Light Out Asia，Lanterna等等，很能放松身心。
 
 july skies乐队成长历程 1997年Antony Harding 买了他的第一把吉他,和一个便宜的效果器，学会几个基本和弦，开始鼓捣氛围乐。

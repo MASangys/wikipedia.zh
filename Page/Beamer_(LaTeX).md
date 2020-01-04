@@ -1,3 +1,6 @@
+> 本文内容由[Beamer \(LaTeX\)](https://zh.wikipedia.org/wiki/Beamer_\(LaTeX\))转换而来。
+
+
 **Beamer** 是一个用于创建演示文稿 [LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink") 的文档类。它同时支持[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink") + [dvips](https://zh.wikipedia.org/wiki/dvips "wikilink")、[pdfLaTeX](https://zh.wikipedia.org/wiki/pdfLaTeX "wikilink")、[LuaLaTeX以及](https://zh.wikipedia.org/wiki/LuaLaTeX "wikilink")[XeLaTeX](https://zh.wikipedia.org/wiki/XeLaTeX "wikilink")。它的名称取自德语词汇 *[Beamer](https://zh.wikipedia.org/wiki/wikt:Beamer#German "wikilink")*（pseudo-anglicism），意思是影像演示。
 
 Beamer文档类并不是最早开发出的LaTeX演示文稿工具。2003年2月，Till Tantau为其博士论文答辩编写了beamer包，并于一个月之后发布在CTAN上。

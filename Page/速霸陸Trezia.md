@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸Trezia](https://zh.wikipedia.org/wiki/速霸陸Trezia)转换而来。
+
+
 **速霸陸Trezia**（）為2010年至2016年間由[日本](../Page/日本.md "wikilink")[豐田汽車製造](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")、[換牌給](../Page/换牌工程.md "wikilink")[富士重工業販售的](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[次緊湊型車或迷你](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，其原型車為[豐田Ractis](../Page/豐田Ractis.md "wikilink")。關於車名「Trezia」，乃是[英語中](https://zh.wikipedia.org/wiki/英語 "wikilink")「treasure（寶藏）」的造字。
 
 ## 概要

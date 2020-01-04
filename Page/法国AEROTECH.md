@@ -1,3 +1,6 @@
+> 本文内容由[法国AEROTECH](https://zh.wikipedia.org/wiki/法国AEROTECH)转换而来。
+
+
 **法国 AEROTECH**（[法语](../Page/法语.md "wikilink")：****）由5个位于[图卢兹地区的法国最著名的](https://zh.wikipedia.org/wiki/图卢兹 "wikilink")[工程师学校飞机组成](../Page/大学校_\(法国\).md "wikilink")\[1\]{{,}}\[2\]：
 
   - [国立民用航空学院](../Page/国立民用航空学院.md "wikilink")（École Nationale de l'Aviation Civile）；

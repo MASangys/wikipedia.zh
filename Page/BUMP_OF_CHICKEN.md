@@ -661,4 +661,4 @@ GOLD GLIDER TOUR 2012</a></strong></p></td>
 
   - [PONTSUKA\!\!](http://web.bayfm.jp/bump/) - 於主持的廣播节目网站
 
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink") [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
+[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink") [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink")

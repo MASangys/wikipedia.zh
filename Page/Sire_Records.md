@@ -1,3 +1,6 @@
+> 本文内容由[Sire Records](https://zh.wikipedia.org/wiki/Sire_Records)转换而来。
+
+
 **Sire唱片公司**（**Sire Records**）是一間[美國唱片公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，為[華納音樂集團](../Page/華納音樂集團.md "wikilink")旗下的唱片公司。其合約藝員的行銷工作由[華納兄弟唱片公司](../Page/華納兄弟唱片公司.md "wikilink")負責。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[血型小將ABO](https://zh.wikipedia.org/wiki/血型小將ABO)转换而来。
+
+
 《**血型小將ABO**》（，原題：RealCrazyMan's Blood Types Comic）是[韓國Real](https://zh.wikipedia.org/wiki/韓國 "wikilink") Crazy Man（本名：朴東宣）創作的[四格漫畫](../Page/四格漫畫.md "wikilink")。由其改編的電視動畫於2013年4月開始在[日本](../Page/日本.md "wikilink")播放。
 
 ## 概要
@@ -735,27 +738,15 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. 從韓國原作第三冊拆出、發行本冊
-
 12.
-
 13. [STAFF - TVアニメ「血液型くん！」公式サイト](http://ketsuekigatakun.com/staff/)
-
 14. [国民的声優グランプリ結果のお知らせ](http://comic-earthstar.jp/esd/) ：アース・スター エンタテンメント

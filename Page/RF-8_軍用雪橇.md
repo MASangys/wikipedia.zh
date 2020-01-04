@@ -1,3 +1,6 @@
+> 本文内容由[RF-8 軍用雪橇](https://zh.wikipedia.org/wiki/RF-8_軍用雪橇)转换而来。
+
+
 **RF-8**，又稱GAZ-98，是[第二次世界大戰時期](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，[蘇聯軍在冬季戰事時使用的軍用雪橇](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，利用類似[風扇艇的推進方式移動](https://zh.wikipedia.org/wiki/風扇艇 "wikilink")。
 
 只能在雪地行動，但移動十分快速。沒有裝甲，所以只能用於偵查或是聯絡。

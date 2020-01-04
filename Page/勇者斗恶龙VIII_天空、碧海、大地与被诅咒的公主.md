@@ -1,3 +1,6 @@
+> 本文内容由[勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主](https://zh.wikipedia.org/wiki/勇者斗恶龙VIII_天空、碧海、大地与被诅咒的公主)转换而来。
+
+
 是由[Level-5开发](https://zh.wikipedia.org/wiki/Level-5 "wikilink")，由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")发行的[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，于2004年在日本发行。後由史克威尔艾尼克斯在英語地区进行[本地化](https://zh.wikipedia.org/wiki/本地化 "wikilink")，並以英文語音首度為角色加上人聲配音，于2005年和2006年在北美和PAL区发行，这也是第一部在PAL区发行的本传作品。\[1\]。游戏是[勇者斗恶龙系列的第八部本传作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")，在本作之前，系列英文版一直使用“Dragon Warrior”作标题，本作是第一部以“Dragon Quest”为英文版标题的作品\[2\]。[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")版于2013年12月12日发行，其中文版于2014年5月28日上线。在2015年8月27日和2017年1月20日，游戏分别在日本和欧美地区推出了[任天堂3DS](../Page/任天堂3DS.md "wikilink")版本。
 
 《勇者斗恶龙VIII》为角色和场景的[3D建模使用了](https://zh.wikipedia.org/wiki/3D "wikilink")[卡通渲染](../Page/卡通渲染.md "wikilink")效果，同时也是系列中第一部圖像全為3D即時運算構成的游戏\[3\]。本作保留了系列的大部分元素，如回合制战斗和经验值升级系统。劇情講述了主人公[勇者和他的伙伴旅行並消灭反派Dhoulmagus的故事](../Page/勇者_\(虛構職業\).md "wikilink")。Trodain王国被Dhoulmagus诅咒，国王Trode和其女儿Medea分别被变成了怪物和马，勇者需要将他们恢复正常并拯救王国。
@@ -49,73 +52,45 @@
   -
   - [任天堂3DS版官方网站](http://www.dragonquest.jp/dq8/)
 
-[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:Level-5游戏](https://zh.wikipedia.org/wiki/Category:Level-5游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:IOS游戏](https://zh.wikipedia.org/wiki/Category:IOS游戏 "wikilink") [Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:Level-5游戏](https://zh.wikipedia.org/wiki/Category:Level-5游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink") [Category:IOS游戏](https://zh.wikipedia.org/wiki/Category:IOS游戏 "wikilink") [Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.
-
 13. [Shonen Jump](https://zh.wikipedia.org/wiki/Shonen_Jump_\(magazine\) "wikilink") volume 3, issue 8, pg. 3. [Viz Media](https://zh.wikipedia.org/wiki/Viz_Media "wikilink"). Retrieved October 8, 2009.
-
 14.
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
 36.
 37.
-
 38.
 39.
 40.
@@ -124,16 +99,10 @@
 43.
 44.
 45.
-
 46.
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.

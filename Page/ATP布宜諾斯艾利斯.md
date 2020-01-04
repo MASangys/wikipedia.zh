@@ -1,3 +1,6 @@
+> 本文内容由[ATP布宜諾斯艾利斯](https://zh.wikipedia.org/wiki/ATP布宜諾斯艾利斯)转换而来。
+
+
 **ATP布宜諾斯艾利斯**是一項在[阿根廷](../Page/阿根廷.md "wikilink")[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯.md "wikilink")舉辦的室外紅土男子網球賽事，為ATP世界巡迴賽250賽的其中一站。
 
 ## 歷屆冠亞軍
@@ -41,7 +44,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2009_Copa_Telmex_–_Singles" title="wikilink">2009</a></p></td>
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/Tommy_Robredo" title="wikilink">Tommy Robredo</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/胡安·摩納哥" title="wikilink">胡安·摩納哥</a></p></td>
+<td><p><a href="../Page/胡安·摩納哥.md" title="wikilink">胡安·摩納哥</a></p></td>
 <td><p>7–5, 2–6, 7–6<sup>(7–5)</sup></p></td>
 </tr>
 <tr class="even">
@@ -52,7 +55,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2007_ATP_Buenos_Aires_–_Singles" title="wikilink">2007</a></p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/胡安·摩納哥" title="wikilink">胡安·摩納哥</a></p></td>
+<td><p>'''<a href="../Page/胡安·摩納哥.md" title="wikilink">胡安·摩納哥</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Alessio_di_Mauro" title="wikilink">Alessio di Mauro</a></p></td>
 <td><p>6–1, 6–2</p></td>
 </tr>

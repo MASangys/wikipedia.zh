@@ -1,3 +1,6 @@
+> 本文内容由[千奇百趣玩FREE D](https://zh.wikipedia.org/wiki/千奇百趣玩FREE_D)转换而来。
+
+
 《**千奇百趣玩FREE D**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")向日本[朝日電視台](../Page/朝日電視台.md "wikilink")購買版權而製作的[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。節目主持為[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[阮小儀](../Page/阮小儀.md "wikilink")，旁白為[林保全](../Page/林保全.md "wikilink")和[雷碧娜](../Page/雷碧娜.md "wikilink")。\[1\]\[2\]
 
 本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列的第八輯，以競技場為主題，奇趣內容關於[日本](../Page/日本.md "wikilink")及香港的奇景。節目於2013年7月15日至8月16日，逢星期一至星期五[香港時間](../Page/香港時間.md "wikilink")22:30-23:00於[翡翠台](../Page/翡翠台.md "wikilink")和[高清翡翠台](../Page/高清翡翠台.md "wikilink")播放。

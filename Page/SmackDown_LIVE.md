@@ -1,3 +1,6 @@
+> 本文内容由[SmackDown LIVE](https://zh.wikipedia.org/wiki/SmackDown_LIVE)转换而来。
+
+
 **WWE SmackDown**（全名為**WWE SmackDown Live**，亦稱為**Friday Night SmackDown**，或簡稱**SmackDown**），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）公司所制作的重頭[節目之一](https://zh.wikipedia.org/wiki/節目 "wikilink")，全世界多個國家都有轉播。
 
 WWE SmackDown於1999年開始播出，一開始，WWE SmackDown是於星期四播出；但從2005年開始，皆在星期五播出。WWE SmackDown最初在1999年4月29日於美國[UPN電視網首播](https://zh.wikipedia.org/wiki/UPN電視網 "wikilink")，但就在UPN電視網與[WB電視網](../Page/WB電視網.md "wikilink")[合併後](https://zh.wikipedia.org/wiki/合併 "wikilink")，2006年，WWE SmackDown改於[CW電視網](../Page/CW電視網.md "wikilink")播出。2008年10月，\[1\]\[2\]WWE SmackDown將轉播權移交至[MyNetworkTV](https://zh.wikipedia.org/wiki/MyNetworkTV "wikilink")。2010年10月1日，WWE SmackDown將轉播權移交至[Syfy](../Page/Syfy.md "wikilink")。\[3\]\[4\]

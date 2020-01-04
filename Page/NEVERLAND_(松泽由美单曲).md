@@ -1,3 +1,6 @@
+> 本文内容由[NEVERLAND \(松泽由美单曲\)](https://zh.wikipedia.org/wiki/NEVERLAND_\(松泽由美单曲\))转换而来。
+
+
 「**NEVERLAND**」是日本歌手[松澤由美的第](https://zh.wikipedia.org/wiki/松澤由美 "wikilink")13支[单曲](../Page/单曲.md "wikilink")。2006年12月6日由Creative Idea Of Associates发售。
 
 ## 概要

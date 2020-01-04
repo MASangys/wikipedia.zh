@@ -1,3 +1,6 @@
+> 本文内容由[O型次矮星](https://zh.wikipedia.org/wiki/O型次矮星)转换而来。
+
+
 [Subdwarf_O_star_schematic_cross_section.png](https://zh.wikipedia.org/wiki/File:Subdwarf_O_star_schematic_cross_section.png "fig:Subdwarf_O_star_schematic_cross_section.png") **O型次矮星**（**Subdwarf O stars**，[縮寫](../Page/縮寫.md "wikilink")：**sdO**）是一種低質量高溫恆星。這種恆星的光度遠低於典型的[O型主序星](../Page/O型主序星.md "wikilink")，但仍有太陽的10到100倍\[1\]，雖然質量只有大約太陽的一半。O型次矮星的表面溫度大約是40,000到100,000 [K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")，在光譜中有明顯的離子氦譜線。它的表面重力加速度對數值（log g）大約是4.0到6.5\[2\]。大多數的O型次矮星在銀河系中的移動速度相當高，並且多發現在高[銀緯處](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")\[3\]。
 
 ## 結構
@@ -34,20 +37,15 @@ O型次矮星在赫羅圖上的位置是在極端[水平分支](../Page/水平�
 [Category:次矮星](https://zh.wikipedia.org/wiki/Category:次矮星 "wikilink") [Category:O-型恆星](https://zh.wikipedia.org/wiki/Category:O-型恆星 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
 8.
 9.
 10.
 11.
-
 12.
-
 13.

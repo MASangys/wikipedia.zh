@@ -1,3 +1,6 @@
+> 本文内容由[Rare](https://zh.wikipedia.org/wiki/Rare)转换而来。
+
+
 **Rare**是一家位于[英格兰](../Page/英格兰.md "wikilink")[莱斯特郡](../Page/莱斯特郡.md "wikilink")的[电子游戏开发商](../Page/游戏开发者.md "wikilink")。 Rare由Ultimate Play the Game工作室的联合创办人[斯坦珀兄弟在](https://zh.wikipedia.org/wiki/斯坦珀兄弟 "wikilink")1985年创立。在创建初期，Rare主要为[FC游戏机制作游戏](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")，并创造了例如《巫师与武士》、《战斗蛙》、《R.C. Pro-Am》等名作。在1994年，Rare被[任天堂](../Page/任天堂.md "wikilink")招至麾下成为了任天堂第二方开发商中的一员。此后Rare在任天堂平台推出的游戏作品迎来了商业和口碑上的双丰收，例如《[大金刚国度](../Page/超级大金刚.md "wikilink")》、《[杀手本能](https://zh.wikipedia.org/wiki/杀手本能 "wikilink")》系列、《[黄金眼007](../Page/黄金眼007.md "wikilink")》、《[班卓熊大冒险](../Page/班卓熊大冒险.md "wikilink")》、《完美黑暗》、《松鼠库克》以及《[星际火狐大冒险](https://zh.wikipedia.org/wiki/星际火狐大冒险 "wikilink")》等。
 
 2002年9月24日，微软宣布以3.75亿美元收购Rare。\[1\] 这意味着Rare成为了微软旗下[微软游戏工作室的一员](https://zh.wikipedia.org/wiki/微软游戏工作室 "wikilink")，并将专注为微软的游戏平台开发游戏作品。Rare在[Xbox](../Page/Xbox.md "wikilink")平台上推出了《凯蜜欧传说：力量元素》并在[Xbox 360平台上推出了面对低龄向的](../Page/Xbox_360.md "wikilink")《[宝贝万岁](https://zh.wikipedia.org/wiki/宝贝万岁 "wikilink")》系列以及为[Kinect](../Page/Kinect.md "wikilink")外设制作的专用游戏《Kinect运动大会》系列。虽然被收购后的Rare已经完全脱离了任天堂，但是在[Game Boy Advance和](../Page/Game_Boy_Advance.md "wikilink")[任天堂DS](../Page/任天堂DS.md "wikilink")等掌机平台上，Rare通过[THQ发布了若干款游戏](https://zh.wikipedia.org/wiki/THQ "wikilink")。
@@ -16,7 +19,7 @@ Rare由英国的软件公司**Ashby Computers & Graphics Ltd.**演变而来（�
 
 ### 任天堂第二方时期（1994-2002）
 
-[RarewareLogoOld.jpg](https://zh.wikipedia.org/wiki/File:RarewareLogoOld.jpg "fig:RarewareLogoOld.jpg") 由于Rare在[SGI系统上制作的](../Page/硅谷图形公司.md "wikilink")[3D图形的引起了时任](../Page/三维计算机图形.md "wikilink")[任天堂第三开发部](https://zh.wikipedia.org/wiki/任天堂第三开发部 "wikilink")（R\&D 3）部长[竹田玄洋的注意](https://zh.wikipedia.org/wiki/竹田玄洋 "wikilink")。1994年，任天堂购入了Rare的49%的股权，两者建立了合作关系，Rare成为了任天堂旗下的一家第二方游戏开发商，而任天堂成为其第二大股东。\[9\]\[10\]在这一时期，Rare将自己发行的游戏都加上了“**Rareware**”的[商标](../Page/商标.md "wikilink")以及新的[標語](https://zh.wikipedia.org/wiki/標語 "wikilink")“Rare: Designs on the Future”。凭借自己本身的开发实力，Rare一跃成为当时任天堂在欧美地区最重要的游戏开发团队之一；作为任天堂的对其能力的认可，任天堂提出让Rare从任天堂众多的游戏品牌中挑选出一个并使用电脑三维技术制作来做一款游戏。\[11\] 斯坦珀兄弟挑选了[大金刚来作为他们游戏的主角](../Page/大金刚系列.md "wikilink")，而这款游戏便是[超级任天堂平台上的初代](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")《大金剛王國》（Donkey Kong Country）。《大金剛王國》不仅获得了优秀的口碑，在全球范围内也热销超过800万套，成为所有超级任天堂平台游戏中的销量亚军。\[12\] 《大金剛王國》在当时获得了几家媒体评选的“年度游戏”荣誉，在此之后Rare再接再厉又陆续开发了2款正统续作及几款掌机平台的外传作品，使得《大金剛王國》被打造成为了任天堂在欧美地区颇具人气的一个系列。\[13\] 趁着在任天堂推出其新一代家用游戏机[任天堂64](../Page/任天堂64.md "wikilink")之前的档期，Rare还制作一款同样使用了电脑三维技术的街机格斗游戏《[杀手本能](https://zh.wikipedia.org/wiki/杀手本能 "wikilink")》，（Killer Instinct）\[14\]本作的街机筐体还是Rare自己设计完成的。
+[RarewareLogoOld.jpg](https://zh.wikipedia.org/wiki/File:RarewareLogoOld.jpg "fig:RarewareLogoOld.jpg") 由于Rare在[SGI系统上制作的](../Page/硅谷图形公司.md "wikilink")[3D图形的引起了时任](../Page/三维计算机图形.md "wikilink")[任天堂第三开发部](https://zh.wikipedia.org/wiki/任天堂第三开发部 "wikilink")（R\&D 3）部长[竹田玄洋的注意](https://zh.wikipedia.org/wiki/竹田玄洋 "wikilink")。1994年，任天堂购入了Rare的49%的股权，两者建立了合作关系，Rare成为了任天堂旗下的一家第二方游戏开发商，而任天堂成为其第二大股东。\[9\]\[10\]在这一时期，Rare将自己发行的游戏都加上了“**Rareware**”的[商标](../Page/商标.md "wikilink")以及新的[標語](../Page/標語.md "wikilink")“Rare: Designs on the Future”。凭借自己本身的开发实力，Rare一跃成为当时任天堂在欧美地区最重要的游戏开发团队之一；作为任天堂的对其能力的认可，任天堂提出让Rare从任天堂众多的游戏品牌中挑选出一个并使用电脑三维技术制作来做一款游戏。\[11\] 斯坦珀兄弟挑选了[大金刚来作为他们游戏的主角](../Page/大金刚系列.md "wikilink")，而这款游戏便是[超级任天堂平台上的初代](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")《大金剛王國》（Donkey Kong Country）。《大金剛王國》不仅获得了优秀的口碑，在全球范围内也热销超过800万套，成为所有超级任天堂平台游戏中的销量亚军。\[12\] 《大金剛王國》在当时获得了几家媒体评选的“年度游戏”荣誉，在此之后Rare再接再厉又陆续开发了2款正统续作及几款掌机平台的外传作品，使得《大金剛王國》被打造成为了任天堂在欧美地区颇具人气的一个系列。\[13\] 趁着在任天堂推出其新一代家用游戏机[任天堂64](../Page/任天堂64.md "wikilink")之前的档期，Rare还制作一款同样使用了电脑三维技术的街机格斗游戏《[杀手本能](https://zh.wikipedia.org/wiki/杀手本能 "wikilink")》，（Killer Instinct）\[14\]本作的街机筐体还是Rare自己设计完成的。
 
 1996年开始在全球陆续发售的任天堂新一代家用主机——[任天堂64](../Page/任天堂64.md "wikilink")（Nintendo 64）成为了令Rare获得举世瞩目的基石，任天堂64在当时作为性能最强劲的游戏主机，也为Rare日后能大展拳脚提供了空间。Rare为任天堂64制作的第一款游戏是《[杀手本能2](https://zh.wikipedia.org/wiki/杀手本能2 "wikilink")》的特别版《[杀手本能 黄金版](https://zh.wikipedia.org/wiki/杀手本能_黄金版 "wikilink")》（Killer Instinct Gold）；本作由《杀手本能2》的街机版移植到任天堂64平台，介于任天堂64依旧采用卡带作为游戏介质，本作在画面上不得不有所缩水以适配容量有限的卡带。本作在游戏内容上较街机版新增了团队战斗模式、练习及进阶练习模式、游戏隐藏要素，并且全部3D化了游戏中的所有场景（街机版使用的是景深贴图）；作为家用主机游戏，《杀手本能 黄金版》还增加了游戏选项菜单供玩家调节游戏时战斗时间、出血颜色、按键设定、音效设定以及管理“手柄包”（任天堂64手柄的扩展装置，提供额外的储存空间给游戏存档，《杀手本能 黄金版》利用该装置储存玩家的最高分数和游戏设定等数据）。游戏获得了《[任天堂力量](../Page/任天堂力量.md "wikilink")》在1996年颁发的『任天堂力量大奖』（Nintendo Power Awards）的最佳格斗竞赛游戏和最佳编码游戏，以及最佳多人游戏的第二名和最佳玩家操控游戏的第三名。\[15\]
 
@@ -55,47 +58,30 @@ Rare之后以发行商的身份发行了自己的第一款游戏《》。游戏�
 [Category:1985年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1985年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink") [Category:微软的部门与子公司](https://zh.wikipedia.org/wiki/Category:微软的部门与子公司 "wikilink")
 
 1.  [微软3.75亿美元收购英国游戏开发商Rare](http://news.chinabyte.com/226/1632226.shtml).2002-09-25.比特网.\[2013-06-23\]
-
 2.  [微软Rare游戏公司两高层宣布辞职](http://business.sohu.com/20070105/n247440724.shtml).2007-01-05.搜狐财经.\[2013-06-23\]
-
 3.
-
 4.
 5.  [GAMECUBE DEVELOPER PROFILE: RARE](http://www.ign.com/articles/2001/03/01/gamecube-developer-profile-rare).IGN.2001-03-01.\[2018-01-01\].
-
 6.
 7.
-
 8.
 9.
 10. [Who Killed Rare](http://www.eurogamer.net/articles/2012-02-08-who-killed-rare).Eurogamer.2012-02-08.\[2018-02-26\].
-
 11.
 12.
 13.
 14.
 15. *Nintendo Power* \#96 (May 1997)
-
 16.
-
 17. [The Making Of Goldeneye](http://www.nowgamer.com/features/921602/the_making_of_goldeneye.html).NowGamer.2011-05-11.\[2017-09-29\].
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.

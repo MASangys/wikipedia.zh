@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia Z Ultra](https://zh.wikipedia.org/wiki/索尼Xperia_Z_Ultra)转换而来。
+
+
 **Sony Xperia Z Ultra**是日本電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2013年6月25日於上海發佈，擁有6.44英寸大屏幕的旗艦級[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")（又稱[Phablet](https://zh.wikipedia.org/wiki/Phablet "wikilink")），搭載[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") Qualcomm Snapdragon 800 - 2.2GHz 四核心處理器及2G RAM，並配有8MP拍照(無搭配[LED](https://zh.wikipedia.org/wiki/LED "wikilink")[閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink"))、Full HD錄影的Exmor RS鏡頭，配備[Full HD解像的Sony](../Page/Full_HD.md "wikilink") Triluminos with X-Reality for mobile，OptiContrast 面板技術，Sensor on lens 觸控技術，及與[Xperia ZR一樣都具備的IP](../Page/Sony_Xperia_ZR.md "wikilink")58 防水防塵認證。\[1\]
 
 ## 設計

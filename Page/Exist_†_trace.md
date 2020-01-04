@@ -1,3 +1,6 @@
+> 本文内容由[Exist † trace](https://zh.wikipedia.org/wiki/Exist_†_trace)转换而来。
+
+
 [Exist_Trace_at_Tekko_X.jpg](https://zh.wikipedia.org/wiki/File:Exist_Trace_at_Tekko_X.jpg "fig:Exist_Trace_at_Tekko_X.jpg") **exist†trace**為[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")樂團，全員皆為女性。
 
 ## 簡歷

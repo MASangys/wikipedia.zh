@@ -1,3 +1,6 @@
+> 本文内容由[History \(樂團\)](https://zh.wikipedia.org/wiki/History_\(樂團\))转换而来。
+
+
 **HISTORY**（），是由[LOEN Entertainment於](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")2013年4月26日推出的5人男子團體。成員包括宋慶一、羅燾均、金時亨、金載澔、張利貞。HISTORY的名稱代表著「HIS STORY」，意思指「旨在希望他們能夠透過獨特的風格抓住音樂愛好者的心」。在2013年4月26日以單曲《Dreamer》在《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道。粉丝名称为Storia。
 
 2016年11月，Fave娛樂公佈HISTORY隊長宋慶一即將接受兵役，而圈內消息則指明為12月8日\[1\]。
@@ -267,7 +270,7 @@
 
   - [1theK (원더케이) - HISTORY(히스토리)（播放清單）](https://www.youtube.com/playlist?list=PLID4CZACkMJQ29QEds_co8hdstUi0wHzv)
 
-  - [FAVE Entertainment 官方網站](http://ifaveent.co.kr/)**日本官方**
+  - [FAVE Entertainment 官方網站](https://web.archive.org/web/20161113032528/http://ifaveent.co.kr/)**日本官方**
 
   -
   -

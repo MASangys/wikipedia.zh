@@ -1,3 +1,6 @@
+> 本文内容由[Stdint.h](https://zh.wikipedia.org/wiki/Stdint.h)转换而来。
+
+
 **`stdint.h`**是[C標準函数庫中的](https://zh.wikipedia.org/wiki/C標準函数庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了具有特定位宽的整型，以及对应的宏；还列出了在其他标准头文件中定义的整型的极限。
 
 ## 类型

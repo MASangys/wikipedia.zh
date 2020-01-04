@@ -68,7 +68,7 @@
   -
   - [小倩專頁\~電影資料\~天若有情II之天長地久](http://hkbilly2000.tripod.com/i7-movie04.htm)
 
-  - [太郎的電影部落格：天若有情2之天長地久 - 三區港版](http://blog.roodo.com/homejack23_movie/archives/2259130.html)
+  - [太郎的電影部落格：天若有情2之天長地久 - 三區港版](https://web.archive.org/web/20130513093837/http://blog.roodo.com/homejack23_movie/archives/2259130.html)
 
   - [A Huei of 0914：天若有情2](http://blog.roodo.com/huei0914/archives/6152993.html)
 

@@ -1,3 +1,6 @@
+> 本文内容由[IA \(VOCALOID\)](https://zh.wikipedia.org/wiki/IA_\(VOCALOID\))转换而来。
+
+
 [IA_-ARIA_ON_THE_PLANETES-.png](https://zh.wikipedia.org/wiki/File:IA_-ARIA_ON_THE_PLANETES-.png "fig:IA_-ARIA_ON_THE_PLANETES-.png")
 
 **IA -ARIA ON THE PLANETES-**（），簡稱IA（），是[1st PLACE以](https://zh.wikipedia.org/wiki/1st_PLACE "wikilink")[YAMAHA开发的](https://zh.wikipedia.org/wiki/YAMAHA "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")™ 3[語音合成引擎為基礎所開發的女聲虛擬歌姬](https://zh.wikipedia.org/wiki/語音合成 "wikilink")，亦是首個使用VOCALOID™ 3引擎的[VOCALOID](../Page/VOCALOID.md "wikilink")人物。聲源為日本女性[治癒系創作歌手](https://zh.wikipedia.org/wiki/治癒系 "wikilink")[Lia](../Page/Lia.md "wikilink")；人物設定則由漫畫家[赤坂Aka](https://zh.wikipedia.org/wiki/赤坂Aka "wikilink")（）繪圖設計。
@@ -91,7 +94,7 @@ IA的軟件製品分為Library（）和Starter Pack（）兩種，前者只包�
 <tr class="odd">
 <td><p><a href="http://www.nicovideo.jp/watch/sm16469400">220</a></p></td>
 <td><p>2011年12月12日～2011年12月19日</p></td>
-<td><p>Headphone Actor</p></td>
+<td><p>耳机演绎者</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Jin" title="wikilink">Jin</a></p></td>
 <td><p>529797</p></td>
@@ -100,7 +103,7 @@ IA的軟件製品分為Library（）和Starter Pack（）兩種，前者只包�
 <tr class="even">
 <td><p><a href="http://www.nicovideo.jp/watch/sm16901219">227</a></p></td>
 <td><p>2012年1月30日-2012年2月6日</p></td>
-<td><p>想像FOREST</p></td>
+<td><p>空想森林</p></td>
 <td></td>
 <td><p>Jin</p></td>
 <td><p>993360</p></td>
@@ -109,7 +112,7 @@ IA的軟件製品分為Library（）和Starter Pack（）兩種，前者只包�
 <tr class="odd">
 <td><p><a href="http://www.nicovideo.jp/watch/sm17442402">235</a></p></td>
 <td><p>2012年3月26日～2012年4月2日</p></td>
-<td><p>KONOHA的世界事情</p></td>
+<td><p>Konoha的世界事情</p></td>
 <td></td>
 <td><p>Jin</p></td>
 <td><p>1226852</p></td>
@@ -136,7 +139,7 @@ IA的軟件製品分為Library（）和Starter Pack（）兩種，前者只包�
 <tr class="even">
 <td><p><a href="http://www.nicovideo.jp/watch/sm17950980">243</a></p></td>
 <td><p>2012年5月21日～2012年5月28日</p></td>
-<td><p>如月ATTENTION</p></td>
+<td><p>如月专注</p></td>
 <td></td>
 <td><p>Jin</p></td>
 <td><p>743509</p></td>
@@ -306,29 +309,17 @@ IA在[PSV平台的](../Page/PlayStation_Vita.md "wikilink")[角色扮演游戏](
 [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink") [Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.

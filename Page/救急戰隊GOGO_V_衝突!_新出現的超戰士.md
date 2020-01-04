@@ -74,7 +74,7 @@ VS系列</p></td>
 | 大魔女‧格蘭狄努       | [山田美穗](../Page/山田美穗.md "wikilink")                      |                                                     |    |
 | 冥王‧吉爾菲瑟        | [中村大樹](../Page/中村大樹.md "wikilink")                      | [符爽](../Page/符爽.md "wikilink")                      |    |
 | 獸男爵‧哥波魯達       | [乃村健次](../Page/乃村健次.md "wikilink")                      |                                                     |    |
-| 童鬼‧德羅布         | [闇村悠之介](https://zh.wikipedia.org/wiki/闇村悠之介 "wikilink") |                                                     |    |
+| 童鬼‧德羅布         | [闇村悠之介](../Page/宮村優子.md "wikilink")                     |                                                     |    |
 | 咒語師‧皮耶魯        | [松野太紀](../Page/松野太紀.md "wikilink")                      |                                                     |    |
 | 獸魔王‧格爾魔亞       | [稻田徹](../Page/稻田徹.md "wikilink")                        | [曹冀魯](../Page/曹冀魯.md "wikilink")                    |    |
 

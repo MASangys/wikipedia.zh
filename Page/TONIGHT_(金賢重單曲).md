@@ -1,3 +1,6 @@
+> 本文内容由[TONIGHT \(金賢重單曲\)](https://zh.wikipedia.org/wiki/TONIGHT_\(金賢重單曲\))转换而来。
+
+
 **《TONIGHT》**是韓國Pop Dance組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")於2013年6月5日，由[環球音樂](../Page/環球音樂_\(日本\).md "wikilink")/Delicious Deli Records所發行的第三張日語單曲。
 
 ## 專輯概述
@@ -134,8 +137,6 @@
 [Category:金賢重歌曲](https://zh.wikipedia.org/wiki/Category:金賢重歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
 
 1.  ユニバーサル ミュージック公式携帯サイト、レコチョク、Music.jp、dwango.jp、JOYSOUND、オリコンスタイル、TSUTAYA プレミア、YAMAHA My Sound、ミュージコ♪ 、HAPPY！うた♪、着信★うた♪フル、mu-mo
-
 2.
 3.
-
 4.

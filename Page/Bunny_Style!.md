@@ -1,3 +1,6 @@
+> 本文内容由[Bunny Style!](https://zh.wikipedia.org/wiki/Bunny_Style!)转换而来。
+
+
 《**Bunny Style\!**》（ (Banisuta\!)）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的一首日語](https://zh.wikipedia.org/wiki/T-ara "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2013年3月20日發行。
 
 ## 背景與推廣

@@ -1,3 +1,6 @@
+> 本文内容由[一直 \(aiko單曲\)](https://zh.wikipedia.org/wiki/一直_\(aiko單曲\))转换而来。
+
+
 《**一直**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")29張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年11月23日發行。
 
 ## 簡介
@@ -26,7 +29,7 @@
 ## 外部連結
 
   - [Oricon上的介紹](http://www.oricon.co.jp/prof/artist/27083/products/music/943905/1/)
-  - [PONY CANYON上的介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002111&DSP_SKHKETSEQ=001)
+  - [PONY CANYON上的介紹](https://web.archive.org/web/20141008112449/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002111&DSP_SKHKETSEQ=001)
 
 [Category:Aiko歌曲](https://zh.wikipedia.org/wiki/Category:Aiko歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:富士週四劇場主題曲](https://zh.wikipedia.org/wiki/Category:富士週四劇場主題曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
 

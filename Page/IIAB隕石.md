@@ -1,3 +1,6 @@
+> 本文内容由[IIAB隕石](https://zh.wikipedia.org/wiki/IIAB隕石)转换而来。
+
+
 **IIAB 隕石**是[鐵隕石](../Page/鐵隕石.md "wikilink")的一群，它們的結構從[六面體隕鐵](../Page/六面體隕鐵.md "wikilink")至[八面體隕鐵](../Page/八面體隕鐵.md "wikilink")\[1\]。 IIAB的[鎳含量是所有的](https://zh.wikipedia.org/wiki/鎳 "wikilink")[鐵隕石](../Page/鐵隕石.md "wikilink")中最低的\[2\]。所有的[鐵隕石](../Page/鐵隕石.md "wikilink")都來自各自[母體的金屬](https://zh.wikipedia.org/wiki/母體 "wikilink")[核心](../Page/行星核心.md "wikilink")，但是IIAB的金屬性的岩漿區分，不僅形成這個隕石群，還有[IIG群](https://zh.wikipedia.org/wiki/IIG隕石 "wikilink")\[3\]。
 
 ## 命名
@@ -29,18 +32,11 @@ IIAB的[行星核心](../Page/行星核心.md "wikilink")富含[硫](../Page/硫
 [Category:隕石類型](https://zh.wikipedia.org/wiki/Category:隕石類型 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.

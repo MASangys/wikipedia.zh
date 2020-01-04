@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia ZR](https://zh.wikipedia.org/wiki/Sony_Xperia_ZR)转换而来。
+
+
 **Sony Xperia ZR**是[Sony公司於](https://zh.wikipedia.org/wiki/Sony "wikilink")2013年5月發佈的高階[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，[Xperia Z和](../Page/Sony_Xperia_Z.md "wikilink")[Xperia ZL的兄弟機](https://zh.wikipedia.org/wiki/Sony_Xperia_ZL "wikilink")，是一部防水智能手機，機身具備IP55/IP58的防水等級。\[1\]\[2\]
 
 ## 設計

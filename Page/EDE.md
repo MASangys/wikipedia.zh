@@ -1,3 +1,6 @@
+> 本文内容由[EDE](https://zh.wikipedia.org/wiki/EDE)转换而来。
+
+
 **EDE**，全称“Equinox Desktop Environment ”，是一个轻量级的[桌面环境](../Page/桌面环境.md "wikilink")，目标是创建一个简洁快速的桌面环境。早期的1.x版基于修改版的FLTK—即eFLTK，之后的版本采用纯粹的FLTK。\[1\]
 
 ## 应用

@@ -1,3 +1,6 @@
+> 本文内容由[Moskau](https://zh.wikipedia.org/wiki/Moskau)转换而来。
+
+
 《**Moskau**》亦即德语的**[莫斯科](../Page/莫斯科.md "wikilink")**，是[德国](../Page/德国.md "wikilink")（[西德](../Page/西德.md "wikilink")）流行表演乐队[成吉思汗](https://zh.wikipedia.org/wiki/成吉思汗_\(乐队\) "wikilink")1979年[同名专辑中的歌曲](https://zh.wikipedia.org/wiki/成吉思汗_\(專輯\) "wikilink")。
 
 ## 历史
@@ -32,9 +35,6 @@
 
 1.
 2.  [Game: 1980 Moscow - Australian Olympic Committee](http://corporate.olympics.com.au/games/27/1980+Moscow)
-
 3.  [Dschinghis Khan Diskografie - Steppenwind.de](http://www.steppenwind.com/diskografie.htm)
-
 4.  [Vocal group Dschinghis Khan as People's Artists of the USSR](http://www.zhurnal.ru/music/sherick/music/chingiskhan.htm)
-
 5.  [metal.de - CD-Review: Black Messiah - Of Myths And Legends](http://www.metal.de/cdreviews.php4?was=review&id=7087)

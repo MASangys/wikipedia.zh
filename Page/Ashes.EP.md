@@ -1,3 +1,6 @@
+> 本文内容由[Ashes.EP](https://zh.wikipedia.org/wiki/Ashes.EP)转换而来。
+
+
 [GLAY](../Page/GLAY.md "wikilink")的第37張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，也是第一張三A面單曲。
 
 ## 簡介

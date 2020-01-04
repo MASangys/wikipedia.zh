@@ -1,3 +1,6 @@
+> 本文内容由[Furla](https://zh.wikipedia.org/wiki/Furla)转换而来。
+
+
 **芙拉**（Furla）是[義大利一個設計產品品牌](https://zh.wikipedia.org/wiki/義大利 "wikilink")，于1927年由芙拉聶托家族創辦，目前仍由芙拉聶托家族擁有。產品有手袋、鞋子到飾品等。總部位於[博洛尼亞市內一座](https://zh.wikipedia.org/wiki/博洛尼亞 "wikilink")18世紀別墅裡，另外還有5間子公司分佈于[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[日本](../Page/日本.md "wikilink")、[中国和](https://zh.wikipedia.org/wiki/中国 "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\<ref name-“Info1”\>[“FURLA品牌”](http://www.chinasspp.com/brand/7/) , 中國時尚品牌網，取於 2013年5月</ref> \<ref name-“info2”\>[“意大利品牌FURLA進駐新光天地欲引領潮流時尚”](http://fashion.eladies.sina.com.cn/shopping/2010/1115/160218727.shtml) , SINA 新浪時尚，取於 2013年5月</ref>
 
 ## 發展

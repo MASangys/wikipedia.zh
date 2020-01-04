@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸Stella](https://zh.wikipedia.org/wiki/速霸陸Stella)转换而来。
+
+
 **速霸陸Stella**（）為2006年起由[日本](../Page/日本.md "wikilink")[富士重工業製造販售的](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")。自2011年發售的第二代開始，改由同樣隸屬[豐田汽車集團的](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[大發工業](https://zh.wikipedia.org/wiki/大發工業株式會社 "wikilink")[OEM代工](https://zh.wikipedia.org/wiki/贴牌生产 "wikilink")，以第五代[大發Move](../Page/大發Move.md "wikilink")為原型[換上速霸陸的廠徽銘牌而成](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")。
 
 ## 概要

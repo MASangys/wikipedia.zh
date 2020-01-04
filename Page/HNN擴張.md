@@ -1,3 +1,6 @@
+> 本文内容由[HNN擴張](https://zh.wikipedia.org/wiki/HNN擴張)转换而来。
+
+
 [數學上](https://zh.wikipedia.org/wiki/數學 "wikilink")，**HNN擴張**（）是[組合群論中的一個基本構造法](https://zh.wikipedia.org/wiki/組合群論 "wikilink")。HNN擴張是三名數學家[Graham Higman](https://zh.wikipedia.org/wiki/Graham_Higman "wikilink")、[Bernhard Neumann](https://zh.wikipedia.org/wiki/Bernhard_Neumann "wikilink")、[Hanna Neumann在](https://zh.wikipedia.org/wiki/Hanna_Neumann "wikilink")1949年的論文*Embedding Theorems for Groups*\[1\]提出。給定一個[群中兩個](https://zh.wikipedia.org/wiki/群_\(數學\) "wikilink")[同構](../Page/群同構.md "wikilink")[子群](../Page/子群.md "wikilink")及其間的群同構，這個構造法將這個群[嵌入到另一個群中](https://zh.wikipedia.org/wiki/嵌入_\(數學\) "wikilink")，令到所給定的群同構在新的群中成為共軛。
 
 ## 構造法

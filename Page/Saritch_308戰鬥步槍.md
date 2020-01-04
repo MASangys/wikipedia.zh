@@ -1,7 +1,7 @@
 > 本文内容由[Saritch 308戰鬥步槍](https://zh.wikipedia.org/wiki/Saritch_308戰鬥步槍)转换而来。
 
 
-**Saritch**（Сарыч，“秃鹫”）是来自[俄羅斯的一款概念性模块化](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")。該槍的設計師為俄国设计院校毕业生Andrey Ovsyannikov，最初于2009年展出概念模型，不过没有可操作的样枪，本计划于2010年对第一把可操作的样枪进行测试，然而直到目前為止依然未有任何進展和消息。
+**Saritch**（Сарыч，“秃鹫”）是来自[俄羅斯的一款概念性模块化](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")。該槍的設計師為俄国设计院校毕业生安德烈·奧夫揚尼科夫，最初于2009年展出概念模型，不过没有可操作的样枪，本计划于2010年对第一把可操作的样枪进行测试，然而直到目前為止依然未有任何進展和消息。
 
 ## 設計特點
 

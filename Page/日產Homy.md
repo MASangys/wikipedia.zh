@@ -1,3 +1,6 @@
+> 本文内容由[日產Homy](https://zh.wikipedia.org/wiki/日產Homy)转换而来。
+
+
 [Nissan_NV350_Caravan_503.JPG](https://zh.wikipedia.org/wiki/File:Nissan_NV350_Caravan_503.JPG "fig:Nissan_NV350_Caravan_503.JPG") **日產Homy**是[日產在](https://zh.wikipedia.org/wiki/日產 "wikilink")20世紀末期生產的長青車款[廂型車](../Page/廂型車.md "wikilink")，1965年B640・T20型首次定型，日本1970年道路交通法修改廂型車不必使用大型車駕照，日產順勢推出本系列箱型車而獲得成功。
 
 1976年到1980年推出二代E20型，1980年推出三代E23型採用四汽缸OHC Z20引擎並獲得日本消防單位採用。

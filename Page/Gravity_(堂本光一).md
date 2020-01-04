@@ -1,3 +1,6 @@
+> 本文内容由[Gravity \(堂本光一\)](https://zh.wikipedia.org/wiki/Gravity_\(堂本光一\))转换而来。
+
+
 《**Gravity**》為[堂本光一](../Page/堂本光一.md "wikilink")在2012年10月3日發行的第3張音樂專輯。由傑尼斯娛樂發行。
 
 ## 解說

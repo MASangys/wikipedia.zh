@@ -1,3 +1,6 @@
+> 本文内容由[Linked Horizon](https://zh.wikipedia.org/wiki/Linked_Horizon)转换而来。
+
+
 **Linked Horizon**是一個由音樂人[Revo](../Page/Revo.md "wikilink")創立并主導的[日本](../Page/日本.md "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[團體](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。
 
 ## 概要

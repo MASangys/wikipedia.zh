@@ -1,3 +1,6 @@
+> 本文内容由[Oppa, Oppa](https://zh.wikipedia.org/wiki/Oppa,_Oppa)转换而来。
+
+
 《**Oppa, Oppa**》是韩国男子组合[Super Junior的子組合](../Page/Super_Junior.md "wikilink")[Super Junior Donghae & Eunhyuk第一张单曲](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")，在2011年12月16日发行。
 
 2012年4月4日发行日本单曲《Oppa, Oppa》，亦收錄了東海的獨唱曲《First Love (初戀)》\[1\]。
@@ -63,9 +66,7 @@
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

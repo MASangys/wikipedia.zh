@@ -1039,7 +1039,7 @@ tray / 盒裝</p></th>
 
 ## 材質問題
 
-因為[PCB板變薄](https://zh.wikipedia.org/wiki/PCB板 "wikilink")，所以安装較厚重的散熱器可能會把PCB板压损變形。
+因為[覆晶板(carrier)變薄](https://zh.wikipedia.org/wiki/覆晶板\(carrier\) "wikilink")，所以安装較厚重的散熱器可能會把覆晶板壓致變形。
 
 ## AVX bug
 

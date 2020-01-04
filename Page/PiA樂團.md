@@ -1380,7 +1380,7 @@ Dalala
   - [PiA樂團官方網站](http://piaxstudio.com)
   - [PiA樂團官方粉絲團](https://www.facebook.com/piaxstudio)
   - [PiA樂團StreetVoice](http://tw.streetvoice.com/users/piastudent/)
-  - [PiA樂團iNDIEVOX](http://www.indievox.com/piastudent)
+  - [PiA樂團iNDIEVOX](https://web.archive.org/web/20121018132209/http://www.indievox.com/piastudent)
 
 [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:PiA樂團](https://zh.wikipedia.org/wiki/Category:PiA樂團 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 

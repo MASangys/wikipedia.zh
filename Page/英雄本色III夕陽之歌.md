@@ -1,3 +1,6 @@
+> 本文内容由[英雄本色III夕陽之歌](https://zh.wikipedia.org/wiki/英雄本色III夕陽之歌)转换而来。
+
+
 《**英雄本色III夕陽之歌**》（）是一部於1989年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，為《英雄本色》系列的第三部。由[徐克](../Page/徐克.md "wikilink")執導，[周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink")、[梅艷芳](../Page/梅艷芳.md "wikilink")和[梁家輝](../Page/梁家輝.md "wikilink")主演。故事背景为1974年的[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[西贡](../Page/胡志明市.md "wikilink")。片名是來自梅艷芳的歌曲《[夕陽之歌](../Page/夕陽之歌.md "wikilink")》，是當年甚受歡迎的廣東歌，也是梅艷芳歌曲中的其中一首代表作。
 
 這部電影的特別之處，是一改[吳宇森導演的兩部前作的陽剛味](https://zh.wikipedia.org/wiki/吳宇森 "wikilink")，而把焦點放在梅艷芳飾演的女性角色周英杰身上。身為黑幫大姐的她在片中帶著周潤發及梁家輝在[越南行走江湖](https://zh.wikipedia.org/wiki/越南 "wikilink")，既幫他們賺大錢，又多次助他們脫離險境。本片是《[英雄本色](https://zh.wikipedia.org/wiki/英雄本色 "wikilink")》系列的前傳，劇情描述Mark哥（周潤發飾）發跡之前在[越南的一段故事](https://zh.wikipedia.org/wiki/越南 "wikilink")。原來，Mark哥的招牌墨鏡及大衣都是周英杰所送。這部《夕陽之歌》顛覆了[香港](../Page/香港.md "wikilink")[黑幫片的公式](../Page/黑社會.md "wikilink")，讓女性角色主導劇情，是一大突破。而梅艷芳的演出亦非常出色，扭轉了黑幫片只有男性角色的傳統。

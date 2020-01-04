@@ -40,7 +40,7 @@ rm 一般在[UNIX](../Page/UNIX.md "wikilink")及其衍生操作系统中出现�
 
 利用[C shell命令](https://zh.wikipedia.org/wiki/C_shell "wikilink")[alias或是](https://zh.wikipedia.org/wiki/alias "wikilink")[Bourne shell的功能](../Page/Bourne_shell.md "wikilink")，rm命令常常被“rm -i”命令覆盖，这样可以防止意外的文件删除操作。 如果用户还是想不通过确认而删除大量的文件，他们可以手动为命令追加“-f”参数，取消"-i"参数的效果（这是因为加上“-f”参数后，命令变为了“rm -i -f”，而后指定的参数有更高的优先级）。不过这个方法也可能使用户养成使用通配符等危险的习惯，而这一习惯还是会导致意外的文件删除。
 
-**rm -rf** (其他的形式包括： `rm -rf /`， `rm -rf *`等)常常在描述UNIX灾难的笑话和轶事中出现\[2\]</ref>。 若在根目录由[超级用户](../Page/超级用户.md "wikilink")执行 `rm -rf` 命令，将会导致系统中所有已挂载可写入文件系统中所有内容的清除，直到系统自身因为丢失重要文件或目录而崩溃或其他致命系统事件，这一命令才会终止。
+**rm -rf**（其他的形式包括： `rm -rf /`， `rm -rf *`等）常常在描述UNIX灾难的笑话和轶事中出现\[2\]</ref>。 若在根目录由[超级用户](../Page/超级用户.md "wikilink")执行 `rm -rf` 命令，将会导致系统中所有已挂载可写入文件系统中所有内容的清除，直到系统自身因为丢失重要文件或目录而崩溃或其他致命系统事件，这一命令才会终止。
 
 rm命令常常与[xargs命令一起使用](https://zh.wikipedia.org/wiki/xargs "wikilink")，这样就可以支持给定列表的文件批量删除：
 

@@ -1,3 +1,6 @@
+> 本文内容由[Carolina](https://zh.wikipedia.org/wiki/Carolina)转换而来。
+
+
 **Carolina**、**卡羅-{}-萊納**、**卡罗-{}-来纳**、**卡羅-{}-利納**可以指：
 
 ## 地理

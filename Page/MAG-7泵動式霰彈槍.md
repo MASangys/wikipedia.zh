@@ -1,3 +1,6 @@
+> 本文内容由[MAG-7泵動式霰彈槍](https://zh.wikipedia.org/wiki/MAG-7泵動式霰彈槍)转换而来。
+
+
 **MAG-7**是一款由[南非槍械製造商](https://zh.wikipedia.org/wiki/南非 "wikilink")[塔克諾武器公司在](https://zh.wikipedia.org/wiki/塔克諾公司 "wikilink")1995年研製並且從同年起開始生產的[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑](https://zh.wikipedia.org/wiki/霰彈 "wikilink")×60[毫米](../Page/毫米.md "wikilink")霰彈藥筒。
 
 ## 歷史和設計

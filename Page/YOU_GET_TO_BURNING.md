@@ -1,3 +1,6 @@
+> 本文内容由[YOU GET TO BURNING](https://zh.wikipedia.org/wiki/YOU_GET_TO_BURNING)转换而来。
+
+
 }} 《**YOU GET TO BURNING**》是[松泽由美的主打出道](https://zh.wikipedia.org/wiki/松泽由美 "wikilink")[单曲](../Page/单曲.md "wikilink")和[桑岛法子](../Page/桑岛法子.md "wikilink")的第一支单曲。
 
 ## 概要

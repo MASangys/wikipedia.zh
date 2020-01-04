@@ -1,3 +1,6 @@
+> 本文内容由[Eurosport News](https://zh.wikipedia.org/wiki/Eurosport_News)转换而来。
+
+
 **Eurosportnews**，是[Eurosport](../Page/Eurosport.md "wikilink")旗下的一個體育新聞頻道，在2000年9月1日啟播。其特點是提供比分直播，賽事精華，最新新聞和解說。那些精華片段，文字和圖片和片頭分為4部份。影片將會播放精華片段和最新簡訊，最新新聞將會在屏幕下方播放，比分直播將深入分析，並播放賽果。
 
 ## 新聞片段

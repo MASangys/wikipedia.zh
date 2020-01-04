@@ -1,3 +1,6 @@
+> 本文内容由[DRS](https://zh.wikipedia.org/wiki/DRS)转换而来。
+
+
 [RB7_adjustable_rear_wing.jpg](https://zh.wikipedia.org/wiki/File:RB7_adjustable_rear_wing.jpg "fig:RB7_adjustable_rear_wing.jpg")
 
 **DRS**（[英文全称](https://zh.wikipedia.org/wiki/英文 "wikilink")：**D**rag **R**eduction **S**ystem）译为**减少空气阻力系统**或者**可变尾翼**，是[2011年世界一级方程式锦标赛](../Page/2011年世界一级方程式锦标赛.md "wikilink")引入的一项技术。该技术旨在通过调节[尾翼](../Page/尾翼.md "wikilink")的角度以减少[空气阻力](https://zh.wikipedia.org/wiki/空气阻力 "wikilink")，从而使赛车获得更快的速度，以达到超车的目的，亦使比赛的观赏性大大增强。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[多重人格偵探Psycho](https://zh.wikipedia.org/wiki/多重人格偵探Psycho)转换而来。
+
+
 《**多重人格偵探Psycho**》（）是由[大塚英志擔任原作](https://zh.wikipedia.org/wiki/大塚英志 "wikilink")、[田島昭宇作画的](https://zh.wikipedia.org/wiki/田島昭宇 "wikilink")[日本漫画](../Page/日本漫画.md "wikilink")作品。以及相關的改編[小説](https://zh.wikipedia.org/wiki/小説 "wikilink")、[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[新劇等作品](https://zh.wikipedia.org/wiki/新劇 "wikilink")。
 
 剛開始於《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》（角川書店）1997年2月号進行連載、長期中斷連載後於2007年8月移至同社的青年雜誌《[Comic CHARGE](https://zh.wikipedia.org/wiki/Comic_CHARGE "wikilink")》連載。2009年1月同雜誌休刊後於同年7月廢刊後繼誌《[Young Ace](../Page/Young_Ace.md "wikilink")》2016年3月号繼續連載。單行本累計銷售量900萬部。

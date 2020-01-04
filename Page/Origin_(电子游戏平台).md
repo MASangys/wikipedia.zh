@@ -1,3 +1,6 @@
+> 本文内容由[Origin \(电子游戏平台\)](https://zh.wikipedia.org/wiki/Origin_\(电子游戏平台\))转换而来。
+
+
 **Origin**是[美国艺电在](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")2011年7月3日推出的电子软件分发、数字版权管理及社交系统，除[Windows版外](https://zh.wikipedia.org/wiki/Windows "wikilink")，在2013年2月8日推出[Mac版](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。EA允许用户在他支持的平台上购买并使用Origin客户端下载游戏。2012年12月，Origin已经有930万用户。
 
 ## 构成

@@ -1,12 +1,15 @@
+> 本文内容由[Giraph](https://zh.wikipedia.org/wiki/Giraph)转换而来。
+
+
 **Giraph** 是一个[迭代](../Page/迭代.md "wikilink")的系统。
 
 Apache Giraph 是一个[Apache项目](https://zh.wikipedia.org/wiki/Apache "wikilink")，用于对[大数据执行图形处理](https://zh.wikipedia.org/wiki/大数据 "wikilink")。
 
 Giraph 计算的输入是由点和两点之间直连的边所组成的图，例如，点可以表示人，边可以表示朋友请求。每个[顶点保存一个值](../Page/顶点_\(图论\).md "wikilink")，每个边也保存一个值。输入不仅取决于图的[拓扑逻辑](https://zh.wikipedia.org/wiki/拓扑 "wikilink")，也取决于定点和边的初始值。
 
-举一个例子，假设有这样一个计算，需要查找某个预先设置的初始人物到社交图谱中任何一个人的距离。在这个计算中，边的值是一个[浮点数](../Page/浮点数.md "wikilink")，表示相邻的人之间的距离，[顶点V也是一个浮点数](../Page/顶点_\(图论\).md "wikilink")，表示从预设的顶点s到v的最短距离的上限值。预设的源顶点的初始值是0，其它顶点的初始值是[无穷大](https://zh.wikipedia.org/wiki/无穷大 "wikilink")。
+举一个例子，假设有这样一个计算，需要查找某个预先设置的初始人物到社交图谱中任何一个人的距离。计算中，边的值是一个[浮点数](../Page/浮点数.md "wikilink")，表示相邻的人之间的距离，[顶点V也是一个浮点数](../Page/顶点_\(图论\).md "wikilink")，表示从预设的顶点s到v的最短距离的上限值。预设的源顶点的初始值是0，其它顶点的初始值是[无穷大](https://zh.wikipedia.org/wiki/无穷大 "wikilink")。
 
-计算过程由一序列的迭代进行，在[BSP中叫做supersteps](https://zh.wikipedia.org/wiki/BSP "wikilink")。最初，每个顶点都active。在每个superstep中，每个active的顶点触发用户提供的计算方法。这些方法实现了将要输入的图中执行的图算法。直观说，在设计Giraph算法的时候要像顶点一样思考。计算方法如下：
+计算过程由一序列的迭代进行，在[BSP中叫做supersteps](https://zh.wikipedia.org/wiki/BSP "wikilink")。每个顶点都active。在每个superstep中，每个active的顶点触发用户提供的计算方法。这些方法实现了将要输入的图中执行的图算法。直观说，在设计Giraph算法的时候要像顶点一样思考。计算方法如下：
 
 \- 接受上一个superstep发送给顶点的消息;
 

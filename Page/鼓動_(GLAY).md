@@ -1,3 +1,6 @@
+> 本文内容由[鼓動 \(GLAY\)](https://zh.wikipedia.org/wiki/鼓動_\(GLAY\))转换而来。
+
+
 《**鼓動**》為[GLAY](../Page/GLAY.md "wikilink")的第36張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
 
 ## 簡介

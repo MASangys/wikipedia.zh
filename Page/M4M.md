@@ -45,7 +45,7 @@
 | 2019年 | [爱奇艺](../Page/爱奇艺.md "wikilink")                      | [新白娘子傳奇](../Page/新白娘子传奇_\(2019年电视剧\).md "wikilink")                | 睦王                                                | 男配角 |
 |       |                                                       |                                                                    |                                                   |     |
 | 2019年 | [优酷](../Page/优酷.md "wikilink")                        | [竹马钢琴师](https://zh.wikipedia.org/wiki/竹马钢琴师 "wikilink")            | 慕流年                                               | 男主角 |
-| 2019年 | [腾讯视频](../Page/腾讯视频.md "wikilink")                    | [明月照我心](https://zh.wikipedia.org/wiki/明月照我心 "wikilink")            | 資王                                                | 男主角 |
+| 2019年 | [腾讯视频](../Page/腾讯视频.md "wikilink")                    | [明月照我心](../Page/明月照我心.md "wikilink")                               | 資王                                                | 男主角 |
 |       |                                                       |                                                                    |                                                   |     |
 
 ### 電影

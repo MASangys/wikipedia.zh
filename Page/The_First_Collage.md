@@ -1,3 +1,6 @@
+> 本文内容由[The First Collage](https://zh.wikipedia.org/wiki/The_First_Collage)转换而来。
+
+
 《**The First Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮](../Page/梁耀燮.md "wikilink")的第1張個人迷你專輯。於2012年11月26日發行。\[1\]唱片公司為[Cube娛樂](../Page/Cube娛樂.md "wikilink")。
 
 ## 概要
@@ -123,14 +126,9 @@
 [Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.

@@ -199,6 +199,18 @@ PlotData =
 
   - 《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA\) "wikilink")》（2015）
 
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
+
+| 成員                                                  | 登記名字      | 編號        | 登記著作   |
+| --------------------------------------------------- | --------- | --------- | ------ |
+| [申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink") | 신지민/ 지민   | 10005507  | \[69\] |
+| [朴草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink") | 박초아       | |10010059 | \[70\] |
+| [徐酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink") | 서유나/ E.NA | 10013522  | \[71\] |
+| [申惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink") | 신혜정       | 10015026  | \[72\] |
+| [權珉娥](https://zh.wikipedia.org/wiki/權珉娥 "wikilink") | 권민아       | 10015025  | \[73\] |
+| [金雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink") | 김설현       | 10015027  | \[74\] |
+| [金澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink") | 김찬미       | 10015028  | \[75\] |
+
 ## 影視作品
 
 ### 真人秀
@@ -247,7 +259,7 @@ PlotData =
 <td></td>
 <td><p>AOA的心動峴港 充實之感</p></td>
 <td><p><a href="../Page/AOA_CREAM.md" title="wikilink">AOA CREAM</a></p></td>
-<td><p>[69]</p></td>
+<td><p>[76]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1127,31 +1139,59 @@ PlotData =
 <td></td>
 </tr>
 <tr class="even">
+<td><p>11月15日 、22日、29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="../Page/俘獲芳心頻道.md" title="wikilink">俘獲芳心頻道</a></p></td>
+<td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月1日、8日</p></td>
+<td><p><a href="../Page/Lifestyle.md" title="wikilink">Lifestyle</a></p></td>
+<td><p><a href="../Page/睡衣朋友.md" title="wikilink">睡衣朋友</a></p></td>
+<td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月20日</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/不是你所認識的我.md" title="wikilink">不是你所認識的我</a></p></td>
+<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2019</p></td>
 <td><p>1月16日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/白種元的胡同餐館.md" title="wikilink">白種元的胡同餐館</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月27日</p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月4日-</p></td>
 <td></td>
 <td><p>在美容室見吧</p></td>
-<td><p><a href="../Page/澯美.md" title="wikilink">澯美</a>(固定MC)[70][71]</p></td>
+<td><p><a href="../Page/澯美.md" title="wikilink">澯美</a>(固定MC)[77][78]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Happy_Together" title="wikilink">Happy Together</a></p></td>
-<td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a>[72]</p></td>
+<td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a>[79]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月7日</p></td>
+<td><p>tvN</p></td>
+<td><p>無論什麼friends</p></td>
+<td><p>智珉</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1187,6 +1227,13 @@ PlotData =
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
 <td><p>全員</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月21日、28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/全知干預視角.md" title="wikilink">全知干預視角</a></p></td>
+<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1528,8 +1575,8 @@ PlotData =
 
 ## 爭議
 
-  - 2016年5月3日，在一段 Channel AOA 實境秀上歷史測驗的環節，智珉與雪炫兩人在答題時，沒有認出朝鮮著名的獨立運動家[安重根](../Page/安重根.md "wikilink")，誤答成[金斗漢](../Page/金斗漢.md "wikilink")，最後透過網路搜索尋得答案，但節目播出後引起許多爭議和不滿\[73\]。5月12日，智珉、雪炫發文表達歉意。\[74\]5月13日Channel AOA 製作公司OnStyle 方面表示“該集是以速度遊戲的概念進行，由於雪炫、智珉組要與其他組競爭，所以狀況較為緊急。關於我們國家的重要歷史，製作單位應該更謹慎地進行製作，造成大家的困擾，我們非常抱歉，未來會多加注意\[75\]。”
-  - 2016年5月16日，AOA在凌晨12點公開新歌《Good Luck》MV，被指MV中出現日本汽車標誌，引起網友反彈。經紀公司FNC在公開MV數小時後，刪除並上傳新版本，把日系車品牌標誌打上馬賽克\[76\]。
+  - 2016年5月3日，在一段 Channel AOA 實境秀上歷史測驗的環節，智珉與雪炫兩人在答題時，沒有認出朝鮮著名的獨立運動家[安重根](../Page/安重根.md "wikilink")，誤答成[金斗漢](../Page/金斗漢.md "wikilink")，最後透過網路搜索尋得答案，但節目播出後引起許多爭議和不滿\[80\]。5月12日，智珉、雪炫發文表達歉意。\[81\]5月13日Channel AOA 製作公司OnStyle 方面表示“該集是以速度遊戲的概念進行，由於雪炫、智珉組要與其他組競爭，所以狀況較為緊急。關於我們國家的重要歷史，製作單位應該更謹慎地進行製作，造成大家的困擾，我們非常抱歉，未來會多加注意\[82\]。”
+  - 2016年5月16日，AOA在凌晨12點公開新歌《Good Luck》MV，被指MV中出現日本汽車標誌，引起網友反彈。經紀公司FNC在公開MV數小時後，刪除並上傳新版本，把日系車品牌標誌打上馬賽克\[83\]。
 
 ## 參考資料
 
@@ -1649,3 +1696,10 @@ PlotData =
 74.
 75.
 76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.

@@ -1,3 +1,6 @@
+> 本文内容由[STAR MAN 這顆星上的戀愛](https://zh.wikipedia.org/wiki/STAR_MAN_這顆星上的戀愛)转换而来。
+
+
 ，2013年[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[關西電視台](../Page/關西電視台.md "wikilink")製作，在2013年7月9日至9月10日期間於[富士電視網](../Page/富士電視網.md "wikilink")播放。此劇由[廣末涼子](../Page/廣末涼子.md "wikilink")主演，距離她上次主演連續劇已有17年\[1\]。
 
 ## 劇情
@@ -307,13 +310,8 @@
 [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink") [Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink") [Category:山梨縣背景作品](https://zh.wikipedia.org/wiki/Category:山梨縣背景作品 "wikilink") [Category:人與外星生物接觸題材電視劇](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:Horipro電視劇](https://zh.wikipedia.org/wiki/Category:Horipro電視劇 "wikilink") [Category:岡田惠和劇本作品](https://zh.wikipedia.org/wiki/Category:岡田惠和劇本作品 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:廣末涼子](https://zh.wikipedia.org/wiki/Category:廣末涼子 "wikilink") [Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.

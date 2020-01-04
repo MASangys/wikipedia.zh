@@ -1,3 +1,6 @@
+> 本文内容由[Love Collection ～mint～](https://zh.wikipedia.org/wiki/Love_Collection_～mint～)转换而来。
+
+
 《**Love Collection ～mint～**》（愛的收藏 ～mint～）是日本的女歌手[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")1枚精選專輯。於2013年9月4日發行。唱片公司為[SME Records Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 ## 概要

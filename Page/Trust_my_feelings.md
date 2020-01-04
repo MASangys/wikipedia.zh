@@ -1,3 +1,6 @@
+> 本文内容由[Trust my feelings](https://zh.wikipedia.org/wiki/Trust_my_feelings)转换而来。
+
+
 《**Trust my feelings**》為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2002年7月24日發行的出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說

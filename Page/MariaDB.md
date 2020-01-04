@@ -1,3 +1,6 @@
+> 本文内容由[MariaDB](https://zh.wikipedia.org/wiki/MariaDB)转换而来。
+
+
 **MariaDB**是[MySQL](../Page/MySQL.md "wikilink")[關聯式資料庫管理系統的一个](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件开发\) "wikilink")，由社区开发，有商业支持，旨在继续保持在[GNU GPL下](../Page/GNU通用公共许可证.md "wikilink")[开源](../Page/自由及开放源代码软件.md "wikilink")。MariaDB的开发是由MySQL的一些原始开发者领导的，他们担心[甲骨文公司](../Page/甲骨文公司.md "wikilink")收购MySQL后会有一些隐患。\[1\]
 
 MariaDB打算保持与MySQL的高度兼容性，确保具有库二进制奇偶校验的直接替换功能，以及与MySQL [API和命令的精确匹配](../Page/应用程序接口.md "wikilink")。\[2\] MariaDB自带了一个新的[Aria](https://zh.wikipedia.org/wiki/Aria_\(storage_engine\) "wikilink")，它可以替代[MyISAM](../Page/MyISAM.md "wikilink")，成为默认的事务和非事务引擎。\[3\] 它最初使用作为默认存储引擎，\[4\] 并从10.2版本切换回[InnoDB](https://zh.wikipedia.org/wiki/InnoDB "wikilink")。\[5\]
@@ -121,7 +124,7 @@ MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了
   - [Drupal](../Page/Drupal.md "wikilink")
   - [ERP5](https://zh.wikipedia.org/wiki/ERP5 "wikilink")
   - [Kajona](https://zh.wikipedia.org/wiki/Kajona "wikilink")
-  - [MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")
+  - [MediaWiki](../Page/MediaWiki.md "wikilink")
   - [Moodle](../Page/Moodle.md "wikilink")
   - [MONyog](https://zh.wikipedia.org/wiki/MONyog "wikilink")
   - [ownCloud](https://zh.wikipedia.org/wiki/ownCloud "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[Intel 8048](https://zh.wikipedia.org/wiki/Intel_8048)转换而来。
+
+
 [KL_Intel_P8048H.jpg](https://zh.wikipedia.org/wiki/File:KL_Intel_P8048H.jpg "fig:KL_Intel_P8048H.jpg") [KL_Intel_D8749.jpg](https://zh.wikipedia.org/wiki/File:KL_Intel_D8749.jpg "fig:KL_Intel_D8749.jpg") [KL_USSR_KM1816BE_i8748_Black_Background.jpg](https://zh.wikipedia.org/wiki/File:KL_USSR_KM1816BE_i8748_Black_Background.jpg "fig:KL_USSR_KM1816BE_i8748_Black_Background.jpg") [Intel_8049_Microcontroller.jpg](https://zh.wikipedia.org/wiki/File:Intel_8049_Microcontroller.jpg "fig:Intel_8049_Microcontroller.jpg") **Intel 8048**是一種8位元的[單晶片](https://zh.wikipedia.org/wiki/單晶片 "wikilink")[微控制器](https://zh.wikipedia.org/wiki/微控制器 "wikilink")，屬於[MCS-48單晶片的一種](https://zh.wikipedia.org/wiki/MCS-48 "wikilink")，由[英特爾公司於](https://zh.wikipedia.org/wiki/英特爾 "wikilink")1976年製造。最初使用[NMOS技術製作](https://zh.wikipedia.org/wiki/NMOS "wikilink")，在20世紀80年代初改用[CMOS技術](https://zh.wikipedia.org/wiki/CMOS "wikilink")。
 
 ## 主要功能及特性
@@ -55,7 +58,7 @@
 
   - [MCS-48 family architecture](https://web.archive.org/web/20130922061531/http://home.mnet-online.de/al/mcs-48/mcs-48.pdf)
   - [Coprolite 8048 Projects](https://web.archive.org/web/20050728092819/http://www.coprolite.com/8048.html)
-  - [Computer History Museum, Intel 8048 Microcontroller Oral History Panel](http://www.computerhistory.org/collections/accession/102658328)
+  - [Computer History Museum, Intel 8048 Microcontroller Oral History Panel](https://web.archive.org/web/20130702222341/http://www.computerhistory.org/collections/accession/102658328)
   - [Microcontroller NEC 8741 (image of the Silicium-Chip)](http://www.flickr.com/photos/yellowcloud/4524734295/)
 
 [Category:Intel處理器](https://zh.wikipedia.org/wiki/Category:Intel處理器 "wikilink") [Category:微控制器](https://zh.wikipedia.org/wiki/Category:微控制器 "wikilink")

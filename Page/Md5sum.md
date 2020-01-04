@@ -1,3 +1,6 @@
+> 本文内容由[Md5sum](https://zh.wikipedia.org/wiki/Md5sum)转换而来。
+
+
 **`md5sum`**是一种[计算机程序](../Page/计算机程序.md "wikilink")，用于计算与校验RFC 1321所描述的128位[MD5](../Page/MD5.md "wikilink")[哈希值](https://zh.wikipedia.org/wiki/散列函数 "wikilink")，此处MD5散列值（或校验和）作一个文件的数字指纹使用。
 
 ## 功能

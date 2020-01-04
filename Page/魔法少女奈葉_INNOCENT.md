@@ -1,3 +1,6 @@
+> 本文内容由[魔法少女奈葉 INNOCENT](https://zh.wikipedia.org/wiki/魔法少女奈葉_INNOCENT)转换而来。
+
+
 《**魔法少女奈葉INNOCENT**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的一部分，與《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》及《[魔法少女奈葉ViVid](../Page/魔法少女奈葉ViVid.md "wikilink")》一樣均為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[川上修一](https://zh.wikipedia.org/wiki/川上修一 "wikilink")，2012年9月號起在《[月刊CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")》上連載。
 
 《魔法少女奈葉INNOCENT》手机游戏于2013年3月31日运行，并将于2018年1月12日停止运行。

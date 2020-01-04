@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士Wizard角色列表](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表)转换而来。
+
+
 **假面騎士Wizard角色列表**展示於[朝日電視台](../Page/朝日電視台.md "wikilink")放映的特攝劇集《**[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")**》（原題：）各個角色。
 
 ## 魔法使
@@ -42,10 +45,10 @@
 **仁藤攻介（）**（[永瀨匡](../Page/永瀨匡.md "wikilink") / 若山耀人（童年期）飾／香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
 
   -
-    23歲的[考古學系大學生](https://zh.wikipedia.org/wiki/考古學 "wikilink")。在某遺跡中偶然發現變身系統Beast Driver而成為**假面騎士Beast**，因此亦與封印在腰帶內的魅影Beast [Chimera合為一體](https://zh.wikipedia.org/wiki/奇美拉 "wikilink")，但代價為需要消滅魅影後吞食其魔力來延續生命。
+    23歲的[考古學系大學生](https://zh.wikipedia.org/wiki/考古學 "wikilink")。在某遺跡中偶然發現變身系統Beast Driver而成為**假面騎士Beast**，因此亦與封印在腰帶內的魅影Beast [Chimera合為一體](https://zh.wikipedia.org/wiki/奇美拉 "wikilink")，但代價為需要消滅魅影後吞食其魔力來延續生命。\[1\]
     爲人非常自信，以「有危才有機！」（原文：）作為行事的座右銘。
     每次用膳必然喜歡在食物上添加[蛋黃醬](https://zh.wikipedia.org/wiki/蛋黃醬 "wikilink")。甚至經常不仔細聽別人講話，就在自說自話。
-    變身後的台詞為「來、Lunchtime到了！」（原文：）\[1\]；了結敵人前台詞為「那麼、上主菜吧！」（原文：），並每次消滅完敵人之後並說「多謝款待！」（原文：）。
+    變身後的台詞為「來、Lunchtime到了！」（原文：）\[2\]；了結敵人前台詞為「那麼、上主菜吧！」（原文：），並每次消滅完敵人之後並說「多謝款待！」（原文：）。
 
 <!-- end list -->
 
@@ -74,7 +77,7 @@
     能看穿擬態成人類外形的魅影，及擅長通過水晶球觀看使魔PlaMonster眼前的映像。
     行事很沒幹勁或帶著一副早上貧血狀態的模樣。
     最初因自卑心作祟而對大門凛子及奈良瞬平他們感到煩厭，直至第5話被受到包容後才開始欣然接受。
-    由於其體內藏賢者之石，必須依靠操真晴人傳輸魔力存活。\[2\]；劇中也多次因魔力耗盡而倒下。
+    由於其體內藏賢者之石，必須依靠操真晴人傳輸魔力存活。\[3\]；劇中也多次因魔力耗盡而倒下。
     第42話事件中得知十年前孩童時期曾從湖邊與「Gate」西園寺雅文相遇，但自己對此事卻了無印象；第43話晴人從西園寺雅文的「Underworld」中發現其父親是笛木（白色魔法使）。
     第44話身上魔力不足的情況開始得非常頻繁，甚至手背部位亦出現暗紅色裂紋的異變。
     第46話親身找上[古利姆連問及手背出現裂紋的因由](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，但卻被對方企圖挾帶擄走，危急之際被笛木營救並帶走。
@@ -89,7 +92,7 @@
     收留操真晴人與曆在面影堂共同生活。
     有著能夠將魔寶石製作成指環的技術，但製作完成後無法親自試驗魔法效果，需要晴人自己去實證。
     過去曾協助笛木（白色魔法使）製作指環，縱然如此但對於有關對方的底蘊卻一概不通。
-    第10話被木崎強行押走，要求其替木崎把從不明途徑得來的魔寶石\[3\]製作成指環。
+    第10話被木崎強行押走，要求其替木崎把從不明途徑得來的魔寶石\[4\]製作成指環。
     第38話被笛木要求把魔寶石製作成「Eclipse」指環。
 
 ; **大門凛子（）**（[高山侑子](../Page/高山侑子.md "wikilink") / 末原一乃（童年期）飾 / 香港配音: [葉曉欣](../Page/葉曉欣.md "wikilink")）
@@ -116,7 +119,7 @@
 
 ## 魅影（Phantom）
 
-**賢者（）**（替身演出：[渡邊淳](https://zh.wikipedia.org/wiki/:ja:渡辺淳 "wikilink")、CV：[古川登志夫](../Page/古川登志夫.md "wikilink") ／香港配音：[招世亮](../Page/招世亮.md "wikilink")）\[4\]
+**賢者（）**（替身演出：[渡邊淳](https://zh.wikipedia.org/wiki/:ja:渡辺淳 "wikilink")、CV：[古川登志夫](../Page/古川登志夫.md "wikilink") ／香港配音：[招世亮](../Page/招世亮.md "wikilink")）\[5\]
 
   -
     [卡巴克魯的宿主](https://zh.wikipedia.org/wiki/:ja:カーバンクル_\(伝説の生物\) "wikilink")。
@@ -276,7 +279,7 @@
     「Hungry～」店員。
     第6話奈良瞬平透露其名字为龙。
 
-**木崎 政範（）**\[5\]（[川野直輝飾](https://zh.wikipedia.org/wiki/:ja:川野直輝 "wikilink") ／香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
+**木崎 政範（）**\[6\]（[川野直輝飾](https://zh.wikipedia.org/wiki/:ja:川野直輝 "wikilink") ／香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
 
   -
     所屬國家安全局零課，階級為[警視](../Page/警視.md "wikilink")。
@@ -446,7 +449,7 @@
     詳見「[協力者](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#協力者 "wikilink")」及「[《假面騎士Wizard》登場人物](https://zh.wikipedia.org/wiki/假面騎士Wizard#主要登場人物 "wikilink")」。
     第1話成為[炸脖龙的宿主](https://zh.wikipedia.org/wiki/愛麗絲鏡中奇遇#主要角色 "wikilink")。
 
-**田島一夫（）**（[金剛地武志飾](https://zh.wikipedia.org/wiki/:ja:金剛地武志 "wikilink")／香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）\[6\]
+**田島一夫（）**（[金剛地武志飾](https://zh.wikipedia.org/wiki/:ja:金剛地武志 "wikilink")／香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）\[7\]
 
   -
     [地獄犬的宿主](https://zh.wikipedia.org/wiki/地獄犬 "wikilink")。
@@ -663,9 +666,9 @@
   -
     思想非常悲觀，愛帶著九官鳥外出的中年男。
     被誣衊成為縱火犯而遭到警方通緝。
-    第37話因為眼見飼養的九官鳥真身是魅影，然後被Wizard等人消滅後陷入絕望\[7\]。
+    第37話因為眼見飼養的九官鳥真身是魅影，然後被Wizard等人消滅後陷入絕望\[8\]。
 
-**加賀（）**（[渡邊實飾](https://zh.wikipedia.org/wiki/:ja:渡辺実_\(俳優\) "wikilink")）\[8\]
+**加賀（）**（[渡邊實飾](https://zh.wikipedia.org/wiki/:ja:渡辺実_\(俳優\) "wikilink")）\[9\]
 
   -
     [勞姆的宿主](https://zh.wikipedia.org/wiki/勞姆 "wikilink")。
@@ -774,11 +777,12 @@
 
 [Category:假面騎士角色列表](https://zh.wikipedia.org/wiki/Category:假面騎士角色列表 "wikilink")
 
-1.  最初台詞為「來、食飯時間到了！」（原文：），第18話因受操真晴人台詞的影響而改變
-2.  第41話為稻森真由；第48話為飯島讓
-3.  第34話木崎查探出不明來歷的魔寶石是從古利姆連手上取得。
-4.  [古川登志夫的twitter](https://twitter.com/TOSHIO_FURUKAWA/status/257372935352905729)
-5.  劇中從警察証上標誌全名為木崎政範（），全劇只稱呼其為木崎
-6.  第2話Cast未表記。 [金剛地武志的twitter](https://twitter.com/kongochi/status/243670695928815616)
-7.  有關寄宿體內的魅影及有關事件往後並沒有交代
-8.  第36話未登場。
+1.  在《[假面騎士×假面騎士 鎧武 & Wizard 天下決勝之戰國MOVIE大合戰](../Page/假面騎士×假面騎士_鎧武_&_Wizard_天下決勝之戰國MOVIE大合戰.md "wikilink")》中得知，吞食海姆冥界森林的果實也可以延續生命。
+2.  最初台詞為「來、食飯時間到了！」（原文：），第18話因受操真晴人台詞的影響而改變
+3.  第41話為稻森真由；第48話為飯島讓
+4.  第34話木崎查探出不明來歷的魔寶石是從古利姆連手上取得。
+5.  [古川登志夫的twitter](https://twitter.com/TOSHIO_FURUKAWA/status/257372935352905729)
+6.  劇中從警察証上標誌全名為木崎政範（），全劇只稱呼其為木崎
+7.  第2話Cast未表記。 [金剛地武志的twitter](https://twitter.com/kongochi/status/243670695928815616)
+8.  有關寄宿體內的魅影及有關事件往後並沒有交代
+9.  第36話未登場。

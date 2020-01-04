@@ -1,3 +1,6 @@
+> 本文内容由[B签证 \(美国\)](https://zh.wikipedia.org/wiki/B签证_\(美国\))转换而来。
+
+
 [USA_Visa_-_Arg.jpg](https://zh.wikipedia.org/wiki/File:USA_Visa_-_Arg.jpg "fig:USA_Visa_-_Arg.jpg")人的一张B1/B2签证\]\] **B签证**又称**美国商务及旅游签证**，是[美国](../Page/美国.md "wikilink")非移民[签证中的一种](https://zh.wikipedia.org/wiki/签证 "wikilink")，其中包括：
 
   - **B-1签证**：**商务签证**，签发给前往美国进行短期商务活动的人员；
@@ -758,31 +761,20 @@
 [Category:美国签证政策](https://zh.wikipedia.org/wiki/Category:美国签证政策 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.  单次入境
-
 8.
 9.  两次入境
-
 10.
 11. 2014年11月12日生效
-
 12. 2016年11月29日起，该国公民在持B签证前往美国前需要在[美国海关及边境保卫局的签证更新电子系统](https://zh.wikipedia.org/wiki/美国海关及边境保卫局 "wikilink")（EVUS）网站中进行登记，登记费用为每次8美元（53元人民币）但现阶段可免费登记，登记完成后可在两年内可重复使用，之后需要重新登记。[申请链接](https://www.evus.gov)
-
 13.
-
 14.
 15. 2014年7月31日生效
-
 16.
 17.
 18.

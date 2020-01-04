@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 希望滿席祭 贊否兩論](https://zh.wikipedia.org/wiki/AKB48_希望滿席祭_贊否兩論)转换而来。
+
+
 **AKB48 希望滿席祭 贊否兩論**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2010年3月24至25日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉行的演唱會。演出的團體包括AKB48、[SKE48](../Page/SKE48.md "wikilink")及[SDN48](../Page/SDN48.md "wikilink")\[1\]\[2\]\[3\]\[4\]。
 
 ## 概要
@@ -259,48 +262,29 @@
 [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
 13.
-
 14.
 15.
 16.
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27. [DVD介紹頁面](http://www.akb48-dvdcatalog.com/yokohama10/)

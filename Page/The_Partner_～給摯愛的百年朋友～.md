@@ -1,3 +1,6 @@
+> 本文内容由[The Partner ～給摯愛的百年朋友～](https://zh.wikipedia.org/wiki/The_Partner_～給摯愛的百年朋友～)转换而来。
+
+
 《**The Partner ～給摯愛的百年朋友～**》（、）是一部[日本](../Page/日本.md "wikilink")與[越南合拍的](https://zh.wikipedia.org/wiki/越南 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2013年9月29日，分別在[TBS電視台](../Page/TBS電視台.md "wikilink")和[越南電視台播出](https://zh.wikipedia.org/wiki/越南電視台 "wikilink")\[1\]。本劇由[東山紀之](https://zh.wikipedia.org/wiki/東山紀之 "wikilink")、主演，為紀念[日本](../Page/日本.md "wikilink")與[越南建交](https://zh.wikipedia.org/wiki/越南 "wikilink")40週年的慶祝活動之一，同時兩家電視台也是初次合作。\[2\]\[3\]
 
 ## 概要

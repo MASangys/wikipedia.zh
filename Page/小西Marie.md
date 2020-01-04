@@ -1,14 +1,15 @@
-**小西 まりえ**（，）是[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink")。於2013年出道。
+> 本文内容由[小西Marie](https://zh.wikipedia.org/wiki/小西Marie)转换而来。
+
+
+**小西Marie**（，）是[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink")。於2013年出道。
 
 ## 人物略歴
 
 KRONE旗下的女優
-喜歡:[粉紅](https://zh.wikipedia.org/wiki/粉紅 "wikilink")、[動漫](../Page/動漫.md "wikilink")、[卡拉OK](../Page/卡拉OK.md "wikilink")、[初音](https://zh.wikipedia.org/wiki/初音 "wikilink") 、BL、[糖果](../Page/糖果.md "wikilink")、[海苔](../Page/海苔.md "wikilink")(梅子味) 及 [蛋黃醬](https://zh.wikipedia.org/wiki/蛋黃醬 "wikilink")
-特技[料理](https://zh.wikipedia.org/wiki/料理 "wikilink")、活用[NECOMIMI貓耳](https://zh.wikipedia.org/wiki/NECOMIMI "wikilink")。
 
 ## 演出作品
 
-## 成人影片
+### 成人影片
 
 2013年
 
@@ -251,25 +252,7 @@ KRONE旗下的女優
 </tbody>
 </table>
 
-## 寫真影片
-
-## 活動略歴
-
-## 攝影會
-
-  - 2013年
-
-<!-- end list -->
-
-  - 小西まりえ (8月17日、 [](http://www.class-a.jp/schedule/130817_06/index.php))
-  - パンツ祭り(10月12日、 [弊社イベント運営部](https://web.archive.org/web/20131003031723/http://kotorinookastudio.blog.fc2.com/blog-entry-116.html))
-  - モデル撮影会 LOOP (10月26日、 [モデル撮影会 LOOP](https://web.archive.org/web/20131002102802/http://model-loop.jp/sp/girlInfoSp.php?id=143))
-  - モデル撮影会 LOOP (11月9日、 [モデル撮影会 LOOP](https://web.archive.org/web/20131029202533/http://model-loop.jp/sp/girlInfoSp.php?id=148))
-  - 秋葉原アラジン撮影スタジオ (11月23日、)
-
 ## 外部連結
 
-小西まりえ的影片:[](http://www.youtube.com/watch?v=yg4mbvpJhX8)
-
   -
-[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink") [Category:日本2013年AV女優](https://zh.wikipedia.org/wiki/Category:日本2013年AV女優 "wikilink")
+[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")

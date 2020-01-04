@@ -1,3 +1,6 @@
+> 本文内容由[STARMANN](https://zh.wikipedia.org/wiki/STARMANN)转换而来。
+
+
 《**STARMANN**》為[日本](../Page/日本.md "wikilink")女歌手[YUKI於](../Page/YUKI_\(歌手\).md "wikilink")2013年8月21日所發行的第26張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介
@@ -34,7 +37,5 @@
 [Category:富士火十劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火十劇主題曲 "wikilink") [Category:YUKI歌曲](https://zh.wikipedia.org/wiki/Category:YUKI歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
 
 1.
-
 2.
-
 3.

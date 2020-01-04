@@ -1,3 +1,6 @@
+> 本文内容由[ANSWER \(GLAY feat. 冰室京介\)](https://zh.wikipedia.org/wiki/ANSWER_\(GLAY_feat._冰室京介\))转换而来。
+
+
 《**ANSWER (GLAY feat. 冰室京介)**》為[GLAY](../Page/GLAY.md "wikilink")和[冰室京介](../Page/冰室京介.md "wikilink")合作推出的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介

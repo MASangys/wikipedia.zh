@@ -1,3 +1,6 @@
+> 本文内容由[100萬次的KISS](https://zh.wikipedia.org/wiki/100萬次的KISS)转换而来。
+
+
 《**100萬次的KISS**》（）是日本樂團[GLAY](../Page/GLAY.md "wikilink")的第35張單曲，同時也是第一張推出DVD版本的單曲。
 
 ## 簡介

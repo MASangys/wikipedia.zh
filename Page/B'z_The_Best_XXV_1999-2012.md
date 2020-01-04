@@ -1,3 +1,6 @@
+> 本文内容由[B\'z The Best XXV 1999-2012](https://zh.wikipedia.org/wiki/B\'z_The_Best_XXV_1999-2012)转换而来。
+
+
 《**B'z The Best XXV 1999-2012**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2013年6月所發行的精選輯，共收錄28首歌曲。
 
 ## 簡介

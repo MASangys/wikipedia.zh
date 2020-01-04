@@ -209,5 +209,5 @@
 26. [נחשף פירוט הנשק של הימ"מ](http://www.ynet.co.il/articles/0,7340,L-4632052,00.html), [Ynet](https://zh.wikipedia.org/wiki/Ynet "wikilink"), 2015.3.1
 27. [1](https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99%D7%9D/%D7%96%D7%A8%D7%95%D7%A2-%D7%94%D7%99%D7%91%D7%A9%D7%94/%D7%AA%D7%A2%D7%A8%D7%95%D7%9B%D7%AA-%D7%94%D7%90%D7%9E%D7%9C%D7%97-%D7%91%D7%96%D7%A8%D7%95%D7%A2-%D7%94%D7%99%D7%91%D7%A9%D7%94/)
 28. [2](https://medium.com/@nzdefenceforce/defence-force-buying-two-new-weapons-db9599cf34d5)
-29. [3](http://www.landro.no/content/download/12523/2565993/version/1/file/Vi), Presis og potent, Vi Menn, 2015
+29. [3](http://www.landro.no/content/download/12523/2565993/version/1/file/Vi) , Presis og potent, Vi Menn, 2015
 30. [\> U.S. DEPARTMENT OF DEFENSE \> Contract View](https://dod.defense.gov/News/Contracts/Contract-View/Article/1782108/)

@@ -1,3 +1,6 @@
+> 本文内容由[LAST HOPE](https://zh.wikipedia.org/wiki/LAST_HOPE)转换而来。
+
+
 ，為日本[富士電視台](../Page/富士電視台.md "wikilink")自2013年1月15日起播出的週二晚間九點檔（[火九](https://zh.wikipedia.org/wiki/火九 "wikilink")）。由[相葉雅紀主演](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")。
 宣傳標語為「**不會讓任何一人死亡**」（）。
 

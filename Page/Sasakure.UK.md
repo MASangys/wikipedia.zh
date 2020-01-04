@@ -1,3 +1,6 @@
+> 本文内容由[Sasakure.UK](https://zh.wikipedia.org/wiki/Sasakure.UK)转换而来。
+
+
 **sasakure.UK**（2月11日 - ）是[日本](../Page/日本.md "wikilink")的[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。又被稱作**ささくれP**。
 
 作品世界觀以「[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")」和「[寓言](../Page/寓言.md "wikilink")」作為基底，加以 [Chiptune](https://zh.wikipedia.org/wiki/晶片音樂 "wikilink") 風格的音樂，音樂影片中的自製[像素畫](https://zh.wikipedia.org/wiki/像素畫 "wikilink") Dot 動畫和美術設計也是 sasakure.UK 的特色之一。\[1\]
@@ -235,41 +238,24 @@ sasakure.UK 表示創作音樂的時候通常是與影像、影片同步創作�
 [Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink") [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:福島縣出身人物](https://zh.wikipedia.org/wiki/Category:福島縣出身人物 "wikilink")
 
 1.
-
 2.  [Hatsune Miku Channel - YouTube - 【初音ミク】 Special Interview with sasakure.UK 【Hatsune Miku】](http://www.youtube.com/watch?v=l7JSMjDtRhk)
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
 22.

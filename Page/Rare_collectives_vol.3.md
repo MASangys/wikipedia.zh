@@ -1,3 +1,6 @@
+> 本文内容由[Rare collectives vol.3](https://zh.wikipedia.org/wiki/Rare_collectives_vol.3)转换而来。
+
+
 GLAY的第3張[B-side](https://zh.wikipedia.org/wiki/B-side "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，普通盤在台灣有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
 
 ## 簡介

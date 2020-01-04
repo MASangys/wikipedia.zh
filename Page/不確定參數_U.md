@@ -1,3 +1,6 @@
+> 本文内容由[不確定參數 U](https://zh.wikipedia.org/wiki/不確定參數_U)转换而来。
+
+
 **不確定參數 U**是為了量化軌道[攝動](../Page/攝動.md "wikilink")的值，以簡明的方式解出[小行星軌道的不確定性](https://zh.wikipedia.org/wiki/小行星 "wikilink")，由[小行星中心](../Page/小行星中心.md "wikilink") (MPC) 引入的新參數\[1\]。這是範圍從0-9的一個整數；其中，0表示很小的不確定性，9是極大的不確定性\[2\]。在實務上，U的值很少會大於6\[3\]。
 
 [噴射推進實驗室小天體資料庫的瀏覽器會列出MPC的](https://zh.wikipedia.org/wiki/噴射推進實驗室小天體資料庫 "wikilink")"不確定參數 U"，作為 "條件碼"\[4\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Star Love Ration](https://zh.wikipedia.org/wiki/Star_Love_Ration)转换而来。
+
+
 《**スターラブレイション**》（Star Love Ration\[1\]）為[日本](../Page/日本.md "wikilink")搖滾樂團[ケラケラ於](https://zh.wikipedia.org/wiki/ケラケラ "wikilink")2013年5月15日發行的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說

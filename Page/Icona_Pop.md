@@ -1,3 +1,6 @@
+> 本文内容由[Icona Pop](https://zh.wikipedia.org/wiki/Icona_Pop)转换而来。
+
+
 **Icona Pop**-{zh-cn:;zh-hk:;zh-tw:（）;}-是由在[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")长大的Caroline Hjelt和Aino Jawo于2009年组成的瑞典双人女子歌唱团体，它的成立影响了[electro house](https://zh.wikipedia.org/wiki/electro_house "wikilink")、[庞克和](https://zh.wikipedia.org/wiki/庞克音乐 "wikilink")[indie pop类型的音乐风格](https://zh.wikipedia.org/wiki/indie_pop "wikilink")。在一次采访中她们说她们创作的歌曲要让你既可以笑又可以哭。
 
 同年，她們被名為TEN的音樂團體簽下，而她們最暢銷的歌曲為[Patrik Berger](https://zh.wikipedia.org/wiki/Patrik_Berger "wikilink")、[Linus Eklöw和](https://zh.wikipedia.org/wiki/Linus_Eklöw "wikilink")[Charlotte Aitchison所寫的](https://zh.wikipedia.org/wiki/Charlotte_Aitchison "wikilink")《I Love It》。

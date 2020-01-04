@@ -1,3 +1,6 @@
+> 本文内容由[Aiura](https://zh.wikipedia.org/wiki/Aiura)转换而来。
+
+
 [right](https://zh.wikipedia.org/wiki/file:Aiura.jpg "wikilink")
 
 《**Aiura**》（）為日本漫畫家[茶麻](../Page/茶麻.md "wikilink")所繪製的[四格漫畫](../Page/四格漫畫.md "wikilink")作品。動畫於2013年4月起在[東京電視台](../Page/東京電視台.md "wikilink")播放\[1\]。
@@ -410,8 +413,6 @@
 [Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

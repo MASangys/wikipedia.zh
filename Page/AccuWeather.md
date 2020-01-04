@@ -1,3 +1,6 @@
+> 本文内容由[AccuWeather](https://zh.wikipedia.org/wiki/AccuWeather)转换而来。
+
+
 {{Infobox website | name = AccuWeather | logo = | logocaption = | screenshot = | collapsible = | collapsetext = | caption = | url =  | slogan = | commercial = 是 | type = | registration = 選擇性 | language = | num_users = | content_license = | programming language = | owner = | author = | editor = | launch_date = | revenue = | alexa =  | ip = | current_status = 線上 | location = 385 Science Park Road, State College, PA }}  **AccuWeather**是[美国](../Page/美国.md "wikilink")一家媒體公司，提供商業性气象预报服务全球。AccuWeather是一个混成词，由“准确”（accurate）和“天气”（weather）所构成。
 
 这家气象公司成立于1962年，由知名[气象学](../Page/气象学.md "wikilink")教授[乔尔·迈尔斯所创](https://zh.wikipedia.org/wiki/乔尔·迈尔斯 "wikilink")，乔尔·迈尔斯毕业于[宾夕法尼亚州立大学](../Page/宾夕法尼亚州立大学.md "wikilink")的气象学[研究生](../Page/研究生.md "wikilink")。他的第一个客户是一个在宾夕法尼亚州的天然气公司。在经营公司的同时，迈尔斯也成为了宾夕法尼亚州立大学的气象学系的一员。公司于1971年被命名为“AccuWeather”。

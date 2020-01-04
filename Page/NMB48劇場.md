@@ -1,8 +1,11 @@
+> 本文内容由[NMB48劇場](https://zh.wikipedia.org/wiki/NMB48劇場)转换而来。
+
+
 [thumb](https://zh.wikipedia.org/wiki/file:YES-NAMBAbldg.JPG "wikilink") **NMB48劇場**（、*NMB48 Theater*），在[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区](https://zh.wikipedia.org/wiki/中央区_\(大阪市\) "wikilink")[難波](../Page/難波.md "wikilink")千日前是[NMB48](../Page/NMB48.md "wikilink")主要的劇場。位於[難波豪華花月](../Page/難波豪華花月.md "wikilink")的對面，YES-NAMBA大樓\[1\]的地下1樓。2011年1月1日開啟。
 
 ## 概要
 
-NMB48是繼以[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・[秋葉原](../Page/秋葉原.md "wikilink")為據點的[AKB48](../Page/AKB48.md "wikilink")和[名古屋市](../Page/名古屋市.md "wikilink")為中心活動的[SKE48](../Page/SKE48.md "wikilink")由製作人[秋元康](../Page/秋元康.md "wikilink")以地區[偶像團體在](https://zh.wikipedia.org/wiki/偶像 "wikilink")2010年10月組成。組成當初沒有專用劇場,同年12月3日由[吉本興業](../Page/吉本興業.md "wikilink")年輕[藝人的據點在](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")1999年9月開啟的『[base吉本](https://zh.wikipedia.org/wiki/base吉本 "wikilink")』關閉;其舊址被改為NMB48的專用劇場並在 2011年1月1日開張。另外，吉本的年輕培養的藝人劇場則遷入本劇場大樓 YES - NAMBA 5樓“ワッハ大廳”改造為『5 up吉本』重新開放。
+NMB48是繼以[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・[秋葉原](../Page/秋葉原.md "wikilink")為據點的[AKB48](../Page/AKB48.md "wikilink")和[名古屋市](../Page/名古屋市.md "wikilink")為中心活動的[SKE48](../Page/SKE48.md "wikilink")由製作人[秋元康](../Page/秋元康.md "wikilink")以地區[偶像團體在](https://zh.wikipedia.org/wiki/偶像 "wikilink")2010年10月組成。組成當初沒有專用劇場,同年12月3日由[吉本興業](../Page/吉本興業.md "wikilink")年輕[藝人的據點在](../Page/搞笑藝人.md "wikilink")1999年9月開啟的『[base吉本](https://zh.wikipedia.org/wiki/base吉本 "wikilink")』關閉;其舊址被改為NMB48的專用劇場並在 2011年1月1日開張。另外，吉本的年輕培養的藝人劇場則遷入本劇場大樓 YES - NAMBA 5樓“ワッハ大廳”改造為『5 up吉本』重新開放。
 
 NMB48劇場管理人是金子剛。
 

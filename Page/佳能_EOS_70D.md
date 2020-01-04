@@ -1,3 +1,6 @@
+> 本文内容由[佳能 EOS 70D](https://zh.wikipedia.org/wiki/佳能_EOS_70D)转换而来。
+
+
 **佳能 EOS 70D（簡稱：70D）**是佳能於2013年7月2日發佈的一部[數位單眼相機](../Page/數位單眼相機.md "wikilink")，是[Canon EOS 60D的後續機種](https://zh.wikipedia.org/wiki/Canon_EOS_60D "wikilink")。Canon EOS 70D首度採用嵌入在感光元件上的「[雙像素 CMOS 自動對焦](../Page/Dual_Pixel.md "wikilink")」（Dual Pixel CMOS AF），可大幅提昇 Live View 與錄影時的自動對焦效率，達到 DSLR 前所未有的錄影對焦效率，比 EOS 700D / 100D 更快上 30%，並在搭配 STM 鏡頭時效果最佳，而如果搭配近年來推出的較新款鏡頭，也能有顯著的提昇效果\[1\]。
 
 ## 特色

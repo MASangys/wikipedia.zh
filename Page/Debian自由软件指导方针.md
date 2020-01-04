@@ -1,3 +1,6 @@
+> 本文内容由[Debian自由软件指导方针](https://zh.wikipedia.org/wiki/Debian自由软件指导方针)转换而来。
+
+
 **Debian自由软件指导方针**（，简称）是[Debian](../Page/Debian.md "wikilink")项目用来判断[自由软件](../Page/自由软件.md "wikilink")许可证的方针，以决定某软件是否可以包含在Debian之中。它是的一部分。
 
 ## 方针概要
@@ -78,26 +81,15 @@ debian-legal邮件列表的订户们创造了一些测试，以检查许可证�
 [Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.  [GNU's Bulletin, First Edition](http://www.gnu.org/bulletins/bull1.txt)
-
 6.  Bruce Perens: "[when I had to write license guidelines for Debian, the Four Freedoms document was unknown.](http://news.slashdot.org/comments.pl?sid=1129863&cid=26875815)"
-
 7.  Ian Jackson: [Draft new DFSG](http://lists.debian.org/debian-devel/1998/11/msg01944.html), debian-devel mailing list
-
 8.  [General Resolution: Editorial amendments to the social contract](http://www.debian.org/vote/2004/vote_003)
-
 9.  Andrew Suffield: [Re: Candidate social contract amendments (part 1: editorial) (3rd draft)](http://lists.debian.org/debian-vote/2004/01/msg00692.html), debian-vote mailing list
-
 10. Anthony Towns: [Social Contract GR's effect on Sarge](http://lists.debian.org/debian-devel/2004/04/msg01929.html), debian-devel mailing list
-
 11. [General Resolution: Sarge Release Schedule in view of GR 2004-003](http://www.debian.org/vote/2004/vote_004)
-
 12. [General Resolution: Why the GNU Free Documentation License is not suitable for Debian main](http://www.debian.org/vote/2006/vote_001)
-
 13. [The Debian Free Software FAQ](http://people.debian.org/~bap/dfsg-faq.html)

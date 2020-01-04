@@ -1,3 +1,6 @@
+> 本文内容由[Hot Limit](https://zh.wikipedia.org/wiki/Hot_Limit)转换而来。
+
+
 《**HOT LIMIT**》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在1998年6月24日发行的单曲，是自身的第八张单曲。唱片由日本索尼音乐娱乐(Epic Records Japan)代理發行。
 
 ## 概要

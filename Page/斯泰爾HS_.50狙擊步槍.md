@@ -1,3 +1,6 @@
+> 本文内容由[斯泰爾HS .50狙擊步槍](https://zh.wikipedia.org/wiki/斯泰爾HS_.50狙擊步槍)转换而来。
+
+
 [Steyr_HS_.50-right_side-other_scope.jpg](https://zh.wikipedia.org/wiki/File:Steyr_HS_.50-right_side-other_scope.jpg "fig:Steyr_HS_.50-right_side-other_scope.jpg") **斯泰爾HS .50**（Steyr HS. 50）是由[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")公司（Steyr Mannlicher）研製的一種[手動槍機](../Page/手動槍機.md "wikilink")式[反器材](../Page/反器材步槍.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
 
 ## 設計特徵
@@ -20,6 +23,7 @@
 
 [Velayat_94_Military_exercise_03_by_Mbazri.jpg](https://zh.wikipedia.org/wiki/File:Velayat_94_Military_exercise_03_by_Mbazri.jpg "fig:Velayat_94_Military_exercise_03_by_Mbazri.jpg")特種部隊狙擊手使用HS .50進行射擊\]\]
 
+  -
   -
   -   - [奧地利陸軍](../Page/奧地利聯邦軍.md "wikilink")
 
@@ -51,9 +55,9 @@
 
 ## 外部連結
 
-  - [官網](http://www.steyr-mannlicher.com/en/sportwaffen/steyr-hs-50/)
+  - [官網](https://web.archive.org/web/20090308003933/http://www.steyr-mannlicher.com/en/sportwaffen/steyr-hs-50/)
 
-[Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:12.7×99毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×99毫米槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
+[Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:12.7×99毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×99毫米槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:斯太尔武器](https://zh.wikipedia.org/wiki/Category:斯太尔武器 "wikilink")
 
 1.  <http://www.telegraph.co.uk/news/worldnews/1542559/Iraqi-insurgents-using-Austrian-rifles-from-Iran.html>
 2.  <http://www.armamentresearch.com/iranian-am50-and-russian-orsis-t-5000-rifles-in-iraq/>

@@ -1,3 +1,6 @@
+> 本文内容由[1st Anniversary Live -3rd ATTACK 060913- at 日本武道館](https://zh.wikipedia.org/wiki/1st_Anniversary_Live_-3rd_ATTACK_060913-_at_日本武道館)转换而来。
+
+
 「*' 1st Anniversary Live -3rd ATTACK 060913- at 日本武道館*'」是[日本](../Page/日本.md "wikilink")的[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2007年1月1日推出的DVD，由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

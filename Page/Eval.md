@@ -1,3 +1,6 @@
+> 本文内容由[Eval](https://zh.wikipedia.org/wiki/Eval)转换而来。
+
+
 在一些[程序语言中](https://zh.wikipedia.org/wiki/程序语言 "wikilink")，<b style="font-family:consolas,monospace">eval</b> 是一个把字符串当作表达式执行而返回一个结果的函数；在另一些之中，它执行多行的代码就好像它们被包括在其中，而不是包括 `eval` 的这一行。`eval` 的输入不一定是字符串；在支持句法抽象的语言（如 [Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink")）中，`eval` 的输入将会由抽象句法形式组成。
 
 ## 安全风险

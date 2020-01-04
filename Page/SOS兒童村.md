@@ -1,3 +1,6 @@
+> 本文内容由[SOS兒童村](https://zh.wikipedia.org/wiki/SOS兒童村)转换而来。
+
+
 [Aldeas-sos-mdp.JPG](https://zh.wikipedia.org/wiki/File:Aldeas-sos-mdp.JPG "fig:Aldeas-sos-mdp.JPG")[馬德普拉塔的SOS兒童村](https://zh.wikipedia.org/wiki/馬德普拉塔 "wikilink")\]\]
 
 [Donsbrüggen_sos_kinderdorf_niederrhein_winter.jpg](https://zh.wikipedia.org/wiki/File:Donsbrüggen_sos_kinderdorf_niederrhein_winter.jpg "fig:Donsbrüggen_sos_kinderdorf_niederrhein_winter.jpg")SOS兒童村\]\]

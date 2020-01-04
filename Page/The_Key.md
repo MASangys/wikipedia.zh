@@ -1,3 +1,6 @@
+> 本文内容由[The Key](https://zh.wikipedia.org/wiki/The_Key)转换而来。
+
+
 《**The Key**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語音樂迷你專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2013年7月22日發行。
 
 ## 專輯簡介

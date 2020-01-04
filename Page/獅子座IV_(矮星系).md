@@ -1,3 +1,6 @@
+> 本文内容由[獅子座IV \(矮星系\)](https://zh.wikipedia.org/wiki/獅子座IV_\(矮星系\))转换而来。
+
+
 {{ Infobox Galaxy | image = [Leo_IV_dwarf_galaxy.jpeg](https://zh.wikipedia.org/wiki/File:Leo_IV_dwarf_galaxy.jpeg "fig:Leo_IV_dwarf_galaxy.jpeg") | caption = 獅子座IV是潛伏在[銀河系附近的十多個超暗淡的矮星系之一](https://zh.wikipedia.org/wiki/銀河系 "wikilink")\[1\]。 | name =獅子座IV矮星系\[2\] | epoch = [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") | type = dSph\[3\] | ra = \[4\] | dec = \[5\] | dist_ly = 520{{±|49|45}} [kly](../Page/光年.md "wikilink") (160{{±|15|14}} [kpc](../Page/秒差距.md "wikilink"))\[6\]
 \[7\] | z = | appmag_v = 15.9 ± 0.5\[8\] | size_v = 5.7′\[9\] | constellation name = [獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink") | names = Leo IV\[10\] }} **獅子座IV**是座落在[獅子座的一個](https://zh.wikipedia.org/wiki/獅子座 "wikilink")[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")，於2006年在[史隆數位巡天](../Page/史隆數位巡天.md "wikilink")的資料中被發現\[11\]。這個星系與太陽的距離大約160,000秒差距，並以130公里/秒的速度朝向太陽運行\[12\]\[13\]。它被歸類為[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink") (dSph)，意味著它是橢球的形狀，[半光度半徑大約是](../Page/有效半徑.md "wikilink")130秒差距\[14\]{{\#tag:ref|來自其它來源的資料半光度半徑大約是160秒差距\[15\]|group=note}}。
 
@@ -14,9 +17,7 @@
 [Category:矮橢球星系](https://zh.wikipedia.org/wiki/Category:矮橢球星系 "wikilink") [Category:獅子座](https://zh.wikipedia.org/wiki/Category:獅子座 "wikilink") [Category:本星系群](https://zh.wikipedia.org/wiki/Category:本星系群 "wikilink") [Category:銀河系次集團](https://zh.wikipedia.org/wiki/Category:銀河系次集團 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
@@ -26,21 +27,16 @@
 9.
 10.
 11.
-
 12.
 13.
 14.
 15.
 16.
 17.
-
 18.
 19.
-
 20.
 21.
 22.
-
 23.
-
 24.

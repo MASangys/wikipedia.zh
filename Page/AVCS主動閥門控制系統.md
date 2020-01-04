@@ -1,3 +1,6 @@
+> 本文内容由[AVCS主動閥門控制系統](https://zh.wikipedia.org/wiki/AVCS主動閥門控制系統)转换而来。
+
+
 **主動閥門控制系統**（）通常縮寫成「**AVCS**」，是2000年代由[日本](../Page/日本.md "wikilink")[富士重工業研發的](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[可變氣門正時技術](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")，可調整進、排氣閥門的開閉時間，除有助於加強馬力輸出，又可減少廢氣排放。
 
 ## 工作原理

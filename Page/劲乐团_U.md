@@ -32,6 +32,6 @@ O2Jam U与O2Jam Analog同样拥有两种游戏内货币。O2Jam U以Point取代A
 
 [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
 
-1.  [O2Jam U (O2Jam Ultimate) For iOS Devices | O2Jam U Review](http://www.joshuatly.com/o2jam-u-for-ios-iphone-ipad-ipod-review/)
+1.   O2Jam U Review |access-date=2012-07-15 |archive-url=<https://web.archive.org/web/20120712192041/http://www.joshuatly.com/o2jam-u-for-ios-iphone-ipad-ipod-review/> |archive-date=2012-07-12 |dead-url=yes }}
 2.  [O2Jam开发团队公布全新游戏截图](http://www.vavay.com/1015.html)
-3.  [O2Jam S on iOS: Review and GIVEAWAY\!](http://www.joshuatly.com/o2jam-s-review-giveaway/)
+3.

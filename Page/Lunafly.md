@@ -1,3 +1,6 @@
+> 本文内容由[Lunafly](https://zh.wikipedia.org/wiki/Lunafly)转换而来。
+
+
 **LUNAFLY**（，），[NEGANETWORK於](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")2012年9月27日推出的男子樂隊。出道時成員包括[Sam](https://zh.wikipedia.org/wiki/Sam_\(韓國歌手\) "wikilink")、[Teo](https://zh.wikipedia.org/wiki/Teo "wikilink")、[Yun](https://zh.wikipedia.org/wiki/Yun "wikilink")，[Teo退出後](https://zh.wikipedia.org/wiki/Teo "wikilink")，曾加入[Yub](https://zh.wikipedia.org/wiki/Yub "wikilink")、[Jin兩名新成員](https://zh.wikipedia.org/wiki/Jin_\(1995年出生\) "wikilink")，現任成員為[Sam](https://zh.wikipedia.org/wiki/Sam_\(韓國歌手\) "wikilink")、[Yun](https://zh.wikipedia.org/wiki/Yun "wikilink")。
 
 ## 成員資料
@@ -567,4 +570,4 @@ Teo曾表示Yun撞球打得不錯。
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.  [브룸스틱](http://www.broomstick.co.kr/board/gallery/read.html?no=25&board_no=8)
-2.  [LUNAFLY 新成員：YUB](http://kpopn.niusnews.com/=K1oaanx1)
+2.

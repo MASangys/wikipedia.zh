@@ -1,3 +1,6 @@
+> 本文内容由[Dazzling Girl](https://zh.wikipedia.org/wiki/Dazzling_Girl)转换而来。
+
+
 「**Dazzling Girl**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第5张日語[单曲](../Page/单曲.md "wikilink")。2012年10月10日由[EMI](../Page/EMI.md "wikilink")发售。
 
 ## 概要

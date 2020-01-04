@@ -1,3 +1,6 @@
+> 本文内容由[SR-2希瑟衝鋒槍](https://zh.wikipedia.org/wiki/SR-2希瑟衝鋒槍)转换而来。
+
+
 **SR-2“希瑟”**（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")全寫：，意為：特別研發2型；Veresk，意為：[帚石楠](../Page/帚石楠.md "wikilink")；，全寫：**С**пециальная **Р**азработка**-2**）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")槍械製造商（）所研製及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 其設計目的是在200公尺（218.72码，656.16英尺）以內的[近身距離作戰](../Page/近身距離作戰.md "wikilink")之時，殺傷穿著個人[防彈衣的敵人](https://zh.wikipedia.org/wiki/護甲 "wikilink")。
@@ -111,7 +114,5 @@ SR-2“希瑟”發射專用[手枪](../Page/手枪.md "wikilink")[子彈](../Pa
 [Category:冲锋枪](https://zh.wikipedia.org/wiki/Category:冲锋枪 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 
 1.
-
 2.  <http://www.pesochek.3nx.ru/viewtopic.php?t=1938>
-
 3.

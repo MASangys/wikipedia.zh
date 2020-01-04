@@ -1,3 +1,6 @@
+> 本文内容由[瑪蒂達 II](https://zh.wikipedia.org/wiki/瑪蒂達_II)转换而来。
+
+
 **瑪蒂爾達Mk.II步兵坦克（A12）**（**Infantry Tank Matilda II , A12 Matilda II Infantry Tank**）乃[英國於](https://zh.wikipedia.org/wiki/英國 "wikilink")[第二次世界大戰期間所生產之](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[步兵戰車](https://zh.wikipedia.org/wiki/步兵戰車 "wikilink")。
 
 ## 開發及設計

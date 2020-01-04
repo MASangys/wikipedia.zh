@@ -1,3 +1,6 @@
+> 本文内容由[More than Love](https://zh.wikipedia.org/wiki/More_than_Love)转换而来。
+
+
 《**More Than Love**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[麥家瑜](../Page/麥家瑜.md "wikilink")的第二張大碟，本定於2013年7月15日推出\[1\]，後順延兩日至7月17日發行。\[2\]
 
 ## 專輯簡介

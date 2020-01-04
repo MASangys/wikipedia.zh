@@ -1,3 +1,6 @@
+> 本文内容由[ONE LOVE \(GLAY专辑\)](https://zh.wikipedia.org/wiki/ONE_LOVE_\(GLAY专辑\))转换而来。
+
+
 [GLAY](../Page/GLAY.md "wikilink")的第6張原創專輯，2001年11月28日發行。
 
 ## 簡介

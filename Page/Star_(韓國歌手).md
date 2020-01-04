@@ -1,3 +1,6 @@
+> 本文内容由[Star \(韓國歌手\)](https://zh.wikipedia.org/wiki/Star_\(韓國歌手\))转换而来。
+
+
 **星**（；），本名**金高恩**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。曾是JYP創社初期藝人，2012年8月14日宣佈與韓國歌手及藝人[Haha](../Page/Haha.md "wikilink")（本名：河東勳）結婚，於同年10月註冊，並於同年11月30日舉行婚禮。2013年1月25日，宣佈已懷孕三個月。同年7月9日，[Haha](../Page/Haha.md "wikilink")於Twitter宣佈喜得一子Dream，8月28日Star於Twitter宣佈兒子的出生證明中全名登記為河Dream（)。2017年3月22日，次子Soul出生。2019年7月15日，長女Song出生。
 
 ## 經歷
@@ -45,7 +48,7 @@
 
   - 2006年：《[戀愛，不堪忍受的輕浮](https://zh.wikipedia.org/wiki/戀愛，不堪忍受的輕浮 "wikilink")》－버려야 할 것들
   - 2006年：《[伴我走天涯](https://zh.wikipedia.org/wiki/伴我走天涯 "wikilink")》－心
-  - 2009年：《[樂園](https://zh.wikipedia.org/wiki/樂園_\(電影\) "wikilink")》－보내는 마음（與Natural）
+  - 2009年：《[樂園](../Page/樂園_\(電影\).md "wikilink")》－보내는 마음（與Natural）
 
 ## 被華語歌手翻唱的歌曲
 

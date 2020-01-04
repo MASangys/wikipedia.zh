@@ -1,3 +1,6 @@
+> 本文内容由[Gummy \(歌手\)](https://zh.wikipedia.org/wiki/Gummy_\(歌手\))转换而来。
+
+
 **Gummy**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")。在2003年以首張迷你專輯《Like Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wiki/M.BOAT娛樂 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")合作推出的Solo歌手。 \[1\]\[2\]\[3\]2008年，正式轉入[YG娛樂](../Page/YG娛樂.md "wikilink")。2013年，與C-JeS 娛樂簽約。\[4\]\[5\]2018年10月8日宣布，已與演員[曹政奭](../Page/曹政奭.md "wikilink")結婚。\[6\]
 
 ## 音樂作品
@@ -335,6 +338,22 @@
 | ------------- | ----- | ------------------ |
 | 2018年5月11-13日 | 首爾站   | 梨花女子大學Samsung Hall |
 
+  - 2019 GUMMY Tour Concerts 〈This is Gummy〉
+
+| 日期            | 演唱會場次 | 舉行地點         |
+| ------------- | ----- | ------------ |
+| 2019年5月4日     | 清州站   | 清州藝術中心       |
+| 2019年5月18日    | 晉州站   | 慶尚南道文化藝術中心   |
+| 2019年5月26日    | 天安站   | 天安藝術中心       |
+| 2019年6月1日     | 蔚山站   | 蔚山KBS hall   |
+| 2019年6月8日     | 城南站   | 城南藝術中心歌劇院    |
+| 2019年6月15－16日 | 首爾站   | 奧林匹克公園奧林匹克大廳 |
+| 2019年6月22日    | 釜山站   | 釜山BEXCO禮堂    |
+| 2019年6月29日    | 大邱站   | 慶北國立大學禮堂     |
+| 2019年7月6日     | 昌原站   | 昌原KBS hall   |
+| 2019年7月13日    | 濟州站   | 濟州國際會議中心     |
+| 2019年7月20日    | 全州站   | 韓國聲音文化中心     |
+
   - Gummy其他演唱會
 
 | 日期         | 演唱會名稱                                | 舉行地點       |
@@ -400,6 +419,12 @@
 <td><ul>
 <li>第31屆金唱片獎－最佳OST獎《You Are My Everything》</li>
 <li>第26屆<a href="https://zh.wikipedia.org/wiki/首爾音樂獎" title="wikilink">首爾歌謠大賞</a>－OST賞《You Are My Everything》</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><ul>
+<li>第11屆<a href="../Page/甜瓜音樂獎.md" title="wikilink">MelOn Music Awards</a>－最佳OST獎《Remember Me》</li>
 </ul></td>
 </tr>
 </tbody>

@@ -1,3 +1,6 @@
+> 本文内容由[紙箱戰機 LBX列表](https://zh.wikipedia.org/wiki/紙箱戰機_LBX列表)转换而来。
+
+
 **紙箱戰機 LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》、《[紙箱戰機W](../Page/紙箱戰機W.md "wikilink")》及《[紙箱戰機WARS](../Page/紙箱戰機WARS.md "wikilink")》）中出現的LBX。
 
 ## 概要

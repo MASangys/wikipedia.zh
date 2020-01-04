@@ -1,3 +1,6 @@
+> 本文内容由[FreeSWITCH](https://zh.wikipedia.org/wiki/FreeSWITCH)转换而来。
+
+
 **FreeSWITCH** 是一个 [免费](https://zh.wikipedia.org/wiki/free_software "wikilink")、 [开源](https://zh.wikipedia.org/wiki/open_source_software "wikilink") 的软交换软件。 它采用 [Mozilla Public License](https://zh.wikipedia.org/wiki/Mozilla_Public_License "wikilink") (MPL)授权协议, MPL是一个 [开源的软件协议](https://zh.wikipedia.org/wiki/free_software_license "wikilink"). 它的核心库libfreeswitch可以嵌入其它系统或产品中，也可以做一个单独的应用存在。
 
 ## 历史

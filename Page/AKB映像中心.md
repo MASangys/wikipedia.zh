@@ -1,3 +1,6 @@
+> 本文内容由[AKB映像中心](https://zh.wikipedia.org/wiki/AKB映像中心)转换而来。
+
+
 《**AKB映像中心**》（，）是一個由[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")製作播放的夜間[綜藝節目](../Page/綜藝節目.md "wikilink")，於2013年4月22日至9月29日間播放，是富士電視台的深夜節目系列「SU夜」（\[1\]）的一部份。《AKB映像中心》是富士電視台自《[AKB自動車部](https://zh.wikipedia.org/wiki/AKB自動車部 "wikilink")》播畢之後首次播放的[AKB48](../Page/AKB48.md "wikilink")冠名節目，由隸屬於[HKT48](../Page/HKT48.md "wikilink")的[指原莉乃](../Page/指原莉乃.md "wikilink")擔任主持人，並由知名[插畫](https://zh.wikipedia.org/wiki/插畫家 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、本名中川雅也的[Lily Franky](https://zh.wikipedia.org/wiki/Lily_Franky "wikilink")（）擔任講評來賓，於每週日深夜12時55分（相當於週一凌晨0時55分）在以[關東地區為主的日本全國富士聯播網播放](https://zh.wikipedia.org/wiki/關東地區 "wikilink")。節目共有24集，除最後一集是加長播出的半小時特集外，其餘各集片長皆為15分鐘。
 
 ## 簡介

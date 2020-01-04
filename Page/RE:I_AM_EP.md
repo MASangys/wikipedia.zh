@@ -1,9 +1,9 @@
-《**RE:I AM
-EP**》是日本歌手[Aimer的第](https://zh.wikipedia.org/wiki/Aimer "wikilink")5张[单曲](../Page/单曲.md "wikilink")。2013年3月20日由[DefSTAR
-Records发售](../Page/DefSTAR_Records.md "wikilink")。
+> 本文内容由[RE:I AM EP](https://zh.wikipedia.org/wiki/RE:I_AM_EP)转换而来。
 
-收錄曲「RE:I AM」是OVA動畫《[機動戰士GUNDAM
-UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》的主題曲之一\[1\]。
+
+《**RE:I AM EP**》是日本歌手[Aimer](../Page/Aimer.md "wikilink")的第5张[单曲](../Page/单曲.md "wikilink")。2013年3月20日由[DefSTAR Records发售](../Page/DefSTAR_Records.md "wikilink")。
+
+收錄曲「RE:I AM」是OVA動畫《[機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》的主題曲之一\[1\]。
 
 ## 概要
 
@@ -20,7 +20,7 @@ UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》的主題曲之一\[1\]。
         作詞・作曲・編曲：[泽野弘之](../Page/泽野弘之.md "wikilink")
 2.  **星の消えた夜に** \[5:53\]
       -
-        作詞：[aimerrhythm](https://zh.wikipedia.org/wiki/Aimer "wikilink")／作曲：[飛内将大](https://zh.wikipedia.org/wiki/飛内将大 "wikilink")／編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、飛内将大
+        作詞：[aimerrhythm](../Page/Aimer.md "wikilink")／作曲：[飛内将大](https://zh.wikipedia.org/wiki/飛内将大 "wikilink")／編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、飛内将大
 3.  **今日から思い出** \[5:06\]
       -
         作詞：aimerrhythm／作曲：飛内将大／編曲：玉井健二、飛内将大
@@ -43,11 +43,8 @@ UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》的主題曲之一\[1\]。
   - 田边としの - 贝斯
   - 飯室博 - [吉他](../Page/吉他.md "wikilink")
   - 澤野弘之 - [钢琴](../Page/钢琴.md "wikilink")、编曲
-  - [和声](../Page/和聲歌手.md "wikilink") - Yuko Kawai, cAnON., Akiko
-    Shimodai, Ai Inoue, Hikaru Sen, Melo-J, yassh\!\!
-  - [DAISENSEI MUROYA
-    strings](https://zh.wikipedia.org/wiki/室屋光一郎 "wikilink") -
-    [ストリングス](https://zh.wikipedia.org/wiki/ストリングス "wikilink")
+  - [和声](../Page/和聲歌手.md "wikilink") - Yuko Kawai, cAnON., Akiko Shimodai, Ai Inoue, Hikaru Sen, Melo-J, yassh\!\!
+  - [DAISENSEI MUROYA strings](https://zh.wikipedia.org/wiki/室屋光一郎 "wikilink") - [ストリングス](https://zh.wikipedia.org/wiki/ストリングス "wikilink")
 
 ### 「星の消えた夜に」／「今日から思い出」
 
@@ -87,15 +84,15 @@ UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》的主題曲之一\[1\]。
 
 ## 发行历史
 
-| 日期            | 发售商                                                      | 规格                                                                                                      | 编号                                                                         | 备注          |
-| ------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------- |
-| 2013年3月20日    | [DefSTAR RECORDS](../Page/DefSTAR_Records.md "wikilink") | [CD](https://zh.wikipedia.org/wiki/コンパクトディスク "wikilink") + [數碼多功能影音光碟](../Page/數碼多功能影音光碟.md "wikilink") | DFCL 1985/86                                                               | 12cm, 初回限定盤 |
-| CD            | DFCL 1987                                                | 12cm, 通常盤                                                                                               |                                                                            |             |
-| DFCL 1988     | 12cm, 期間生産限定盤                                            |                                                                                                         |                                                                            |             |
-| 2013年3月26日    | [數位下载](https://zh.wikipedia.org/wiki/音楽配信 "wikilink")    | 619613640                                                                                               | [ITunes Store](https://zh.wikipedia.org/wiki/ITunes_Store "wikilink")\[2\] |             |
-| 2013年3月27日    | 21744231                                                 | [RecoChoku](../Page/RecoChoku.md "wikilink")\[3\]                                                       |                                                                            |             |
-| 4560429722250 | [mora](../Page/mora.md "wikilink")\[4\]                  |                                                                                                         |                                                                            |             |
-|               |                                                          |                                                                                                         |                                                                            |             |
+| 日期            | 发售商                                                        | 规格                                                                                                      | 编号                                                                         | 备注          |
+| ------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------- |
+| 2013年3月20日    | [DefSTAR RECORDS](../Page/DefSTAR_Records.md "wikilink")   | [CD](https://zh.wikipedia.org/wiki/コンパクトディスク "wikilink") + [數碼多功能影音光碟](../Page/數碼多功能影音光碟.md "wikilink") | DFCL 1985/86                                                               | 12cm, 初回限定盤 |
+| CD            | DFCL 1987                                                  | 12cm, 通常盤                                                                                               |                                                                            |             |
+| DFCL 1988     | 12cm, 期間生産限定盤                                              |                                                                                                         |                                                                            |             |
+| 2013年3月26日    | [數位下载](https://zh.wikipedia.org/wiki/音楽配信 "wikilink")      | 619613640                                                                                               | [ITunes Store](https://zh.wikipedia.org/wiki/ITunes_Store "wikilink")\[2\] |             |
+| 2013年3月27日    | 21744231                                                   | [RecoChoku](../Page/RecoChoku.md "wikilink")\[3\]                                                       |                                                                            |             |
+| 4560429722250 | [mora](https://zh.wikipedia.org/wiki/mora "wikilink")\[4\] |                                                                                                         |                                                                            |             |
+|               |                                                            |                                                                                                         |                                                                            |             |
 
 ## 商業搭配
 
@@ -113,24 +110,18 @@ UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》的主題曲之一\[1\]。
 
 ## 参考文献
 
-  - [フリーペーパーtower+ 2013 Mar. No.0007 Aimer
-    インタビュー](https://archive.is/20130501190957/http://tower.jp/article/interview/2013/03/10/tower007-2)
+  - [フリーペーパーtower+ 2013 Mar. No.0007 Aimer インタビュー](https://archive.is/20130501190957/http://tower.jp/article/interview/2013/03/10/tower007-2)
 
 ## 外部链接
 
   - [CDジャーナル 紹介页](http://artist.cdjournal.com/d/re-i-am-ep/4113010419)
   - [ナタリー ニュース](http://natalie.mu/music/news/82988)
   - [ナタリー ニュース](http://natalie.mu/music/news/85851)
-  - [METROPOL PV for RE: I AM /
-    Aimer](http://www.metropol.jp/works_aimer.html)
+  - [METROPOL PV for RE: I AM / Aimer](https://web.archive.org/web/20150216212420/http://www.metropol.jp/works_aimer.html)
 
 ## 脚注
 
-[Category:Aimer歌曲](https://zh.wikipedia.org/wiki/Category:Aimer歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:DefSTAR_Records歌曲](https://zh.wikipedia.org/wiki/Category:DefSTAR_Records歌曲 "wikilink")
-[Category:GUNDAM歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM歌曲 "wikilink")
-[Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")
+[Category:Aimer歌曲](https://zh.wikipedia.org/wiki/Category:Aimer歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:DefSTAR_Records歌曲](https://zh.wikipedia.org/wiki/Category:DefSTAR_Records歌曲 "wikilink") [Category:GUNDAM歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM歌曲 "wikilink") [Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")
 
 1.
 2.

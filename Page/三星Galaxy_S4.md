@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy S4](https://zh.wikipedia.org/wiki/三星Galaxy_S4)转换而来。
+
+
 **三星Galaxy S4**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2013年推出的新一代旗舰型[智能手机](../Page/智能手机.md "wikilink")\[1\]，是[Samsung Galaxy S 系列的第四代](../Page/三星Galaxy_S系列.md "wikilink")\[2\]。手機重量只有130克， 剛推出市面被譽為全球最輕5寸以上的智能[平板手機](https://zh.wikipedia.org/wiki/平板手機 "wikilink")。
 
 [三星电子于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2013年3月14日在[纽约](../Page/纽约.md "wikilink")[时代广场举办的](../Page/時報廣場.md "wikilink") Samsung Unpacked 2013 Episode 1 上正式发布\[3\]。同年4月開始於155個國家發售。
@@ -360,107 +363,56 @@
 [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
 
 1.  [三星將推 GalaxyS4 再搶 iPhone 市場](http://www.apdnews.com/news/22979.html) ，亚太日报，2013年3月15日
-
 2.  [三星 Galaxy S4 下周发布 新华网](http://news.xinhuanet.com/tech/2013-03/09/c_124436206.htm)
-
 3.  [三星全新 Galaxy S4/LTE 于 3 月 14 日面市](http://nb.zol.com.cn/358/3582441.html)
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. [三星 Galaxy S4 了无新意 被 HTC 高管批评没创新](http://www.cnsoftnews.com/static/201303/96966.html)
-
 15. [用三星 Galaxy S4 煎鸡蛋？ 开 3D 功能飙 58 度 - 巴士三星](http://samsung.tgbus.com/201305/469847.shtml)
-
 16. <http://www.mobile01.com/topicdetail.php?f=568&t=3284729&last=45966870>
-
 17. <http://www.mobile01.com/topicdetail.php?f=568&t=3479372>
-
 18. [争执六年的手机跑分作弊案了结！三星Galaxy S4用户获10美元赔偿](https://m.mydrivers.com/newsview/650160.html?ref=android-app%3A//com.google.android.googlequicksearchbox/https/www.google.com)
-
 19. [16GB版Galaxy S4可用存储空间仅8.8GB](http://news.zol.com.cn/370/3706938.html)
-
 20.
 21. [三星坦言S4實際容量僅半 「可用記憶卡擴充啊」](http://tw.news.yahoo.com/騙真大-三星坦言s4實際容量僅半-可用記憶卡擴充啊-055521585.html)
-
 22.
 23. [紓解手機儲存容量 Galaxy S4釋出新版韌體實測](http://3c.u-car.com.tw/3cdetail.asp?articleid=2931)
-
 24. [三星手机再发生爆炸 这次是 Galaxy S4](http://www.ithome.com/html/digi/48434.htm)
-
 25. [天气太热手机也受不了 Galaxy S4 无故自燃](http://www.anqu.com/xinwen_486/46237/)
-
 26. [Exploding Samsung Galaxy S4 Allegedly Starts Fire, Destroys House](http://www.huffingtonpost.com/2013/07/29/galaxy-s4-fire-explosion_n_3672346.html)
-
 27. [三星 s4 爆炸噴火焚宅 -230032312.html 三星 S4 爆炸噴火焚宅](http://hk.news.yahoo.com/)
-
 28. [Another Samsung Galaxy S4 found burned at the bottom during charging](http://axeetech.com/2013/08/13/another-samsung-galaxy-s4-found-burned-at-the-bottom-during-charging/#.UhM7WBa2BTA)
-
 29. [1](http://www.cbsnews.com/videos/ohio-woman-burned-by-samsung-galaxy-s4/)
-
 30. [Galaxy S4 手機爆炸案例，美國男子將雇律師提告三星迫其招回](http://www.techbang.com/posts/14918-samsung-s4-explosion-case-united-states-men-would-hire-lawyers-sue-samsung-compel-the-recall)
-
 31. [男子以威脅生命為由要求三星召回 Galaxy S4](http://news.sina.com.tw/article/20130924/10721460.html)
-
 32. [韓教授 S4 LTE-A 手機無衝擊爆炸　三星：使用者說謊](http://www.ettoday.net/news/20130926/274601.htm)
-
 33.
-
 34. [陸客遊台灣 %E3%80%80 三星手機突自燃 陸客遊台灣　三星 S4 突自燃](http://www.appledaily.com.tw/realtimenews/article/international/20131009/271984/)
-
 35. [Exploding phone’ sets pram on fire](http://www.oxfordmail.co.uk/news/10725415.___Exploding_phone____sets_pram_on_fire/)
-
 36. [Exploding phone' sets children's stroller on fire](http://carloz.newsvine.com/_news/2013/10/31/21265048-exploding-phone-sets-childrens-stroller-on-fire)
-
 37. [Samsung S4 is Dangerous to Life](http://throodalookingglass.com/2013/11/smart-phones-not-so-smart/)
-
 38. [Samsung Galaxy S4: ecco il primo caso di autocombustione in Italia](http://www.pianetacellulare.it/post/Samsung/29409_Samsung-Galaxy-S4-ecco-il-primo-caso-di-autocombustione-in-.php)
-
 39.
-
 40. [三星 S4 又爆炸 網友諷：Galaxy 「C4」](http://iservice.libertytimes.com.tw/liveNews/news.php?no=914138&type=%E7%A7%91%E6%8A%80&Slots=Live)
-
 41. [samsung galaxy s4 caught fire proof for samsung](http://www.youtube.com/watch?v=dc4duKuPrQ0)
-
 42.
-
 43. [2](http://tirol.orf.at/news/stories/2619962/)
-
 44. [3](http://kurier.at/chronik/oesterreich/baby-entging-handy-explosion/40.410.179)
-
 45. [ЭКСКЛЮЗИВ. В РОССИИ ЗАФИКСИРОВАН СЛУЧАЙ ВОЗГОРАНИЯ SAMSUNG GALAXY S4](http://hi-tech.mail.ru/news/misc/galaxy-s4-fire-russia.html)
-
 46. [Samsung Galaxy S4 再爆炸，原廠電也沒保障？](https://tw.tech.yahoo.com/news/samsung-galaxy-s4-再爆炸-原廠電也沒保障-040400822.html)
-
 47. [У минчанки загорелся Galaxy S4, эксперты и Samsung подозревают СВЧ-печь](http://tech.onliner.by/2013/12/13/galaxy-2)
-
 48. [Another Samsung Galaxy S4 Catches Fire VIDEO](http://www.androidorigin.com/another-samsung-galaxy-s4-catches-fire-video/#more-12649)
-
 49. [三星S4再现爆炸事件 S5也不能让人放心？](http://news.itxinwen.com/2014/0102/549823.shtml)
-
 50. [Michele Crivelli (27) explodierte in der Beiz das Handy. Bei Anruf bumm\!](http://www.blick.ch/news/schweiz/michele-crivelli-27-explodierte-in-der-beiz-das-handy-bei-anruf-bumm-id2601055.html)
-
 51. [Video: 'It was like a bomb' - dad's shock as mobile bursts into flames while driving](http://www.coventrytelegraph.net/news/coventry-news/it-like-bomb---coventry-6710452)
-
 52. [三星S4充電起火　地毯燒出一個洞](http://www.appledaily.com.tw/realtimenews/article/new/20140410/376375/)
-
 53. [Mobile phone battery explodes in Gravesend home](http://www.newsshopper.co.uk/news/11192962.Mobile_phone_battery_explodes_in_Gravesend_home/)
-
 54. [三星S4手機爆炸 澳洲15歲女生腿燒傷](http://www.ntdtv.com/xtr/b5/2017/03/21/a1316819.html)

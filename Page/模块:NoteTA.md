@@ -1,3 +1,6 @@
+> 本文内容由[模块:NoteTA](https://zh.wikipedia.org/wiki/模块:NoteTA)转换而来。
+
+
 local z = {} local WikitextLC = require( 'Module:WikitextLC' )
 
 function Tcode( args )
@@ -137,6 +140,4 @@ end
 
 return z
 
-[Category:NoteTA模板参数使用数量超过限制的页面](https://zh.wikipedia.org/wiki/Category:NoteTA模板参数使用数量超过限制的页面 "wikilink")
-[Category:NoteTA模板参数使用数量超过限制的页面](https://zh.wikipedia.org/wiki/Category:NoteTA模板参数使用数量超过限制的页面 "wikilink")
-[Category:放置于模板的noteTA](https://zh.wikipedia.org/wiki/Category:放置于模板的noteTA "wikilink")
+[Category:NoteTA模板参数使用数量超过限制的页面](https://zh.wikipedia.org/wiki/Category:NoteTA模板参数使用数量超过限制的页面 "wikilink") [Category:NoteTA模板参数使用数量超过限制的页面](https://zh.wikipedia.org/wiki/Category:NoteTA模板参数使用数量超过限制的页面 "wikilink") [Category:放置于模板的noteTA](https://zh.wikipedia.org/wiki/Category:放置于模板的noteTA "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[HTC Desire 600](https://zh.wikipedia.org/wiki/HTC_Desire_600)转换而来。
+
+
 **HTC Desire 600**是[宏達電發表預載了](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[Android](../Page/Android.md "wikilink") 4.1及[HTC Sense](../Page/HTC_Sense.md "wikilink") 5.0的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。使用了高通四核心Snapdragon 200處理器、4.5吋540x960 Super LCD2螢幕、F/2.0的大光圈800萬畫素相機、160萬畫素前置相機、HTC BoomSound™ 立體聲音響、[Beats Audio™音訊技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")，內建8GB [ROM](../Page/唯讀記憶體.md "wikilink")、1GB [RAM](https://zh.wikipedia.org/wiki/隨機存取存儲器 "wikilink")，支援[microSD最高可以擴充到](https://zh.wikipedia.org/wiki/microSD "wikilink")64GB，軟硬體是Desire系列目前最高階的一隻。除擁有HTC BlinkFeed™ 首頁外，更提供Video Highlights生活微電影能將拍攝的照片與影片自動轉輯為精華影片，內建多種主題特效與配樂及多種相片編輯功能，慢動作影片還可任意選擇片段，加以慢速播放。\[1\]\[2\]
 
 ## 詳細規格

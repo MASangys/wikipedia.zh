@@ -1,3 +1,6 @@
+> 本文内容由[DD北斗之拳](https://zh.wikipedia.org/wiki/DD北斗之拳)转换而来。
+
+
 《**DD北斗之拳**》（日語：），漫畫：加治佐修、原作：[武論尊](../Page/武論尊.md "wikilink")、[原哲夫](../Page/原哲夫.md "wikilink")畫的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。在《月刊Comic Zenon》（[德間書店](../Page/德間書店.md "wikilink")）中的創刊號——2010年12月號開始連載中。《[北斗神拳](../Page/北斗神拳.md "wikilink")》的搞笑漫畫版。「DD」是「Design Deformation」（）略稱。電視動畫共13集，每集兩小回。
 
 ## 作品解說

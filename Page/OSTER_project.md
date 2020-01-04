@@ -1,3 +1,6 @@
+> 本文内容由[OSTER project](https://zh.wikipedia.org/wiki/OSTER_project)转换而来。
+
+
 **OSTER project** 是[日本](../Page/日本.md "wikilink")的音樂團體，音樂製作人**OSTER**（1986年11月24日－）的個人企劃樂團。女性。別名義「」「OSTER "BIG BAND" project」。
 
 ## 概要
@@ -208,52 +211,30 @@ VOCALOID樂曲以外，也參與 [beatmania](https://zh.wikipedia.org/wiki/beatm
 [Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink") [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:BEMANI系列人物](https://zh.wikipedia.org/wiki/Category:BEMANI系列人物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
-
 26.
 27.
 28.

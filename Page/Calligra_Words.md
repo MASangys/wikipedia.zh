@@ -1,3 +1,6 @@
+> 本文内容由[Calligra Words](https://zh.wikipedia.org/wiki/Calligra_Words)转换而来。
+
+
 **Calligra Words**是一个[开放源代码](../Page/开放源代码.md "wikilink")的[文字处理软件](https://zh.wikipedia.org/wiki/字处理 "wikilink")，它是[Calligra Suite的一个组件](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")，由[KDE](../Page/KDE.md "wikilink")开发。
 
 ## 简介
@@ -15,8 +18,6 @@ Calligra Words使用[odf作为默认格式](https://zh.wikipedia.org/wiki/odf "w
 [Category:KOffice](https://zh.wikipedia.org/wiki/Category:KOffice "wikilink")
 
 1.
-
 2.
-
 3.
 4.

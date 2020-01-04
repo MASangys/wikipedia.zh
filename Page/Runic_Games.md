@@ -1,3 +1,6 @@
+> 本文内容由[Runic Games](https://zh.wikipedia.org/wiki/Runic_Games)转换而来。
+
+
 **Runic Games**是位于[美国](../Page/美国.md "wikilink")[西雅图的](https://zh.wikipedia.org/wiki/西雅图 "wikilink")[电子游戏开发商](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")，于2008年创立，2017年关闭；创立者包括《[Fate](https://zh.wikipedia.org/wiki/Fate "wikilink")》的创作者Travis Baldree，以创作[暗黑破坏神而知名的](https://zh.wikipedia.org/wiki/暗黑破坏神 "wikilink")[暴雪北方的联合成立者Max](https://zh.wikipedia.org/wiki/暴雪北方 "wikilink") Schaefer和Erich Schaefer，Peter Hu以及负责开发[Mythos的](https://zh.wikipedia.org/wiki/Mythos "wikilink")[旗舰工作室](../Page/旗舰工作室.md "wikilink")（Flagship Studios）西雅图团队\[1\]\[2\]。其母公司是[完美世界](https://zh.wikipedia.org/wiki/完美世界 "wikilink")\[3\]。公司于2009年发行了单机版[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")《[火炬之光](../Page/火炬之光.md "wikilink")》，随后于2012年9月20日发行续作《[火炬之光2](https://zh.wikipedia.org/wiki/火炬之光2 "wikilink")》。目前开发者并没有打算开发火炬之光的[大型多人线上游戏](https://zh.wikipedia.org/wiki/大型多人线上游戏 "wikilink")。\[4\]
 
 ## 历史
@@ -43,46 +46,26 @@ Runic Games由Travis Baldree、Max Schaefer、Erich Schaefer和Peter Hu在2008�
 [Category:2008年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2008年開業電子遊戲公司 "wikilink") [Category:2017年结业电子游戏公司](https://zh.wikipedia.org/wiki/Category:2017年结业电子游戏公司 "wikilink") [Category:完美世界](https://zh.wikipedia.org/wiki/Category:完美世界 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
-
 2.
 3.  <http://www.runicgamesfansite.com/news/3318-torchlight-xbla-press-release.html#post9794>
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16. <http://www.massively.com/2010/05/18/perfect-world-entertainment-invests-in-torchlight-mmo/>
-
 17. [Torchlight Developer Runic Games Shut Down](https://www.gamespot.com/articles/torchlight-developer-runic-games-shut-down/1100-6454668/).Gamespot.2017-11-04.\[2017-11-07\].
-
 18.
-
 19. [Steam For Mac Launch Details Revealed, SteamPowered.com](http://store.steampowered.com/news/3808/)
-
 20.
-
 21.
-
 22.
 23. ["Torchlight 2 Release Date," Torchlight II official site](http://www.torchlight2game.com/news/2012/08/31/release-date-announcement/)
-
 24. <http://www.torchlight2game.com/about>

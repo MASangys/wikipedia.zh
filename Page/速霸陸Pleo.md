@@ -1,3 +1,6 @@
+> 本文内容由[速霸陸Pleo](https://zh.wikipedia.org/wiki/速霸陸Pleo)转换而来。
+
+
 **速霸陸Pleo**（）為[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1998年推出的[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，不過該公司停止自行研發生產輕型車，故自第二代起改以[OEM生產](../Page/换牌工程.md "wikilink")（同屬[豐田汽車集團之故](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")）。直到2018年3月大發Mira停產，速霸陸Pleo也在同年3月2日停止販售。
 
 車名「Pleo」為[拉丁語的造詞](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")，意為「不但豐富，而且完全」\[1\]。衍生車型中的「Nesta」源自[英語的](https://zh.wikipedia.org/wiki/英語 "wikilink")「**ne**w **sta**r」，而「NICOT」乃[日語中](https://zh.wikipedia.org/wiki/日語 "wikilink")「ニコッと（一起微笑）」的意思。

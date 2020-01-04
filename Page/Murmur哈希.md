@@ -1,3 +1,6 @@
+> 本文内容由[Murmur哈希](https://zh.wikipedia.org/wiki/Murmur哈希)转换而来。
+
+
 **MurmurHash** 是一种非[加密](../Page/加密.md "wikilink")型[哈希函数](https://zh.wikipedia.org/wiki/哈希函数 "wikilink")，适用于一般的哈希检索操作。\[1\]\[2\]\[3\]由Austin Appleby在2008年发明，\[4\]\[5\] 并出现了多个变种，\[6\] 都已经发布到了[公有领域](../Page/公有领域.md "wikilink")(public domain)。与其它流行的哈希函数相比，对于规律性较强的key，MurmurHash的随机分布特征表现更良好。\[7\]
 
 ## 变种
@@ -56,61 +59,33 @@
 [Category:散列函数](https://zh.wikipedia.org/wiki/Category:散列函数 "wikilink")
 
 1.
-
 2.  [Chouza et al](http://laboratorios.fi.uba.ar/lsi/chouza-tesisingenieriainformatica.pdf).
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20. [MurmurHash3 in Java](http://docs.guava-libraries.googlecode.com/git/javadoc/com/google/common/hash/Hashing.html) , part of Guava
-
 21. [Derek Young in Java](http://dmy999.com/article/50/murmurhash-2-java-port) , public domain
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27. [libmemcached](http://libmemcached.org/libMemcached.html)
-
 28.
-
 29.
 30.
-
 31.

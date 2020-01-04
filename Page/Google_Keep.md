@@ -1,3 +1,6 @@
+> 本文内容由[Google Keep](https://zh.wikipedia.org/wiki/Google_Keep)转换而来。
+
+
 **Google Keep**是一款由[Google公司于](https://zh.wikipedia.org/wiki/Google公司 "wikilink")2013年3月20日发布的[互联网](../Page/互联网.md "wikilink")[笔记](../Page/笔记.md "wikilink")服务，同时拥有针对[Android](../Page/Android.md "wikilink")操作系统的移动[应用程序](../Page/应用程序.md "wikilink")和面向[桌面端的](https://zh.wikipedia.org/wiki/桌面 "wikilink")[网络应用](https://zh.wikipedia.org/wiki/网络应用 "wikilink")（基于[Google雲-{}-端硬碟](../Page/Google雲端硬碟.md "wikilink")）。\[1\]\[2\]
 
 ## 产品细节

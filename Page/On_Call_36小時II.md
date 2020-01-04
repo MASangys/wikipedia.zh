@@ -800,7 +800,7 @@
 <td><p>護士</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁茵_(香港)" title="wikilink">梁　茵</a></p></td>
 <td></td>
 <td><p>護士</p></td>
 </tr>

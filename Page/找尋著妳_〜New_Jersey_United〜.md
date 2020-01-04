@@ -1,3 +1,6 @@
+> 本文内容由[找尋著妳 〜New Jersey United〜](https://zh.wikipedia.org/wiki/找尋著妳_〜New_Jersey_United〜)转换而来。
+
+
 「**找尋著妳 〜New Jersey United〜**」（）是[化學超男子](../Page/化學超男子.md "wikilink")第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2002年5月9日發售。
 
 ## 解説

@@ -1,3 +1,6 @@
+> 本文内容由[苏联铁路SI型电力机车](https://zh.wikipedia.org/wiki/苏联铁路SI型电力机车)转换而来。
+
+
 **S<sup>I</sup>型电力机车**（）是[苏联](../Page/苏联.md "wikilink")铁路的直流[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，适用于供电制式为3千伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[意大利布朗·包维利技术机械公司](https://zh.wikipedia.org/wiki/意大利布朗·包维利技术机械公司 "wikilink")（Tecnomasio Italiano-Brown-Boweri，TIBB）设计制造。
 
 ## 发展历史

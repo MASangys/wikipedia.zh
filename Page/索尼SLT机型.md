@@ -1,3 +1,6 @@
+> 本文内容由[索尼SLT机型](https://zh.wikipedia.org/wiki/索尼SLT机型)转换而来。
+
+
 [Sony_Alpha_Mount_Camera.jpg](https://zh.wikipedia.org/wiki/File:Sony_Alpha_Mount_Camera.jpg "fig:Sony_Alpha_Mount_Camera.jpg")替代了传统的反光板，光线被分给CMOS和垂直于相機內部的相位对焦模块，使SLT相機可以全时自动对焦\]\] **半透明反光鏡**（，簡稱：**SLT**）單眼相機，是一种使用了[半透镜技术](https://zh.wikipedia.org/wiki/半透镜 "wikilink")（Translucent Mirror Technology）的照相机，目前为相机制造商[索尼](../Page/索尼.md "wikilink")專用。
 
 相比较传统[单反相机](https://zh.wikipedia.org/wiki/单反相机 "wikilink")，因为使用了半透镜，使得取景及相位检测和拍摄可以同时进行，且[反光板不須動作](https://zh.wikipedia.org/wiki/反光板 "wikilink")，可以达到更好性能，例如连拍速度。同时可以在视频拍摄时候可以[自动对焦](../Page/自动对焦.md "wikilink")，同時減少了[移焦的可能性](https://zh.wikipedia.org/wiki/移焦 "wikilink")。缺点是存在部分通光量损失，且无法使用原始光学取景器（OVF），对于一些传统用家有一定影响，但随着EVF技术的进步，显示效果也在提升。
@@ -157,19 +160,12 @@ SLT 这种具备固定式半透明反光板的数码相机类型被索尼官方�
 [Category:索尼相机](https://zh.wikipedia.org/wiki/Category:索尼相机 "wikilink") [Category:數位攝影](https://zh.wikipedia.org/wiki/Category:數位攝影 "wikilink") [Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink")
 
 1.  [世界初※1透過ミラー搭載。「スピード一眼」誕生。 ～DSLR Redefined～ 秒間10コマの高速連写や動画撮影中でも作動する高速・高精度なオートフォーカスを実現 レンズ交換式デジタル一眼カメラ“α55”など発売](http://www.sony.jp/CorporateCruise/Press/201008/10-0824/) sony.jp
-
 2.
 3.  [オートフォーカスを効かせた秒間最高約12コマの高速連写※1や60pフルHD動画撮影が可能なレンズ交換式デジタル一眼カメラ“α57”発売～世界初※2、バランスのとれた印象的な構図に仕上げる「オートポートレートフレーミング」機能を搭載～](http://www.sony.jp/CorporateCruise/Press/201203/12-0321/) sony.jp
-
 4.  [ソニー、約2,010万画素のAマウントAPS-C機「α58」を海外発表](http://dc.watch.impress.co.jp/docs/news/588589.html) — DC Watch Impress
-
 5.  [高速・高精度なAFが常に作動する独自の“Translucent Mirror Technology”が進化 有効約2430万画素のイメージセンサーによる高精細な静止画を世界最速秒間12コマで連写可能 レンズ交換式デジタル一眼カメラ“α77”など発売](http://www.sony.jp/CorporateCruise/Press/201108/11-0824B/) sony.jp
-
 6.  [ソニー、Aマウント機「α68」を海外発表](http://dc.watch.impress.co.jp/docs/news/729543.html) — DC Watch Impress
-
 7.
 8.  [世界最多の79点位相差AF＊システムを搭載し、狙った瞬間を捉える レンズ交換式デジタル一眼カメラ『α77 II』を発売 ～AFが被写体を追従し続ける高速連続撮影（最高約12コマ/秒）を実現～](http://www.sony.jp/CorporateCruise/Press/201405/14-0516C/) sony.jp
-
 9.  [2つの位相差AFセンサーを同時に使い、高性能なAFを実現する世界初「デュアルAFシステム」採用 35mmフルサイズCMOSイメージセンサー搭載 デジタル一眼カメラ“α”Aマウント最上位機種を発売 ～静止画も動画も最高画質を求める方へ～](http://www.sony.jp/CorporateCruise/Press/201209/12-0912B/) sony.jp
-
 10. [ソニー「α99 II」国内正式発表](http://dc.watch.impress.co.jp/docs/news/1022168.html) — DC Watch Impress

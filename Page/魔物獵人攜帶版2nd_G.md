@@ -1,3 +1,6 @@
+> 本文内容由[魔物獵人攜帶版2nd G](https://zh.wikipedia.org/wiki/魔物獵人攜帶版2nd_G)转换而来。
+
+
 《**魔物獵人攜帶版2nd G**》（，）是於2008年3月27日在[日本](../Page/日本.md "wikilink")發佈的一個[魔物獵人系列](../Page/魔物獵人系列.md "wikilink")遊戲，其平台為[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")。之後，此遊戲被重新製成[Playstation Vita版本](https://zh.wikipedia.org/wiki/Playstation_Vita "wikilink")，並在Playstation Store上發售。2014年5月，卡普空在[iOS平台發布了本作的移植版](https://zh.wikipedia.org/wiki/iOS "wikilink")；加強了遊戲貼圖的精细度並為觸控螢幕提供了新的操作模式。
 
 ## 概述
@@ -35,24 +38,14 @@
 [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:魔物獵人系列](https://zh.wikipedia.org/wiki/Category:魔物獵人系列 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:IOS游戏](https://zh.wikipedia.org/wiki/Category:IOS游戏 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
 
 1.
-
 2.
-
 3.  （需要登入）
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.

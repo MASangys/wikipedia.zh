@@ -1,64 +1,132 @@
-**AngularJS**是一款由[Google](../Page/Google.md "wikilink")维护的[开源](../Page/开源软件.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")函式庫，用來協助[單一頁面應用程式運行](../Page/单页应用.md "wikilink")。它的目标是透過[MVC模式](https://zh.wikipedia.org/wiki/MVC模式 "wikilink")（MVC）功能增强基于浏览器的应用，使开发和测试变得更加容易。在版本2大改（最突出的改变的全面使用**[TypeScript](../Page/TypeScript.md "wikilink")**）之后改名**Angular**，第N版以Angular N的形式命名。
+> 本文内容由[Angular](https://zh.wikipedia.org/wiki/Angular)转换而来。
 
-函式庫讀取包含附加自定義（）的[HTML](../Page/HTML.md "wikilink")，遵從這些自定義屬性中的指令，並將頁面中的輸入或輸出與由JavaScript變量表示的模型綁定起來。這些JavaScript變量的值可以手工設置，或者從靜態或動態[JSON](../Page/JSON.md "wikilink")資源中獲取。
 
-## Angular的哲學
+**Angular** (通常是指 "**Angular 2+**" 或 "**Angular v2 及更高版本**")\[1\]\[2\] 是一个基于 [TypeScript](../Page/TypeScript.md "wikilink") 的 [开源](https://zh.wikipedia.org/wiki/开源 "wikilink") [Web 应用框架](../Page/Web应用框架.md "wikilink") 由 [Google](../Page/Google.md "wikilink") 的 Angular 团队以及社区中的一些个人和公司共同领导。Angular 是由 [AngularJS](https://zh.wikipedia.org/wiki/AngularJS "wikilink") 的同一个开发团队完全重写的。
 
-[Architecture_of_an_Angular_2_application.png](https://zh.wikipedia.org/wiki/File:Architecture_of_an_Angular_2_application.png "fig:Architecture_of_an_Angular_2_application.png") Angular的理念是[声明式编程應該用於構建用戶界面以及編寫軟件構建](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")，而[指令式編程](../Page/指令式編程.md "wikilink")非常適合來表示[業務邏輯](https://zh.wikipedia.org/wiki/業務邏輯 "wikilink")。\[1\]框架採用並擴展了傳統HTML，通過雙向的數據綁定來適應動態內容，雙向的數據綁定允許模型和视图之間的自動同步。因此，Angular使得對DOM的操作不再重要並提升了可測試性。
+## Angular 和 AngularJS 之间的区别
 
-設計目標：
+[Architecture_of_an_Angular_2_application.png](https://zh.wikipedia.org/wiki/File:Architecture_of_an_Angular_2_application.png "fig:Architecture_of_an_Angular_2_application.png")
 
-  - 將應用邏輯與對[DOM的操作解耦](../Page/文档对象模型.md "wikilink")。這會提高代碼的可測試性。
-  - 將應用程序的測試看的跟應用程序的編寫一樣重要。代碼的構成方式對測試的難度有巨大的影響。
-  - 將應用程序的客戶端與伺服器端解耦。這允許客戶端和伺服器端的開發可以齊頭並進，並且讓雙方的復用成為可能。
-  - 指導開發者完成構建應用程序的整個歷程：從用戶界面的設計，到編寫業務邏輯，再到測試。
+在设计上，Angular 是 AngularJS 的完全重写。
 
-Angular遵循軟件工程的MVC模式，並鼓勵展現，數據，和邏輯組件之間的松耦合。通過[依賴注入](https://zh.wikipedia.org/wiki/依賴注入 "wikilink")（dependency injection），Angular為客戶端的Web應用帶來了傳統服務端的服務，例如獨立於视圖的控制。因此，後端減少了許多負擔，產生了更輕的Web應用。
+  - Angular 没有“作用域”或控制器的概念，其架构中的主要角色是一些层次化的组件。\[3\]
+  - Angular 具有不同的表达式语法，主要是用 `"[ ]"` 来表示[属性绑定](https://zh.wikipedia.org/wiki/Property_\(programming\) "wikilink")，以及用 `"( )"` 来表示[事件绑定](https://zh.wikipedia.org/wiki/Event_\(computing\) "wikilink")\[4\]
+  - 模块化 – 许多核心功能都已模块化
+  - Angular 建议使用 Microsoft 的 [TypeScript](../Page/TypeScript.md "wikilink") 语言，该语言引入了如下特性：
+      - [静态类型](https://zh.wikipedia.org/wiki/Static_typing "wikilink")，包括 [泛型](https://zh.wikipedia.org/wiki/Generic_programming "wikilink")
+      - [装饰器](https://zh.wikipedia.org/wiki/Decorator "wikilink")，语法上类似于[注解](https://zh.wikipedia.org/wiki/Annotation "wikilink")
+  - [TypeScript](../Page/TypeScript.md "wikilink") 是 [ECMAScript 6](https://zh.wikipedia.org/wiki/ECMAScript_6 "wikilink") (ES6) 的超集，并且与 [ECMAScript 5](https://zh.wikipedia.org/wiki/ECMAScript_5 "wikilink") (即: JavaScript) [向下兼容](../Page/向下兼容.md "wikilink")。
+  - [动态加载](https://zh.wikipedia.org/wiki/动态加载 "wikilink")
+  - 异步模板编译
+  - RxJS 提供了迭代式回调。RxJS 在状态可见性和调试方面有局限，不过可以使用诸如 ngReact 或 ngrx 之类的响应式第三方库来解决这些问题
+  - 支持 Angular Universal，它可以在服务器上运行 Angular 应用程序
 
-## Angular主要的指令（自定义标签）
+## 历史
 
-## 雙向數據綁定
+### 命名
 
-Angular在呈現和資料中間，可以簡單建立雙向的數據綁定。一旦建立雙向綁定，使用者輸入，會由Angular自動傳到一個變數中，再自動讀到所有綁到它的內容，更新它。效果上就是立即的資料同步。在程式碼中修改變數，也會直接反應到呈現的外觀上。不僅內容可以雙向綁定，其他諸如類別、寬度、高度等等，都可以和變數與使用者的輸入，綁定起來。
+最初，团队将这份 AngularJS 的重写版本称为 “Angular 2”，但这在开发人员之间引起了混乱。为了明确起见，该团队宣布应该为这两个框架分别使用各自的术语，其中 “AngularJS” 专指 1.X 版本，而不带 “JS” 的 “Angular” 则专指版本2及更高版本。\[5\]
 
-## 開發歷史
+### 版本 2
 
-AngularJS在2009年由Miško Hevery和Adam Abrons開發，作為線上[JSON](../Page/JSON.md "wikilink")儲存服務的軟體，它是以兆位元來計價，便於成為企業的應用服務。當初以"GetAngular.com"註册網域，但由於只有少量的註册用户，在兩人決定放棄這個商業想法前，就把Angular開源了。
+在2014年10月22\~23日的 ng-Europe 会议上发布了Angular 2.0。\[6\]\[7\] 2.0 版的重大变化在开发人员之间引起了很大争议。\[8\] 2015年4月30日，Angular 开发组宣布 Angular 2 从 Alpha 推进到 Developer Preview。\[9\] Angular 2 于2015年12月推进至 Beta 版，\[10\] 并于 2016年5月发布了首个 rc 版本。\[11\] 其最终版本于2016年9月14日发布。
 
-Abrons後來離開了這個計劃，但在[Google](../Page/Google.md "wikilink")工作的Hevery和一些谷歌員工如Igor Minár和Vojta Jína等則繼續開發維護此函式庫。
+### 版本 4
 
-### 发行
+2016年12月13日发布了 Angular 4，它跳过了版本号 3，以免由于路由模块的版本的未和其它模块对齐而造成混淆（路由模块在之前已经作为 v3.3.0 发布了）。\[12\] 其最终版本于2017年3月23日发布。\[13\] Angular 4 向后兼容 Angular2。\[14\]
 
-目前有兩個正在維護的穩定版本：1.3.x和1.4.x，更新频率約为每周一次或每两周一次. \[2\]
+Angular 4.3 版是次要版本，这意味着它没有破坏性变更，是 4.xx 的直接替代品。
 
-### 舊版瀏覽器支援
+版本 4.3 中的特性
 
-Angular在1.2之後的版本不再支援[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 6和7.\[3\]在1.3之後的版本停止對Internet Explorer 8的支援.\[4\]
+  - 引入了 **HttpClient**，这是一个更小、更易于使用且功能更强大的库，可用于发起 HTTP 请求。
+  - 一些新的**路由器生命周期**事件，用于追踪守卫和解析过程。生命周期事件（比如 NavigationStart）集合中加入了四个新事件：**GuardsCheckStart**, **GuardsCheckEnd**, **ResolveStart**, **ResolveEnd**。
+  - 有条件的**禁用**动画。
 
-## 和Backbone.js的比较
+### 版本 5
 
-  - REST \[5\]
+Angular 5 于2017年11月1日发布。\[15\] Angular 5 的主要改进包括对[渐进式 Web 应用的支持](https://zh.wikipedia.org/wiki/Progressive_web_app "wikilink")、一个构建优化器，以及一些与 Material Design 相关的改进。\[16\]
 
-依赖注入
+### 版本 6
 
-## 参考文献
+Angular 6 于2018年5月4日发布\[17\]。这是一个主版本，其改进重点不在于底层框架，而在于工具链，其目的是让工具链能在将来与 Angular 一起快速发展，改进点主要包括：ng update、ng add、Angular Elements、Angular Material + CDK 组件库、Angular Material 初学者组件、CLI 工作空间、库支持、服务提供商的摇树优化、动画性能改进，以及 RxJS v6。
 
-## 延伸阅读
+### 版本 7
 
-  -
+Angular 7 于2018年10月18日发布。其升级主要集中在 Angular Material & CDK、虚拟滚动、选择框在无障碍方面的改进、支持对符合 Web 标准的自定义元素进行内容投影，以及对 Typescript 3.1、RxJS 6.3、Node 10 (仍然支持 Node 8) 的依赖库更新。\[18\]
+
+### 版本 8
+
+Angular 8 于2019年5月28日发布。特性包括：为所有应用代码进行差异化加载、针对惰性加载路由的动态导入、Web workers、支持 TypeScript 3.4，并且把 Angular Ivy 作为可选的预览特性。Angular Ivy 的可选预览特性包括：\[19\]
+
+  - 生成的代码在运行时更易于阅读和调试
+  - 更快的重新构建
+  - 改进了有效载荷的大小
+  - 改进了模板类型检查
+  - 向后兼容
+
+### 未来的版本
+
+最值得期待的特性之一是 Ivy \[20\]，它是一个向后兼容的、基于增量式 DOM 架构的全新渲染引擎。Ivy 从设计之初就考虑到了[摇树优化](https://zh.wikipedia.org/wiki/tree_shaking "wikilink")，这意味着应用的发布包中只会包含那些在应用中真正用到的 Angular 部件。
+
+可以预期，每一个版本都会向后兼容前一个版本。Google 承诺每年会进行两次升级。
+
+### 支持政策与时间表
+
+所有主版本都提供了 18 个月的支持。其中包括 6 个月的活跃支持，在此期间会定期发布更新和补丁。然后是12个月的长期支持（LTS），在此期间只会发布关键修复程序和安全补丁。\[21\]
+
+| 版本     | 状态  | 发布         | 活跃期结束      | LTS 期结束    |
+| ------ | --- | ---------- | ---------- | ---------- |
+| ^8.0.0 | 活跃  | 2019-05-28 | 2019-11-28 | 2020-11-28 |
+| ^7.0.0 | LTS | 2018-10-18 | 2019-04-18 | 2020-04-18 |
+| ^6.0.0 | LTS | 2018-05-03 | 2018-11-03 | 2019-11-03 |
+
+支持的 Angular 版本
+
+## 库
+
+### Angular Material
+
+Angular Material 是一个 [UI](https://zh.wikipedia.org/wiki/User_interface "wikilink") 组件库，它在 Angular 中实现了 [Material Design](https://zh.wikipedia.org/wiki/Material_Design "wikilink")。\[22\]\[23\]\[24\]\[25\]
+
+## 另请参阅
+
+  - [AngularJS](https://zh.wikipedia.org/wiki/AngularJS "wikilink")
+  - [React (JavaScript 库)](https://zh.wikipedia.org/wiki/React.js "wikilink")
+  - [Vue.js](../Page/Vue.js.md "wikilink")
+
+## 参考资料
+
 ## 外部链接
 
-  -
-  - [在Google Groups上的AngularJS](https://groups.google.com/forum/?fromgroups#!forum/angular)
+  - [官网](https://angular.io)
+  - [已归档网站 (Angular 2)](https://v2.angular.io)
+  - [JavaScript 框架之间的比较](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
 
-  - [在Google+上的AngularJS](https://web.archive.org/web/20130703211140/https://plus.google.com/+AngularJS/posts)
-
-  - [Github上AngularJS Batarang Chrome plugin](https://github.com/angular/angularjs-batarang)
-
-[Category:JavaScript函式库](https://zh.wikipedia.org/wiki/Category:JavaScript函式库 "wikilink") [Category:Ajax](https://zh.wikipedia.org/wiki/Category:Ajax "wikilink") [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink") [Category:Google软体](https://zh.wikipedia.org/wiki/Category:Google软体 "wikilink")
+[Category:Google软件](https://zh.wikipedia.org/wiki/Category:Google软件 "wikilink") [Category:富網路應用程式框架](https://zh.wikipedia.org/wiki/Category:富網路應用程式框架 "wikilink") [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink") [Category:AJAX](https://zh.wikipedia.org/wiki/Category:AJAX "wikilink")
 
 1.
 2.
 3.
 4.
 5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.

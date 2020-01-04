@@ -1,3 +1,6 @@
+> 本文内容由[So Cool](https://zh.wikipedia.org/wiki/So_Cool)转换而来。
+
+
 《**So Cool**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")的第1张正規韓語專輯。2011年8月9日於唱片公司LOEN Entertainment發行。
 
 ## 曲目

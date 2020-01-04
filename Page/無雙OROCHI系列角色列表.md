@@ -1,3 +1,6 @@
+> 本文内容由[無雙OROCHI系列角色列表](https://zh.wikipedia.org/wiki/無雙OROCHI系列角色列表)转换而来。
+
+
 本條目記載的內容為[光榮特庫摩公司旗下的遊戲作品](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")[無雙OROCHI系列](../Page/無雙OROCHI系列.md "wikilink")的原創角色。關於在本作登場的《[真·三國無雙系列](../Page/真·三國無雙系列.md "wikilink")》角色，請見[真·三國無雙角色列表](https://zh.wikipedia.org/wiki/真·三國無雙角色列表 "wikilink")；《[戰國無雙系列](../Page/戰國無雙系列.md "wikilink")》角色，請見[戰國無雙角色列表](https://zh.wikipedia.org/wiki/戰國無雙角色列表 "wikilink")。
 
 以下記載中，登場作品和武器的括號裡的數字為第幾代作品，以及「MO」表示為《無雙OROCHI》；「再臨」為《無雙OROCHI 魔王再臨》；「Z」為《無雙OROCHI Z》；「2」為《無雙OROCHI 2》，「S」為Special（PSP），「H」為Hyper（Wii U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
@@ -1753,6 +1756,19 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/珀耳修斯.md" title="wikilink">珀耳修斯</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/阿瑞斯.md" title="wikilink">阿瑞斯</a></p></td>
 <td></td>
 <td></td>
@@ -1765,7 +1781,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/奧丁" title="wikilink">奧丁</a></p></td>
 <td></td>
 <td></td>
@@ -1778,7 +1794,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/盖亚.md" title="wikilink">盖亚</a></p></td>
 <td></td>
 <td></td>
@@ -1791,7 +1807,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/黑帝斯" title="wikilink">黑帝斯</a></p></td>
 <td></td>
 <td></td>
@@ -1804,7 +1820,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/楊戩" title="wikilink">楊戩</a></p></td>
 <td></td>
 <td></td>
@@ -1817,7 +1833,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/真田幸村" title="wikilink">真田幸村</a></p></td>
 <td><p>戰國1</p></td>
 <td></td>
@@ -1830,7 +1846,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/前田慶次" title="wikilink">前田慶次</a></p></td>
 <td></td>
 <td></td>
@@ -1843,7 +1859,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/織田信長.md" title="wikilink">織田信長</a></p></td>
 <td></td>
 <td></td>
@@ -1856,7 +1872,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/明智光秀.md" title="wikilink">明智光秀</a></p></td>
 <td></td>
 <td></td>
@@ -1869,7 +1885,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/上杉謙信.md" title="wikilink">上杉謙信</a></p></td>
 <td></td>
 <td></td>
@@ -1882,7 +1898,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/阿市.md" title="wikilink">阿市</a></p></td>
 <td></td>
 <td></td>
@@ -1895,7 +1911,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/阿國.md" title="wikilink">阿國</a></p></td>
 <td></td>
 <td></td>
@@ -1908,7 +1924,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/女忍者.md" title="wikilink">女忍者</a></p></td>
 <td></td>
 <td></td>
@@ -1921,7 +1937,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/雜賀孫市" title="wikilink">雜賀孫市</a></p></td>
 <td></td>
 <td></td>
@@ -1934,7 +1950,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/武田信玄.md" title="wikilink">武田信玄</a></p></td>
 <td></td>
 <td></td>
@@ -1947,7 +1963,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/伊達政宗.md" title="wikilink">伊達政宗</a></p></td>
 <td></td>
 <td></td>
@@ -1960,7 +1976,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/濃姬.md" title="wikilink">濃姬</a></p></td>
 <td></td>
 <td></td>
@@ -1973,7 +1989,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/服部半藏.md" title="wikilink">服部半藏</a></p></td>
 <td></td>
 <td></td>
@@ -1986,7 +2002,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/森蘭丸.md" title="wikilink">森蘭丸</a></p></td>
 <td></td>
 <td></td>
@@ -1999,7 +2015,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉</a></p></td>
 <td></td>
 <td></td>
@@ -2012,7 +2028,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/今川義元.md" title="wikilink">今川義元</a></p></td>
 <td></td>
 <td></td>
@@ -2025,7 +2041,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/本多忠勝.md" title="wikilink">本多忠勝</a></p></td>
 <td></td>
 <td></td>
@@ -2038,7 +2054,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/稻姬" title="wikilink">稻姬</a></p></td>
 <td></td>
 <td></td>
@@ -2051,7 +2067,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/德川家康.md" title="wikilink">德川家康</a></p></td>
 <td><p>戰國2</p></td>
 <td></td>
@@ -2064,7 +2080,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/石田三成.md" title="wikilink">石田三成</a></p></td>
 <td></td>
 <td></td>
@@ -2077,7 +2093,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/淺井長政.md" title="wikilink">淺井長政</a></p></td>
 <td></td>
 <td></td>
@@ -2090,7 +2106,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/島左近.md" title="wikilink">島左近</a></p></td>
 <td></td>
 <td></td>
@@ -2103,7 +2119,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/島津義弘.md" title="wikilink">島津義弘</a></p></td>
 <td></td>
 <td></td>
@@ -2116,7 +2132,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/立花誾千代.md" title="wikilink">立花誾千代</a></p></td>
 <td></td>
 <td></td>
@@ -2129,7 +2145,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/直江兼續.md" title="wikilink">直江兼續</a></p></td>
 <td></td>
 <td></td>
@@ -2142,7 +2158,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/寧寧" title="wikilink">寧寧</a></p></td>
 <td></td>
 <td></td>
@@ -2155,7 +2171,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/風魔小太郎.md" title="wikilink">風魔小太郎</a></p></td>
 <td></td>
 <td></td>
@@ -2168,7 +2184,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/宮本武藏.md" title="wikilink">宮本武藏</a></p></td>
 <td></td>
 <td></td>
@@ -2181,7 +2197,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/前田利家.md" title="wikilink">前田利家</a></p></td>
 <td></td>
 <td></td>
@@ -2194,7 +2210,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/長宗我部元親.md" title="wikilink">長宗我部元親</a></p></td>
 <td></td>
 <td></td>
@@ -2207,7 +2223,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/加西亞" title="wikilink">加西亞</a></p></td>
 <td></td>
 <td></td>
@@ -2220,7 +2236,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/佐佐木小次郎.md" title="wikilink">佐佐木小次郎</a></p></td>
 <td></td>
 <td></td>
@@ -2233,7 +2249,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/柴田勝家.md" title="wikilink">柴田勝家</a></p></td>
 <td></td>
 <td></td>
@@ -2246,7 +2262,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/石川五右衛門.md" title="wikilink">石川五右衛門</a></p></td>
 <td><p>戰國3</p></td>
 <td></td>
@@ -2259,7 +2275,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/加藤清正.md" title="wikilink">加藤清正</a></p></td>
 <td></td>
 <td></td>
@@ -2272,7 +2288,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黑田官兵衛" title="wikilink">黑田官兵衛</a></p></td>
 <td></td>
 <td></td>
@@ -2285,7 +2301,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/立花宗茂.md" title="wikilink">立花宗茂</a></p></td>
 <td></td>
 <td></td>
@@ -2298,7 +2314,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/甲斐姬.md" title="wikilink">甲斐姬</a></p></td>
 <td></td>
 <td></td>
@@ -2311,7 +2327,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/北條氏康.md" title="wikilink">北條氏康</a></p></td>
 <td></td>
 <td></td>
@@ -2324,7 +2340,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/竹中半兵衛" title="wikilink">竹中半兵衛</a></p></td>
 <td></td>
 <td></td>
@@ -2337,7 +2353,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/毛利元就.md" title="wikilink">毛利元就</a></p></td>
 <td></td>
 <td></td>
@@ -2350,7 +2366,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/綾御前" title="wikilink">綾御前</a></p></td>
 <td></td>
 <td></td>
@@ -2363,7 +2379,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/福島正則.md" title="wikilink">福島正則</a></p></td>
 <td></td>
 <td></td>
@@ -2376,7 +2392,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/藤堂高虎.md" title="wikilink">藤堂高虎</a></p></td>
 <td><p>戰國4</p></td>
 <td></td>
@@ -2389,7 +2405,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/井伊直虎.md" title="wikilink">井伊直虎</a></p></td>
 <td></td>
 <td></td>
@@ -2402,7 +2418,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/柳生宗矩.md" title="wikilink">柳生宗矩</a></p></td>
 <td></td>
 <td></td>
@@ -2415,7 +2431,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/真田信之.md" title="wikilink">真田信之</a></p></td>
 <td></td>
 <td></td>
@@ -2428,7 +2444,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/大谷吉繼.md" title="wikilink">大谷吉繼</a></p></td>
 <td></td>
 <td></td>
@@ -2441,7 +2457,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/松永久秀.md" title="wikilink">松永久秀</a></p></td>
 <td></td>
 <td></td>
@@ -2454,7 +2470,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/片倉小十郎" title="wikilink">片倉小十郎</a></p></td>
 <td></td>
 <td></td>
@@ -2467,7 +2483,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/上杉景勝.md" title="wikilink">上杉景勝</a></p></td>
 <td></td>
 <td></td>
@@ -2480,7 +2496,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/小早川隆景.md" title="wikilink">小早川隆景</a></p></td>
 <td></td>
 <td></td>
@@ -2493,7 +2509,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/小少將" title="wikilink">小少將</a></p></td>
 <td></td>
 <td></td>
@@ -2506,7 +2522,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/島津豐久.md" title="wikilink">島津豐久</a></p></td>
 <td></td>
 <td></td>
@@ -2519,7 +2535,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/jp:早川殿" title="wikilink">早川殿</a></p></td>
 <td></td>
 <td></td>
@@ -2532,7 +2548,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/井伊直政.md" title="wikilink">井伊直政</a></p></td>
 <td></td>
 <td></td>
@@ -2545,7 +2561,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/真田昌幸.md" title="wikilink">真田昌幸</a></p></td>
 <td></td>
 <td></td>
@@ -2558,7 +2574,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/淀殿.md" title="wikilink">茶茶</a></p></td>
 <td></td>
 <td></td>
@@ -2571,7 +2587,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/猿飛佐助.md" title="wikilink">佐助</a></p></td>
 <td></td>
 <td></td>
@@ -2584,7 +2600,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/武田勝賴.md" title="wikilink">武田勝賴</a></p></td>
 <td></td>
 <td></td>
@@ -2597,7 +2613,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/德川秀忠.md" title="wikilink">德川秀忠</a></p></td>
 <td></td>
 <td></td>
@@ -2610,7 +2626,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>合計人數</p></td>
 <td></td>
 <td><p>79</p></td>
@@ -2621,7 +2637,7 @@
 <td><p>136</p></td>
 <td><p>145</p></td>
 <td><p>170</p></td>
-<td></td>
+<td><p>177</p></td>
 </tr>
 </tbody>
 </table>
@@ -2748,7 +2764,7 @@
   - 武器：[雙龍劍](https://zh.wikipedia.org/wiki/龍鳳雙劍 "wikilink")（MO2 Ultimate）
   - 活躍於仙界之天兵天將。與伏羲等猛將並肩作戰，於仙界內與魔物之戰中，勞苦而功高。斬殺敵人作戰勇猛之外，週遭的將士中上位者對其有高等的評價，亦於屬下中德高望重。相反地，為了貫徹對同袍戰友純真的信念，卻缺乏了柔軟而彈性的氣節。相信玉藻前的謊言而破壞仙界的神鏡，導致受到大量妖氣而變成遠呂智。
 
-## 神諭軍（計6人）
+## 神諭軍（計9人）
 
 **[宙斯](../Page/宙斯.md "wikilink")（3代登場）**
 
@@ -2789,12 +2805,20 @@
 **[蓋亞](https://zh.wikipedia.org/wiki/蓋亞 "wikilink")（3U登場）**
 
   - 聲優：[早見沙織](../Page/早見沙織.md "wikilink")
-  - 武器：
+  - 武器：百臂巨人
+  - 奧林波斯之地母神。自遠古時代開始孕育出許多大地，最終失去了肉身。性格活潑開朗，聰穎智慧的女神，為挽救世界，引領大眾努力奮進。擁有能將刻劃於大地的記憶實體化的力量。
 
 **[黑帝斯](https://zh.wikipedia.org/wiki/黑帝斯 "wikilink")（3U登場）**
 
   - 聲優：[關智一](../Page/關智一.md "wikilink")
-  - 武器：
+  - 武器：鐮刀
+  - 支配冥府之神。宙斯之兄。性格大而化之，具包容力，不僅對神，對待人類亦和藹可親。平時多居於冥府之故，鮮少有機會與其他諸神交流，但時常關心宙斯的事。
+
+**[楊戩](https://zh.wikipedia.org/wiki/楊戩 "wikilink")（3U登場）**
+
+  - 聲優：[松原大典](../Page/松原大典.md "wikilink")
+  - 武器：三尖兩刃刀
+  - 仙界的道士。性格冷靜沉著，極具洞察力。操使尖端分為三頭的太刀·三尖兩刃刀、以及名為嘯天犬的神犬戰鬥。享有完美主義的天才之美名，事實上亦是超凡的努力家。
 
 ## 其他（計6人）
 

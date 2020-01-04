@@ -1,3 +1,6 @@
+> 本文内容由[Intense](https://zh.wikipedia.org/wiki/Intense)转换而来。
+
+
 熱情(Intense)，是[阿曼·凡·布倫的第五張個人錄音室專輯](https://zh.wikipedia.org/wiki/阿曼·凡·布倫 "wikilink")。它在2013/5/3發行。
 
 ## 阿曼·凡·布倫對於這張專輯的解釋

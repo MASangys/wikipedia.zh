@@ -1,3 +1,6 @@
+> 本文内容由[SidusHQ](https://zh.wikipedia.org/wiki/SidusHQ)转换而来。
+
+
 **SidusHQ Entertainment**（）是韓國一間[經紀公司](../Page/經紀公司.md "wikilink")，於1999年2月創立。是目前韓國比較大規模的的新音樂獨立唱片公司之一**SidusHQ**是一間製作過電視劇電影維方式把握未來的方向，進而影進領域橫跨音樂，影像與平面，是一家全新概念的綜合娛樂公司。\[1\]\[2\] \[3\] \[4\]\[5\]\[6\]\[7\]
 
 ## 所屬藝人
@@ -11,7 +14,7 @@
   - [金裕貞](../Page/金裕貞.md "wikilink")
   - [金智怜](../Page/金智怜.md "wikilink")
   - [金荷娜](../Page/金荷娜.md "wikilink")
-  - [金惠允](../Page/金惠允.md "wikilink")
+  - [金惠奫](../Page/金惠奫.md "wikilink")
   - [宋旻晶](../Page/宋旻晶.md "wikilink")
   - 연지후
   - 이가령
@@ -51,10 +54,12 @@
   - [鶴辰](../Page/鶴辰.md "wikilink")
   - 허지원
   - 玄真英
+  - [金東玄](../Page/金東玄.md "wikilink")
 
 #### 歌手
 
   - [朴俊炯](../Page/朴俊炯.md "wikilink")
+  - [Danny Ahn](https://zh.wikipedia.org/wiki/Danny_Ahn "wikilink")
   - [林瑟雍](../Page/林瑟雍.md "wikilink")
   - [2EYES](../Page/2EYES.md "wikilink")
   - 김연준
@@ -195,57 +200,31 @@
 <!-- end list -->
 
   - [鄭裕美](../Page/鄭裕美.md "wikilink")
-
   - 정은찬
-
   - [張熙軫](../Page/張熙軫.md "wikilink")
-
   - [趙相紀](../Page/趙相紀.md "wikilink")
-
   - [趙寅成](../Page/趙寅成.md "wikilink")
-
   - 조영규
-
   - [趙胤熙](../Page/趙胤熙.md "wikilink")
-
   - [趙炯基](../Page/趙炯基.md "wikilink")
-
   - [池珍熙](../Page/池珍熙.md "wikilink")
-
   - [車秀妍](../Page/車秀妍.md "wikilink")
-
   - [車太鉉](../Page/車太鉉.md "wikilink")
-
   - 최원형
-
   - [崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")
-
   - 칼윤
-
   - [河正宇](../Page/河正宇.md "wikilink")
-
   - [韓高恩](../Page/韓高恩.md "wikilink")
-
   - [韓藝瑟](../Page/韓藝瑟.md "wikilink")
-
   - [韓宥伊](../Page/韓宥伊.md "wikilink")
-
   - 한태민
-
   - 한상진
-
   - [韓載錫](../Page/韓載錫.md "wikilink")
-
   - [黃正音](https://zh.wikipedia.org/wiki/黃正音 "wikilink")
-
   - [黃晸玟](../Page/黃晸玟.md "wikilink")
-
   - [洪景仁](../Page/洪景仁.md "wikilink")
-
   - [顯祐](../Page/顯祐.md "wikilink")
-
   - LUV
-
   -
   -
   -
@@ -254,10 +233,10 @@
 
 [Category:1992年成立的公司](https://zh.wikipedia.org/wiki/Category:1992年成立的公司 "wikilink") [Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
-1.  [CUBE 與 iHQ 結盟](http://kpopn.niusnews.com/=K279q6y2)2013-09-18
+1.  [CUBE 與 iHQ 結盟](http://kpopn.niusnews.com/=K279q6y2) 2013-09-18
 2.  [Cube Entertainment Joins Forces With iHQ, Vies For \#1 Spot In K-Pop Industry](http://www.kpopstarz.com/articles/41771/20130917/cube-entertainment-ihq-join-forces.htm)2013-09-17
 3.  [비스트 소속사 큐브엔터 품은 iHQ 정훈탁의 속내는?](http://sports.chosun.com/news/ntype.htm?id=201310020100007200000140&servicedate=20131001)2013-10-01
-4.  [Cube, iHQ 與中國公司結盟](http://kpopn.niusnews.com/=K1yxdx69)2014-07-16
+4.  [Cube, iHQ 與中國公司結盟](http://kpopn.niusnews.com/=K1yxdx69) 2014-07-16
 5.  [D'Live selling iHQ](http://thebell.co.kr/free/content/ArticleView.asp?key=201711220100041070002529)2017-11-24
 6.  [金宇彬所属经纪公司IHQ将再次进行出售](http://ikr.ifeng.com/6179060/news.shtml?srctag=pc2m&back) 2017-11-24
 7.  [iHQ Cube selling separately?](http://thebell.co.kr/free/content/ArticleView.asp?key=201712120100019200001152) 2017-12-19

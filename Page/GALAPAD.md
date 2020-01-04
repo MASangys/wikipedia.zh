@@ -1,3 +1,6 @@
+> 本文内容由[GALAPAD](https://zh.wikipedia.org/wiki/GALAPAD)转换而来。
+
+
 **GALAPAD**是[影馳科技](../Page/影馳科技.md "wikilink")推出的[平板電腦](../Page/平板電腦.md "wikilink")。
 
 ## 參考鏈接

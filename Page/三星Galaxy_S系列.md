@@ -1,7 +1,7 @@
 > 本文内容由[三星Galaxy S系列](https://zh.wikipedia.org/wiki/三星Galaxy_S系列)转换而来。
 
 
-**三星Galaxy S系列**是由[三星電子](../Page/三星電子.md "wikilink")旗下的[三星Galaxy](../Page/三星Galaxy.md "wikilink")系列分拆成的[智能手机](../Page/智能手机.md "wikilink")、[平板手机](../Page/平板手机.md "wikilink")和[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。本系列和[三星Galaxy Note系列同是三星Galaxy的其下旗舰级手機系列](../Page/三星Galaxy_Note系列.md "wikilink")。
+**三星Galaxy S系列**是由[三星電子](../Page/三星電子.md "wikilink")旗下的[三星Galaxy](../Page/三星Galaxy.md "wikilink")系列分拆成的[智能手机](../Page/智能手机.md "wikilink")、[平板手机](../Page/平板手机.md "wikilink")和[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。本系列和[三星Galaxy Note系列同是三星Galaxy的旗下旗舰级手機系列](../Page/三星Galaxy_Note系列.md "wikilink")。
 
 ## 手機
 

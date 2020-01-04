@@ -1,3 +1,6 @@
+> 本文内容由[GayRadio](https://zh.wikipedia.org/wiki/GayRadio)转换而来。
+
+
 **Gay Radio Hong Kong**（簡稱GR，原網址為www.gayradio.hk），是活躍於2006至2012年間的[香港](../Page/香港.md "wikilink")[網路電台之一](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，以[廣東話製作一系列](https://zh.wikipedia.org/wiki/廣東話 "wikilink")[同志相關題材的](https://zh.wikipedia.org/wiki/同志 "wikilink")[清談](../Page/清談.md "wikilink")節目、人物專訪和[播音劇等](../Page/廣播劇.md "wikilink")。2008年增設網劇，以及英語訪談節目。2009年初[收聽率一度高達到每月](https://zh.wikipedia.org/wiki/收聽率 "wikilink")6萬人次，成為當時最受歡迎的香港同志電台。\[1\]\[2\]\[3\]
 
 ## 起點網播：2003-2004

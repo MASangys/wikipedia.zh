@@ -1,3 +1,6 @@
+> 本文内容由[Be-Music Source](https://zh.wikipedia.org/wiki/Be-Music_Source)转换而来。
+
+
 **BMS**（**Be-Music Source**）是，1998年由[日本](../Page/日本.md "wikilink")人Yaneurao和NBK所研發的檔案格式。\[1\]可用來製作音樂或在相關軟體上演奏。著作權為[公開免費](https://zh.wikipedia.org/wiki/公有領域 "wikilink")。\[2\]
 
 原指運用在音樂遊戲模擬軟體《**BM98**》之上的檔案，如今則廣泛指稱為任何可以運用在類似模擬軟體的譜面檔案，又或、類似的模擬軟體系統也可以廣泛歸類在BMS類型下方。
@@ -36,12 +39,10 @@
 [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
 7.
 8.

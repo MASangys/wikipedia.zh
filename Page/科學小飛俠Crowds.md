@@ -1,3 +1,6 @@
+> 本文内容由[科學小飛俠Crowds](https://zh.wikipedia.org/wiki/科學小飛俠Crowds)转换而来。
+
+
 《**科學小飛俠Crowds**》是[日本電視台](../Page/日本電視台.md "wikilink")於2013年7月12日至9月27日播放的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，也是科學小飛俠最新系列作。第二季放送完畢，標題為《**科學小飛俠 Crowds Insight**》\[1\]，於2015年7月5日開始放送。
 
 ## 概要

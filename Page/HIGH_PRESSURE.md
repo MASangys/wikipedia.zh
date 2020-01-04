@@ -1,3 +1,6 @@
+> 本文内容由[HIGH PRESSURE](https://zh.wikipedia.org/wiki/HIGH_PRESSURE)转换而来。
+
+
 《**HIGH PRESSURE**》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在1997年7月1日发行的单曲。是自身的第五张单曲。唱片由日本索尼音乐娱乐(Epic Records Japan)代理发行。
 
 ## 概要

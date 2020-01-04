@@ -1,3 +1,6 @@
+> 本文内容由[HP EliteBook](https://zh.wikipedia.org/wiki/HP_EliteBook)转换而来。
+
+
 **惠普 EliteBook**是[惠普公司旗下进阶型商务笔记本与移动工作站的品牌](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")，定位高于另一系列的[ProBook](https://zh.wikipedia.org/wiki/ProBook "wikilink")，于2008年8月推出。
 
 ## 特点
@@ -228,31 +231,18 @@ w — workstation 工作站</p></td>
 1.
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.

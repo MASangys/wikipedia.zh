@@ -1,3 +1,6 @@
+> 本文内容由[AMD Radeon HD 8000](https://zh.wikipedia.org/wiki/AMD_Radeon_HD_8000)转换而来。
+
+
 **AMD Radeon HD 8000**系列[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，[研發代號](https://zh.wikipedia.org/wiki/代號 "wikilink")*Sea Islands*（海島，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[佐治亞州中南部和](https://zh.wikipedia.org/wiki/佐治亞州 "wikilink")[佛羅里達州北部海面上的一群](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[島嶼](../Page/島嶼.md "wikilink")\[1\]），是[超微半導體推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")，於2013年推出，桌上型版本主要供应OEM市場。Radeon HD 8000系列中的桌上型型號基本上是上一代[Radeon HD 7000系列顯示核心](../Page/AMD_Radeon_HD_7000.md "wikilink")（代號：Southern Islands）之更名版本，仍然使用[台積電的](https://zh.wikipedia.org/wiki/台積電 "wikilink")28[納米製程](https://zh.wikipedia.org/wiki/納米 "wikilink")，支援[DirectX](../Page/DirectX.md "wikilink") 12、OpenCL 2.0以及OpenGL 4.4，部分型号还使用40奈米制程的舊顯示晶片。而行動版本的Radeon HD 8000M則是全面採用新的基於GCN架構的顯示核心，其開發代號是『Solar System』。
 
 ## 桌上型平台

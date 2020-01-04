@@ -1,3 +1,6 @@
+> 本文内容由[AKB48集團臨時總會～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48集團臨時總會～黑白分明！～)转换而来。
+
+
 **AKB48團臨時總會～黑白分明！～**（）是[AKB48](../Page/AKB48.md "wikilink")及其姊妹團體於2013年4月25日 - 28日在[日本武道館](../Page/日本武道館.md "wikilink")舉辦的演唱會。
 
 ## SKE48

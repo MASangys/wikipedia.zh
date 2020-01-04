@@ -1,3 +1,6 @@
+> 本文内容由[Fantagio](https://zh.wikipedia.org/wiki/Fantagio)转换而来。
+
+
 **Fantagio**（）是一家韓國綜合娛樂公司，事業領域包括藝人企劃、唱片製作、海外公演、電影及電視劇製作等。
 
 2008年由韓國 [Sidus HQ](https://zh.wikipedia.org/wiki/Sidus_HQ "wikilink") 投資成立，原稱「NOA娛樂」（Network Of Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「Origin」的意思\[1\]。
@@ -17,7 +20,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a><br />
-（預計2019下半年發行專輯）</p></td>
+</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -37,6 +40,7 @@
 | **女演員**                                                                                                                        |
 | 姜海林                                                                                                                            |
 | [蔡㫶華](../Page/Hello_Venus.md "wikilink")                                                                                       |
+| 秋藝珍                                                                                                                            |
 | <small>①為組合[5urprise](../Page/5urprise.md "wikilink")成員；②為組合[Surprise U成員](../Page/Surprise_U.md "wikilink")，無上標為個人演員。</small> |
 
 ### 組合
@@ -73,10 +77,6 @@
 <td><p>韓基燦<br />
 （<a href="../Page/PRODUCE_X_101.md" title="wikilink">PRODUCE X 101</a>）</p></td>
 </tr>
-<tr class="odd">
-<td><p>秋藝珍<br />
-（<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>）</p></td>
-</tr>
 </tbody>
 </table>
 
@@ -91,7 +91,7 @@
   - [丁一宇](../Page/丁一宇.md "wikilink")
   - [崔元英](../Page/崔元英.md "wikilink")
   - [河正宇](../Page/河正宇.md "wikilink")
-  - [姜澯熙](https://zh.wikipedia.org/wiki/姜澯熙 "wikilink")（現[SF9成員澯熙](https://zh.wikipedia.org/wiki/SF9 "wikilink")）
+  - [姜澯熙](../Page/姜澯熙.md "wikilink")（現[SF9](../Page/SF9.md "wikilink")成員澯熙）
   - 姜信澈
   - [金多炫](../Page/金多炫.md "wikilink")
   - [金聖洙](../Page/金聖洙.md "wikilink")

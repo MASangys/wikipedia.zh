@@ -117,8 +117,6 @@ M+的建造分為兩個階段，地盤總面積為37,500平方米。   首階段
   - [博物館小組就核心文化藝術設施提出的建議](http://www.wkcda.hk/filemanager/en/share/doc/report/4_ccreport-chapter5_chi.pdf)
   - [西九應交代採購藏品政策](http://hk.news.yahoo.com/西九應交代採購藏品政策-220557810.html) 《星島日報》 2013年3月19日
 
-{{-}}
-
 [分類:視覺藝術](https://zh.wikipedia.org/wiki/分類:視覺藝術 "wikilink") [分類:西九文化區](https://zh.wikipedia.org/wiki/分類:西九文化區 "wikilink")
 
 [Category:香港博物館](https://zh.wikipedia.org/wiki/Category:香港博物館 "wikilink") [Category:香港美术馆](https://zh.wikipedia.org/wiki/Category:香港美术馆 "wikilink")

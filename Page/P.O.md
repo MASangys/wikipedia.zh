@@ -1,13 +1,16 @@
+> 本文内容由[P.O](https://zh.wikipedia.org/wiki/P.O)转换而来。
+
+
 **P.O**（，），本名**表志勳**，[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，也是韓國男子組合[Block B](../Page/Block_B.md "wikilink")\[1\]的成員之一與忙內，隸屬於[KQ Entertainment](https://zh.wikipedia.org/wiki/KQ_Entertainment "wikilink")。在2011年4月15日以單曲《[Do U Wanna B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 
 ## 經歷
 
-  - 出道前參演**MBC Every1**無限Girls(造訪翰林藝術高校)
-  - 2010年**Vibe**演唱會嘉賓參與
-  - 參演**MBC Every 1 Death Camp** 24小時綜藝固定班底
-  - 擔任**SBS MTV**節目**《The Show》**固定主持
-  - 2016年曾參加**딩고 dingo《今天也 辛苦了》**
-  - 2017年曾與Block B全團員參加**딩고 뮤직 dingo music《祝福你》**
+  - 出道前參演 MBC Every1 無限Girls(造訪翰林藝術高校)
+  - 2010年 Vibe 演唱會嘉賓參與
+  - 參演 MBC Every 1《Death Camp 24小時》綜藝固定班底
+  - 擔任 SBS MTV 節目《The Show》固定主持
+  - 2016年曾參加딩고 dingo《今天也 辛苦了》
+  - 2017年曾與 Block B 全團員參加딩고 뮤직 dingo music《祝福你》
 
 ## 音樂作品
 
@@ -86,11 +89,11 @@
 
 ### 主持
 
-| 日期               | 電視台                                                 | 名稱                                                           | 備註                                                                                                                 |
-| ---------------- | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| 2017年3月13日－4月17日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [鬧怪食堂](../Page/鬧怪食堂.md "wikilink")                           | 與、[徐章煇](../Page/徐章煇.md "wikilink")、[金鍾旼](../Page/金鍾旼.md "wikilink")                                                |
-| 2017年5月16日－8月29日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") 第五季 | 第四組MC，與[正花](../Page/正花.md "wikilink")、                                                                             |
-| 2019年7月3日—至今     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [曖昧生存戰1+1](../Page/曖昧生存戰1+1.md "wikilink")                   | 與[李壽根](../Page/李壽根.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink") |
+| 日期               | 電視台                                                 | 名稱                                                           | 備註                                                                                                                     |
+| ---------------- | --------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| 2017年3月13日－4月17日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [鬧怪食堂](../Page/鬧怪食堂.md "wikilink")                           | 與[金勇萬](https://zh.wikipedia.org/wiki/金勇萬 "wikilink")、[徐章煇](../Page/徐章煇.md "wikilink")、[金鍾旼](../Page/金鍾旼.md "wikilink") |
+| 2017年5月16日－8月29日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") 第五季 | 第四組MC，與[正花](../Page/正花.md "wikilink")、                                                                                 |
+| 2019年7月3日—至今     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [曖昧生存戰1+1](../Page/曖昧生存戰1+1.md "wikilink")                   | 與[李壽根](../Page/李壽根.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")     |
 
 ### 固定綜藝
 
@@ -164,34 +167,48 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/姜食堂3" title="wikilink">姜食堂3</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年10月25日－至今</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新西遊記7" title="wikilink">新西遊記7</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ### 綜藝節目
 
-| **日期**          | **電視台**                                               | **名稱**                                                                    | **集數**  |
-| --------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- | ------- |
-| 2013年12月25日     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                          | EP127   |
-| 2016年2月15日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")                          | EP40    |
-| 2016年12月31日     | [OnStyle](../Page/OnStyle.md "wikilink")              | [Laundry Day](../Page/Laundry_Day.md "wikilink")                          | EP11    |
-| 2017年5月5日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [秘密綜藝研修院](../Page/秘密綜藝研修院.md "wikilink")                                  | 試播      |
-| 2017年10月22日     | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")           | EP135   |
-| 2017年10月28日     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [Master Key](../Page/Master_Key.md "wikilink")                            | EP3     |
-| 2018年7月20日－8月3日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [越線的傢伙們](../Page/越線的傢伙們.md "wikilink")                                    | EP13－15 |
-| 2018年10月6日、13日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [意外的Q](../Page/意外的Q.md "wikilink")                                        | EP22、23 |
-| 2018年11月17日     | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink")                   | EP33    |
-| 2018年11月27日     | [JTBC](../Page/JTBC.md "wikilink")                    | [Idol Room](../Page/Idol_Room.md "wikilink")                              | EP29    |
-| 2018年12月8日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") | EP6     |
-| 2019年1月12日      | [JTBC](../Page/JTBC.md "wikilink")                    | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                                      | EP162   |
-| 2019年1月16日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Radio Star](https://zh.wikipedia.org/wiki/Radio_Star "wikilink")         | EP600   |
-| 2019年1月31日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [俘獲芳心頻道](../Page/俘獲芳心頻道.md "wikilink")                                    | EP12    |
-| 2019年2月12日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [深夜正式演藝](../Page/深夜正式演藝.md "wikilink")                                    | EP96    |
-| 2019年2月17日      | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")                                      | EP300   |
-| 2019年3月18日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                              | EP405   |
-| 2019年3月21日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [歡樂在一起](../Page/歡樂在一起.md "wikilink")                                      | EP581   |
-| 2019年4月3日       | [JTBC](../Page/JTBC.md "wikilink")                    | [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")           | EP121   |
-| 2019年4月4日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")                     | EP117   |
-| 2019年4月7日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                   | EP280   |
+| **日期**            | **電視台**                                               | **名稱**                                                                    | **集數**    |
+| ----------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- | --------- |
+| 2013年12月25日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                          | EP127     |
+| 2016年2月15日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")                          | EP40      |
+| 2016年12月31日       | [OnStyle](../Page/OnStyle.md "wikilink")              | [Laundry Day](../Page/Laundry_Day.md "wikilink")                          | EP11      |
+| 2017年5月5日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [秘密綜藝研修院](../Page/秘密綜藝研修院.md "wikilink")                                  | 試播        |
+| 2017年10月22日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")           | EP135     |
+| 2017年10月28日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [Master Key](../Page/Master_Key.md "wikilink")                            | EP3       |
+| 2018年7月20日－8月3日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [越線的傢伙們](../Page/越線的傢伙們.md "wikilink")                                    | EP13－15   |
+| 2018年10月6日、13日    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [意外的Q](../Page/意外的Q.md "wikilink")                                        | EP22、23   |
+| 2018年11月17日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink")                   | EP33      |
+| 2018年11月27日       | [JTBC](../Page/JTBC.md "wikilink")                    | [Idol Room](../Page/Idol_Room.md "wikilink")                              | EP29      |
+| 2018年12月8日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") | EP6       |
+| 2019年1月12日        | [JTBC](../Page/JTBC.md "wikilink")                    | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                                      | EP162     |
+| 2019年1月16日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Radio Star](https://zh.wikipedia.org/wiki/Radio_Star "wikilink")         | EP600     |
+| 2019年1月31日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [俘獲芳心頻道](../Page/俘獲芳心頻道.md "wikilink")                                    | EP12      |
+| 2019年2月12日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [深夜正式演藝](../Page/深夜正式演藝.md "wikilink")                                    | EP96      |
+| 2019年2月17日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")                                      | EP300     |
+| 2019年3月18日        | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                              | EP405     |
+| 2019年3月21日        | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [歡樂在一起](../Page/歡樂在一起.md "wikilink")                                      | EP581     |
+| 2019年4月3日         | [JTBC](../Page/JTBC.md "wikilink")                    | [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")           | EP121     |
+| 2019年4月4日         | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")                     | EP117     |
+| 2019年4月7日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                   | EP280     |
+| 2019年5月8日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Radio Star](https://zh.wikipedia.org/wiki/Radio_Star "wikilink")         | EP616     |
+| 2019年10月10日       | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [歡樂在一起](../Page/歡樂在一起.md "wikilink")                                      | EP609     |
+| 2019年10月26日、11月2日 | [MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")   | [全知干預視角](../Page/全知干預視角.md "wikilink")                                    | EP75、EP76 |
+| 2019年10月27日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [我家的熊孩子](../Page/我家的熊孩子.md "wikilink")                                    | EP162     |
 
 ### 網路節目
 

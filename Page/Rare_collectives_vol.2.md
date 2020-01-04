@@ -1,3 +1,6 @@
+> 本文内容由[Rare collectives vol.2](https://zh.wikipedia.org/wiki/Rare_collectives_vol.2)转换而来。
+
+
 [GLAY](../Page/GLAY.md "wikilink")的第2張B面[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Breakout \(遊戲\)](https://zh.wikipedia.org/wiki/Breakout_\(遊戲\))转换而来。
+
+
 《**Breakout**》是一款由[雅達利](../Page/雅達利.md "wikilink")開發及發佈的[街机](../Page/街机.md "wikilink")遊戲。此遊戲是由諾蘭·布什內爾和史蒂夫·布里斯托構思\[1\]，並且是參考1972年雅達利街机遊戲《[乓](../Page/乓.md "wikilink")》創作，於1976年4月發佈\[2\]，並且已洐生了不少[打磚塊](../Page/打磚塊.md "wikilink")作品，如《[Gee Bee](https://zh.wikipedia.org/wiki/Gee_Bee "wikilink")》和《[快打磚塊](../Page/快打磚塊.md "wikilink")》。\[3\]
 
 ## 遊戲系統
@@ -17,33 +20,21 @@
 [Category:1976年电子游戏](https://zh.wikipedia.org/wiki/Category:1976年电子游戏 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:打砖块](https://zh.wikipedia.org/wiki/Category:打砖块 "wikilink") [Category:雅达利2600游戏](https://zh.wikipedia.org/wiki/Category:雅达利2600游戏 "wikilink") [Category:Game_Boy_Color游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy_Color游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:雅达利游戏](https://zh.wikipedia.org/wiki/Category:雅达利游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.  [*Letters – General Questions Answered*](https://web.archive.org/web/20110612071502/http://www.woz.org/letters/general/91.html), Woz.org
-
 9.  [Wozniak, Steven](https://zh.wikipedia.org/wiki/Steve_Wozniak "wikilink"): "[iWoz](https://zh.wikipedia.org/wiki/iWoz "wikilink")", a: pages 147–148, b: page 180. [W. W. Norton](https://zh.wikipedia.org/wiki/W._W._Norton "wikilink"), 2006. ISBN 978-0-393-06143-7
-
 10. Kent, Steven: *The Ultimate History of Video Games*, pages 71–73. Three Rivers Press, 2001. ISBN 0-7615-3643-4.
-
 11. [Player 2 Stage 1: The Coin Eaters](http://www.thedoteaters.com/p2_stage1.php)
-
 12. [Arcade History: Breakout](http://www.arcade-history.com/?n=breakout&page=detail&id=3397)
-
 13. [Classic Gaming: A Complete History of Breakout](http://classicgaming.gamespy.com/View.php?view=Articles.Detail&id=395)
-
 14.
 15.
 16.
 17.
 18. [Phosphor-Dot Fossils: Breakout](https://web.archive.org/web/20071017131038/http://www.thelogbook.com/phosphor/1970s/o.htm)
-
 19. [Gamasutra.com Features - Woz Was Here - Steve Wozniak On His Gaming Past](http://www.gamasutra.com/view/feature/1460/woz_was_here__steve_wozniak_on_.php)

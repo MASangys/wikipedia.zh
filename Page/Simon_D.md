@@ -1,6 +1,9 @@
+> 本文内容由[Simon D](https://zh.wikipedia.org/wiki/Simon_D)转换而来。
+
+
 **Simon D**（，），本名**鄭基石**，[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，也是韓國男子組合[Supreme Team的成員之](https://zh.wikipedia.org/wiki/Supreme_Team "wikilink")，曾隸屬於Amoeba Culture。在2009年7月14日以迷你專輯《Supreme Team Guide To Excellent Adventure》正式出道。
 
-AOMG是2013年由朴載範創立的獨立音樂公司與製作團隊；2014年 Simon D 加入，以共同代表的身分合作，旗下藝人包括 Loco, Gray, ELO, Hoody, Ugly Duck, DJ Pumkin,禹元材,Code Kunst,朴載範的 B-Boy 團體 AOM 等；2018年7月25日，Simon D 在Youtube發佈《Me No Jay Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
+AOMG是2013年由朴載範創立的獨立音樂公司與製作團隊；2014年 Simon D 加入，以共同代表的身分合作，旗下藝人包括 [Loco](../Page/Loco.md "wikilink"), [Gray](https://zh.wikipedia.org/wiki/Gray "wikilink"), [ELO](https://zh.wikipedia.org/wiki/ELO "wikilink"), [Hoody](../Page/Hoody.md "wikilink"), [Ugly Duck](https://zh.wikipedia.org/wiki/Ugly_Duck "wikilink"), [DJ Pumkin](https://zh.wikipedia.org/wiki/DJ_Pumkin "wikilink"),[禹元材](../Page/禹元材.md "wikilink"),[Code Kunst](https://zh.wikipedia.org/wiki/Code_Kunst "wikilink"),[朴載範](../Page/朴載範.md "wikilink")的 B-Boy 團體 AOM 等；2018年7月25日，Simon D 在Youtube發佈《Me No Jay Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
 
 ## 音樂作品
 
@@ -441,7 +444,7 @@ AOMG是2013年由朴載範創立的獨立音樂公司與製作團隊；2014年 S
 </tr>
 <tr class="even">
 <td><p>Always On My Grind</p></td>
-<td></td>
+<td><p><a href="../Page/AOMG.md" title="wikilink">AOMG</a></p></td>
 <td><p>Follow The Movement Tour</p></td>
 <td></td>
 </tr>

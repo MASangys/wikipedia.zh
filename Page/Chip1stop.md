@@ -1,3 +1,6 @@
+> 本文内容由[Chip1stop](https://zh.wikipedia.org/wiki/Chip1stop)转换而来。
+
+
 **chip1stop（Chip One Stop, Inc.）**\[1\]，公司本部在[日本](../Page/日本.md "wikilink")[神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")[横滨市](../Page/横滨市.md "wikilink")，是[艾睿電子（Arrow Electronics）](https://zh.wikipedia.org/wiki/艾睿電子（Arrow_Electronics） "wikilink")\[2\]的附属公司, [半导体](../Page/半导体.md "wikilink")和电子元器件的[代理](../Page/代理.md "wikilink")、小批量在线分销商。 \[3\]
 
 ## 历史

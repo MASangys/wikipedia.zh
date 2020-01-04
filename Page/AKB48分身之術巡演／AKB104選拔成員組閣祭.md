@@ -1,3 +1,6 @@
+> 本文内容由[AKB48分身之術巡演／AKB104選拔成員組閣祭](https://zh.wikipedia.org/wiki/AKB48分身之術巡演／AKB104選拔成員組閣祭)转换而来。
+
+
 **AKB48分身之術巡演／AKB104選拔成員組閣祭**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2009年8月11日至8月23日於[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")[難波Hatch](https://zh.wikipedia.org/wiki/難波Hatch "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")及[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")舉行的全國巡迴演唱會\[1\]\[2\]\[3\]。
 
 組閣祭的第3場公演於2009年10月31日於[WOWOW](../Page/WOWOW.md "wikilink")獨家播放\[4\]。
@@ -446,86 +449,50 @@
 [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
 27.
-
 28.
 29.
-
 30.
 31.
-
 32.
 33.
-
 34.
-
 35.
-
 36.
-
 37.
 38.
-
 39.
-
 40.
 41.
 42.
 43.
 44. [DVD介紹頁面](http://www.akb48-dvdcatalog.com/sokaku09/)
-
 45.
-
 46.
-
 47. DVD幕後花絮內容
-
 48.

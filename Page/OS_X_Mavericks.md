@@ -1,6 +1,9 @@
+> 本文内容由[OS X Mavericks](https://zh.wikipedia.org/wiki/OS_X_Mavericks)转换而来。
+
+
 **OS X Mavericks**（10.9版本）\[1\]是[蘋果公司為個人電腦和](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[作業系統開發的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[OS X的第](https://zh.wikipedia.org/wiki/OS_X "wikilink")10個[版本](../Page/軟件版本號.md "wikilink")，供所有[麥金塔電腦使用](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")。蘋果公司於2013年6月10日的[蘋果公司全球軟體開發者年會上發布OS](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會 "wikilink") X Mavericks\[2\]，並於2013年10月22日起讓全球用戶透過Mac App Store免費下載\[3\]。
 
-這個版本的作業系統非常著重產品電池的續航能力，Finder的增強功能，其他功能包括延續[iCloud的整合](https://zh.wikipedia.org/wiki/iCloud "wikilink")，以及為用戶把更多[iOS的應用程序帶到OS](https://zh.wikipedia.org/wiki/iOS "wikilink") X平台。Mavericks從名字起便標誌著改變，蘋果公司不再依循以往慣例以[大型貓科動物來為其OS](https://zh.wikipedia.org/wiki/貓科動物 "wikilink") X作業系統命名，改以採用[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州的地方名稱來命名](https://zh.wikipedia.org/wiki/加州 "wikilink")\[4\]。根據新的命名方向，現時的作業系統名稱Mavericks，是來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州的一個衝浪地點](https://zh.wikipedia.org/wiki/加州 "wikilink")\[5\]\[6\]。
+這個版本的作業系統非常著重產品電池的續航能力，Finder的增強功能，其他功能包括延續[iCloud的整合](https://zh.wikipedia.org/wiki/iCloud "wikilink")，以及為用戶把更多[iOS的應用程序帶到OS](https://zh.wikipedia.org/wiki/iOS "wikilink") X平台。Mavericks從名字起便標誌著改變，蘋果公司不再依循以往以[大型貓科動物來為其OS](https://zh.wikipedia.org/wiki/貓科動物 "wikilink") X作業系統命名之慣例，改以採用[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州的地理景觀名稱來命名](https://zh.wikipedia.org/wiki/加州 "wikilink")\[4\]。根據新的命名方向，現時的作業系統名稱Mavericks，是來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州的一個衝浪地點](https://zh.wikipedia.org/wiki/加州 "wikilink")\[5\]\[6\]。
 
 ## 歷史
 
@@ -158,94 +161,49 @@ OS X Mavericks的版本10.9.2之前可能無法驗證[安全套接層或傳輸�
 [Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink") [Category:MacOS](https://zh.wikipedia.org/wiki/Category:MacOS "wikilink") [Category:苹果操作系统](https://zh.wikipedia.org/wiki/Category:苹果操作系统 "wikilink")
 
 1.
-
 2.
 3.  [Apple OS X Mavericks 将于今日开放免费下载！你没看错，是「免费」](http://cn.engadget.com/2013/10/22/apple-os-x-mavericks-available-today-for-free/) - [Engadget中国版](http://cn.engadget.com)
-
 4.  \[ 2013年6月10日的[蘋果公司全球軟體開發者年會](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會 "wikilink")
-
 5.  \[ 2013年6月10日的[蘋果公司全球軟體開發者年會](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會 "wikilink")
-
 6.  [蘋果公司設於加州總部對OS X有一個新的命名方案](http://techcrunch.com/2013/06/10/os-x-mavericks/)
-
 7.  [1](http://www.theverge.com/2013/10/22/4865858/os-x-10-9-mavericks-release-date-price)
-
 8.  [2](http://finance.yahoo.com/news/apple-kicks-off-event-expected-173557504.html)
-
 9.  [3](http://www.apple.com/osx/)
-
 10. [4](http://www.apple.com/osx/)
-
 11. [5](http://www.apple.com/osx/)
-
 12. [6](http://www.apple.com/osx/)
-
 13. [7](http://www.apple.com/osx/)
-
 14. [8](http://appleinsider.com/articles/13/06/10/maps-ibooks-icloud-keychain-coming-to-os-x-mavericks)
-
 15. [9](http://www.apple.com/osx/)
-
 16. [10](http://www.apple.com/osx/)
-
 17. [11](http://www.apple.com/osx/)
-
 18. [12](http://www.apple.com/osx/)
-
 19. [13](http://www.theverge.com/2013/6/25/4461480/os-x-10-9-mavericks-preview-faster-smarter-and-leather-free)
-
 20. [14](http://www.cultofmac.com/231285/os-x-mavericks-screenshot-gallery/)
-
 21.
-
 22. [15](http://images.apple.com/media/us/osx/2013/docs/OSX_Mavericks_Core_Technology_Overview.pdf)
-
 23.
-
 24. [16](http://images.apple.com/media/us/osx/2013/docs/OSX_Mavericks_Core_Technology_Overview.pdf)
-
 25.
-
 26. [17](http://images.apple.com/media/us/osx/2013/docs/OSX_Mavericks_Core_Technology_Overview.pdf)
-
 27. [18](http://appleinsider.com/articles/13/06/12/compressed-memory-in-os-x-109-mavericks-aims-to-free-ram-extend-battery-life)
-
 28. [19](http://images.apple.com/media/us/osx/2013/docs/OSX_Mavericks_Core_Technology_Overview.pdf)
-
 29. [20](http://www.idownloadblog.com/2013/06/10/os-x-mavericks-has-native-linkedin-sharing-but-what-about-ios-7/)
-
 30. [21](http://support.apple.com/kb/HT5847)
-
 31. [22](http://support.apple.com/kb/PH12117?viewlocale=en_US&locale=en_US)
-
 32. [23](http://www.zdnet.com/a-eulogy-for-the-macs-open-transport-api-7000023131/)
-
 33. [24](http://www.macworld.com/article/2058298/why-mavericks-movies-may-not-preview-properly.html/)
-
 34. [25](http://www.zdnet.com/western-digital-warns-customers-os-x-mavericks-may-destroy-drive-data-7000022800/)
-
 35. [26](http://www.tuaw.com/2013/11/27/western-digital-smartware-software-update-addresses-bug/)
-
 36. [27](http://nakedsecurity.sophos.com/2014/02/24/anatomy-of-a-goto-fail-apples-ssl-bug-explained-plus-an-unofficial-patch/)
-
 37. [28](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-1266)
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.

@@ -1,3 +1,6 @@
+> 本文内容由[Ye型电动列车](https://zh.wikipedia.org/wiki/Ye型电动列车)转换而来。
+
+
 **Ye型电动列车**（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：Вагоны метро типа «Е» ）是[莫斯科地铁](../Page/莫斯科地铁.md "wikilink")、[圣彼得堡地铁](../Page/圣彼得堡地铁.md "wikilink")、[第比利斯地铁](../Page/第比利斯地铁.md "wikilink")、[基辅地铁和](https://zh.wikipedia.org/wiki/基辅地铁 "wikilink")[巴库地铁的](https://zh.wikipedia.org/wiki/巴库地铁 "wikilink")[电力动车组车款之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，现在已经停止使用。
 
 ## 简介

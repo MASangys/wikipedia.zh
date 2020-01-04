@@ -1,3 +1,6 @@
+> 本文内容由[PocketBook](https://zh.wikipedia.org/wiki/PocketBook)转换而来。
+
+
 **PocketBook是一家跨国公司，它以[电子墨水技术](https://zh.wikipedia.org/wiki/电子墨水 "wikilink")（电子纸技术）为基础，PocketBook做品牌，生产[电子书阅读器](https://zh.wikipedia.org/wiki/电子书阅读器 "wikilink")。**
 
 **该公司成立于2007年，公司总部位于瑞士卢加诺。PocketBook是全球第四大电子阅读器**\[1\]**制造商。**

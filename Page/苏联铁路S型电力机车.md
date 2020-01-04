@@ -1,3 +1,6 @@
+> 本文内容由[苏联铁路S型电力机车](https://zh.wikipedia.org/wiki/苏联铁路S型电力机车)转换而来。
+
+
 **S型电力机车**（）是[苏联](../Page/苏联.md "wikilink")铁路第一种直流[电力机车](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，适用于供电制式为3千伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[美国](../Page/美国.md "wikilink")[通用电气公司设计制造](https://zh.wikipedia.org/wiki/通用电气公司 "wikilink")。
 
 ## 发展历史

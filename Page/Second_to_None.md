@@ -1,3 +1,6 @@
+> 本文内容由[Second to None](https://zh.wikipedia.org/wiki/Second_to_None)转换而来。
+
+
 《**Second to None**》（化學2勢力）是日本組合[化學超男子](../Page/化學超男子.md "wikilink")於2003年1月8日發行的第二張專輯。
 
 ## 解說

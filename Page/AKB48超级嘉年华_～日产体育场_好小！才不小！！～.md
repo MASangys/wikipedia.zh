@@ -1,3 +1,6 @@
+> 本文内容由[AKB48超级嘉年华 ～日产体育场 好小！才不小！！～](https://zh.wikipedia.org/wiki/AKB48超级嘉年华_～日产体育场_好小！才不小！！～)转换而来。
+
+
 **AKB48超级嘉年华 ～日产体育场 好小！才不小！！～**（）是[AKB48](../Page/AKB48.md "wikilink")及其姊姊團體於2013年6月8日在[日产体育场舉辦的活动](https://zh.wikipedia.org/wiki/横滨国际综合竞技场 "wikilink")\[1\]。其中第一部分是演唱会，第二部分是[總選舉的开票仪式](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")。
 
 ## 概要

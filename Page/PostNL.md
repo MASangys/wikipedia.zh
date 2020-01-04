@@ -1,7 +1,7 @@
 > 本文内容由[PostNL](https://zh.wikipedia.org/wiki/PostNL)转换而来。
 
 
-[_Brievenbussen_Post-NL.jpg](https://zh.wikipedia.org/wiki/File:_Brievenbussen_Post-NL.jpg "fig:_Brievenbussen_Post-NL.jpg") 皇家**荷兰邮政** Koninklijke **PostNL**\[1\] 是在[荷兰](../Page/荷兰.md "wikilink")，[比利时](../Page/比利时.md "wikilink")，[卢森堡](../Page/卢森堡.md "wikilink")， [德国](../Page/德国.md "wikilink")，[意大利](../Page/意大利.md "wikilink")和[英国运营的](https://zh.wikipedia.org/wiki/英国 "wikilink")[邮件](https://zh.wikipedia.org/wiki/邮件 "wikilink")，包裹和[电子商务](../Page/电子商务.md "wikilink")公司。该公司是阿姆斯特丹[泛欧交易所公开上市的上市公司](https://zh.wikipedia.org/wiki/泛欧交易所 "wikilink")。\[2\]\[3\] 之前是[TNT N.V.的子公司](https://zh.wikipedia.org/wiki/TNT_N.V. "wikilink")，荷兰邮政在TNT's 拆分（2011年5月）后成为独立公司.
+[_Brievenbussen_Post-NL.jpg](https://zh.wikipedia.org/wiki/File:_Brievenbussen_Post-NL.jpg "fig:_Brievenbussen_Post-NL.jpg") 皇家**荷兰邮政** Koninklijke **PostNL**\[1\] 是在[荷兰](../Page/荷兰.md "wikilink")，[比利时](../Page/比利时.md "wikilink")，[卢森堡](../Page/卢森堡.md "wikilink")和[意大利](../Page/意大利.md "wikilink")运营的[邮件](https://zh.wikipedia.org/wiki/邮件 "wikilink")，包裹和[电子商务](../Page/电子商务.md "wikilink")公司。该公司是阿姆斯特丹[泛欧交易所公开上市的上市公司](https://zh.wikipedia.org/wiki/泛欧交易所 "wikilink")。\[2\]\[3\] 之前是[TNT N.V.的子公司](https://zh.wikipedia.org/wiki/TNT_N.V. "wikilink")，荷兰邮政在TNT's 拆分（2011年5月）后成为独立公司.
 
 ## 历史
 

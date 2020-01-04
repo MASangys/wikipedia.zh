@@ -1,3 +1,6 @@
+> 本文内容由[Pivot Stickfigure Animator](https://zh.wikipedia.org/wiki/Pivot_Stickfigure_Animator)转换而来。
+
+
 **Pivot Animator** （旧称Pivot Stickfigure Animator，简称**Pivot**）是一个免费的应用程序，在[Windows上](https://zh.wikipedia.org/wiki/Windows "wikilink")，这个程序能让用户制作[火柴人动画且保存为GIF来用于网页上](../Page/简笔人物画.md "wikilink")。同时也能用一些其它软件转换成视频，比如[Windows Movie Maker](../Page/Windows_Movie_Maker.md "wikilink")。
 
 ## 发展\[1\]
@@ -101,4 +104,4 @@
 [Category:动画软件](https://zh.wikipedia.org/wiki/Category:动画软件 "wikilink") [Category:绿色软件](https://zh.wikipedia.org/wiki/Category:绿色软件 "wikilink")
 
 1.
-2.  [Pivot汉化版演示](http://www.aipai.com/c9/ODY5IiIkIGgnai8g.html)
+2.

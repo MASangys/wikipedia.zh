@@ -1,3 +1,6 @@
+> 本文内容由[黑道圣徒IV](https://zh.wikipedia.org/wiki/黑道圣徒IV)转换而来。
+
+
 是一款设定于开放世界的[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")，由[Volition开发](../Page/Volition_\(公司\).md "wikilink")，[Deep Silver发行](../Page/Deep_Silver.md "wikilink")，是[黑道圣徒系列的第四作](https://zh.wikipedia.org/wiki/黑街圣徒系列 "wikilink")，《[黑道圣徒3](https://zh.wikipedia.org/wiki/黑道圣徒3 "wikilink")》的续作。圣徒帮成为了世界上具有权利和流行度的组织，它的领导者成为[美国总统](../Page/美国总统.md "wikilink")，必须抵御[外星生命入侵](../Page/外星生命入侵.md "wikilink")，还获得[超能力](../Page/超能力.md "wikilink")。玩家完成主线和支线[关卡](https://zh.wikipedia.org/wiki/关卡_\(电子游戏\) "wikilink")，闲暇时可自由探索环境。游戏融入了科幻游戏和电影元素，继续了系列出色的[恶搞特色](https://zh.wikipedia.org/wiki/戏仿 "wikilink")。游戏于2013年8月登陆[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360平台](../Page/Xbox_360.md "wikilink")，随后于2015年[移植到](https://zh.wikipedia.org/wiki/移植_\(软体\) "wikilink")[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox One和](../Page/Xbox_One.md "wikilink")[Linux](../Page/Linux.md "wikilink")平台。
 
 游戏是Volition于2013年初卖给后的第一部作品。其中的超自然和超能力概念始于已取消的《[黑道圣徒3](https://zh.wikipedia.org/wiki/黑道圣徒3 "wikilink")》原计划[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《》。资料片最终被团队扩大为《黑道圣徒IV》。后来发布的《进入施虐女王的世界》“导演剪辑版”与《圣徒如何拯救圣诞节》、其他武器、服饰、载具包和独立资料片《[黑道圣徒：杀出地狱](../Page/黑道圣徒：杀出地狱.md "wikilink")》（剧情的外传）一道成了《黑道圣徒IV》的[追加下载内容包](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")。《黑道圣徒IV》设有多个限定版和年度版，在澳大利亚一度被封杀。评论家称赞游戏的幽默和角色自定义选项，但批评缺乏挑战性。首周销量突破100万份。
@@ -125,7 +128,6 @@
 56.
 57.
 58.
-
 59.
 60.
 61.

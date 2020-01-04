@@ -85,7 +85,7 @@
 
   - [中TONE 官方網站](http://www.facebook.com/zonetone/info)
   - [中TONE facebook](http://www.facebook.com/zonetone/info)
-  - [中TONE音樂試聽](http://www.indievox.com/zonetone)
+  - [中TONE音樂試聽](https://web.archive.org/web/20120210210311/http://www.indievox.com/zonetone)
 
 ## 資料來源
 

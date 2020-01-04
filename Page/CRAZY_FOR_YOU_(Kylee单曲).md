@@ -1,3 +1,6 @@
+> 本文内容由[CRAZY FOR YOU \(Kylee单曲\)](https://zh.wikipedia.org/wiki/CRAZY_FOR_YOU_\(Kylee单曲\))转换而来。
+
+
 《**CRAZY FOR YOU**》是[美国](../Page/美国.md "wikilink")出身的女性歌手[Kylee的第](https://zh.wikipedia.org/wiki/Kylee "wikilink")5张单曲。
 
 ## 概要

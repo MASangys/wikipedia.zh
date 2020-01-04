@@ -1,3 +1,6 @@
+> 本文内容由[IRAS—荒貴—阿爾科克彗星](https://zh.wikipedia.org/wiki/IRAS—荒貴—阿爾科克彗星)转换而来。
+
+
 [Iras_araki_alcock.gif](https://zh.wikipedia.org/wiki/File:Iras_araki_alcock.gif "fig:Iras_araki_alcock.gif")影像。\]\]
 
 **IRAS—荒貴—阿爾科克彗星**（**Comet IRAS–Araki–Alcock**），舊稱 **C/1983 H1** 和 **1983 VII**，是一顆長週期[彗星](https://zh.wikipedia.org/wiki/彗星 "wikilink")，於[协调世界时](../Page/协调世界时.md "wikilink")1983年5月11日12:02最接近地球時距離0.0312天文單位，在當時是200年間最接近地球的彗星。這之前只有1770年的[勒克色爾彗星](https://zh.wikipedia.org/wiki/勒克色爾彗星 "wikilink")（0.0151天文單位）和1366年的[坦普爾·塔特爾彗星](https://zh.wikipedia.org/wiki/坦普爾·塔特爾彗星 "wikilink")（0.0229天文單位）更接近地球\[1\]\[2\]。在這之後有另一小彗星 P/1999 J6（SOHO）於1999年6月12日以更近距離0.01天文單位更接近地球\[3\]。
@@ -18,8 +21,6 @@ IRAS—荒貴—阿爾科克彗星是一顆週期長達964年的長週期彗星�
 2.
 3.
 4.  '[Obituary of George Alcock](http://news.bbc.co.uk/1/hi/sci/tech/1081747.stm)' [BBC](https://zh.wikipedia.org/wiki/BBC "wikilink") News, 21-12/2000
-
 5.  '[Outbreak of Comet Fever](http://www.time.com/time/magazine/article/0,9171,953909,00.html)', [TIME Magazine](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink"), 23-05-83. "I've discovered a wonderful star," commented Araki, "Now I've got to discover a wonderful wife."
-
 6.
 7.  '[Eta Lyrids](http://meteorshowersonline.com/showers/eta_lyrids.html) ', Meteor Showers Online, accessed 21-11-08

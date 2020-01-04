@@ -1,3 +1,6 @@
+> 本文内容由[SUNRISE \(美女甜甜圈專輯\)](https://zh.wikipedia.org/wiki/SUNRISE_\(美女甜甜圈專輯\))转换而来。
+
+
 《**SUNRISE**》 是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[IDOLING\!\!\!的第三張錄音室專輯](https://zh.wikipedia.org/wiki/IDOLING!!! "wikilink")。2010年3月3日由[波麗佳音發售](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。該專輯在日本[Oricon](../Page/Oricon.md "wikilink")週間專輯榜初上榜第14位\[1\]。 該專輯發售了三種版本：高級版、標準版及低價版\[2\] 高級裝的封面設計由《[FAIRY TAIL魔導少年](https://zh.wikipedia.org/wiki/FAIRY_TAIL魔導少年 "wikilink")》漫畫家[真島浩](../Page/真島浩.md "wikilink")繪出\[3\]。
 
 ## 概要
@@ -20,7 +23,5 @@
 [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink") [Category:美女甜甜圈！！！](https://zh.wikipedia.org/wiki/Category:美女甜甜圈！！！ "wikilink")
 
 1.  [Oricon週間排行榜](http://www.oricon.co.jp/rank/ja/w/2010-03-15/more/3/)
-
 2.  。[IDOLING\!\!\!官方網站](http://blog.fujitv.co.jp/idoling/E20100218002.html) - 富士電視台
-
 3.

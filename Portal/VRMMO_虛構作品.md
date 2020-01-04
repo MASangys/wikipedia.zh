@@ -1,3 +1,6 @@
+> 本文内容由[Portal:VRMMO/虛構作品](https://zh.wikipedia.org/wiki/Portal:VRMMO/虛構作品)转换而来。
+
+
 [Portal:VRMMO/虛構作品/1](https://zh.wikipedia.org/wiki/Portal:VRMMO/虛構作品/1 "wikilink")
 
 <div style="clear: both">

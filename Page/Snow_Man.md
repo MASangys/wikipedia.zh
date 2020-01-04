@@ -1,8 +1,11 @@
+> 本文内容由[Snow Man](https://zh.wikipedia.org/wiki/Snow_Man)转换而来。
+
+
 **Snow Man**\[1\] 是由[日本](../Page/日本.md "wikilink")艺人经纪公司[杰尼斯事务所旗下](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[小杰尼斯所组成的九人组](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")[男子音乐组合](../Page/男子音乐组合.md "wikilink")。
 
 2012年，当组合成员正在参演[泷泽秀明的](https://zh.wikipedia.org/wiki/泷泽秀明 "wikilink")[舞台剧](https://zh.wikipedia.org/wiki/舞台剧 "wikilink")《[泷泽歌舞伎2012](../Page/泷泽演舞城.md "wikilink")》的时候，六人身后的电子显示屏上出现了组合名的六个字符，随即六人的组合名正式被公布。\[2\]
 
-2019年1月，關西Jr的向井康二、宇宙six的目黑蓮、以及瀧澤社長從之前就一直注目的，Snow Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加入。從2月開始正式從瀧澤秀明手上接手，作為[泷泽歌舞伎ZERO的座長進行演出](../Page/泷泽演舞城.md "wikilink")。3月24日在橫濱arena的公演為首次9人體制的樣貌，在粉絲的面前表演。2019年8月8日在東京巨蛋舉行的「小傑尼斯大祭〜從東京巨蛋啟程〜」中與同為小傑尼斯組合的[SixTONES](../Page/SixTONES.md "wikilink")一起宣布將於2020年發行CD出道，所屬唱片公司為[AVEX](https://zh.wikipedia.org/wiki/AVEX "wikilink")。
+2019年1月，關西Jr的向井康二、宇宙six的目黑蓮、以及瀧澤社長從之前就一直注目的，Snow Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加入。從2月開始正式從瀧澤秀明手上接手，作為[泷泽歌舞伎ZERO的座長進行演出](../Page/泷泽演舞城.md "wikilink")。3月24日在橫濱arena的公演為首次9人體制的樣貌，在粉絲的面前表演。2019年8月8日在東京巨蛋舉行的「小傑尼斯大祭〜從東京巨蛋啟程〜」中與同為小傑尼斯組合的[SixTONES](../Page/SixTONES.md "wikilink")一起宣布將於2020年1月22日發行CD出道，所屬唱片公司為[AVEX](https://zh.wikipedia.org/wiki/AVEX "wikilink")。
 
 ## 组合成员
 
@@ -27,7 +30,7 @@
 <td><p>紫色</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>佐久间大介</strong><small>（）</small></p></td>
+<td><p><strong><a href="../Page/佐久间大介.md" title="wikilink">佐久间大介</a></strong><small>（）</small></p></td>
 <td></td>
 <td><p>日本东京都</p></td>
 <td><p>O型</p></td>
@@ -76,7 +79,7 @@
 <td><p>黑色</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>村上真都ラウール</strong><small>（村上真都raul / むらかみまいとらうーる）</small></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/村上真都ラウール" title="wikilink">村上真都ラウール</a></strong><small>（村上真都raul / むらかみまいとらうーる）</small></p></td>
 <td><p>2003年6月27日（16歳）</p></td>
 <td><p>日本东京都</p></td>
 <td><p>A型</p></td>
@@ -99,6 +102,12 @@
 | Vanishing Over          | MINE            | MINE/川口 進/ATHUSHI SHIMADA                     | 231-2650-7                                                  |               |
 | 2018年                   |                 |                                               |                                                             |               |
 | SNOW DREAM              | 森月キャス           | ATS-                                          | 236-3985-7                                                  |               |
+| Don't Hold Back         | ma-saya         | MEYER CHRIS/ELFGREN STEPHAN MATS JOHN         | 1M3-2243-9                                                  |               |
+| 2019年                   |                 |                                               |                                                             |               |
+| Make It Hot             | 草川瞬             | Tommy Clint/Christofer Erlxon                 | 1M8-8095-4                                                  |               |
+| Lock On\!               | MIYAKEI         | 児山啓介/YOUWHICH                                 | 246-4126-0                                                  |               |
+| Cry Out                 | RIHOCO          | CLINT TOMMY/ATSUSHI SHIMADA                   | 1N6-0627-9                                                  |               |
+| 終わらない MEMORIES          | 川口進             | 川口進/草川瞬/SAKAMURO KENICHI                      | 248-2825-4                                                  |               |
 
 注：以上资料根据[日本音乐著作权协会官方网站检索所得](https://zh.wikipedia.org/wiki/日本音乐著作权协会 "wikilink")。
 
@@ -186,6 +195,7 @@
 
   - Johnny's Happy NEW Year IsLAND（2018年1月1日－27日，帝国剧场）
   - 滝沢歌舞伎ZERO（2019年2月3日 - 25日、京都四条南座 / 4月10日 - 5月19日、新橋演舞場） - 主演
+  - 少年們To Be\!（2019年9月7日-28日、日生劇場） ——与[SixTONES](../Page/SixTONES.md "wikilink")共同主演
 
 ### 演唱会
 
@@ -233,60 +243,35 @@
 
   - [Mis Snow Man](https://zh.wikipedia.org/wiki/Mis_Snow_Man "wikilink")
 
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink")
+[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.

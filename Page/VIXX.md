@@ -1,7 +1,7 @@
 > 本文内容由[VIXX](https://zh.wikipedia.org/wiki/VIXX)转换而来。
 
 
-**VIXX**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2012年所推出的六人男子團體，由[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")、[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[KEN](../Page/李宰焕.md "wikilink")、[RAVI](../Page/金元植.md "wikilink")、[HONGBIN](../Page/李弘彬.md "wikilink")、[HYUK六名成員組成](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")。
+**VIXX**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2012年所推出的六人[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，由[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")、[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[KEN](../Page/李宰焕.md "wikilink")、[RAVI](../Page/金元植.md "wikilink")、[HONGBIN](../Page/李弘彬.md "wikilink")、[HYUK六名成員組成](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")。
 
 團名寓意「Voice, Visual, Value In Excelsis」，代表最佳的聲音，視覺和價值，寓意要成為歌壇的最佳。出道前粉絲就已破千人，有「霸道之聲」的美譽。出道前透過[Mnet](../Page/Mnet.md "wikilink")實境節目《Mydol》紀錄練習生生活，並於2012年5月24日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》節目中出道。
 
@@ -250,68 +250,69 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 
 ### 音樂影片(MV)
 
-|             |                                         |            |                      |
-| ----------- | --------------------------------------- | ---------- | -------------------- |
-| **發佈日期**    | **歌曲名稱**                                | **發佈日期**   | **歌曲名稱 (官方中字)**      |
-| 2012年5月23日  | SUPER HERO\[5\]                         |            |                      |
-| 2012年8月13日  | Rock Ur Body\[6\]                       |            |                      |
-| 2012年12月5日  | 크리스마스니까 (Because it's Christmas)\[7\]   |            |                      |
-| 2013年4月28日  | 다칠 준비가 돼 있어 (On and On)\[8\]            |            |                      |
-| 2013年5月19日  | hyde\[9\]- ※ 19禁                        |            |                      |
-| 2013年7月30日  | 대.다.나.다.너 (G.R.8.U)\[10\]               |            |                      |
-| 2013年10月10日 | 여자는 왜 (Girls, why?) （Feat. 屋頂月光）\[11\]  |            |                      |
-| 2013年11月7日  | 대답은 너니까 (ONLY U)\[12\]                  | 2014年2月19日 | 答案就是你\[13\]          |
-| 2013年11月20日 | 저주인형 (VOODOO DOLL)\[14\] - ※ 19禁        |            |                      |
-| 2013年11月24日 | 저주인형（VOODOO DOLL）clean ver.\[15\]       | 2014年1月27日 | 巫毒娃娃                 |
-| 2013年12月9日  | 겨울고백 (Winter Propose)\[16\]             |            |                      |
-| 2014年1月2日   | 태어나줘서 고마워 (Thank you for my love)\[17\] |            | 謝謝你的出生               |
-| 2014年5月26日  | 기적 (ETERNITY)\[18\]                     | 2014年6月12日 | ETERNITY\[19\]       |
-| 2014年6月4日   | 기적 (ETERNITY) (Dance Ver.)\[20\]        |            |                      |
-| 2014年10月14日 | Error\[21\]                             |            |                      |
-| 2014年11月3日  | Error (Lip\&Dance ver.)\[22\]           |            |                      |
-| 2015年2月24日  | 이별공식 (Love Equation)\[23\]              |            | 分手方程式                |
-| 2015年3月19日  | 命中註定\[24\]                              |            | 命中註定\[25\]           |
-| 2015年8月17日  | VIXX LR - Beautiful Liar\[26\]          |            | Beautiful Liar\[27\] |
-| 2015年11月9日  | 사슬 (Chained up) \[28\]                  |            | Chained up\[29\]     |
-| 2015年12月14日 | 사랑난로 (Love In The Air) \[30\]           |            |                      |
-| 2016年4月19日  | 다이너마이트 (Dynamite) \[31\]                |            |                      |
-| 2016年8月14日  | Fantasy \[32\]                          |            |                      |
-| 2016年9月13日  | Fantasy Performance Video \[33\]        |            |                      |
-| 2016年9月13日  | Fantasy Drama Video \[34\]              |            |                      |
-| 2016年10月31日 | The Closer \[35\]                       |            |                      |
-| 2016年11月20日 | Milky Way \[36\]                        |            |                      |
-| 2017年1月8日   | 라비 (RAVI) - BOMB (Feat. San E) \[37\]   |            |                      |
-| 2017年5月15日  | 도원경 (桃源境) (Shangri-La) \[38\]           |            | 桃源境                  |
-| 2017年8月28日  | 빅스LR(VIXX LR) - Whisper \[39\]          |            |                      |
-| 2018年4月17日  | 향 (Scentist) \[40\]                     |            |                      |
-| 2018年7月31日  | 레오(LEO) - Touch & Sketch\[41\]          |            |                      |
-| 2019年3月5日   | 라비(RAVI) - TUXEDO\[42\]                 |            |                      |
-| 2019年6月17日  | 레오(LEO) - 로맨티시즘 (Romanticism)\[43\]     |            |                      |
+|             |                                            |            |                      |
+| ----------- | ------------------------------------------ | ---------- | -------------------- |
+| **發佈日期**    | **歌曲名稱**                                   | **發佈日期**   | **歌曲名稱 (官方中字)**      |
+| 2012年5月23日  | SUPER HERO\[5\]                            |            |                      |
+| 2012年8月13日  | Rock Ur Body\[6\]                          |            |                      |
+| 2012年12月5日  | 크리스마스니까 (Because it's Christmas)\[7\]      |            |                      |
+| 2013年4月28日  | 다칠 준비가 돼 있어 (On and On)\[8\]               |            |                      |
+| 2013年5月19日  | hyde\[9\]- ※ 19禁                           |            |                      |
+| 2013年7月30日  | 대.다.나.다.너 (G.R.8.U)\[10\]                  |            |                      |
+| 2013年10月10日 | 여자는 왜 (Girls, why?) （Feat. 屋頂月光）\[11\]     |            |                      |
+| 2013年11月7日  | 대답은 너니까 (ONLY U)\[12\]                     | 2014年2月19日 | 答案就是你\[13\]          |
+| 2013年11月20日 | 저주인형 (VOODOO DOLL)\[14\] - ※ 19禁           |            |                      |
+| 2013年11月24日 | 저주인형（VOODOO DOLL）clean ver.\[15\]          | 2014年1月27日 | 巫毒娃娃                 |
+| 2013年12月9日  | 겨울고백 (Winter Propose)\[16\]                |            |                      |
+| 2014年1月2日   | 태어나줘서 고마워 (Thank you for my love)\[17\]    |            | 謝謝你的出生               |
+| 2014年5月26日  | 기적 (ETERNITY)\[18\]                        | 2014年6月12日 | ETERNITY\[19\]       |
+| 2014年6月4日   | 기적 (ETERNITY) (Dance Ver.)\[20\]           |            |                      |
+| 2014年10月14日 | Error\[21\]                                |            |                      |
+| 2014年11月3日  | Error (Lip\&Dance ver.)\[22\]              |            |                      |
+| 2015年2月24日  | 이별공식 (Love Equation)\[23\]                 |            | 分手方程式                |
+| 2015年3月19日  | 命中註定\[24\]                                 |            | 命中註定\[25\]           |
+| 2015年8月17日  | VIXX LR - Beautiful Liar\[26\]             |            | Beautiful Liar\[27\] |
+| 2015年11月9日  | 사슬 (Chained up) \[28\]                     |            | Chained up\[29\]     |
+| 2015年12月14日 | 사랑난로 (Love In The Air) \[30\]              |            |                      |
+| 2016年4月19日  | 다이너마이트 (Dynamite) \[31\]                   |            |                      |
+| 2016年8月14日  | Fantasy \[32\]                             |            |                      |
+| 2016年9月13日  | Fantasy Performance Video \[33\]           |            |                      |
+| 2016年9月13日  | Fantasy Drama Video \[34\]                 |            |                      |
+| 2016年10月31日 | The Closer \[35\]                          |            |                      |
+| 2016年11月20日 | Milky Way \[36\]                           |            |                      |
+| 2017年1月8日   | 라비 (RAVI) - BOMB (Feat. San E) \[37\]      |            |                      |
+| 2017年5月15日  | 도원경 (桃源境) (Shangri-La) \[38\]              |            | 桃源境                  |
+| 2017年8月28日  | 빅스LR(VIXX LR) - Whisper \[39\]             |            |                      |
+| 2018年4月17日  | 향 (Scentist) \[40\]                        |            |                      |
+| 2018年7月31日  | 레오(LEO) - Touch & Sketch\[41\]             |            |                      |
+| 2019年3月5日   | 라비(RAVI) - TUXEDO\[42\]                    |            |                      |
+| 2019年6月17日  | 레오(LEO) - 로맨티시즘 (Romanticism)\[43\]        |            |                      |
+| 2019年12月18日 | 혁 (HYUK) - '겨울나비 (Winter Butterfly)'\[44\] |            |                      |
 
 ### Dance Practicing (練習室版)
 
 |             |                                                  |
 | ----------- | ------------------------------------------------ |
 | **發佈日期**    | **歌曲名稱**                                         |
-| 2012年8月28日  | Rock Ur Body\[44\]                               |
-| 2013年2月2日   | 다칠 준비가 돼 있어 (On and On)\[45\]                    |
-| 2013年5月29日  | hyde\[46\]                                       |
-| 2013年8月14日  | 대.다.나.다.너 (G.R.8.U)\[47\]                        |
-| 2013年11月27日 | 저주인형 (VOODOO DOLL)\[48\]                         |
-| 2014年6月12日  | 기적 (ETERNITY)\[49\]                              |
-| 2014年10月20日 | Error\[50\] 'Error' MV 200\[51\]                 |
-| 2015年3月4日   | 이별공식 (Love Equation)\[52\]                       |
-| 2015年11月23日 | 사슬 (Chained up)\[53\]                            |
-| 2016年5月11日  | 다이너마이트 (Dynamite)\[54\]                          |
-| 2016年8月19日  | Fantasy\[55\]                                    |
-| 2016年11月23日 | The Closer\[56\]                                 |
-| 2017年1月30日  | 라비 (RAVI)- BOMB\[57\]                            |
-| 2017年5月27日  | 도원경(桃源境) (Shangri-La)\[58\]                      |
-| 2017年9月14日  | Whisper\[59\]                                    |
-| 2018年4月29日  | 향 (Scentist) (Moving Cam ver.)\[60\]             |
-| 2018年8月4日   | 레오(LEO) - Touch & Sketch\[61\]                   |
-| 2018年8月7日   | 레오(LEO) - Touch & Sketch (Moving Cam ver.)\[62\] |
-| 2019年6月25日  | 레오(LEO) - 로맨티시즘 (Romanticism)\[63\]              |
+| 2012年8月28日  | Rock Ur Body\[45\]                               |
+| 2013年2月2日   | 다칠 준비가 돼 있어 (On and On)\[46\]                    |
+| 2013年5月29日  | hyde\[47\]                                       |
+| 2013年8月14日  | 대.다.나.다.너 (G.R.8.U)\[48\]                        |
+| 2013年11月27日 | 저주인형 (VOODOO DOLL)\[49\]                         |
+| 2014年6月12日  | 기적 (ETERNITY)\[50\]                              |
+| 2014年10月20日 | Error\[51\] 'Error' MV 200\[52\]                 |
+| 2015年3月4日   | 이별공식 (Love Equation)\[53\]                       |
+| 2015年11月23日 | 사슬 (Chained up)\[54\]                            |
+| 2016年5月11日  | 다이너마이트 (Dynamite)\[55\]                          |
+| 2016年8月19日  | Fantasy\[56\]                                    |
+| 2016年11月23日 | The Closer\[57\]                                 |
+| 2017年1月30日  | 라비 (RAVI)- BOMB\[58\]                            |
+| 2017年5月27日  | 도원경(桃源境) (Shangri-La)\[59\]                      |
+| 2017年9月14日  | Whisper\[60\]                                    |
+| 2018年4月29日  | 향 (Scentist) (Moving Cam ver.)\[61\]             |
+| 2018年8月4日   | 레오(LEO) - Touch & Sketch\[62\]                   |
+| 2018年8月7日   | 레오(LEO) - Touch & Sketch (Moving Cam ver.)\[63\] |
+| 2019年6月25日  | 레오(LEO) - 로맨티시즘 (Romanticism)\[64\]              |
 
 ### 合作音樂影片(MV)
 
@@ -326,7 +327,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="even">
 <td><p>2011年8月10日</p></td>
-<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Shake It Up[64]》</p></td>
+<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Shake It Up[65]》</p></td>
 <td><p>Shake It Up</p></td>
 <td><p>N、LEO、RAVI</p></td>
 <td><p>練習生時期</p></td>
@@ -340,28 +341,28 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="even">
 <td><p>2012年4月12日</p></td>
-<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Tease Me[65]》</p></td>
+<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Tease Me[66]》</p></td>
 <td><p>Perfect Fit</p></td>
 <td><p>HONGBIN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年2月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/K.will" title="wikilink">K.will</a>&amp;<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>《썸남썸녀[66]》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K.will" title="wikilink">K.will</a>&amp;<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>《썸남썸녀[67]》</p></td>
 <td><p>썸남썸녀</p></td>
 <td><p>N、HONGBIN</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年4月28日</p></td>
-<td><p>Chad Future《Rock The World[67]》</p></td>
+<td><p>Chad Future《Rock The World[68]》</p></td>
 <td><p>Rock The World</p></td>
 <td><p>RAVI</p></td>
 <td><p>共同合作Rap演出</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年8月5日</p></td>
-<td><p>LYn X LEO《꽃잎놀이(Blossom tears)[68]》</p></td>
+<td><p>LYn X LEO《꽃잎놀이(Blossom tears)[69]》</p></td>
 <td><p><small>Y.BIRD From Jellyfish With LYn X LEO</small></p></td>
 <td><p>LEO</p></td>
 <td></td>
@@ -369,7 +370,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 <tr class="even">
 <td><p>2014年8月20日</p></td>
 <td><p>Big Byung (빅병)<br />
-《Stress Come on! (스트레스 컴온!)[69]》</p></td>
+《Stress Come on! (스트레스 컴온!)[70]》</p></td>
 <td><p>형돈이와 대준이의 히트제조기<br />
 （亨敦和大俊的大勢製造機）</p></td>
 <td><p>N、HYUK</p></td>
@@ -378,7 +379,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 <tr class="odd">
 <td><p>2015年1月16日</p></td>
 <td><p>Big Byung (빅병)<br />
-《Ojingeo Doenjang(오징어 된장)[70]》</p></td>
+《Ojingeo Doenjang(오징어 된장)[71]》</p></td>
 <td><p>형돈이와 대준이의 히트제조기2<br />
 （亨敦和大俊的大勢製造機2）</p></td>
 <td><p>N、HYUK</p></td>
@@ -386,7 +387,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="even">
 <td><p>2015年6月1日</p></td>
-<td><p><a href="../Page/陸翊.md" title="wikilink">陸翊</a>《四次元愛情[71]》</p></td>
+<td><p><a href="../Page/陸翊.md" title="wikilink">陸翊</a>《四次元愛情[72]》</p></td>
 <td><p>第八天</p></td>
 <td><p>KEN</p></td>
 <td></td>
@@ -398,7 +399,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 
 #### VIXX TV
 
-  - VIXX TV 播放清單\[72\]
+  - VIXX TV 播放清單\[73\]
 
 <!-- end list -->
 
@@ -407,7 +408,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 
 #### VIXX TV2
 
-  - VIXX TV2 播放清單\[73\]
+  - VIXX TV2 播放清單\[74\]
 
 <!-- end list -->
 
@@ -1904,11 +1905,11 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 |        |            |          |            |
 | ------ | ---------- | -------- | ---------- |
 | **成員** | **登記名稱**   | **登記編號** | **參與歌曲列表** |
-| N      | 차학연        | 10012530 | \[74\]     |
-| LEO    | LEO / 정택운  | 10009369 | \[75\]     |
-| KEN    | 이재환        | 10018005 | \[76\]     |
-| RAVI   | RAVI / 김원식 | 10003665 | \[77\]     |
-| HYUK   | 한상혁        | 10013627 | \[78\]     |
+| N      | 차학연        | 10012530 | \[75\]     |
+| LEO    | LEO / 정택운  | 10009369 | \[76\]     |
+| KEN    | 이재환        | 10018005 | \[77\]     |
+| RAVI   | RAVI / 김원식 | 10003665 | \[78\]     |
+| HYUK   | 한상혁        | 10013627 | \[79\]     |
 
 ## 參考資料
 
@@ -2026,3 +2027,4 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 76.
 77.
 78.
+79.

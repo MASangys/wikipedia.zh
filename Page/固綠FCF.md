@@ -1,3 +1,6 @@
+> 本文内容由[固綠FCF](https://zh.wikipedia.org/wiki/固綠FCF)转换而来。
+
+
 **固綠FCF**是一種[海綠色的三芳基甲烷](https://zh.wikipedia.org/wiki/海綠色 "wikilink")[食用色素](../Page/食用色素.md "wikilink")。
 
 固綠FCF可以作為[马松三色染色法](https://zh.wikipedia.org/wiki/马松三色染色法 "wikilink")(Masson's trichrome stain)的[亮綠SF淡黃的代替品](https://zh.wikipedia.org/wiki/亮綠SF淡黃 "wikilink")，其顏色更明快且不容易褪色。它也在酸萃取[DNA之後在鹼環境下用作](https://zh.wikipedia.org/wiki/DNA "wikilink")[組蛋白的定量染色劑](https://zh.wikipedia.org/wiki/組蛋白 "wikilink")。在[電泳中用作蛋白質染色劑](https://zh.wikipedia.org/wiki/電泳 "wikilink")。最大吸收量是625nm。
@@ -18,5 +21,5 @@ FAO/WHO合同食品添加物專門家委員会（JECFA）的毒性試驗認定�
 2.
 3.  厚生省「表5 食品添加物の年齢別摂取量」[マーケットバスケット方式による年齢層別食品添加物の一日摂取量の調査 （平成12年12月14日 厚生省）](http://www.ffcr.or.jp/zaidan/MHWinfo.nsf/98a5d7b766af9bfb492565a10020c601/1100115ac3d23fd7492569d800171034)  （日本食品化学研究振興財団）
 4.  [Fast Green FCF](http://fscimage.fishersci.com/msds/60270.htm). Material Safety Data Sheet
-5.  [FAST GREEN FCF](http://www.inchem.org/documents/jecfa/jecmono/v16je12.htm), JECFA
+5.  [FAST GREEN FCF](http://www.inchem.org/documents/jecfa/jecmono/v16je12.htm) , JECFA
 6.  [Fd & c green no. 3: Carcinogenic Potency　Database](http://potency.berkeley.edu/chempages/FD%20%26%20C%20GREEN%20NO.%203.html)

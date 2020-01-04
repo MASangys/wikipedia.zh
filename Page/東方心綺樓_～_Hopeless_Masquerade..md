@@ -1,3 +1,6 @@
+> 本文内容由[東方心綺樓 ～ Hopeless Masquerade.](https://zh.wikipedia.org/wiki/東方心綺樓_～_Hopeless_Masquerade.)转换而来。
+
+
 [Th135.png](https://zh.wikipedia.org/wiki/File:Th135.png "fig:Th135.png") 是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")13.5作。\[1\]\[2\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[SOSO工具栏](https://zh.wikipedia.org/wiki/SOSO工具栏)转换而来。
+
+
 **SOSO工具栏**是[腾讯](../Page/腾讯.md "wikilink")公司推出的一款[IE](https://zh.wikipedia.org/wiki/IE "wikilink")[工具栏](../Page/工具栏.md "wikilink")软件。这个软件和IE浏览器一起工作，提供搜索、应用盒子、QQ业务、实用工具、恶意网址拦截等功能。现已停止维护。
 
 ## 现状

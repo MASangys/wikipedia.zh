@@ -1,3 +1,6 @@
+> 本文内容由[UDN TV](https://zh.wikipedia.org/wiki/UDN_TV)转换而来。
+
+
 **udn tv**是一個[聯合報系旗下的](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")[網路電視頻道](https://zh.wikipedia.org/wiki/網路電視 "wikilink")，該頻道總部位於臺灣[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[汐止區](../Page/汐止區.md "wikilink")聯合報系總部大樓。
 
 聯合報系在2008年[北京奧運舉辦期間推出](https://zh.wikipedia.org/wiki/北京奧運 "wikilink")《**聯合影音網**》，並開始籌備開辦udn tv。\[1\]

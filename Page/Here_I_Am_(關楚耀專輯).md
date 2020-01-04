@@ -1,3 +1,6 @@
+> 本文内容由[Here I Am \(關楚耀專輯\)](https://zh.wikipedia.org/wiki/Here_I_Am_\(關楚耀專輯\))转换而来。
+
+
 《**Here I Am**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關楚耀](../Page/關楚耀.md "wikilink")的第四張專輯，是他自藏毒事件回歸樂壇的第一張作品，在2010年9月20日推出。專輯第一主打是剖析其在藏毒事件後的心情的歌曲《一年》，第二主打則為《阿Q》。
 
 ## 曲目

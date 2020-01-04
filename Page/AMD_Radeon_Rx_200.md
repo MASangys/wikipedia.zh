@@ -1,3 +1,6 @@
+> 本文内容由[AMD Radeon Rx 200](https://zh.wikipedia.org/wiki/AMD_Radeon_Rx_200)转换而来。
+
+
 **AMD Radeon Rx 200**系列[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，[研發代號](https://zh.wikipedia.org/wiki/代號 "wikilink")「*Volcanic Islands*」（[火山島](https://zh.wikipedia.org/wiki/火山島 "wikilink")），是[超微半導體所推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")系列，接替開發代號「Sea Islands」（即[AMD Radeon HD 8000系列](../Page/AMD_Radeon_HD_8000.md "wikilink")）的產品線。Volcanic Islands系列顯示核心原預計2014年推出，屆時將與對手[NVIDIA的Maxwell系列顯示核心和](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[英特爾第二代](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Xeon Phi架構對抗](https://zh.wikipedia.org/wiki/Xeon_Phi "wikilink")。\[1\]而實際上，超微於2013年9月業已公佈新一代顯示核心的部分資訊，並將於同年10月15日正式發布。首發的產品都是Radeon HD 7000系列的修訂版本，真正基於新顯示核心的Radeon R9 290X於2013年10月24日正式販售。Volcanic Islands系列採用[台積電和Common](https://zh.wikipedia.org/wiki/台積電 "wikilink") Platform Alliance（通用平台聯盟）的28[納米Gate](https://zh.wikipedia.org/wiki/納米 "wikilink")-Last製程來生產。\[2\]
 
 「**Pirates Islands**」（[海盜群島](https://zh.wikipedia.org/wiki/海盜 "wikilink")）將會是最後一個以[島嶼](../Page/島嶼.md "wikilink")為研發代號的顯示核心系列\[3\]，接替「Volcanic Islands」系列，是為現時的Radeon Rx 300系列；而「Pirates Islands」首發產品則是歸類到Rx 200系列的、核心代號「Tonga」的Radeon R9 285。\[4\]

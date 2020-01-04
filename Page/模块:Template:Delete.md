@@ -1,107 +1,118 @@
-local data = require( 'Module:Template:Delete/data' )
+> 本文内容由[模块:Template:Delete](https://zh.wikipedia.org/wiki/模块:Template:Delete)转换而来。
+
+
+local data = require('Module:Template:Delete/data')
 
 local z = {}
 
-function extractAliases( item )
+function extractAliases(item)
 
-`   allnames = { item[1] }`
-`   for j, alias in ipairs( item[2] ) do`
-`       table.insert( allnames, alias )`
+`   allnames = {item['code']}`
+`   for j, alias in ipairs(item['aliases']) do`
+`       table.insert(allnames, alias)`
 `   end`
 `   return allnames`
 
 end
 
-function extractShortDesc( item )
+function extractShortDesc(item)
 
 `   pieces = {}`
-`   for m in mw.text.trim( item[4] ):gmatch( '%!%(.-%)%!' ) do`
-`       table.insert( pieces, m:sub( 3, -3 ) )`
+`   for m in mw.text.trim(item['description']):gmatch('%!%(.-%)%!') do`
+`       table.insert(pieces, m:sub(3, -3))`
 `   end`
-`   return table.concat( pieces )`
+`   return table.concat(pieces)`
 
 end
 
-function desc( frame, name, short )
+function desc(frame, name, short)
 
-`   name = mw.text.trim( name ):upper()`
+`   name = mw.text.trim(name):upper()`
 `   wt = {}`
-`   for i, item in ipairs( data ) do`
-`       if name == '' or #name == 1 and item[1]:sub( 1, 1 ) == name or item[1] == name then`
+`   for i, item in ipairs(data) do`
+`       if name == '' or #name == 1 and item['code']:sub(1, 1) == name or item['code'] == name then`
 `           if short then`
-`               para = extractShortDesc( item )`
+`               para = extractShortDesc(item)`
 `               if para ~= '' then`
-`                   table.insert( wt, para )`
+`                   table.insert(wt, para)`
 `               end`
 `           else`
-`               allnames = extractAliases( item )`
-`               para = item[4]:gsub( '%!%(.-%)%!', function( m ) return m:sub( 3, -3 ) end )`
-`               tinfo = item[5]`
+`               allnames = extractAliases(item)`
+`               para = item['description']:gsub('%!%(.-%)%!', function(m)`
+`                   return m:sub(3, -3)`
+`               end)`
+`               tinfo = item['usage']`
 `               if tinfo == nil then`
 `                   tusage = {}`
-`                   for k, aname in ipairs( allnames ) do`
-`                       table.insert( tusage, '``' )`
+`                   for k, aname in ipairs(allnames) do`
+`                       table.insert(tusage, '``')`
 `                   end`
-`                   tinfo = '使用模板' .. mw.text.listToText( tusage, '、', '或' ) .. '。'`
+`                   tinfo = '使用模板' .. mw.text.listToText(tusage, '、', '或') .. '。'`
 `               end`
-`               snippet = '; `` ' .. item[1] .. '. ' .. item[3] .. '\n' .. para .. '\n* ' .. tinfo`
-`               table.insert( wt, snippet )`
+`               snippet = '; `` ' .. item['code'] .. '. ' .. item['criteria']:gsub('%!%(.-%)%!', function(m)`
+`                   return m:sub(3, -3)`
+`               end) .. '\n' .. para .. '\n* ' .. tinfo`
+
+`               table.insert(wt, snippet)`
 `           end`
 `       end`
 `   end`
 `   if short then`
-`       return table.concat( wt, '\n' )`
+`       return table.concat(wt, '\n')`
 `   else`
-`       return frame:preprocess( table.concat( wt, '\n' ) )`
+`       return frame:preprocess(table.concat(wt, '\n'))`
 `   end`
 
 end
 
-function z.desc( frame )
+function z.desc(frame)
 
-`   return desc( frame, frame.args[1] )`
-
-end
-
-function z.shortDesc( frame )
-
-`   return desc( frame, frame.args[1], true )`
+`   return desc(frame, frame.args[1])`
 
 end
 
-function z.reasons( frame )
+function z.shortDesc(frame)
+
+`   return desc(frame, frame.args[1], true)`
+
+end
+
+function z.reasons(frame)
 
 `   wt = {}`
-`   for i, item in ipairs( data ) do`
-`       allnames = extractAliases( item )`
-`       table.insert( wt, '`
+`   for i, item in ipairs(data) do`
+`       allnames = extractAliases(item)`
+`       table.insert(wt, '`
 
 <tr>
 
 <td>
 
-' .. mw.text.listToText( allnames, '、', '或' ) .. '
+' .. mw.text.listToText(allnames, '、', '或') .. '
 
-<td title="' .. extractShortDesc( item ) .. '">
+<td title="' .. extractShortDesc(item) .. '">
 
-' .. item\[3\] .. '
+' .. item\['criteria'\]:gsub('%\!%(.-%)%\!', function(m)
+
+`           return m:sub(3, -3)`
+`       end) .. '`
 
 </td>
 
-' )
+')
 
 `   end`
 `   return '`
 
 <table class="wikitable">
 
-' .. table.concat( wt ) .. '
+' .. table.concat(wt) .. '
 
 </table>
 
 ' end
 
-function z.input( frame )
+function z.input(frame)
 
 `   if frame.args.parent then`
 `       args = frame:getParent().args`
@@ -110,9 +121,9 @@ function z.input( frame )
 `   end`
 `   -- precache`
 `   map = {}`
-`   for i, item in ipairs( data ) do`
-`       map[item[1]:lower()] = i`
-`       for j, alias in ipairs( item[2] ) do`
+`   for i, item in ipairs(data) do`
+`       map[item['code']:lower()] = i`
+`       for j, alias in ipairs(item['aliases']) do`
 `           map[alias:lower()] = i`
 `       end`
 `   end`
@@ -123,38 +134,35 @@ function z.input( frame )
 `   deletelinks = {}`
 `   while i < 10 do`
 `       arg = args[i]`
-`       if arg and map[mw.text.trim( arg:lower() )] then`
-`           item = data[map[mw.text.trim( arg:lower() )]]`
+`       if arg and map[mw.text.trim(arg:lower())] then`
+`           item = data[map[mw.text.trim(arg:lower())]]`
 `           if frame.args.reasoncode then`
-`               return item[1]`
+`               return item['code']`
 `           end`
 `           title = mw.title.getCurrentTitle()`
-`           checkfunc = item[6]`
+`           checkfunc = item['check']`
 `           if checkfunc then`
-`               check = checkfunc( title )`
+`               check = checkfunc(title)`
 `           else`
 `               check = nil`
 `           end`
 `           -- special case for F1`
 `           rowsuffix2 = ''`
 `           deletesuffix = ''`
-`           if item[1] == 'F1' or item[1] == 'F5' then`
+`           if item['code'] == 'F1' or item['code'] == 'F5' then`
 `               i = i + 1`
 `               if args[i] then`
-`                   img = mw.text.trim( args[i] )`
+`                   img = mw.text.trim(args[i])`
 `               else`
 `                   img = nil`
 `               end`
 `               if img then`
-`                   imgtitle = mw.title.new( img, 'Media' )`
+`                   imgtitle = mw.title.new(img, 'Media')`
 `               else`
 `                   imgtitle = nil`
 `               end`
-`               if imgtitle and imgtitle.exists then`
-`                   table.insert( pretext, '`[`'_.._imgtitle.text_.._'`](https://zh.wikipedia.org/wiki/File:'_.._imgtitle.text_.._' "fig:'_.._imgtitle.text_.._'")`' )`
-`                   deletesuffix = '：`[`File:'``   ``..``
- ``imgtitle.text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/File:'_.._imgtitle.text_.._' "fig:File:' .. imgtitle.text .. '")`'`
+`               if imgtitle then`
+`                   deletesuffix = '：`[`:File:'``   ``..``   ``imgtitle.text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:File:'_.._imgtitle.text_.._' "wikilink")`'`
 `               else`
 `                   if check then`
 `                       rowsuffix2 = '`
@@ -166,62 +174,63 @@ function z.input( frame )
 `           end`
 `           if check then`
 `               rowsuffix = '`
-<span class="error">`' .. check .. '`</span>`' ..`
-`                   ( args.cat or args.cate or args.category or '' )`
+<span class="error">`' .. check .. '`</span>`' .. (args.cat or args.cate or args.category or '')`
 `           else`
 `               if frame.args.deletelink then`
-`                   table.insert( deletelinks, '[[WP:CSD#'_.._item[1]_.._'|' .. item[1] .. ']]: ' .. item[3] .. deletesuffix )`
+`                   table.insert(deletelinks, '[[WP:CSD#'_.._item['code']_.._'|' .. item['code'] .. ']]: ' .. item['criteria']:gsub('%!%(.-%)%!', '') .. deletesuffix)`
 `               end`
-`               rowsuffix = args.cat or args.cate or args.category or ( '[[Category:快速删除候选|' .. ( item[7] or '速' ) .. ']]' )`
+`               rowsuffix = args.cat or args.cate or args.category or ('[[Category:快速删除候选|' .. (item['category'] or '速') .. ']]')`
 `           end`
-`           row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3] .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]）' .. rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
-`           table.insert( rows, row )`
-`       elseif arg and mw.text.trim( arg ) ~= '' then`
+`           if deletesuffix then`
+`               row = '* `<strong><span id="speedy-delete-' .. item['code'] .. '" title="' .. extractShortDesc(item) .. '">`' .. item['criteria']:gsub('%!%(.-%)%!', function(m)`
+`                   return m:sub(3, -3)`
+`               end) .. '（[[WP:CSD#'_.._item['code']_.._'|CSD ' .. item['code'] .. ']]' .. deletesuffix .. '）' .. rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
+`           else`
+`               row = '* `<strong><span id="speedy-delete-' .. item['code'] .. '" title="' .. extractShortDesc(item) .. '">`' .. item['criteria']:gsub('%!%(.-%)%!', function(m)`
+`                   return m:sub(3, -3)`
+`               end) .. '（[[WP:CSD#'_.._item['code']_.._'|CSD ' .. item['code'] .. ']]）' .. rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
+`           end`
+`           table.insert(rows, row)`
+`       elseif arg and mw.text.trim(arg) ~= '' then`
 `           if frame.args.reasoncode then`
 `               return ''`
 `           end`
 `           -- try to read it as a title`
-`           title = mw.title.new( mw.text.trim( arg ) )`
+`           title = mw.title.new(mw.text.trim(arg))`
 `           cat = args.cat or args.cate or args.category or ''`
 `           if title and title.exists then`
 `               if frame.args.deletelink then`
-`                   table.insert( deletelinks, '`[`CSD`](https://zh.wikipedia.org/wiki/WP:CSD "wikilink")`: `[`:'``
- ``..``   ``arg``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`' )`
+`                   table.insert(deletelinks, '`[`CSD`](https://zh.wikipedia.org/wiki/WP:CSD "wikilink")`: `[`:'``   ``..``   ``arg``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`')`
 `               end`
-`               table.insert( rows, '*`<strong>`' .. cat .. '`[`:'``
- ``..``   ``arg``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")</strong>`' )`
+`               table.insert(rows, '*`<strong>`' .. cat .. '`[`:'``   ``..``   ``arg``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")</strong>`')`
 `           else`
 `               if frame.args.deletelink then`
-`                   table.insert( deletelinks, arg )`
+`                   table.insert(deletelinks, arg)`
 `               end`
-`               arg = string.gsub(arg, "^([*:#]*)(.*)", "%1`<strong>`%2`</strong>`")`
-`               table.insert( rows, '*' .. cat .. arg )`
+`               arg = string.gsub(arg, '^([*:#]*)(.*)', '%1`<strong>`%2`</strong>`')`
+`               table.insert(rows, '*' .. cat .. arg)`
 `           end`
 `       end`
 
 `       arg = args['c' .. i]`
-`       if arg and mw.text.trim( arg ) ~= '' then`
-`           table.insert( rows, '*' .. arg )`
+`       if arg and mw.text.trim(arg) ~= '' then`
+`           table.insert(rows, '*' .. arg)`
 `       end`
 
 `       i = i + 1`
 `   end`
 `   -- for use by Twinkle`
 `   if frame.args.deletelink then`
-`       return mw.text.trim( table.concat( deletelinks, '；' ):gsub( '。；', '；' ):gsub( '。：', '：' ) )`
+`       return mw.text.trim(table.concat(deletelinks, '；'):gsub('。；', '；'):gsub('。：', '：'))`
 `   end`
 `   if #rows > 0 then`
-`       return mw.text.trim( table.concat( pretext ) .. '\n' .. table.concat( rows, '\n' ) )`
+`       return mw.text.trim(table.concat(pretext) .. '\n' .. table.concat(rows, '\n'))`
 `   else`
-`       return '`<span style="font-weight:bold;color:red;">`（請填寫理由）`</span>`' .. ( args.cat or args.cate or args.category or '' )`
+`       return '`<span style="font-weight:bold;color:red;">`（請填寫理由）`</span>`' .. (args.cat or args.cate or args.category or '')`
 `   end`
 
 end
 
 return z
 
-[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")
-[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")
-[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")
+[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink") [Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink") [Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[FC2](https://zh.wikipedia.org/wiki/FC2)转换而来。
+
+
 **FC2**（エフシーツー）是一家提供[域名](../Page/域名.md "wikilink")销售和[应用程序](../Page/应用程序.md "wikilink")开发为主要业务的公司，CEO为日本人高橋理洋。\[1\]总部位于[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")。业务以日语为主。公司名FC2是「ファンタスティック・クピ・クピ」的缩写。\[2\]。
 
 ## 服务
@@ -84,16 +87,11 @@ FC2自2010年4月3日起被中国大陆[防火长城](../Page/防火长城.md "w
 [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink") [Category:部落格代管服務](https://zh.wikipedia.org/wiki/Category:部落格代管服務 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:1999年建立的网站](https://zh.wikipedia.org/wiki/Category:1999年建立的网站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink") [Category:跨国公司](https://zh.wikipedia.org/wiki/Category:跨国公司 "wikilink")
 
 1.  [デジタルハリウッド株式会社の2008年プレスルーム](http://www.dhw.co.jp/grand/pressroom/release/2008/081127/)
-
 2.
-
 3.  [【日本の動画サイト利用動向】Google・ドワンゴ・FC2の3強、年齢層に違い](http://prtimes.jp/main/html/rd/p/000000009.000003461.html)
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.

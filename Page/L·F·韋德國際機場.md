@@ -1,3 +1,6 @@
+> 本文内容由[L·F·韋德國際機場](https://zh.wikipedia.org/wiki/L·F·韋德國際機場)转换而来。
+
+
 **L.F.韦德國際機場**（，），原名**百慕達國際機場**（），是[北大西洋的英国海外屬地](https://zh.wikipedia.org/wiki/北大西洋 "wikilink")[百慕達唯一的機場](https://zh.wikipedia.org/wiki/百慕達 "wikilink")。机场位於[聖喬治堂區](https://zh.wikipedia.org/wiki/聖喬治堂區_\(百慕達\) "wikilink")，位于首都[哈密尔顿東北方](../Page/哈密尔顿_\(百慕大\).md "wikilink")6[海里](../Page/海里.md "wikilink")（11公里，6.9英里）处。\[1\]2006年，L.F.韦德国际机场接待了大约900,000名乘客,比2005年上涨了7%。\[2\] 机场有一个乘客航站、一个货运航站，以及8个停机位，且最大可以支持[空中客车A380大小的飞机使用](https://zh.wikipedia.org/wiki/空中客车A380 "wikilink").\[3\] 当前,有十家航空公司运营往来于百慕大机场和加拿大、英国和美国的季节性或全年航线。现在在百慕大机场定期运营的最大飞机是[英国航空的](https://zh.wikipedia.org/wiki/英国航空 "wikilink")[波音777-200](https://zh.wikipedia.org/wiki/波音777#777-200 "wikilink")。
 
 ## 当前运行
@@ -43,11 +46,7 @@
 
 1.
 2.  [Bermuda's L. F. Wade International Airport](http://bermuda-online.org/airport.htm) (information page maintained by *[The Royal Gazette](https://zh.wikipedia.org/wiki/The_Royal_Gazette_\(Bermuda\) "wikilink")*)
-
 3.
-
 4.
-
 5.
-
 6.  <http://aviation-safety.net/database/record.php?id=19521206-1>

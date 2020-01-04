@@ -111,7 +111,6 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
 
   - [高波型護衛艦](https://zh.wikipedia.org/wiki/高波型護衛艦 "wikilink")：[高波號驅逐艦](https://zh.wikipedia.org/wiki/高波號驅逐艦_\(二代\) "wikilink")（DD-110）、[卷波號驅逐艦](https://zh.wikipedia.org/wiki/卷波號驅逐艦_\(二代\) "wikilink")（DD-112）、[鈴波號驅逐艦](https://zh.wikipedia.org/wiki/鈴波號驅逐艦 "wikilink")（DD-114）
   - [日向級護衛艦](../Page/日向級護衛艦.md "wikilink")：[日向號護衛艦](../Page/日向號護衛艦.md "wikilink")（DDH-181）、[伊勢號護衛艦](../Page/伊勢號護衛艦.md "wikilink")（DDH-182）
-  - 19,500噸級護衛艦：22DDH
 
 #### 政府船隻
 

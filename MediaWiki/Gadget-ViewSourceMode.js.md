@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-ViewSourceMode.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-ViewSourceMode.js)转换而来。
+
+
 /\*
 
 ` 此小工具為頁面提供源碼查看模式，在此模式下編輯框將被設為唯讀而不能編輯，模擬被全保護那般的狀態。`

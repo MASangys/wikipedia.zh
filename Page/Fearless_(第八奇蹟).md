@@ -1,3 +1,6 @@
+> 本文内容由[Fearless \(第八奇蹟\)](https://zh.wikipedia.org/wiki/Fearless_\(第八奇蹟\))转换而来。
+
+
 《**Fearless**》是由[英国流行音樂團體](https://zh.wikipedia.org/wiki/英国 "wikilink")[第八奇蹟首次在](https://zh.wikipedia.org/wiki/Eighth_Wonder "wikilink")1988年發行的專輯。這張專輯只有在英國發行，所有歌曲的節奏皆為快節奏，而且也包含以前在英國發行的六首單曲（其中有最早在1985年發行的單曲《Stay With Me》），還有他們最暢銷也最眾所周知的歌曲《I'm Not Scared》（\#7）與《[Cross My Heart](../Page/Cross_My_Heart_\(第八奇蹟\).md "wikilink")》（\#13）由[宠物店男孩](../Page/宠物店男孩.md "wikilink")編寫與製作。《Fearless》曾衝到[英國專輯排行榜](../Page/英國專輯排行榜.md "wikilink")第47名。隨著主唱[派西·肯塞特](../Page/派西·肯塞特.md "wikilink")專心朝向演藝之路，第八奇蹟樂團於1989年解散。
 
 《Fearless》由於2010年1月在英國重新發行，還收錄額外的五首歌曲。

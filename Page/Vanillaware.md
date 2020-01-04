@@ -1,3 +1,6 @@
+> 本文内容由[Vanillaware](https://zh.wikipedia.org/wiki/Vanillaware)转换而来。
+
+
 **Vanillaware有限公司**（）是日本的[电脑游戏](../Page/电脑游戏.md "wikilink")开发公司。公司地址在[大阪市](../Page/大阪市.md "wikilink")中央区。2002年2月8日设立。
 
 ## 概要
@@ -86,7 +89,7 @@ VanillaWare有限公司代表董事，出生于[广岛县](https://zh.wikipedia.
 <td></td>
 </tr>
 <tr class="even">
-<td><p>未定</p></td>
+<td><p>2019年11月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/十三機兵防衛圏" title="wikilink">十三機兵防衛圏</a></p></td>
 <td><p>PlayStation 4</p></td>
 <td></td>
@@ -108,9 +111,6 @@ VanillaWare有限公司代表董事，出生于[广岛县](https://zh.wikipedia.
 [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink")
 
 1.  飛鳥新社『季刊エス』2008年1月号
-
 2.
-
 3.
-
 4.

@@ -119,9 +119,9 @@ VKS消聲狙擊步槍發射專屬12.7×55毫米俄羅斯口徑[亞音速](https:
 
   - —[крупкокалиберная снайперская винтовка «Выхлоп» (Россия)](http://comitcont.narod.ru/vin/025vin.htm)
 
-  - [**VKS**](http://i2.guns.ru/forums/icons/forum_pictures/002701/2701918.jpg)
+  - [**VKS**](https://web.archive.org/web/20131002202048/http://i2.guns.ru/forums/icons/forum_pictures/002701/2701918.jpg)
 
-  - [Pic 1](http://i2.guns.ru/forums/icons/forum_pictures/002701/2701948.jpg) [Pic 2](http://i2.guns.ru/forums/icons/forum_pictures/002701/2701946.jpg)
+  - [Pic 1](https://web.archive.org/web/20111008052939/http://i2.guns.ru/forums/icons/forum_pictures/002701/2701948.jpg) [Pic 2](https://web.archive.org/web/20120307213047/http://i2.guns.ru/forums/icons/forum_pictures/002701/2701946.jpg)
     （照片中似乎是不同的VKS衍生型，或是在相同或類似的發展計劃之中的類似的競爭性武器。其主要區別之一是槍口抑制器，它可以被拆卸，武器不一定要裝上它才可發射。）
 
   - —[D Boy Gun World（槍炮世界）—VSSK微声狙击步枪](http://firearmsworld.net/russain/sr/vssk/vssk.htm)

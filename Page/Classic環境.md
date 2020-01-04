@@ -1,3 +1,6 @@
+> 本文内容由[Classic環境](https://zh.wikipedia.org/wiki/Classic環境)转换而来。
+
+
 **Classic環境**是早期[Mac OS X提供的軟件和硬件](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[抽象層](https://zh.wikipedia.org/wiki/抽象層 "wikilink")，讓用戶可以在Mac OS X之中繼續使用兼容於[Mac OS 9的應用程式](../Page/Mac_OS_9.md "wikilink")。Classic環境可在[PowerPC](../Page/PowerPC.md "wikilink")平台上的[麥金塔電腦使用](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")，支援[Mac OS X v10.4之前所有的Mac](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink") OS X，但不支援[Mac OS X v10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")。\[1\]Classic環境不支援任何使用[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")[處理器的麥金塔電腦](https://zh.wikipedia.org/wiki/處理器 "wikilink")。\[2\]
 
 ## 概要

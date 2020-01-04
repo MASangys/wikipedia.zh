@@ -1,3 +1,6 @@
+> 本文内容由[AMX-10P步兵戰車](https://zh.wikipedia.org/wiki/AMX-10P步兵戰車)转换而来。
+
+
 **AMX-10P步兵戰車**是[法國陸軍裝備的步兵戰車](https://zh.wikipedia.org/wiki/法國 "wikilink")，1965年開始研製至1968年並在1972年開始生產，到1985年停產時已生產了1,680輛，除了法國外最大的用戶的是[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")總共有600輛。
 
 ## 基本資料
@@ -65,6 +68,6 @@
 
 ## 外部連結
 
-  - [法国AMX-10P履带式步兵战车](http://www.airforceworld.com/tank/bbzc/bbzc084.htm)
+  - [法国AMX-10P履带式步兵战车](https://web.archive.org/web/20130119001629/http://airforceworld.com/tank/bbzc/bbzc084.htm)
 
 [Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[Precious](https://zh.wikipedia.org/wiki/Precious)转换而来。
+
+
 《**Precious**》為[GLAY](../Page/GLAY.md "wikilink")的第42張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介

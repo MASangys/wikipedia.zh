@@ -1,3 +1,6 @@
+> 本文内容由[We Can Fly](https://zh.wikipedia.org/wiki/We_Can_Fly)转换而来。
+
+
 「**We Can Fly**」是[Happiness的第](../Page/Happiness_\(組合\).md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月16日由[Universal Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 ## 概要

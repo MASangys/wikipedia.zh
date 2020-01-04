@@ -1,3 +1,6 @@
+> 本文内容由[Talks at Google](https://zh.wikipedia.org/wiki/Talks_at_Google)转换而来。
+
+
 **AtGoogleTalks/谷歌演讲**(或者称作 '''@Google Talks ''' 或者 **Talks@Google**) 是[谷歌遍布全球各办公室](https://zh.wikipedia.org/wiki/谷歌 "wikilink")，由谷歌赞助邀请各演讲人所带来的一系列演讲。这演讲系列的分类包括谷歌作家Authors@Google,谷歌候选Candidates@Google, 谷歌女性Women@Google, 谷歌音乐家Musicians@Google 以及其它演讲系列。关于技术的演讲，被称作**Google Tech Talks** (也被称作EngEDU \[1\]) 。
 
 2006年3月,谷歌宣布这些演讲视频会在[Google视频](../Page/Google视频.md "wikilink")公布。\[2\]\[3\] 现在这多数视频在[YouTube](../Page/YouTube.md "wikilink")上播放。
@@ -78,13 +81,9 @@
 
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:口语](https://zh.wikipedia.org/wiki/Category:口语 "wikilink")
 
-1.  <http://abeautifulwww.com/2007/02/17/top-10-google-tech-talks/>
-
+1.
 2.  [announcement of the videos being online](http://groups.google.com/group/google-friends/browse_thread/thread/2711ef5fe7d25570Google)
-
 3.
-
 4.
 5.  ["Leading@Google: Susan Cain"](http://www.youtube.com/watch?v=AzlCIS072_Y)([WebCite archive](http://www.webcitation.org/66cApZWe9)), official "AtGoogleTalks" YouTube channel, video uploaded February 8, 2012.
-
 6.  [Presents: Google Goes Gaga](http://www.youtube.com/watch?v=hNa_-1d_0tAMusicians@Google)

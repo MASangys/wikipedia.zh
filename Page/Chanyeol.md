@@ -5,7 +5,7 @@
 
 ## 早期生活
 
-燦烈於1992年11月27日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")，高中就讀於首爾市江南區現代高中。 2008年，他通過S.M.Casting System進入[SM Entertainment成為練習生](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。同時，在4年的練習生訓練中，燦烈進行了歌唱、舞蹈、演技、禮儀等多訓練，於2012年2月23日公開寫真和預告視頻。
+燦烈於1992年11月27日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")，高中就讀於首爾市江南區現代高中。 2008年，他通過S.M.Casting System進入[SM Entertainment成為練習生](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。同時，在4年的練習生訓練中，燦烈進行了歌唱、舞蹈、演技、禮儀等多訓練，於2012年2月23日公開寫真和預告影片。
 
 2016年1月23日至24日，在菲律宾马尼拉为期两天的EXO'luXion音乐会上，燦烈透露他曾于2007年在菲律宾学习英语。\[4\]
 
@@ -420,6 +420,17 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>Butterfly Ribbon</p></td>
+<td></td>
+<td><p>MQ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -669,6 +680,7 @@
 <td><ul>
 <li>第16屆<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會男子保齡球項目</a> - 金牌</li>
 <li>TC Candler 亞太區100張最帥面孔 第18名[46]</li>
+<li>TC Candler全球百大最帥面孔 第75名[47]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -739,3 +751,4 @@
 44.
 45.
 46.
+47.

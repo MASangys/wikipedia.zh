@@ -1,5 +1,7 @@
-\-- Simple Module that passes all arguments in the parent frame to a
-specified template pa = {};
+> 本文内容由[模块:PassArguments](https://zh.wikipedia.org/wiki/模块:PassArguments)转换而来。
+
+
+\-- Simple Module that passes all arguments in the parent frame to a specified template pa = {};
 
 function pa.run( frame )
 

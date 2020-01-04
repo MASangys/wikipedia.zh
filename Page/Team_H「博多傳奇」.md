@@ -1,3 +1,6 @@
+> 本文内容由[Team H「博多傳奇」](https://zh.wikipedia.org/wiki/Team_H「博多傳奇」)转换而来。
+
+
 **Team H「博多傳奇」**（）是 [HKT48](../Page/HKT48.md "wikilink") Team H 的劇場公演。
 
 ## 概要

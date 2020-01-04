@@ -55,6 +55,7 @@
   - MP-46 Blackwiddow（Beast Wars）
   - MP-47 Hound
   - MP-48 Lio Convoy
+  - MP-49 Black Convoy
 
 ## 日本特別版
 
@@ -98,6 +99,11 @@
   - MP-17+ Prowl
   - MP-29+ Defense Officer Laserwave
   - MP-36+ Megatron
+  - MP-20+ Wheeljack
+  - MP-18+ Streak
+  - MP-10ASL Convoy (atmos safari LEBRON Ver.)
+  - MP-19+ Smokescreen
+  - MP-38+ Burning Convoy
 
 ## Masterpiece Movie
 
@@ -132,6 +138,7 @@
   - Masterpiece Bumblebee & Exosuit Spike Witwicky
   - Masterpiece Shattered Glass Optimus Prime
   - Masterpiece Optimus Prime(Toys"R"Us exclusive)
+  - MP-10G Optimus Prime Ecto-35 Edition
 
 ## 外部連結
 

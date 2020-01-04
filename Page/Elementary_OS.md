@@ -1,3 +1,6 @@
+> 本文内容由[Elementary OS](https://zh.wikipedia.org/wiki/Elementary_OS)转换而来。
+
+
 **elementary OS**是一个基于[Ubuntu](../Page/Ubuntu.md "wikilink")的桌面[Linux发行版](../Page/Linux发行版.md "wikilink")。它采用自有的基于[GNOME](../Page/GNOME.md "wikilink")的名为Pantheon的桌面环境\[1\]。 这个桌面环境出众的原因是它深度集成了其他elementary OS应用程序，如Plank（一个基于[Docky的Dock](https://zh.wikipedia.org/wiki/Docky "wikilink")）、Midori（默认的[网页浏览器](../Page/网页浏览器.md "wikilink")）或Scratch（一个简单的文本编辑器）。该发行版使用基于[Mutter的Gala作为其](https://zh.wikipedia.org/wiki/Mutter "wikilink")[窗口管理器](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")\[2\]。
 
 这个发行版是从为Ubuntu设计的一套主题和应用程序发展而来的\[3\]。由于是基于Ubuntu的，因此与Ubuntu的仓库和包完全兼容。它使用Ubuntu自己的[软件中心来处理软件的安装和卸载](https://zh.wikipedia.org/wiki/Ubuntu软件中心 "wikilink")。其类似于[macOS的界面致力于使新用户不需要费太大力气就可以根据直觉使用](https://zh.wikipedia.org/wiki/macOS "wikilink")。2018年被評為最好的桌面發行版\[4\]
@@ -51,29 +54,17 @@ elementary OS的第三個穩定版本*Freya*於2015年4月釋出，其網站也�
 [Category:Live_CD](https://zh.wikipedia.org/wiki/Category:Live_CD "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.  ["elementary OS Luna Beta 1 Available For Testing"](http://www.webupd8.org/2012/11/elementary-os-luna-beta-1-available-for.html). Web UPD8, 2012-11.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

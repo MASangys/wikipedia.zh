@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 夏之猴大嬸祭](https://zh.wikipedia.org/wiki/AKB48_夏之猴大嬸祭)转换而来。
+
+
 **AKB48 夏之猴大嬸祭**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2009年9月13日在舉行的演唱會\[1\]\[2\]。
 
 ## 概要
@@ -89,35 +92,21 @@
 [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
 16.
 17.
-
 18. [DVD介紹頁面](http://www.akb48-dvdcatalog.com/mag_2/)
-
 19.

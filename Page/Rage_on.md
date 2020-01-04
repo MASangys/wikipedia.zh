@@ -1,3 +1,6 @@
+> 本文内容由[Rage on](https://zh.wikipedia.org/wiki/Rage_on)转换而来。
+
+
 《**Rage on**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[OLDCODEX](../Page/OLDCODEX.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月17日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 簡介

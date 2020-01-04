@@ -1,3 +1,6 @@
+> 本文内容由[Illacme plenipes](https://zh.wikipedia.org/wiki/Illacme_plenipes)转换而来。
+
+
 ***Illacme plenipes***是一種發現於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州中部的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[馬陸](https://zh.wikipedia.org/wiki/馬陸 "wikilink")。
 
 目前已知這種馬陸最多至少能有750條腿，這比其他馬陸都還多。這種馬陸最初見於1926年，但直到2005年才被再度发现。

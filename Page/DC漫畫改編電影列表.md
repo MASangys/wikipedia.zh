@@ -1,3 +1,6 @@
+> 本文内容由[DC漫畫改編電影列表](https://zh.wikipedia.org/wiki/DC漫畫改編電影列表)转换而来。
+
+
 **DC漫畫改編電影列表**是陳列出[DC漫畫](../Page/DC漫畫.md "wikilink")改編成的系列電影，但不包括「愛好者」和「非官方」產品。
 
 ## 院線電影
@@ -278,18 +281,19 @@
 
 ### 系列电影（1941-1952）
 
-| 年份   | 名称                                                                                   | 制作公司                                                                            | 注释                                                         |
-| ---- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 1941 | ****                                                                                 | [Republic Pictures](https://zh.wikipedia.org/wiki/Republic_Pictures "wikilink") | 由[福西特漫畫发行](https://zh.wikipedia.org/wiki/福西特漫畫 "wikilink") |
-| 1942 | ****                                                                                 |                                                                                 |                                                            |
-| 1943 | **[蝙蝠俠](https://zh.wikipedia.org/wiki/蝙蝠俠_\(1943年電影\) "wikilink")**                  | [Columbia Pictures](https://zh.wikipedia.org/wiki/Columbia_Pictures "wikilink") |                                                            |
-| 1946 | **[Hop Harrigan](https://zh.wikipedia.org/wiki/Hop_Harrigan_\(serial\) "wikilink")** |                                                                                 |                                                            |
-| 1947 | **[The Vigilante](https://zh.wikipedia.org/wiki/The_Vigilante "wikilink")**          |                                                                                 |                                                            |
-| 1948 | ****                                                                                 |                                                                                 |                                                            |
-| **** |                                                                                      |                                                                                 |                                                            |
-| 1949 | **[蝙蝠侠与罗宾](https://zh.wikipedia.org/wiki/蝙蝠俠與羅賓_\(系列電影\) "wikilink")**               |                                                                                 |                                                            |
-| 1950 | ****                                                                                 |                                                                                 |                                                            |
-| 1952 | ****                                                                                 | 由[Quality Comics发行](https://zh.wikipedia.org/wiki/Quality_Comics "wikilink")    |                                                            |
+| 年份   | 標題                                                             | 製作工作室                                                         | 附註                                                            |
+| ---- | -------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| 1941 | ****                                                           | Republic Pictures                                             | 當時是[福西特漫畫出版](https://zh.wikipedia.org/wiki/福西特漫畫 "wikilink")。 |
+| 1942 | ****                                                           | 當時是[福西特漫畫出版](https://zh.wikipedia.org/wiki/福西特漫畫 "wikilink")。 |                                                               |
+| 1943 | **[蝙蝠俠](https://zh.wikipedia.org/wiki/蝙蝠俠_\(短片\) "wikilink")** | [哥倫比亞電影公司](https://zh.wikipedia.org/wiki/哥倫比亞電影公司 "wikilink") |                                                               |
+| 1946 | ****                                                           |                                                               |                                                               |
+| 1947 | ****                                                           |                                                               |                                                               |
+| 1948 | ****                                                           |                                                               |                                                               |
+| **** |                                                                |                                                               |                                                               |
+| 1949 | ****                                                           |                                                               |                                                               |
+| 1950 | ****                                                           |                                                               |                                                               |
+| 1952 | ****                                                           | 當時是質量漫畫出版。                                                    |                                                               |
+|      |                                                                |                                                               |                                                               |
 
 ### 出自DC公司旗下出版商
 
@@ -590,8 +594,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong></strong></p></td>
-<td><p>基於《》動畫系列宇宙的電影。</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/DC超級英雄女孩：年度英雄" title="wikilink">DC超級英雄女孩：年度英雄</a></strong></p></td>
+<td><p>基於《<a href="../Page/DC超級英雄女孩.md" title="wikilink">DC超級英雄女孩</a>》動畫系列宇宙的電影。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -965,22 +969,6 @@
 | **** |           |                                                               |                                                                               |
 | **** |           |                                                               |                                                                               |
 | 2019 | ****      |                                                               |                                                                               |
-
-## 短片（1941～1952）
-
-| 年份   | 標題                                                             | 製作工作室                                                         | 附註                                                            |
-| ---- | -------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
-| 1941 | ****                                                           | Republic Pictures                                             | 當時是[福西特漫畫出版](https://zh.wikipedia.org/wiki/福西特漫畫 "wikilink")。 |
-| 1942 | ****                                                           | 當時是[福西特漫畫出版](https://zh.wikipedia.org/wiki/福西特漫畫 "wikilink")。 |                                                               |
-| 1943 | **[蝙蝠俠](https://zh.wikipedia.org/wiki/蝙蝠俠_\(短片\) "wikilink")** | [哥倫比亞電影公司](https://zh.wikipedia.org/wiki/哥倫比亞電影公司 "wikilink") |                                                               |
-| 1946 | ****                                                           |                                                               |                                                               |
-| 1947 | ****                                                           |                                                               |                                                               |
-| 1948 | ****                                                           |                                                               |                                                               |
-| **** |                                                                |                                                               |                                                               |
-| 1949 | ****                                                           |                                                               |                                                               |
-| 1950 | ****                                                           |                                                               |                                                               |
-| 1952 | ****                                                           | 當時是質量漫畫出版。                                                    |                                                               |
-|      |                                                                |                                                               |                                                               |
 
 ## 電視電影
 

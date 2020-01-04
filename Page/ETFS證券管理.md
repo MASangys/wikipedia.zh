@@ -1,3 +1,6 @@
+> 本文内容由[ETFS證券管理](https://zh.wikipedia.org/wiki/ETFS證券管理)转换而来。
+
+
 **ETFS證券管理股份有限公司**，簡稱**ETFS證券管理股份**、**ETFS證券管理**，以及**ETFS證券**（****），在2003年由多名自願性僱主和投資者設立，總部位於[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。
 
 主要投資和推廣[交易所買賣商品](https://zh.wikipedia.org/wiki/交易所買賣商品 "wikilink")（ETC）、[交易所交易貨幣](https://zh.wikipedia.org/wiki/交易所交易貨幣 "wikilink")（ETC）和第三代的[交易所買賣基金](https://zh.wikipedia.org/wiki/交易所買賣基金 "wikilink")（ETFs）等類型產品\[1\]\[2\]。2003年，首份黃金交易所買賣商品上市\[3\]，再在2008年，首批交易所交易貨幣於[倫敦證券交易所上市](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink")\[4\]。2012年，三份金屬產品，在2012年11月28日於港交所上市，也就是[ETFS實物金上市基金](https://zh.wikipedia.org/wiki/ETFS實物金上市基金 "wikilink")（）、[ETFS實物銀上市基金](https://zh.wikipedia.org/wiki/ETFS實物銀上市基金 "wikilink")（）和[ETFS實物銀上市基金](https://zh.wikipedia.org/wiki/ETFS實物銀上市基金 "wikilink")（）和[ETFS實物鉑上市基金](https://zh.wikipedia.org/wiki/ETFS實物鉑上市基金 "wikilink")（）\[5\]。

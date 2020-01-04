@@ -1,3 +1,6 @@
+> 本文内容由[Waii Panyarisa Thienprasiddhi](https://zh.wikipedia.org/wiki/Waii_Panyarisa_Thienprasiddhi)转换而来。
+
+
 **WAii**，原名**潘妮亞莉莎·田普拉西德喜**（泰語：，拉丁拼寫：Panyarisa Thienprasiddhi，），[泰國女歌手](https://zh.wikipedia.org/wiki/泰國 "wikilink")
 
 ## 簡歷

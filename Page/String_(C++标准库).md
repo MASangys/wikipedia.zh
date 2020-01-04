@@ -1,3 +1,6 @@
+> 本文内容由[String \(C++标准库\)](https://zh.wikipedia.org/wiki/String_\(C++标准库\))转换而来。
+
+
 **<string>**是[C++標準程式庫中的一個](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了[C++](../Page/C++.md "wikilink")标准中的[字符串](../Page/字符串.md "wikilink")的基本模板类std::basic_string及相关的模板类实例：
 
 | 模板类实例       | std::basic_string的模板实参                            |

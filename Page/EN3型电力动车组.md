@@ -1,3 +1,6 @@
+> 本文内容由[EN3型电力动车组](https://zh.wikipedia.org/wiki/EN3型电力动车组)转换而来。
+
+
 **EN3型电力动车组**（）是[俄罗斯铁路的](../Page/俄罗斯铁路运输.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，也是俄罗斯第一种采用交流传动技术的交流电力动车组，适用于供电制式为25千伏50赫兹[单相交流电的](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[诺沃切尔卡斯克电力机车厂](../Page/诺沃切尔卡斯克电力机车厂.md "wikilink")设计制造，于1999年研制成功，但未投入批量生产。
 
 ## 发展历史

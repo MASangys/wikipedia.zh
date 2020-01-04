@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚Lumia 720](https://zh.wikipedia.org/wiki/诺基亚Lumia_720)转换而来。
+
+
 **Nokia Lumia 720**是一款[Nokia以](https://zh.wikipedia.org/wiki/Nokia "wikilink")[Windows Phone 8平台所開發的](../Page/Windows_Phone_8.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。Lumia 720發表於2013年2月，同時也是全球第一支9.0mm薄的Windows Phone 8智慧型手機。Nokia Lumia 720外殼材料是聚碳酸酯，硬體上配置[Snapdragon第四代](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")（S4）MSM8227 1.0GHz處理器、4.3吋800x480解析度螢幕、670萬像素並卡爾蔡司相機鏡頭、2000mAh電池，屬於2013年度的Windows Phone 8[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
 
 Nokia Lumia 720內建無線充電模組，可以使用國際標準的Qi無線充電，而Nokia也會為其推出[NFC連接的產品](https://zh.wikipedia.org/wiki/NFC "wikilink")，包括無線喇叭、耳機等。

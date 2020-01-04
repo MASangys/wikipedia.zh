@@ -1,3 +1,6 @@
+> 本文内容由[魔物獵人攜帶版3rd](https://zh.wikipedia.org/wiki/魔物獵人攜帶版3rd)转换而来。
+
+
 《**魔物獵人攜帶版3rd**》（，）是於2010年12月1日於[日本](../Page/日本.md "wikilink")發佈的一個[魔物獵人系列](../Page/魔物獵人系列.md "wikilink")遊戲，其平台為[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")。之後，此遊戲被重新製成[PlayStation 3版本](../Page/PlayStation_3.md "wikilink")。\[1\]此遊戲引入了很多新元素。\[2\]
 
 ## 概述
@@ -29,26 +32,17 @@
 [Category:2010年電子遊戲](https://zh.wikipedia.org/wiki/Category:2010年電子遊戲 "wikilink") [Category:2011年電子遊戲](https://zh.wikipedia.org/wiki/Category:2011年電子遊戲 "wikilink") [Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink") [Category:魔物獵人系列](https://zh.wikipedia.org/wiki/Category:魔物獵人系列 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:立體3D圖像遊戲](https://zh.wikipedia.org/wiki/Category:立體3D圖像遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.

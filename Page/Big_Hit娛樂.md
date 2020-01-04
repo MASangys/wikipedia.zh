@@ -1,3 +1,6 @@
+> 本文内容由[Big Hit娛樂](https://zh.wikipedia.org/wiki/Big_Hit娛樂)转换而来。
+
+
 **Big Hit Entertainment**（）是一間韓國經紀娛樂公司。2005年由韓國知名音樂製作人兼作曲家Hitman Bang（本名：[房時爀](../Page/房時爀.md "wikilink")）於韓國創辦，主要從事音樂製作、專輯發行、演藝人員管理、宣傳、規劃、培养等相關活動。
 
 目前主要藝人有[李賢](../Page/李賢_\(韓國歌手\).md "wikilink")、[防彈少年團](../Page/防彈少年團.md "wikilink")、[TOMORROW X TOGETHER](../Page/TXT_\(組合\).md "wikilink")。
@@ -69,6 +72,7 @@
   - Slow Rabbit
   - Supreme Boi
   - ADORA
+  - HissNoise
   - [閔玧其](../Page/閔玧其.md "wikilink")
   - [鄭號錫](../Page/鄭號錫.md "wikilink")
   - [金南俊](../Page/金南俊.md "wikilink")
@@ -99,6 +103,7 @@
       - 《BTS：Burn The Stage》
   - 2019年
       - 《Run BTS\!》第三季
+      - 《BTS Bon Voyage》第四季
 
 ### 電影
 
@@ -163,6 +168,7 @@
   - [信飛](../Page/SinB.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）
   - [海允](../Page/海允.md "wikilink")（[Cherry Bullet](../Page/Cherry_Bullet.md "wikilink")）
   - 彩麟（[Cherry Bullet](../Page/Cherry_Bullet.md "wikilink")）
+  - 丞泫（[RANIA](../Page/RANIA.md "wikilink")）
 
 ## 外部連結
 

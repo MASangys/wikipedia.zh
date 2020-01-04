@@ -1,3 +1,6 @@
+> 本文内容由[SAP公開賽](https://zh.wikipedia.org/wiki/SAP公開賽)转换而来。
+
+
 **SAP公開賽**是一項已終止的年度室內硬地男子球賽，曾為[ATP世界巡迴賽250賽的一部分](https://zh.wikipedia.org/wiki/ATP世界巡迴賽250賽 "wikilink")，在停賽前為美國第二古老還在舉行的網球賽。2013年為本賽事最後一次於[聖荷西舉行](../Page/聖荷西_\(加利福尼亞州\).md "wikilink")。
 
 ## 歷屆冠亞軍

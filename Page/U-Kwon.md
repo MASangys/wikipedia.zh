@@ -1,3 +1,6 @@
+> 本文内容由[U-Kwon](https://zh.wikipedia.org/wiki/U-Kwon)转换而来。
+
+
 **U-Kwon**（，），本名**金有權**，[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，也是韓國男子組合[Block B](../Page/Block_B.md "wikilink")\[1\]的成員之一。在2011年4月15日以單曲《[Do U Wanna B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 
 ## 經歷

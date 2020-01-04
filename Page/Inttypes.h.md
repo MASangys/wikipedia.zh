@@ -1,3 +1,6 @@
+> 本文内容由[Inttypes.h](https://zh.wikipedia.org/wiki/Inttypes.h)转换而来。
+
+
 **`inttypes.h`**是[C標準函数庫中的](https://zh.wikipedia.org/wiki/C標準函数庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，提供了各种位宽的整数类型输入输出时的转换标志宏。
 
 ## 宏

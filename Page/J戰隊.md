@@ -93,7 +93,7 @@
   - 8月4日:風哥**FireFox**(黃鼎翔)宣布加入並擔任戰隊總監兼總教練，教練由**Prydz小峯**(陳廣峯）、**狗八**(蔡學裕）擔任，助理教練為**飄飄**(翁于梵）和**凱淵**(游閔翔）\[20\]
   - 8月26日:前TPA S2世界冠軍成員參加六都表演賽\[21\]
   - 9月7日:LMS季後賽JT VS HKA，以3:1取得勝利
-  - 9月9日:LMS季後賽JT VS MAD，以3:0敗給MAD
+  - 9月9日:LMS季後賽JT VS MAD，以0:3敗給MAD
   - 9月21日:LMS區域資格賽JT VS M17，以3:2取得勝利
   - 9月22日:LMS區域資格賽JT VS GRX，以0:3敗給GRX
   - 11月30日:戰隊總監兼總教練**FireFox**黃鼎翔(火狐)、教練**Prydz**陳廣峯(小峯)及教練**Dog8**蔡學裕(狗八)宣布正式離隊\[22\]
@@ -135,12 +135,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Refra1n</p></td>
-<td><p>陳冠廷</p></td>
-<td><p>Jungle</p></td>
+<td><p>Nestea</p></td>
+<td><p>許寶遠</p></td>
+<td><p>Mid</p></td>
 <td></td>
 <td></td>
-<td><p>[27]</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Hana</p></td>
@@ -159,8 +159,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Koala</p></td>
-<td><p>林志強</p></td>
+<td><p>Woody</p></td>
+<td><p>林弘裕</p></td>
 <td><p>Sup</p></td>
 <td></td>
 <td></td>
@@ -214,18 +214,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Woody</p></td>
-<td><p>林弘裕</p></td>
-<td><p>Support</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Hfhy</p></td>
 <td><p>黃新宇</p></td>
 <td><p>Substitute</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Pocky</p></td>
 <td><p>郭家銘</p></td>
 <td><p>Substitute</p></td>
@@ -510,6 +504,14 @@
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>Refra1n</p></td>
+<td><p>陳冠廷</p></td>
+<td><p>Jungle</p></td>
+<td></td>
+<td></td>
+<td><p>[27]</p></td>
 </tr>
 </tbody>
 </table>

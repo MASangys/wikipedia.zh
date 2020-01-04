@@ -48,4 +48,4 @@
 [Category:菲律賓電視台](https://zh.wikipedia.org/wiki/Category:菲律賓電視台 "wikilink") [Category:電視網](https://zh.wikipedia.org/wiki/Category:電視網 "wikilink")
 
 1.  ["TV5 losses double to P4.1B in 2011"](http://business.inquirer.net/66981/tv5-losses-double-to-p4-1b-in-2011)
-2.  [ABC-5 changes name to TV5](http://www.pep.ph/guide/tv/2310/ABC-5-changes-name-to-TV5)
+2.

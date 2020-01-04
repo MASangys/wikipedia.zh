@@ -1,3 +1,6 @@
+> 本文内容由[8Eight](https://zh.wikipedia.org/wiki/8Eight)转换而来。
+
+
 **8eight**（），是韓國[Big Hit娛樂與](../Page/Big_Hit娛樂.md "wikilink")[Source Music聯合推出的三人男女混合重唱團體](../Page/Source_Music.md "wikilink")。2007年8月27日，透過首張正規專輯《The First》出道。\[1\]團員包括隊長[李賢](../Page/李賢_\(韓國歌手\).md "wikilink")、、，是挑戰[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") Show Vival節目而得到出道機會的團體。2014年12月21日韓國媒體報導，除了李賢因為在活動期間入伍、合約尚未到期以外，成員珠熙與白燦的合約在9月的時候就已經結束，他們決定不與公司續約，因此8eight自然地解散。\[2\]
 
 ## 成員資料

@@ -1,3 +1,6 @@
+> 本文内容由[VH1](https://zh.wikipedia.org/wiki/VH1)转换而来。
+
+
 **VH1**為一家總部為於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約的音乐频道](https://zh.wikipedia.org/wiki/紐約 "wikilink")。於1985年1月1日成立，由原[透納廣播公司](../Page/透納廣播公司.md "wikilink")的Cable Music Channel空間填補出來。
 
 ## 外部連結

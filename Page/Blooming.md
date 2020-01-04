@@ -1,3 +1,6 @@
+> 本文内容由[Blooming](https://zh.wikipedia.org/wiki/Blooming)转换而来。
+
+
 《**Blooming**》為香港歌手[蔡卓妍](../Page/蔡卓妍.md "wikilink")的第三張粵語大碟，專輯收录11首曲目（包括第一主打《错过》的伴奏带）及5支MV，封套和第二主打《活着》MV遠赴[英國拍攝](https://zh.wikipedia.org/wiki/英國 "wikilink")，。专辑于2013年6月20日在香港发行，内地于2013年11月5日发行。
 
 ## 介紹

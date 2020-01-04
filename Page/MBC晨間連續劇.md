@@ -1,3 +1,6 @@
+> 本文内容由[MBC晨間連續劇](https://zh.wikipedia.org/wiki/MBC晨間連續劇)转换而来。
+
+
 **MBC晨間連續劇**（），亦稱**MBC日日晨間劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台每逢週一至週五晨間播放的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1981年5月25日，播出37年直至2018年4月26日廢止。2018年4月30日起，此時段改為重播[日日連續劇時段的劇集](../Page/MBC日日連續劇.md "wikilink")。2019年7月16日起將重啟此時段。
 
 ## 播映時間
@@ -1442,16 +1445,27 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月16日－<br />
-2020年1月</p></td>
+2019年11月29日</p></td>
 <td style="text-align: center;"><p><a href="../Page/全都是孔多利.md" title="wikilink">全都是孔多利</a><br />
 </p></td>
-<td style="text-align: center;"><p>120</p></td>
+<td style="text-align: center;"><p>99</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴詩恩.md" title="wikilink">朴詩恩</a>、<a href="../Page/金浩鎮.md" title="wikilink">金浩鎮</a>、<a href="../Page/李甫姬.md" title="wikilink">李甫姬</a>、、</p></td>
 <td style="text-align: center;"><p><a href="../Page/金興東.md" title="wikilink">金興東</a></p></td>
 <td style="text-align: center;"><p>金智賢</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p>2019年12月2日－<br />
+2020年5月</p></td>
+<td style="text-align: center;"><p><a href="../Page/壞愛情_(2019年韓國電視劇).md" title="wikilink">壞愛情</a><br />
+</p></td>
+<td style="text-align: center;"><p>120</p></td>
+<td style="text-align: center;"><p><a href="../Page/申高恩.md" title="wikilink">申高恩</a>、<a href="../Page/李善鎬.md" title="wikilink">李善鎬</a>、<a href="../Page/吳丞芽.md" title="wikilink">吳丞芽</a>、<a href="../Page/尹鍾和.md" title="wikilink">尹鍾和</a></p></td>
+<td style="text-align: center;"><p>洪勝熙</p></td>
+<td style="text-align: center;"><p>金美淑</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

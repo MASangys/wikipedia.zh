@@ -1,3 +1,6 @@
+> 本文内容由[AppStream](https://zh.wikipedia.org/wiki/AppStream)转换而来。
+
+
 **AppStream**是幾個主要的[GNU/Linux提供者之間的協議](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")（如[紅帽公司](../Page/紅帽公司.md "wikilink")、[Canonical公司](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")、[SUSE](../Page/SUSE.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Mandriva](../Page/Mandriva.md "wikilink")等），為了要創造Linux上的共同的軟體安裝程式以及一個統一的軟體安裝[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")，還有分享[元数据](../Page/元数据.md "wikilink")\[1\]。
 
 這個專案有對自己以下的描述：“*是跨發行版的初步合作，為了創造一個統一的軟體元数据資料庫，以及集中OCS（）中使用者所貢獻內容的資料庫，以此提供最好的使用者體驗。*”

@@ -1,3 +1,6 @@
+> 本文内容由[FLASH BEST](https://zh.wikipedia.org/wiki/FLASH_BEST)转换而来。
+
+
 《**FLASH BEST**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第1張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。於2009年8月26日發行。唱片公司為。
 
 ## 概要

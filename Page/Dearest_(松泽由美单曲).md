@@ -1,3 +1,6 @@
+> 本文内容由[Dearest \(松泽由美单曲\)](https://zh.wikipedia.org/wiki/Dearest_\(松泽由美单曲\))转换而来。
+
+
 《**Dearest**》是日本歌手[松泽由美的第](https://zh.wikipedia.org/wiki/松泽由美 "wikilink")5支[单曲](../Page/单曲.md "wikilink")。1998年7月3日由[STARCHILD发售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 ## 概要

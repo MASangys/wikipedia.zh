@@ -1,3 +1,6 @@
+> 本文内容由[Ios base](https://zh.wikipedia.org/wiki/Ios_base)转换而来。
+
+
 **ios_base** 是[C++標準程式庫中的一個类](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")，定义于<ios>头文件中。ios_base类封装了C++标准中的[流输入输出中不依赖于读写的数据的类型的基本信息](https://zh.wikipedia.org/wiki/iostream "wikilink")，如格式化信息、异常状态、事件回调函数等。
 
 C++程序设计时，一般不会直接调用std::ios_base的成员函数，但是会经常用到该类中定义的各种流的数据格式的枚举值常量。如ios_base::hex、ios_base::skipws等等。

@@ -1,3 +1,6 @@
+> 本文内容由[D坂杀人事件](https://zh.wikipedia.org/wiki/D坂杀人事件)转换而来。
+
+
 《**D坂杀人事件**》是[江户川乱步于](https://zh.wikipedia.org/wiki/江户川乱步 "wikilink")1924年发表的一篇[侦探小说](https://zh.wikipedia.org/wiki/侦探小说 "wikilink")，於1998年被改编為同名电影。
 
 ## 小说

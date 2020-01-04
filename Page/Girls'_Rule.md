@@ -1,3 +1,6 @@
+> 本文内容由[Girls\' Rule](https://zh.wikipedia.org/wiki/Girls\'_Rule)转换而来。
+
+
 《**Girls' Rule**》（，又譯為**女生規則**）是[日本](../Page/日本.md "wikilink")女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")6張單曲，於2013年7月3日由[N46Div.發行](../Page/Sony_Music_Records.md "wikilink")。\[1\]
 
 ## 發行
@@ -91,12 +94,8 @@
 [Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:2013年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon單曲週榜冠軍作品 "wikilink") [Category:2013年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2013年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2013年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2013年Hot_Singles_Sales冠軍單曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.

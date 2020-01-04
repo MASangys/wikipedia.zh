@@ -1,3 +1,6 @@
+> 本文内容由[艦隊Collection](https://zh.wikipedia.org/wiki/艦隊Collection)转换而来。
+
+
 《**艦隊Collection -艦Colle-**》（），一般譯作「艦隊收藏」，是由[角川遊戲開發](../Page/角川集團.md "wikilink")、[DMM.com](../Page/DMM.com.md "wikilink")提供及營運的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，簡稱《艦Colle》（）；DMM表記《》。本遊戲以[第二次世界大戰時期的各國](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[軍艦](https://zh.wikipedia.org/wiki/軍艦 "wikilink")（以[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")為多數）為題材，而遊戲內容為玩家需要收集稱為「艦娘」（）的軍艦[萌擬人化](../Page/萌擬人化.md "wikilink")角色卡片，為艦娘進行強化及改造同時，並以在戰鬥中打倒敵人作為目標。作為PC瀏覽器運行的網頁遊戲，在營運半年用戶即突破100萬\[1\]。
 
 拥有音乐CD、Drama CD、四格漫畫、動畫、小說等衍生作品。由於遊戲畫面與對話設計別具特色、對史實的再解釋，成為同人創作與同人作品的熱門素材\[2\]。
@@ -41,6 +44,8 @@
 2019年5月21日舉行的春季限定活動中，擊破第二張地圖可以獲得[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")[占守型海防艦的](https://zh.wikipedia.org/wiki/占守型海防艦 "wikilink")，並可透過打撈獲得其同型艦的。在擊破第三張地圖後，將可獲得[義大利皇家海軍](../Page/義大利皇家海軍.md "wikilink")的。後段作戰中則可以打撈[美國海軍](../Page/美國海軍.md "wikilink")的[弗莱彻级驱逐舰命名艦](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")[弗萊徹號驅逐艦 (DD-445)](https://zh.wikipedia.org/wiki/弗萊徹號驅逐艦_\(DD-445\) "wikilink")，更能夠於擊破第五張地圖(最終關卡)後獲得美國海軍[科羅拉多級戰艦的](https://zh.wikipedia.org/wiki/科羅拉多級戰艦 "wikilink")[科羅拉多號戰艦](../Page/科羅拉多號戰艦.md "wikilink")。
 
 2019年8月30日开始的夏季限定活动中，擊破第二張地圖就可獲得[義大利皇家海軍](../Page/義大利皇家海軍.md "wikilink")的[阿布魯齊公爵號輕巡洋艦](../Page/阿布魯齊公爵號輕巡洋艦.md "wikilink")。在擊破活動的最終一張地圖後可以獲得[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")的。並且可在這兩張地圖中通過打撈獲得[意大利皇家海军的](https://zh.wikipedia.org/wiki/意大利皇家海军 "wikilink")號。
+
+2019年11月29日开始的秋季限定活动中，擊破第三張地圖就可獲得[澳大利亚皇家海军的](https://zh.wikipedia.org/wiki/澳大利亚皇家海军 "wikilink")。同时可在这张地图通过打捞获得[荷兰皇家海军的](https://zh.wikipedia.org/wiki/荷兰皇家海军 "wikilink")。通过第四张地图后就可获得[大日本帝國陆軍的特种船](https://zh.wikipedia.org/wiki/大日本帝國陆軍 "wikilink")[神州丸](https://zh.wikipedia.org/wiki/神州丸 "wikilink")。并且可在此地图通过打捞获得[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[北安普顿级重巡洋艦的](https://zh.wikipedia.org/wiki/北安普顿级重巡洋艦 "wikilink")。突破后段作战的最后一张地图后就可以获得[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[亚特兰大级轻巡洋艦的](https://zh.wikipedia.org/wiki/亚特兰大级轻巡洋艦 "wikilink")。
 
 登場的艦娘各有自己的專用台詞，並使用[聲優](../Page/聲優.md "wikilink")錄製成全語音，部分艦娘還有整點報時的語音。重大節日（聖誕節、[新曆新年等日本傳統節日](../Page/日本新年.md "wikilink")）、或是牽涉到史實的活動時亦會裝設期間限定的語音。聲優最多一人分飾約10艘的艦娘。至2014年11月底已登場艦娘配音聲優名單刊載於官方解說書《》\[8\]。
 
@@ -848,7 +853,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>金剛、比叡、榛名、霧島、翔鶴 、瑞鶴 、皇家方舟、瑞鳳 、鈴谷 、熊野 、由良、鬼怒 、阿武隈 、夕張 、阿賀野 、能代 、矢矧 、酒匂 、朝潮、大潮、滿潮、荒潮、霰、霞、陽炎、不知火、黒潮、親潮、初風 、野分 、舞風 、 嵐 、萩風 、速吸、深海棲艦（敵艦）的部分（驅逐水鬼、歐洲棲姬、深海鶴棲姬）</p></td>
+<td><p>金剛、比叡、榛名、霧島、翔鶴 、瑞鶴 、皇家方舟、瑞鳳 、鈴谷 、熊野 、由良、鬼怒 、阿武隈 、夕張 、阿賀野 、能代 、矢矧 、酒匂 、朝潮、大潮、滿潮、荒潮、霰、霞、陽炎、不知火、黒潮、親潮、初風 、野分 、舞風 、 嵐 、萩風 、速吸、深海棲艦（敵艦）的部分（驅逐水鬼、歐洲棲姬、深海鶴棲姬）、服裝設計(深海磨鎖鬼、深海道化鬼)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -916,7 +921,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/皇宇_(ZECO).md" title="wikilink">ZECO</a></p></td>
-<td><p>Samuel B. Roberts、約翰斯頓</p></td>
+<td><p>Samuel B. Roberts、約翰斯頓、Houston、深海棲艦（敵艦）的部分（バタビア沖棲姫）</p></td>
 </tr>
 <tr class="even">
 <td><p>A士</p></td>
@@ -1943,134 +1948,86 @@
 [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink") [Category:角川書店遊戲](https://zh.wikipedia.org/wiki/Category:角川書店遊戲 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
     參考標題No.12
-
 7.
 8.
-
 9.  不過，根據考證，歷史上的甘古特號戰艦在變更艦名為十月革命號後艦名始終未改回原先的甘古特號
-
 10. 然而，在遊戲中切換時卻需消耗特殊的素材
-
 11. 在第1次改造後U-511的振假名由ー511改成（皐月1號），不過沒有變更艦名。在第2次改造變更為呂500
-
 12. 史實中是量產多艘而非只有一艘艦船使用此名，故遊戲中此艦娘並不是指個別一艘船，而是將此艦型全體以同一角色實裝。
-
 13.
-
 14.
 15.
 16.
 17.
 18.
 19.
-
 20.
-
 21.
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27. 網頁遊戲版以「谷邊由美」的名義公佈。電視動畫版則以「タニベユミ」名義。
-
 28.
 29.
     參考標題No.150
-
 30.
 31.
 32.
-
 33.
 34.
-
 35.
 36.
-
 37.
-
 38.
     參考標題No.181
-
 39. 與原為巡洋戰艦的[天城並不相同](https://zh.wikipedia.org/wiki/天城號航空母艦 "wikilink")（該艦仍未於作品中出現），本艦為[雲龍級航空母艦](../Page/雲龍級航空母艦.md "wikilink")的第二艦。
-
 40.
 41.
 42.
-
 43. COMPTIQ雜誌 2016年1月號 2015年12月10日出版
-
 44. COMPTIQ雜誌 2015年10月號 9月10日出版
-
 45. COMPTIQ雜誌 2015年10月號 9月10日出版
-
 46. COMPTIQ雜誌 2015年10月號 9月10日出版
-
 47. COMPTIQ雜誌 2016年1月號 2015年12月10日出版
-
 48. COMPTIQ雜誌 2016年1月號 2015年12月10日出版
-
 49.
-
 50.
-
 51.
 52.
 53. 同人誌『提督の冬休み。』（C2機関）の記載。
-
 54.
 55. 、潛水棲姬
-
 56.
 57.
 58.
 59.
-
 60.
 61.
 62.
 63.
 64.
 65.
-
 66.
-
 67.
-
 68.
-
 69.
 70.
-
 71.
-
 72.
-
 73.
-
 74.
 75. 『艦これ白書』。
-
 76.
-
 77.
-
 78.
-
 79.
 80.
 81.
@@ -2079,81 +2036,45 @@
 84.
 85.
 86.
-
 87.
-
 88.
-
 89.
 90.
 91.
-
 92.
-
 93.
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100. 2015年6月，總人數突破320萬[舰队collection于twitter](https://twitter.com/KanColle_STAFF/status/619681618999906304)
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
 109.
 110.
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119. 2018年8月维护后游戏改为[HTML5](../Page/HTML5.md "wikilink")系统。
-
 120.
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.

@@ -1,3 +1,6 @@
+> 本文内容由[想用1000%的力量來戀愛／Pretty Rhythm de Go！](https://zh.wikipedia.org/wiki/想用1000%的力量來戀愛／Pretty_Rhythm_de_Go！)转换而来。
+
+
 「**1000%キュンキュンさせてよ／プリティーリズムでGo！**」是由Pretty Rhythm☆All Stars（SERENON和MARs），在2011年12月16日由avex entertainment發行。
 
 ## 概要

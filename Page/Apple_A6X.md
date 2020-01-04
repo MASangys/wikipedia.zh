@@ -1,3 +1,6 @@
+> 本文内容由[Apple A6X](https://zh.wikipedia.org/wiki/Apple_A6X)转换而来。
+
+
 **Apple A6X**是[蘋果公司設計的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[SoC](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")，於2012年10月23日發表。它只用於[iPad with Retina display](../Page/IPad_\(第四代\).md "wikilink")。
 
 ## 設計

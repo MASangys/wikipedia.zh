@@ -1,3 +1,6 @@
+> 本文内容由[New \(C++\)](https://zh.wikipedia.org/wiki/New_\(C++\))转换而来。
+
+
 **`new`**是[C++](../Page/C++.md "wikilink")程序设计语言中的一种语言结构，用于动态分配内存、并用[构造函数初始化分配的内存](https://zh.wikipedia.org/wiki/构造函数 "wikilink")。
 
 new的使用称为“new运算符表达式”，其内部实现分为两步：

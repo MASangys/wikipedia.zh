@@ -1,3 +1,6 @@
+> 本文内容由[美甲店Paris](https://zh.wikipedia.org/wiki/美甲店Paris)转换而来。
+
+
 [全智厚](https://zh.wikipedia.org/wiki/全智厚 "wikilink"){{、w}}[宋再臨](../Page/宋再臨.md "wikilink"){{、w}}[天　動](../Page/天動.md "wikilink") | slogan = | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 10 | list_episodes = | executive_producer = | producer = | editor = | location = | cinematography = | camera = | runtime = | company = | distributor = | channel = [MBC QueeN](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | status = | preceded_by = | followed_by = | related = | website = <http://www.mbcplus.com/program/paris/> | production_website = | 台灣名稱 = 巴黎美甲店 }}
 
 《**美甲店Paris**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC QueeN於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年5月3日起播放的金曜劇。由《[型男保姆到我家](../Page/型男保姆到我家.md "wikilink")》[成敏智作家和](https://zh.wikipedia.org/wiki/成敏智 "wikilink")[朴秀哲導演合作打造](https://zh.wikipedia.org/wiki/朴秀哲 "wikilink")，講述女主角洪如珠女扮男裝進入花美男們所經營的美甲店工作而展開的故事。\[1\]

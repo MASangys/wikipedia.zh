@@ -1,3 +1,6 @@
+> 本文内容由[WHITE ROAD](https://zh.wikipedia.org/wiki/WHITE_ROAD)转换而来。
+
+
 《**WHITE ROAD**》為[GLAY](../Page/GLAY.md "wikilink")的第32張單曲，有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
 
 ## 簡介

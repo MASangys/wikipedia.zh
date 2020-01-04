@@ -1,3 +1,6 @@
+> 本文内容由[Sleep \(Unix\)](https://zh.wikipedia.org/wiki/Sleep_\(Unix\))转换而来。
+
+
 **sleep**是一个[Unix的](https://zh.wikipedia.org/wiki/Unix "wikilink")[命令行程序](https://zh.wikipedia.org/wiki/命令行 "wikilink")，可以[挂起执行程序一段指定时间](../Page/睡眠_\(系统调用\).md "wikilink")。**sleep**指令可以将调用它的[进程挂起至少指定秒](https://zh.wikipedia.org/wiki/进程 "wikilink")（默认）、分、时或天。
 
 ## 用法

@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy S III Mini](https://zh.wikipedia.org/wiki/三星Galaxy_S_III_Mini)转换而来。
+
+
 **Samsung Galaxy S III Mini**（**GT-I8190**/**SM-G730A/V/W8**/）是一个基于[触摸屏的](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[直板高階](https://zh.wikipedia.org/wiki/手机规格 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，由[三星设计制造](../Page/三星電子.md "wikilink")，在2012年10月宣布，2012年11月发布。加拿大及美國LTE版SM-G730A/V/W8，2013年在加拿大及美國開始正式發售。Galaxy S III Mini技术规格包括4英寸的[Super AMOLED显示屏](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")，1 GHz双核处理器，1 GB的RAM，500万像素后置摄像头和一个前置摄像头用于视频通话或自拍。\[1\]
 
 这是Samsung Galaxy S III的姊妹产品，它带有Samsung Galaxy S III的部分功能，如弹出式播放，Best Photo，Smart Stay，Group Play(Group Play只在特别版SM-G730A/V/W8上可用），直接呼叫，[S Voice等基本功能](../Page/S_Voice.md "wikilink")，但它缺少Samsung Galaxy S III的8百万像素后置相机，2GB RAM，更大的4.8英寸的屏幕和康宁Gorilla 2玻璃。
@@ -28,7 +31,6 @@
 [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
 
 1.  [Samsung I8190 Galaxy S III mini](http://www.gsmarena.com/samsung_i8190_galaxy_s_iii_mini-5033.php), GSMArena.com
-
 2.
 3.
 4.  [三星Galaxy S III mini测评：屏幕竞争力弱_数码_腾讯网](http://digi.tech.qq.com/a/20121202/000061.htm)
