@@ -1,7 +1,0 @@
-《**So**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[蘇永康第一張粵語EP](../Page/蘇永康.md "wikilink")，於[1994年由](../Page/1994年.md "wikilink")[新藝寶唱片發行](../Page/新藝寶唱片.md "wikilink")。
-
-## 曲目
-
-[Category:蘇永康音樂專輯](https://zh.wikipedia.org/wiki/Category:蘇永康音樂專輯 "wikilink")
-[Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

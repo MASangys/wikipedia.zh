@@ -1,7 +1,0 @@
-《**Next Step**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[麥浚龍](../Page/麥浚龍.md "wikilink")的第2張唱片，於2003年3月18日推出。
-
-## 曲目列表
-
-## 專輯派台歌曲成績
-
-[Category:麥浚龍音樂專輯](https://zh.wikipedia.org/wiki/Category:麥浚龍音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

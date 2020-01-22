@@ -1,6 +1,0 @@
-<span class="plainlinks">\[
-<span style="color:red;">{{\#expr:{{\#invoke:PatternedCandidateUtils|count|title=Wikipedia:申请成为管理人员/申请区|pattern=Wikipedia:申請成為管理員/|black=header}}+{{\#invoke:PatternedCandidateUtils|count|title=Wikipedia:申请成为管理人员/申请区|pattern=Wikipedia:申請成為行政員/|black=header}}+{{\#invoke:PatternedCandidateUtils|count|title=Wikipedia:申请成为管理人员/申请区|pattern=Wikipedia:申請成為用戶查核員/|black=header}}+{{\#invoke:PatternedCandidateUtils|count|title=Wikipedia:申请成为管理人员/申请区|pattern=Wikipedia:申請成為監督員/|black=header}}+{{\#invoke:PatternedCandidateUtils|count|title=Wikipedia:申请成为管理人员/申请区|pattern=Wikipedia:申请成为管理员/|black=header}}+{{\#invoke:PatternedCandidateUtils|count|title=Wikipedia:申请成为管理人员/申请区|pattern=Wikipedia:申请成为行政员/|black=header}}+{{\#invoke:PatternedCandidateUtils|count|title=Wikipedia:申请成为管理人员/申请区|pattern=Wikipedia:申请成为用户查核员/|black=header}}+{{\#invoke:PatternedCandidateUtils|count|title=Wikipedia:申请成为管理人员/申请区|pattern=Wikipedia:申请成为监督员/|black=header}}}}</span>\]</span>项<noinclude>
-
------
-
-目前已採取自動計算，故不用一直編輯下去，若出現錯誤，請立即修正。 </noinclude>

@@ -1,3 +1,0 @@
-## Fair use rationale
-
-## Licensing

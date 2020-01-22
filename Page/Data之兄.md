@@ -1,5 +1,0 @@
-**Data之兄**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Datalore**）是[美国](../Page/美国.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[电视剧](../Page/电视剧.md "wikilink")[星际旅行：下一代的第一季第十三集](https://zh.wikipedia.org/wiki/星际旅行：下一代 "wikilink")。在这一集中，[联邦星舰进取号接到最新任务](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701-D\) "wikilink")，[星际联邦要求企业号前往偏远的](https://zh.wikipedia.org/wiki/星际联邦 "wikilink")“Omicron Theta”星系，这也是[Data](../Page/Data.md "wikilink")的家乡，虽然这是公事，但[让-吕克·皮卡尔](../Page/让-吕克·皮卡尔.md "wikilink")舰长还是希望能抽出几个小时参观一下这颗星球。在外勤队下降到这颗星球后，发现这颗星球虽是M级星球，但却没有任何生命存在。随后大副[威廉·赖克](../Page/威廉·赖克.md "wikilink")找到了殖民地科学实验室，并在这里发现了和Data一模一样的[生化人](https://zh.wikipedia.org/wiki/生化人 "wikilink")。外勤队将这个生化人带回了企业号，并研究了一下Data的身体构造，组装好了这个生化人。这个和Data一模一样的生化人声称自己名叫Lore，也是出自宋博士之手，但比Data要晚，而且比Data更具有人性。但随后Data发现Lore拥有的人性是欲望和野心。Lore利用开关键将Data击晕，并模仿成了Data，要将企业号引向一个食生命的水晶中。但[卫斯理·柯洛夏发现了Lore的阴谋](https://zh.wikipedia.org/wiki/卫斯理·柯洛夏 "wikilink")，并唤醒了Data，最后与Data一同将Lore传送到外太空中。Lore\[1\]。
-
-## 参考资料
-
-1.  [Data之兄-星际旅行资料库](http://www.startrek.com/database_article/datalore)

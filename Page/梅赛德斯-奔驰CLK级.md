@@ -1,5 +1,0 @@
-[1999-2003_Mercedes-Benz_CLK_320_(A_208)_Elegance_convertible_(2009-10-29)_01.jpg](https://zh.wikipedia.org/wiki/File:1999-2003_Mercedes-Benz_CLK_320_\(A_208\)_Elegance_convertible_\(2009-10-29\)_01.jpg "fig:1999-2003_Mercedes-Benz_CLK_320_(A_208)_Elegance_convertible_(2009-10-29)_01.jpg") [03-06_Mercedes-Benz_CLK.jpg](https://zh.wikipedia.org/wiki/File:03-06_Mercedes-Benz_CLK.jpg "fig:03-06_Mercedes-Benz_CLK.jpg") **梅赛德斯-奔驰CLK级**（）是由[梅赛德斯-奔驰生產的車身尺碼介於](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[C-Class與](https://zh.wikipedia.org/wiki/C-Class "wikilink")[E-Class之間的雙門四座豪華轎跑車](https://zh.wikipedia.org/wiki/E-Class "wikilink")，有硬頂與敞篷兩種不同的車體，以C-Class為基礎衍生，但是使用E-Class的款式風格及引擎，2009年春發表新一代車款，改以E-Class為基礎衍生，稱為E class coupe。
-
-## 外部链接
-
-[Category:梅賽德斯-賓士車輛](https://zh.wikipedia.org/wiki/Category:梅賽德斯-賓士車輛 "wikilink") [Category:1996年面世的汽車](https://zh.wikipedia.org/wiki/Category:1996年面世的汽車 "wikilink")

@@ -1,3 +1,0 @@
-《My Boy》（），是一部講述一個男扮女裝的美少年廣告明星ILYN（[善雄飾演](https://zh.wikipedia.org/wiki/金善雄 "wikilink")）和懷有歌手夢想並進入韓國最好藝術高等學校的畫兒（[金所泫](../Page/金所泫.md "wikilink") 飾演）成爲室友後發生各種故事的校園浪漫3部曲電視劇。
-
-[Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink") [Category:女裝題材電視劇](https://zh.wikipedia.org/wiki/Category:女裝題材電視劇 "wikilink") [Category:韓國LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:韓國LGBT相關電視節目 "wikilink")

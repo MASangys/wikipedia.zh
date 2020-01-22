@@ -1,3 +1,0 @@
-## Summary
-
-## Fair use justification
