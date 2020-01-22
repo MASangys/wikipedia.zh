@@ -1,7 +1,7 @@
 > 本文内容由[Mind Travel](https://zh.wikipedia.org/wiki/Mind_Travel)转换而来。
 
 
-《**Mind Travel**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Superfly.md "wikilink")於2011年6月15日發行的3rd原創專輯。
+《**Mind Travel**》為[日本](../Page/日本.md "wikilink")歌手[Superfly於](https://zh.wikipedia.org/wiki/Superfly "wikilink")2011年6月15日發行的3rd原創專輯。
 
 ## 解說
 

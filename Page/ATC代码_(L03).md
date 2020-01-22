@@ -3,7 +3,7 @@
 
 ## L03A [免疫增强剂](https://zh.wikipedia.org/wiki/免疫增强剂 "wikilink")（Immunostimulants）
 
-### L03AA [集落刺激因子](../Page/集落刺激因子.md "wikilink")类（Colony stimulating factors）
+### L03AA [集落刺激因子类](https://zh.wikipedia.org/wiki/集落刺激因子 "wikilink")（Colony stimulating factors）
 
   -
     L03AA02 [非格司亭](https://zh.wikipedia.org/wiki/非格司亭 "wikilink")（Filgrastim）
@@ -41,7 +41,7 @@
 ### L03AX 其它免疫增强剂（Other immunostimulants）
 
   -
-    L03AX01 [香菇多糖](../Page/香菇多糖.md "wikilink")（Lentinan）
+    L03AX01 [香菇多糖](https://zh.wikipedia.org/wiki/香菇多糖 "wikilink")（Lentinan）
     L03AX02 [罗喹美克](https://zh.wikipedia.org/wiki/罗喹美克 "wikilink")（Roquinimex）
     L03AX03 [卡介苗](../Page/卡介苗.md "wikilink")（BCG vaccine）
     L03AX04 [培加酶](https://zh.wikipedia.org/wiki/培加酶 "wikilink")（Pegademase）

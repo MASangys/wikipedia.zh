@@ -9,8 +9,8 @@
   - [バッドボーイズ](https://zh.wikipedia.org/wiki/バッドボーイズ_\(お笑いコンビ\) "wikilink")（星期二）
   - [パンクブーブー](https://zh.wikipedia.org/wiki/パンクブーブー "wikilink")（星期三）
   - [チーモンチョーチュウ](https://zh.wikipedia.org/wiki/チーモンチョーチュウ "wikilink")（星期四）
-  - [HKT48](../Page/HKT48.md "wikilink")（星期一、星期三、星期四） - 每回各2名
-  - [NMB48](../Page/NMB48.md "wikilink")（星期二） - 每回各2名
+  - [HKT48](https://zh.wikipedia.org/wiki/HKT48 "wikilink")（星期一、星期三、星期四） - 每回各2名
+  - [NMB48](https://zh.wikipedia.org/wiki/NMB48 "wikilink")（星期二） - 每回各2名
   - [メガモッツ](https://zh.wikipedia.org/wiki/メガモッツ "wikilink")（中川どっぺる、池内祐介）（隔週星期一）
   - [トリテン](https://zh.wikipedia.org/wiki/トリテン "wikilink")（一徹、奥口ゆうや）（隔週星期一）
   - [マイクロバス](https://zh.wikipedia.org/wiki/マイクロバス_\(お笑いコンビ\) "wikilink")（林悦未、小川夏海）（隔週星期二）

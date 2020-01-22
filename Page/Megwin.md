@@ -1,7 +1,7 @@
 > 本文内容由[Megwin](https://zh.wikipedia.org/wiki/Megwin)转换而来。
 
 
-**MEGWIN TV（メグウィン TV）**，建立者為關根劍，為一名日本籍的[YouTuber](../Page/YouTuber.md "wikilink")，也是[YouTube](../Page/YouTube.md "wikilink")合作伙伴的其中一個。MEGWIN TV於2005年至2018年末間，每天都有上傳新影片。
+**MEGWIN TV（メグウィン TV）**，建立者為關根劍，為一名日本籍的[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")，也是[YouTube](../Page/YouTube.md "wikilink")合作伙伴的其中一個。MEGWIN TV於2005年至2018年末間，每天都有上傳新影片。
 這頻道的訂閱者數量於2016年突破五十萬，後於2018年突破一百萬。此外，這頻道被認為是日本Youtuber的先驅和鼻祖\[1\]\[2\]。
 \*為防止歧義，本文會以MEGWIN代表關根劍，MEGWIN TV代表整個頻道。
 
@@ -71,7 +71,7 @@ MEGWIN的暱稱是「梅格先生」（メグさん）。自稱是搞笑影片�
   - 戸川俊（デルベッソ俊・デベソ・DEBESO）
     前副導演。[左撇子](https://zh.wikipedia.org/wiki/左撇子 "wikilink")。主要輔助MEGWIN從事錄影工作，有時候還會因劇中需要而負責演死對頭或突然亂入的角色。
     原本在[新潟工作](https://zh.wikipedia.org/wiki/新潟 "wikilink")。辭職後偶然見到MEGWIN TV而有興趣加入其「軍團」。
-    在以前官方網頁的員工介紹頁面裡，表示DEBESO從來沒有吃過[雞蛋](../Page/雞蛋.md "wikilink")。但在此[影片](http://www.youtube.com/watch?v=RGIjiFWHGBc)中，卻顯示DEBESO正在吃一碗混有雞蛋和[豉油的飯](https://zh.wikipedia.org/wiki/豉油 "wikilink")。
+    在以前官方網頁的員工介紹頁面裡，表示DEBESO從來沒有吃過[雞蛋](https://zh.wikipedia.org/wiki/雞蛋 "wikilink")。但在此[影片](http://www.youtube.com/watch?v=RGIjiFWHGBc)中，卻顯示DEBESO正在吃一碗混有雞蛋和[豉油的飯](https://zh.wikipedia.org/wiki/豉油 "wikilink")。
     :;從MEGWIN TV「畢業」
       -
         自從2013年11月之後，DEBESO在MEGWIN、BANDY和FALCON去美國留學開始，一直沒有更新過MEGWIN TV的任何節目。
@@ -157,7 +157,7 @@ RRCK英文全稱為"**R**oad of the **R**etort-pouched **C**urry **K**ing"
 
   - こんな○○は嫌だ\!\!
 
-○○可以是運動、活動、食物等等，這系列主要以多種方式惡搞該事物，例如在[足球機的球竿上晾衣](https://zh.wikipedia.org/wiki/足球機 "wikilink")、用[電鑽吃](https://zh.wikipedia.org/wiki/電鑽 "wikilink")[惠方卷](../Page/惠方卷.md "wikilink")等等。
+○○可以是運動、活動、食物等等，這系列主要以多種方式惡搞該事物，例如在[足球機的球竿上晾衣](https://zh.wikipedia.org/wiki/足球機 "wikilink")、用[電鑽吃](https://zh.wikipedia.org/wiki/電鑽 "wikilink")[惠方卷等等](https://zh.wikipedia.org/wiki/惠方卷 "wikilink")。
 
 ## 出售物品
 
@@ -187,7 +187,7 @@ YouTubeで小さく稼ぐ \~再生回数2億回の達人が教える、撮った
 「BEGIRAGONS」是MEGWIN TV所成立的一個子頻道，內容以遊戲系列為主。至今已完成上傳了二十四個遊戲系列\[19\]。
 因為頻道成立時MEGWIN等人仍在海外留學，所以為了配合外國觀眾，每個影片都附有[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[字幕](../Page/字幕.md "wikilink")，頻道亦因此以外國觀眾為主要觀眾來源。
 由於每個遊戲系列的總遊戲時間平均都較長，因此頻道都會每隔特定時間上傳一條分段的影片。
-MEGWIN在所有遊戲裡都是主要的挑戰者\[20\]，但也有邀請其他[YouTuber](../Page/YouTuber.md "wikilink")來一起挑戰或處理遊戲事務。
+MEGWIN在所有遊戲裡都是主要的挑戰者\[20\]，但也有邀請其他[YouTuber來一起挑戰或處理遊戲事務](https://zh.wikipedia.org/wiki/YouTuber "wikilink")。
 在「馬で江戸横断ゲーム」完結之後，BEGIRAGONS宣佈將會進行改革，變成很多人都可以一起遊玩的遊戲頻道，意味著不是只有MEGWIN一個玩家，而是有很多其他YouTuber以至觀眾都能參與遊戲。
 
 在「嫌だバトル」系列完結之後，BEGIRAGONS推出了新作「Sh\*tty Game Show」，而主持由MEGWIN改成JUSTICE，惟新作沒有英語字幕，同時內容與風格相比以前的作品有明顯差異，因而引發部分觀眾批評。

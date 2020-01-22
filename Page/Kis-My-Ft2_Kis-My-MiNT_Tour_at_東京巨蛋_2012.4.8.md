@@ -10,7 +10,7 @@
 1.  ["1st" Overture](../Page/Kis-My-1st.md "wikilink")
 2.  [Girl is mine](../Page/Kis-My-1st.md "wikilink")
 3.  [SHE\! HER\! HER\!](../Page/SHE!_HER!_HER!.md "wikilink")
-4.  [Everybody Go](../Page/Everybody_Go.md "wikilink")
+4.  [Everybody Go](https://zh.wikipedia.org/wiki/Everybody_Go "wikilink")
 5.  テンション
 6.  [祈願](https://zh.wikipedia.org/wiki/祈願 "wikilink")
 7.  [Dancing Star](../Page/Kis-My-1st.md "wikilink")
@@ -18,13 +18,13 @@
 9.  [Kickin' it](../Page/Kis-My-1st.md "wikilink") - 北山・藤谷・玉森
 10. [3D Girl](../Page/Kis-My-1st.md "wikilink")
 11. Hair
-12. [S.O.KISS](../Page/Everybody_Go.md "wikilink")
+12. [S.O.KISS](https://zh.wikipedia.org/wiki/Everybody_Go "wikilink")
 13. 雨
 14. No.1 Friend - 北山・藤ヶ谷
 15. [Sing for you](../Page/Kis-My-1st.md "wikilink") - 玉森・宮田・千賀
 16. [タビダチノウタ](../Page/Kis-My-1st.md "wikilink")
 17. [Kis-My-Venus](../Page/We_never_give_up!.md "wikilink")
-18. [若者たち](../Page/Everybody_Go.md "wikilink")
+18. [若者たち](https://zh.wikipedia.org/wiki/Everybody_Go "wikilink")
 19. [Tell me why](../Page/Kis-My-1st.md "wikilink")
 20. [We never give up\!](../Page/We_never_give_up!.md "wikilink")
 21. [Shake It Up](https://zh.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")

@@ -36,7 +36,7 @@ MediaWorks文庫封面繪圖大多為漫畫風格，但減少了電擊文庫等�
 <td><p>2009年12月～</p></td>
 <td><p>已發行2巻；腳本集</p></td>
 <td><p>大矢正和</p></td>
-<td><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a>、<a href="../Page/天闻角川.md" title="wikilink">天闻角川</a>代理</p></td>
+<td><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a>、<a href="https://zh.wikipedia.org/wiki/天闻角川" title="wikilink">天闻角川代理</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/入間人間.md" title="wikilink">入間人間</a></p></td>

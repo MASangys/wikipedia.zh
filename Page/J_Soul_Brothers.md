@@ -5,7 +5,7 @@
 
 該團體曾組成過3次：
 
-  - 初　代（第一代）：1999年組成，2001年改名為「[EXILE](../Page/放浪兄弟.md "wikilink")」。
+  - 初　代（第一代）：1999年組成，2001年改名為「[EXILE](https://zh.wikipedia.org/wiki/放浪兄弟 "wikilink")」。
   - 二代目（第二代）：2007年組成，2009年全體團員加入EXILE、並結束「J Soul Brothers」名義的活動。
   - 三代目（第三代）：2010年組成，至今以「**三代目J Soul Brothers**」或者「**三代目J Soul Brothers from EXILE TRIBE**」的名義活動中。[台灣愛貝克思於](https://zh.wikipedia.org/wiki/台灣愛貝克思 "wikilink")《[THE BEST / BLUE IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》專輯台壓版發行時，將團體的中文全名從「**第三代J Soul Brothers from EXILE TRIBE**」變更為「**三代目J Soul Brothers from 放浪一族**」。
 
@@ -55,13 +55,13 @@
 **2011年**
 
   - 6月28日，與二代目J Soul Brothers（現在是EXILE成員）舉行聯合廵廻演唱會「二代目J Soul Brothers VS 三代目J Soul Brothers Live Tour 2011～EXILE TRIBE～」。於兵庫縣和埼玉縣舉行15場公演，動員約15萬人。
-  - 9月7日，被[日本電視台](../Page/日本電視台.md "wikilink")劇集「[鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")」起用為主題歌的第四張單曲『[FIGHTERS](../Page/FIGHTERS.md "wikilink")』獲得首次[Oricon單曲週榜的首位](../Page/Oricon公信榜.md "wikilink")，也是歷代的J Soul Brothers的第一次。
+  - 9月7日，被[日本電視台](../Page/日本電視台.md "wikilink")劇集「[鐵拳對鋼拳](https://zh.wikipedia.org/wiki/鐵拳對鋼拳 "wikilink")」起用為主題歌的第四張單曲『[FIGHTERS](https://zh.wikipedia.org/wiki/FIGHTERS "wikilink")』獲得首次[Oricon單曲週榜的首位](../Page/Oricon公信榜.md "wikilink")，也是歷代的J Soul Brothers的第一次。
 
 **2012年**
 
   - 4月起參與「EXILE TRIBE LIVE TOUR 2012～TOWER OF WISH～」演出。
   - 9月1日，舉行首次單獨巡廻演唱會「第三代J Soul Brothers LIVE TOUR 2012『0～ZERO～』」。於9處地方舉行27場公演，動員約25萬人。
-  - 12月30日，第七張單曲『[0〜ZERO〜](../Page/0〜ZERO〜.md "wikilink")』所收錄的『煙火』獲得優秀作品獎，為[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")首次出場。
+  - 12月30日，第七張單曲『[0〜ZERO〜](https://zh.wikipedia.org/wiki/0〜ZERO〜 "wikilink")』所收錄的『煙火』獲得優秀作品獎，為[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")首次出場。
   - 12月31日，以『煙火』在[NHK紅白歌合戰首次出場](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
 **2013年**
@@ -244,15 +244,15 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2011年9月7日</p></td>
-<td><p><strong><a href="../Page/FIGHTERS.md" title="wikilink">FIGHTERS</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/FIGHTERS" title="wikilink">FIGHTERS</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/TRIBAL_SOUL.md" title="wikilink">TRIBAL SOUL</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TRIBAL_SOUL" title="wikilink">TRIBAL SOUL</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2011年11月9日</p></td>
-<td><p><strong><a href="../Page/反覆掙扎.md" title="wikilink">反覆掙扎</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/反覆掙扎" title="wikilink">反覆掙扎</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -262,13 +262,13 @@
 <td><p>2012年3月7日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Go_my_way_(第三代J_Soul_Brothers的曲)" title="wikilink">Go my way</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/MIRACLE_(第三代J_Soul_Brothers專輯).md" title="wikilink">MIRACLE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MIRACLE_(第三代J_Soul_Brothers專輯)" title="wikilink">MIRACLE</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2012年8月8日</p></td>
-<td><p><strong><a href="../Page/0〜ZERO〜.md" title="wikilink">0〜ZERO〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/0〜ZERO〜" title="wikilink">0〜ZERO〜</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -292,7 +292,7 @@
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2013年10月30日</p></td>
-<td><p><strong><a href="../Page/冬季物語.md" title="wikilink">冬季物語</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/冬季物語" title="wikilink">冬季物語</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -300,7 +300,7 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>2013年12月4日</p></td>
-<td><p><strong><a href="../Page/SO_RIGHT.md" title="wikilink">SO RIGHT</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SO_RIGHT" title="wikilink">SO RIGHT</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -372,7 +372,7 @@
 <tr class="even">
 <td><p>20</p></td>
 <td><p>2016年11月9日</p></td>
-<td><p><strong><a href="../Page/Welcome_to_TOKYO.md" title="wikilink">Welcome to TOKYO</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Welcome_to_TOKYO" title="wikilink">Welcome to TOKYO</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -443,13 +443,13 @@
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2011年12月7日</p></td>
-<td><p><strong><a href="../Page/TRIBAL_SOUL.md" title="wikilink">TRIBAL SOUL</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TRIBAL_SOUL" title="wikilink">TRIBAL SOUL</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2013年1月1日</p></td>
-<td><p><strong><a href="../Page/MIRACLE_(第三代J_Soul_Brothers專輯).md" title="wikilink">MIRACLE</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/MIRACLE_(第三代J_Soul_Brothers專輯)" title="wikilink">MIRACLE</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -654,7 +654,7 @@
 <tr class="even">
 <td><p>2012年9月5日</p></td>
 <td><p>24karats TRIBE OF GOLD</p></td>
-<td><p><a href="../Page/EXILE_TRIBE.md" title="wikilink">EXILE TRIBE</a>『<a href="../Page/24karats_TRIBE_OF_GOLD.md" title="wikilink">24karats TRIBE OF GOLD</a>』</p></td>
+<td><p><a href="../Page/EXILE_TRIBE.md" title="wikilink">EXILE TRIBE</a>『<a href="https://zh.wikipedia.org/wiki/24karats_TRIBE_OF_GOLD" title="wikilink">24karats TRIBE OF GOLD</a>』</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年12月5日</p></td>
@@ -1062,7 +1062,7 @@
 ### PV
 
   - EXILE 「[Bloom](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")」（2012年）
-  - EXILE 「[放浪榮耀 ～因為如此深愛這世界～](../Page/放浪榮耀_～因為如此深愛這世界～.md "wikilink")」（2013年）
+  - EXILE 「[放浪榮耀 ～因為如此深愛這世界～](https://zh.wikipedia.org/wiki/放浪榮耀_～因為如此深愛這世界～ "wikilink")」（2013年）
 
 ### 廣播
 
@@ -1075,7 +1075,7 @@
 
 ### 手機發送
 
-  - EXFILE（2013年 - 、[NOTTV](../Page/NOTTV.md "wikilink")）
+  - EXFILE（2013年 - 、[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）
 
 ## 榮譽
 
@@ -1121,7 +1121,7 @@
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="../Page/日本有線大獎.md" title="wikilink">第47屆日本有線大獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本有線大獎" title="wikilink">第47屆日本有線大獎</a></p></td>
 <td><p>有線音楽優秀獎</p></td>
 <td><p>R.Y.U.S.E.I.</p></td>
 </tr>
@@ -1229,7 +1229,7 @@ LIVE TOUR 2014「BLUE IMPACT」</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/日本有線大獎.md" title="wikilink">第48回日本有線大獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本有線大獎" title="wikilink">第48回日本有線大獎</a></p></td>
 <td><p>有線音樂優秀獎</p></td>
 <td><p>Summer Madness feat．Afrojack]]</p></td>
 <td></td>

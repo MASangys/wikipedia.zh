@@ -5,7 +5,7 @@
 
 在這之前，[微星科技](../Page/微星科技.md "wikilink")同時也是他們的主要[贊助商](https://zh.wikipedia.org/wiki/贊助 "wikilink")，並且給予他們最新的[筆電](https://zh.wikipedia.org/wiki/筆電 "wikilink")、[主機和](https://zh.wikipedia.org/wiki/主機 "wikilink")[顯卡](https://zh.wikipedia.org/wiki/顯卡 "wikilink")，並且以其冠名。隨著新的贊助商RC贊助，Fnatic是少數在國外最先擁有（[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[首爾](../Page/首爾.md "wikilink")）房地產的[電競公司之一](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。另外其他贊助商還有Steelseries和Eizo。
 
-目前FNATIC在許多遊戲都有經營自己的職業戰隊，其中包括[反恐精英：全球攻势](../Page/反恐精英：全球攻势.md "wikilink")、[Dota2](https://zh.wikipedia.org/wiki/Dota2 "wikilink")、[Halo](https://zh.wikipedia.org/wiki/光环系列 "wikilink")、[星海爭霸2](https://zh.wikipedia.org/wiki/星海爭霸2 "wikilink")、《[彩虹六号：围攻](https://zh.wikipedia.org/wiki/彩虹六号：围攻 "wikilink")》和[英雄聯盟等多支遊戲團隊](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")。在眾多電競賽事如IEM、ESWC、KODES和CGS都有FN的蹤影。
+目前FNATIC在許多遊戲都有經營自己的職業戰隊，其中包括[反恐精英：全球攻势](https://zh.wikipedia.org/wiki/反恐精英：全球攻势 "wikilink")、[Dota2](https://zh.wikipedia.org/wiki/Dota2 "wikilink")、[Halo](https://zh.wikipedia.org/wiki/光环系列 "wikilink")、[星海爭霸2](https://zh.wikipedia.org/wiki/星海爭霸2 "wikilink")、《[彩虹六号：围攻](https://zh.wikipedia.org/wiki/彩虹六号：围攻 "wikilink")》和[英雄聯盟等多支遊戲團隊](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")。在眾多電競賽事如IEM、ESWC、KODES和CGS都有FN的蹤影。
 
 ## 英雄聯盟
 
@@ -29,7 +29,7 @@
 
 在2014年的歐洲常規賽中，Fnatic在賽季賽表現反覆，但最後仍能保持水準，以常規賽第二名進入季後賽。在8月舉行的季後賽決賽中以1:3不敵由前CLG.EU明星中路選手froggen所帶領導的Alliance戰隊，將會以歐洲第二種子身分參加[英雄聯盟2014賽季全球总决赛](https://zh.wikipedia.org/wiki/英雄聯盟2014賽季全球总决赛 "wikilink")。
 
-2014年9月初，Fnatic宣佈邀請[劉偉健](../Page/劉偉健.md "wikilink")(Toyz)(Toyz為其[台北暗殺星戰隊得到](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")2012年[英雄聯盟全球总决赛冠軍](https://zh.wikipedia.org/wiki/英雄聯盟全球总决赛 "wikilink"))為其教練，協助團隊備戰即將舉行的[英雄聯盟2014賽季全球总决赛](https://zh.wikipedia.org/wiki/英雄聯盟2014賽季全球总决赛 "wikilink")。
+2014年9月初，Fnatic宣佈邀請[劉偉健](https://zh.wikipedia.org/wiki/劉偉健 "wikilink")(Toyz)(Toyz為其[台北暗殺星戰隊得到](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")2012年[英雄聯盟全球总决赛冠軍](https://zh.wikipedia.org/wiki/英雄聯盟全球总决赛 "wikilink"))為其教練，協助團隊備戰即將舉行的[英雄聯盟2014賽季全球总决赛](https://zh.wikipedia.org/wiki/英雄聯盟2014賽季全球总决赛 "wikilink")。
 
 2014年11月尾，由於[英雄聯盟2014賽季全球总决赛的失利](https://zh.wikipedia.org/wiki/英雄聯盟2014賽季全球总决赛 "wikilink"),隊內原上單sOAZ、中單xPeke、射手Rekkles先後離隊，而打野Cyanide則宣佈退休。
 
@@ -47,7 +47,7 @@
 
 2016年2月16日，輔助Noxiak轉戰ROC，新血Klaj加入擔任輔助。
 
-2018年，Fnatic获得LCS EU的春夏双冠，在[2018英雄联盟季中邀请赛](../Page/2018英雄联盟季中邀请赛.md "wikilink")中，Fnatic小组第四出线，但在四强赛中0-3不敌[RNG遭到淘汰](https://zh.wikipedia.org/wiki/RNG "wikilink")。在[英雄联盟2018赛季全球总决赛](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")中，Fnatic在小组赛中凭借与[Invictus Gaming](https://zh.wikipedia.org/wiki/Invictus_Gaming "wikilink")（IG）的加赛得以小组头名出线，随后以3-1与3-0的比分先后淘汰[Edward Gaming与](https://zh.wikipedia.org/wiki/Edward_Gaming "wikilink")[Cloud9](https://zh.wikipedia.org/wiki/Cloud9 "wikilink")，但在与IG的决赛中0-3落败，屈居亚军。
+2018年，Fnatic获得LCS EU的春夏双冠，在[2018英雄联盟季中邀请赛中](https://zh.wikipedia.org/wiki/2018英雄联盟季中邀请赛 "wikilink")，Fnatic小组第四出线，但在四强赛中0-3不敌[RNG遭到淘汰](https://zh.wikipedia.org/wiki/RNG "wikilink")。在[英雄联盟2018赛季全球总决赛](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")中，Fnatic在小组赛中凭借与[Invictus Gaming](https://zh.wikipedia.org/wiki/Invictus_Gaming "wikilink")（IG）的加赛得以小组头名出线，随后以3-1与3-0的比分先后淘汰[Edward Gaming与](https://zh.wikipedia.org/wiki/Edward_Gaming "wikilink")[Cloud9](https://zh.wikipedia.org/wiki/Cloud9 "wikilink")，但在与IG的决赛中0-3落败，屈居亚军。
 
 ## 知名玩家
 

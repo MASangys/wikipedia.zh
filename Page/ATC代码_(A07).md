@@ -10,7 +10,7 @@
     A07AA02 [制霉素](https://zh.wikipedia.org/wiki/制霉素 "wikilink")（Nystatin）
     A07AA03 [那他霉素](https://zh.wikipedia.org/wiki/那他霉素 "wikilink")（Natamycin）
     A07AA04 [链霉素](https://zh.wikipedia.org/wiki/链霉素 "wikilink")（Streptomycin）
-    A07AA05 [多粘菌素B](../Page/多粘菌素B.md "wikilink")（Polymyxin B）
+    A07AA05 [多粘菌素B](https://zh.wikipedia.org/wiki/多粘菌素B "wikilink")（Polymyxin B）
     A07AA06 [巴龙霉素](../Page/巴龙霉素.md "wikilink")（Paromomycin）
     A07AA07 [两性霉素B](../Page/两性霉素B.md "wikilink")（Amphotericin B）
     A07AA08 [卡那霉素](https://zh.wikipedia.org/wiki/卡那霉素 "wikilink")（Kanamycin）
@@ -104,10 +104,10 @@
 ### A07EA 局部作用的皮质甾体激素类Corticosteroids acting locally
 
   -
-    A07EA01 [泼尼松龙](../Page/泼尼松龙.md "wikilink")（Prednisolone）
+    A07EA01 [泼尼松龙](https://zh.wikipedia.org/wiki/泼尼松龙 "wikilink")（Prednisolone）
     A07EA02 [氢化可的松](https://zh.wikipedia.org/wiki/氢化可的松 "wikilink")（Hydrocortisone）
     A07EA03 [泼尼松](https://zh.wikipedia.org/wiki/泼尼松 "wikilink")（Prednisone）
-    A07EA04 [倍他米松](../Page/倍他米松.md "wikilink")（Betamethasone）
+    A07EA04 [倍他米松](https://zh.wikipedia.org/wiki/倍他米松 "wikilink")（Betamethasone）
     A07EA05 [替可的松](https://zh.wikipedia.org/wiki/替可的松 "wikilink")（Tixocortol）
     A07EA06 [布地奈德](../Page/布地奈德.md "wikilink")（Budesonide）
     A07EA07 [倍氯米松](https://zh.wikipedia.org/wiki/倍氯米松 "wikilink")（Beclometasone）

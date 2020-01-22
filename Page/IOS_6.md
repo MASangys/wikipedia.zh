@@ -5,7 +5,7 @@
 
 iOS 6以蘋果自家的[蘋果地圖](../Page/蘋果地圖.md "wikilink")取代先前版本內建的地圖服務[Google Maps](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")，並移除了內建的[YouTube](../Page/YouTube.md "wikilink")應用程式。另外，iOS 6新增了Podcast應用程式，專門處理[Podcast相關服務](../Page/播客.md "wikilink")；[Passbook應用程式](../Page/Apple_Wallet.md "wikilink")，整合登機證、購物卡及優惠劵等電子票證功能；[App Store及](../Page/App_Store_\(iOS\).md "wikilink")[iTunes Store等商店介面也經過重新設計](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")，引進資訊卡式介面，更易於使用；蘋果的語音助理[Siri](../Page/Siri.md "wikilink")首次支援[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，並新增餐廳訂位、快捷開啟應用程式、體育賽事資訊顯示及讀取通知中心通知內容等功能。
 
-雖然iOS 6更新大部分獲得正面評價，但是少數功能如蘋果地圖，因為與對手在提供資訊量方面相差甚鉅而受到抨擊，蘋果[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[提姆·庫克](../Page/提姆·庫克.md "wikilink")為此公開道歉，iOS部門顧問[史考特·福斯托甚至因此而離開蘋果](https://zh.wikipedia.org/wiki/史考特·福斯托 "wikilink")。
+雖然iOS 6更新大部分獲得正面評價，但是少數功能如蘋果地圖，因為與對手在提供資訊量方面相差甚鉅而受到抨擊，蘋果[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[提姆·庫克為此公開道歉](https://zh.wikipedia.org/wiki/提姆·庫克 "wikilink")，iOS部門顧問[史考特·福斯托甚至因此而離開蘋果](https://zh.wikipedia.org/wiki/史考特·福斯托 "wikilink")。
 
 ## 歷史
 
@@ -81,11 +81,11 @@ iOS 6中新增的Passbook應用程式，整合了登機證、購物卡及優惠�
 
 ### 相機及相片
 
-iOS 6更新為相機應用程式新增了[全景功能](../Page/全景图.md "wikilink")，可拍攝240度的全景相片\[60\]\[61\]\[62\]\[63\]\[64\]；相片應用程式中的相片[串流功能獲得了更新](../Page/流媒体.md "wikilink")，用戶可以共享指定相片給其他[蘋果裝置用戶](https://zh.wikipedia.org/wiki/IDevice "wikilink")\[65\]\[66\]\[67\]\[68\]。
+iOS 6更新為相機應用程式新增了[全景功能](../Page/全景图.md "wikilink")，可拍攝240度的全景相片\[60\]\[61\]\[62\]\[63\]\[64\]；相片應用程式中的相片[串流功能獲得了更新](https://zh.wikipedia.org/wiki/流媒体 "wikilink")，用戶可以共享指定相片給其他[蘋果裝置用戶](https://zh.wikipedia.org/wiki/IDevice "wikilink")\[65\]\[66\]\[67\]\[68\]。
 
 ### 商店
 
-在iOS 6中，[App Store](../Page/App_Store_\(iOS\).md "wikilink")、[iTunes Store及](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[iBooks Store等商店獲得改良](../Page/Apple_Books.md "wikilink")，引進資訊卡式介面；App Store移除了「分類」按鈕，取而代之的是蘋果的智慧分析系統「Genius」，可以根據用戶的購買習慣，自動提供相關應用程式\[69\]\[70\]\[71\]。蘋果還更新了演算法，使較新的公司推出的應用程式排在搜尋結果前段，拉攏獨立開發者\[72\]\[73\]。另外，安裝應用程式時，不會再自動跳回主畫面\[74\]。
+在iOS 6中，[App Store](../Page/App_Store_\(iOS\).md "wikilink")、[iTunes Store及](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[iBooks Store等商店獲得改良](https://zh.wikipedia.org/wiki/Apple_Books "wikilink")，引進資訊卡式介面；App Store移除了「分類」按鈕，取而代之的是蘋果的智慧分析系統「Genius」，可以根據用戶的購買習慣，自動提供相關應用程式\[69\]\[70\]\[71\]。蘋果還更新了演算法，使較新的公司推出的應用程式排在搜尋結果前段，拉攏獨立開發者\[72\]\[73\]。另外，安裝應用程式時，不會再自動跳回主畫面\[74\]。
 
 ### 電話
 
@@ -117,7 +117,7 @@ Safari在iOS 6更新中引入了全螢幕模式、離線[閱讀列表等新功�
 
 ### 地圖
 
-自iOS 6起，預設內建的地圖應用程式由原本的[Google Maps改為蘋果地圖](../Page/Google地图.md "wikilink")。雖然蘋果地圖號稱更易使用，實際上當iOS 6正式版推出後，蘋果地圖即因為圖資不準確（如城鎮莫名消失、俯瞰地圖遭到雲層阻擋、博物館景點座標位於河中等）而遭到用戶及媒體抨擊\[96\]\[97\]\[98\]。蘋果[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[提姆·庫克](../Page/提姆·庫克.md "wikilink")為此於蘋果官網上表示為蘋果地圖造成用戶的困擾道歉\[99\]\[100\]\[101\]，iOS部門顧問[史考特·福斯托甚至因此而離開蘋果](https://zh.wikipedia.org/wiki/史考特·福斯托 "wikilink")\[102\]。
+自iOS 6起，預設內建的地圖應用程式由原本的[Google Maps改為蘋果地圖](../Page/Google地图.md "wikilink")。雖然蘋果地圖號稱更易使用，實際上當iOS 6正式版推出後，蘋果地圖即因為圖資不準確（如城鎮莫名消失、俯瞰地圖遭到雲層阻擋、博物館景點座標位於河中等）而遭到用戶及媒體抨擊\[96\]\[97\]\[98\]。蘋果[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[提姆·庫克為此於蘋果官網上表示為蘋果地圖造成用戶的困擾道歉](https://zh.wikipedia.org/wiki/提姆·庫克 "wikilink")\[99\]\[100\]\[101\]，iOS部門顧問[史考特·福斯托甚至因此而離開蘋果](https://zh.wikipedia.org/wiki/史考特·福斯托 "wikilink")\[102\]。
 
 ### 數據用量過大
 
@@ -152,7 +152,7 @@ Safari在iOS 6更新中引入了全螢幕模式、離線[閱讀列表等新功�
 
 ## 參見
 
-  - [Android 4.1](../Page/Android_Jelly_Bean.md "wikilink")
+  - [Android 4.1](https://zh.wikipedia.org/wiki/Android_Jelly_Bean "wikilink")
   - [Windows Phone 8](../Page/Windows_Phone_8.md "wikilink")
 
 ## 外部連結

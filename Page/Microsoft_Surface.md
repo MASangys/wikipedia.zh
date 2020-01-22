@@ -37,7 +37,7 @@ Surface Pro在中國大陆另有兩個版本，Surface專業版和Surface中文�
 
 Surface專業版預装Windows 8專業版及Office 365家庭高级版一個月試用。
 
-Surface中國版預装Windows 8简体中文版，無法更改為其他語言，及Office 2013家庭和學生版。\[3\]但是由於中國政策的限制，中國版Surface無法通過[TPM使用](../Page/可信平台模块.md "wikilink")[BitLocker](../Page/BitLocker.md "wikilink")加密數據。\[4\]
+Surface中國版預装Windows 8简体中文版，無法更改為其他語言，及Office 2013家庭和學生版。\[3\]但是由於中國政策的限制，中國版Surface無法通過[TPM使用](../Page/可信平台模块.md "wikilink")[BitLocker加密數據](https://zh.wikipedia.org/wiki/BitLocker "wikilink")。\[4\]
 
 **Surface Pro 4**  2015年10月，微軟推出了Surface Pro 4，配备12.3吋2736 x 1824螢幕，處理器提採用第6代Intel Core M3/i5/i7。同时推出了新的Surface Pen及重新设计的配备指纹识别模块的Type cover。
 
@@ -57,7 +57,7 @@ Surface中國版預装Windows 8简体中文版，無法更改為其他語言，�
 
 Surface Book 是一款可变形的[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，最大的亮点在于其屏幕部分可配合Surface Pen作为独立的平板电脑与机身分离，亦可反向插拔；同时，键盘底座中可以选配独立[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")，支持与电脑主体的热插拔。
 
-[Surface Book 2于](../Page/Surface_Book_2.md "wikilink")2017年10月17日发布。
+[Surface Book 2于](https://zh.wikipedia.org/wiki/Surface_Book_2 "wikilink")2017年10月17日发布。
 
 ## Surface Studio系列
 
@@ -130,7 +130,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Surface_3.md" title="wikilink">Surface 3</a></p></td>
-<td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a> Update</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_8.1" title="wikilink">Windows 8.1</a> Update</p></td>
 <td><p>{{#invoke:Date table sorting|main|2015|5|5}}</p></td>
 <td><p>latest OS</p></td>
 <td><p>(current)</p></td>
@@ -141,7 +141,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Surface_Go.md" title="wikilink">Surface Go</a></p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> Home (S Mode)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> Home (S Mode)</p></td>
 <td><p>Version 1803</p></td>
 <td><p>{{#invoke:Date table sorting|main|2018|8|2}}</p></td>
 <td><p>latest OS</p></td>
@@ -162,8 +162,8 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Surface_Pro_2.md" title="wikilink">Surface Pro 2</a></p></td>
-<td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Pro_2" title="wikilink">Surface Pro 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_8.1" title="wikilink">Windows 8.1 Pro</a></p></td>
 <td><p>{{#invoke:Date table sorting|main|2013|10|22}}</p></td>
 <td><p>latest OS</p></td>
 <td><p>(current)</p></td>
@@ -174,7 +174,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Surface_Pro_3" title="wikilink">Surface Pro 3</a></p></td>
-<td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1 Pro</a> Update</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_8.1" title="wikilink">Windows 8.1 Pro</a> Update</p></td>
 <td><p>{{#invoke:Date table sorting|main|2014|6|20}}</p></td>
 <td><p>latest OS</p></td>
 <td><p>(current)</p></td>
@@ -185,7 +185,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Surface_Pro_4" title="wikilink">Surface Pro 4</a></p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
 <td><p>Version 1507</p></td>
 <td><p>{{#invoke:Date table sorting|main|2015|10|26}}</p></td>
 <td><p>latest OS</p></td>
@@ -196,7 +196,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Surface_Pro_(2017)" title="wikilink">Surface Pro (2017)</a></p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
 <td><p>Version 1703</p></td>
 <td><p>{{#invoke:Date table sorting|main|2017|6|15}}</p></td>
 <td><p>latest OS</p></td>
@@ -241,7 +241,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 <tr class="odd">
 <td><p>Surface Book</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Surface_Book" title="wikilink">Surface Book</a></p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
 <td><p>Version 1507</p></td>
 <td><p>{{#invoke:Date table sorting|main|2019|10|26}}<br />
 {{#invoke:Date table sorting|main|2019|11|10}} <small>Performance base</small></p></td>
@@ -252,8 +252,8 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 <td><p>$1,499/$3,299</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Surface_Book_2.md" title="wikilink">Surface Book 2</a></p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Book_2" title="wikilink">Surface Book 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
 <td><p>Version 1709</p></td>
 <td><p>{{#invoke:Date table sorting|main|2017|11|16}}</p></td>
 <td><p>latest OS</p></td>
@@ -298,7 +298,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 <tr class="even">
 <td><p>Surface Studio</p></td>
 <td><p><a href="../Page/Surface_Studio.md" title="wikilink">Surface Studio</a></p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
 <td><p>Version 1607</p></td>
 <td><p>{{#invoke:Date table sorting|main|2016|12|15}}</p></td>
 <td><p>latest OS</p></td>
@@ -308,7 +308,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Surface_Studio_2" title="wikilink">Surface Studio 2</a></p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> <a href="https://zh.wikipedia.org/wiki/Windows_10_editions" title="wikilink">Pro</a></p></td>
 <td><p>Version 1803</p></td>
 <td><p>{{#invoke:Date table sorting|main|2018|10|2}}</p></td>
 <td><p>latest OS</p></td>
@@ -320,7 +320,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 <tr class="even">
 <td><p>Surface Hub</p></td>
 <td><p><a href="../Page/Surface_Hub.md" title="wikilink">Surface Hub</a></p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> Team</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> Team</p></td>
 <td><p>Version 1507</p></td>
 <td><p>{{#invoke:Date table sorting|main|2015|6|1}}</p></td>
 <td><p>latest OS</p></td>
@@ -331,7 +331,7 @@ $21,999 <small>(84-inch model)</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Surface_Hub_2S" title="wikilink">Surface Hub 2S</a></p></td>
-<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> Team</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> Team</p></td>
 <td><p>Version 1703</p></td>
 <td><p>{{#invoke:Date table sorting|main|2019|4|17}}</p></td>
 <td></td>
@@ -711,7 +711,7 @@ Mini DisplayPort<br />
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Random-access_memory" title="wikilink">RAM</a></p></td>
-<td><p>8GB/16GB/32GB <a href="../Page/DDR4_SDRAM.md" title="wikilink">DDR4</a> 2133Mhz</p></td>
+<td><p>8GB/16GB/32GB <a href="https://zh.wikipedia.org/wiki/DDR4_SDRAM" title="wikilink">DDR4</a> 2133Mhz</p></td>
 </tr>
 <tr class="even">
 <td><p>內部儲存</p></td>
@@ -811,7 +811,7 @@ Surface Studio 作为该系列顶级的一体机设备，随机附赠了单独�
 
 ## 相关
 
-由於 [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink") 和 [Android](../Page/Android.md "wikilink") 等平板電腦的崛起及競爭，微軟打破了其37年不生產全套電腦硬體、依靠電腦廠商製造硬體並配套安裝“Windows”作業系統的歷史，推出Surface平板電腦。微軟的官方回應是“就如20多年前推出微軟滑鼠一樣，在市場最需要微軟產品的時侯，推出自有品牌。”但這意味著微軟與[惠普](../Page/惠普.md "wikilink")等公司可能由原本親密的硬體夥伴變成競爭對手。
+由於 [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink") 和 [Android](https://zh.wikipedia.org/wiki/Android "wikilink") 等平板電腦的崛起及競爭，微軟打破了其37年不生產全套電腦硬體、依靠電腦廠商製造硬體並配套安裝“Windows”作業系統的歷史，推出Surface平板電腦。微軟的官方回應是“就如20多年前推出微軟滑鼠一樣，在市場最需要微軟產品的時侯，推出自有品牌。”但這意味著微軟與[惠普](../Page/惠普.md "wikilink")等公司可能由原本親密的硬體夥伴變成競爭對手。
 
 微軟同時也開發 [Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")。Windows RT 使用者只能透過 Windows Store 安裝付費或免費軟體，有助打造軟體生態圈，使之成為微軟另一項收入來源。\[14\]当前，Windows RT 系列已经终结，而微软亦尝试将 Windows Store 打造成包含传统 Win32 应用的分发平台，而不仅仅是 XAP 或 UWP 应用。例如，新发布的 Surface Laptop 搭载 Windows 10 S 系统，便只能够安装应用商店应用，但与初代 RT 系列 Surface 不同的是， Win32 应用亦可以安装在 Windows 10 S 上，只要该应用在 Windows Store 上架。
 

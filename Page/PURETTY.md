@@ -1,7 +1,7 @@
 > 本文内容由[PURETTY](https://zh.wikipedia.org/wiki/PURETTY)转换而来。
 
 
-**PURETTY**（，）是[DSP Media於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2012年推出的女子5人團體，團名是由「Pure」（純真）與 「Pretty」（漂亮）組合而成。最初的成員有慧仁、時倫、彩暻、昭珉、在恩，後來慧仁宣布畢業，在恩為衝刺學業亦離隊，另外三名成員則成為"[Baby Kara](../Page/Baby_Kara.md "wikilink")"，為2014年DSP遞補KARA成員的計劃。
+**PURETTY**（，）是[DSP Media於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2012年推出的女子5人團體，團名是由「Pure」（純真）與 「Pretty」（漂亮）組合而成。最初的成員有慧仁、時倫、彩暻、昭珉、在恩，後來慧仁宣布畢業，在恩為衝刺學業亦離隊，另外三名成員則成為"[Baby Kara](https://zh.wikipedia.org/wiki/Baby_Kara "wikilink")"，為2014年DSP遞補KARA成員的計劃。
 
 ## 成員資料
 

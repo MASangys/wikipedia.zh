@@ -19,7 +19,7 @@
         電影『篤姫ナンバー1』（淳君♂Producer・[石川梨華](../Page/石川梨華.md "wikilink")主演在2012年4月7日劇場公開）主題曲\[3\]
 2.  **[成為永遠有藍天的未来吧\!](../Page/Rainbow_7.md "wikilink")（2012夢幻。Ver.）**
       -
-        編曲：[大久保薰](../Page/大久保薰.md "wikilink")\[4\]
+        編曲：[大久保薰](https://zh.wikipedia.org/wiki/大久保薰 "wikilink")\[4\]
 3.  シャイニング バタフライ（Instrumental）
 
 ### 初回生産限定盤付屬DVD

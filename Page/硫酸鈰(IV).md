@@ -5,7 +5,7 @@
 
 硫酸铈的水溶液或者弱酸溶液接近中性，颜色常为深黄色，会慢慢分解生成[二氧化铈](../Page/二氧化铈.md "wikilink")。铈离子具有较强的氧化性，特别是在酸性条件下Ce<sup>4+</sup>/Ce<sup>3+</sup>有较高的氧化还原电势。因而若将硫酸铈(IV)加入到稀盐酸中，则可以得到[氯气](https://zh.wikipedia.org/wiki/氯气 "wikilink")，但这一过程是进行地相当缓慢。
 
-硫酸铈在[分析化学](../Page/分析化学.md "wikilink")中常被用在[氧化还原滴定](../Page/氧化还原滴定.md "wikilink")中作[氧化剂](../Page/氧化剂.md "wikilink")。
+硫酸铈在[分析化学](../Page/分析化学.md "wikilink")中常被用在[氧化还原滴定](../Page/氧化还原滴定.md "wikilink")中作[氧化剂](https://zh.wikipedia.org/wiki/氧化剂 "wikilink")。
 
 ## 参考资料
 

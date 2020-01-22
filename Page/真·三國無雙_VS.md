@@ -1,7 +1,7 @@
 > 本文内容由[真·三國無雙 VS](https://zh.wikipedia.org/wiki/真·三國無雙_VS)转换而来。
 
 
-是由[光榮株式會社發行的](https://zh.wikipedia.org/wiki/光榮株式會社 "wikilink")[任天堂3DS](../Page/任天堂3DS.md "wikilink")动作游戏。[日本](../Page/日本.md "wikilink")發售日为2012年4月26日\[1\]。主要角色有[趙雲](https://zh.wikipedia.org/wiki/趙雲 "wikilink")、[曹丕](../Page/曹丕.md "wikilink")、[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")、[王元姬](../Page/王元姬.md "wikilink")。
+是由[光榮株式會社發行的](https://zh.wikipedia.org/wiki/光榮株式會社 "wikilink")[任天堂3DS动作游戏](https://zh.wikipedia.org/wiki/任天堂3DS "wikilink")。[日本](../Page/日本.md "wikilink")發售日为2012年4月26日\[1\]。主要角色有[趙雲](https://zh.wikipedia.org/wiki/趙雲 "wikilink")、[曹丕](../Page/曹丕.md "wikilink")、[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")、[王元姬](../Page/王元姬.md "wikilink")。
 
 遊戲特色為可以四人連線，自己製作武將，武將的樣貌、髮型、聲音、裝備等等。也有武將一對一的戰鬥，此外還有練兵模式，如逹到特定武將的試練就可以得到特別衣裝。
 

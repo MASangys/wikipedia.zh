@@ -1,7 +1,7 @@
 > 本文内容由[新超级马里奥兄弟U](https://zh.wikipedia.org/wiki/新超级马里奥兄弟U)转换而来。
 
 
-是一款由[任天堂](../Page/任天堂.md "wikilink")开发并发行在[Wii U平台上的](../Page/Wii_U.md "wikilink")[平台动作游戏](https://zh.wikipedia.org/wiki/平台动作游戏 "wikilink")。本作是《[新 超級瑪利歐兄弟Wii](../Page/新超级马里奥兄弟Wii.md "wikilink")》的正统续作，也是[瑪利歐系列](../Page/瑪利歐系列.md "wikilink")第一款可以使用[Mii形象作为可操作角色的游戏](https://zh.wikipedia.org/wiki/Mii "wikilink")。作品是各地Wii U的[首发游戏](https://zh.wikipedia.org/wiki/首发游戏 "wikilink")。復刻版組成《**新 超級瑪利歐兄弟U**+**新 超级路易吉U**》（New Super Mario Bros. U + New Super Luigi U），連同[Wii U本機綁售](../Page/Wii_U.md "wikilink")。此版本未在日本發售。
+是一款由[任天堂](../Page/任天堂.md "wikilink")开发并发行在[Wii U平台上的](https://zh.wikipedia.org/wiki/Wii_U "wikilink")[平台动作游戏](https://zh.wikipedia.org/wiki/平台动作游戏 "wikilink")。本作是《[新 超級瑪利歐兄弟Wii](../Page/新超级马里奥兄弟Wii.md "wikilink")》的正统续作，也是[瑪利歐系列](../Page/瑪利歐系列.md "wikilink")第一款可以使用[Mii形象作为可操作角色的游戏](https://zh.wikipedia.org/wiki/Mii "wikilink")。作品是各地Wii U的[首发游戏](https://zh.wikipedia.org/wiki/首发游戏 "wikilink")。復刻版組成《**新 超級瑪利歐兄弟U**+**新 超级路易吉U**》（New Super Mario Bros. U + New Super Luigi U），連同[Wii U本機綁售](https://zh.wikipedia.org/wiki/Wii_U "wikilink")。此版本未在日本發售。
 
 本作可以使用Wii U的[GamePad手柄将游戏图像切换到手柄上](https://zh.wikipedia.org/wiki/Wii_U_GamePad "wikilink")。\[1\]
 
@@ -19,7 +19,7 @@
 
 [New_Super_Mario_Bros_U_DX.jpg](https://zh.wikipedia.org/wiki/File:New_Super_Mario_Bros_U_DX.jpg "fig:New_Super_Mario_Bros_U_DX.jpg")
 
-相對原版本，豪華版是將《**新 超級瑪利歐兄弟U**》+《**新 超級路易吉U**》兩款遊戲關卡內容結合為一，其中《**[新 超級路易吉U](../Page/新超級路易吉U.md "wikilink")**》每一個關卡的限制時間設定為100秒計數。
+相對原版本，豪華版是將《**新 超級瑪利歐兄弟U**》+《**新 超級路易吉U**》兩款遊戲關卡內容結合為一，其中《**[新 超級路易吉U](https://zh.wikipedia.org/wiki/新超級路易吉U "wikilink")**》每一個關卡的限制時間設定為100秒計數。
 
 並且玩家可以選擇追加兩位帶有各自特長的角色︰可無視一定程度傷害的偷天兔，以及能夠透過超級皇冠變身公主模式防止掉出關卡及進行暫定浮空的奇諾比珂。
 

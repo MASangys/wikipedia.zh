@@ -1,7 +1,7 @@
 > 本文内容由[Don\'t cry anymore](https://zh.wikipedia.org/wiki/Don\'t_cry_anymore)转换而来。
 
 
-《**don't cry anymore**》是日本[創作歌手](../Page/創作歌手.md "wikilink")[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")1張單曲，於2010年3月3日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
+《**don't cry anymore**》是日本[創作歌手](../Page/創作歌手.md "wikilink")[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")1張單曲，於2010年3月3日由[Sony Music Records發行](https://zh.wikipedia.org/wiki/Sony_Music_Records "wikilink")。
 
 ## 發行與宣傳
 
@@ -9,7 +9,7 @@
 
 《don't cry anymore》是[富士電視台](../Page/富士電視台.md "wikilink")連續劇《[決定不哭的日子](../Page/決定不哭的日子.md "wikilink")》的主題曲。\[2\]這首歌是miwa得知電視劇的概念後，為該劇寫成的歌曲。\[3\]另外這首歌於2010年1月下旬被用作[RecoChoku](../Page/RecoChoku.md "wikilink")的廣告歌曲。\[4\]
 
-miwa於單曲發行前約一個月曾在富士電視台音樂節目《》表演。她除了演唱了《don't cry anymore》一曲外，也跟[阿蘭·達瓦卓瑪](https://zh.wikipedia.org/wiki/阿蘭·達瓦卓瑪 "wikilink")、[Leona Lewis和](https://zh.wikipedia.org/wiki/Leona_Lewis "wikilink")[西野加奈三人合唱了](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")[辛蒂·羅波](../Page/辛蒂·羅波.md "wikilink")的《Ture Color》。\[5\]她也有在3月7日播映的《[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》演唱這首歌。\[6\]
+miwa於單曲發行前約一個月曾在富士電視台音樂節目《》表演。她除了演唱了《don't cry anymore》一曲外，也跟[阿蘭·達瓦卓瑪](https://zh.wikipedia.org/wiki/阿蘭·達瓦卓瑪 "wikilink")、[Leona Lewis和](https://zh.wikipedia.org/wiki/Leona_Lewis "wikilink")[西野加奈三人合唱了](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")[辛蒂·羅波](../Page/辛蒂·羅波.md "wikilink")的《Ture Color》。\[5\]她也有在3月7日播映的《[MUSIC JAPAN](https://zh.wikipedia.org/wiki/MUSIC_JAPAN "wikilink")》演唱這首歌。\[6\]
 
 ## 歌曲
 
@@ -33,7 +33,7 @@ PV在以上場景之中，不斷穿插miwa（演奏木結他）跟其他支援�
 
 歌曲在音樂下載的表現不俗。《don't cry anymore》在[RIAJ付費音樂下載榜](../Page/RIAJ付費音樂下載榜.md "wikilink")以第14位首次上榜，在下一周上升至第3位。\[20\]其後兩周的排名亦位於10位之內。\[21\]歌曲共上榜7星期，最後一周的排名為第56位。\[22\]2010年3月，這首歌被[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為金（即累積銷量超過10萬次）。\[23\]
 
-《don't cry anymore》亦取得獲得第64屆[日劇學院賞](../Page/日劇學院賞.md "wikilink")的主題曲賞。這個獎項的其他候選歌曲包括[嵐](../Page/嵐.md "wikilink")的《[Troublemaker](../Page/Troublemaker.md "wikilink")》和[Mr.Children](../Page/Mr.Children.md "wikilink")的《[HANABI](../Page/HANABI_\(Mr.Children單曲\).md "wikilink")》等等。\[24\]
+《don't cry anymore》亦取得獲得第64屆[日劇學院賞](../Page/日劇學院賞.md "wikilink")的主題曲賞。這個獎項的其他候選歌曲包括[嵐](../Page/嵐.md "wikilink")的《[Troublemaker](https://zh.wikipedia.org/wiki/Troublemaker "wikilink")》和[Mr.Children](../Page/Mr.Children.md "wikilink")的《[HANABI](../Page/HANABI_\(Mr.Children單曲\).md "wikilink")》等等。\[24\]
 
 ## 收錄歌曲
 

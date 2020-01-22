@@ -28,7 +28,7 @@
   -
     C07AB01 [普拉洛尔](https://zh.wikipedia.org/wiki/普拉洛尔 "wikilink")（Practolol）
     C07AB02 [美托洛尔](../Page/美托洛尔.md "wikilink")（Metoprolol）
-    C07AB03 [阿替洛尔](../Page/阿替洛尔.md "wikilink")（Atenolol）
+    C07AB03 [阿替洛尔](https://zh.wikipedia.org/wiki/阿替洛尔 "wikilink")（Atenolol）
     C07AB04 [醋丁洛尔](https://zh.wikipedia.org/wiki/醋丁洛尔 "wikilink")（Acebutolol）
     C07AB05 [倍他洛尔](https://zh.wikipedia.org/wiki/倍他洛尔 "wikilink")（Betaxolol）
     C07AB06 [贝凡洛尔](https://zh.wikipedia.org/wiki/贝凡洛尔 "wikilink")（Bevantolol）

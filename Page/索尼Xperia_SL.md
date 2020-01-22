@@ -1,7 +1,7 @@
 > 本文内容由[索尼Xperia SL](https://zh.wikipedia.org/wiki/索尼Xperia_SL)转换而来。
 
 
-**Sony Xperia SL**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的旗艦級[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，Xperia S的兄弟機，屬於[Xperia NXT系列](../Page/Xperia.md "wikilink")\[1\]，是[Sony Xperia S的後續](../Page/Sony_Xperia_S.md "wikilink")，具備[Walkman](../Page/Walkman.md "wikilink")音樂播放器，與[Facebook](../Page/Facebook.md "wikilink")整合，\[2\]於2012年9月推出。\[3\]
+**Sony Xperia SL**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的旗艦級[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，Xperia S的兄弟機，屬於[Xperia NXT系列](https://zh.wikipedia.org/wiki/Xperia "wikilink")\[1\]，是[Sony Xperia S的後續](../Page/Sony_Xperia_S.md "wikilink")，具備[Walkman](../Page/Walkman.md "wikilink")音樂播放器，與[Facebook](../Page/Facebook.md "wikilink")整合，\[2\]於2012年9月推出。\[3\]
 
 ## 硬件
 
@@ -9,7 +9,7 @@ Sony Xperia SL具備4.3吋Reality Display屏幕，解像度為1280 x 720 HD，�
 
 ## 作業系統
 
-Xperia SL採用[Android](../Page/Android.md "wikilink") 4.0.4 Ice Cream Sandwich作業系統，並已提供Android 4.1.2 Jelly Bean更新。\[5\]
+Xperia SL採用[Android](https://zh.wikipedia.org/wiki/Android "wikilink") 4.0.4 Ice Cream Sandwich作業系統，並已提供Android 4.1.2 Jelly Bean更新。\[5\]
 
 ## 顏色
 
@@ -33,7 +33,7 @@ Xperia SL採用[Android](../Page/Android.md "wikilink") 4.0.4 Ice Cream Sandwich
 ## 參見
 
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
-  - [Xperia](../Page/Xperia.md "wikilink")
+  - [Xperia](https://zh.wikipedia.org/wiki/Xperia "wikilink")
   - [Sony Xperia S](../Page/Sony_Xperia_S.md "wikilink")
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")

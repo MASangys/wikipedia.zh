@@ -11,13 +11,13 @@ cis函數主要的功能為簡化某些數學表達式，透過cis函數可以�
 
 ## 性質
 
-cis函數的定义域是整个[实数集](https://zh.wikipedia.org/wiki/实数集 "wikilink")，[值域](../Page/值域.md "wikilink")是[單位複數](https://zh.wikipedia.org/wiki/單位複數 "wikilink")，[絕對值為](https://zh.wikipedia.org/wiki/絕對值 "wikilink")[1](../Page/1.md "wikilink")的[複數](https://zh.wikipedia.org/wiki/複數 "wikilink")。它是[周期函数](../Page/周期函数.md "wikilink")，其最小正周期为\(2\pi\)。其图像关于原点对称。
+cis函數的定义域是整个[实数集](https://zh.wikipedia.org/wiki/实数集 "wikilink")，[值域](../Page/值域.md "wikilink")是[單位複數](https://zh.wikipedia.org/wiki/單位複數 "wikilink")，[絕對值為](https://zh.wikipedia.org/wiki/絕對值 "wikilink")[1的](https://zh.wikipedia.org/wiki/1 "wikilink")[複數](https://zh.wikipedia.org/wiki/複數 "wikilink")。它是[周期函数](../Page/周期函数.md "wikilink")，其最小正周期为\(2\pi\)。其图像关于原点对称。
 
 上述文字稱它以類似三角函數的形式來定義函數的原因是，就如同[三角函數](https://zh.wikipedia.org/wiki/三角函數 "wikilink")，他也算是一種[比值](https://zh.wikipedia.org/wiki/比值 "wikilink")，[複數和其模的比值](https://zh.wikipedia.org/wiki/複數 "wikilink"):
 
 \[\operatorname{cis} \theta  = \frac{z}{\left| z\right|}\]，其中\(z\)是[幅角](../Page/幅角.md "wikilink")為\(\theta\)的[複數](https://zh.wikipedia.org/wiki/複數 "wikilink") 因此，當一複數的模為1，其反函數就是[幅角](../Page/幅角.md "wikilink")（[arg函數](https://zh.wikipedia.org/wiki/arg函數 "wikilink")）。
 
-**\(\operatorname{cis}\)函數**可視為求[單位複數的函數](https://zh.wikipedia.org/wiki/單位複數 "wikilink")
+**\(\operatorname{cis}\)函數**可視為求[單位複數的函數](https://zh.wikipedia.org/wiki/單位複數 "wikilink")。
 
 **\(\operatorname{cis}\)**函數的[實數部分和](https://zh.wikipedia.org/wiki/實數 "wikilink")[餘弦函數相同](https://zh.wikipedia.org/wiki/餘弦函數 "wikilink")。 [Cis_function_coloring_plot_3D.png](https://zh.wikipedia.org/wiki/File:Cis_function_coloring_plot_3D.png "fig:Cis_function_coloring_plot_3D.png")
 

@@ -23,7 +23,7 @@
 ### J04AC [酰肼](../Page/酰肼.md "wikilink")类（Hydrazides）
 
   -
-    J04AC01 [异烟肼](../Page/异烟肼.md "wikilink")（Isoniazid）
+    J04AC01 [异烟肼](https://zh.wikipedia.org/wiki/异烟肼 "wikilink")（Isoniazid）
     J04AC51 异烟肼，复方（Isoniazid, combinations）
 
 ### J04AD [硫脲](../Page/硫脲.md "wikilink")衍生物类（Thiocarbamide derivatives）

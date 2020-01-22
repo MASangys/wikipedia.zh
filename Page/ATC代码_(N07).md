@@ -6,7 +6,7 @@
 ### N07AA 抗胆碱酯酶类（Anticholinesterases）
 
   -
-    N07AA01 [新斯的明](../Page/新斯的明.md "wikilink")（Neostigmine）
+    N07AA01 [新斯的明](https://zh.wikipedia.org/wiki/新斯的明 "wikilink")（Neostigmine）
     N07AA02 [吡斯的明](https://zh.wikipedia.org/wiki/吡斯的明 "wikilink")（Pyridostigmine）
     N07AA03 [地斯的明](https://zh.wikipedia.org/wiki/地斯的明 "wikilink")（Distigmine）
     N07AA30 [安贝铵](https://zh.wikipedia.org/wiki/安贝铵 "wikilink")（Ambenonium）
@@ -58,7 +58,7 @@
   -
     N07CA01 [倍他司汀](https://zh.wikipedia.org/wiki/倍他司汀 "wikilink")（Betahistine）
     N07CA02 [桂利嗪](https://zh.wikipedia.org/wiki/桂利嗪 "wikilink")（Cinnarizine）
-    N07CA03 [氟桂利嗪](../Page/氟桂利嗪.md "wikilink")（Flunarizine）
+    N07CA03 [氟桂利嗪](https://zh.wikipedia.org/wiki/氟桂利嗪 "wikilink")（Flunarizine）
     N07CA04 [乙酰亮氨酸](https://zh.wikipedia.org/wiki/乙酰亮氨酸 "wikilink")（Acetylleucine）
     N07CA52 桂利嗪，复方（Cinnarizine, combinations）
 
@@ -70,7 +70,7 @@
 
   -
     N07XX01 [替拉扎特](https://zh.wikipedia.org/wiki/替拉扎特 "wikilink")（Tirilazad）
-    N07XX02 [利鲁唑](../Page/利鲁唑.md "wikilink")（Riluzole）
+    N07XX02 [利鲁唑](https://zh.wikipedia.org/wiki/利鲁唑 "wikilink")（Riluzole）
     N07XX03 [沙利罗登](https://zh.wikipedia.org/wiki/沙利罗登 "wikilink")（Xaliproden）
     N07XX04 [羟丁酸钠](https://zh.wikipedia.org/wiki/羟丁酸钠 "wikilink")（Sodium oxybate）
     N07XX05 [二氨吡啶](https://zh.wikipedia.org/wiki/二氨吡啶 "wikilink")（Amifampridine）

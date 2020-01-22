@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - [首尔](https://zh.wikipedia.org/wiki/首尔站 "wikilink") - [龙山](../Page/龙山站_\(首尔\).md "wikilink") - [永登浦](../Page/永登浦站.md "wikilink") - [安养](https://zh.wikipedia.org/wiki/安养站 "wikilink") - [水原](https://zh.wikipedia.org/wiki/水原站_\(京畿道\) "wikilink") - [乌山](https://zh.wikipedia.org/wiki/乌山站_\(韓國\) "wikilink") - [西井里](../Page/西井里站.md "wikilink") - [平泽](../Page/平泽站.md "wikilink") - [成欢](../Page/成欢站.md "wikilink") - [天安](../Page/天安站.md "wikilink") - [牙山](../Page/牙山站.md "wikilink") - [温阳温泉](../Page/温阳温泉站.md "wikilink") - [新昌](https://zh.wikipedia.org/wiki/新昌站_\(韓國\) "wikilink")
+  - [首尔](https://zh.wikipedia.org/wiki/首尔站 "wikilink") - [龙山](https://zh.wikipedia.org/wiki/龙山站_\(首尔\) "wikilink") - [永登浦](https://zh.wikipedia.org/wiki/永登浦站 "wikilink") - [安养](https://zh.wikipedia.org/wiki/安养站 "wikilink") - [水原](https://zh.wikipedia.org/wiki/水原站_\(京畿道\) "wikilink") - [乌山](https://zh.wikipedia.org/wiki/乌山站_\(韓國\) "wikilink") - [西井里](../Page/西井里站.md "wikilink") - [平泽](../Page/平泽站.md "wikilink") - [成欢](../Page/成欢站.md "wikilink") - [天安](https://zh.wikipedia.org/wiki/天安站 "wikilink") - [牙山](../Page/牙山站.md "wikilink") - [温阳温泉](../Page/温阳温泉站.md "wikilink") - [新昌](https://zh.wikipedia.org/wiki/新昌站_\(韓國\) "wikilink")
 
 -----
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - [首尔](https://zh.wikipedia.org/wiki/首尔站 "wikilink") - [永登浦](../Page/永登浦站.md "wikilink") - [安养](https://zh.wikipedia.org/wiki/安养站 "wikilink") - [水原](https://zh.wikipedia.org/wiki/水原站_\(京畿道\) "wikilink") - [乌山](https://zh.wikipedia.org/wiki/乌山站_\(韓國\) "wikilink") - [平泽](../Page/平泽站.md "wikilink") - [成欢](../Page/成欢站.md "wikilink") - [天安](../Page/天安站.md "wikilink") - [全义](https://zh.wikipedia.org/wiki/全义站 "wikilink") - [五松](https://zh.wikipedia.org/wiki/五松站 "wikilink") - [清州](https://zh.wikipedia.org/wiki/清州站 "wikilink") - [梧根场](https://zh.wikipedia.org/wiki/梧根场站 "wikilink") - [清州机场](https://zh.wikipedia.org/wiki/清州机场站 "wikilink") - [曾坪](https://zh.wikipedia.org/wiki/曾坪站 "wikilink") - [阴城](https://zh.wikipedia.org/wiki/阴城站 "wikilink") - [周德](https://zh.wikipedia.org/wiki/周德站 "wikilink") - [忠州](https://zh.wikipedia.org/wiki/忠州站 "wikilink") - [凤阳](../Page/凤阳站_\(忠清北道\).md "wikilink") - [堤川](https://zh.wikipedia.org/wiki/堤川站 "wikilink")
+  - [首尔](https://zh.wikipedia.org/wiki/首尔站 "wikilink") - [永登浦](https://zh.wikipedia.org/wiki/永登浦站 "wikilink") - [安养](https://zh.wikipedia.org/wiki/安养站 "wikilink") - [水原](https://zh.wikipedia.org/wiki/水原站_\(京畿道\) "wikilink") - [乌山](https://zh.wikipedia.org/wiki/乌山站_\(韓國\) "wikilink") - [平泽](../Page/平泽站.md "wikilink") - [成欢](../Page/成欢站.md "wikilink") - [天安](https://zh.wikipedia.org/wiki/天安站 "wikilink") - [全义](https://zh.wikipedia.org/wiki/全义站 "wikilink") - [五松](https://zh.wikipedia.org/wiki/五松站 "wikilink") - [清州](https://zh.wikipedia.org/wiki/清州站 "wikilink") - [梧根场](https://zh.wikipedia.org/wiki/梧根场站 "wikilink") - [清州机场](https://zh.wikipedia.org/wiki/清州机场站 "wikilink") - [曾坪](https://zh.wikipedia.org/wiki/曾坪站 "wikilink") - [阴城](https://zh.wikipedia.org/wiki/阴城站 "wikilink") - [周德](https://zh.wikipedia.org/wiki/周德站 "wikilink") - [忠州](https://zh.wikipedia.org/wiki/忠州站 "wikilink") - [凤阳](https://zh.wikipedia.org/wiki/凤阳站_\(忠清北道\) "wikilink") - [堤川](https://zh.wikipedia.org/wiki/堤川站 "wikilink")
 
 -----
 
@@ -33,15 +33,15 @@
 
 <!-- end list -->
 
-  - [大田](https://zh.wikipedia.org/wiki/大田站 "wikilink") - [新滩津](../Page/新滩津站.md "wikilink") - [芙江](../Page/芙江站.md "wikilink") - [乌致院](https://zh.wikipedia.org/wiki/鳥致院站 "wikilink") - [五松](https://zh.wikipedia.org/wiki/五松站 "wikilink") - [清州](https://zh.wikipedia.org/wiki/清州站 "wikilink") - [梧根场](https://zh.wikipedia.org/wiki/梧根场站 "wikilink") - [清州机场](https://zh.wikipedia.org/wiki/清州机场站 "wikilink") - [曾坪](https://zh.wikipedia.org/wiki/曾坪站 "wikilink") - [阴城](https://zh.wikipedia.org/wiki/阴城站 "wikilink") - [周德](https://zh.wikipedia.org/wiki/周德站 "wikilink") - [忠州](https://zh.wikipedia.org/wiki/忠州站 "wikilink") - [凤阳](../Page/凤阳站_\(忠清北道\).md "wikilink") - [堤川](https://zh.wikipedia.org/wiki/堤川站 "wikilink")
+  - [大田](https://zh.wikipedia.org/wiki/大田站 "wikilink") - [新滩津](https://zh.wikipedia.org/wiki/新滩津站 "wikilink") - [芙江](../Page/芙江站.md "wikilink") - [乌致院](https://zh.wikipedia.org/wiki/鳥致院站 "wikilink") - [五松](https://zh.wikipedia.org/wiki/五松站 "wikilink") - [清州](https://zh.wikipedia.org/wiki/清州站 "wikilink") - [梧根场](https://zh.wikipedia.org/wiki/梧根场站 "wikilink") - [清州机场](https://zh.wikipedia.org/wiki/清州机场站 "wikilink") - [曾坪](https://zh.wikipedia.org/wiki/曾坪站 "wikilink") - [阴城](https://zh.wikipedia.org/wiki/阴城站 "wikilink") - [周德](https://zh.wikipedia.org/wiki/周德站 "wikilink") - [忠州](https://zh.wikipedia.org/wiki/忠州站 "wikilink") - [凤阳](https://zh.wikipedia.org/wiki/凤阳站_\(忠清北道\) "wikilink") - [堤川](https://zh.wikipedia.org/wiki/堤川站 "wikilink")
 
 -----
 
-  - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")、[湖南线](https://zh.wikipedia.org/wiki/湖南线 "wikilink")、[光州线](https://zh.wikipedia.org/wiki/光州线 "wikilink")：[龙山](../Page/龙山站_\(首尔\).md "wikilink") - [光州](https://zh.wikipedia.org/wiki/光州站 "wikilink")
+  - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")、[湖南线](https://zh.wikipedia.org/wiki/湖南线 "wikilink")、[光州线](https://zh.wikipedia.org/wiki/光州线 "wikilink")：[龙山](https://zh.wikipedia.org/wiki/龙山站_\(首尔\) "wikilink") - [光州](https://zh.wikipedia.org/wiki/光州站 "wikilink")
 
 <!-- end list -->
 
-  - [龙山](../Page/龙山站_\(首尔\).md "wikilink") - [永登浦](../Page/永登浦站.md "wikilink") - [安养](https://zh.wikipedia.org/wiki/安养站 "wikilink") - [水原](https://zh.wikipedia.org/wiki/水原站_\(京畿道\) "wikilink") - [乌山](https://zh.wikipedia.org/wiki/乌山站_\(韓國\) "wikilink") - [平泽](../Page/平泽站.md "wikilink") - [成欢](../Page/成欢站.md "wikilink") - [天安](../Page/天安站.md "wikilink") - [乌致院](https://zh.wikipedia.org/wiki/鳥致院站 "wikilink") - [芙江](../Page/芙江站.md "wikilink") - [新滩津](../Page/新滩津站.md "wikilink") - [西大田](../Page/西大田站.md "wikilink") - [鸡龙](https://zh.wikipedia.org/wiki/鸡龙站 "wikilink") - [连山](https://zh.wikipedia.org/wiki/连山站_\(忠清南道\) "wikilink") - [论山](https://zh.wikipedia.org/wiki/论山站 "wikilink") - [江景](https://zh.wikipedia.org/wiki/江景站 "wikilink") - [咸悦](https://zh.wikipedia.org/wiki/咸悦站 "wikilink") - [益山](../Page/益山站.md "wikilink") - [金堤](https://zh.wikipedia.org/wiki/金堤站 "wikilink") - [新泰仁](https://zh.wikipedia.org/wiki/新泰仁站 "wikilink") - [井邑](../Page/井邑站.md "wikilink") - [白羊寺](../Page/白羊寺站.md "wikilink") - [长城](https://zh.wikipedia.org/wiki/长城站 "wikilink") - [極乐江](https://zh.wikipedia.org/wiki/極乐江站 "wikilink") - [光州](https://zh.wikipedia.org/wiki/光州站 "wikilink")
+  - [龙山](https://zh.wikipedia.org/wiki/龙山站_\(首尔\) "wikilink") - [永登浦](https://zh.wikipedia.org/wiki/永登浦站 "wikilink") - [安养](https://zh.wikipedia.org/wiki/安养站 "wikilink") - [水原](https://zh.wikipedia.org/wiki/水原站_\(京畿道\) "wikilink") - [乌山](https://zh.wikipedia.org/wiki/乌山站_\(韓國\) "wikilink") - [平泽](../Page/平泽站.md "wikilink") - [成欢](../Page/成欢站.md "wikilink") - [天安](https://zh.wikipedia.org/wiki/天安站 "wikilink") - [乌致院](https://zh.wikipedia.org/wiki/鳥致院站 "wikilink") - [芙江](../Page/芙江站.md "wikilink") - [新滩津](https://zh.wikipedia.org/wiki/新滩津站 "wikilink") - [西大田](https://zh.wikipedia.org/wiki/西大田站 "wikilink") - [鸡龙](https://zh.wikipedia.org/wiki/鸡龙站 "wikilink") - [连山](https://zh.wikipedia.org/wiki/连山站_\(忠清南道\) "wikilink") - [论山](https://zh.wikipedia.org/wiki/论山站 "wikilink") - [江景](https://zh.wikipedia.org/wiki/江景站 "wikilink") - [咸悦](https://zh.wikipedia.org/wiki/咸悦站 "wikilink") - [益山](https://zh.wikipedia.org/wiki/益山站 "wikilink") - [金堤](https://zh.wikipedia.org/wiki/金堤站 "wikilink") - [新泰仁](https://zh.wikipedia.org/wiki/新泰仁站 "wikilink") - [井邑](https://zh.wikipedia.org/wiki/井邑站 "wikilink") - [白羊寺](../Page/白羊寺站.md "wikilink") - [长城](https://zh.wikipedia.org/wiki/长城站 "wikilink") - [極乐江](https://zh.wikipedia.org/wiki/極乐江站 "wikilink") - [光州](https://zh.wikipedia.org/wiki/光州站 "wikilink")
 
 -----
 
@@ -50,8 +50,8 @@
 在2012年5月12日至8月12日[丽水世界博览会举办期间](https://zh.wikipedia.org/wiki/丽水世界博览会 "wikilink")，[韩国铁道公社曾开通如下临时路线](https://zh.wikipedia.org/wiki/韩国铁道公社 "wikilink")：
 
   - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")：[首尔](https://zh.wikipedia.org/wiki/首尔站 "wikilink")-[大田](../Page/大田站_\(韩国\).md "wikilink")、[首尔](https://zh.wikipedia.org/wiki/首尔站 "wikilink")-[东大邱](https://zh.wikipedia.org/wiki/东大邱站 "wikilink")
-  - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")、[湖南线](https://zh.wikipedia.org/wiki/湖南线 "wikilink")：[龙山](../Page/龙山站_\(首尔\).md "wikilink")-[光州松汀](../Page/光州松汀站.md "wikilink")
-  - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")、[湖南线](https://zh.wikipedia.org/wiki/湖南线 "wikilink")、[全罗线](https://zh.wikipedia.org/wiki/全罗线 "wikilink")：[龙山](../Page/龙山站_\(首尔\).md "wikilink")-[丽水EXPO](https://zh.wikipedia.org/wiki/丽水EXPO站 "wikilink")
+  - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")、[湖南线](https://zh.wikipedia.org/wiki/湖南线 "wikilink")：[龙山](https://zh.wikipedia.org/wiki/龙山站_\(首尔\) "wikilink")-[光州松汀](https://zh.wikipedia.org/wiki/光州松汀站 "wikilink")
+  - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")、[湖南线](https://zh.wikipedia.org/wiki/湖南线 "wikilink")、[全罗线](https://zh.wikipedia.org/wiki/全罗线 "wikilink")：[龙山](https://zh.wikipedia.org/wiki/龙山站_\(首尔\) "wikilink")-[丽水EXPO](https://zh.wikipedia.org/wiki/丽水EXPO站 "wikilink")
 
 ## 参见
 

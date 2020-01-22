@@ -11,7 +11,7 @@
 
 ### 紅組
 
-[森昌子](../Page/森昌子.md "wikilink")
+[森昌子](https://zh.wikipedia.org/wiki/森昌子 "wikilink")
 
 ### 白組
 
@@ -23,30 +23,30 @@
 
 ## 出場歌手
 
-| 紅組                                                          | 白組                                                |
-| ----------------------------------------------------------- | ------------------------------------------------- |
-| 歌手                                                          | 歌曲名                                               |
-| [石川秀美](../Page/石川秀美.md "wikilink")(1)                       | 愛の呪文                                              |
-| [河合奈保子](../Page/河合奈保子.md "wikilink")(5)                     | デビュー/MANHATTAN JOKE                               |
-| [鄧麗君](../Page/鄧麗君.md "wikilink")(1)                         | [愛人](https://zh.wikipedia.org/wiki/愛人 "wikilink") |
-| [小泉今日子](../Page/小泉今日子.md "wikilink")(2)                     | [因為是偶像](../Page/因為是偶像.md "wikilink")              |
-| [柏原芳恵](https://zh.wikipedia.org/wiki/柏原芳恵 "wikilink")(2)    | し・の・び・愛                                           |
-| [岩崎宏美](../Page/岩崎宏美.md "wikilink")(11)                      | 決心/夢狩人                                            |
-| [中森明菜](../Page/中森明菜.md "wikilink")(3)                       | 我愛你                                               |
-| [小柳留美子](../Page/小柳留美子.md "wikilink")(15)                    | 乾杯\!                                              |
-| 研ナオコ(9)                                                     | 帰愁                                                |
-| 松原のぶえ(1)                                                    | おんなの出船                                            |
-| [早見優](../Page/早見優.md "wikilink")(3)                         | PASSION                                           |
-| [松田聖子](../Page/松田聖子.md "wikilink")(6)                       | 天使のウィンク                                           |
-| [原田知世](../Page/原田知世.md "wikilink")(1)                       | 早春物語                                              |
-| [川中美幸](https://zh.wikipedia.org/wiki/川中美幸 "wikilink")(5)    | 男じゃないか                                            |
-| [水前寺清子](https://zh.wikipedia.org/wiki/水前寺清子 "wikilink")(21) | 人生夢三味線                                            |
-| [島倉千代子](../Page/島倉千代子.md "wikilink")(29)                    | 夢飾り                                               |
-| [八代亞紀](../Page/八代亞紀.md "wikilink")(13)                      | 命火                                                |
-| [石川小百合](../Page/石川小百合.md "wikilink")(8)                     | 波止場しぐれ                                            |
-| [小林幸子](../Page/小林幸子.md "wikilink")(7)                       | 夫婦しぐれ                                             |
-| [森昌子](../Page/森昌子.md "wikilink")(13)                        | 愛傷歌                                               |
-|                                                             |                                                   |
+| 紅組                                                          | 白組                                                      |
+| ----------------------------------------------------------- | ------------------------------------------------------- |
+| 歌手                                                          | 歌曲名                                                     |
+| [石川秀美](https://zh.wikipedia.org/wiki/石川秀美 "wikilink")(1)    | 愛の呪文                                                    |
+| [河合奈保子](../Page/河合奈保子.md "wikilink")(5)                     | デビュー/MANHATTAN JOKE                                     |
+| [鄧麗君](../Page/鄧麗君.md "wikilink")(1)                         | [愛人](https://zh.wikipedia.org/wiki/愛人 "wikilink")       |
+| [小泉今日子](../Page/小泉今日子.md "wikilink")(2)                     | [因為是偶像](https://zh.wikipedia.org/wiki/因為是偶像 "wikilink") |
+| [柏原芳恵](https://zh.wikipedia.org/wiki/柏原芳恵 "wikilink")(2)    | し・の・び・愛                                                 |
+| [岩崎宏美](../Page/岩崎宏美.md "wikilink")(11)                      | 決心/夢狩人                                                  |
+| [中森明菜](../Page/中森明菜.md "wikilink")(3)                       | 我愛你                                                     |
+| [小柳留美子](https://zh.wikipedia.org/wiki/小柳留美子 "wikilink")(15) | 乾杯\!                                                    |
+| 研ナオコ(9)                                                     | 帰愁                                                      |
+| 松原のぶえ(1)                                                    | おんなの出船                                                  |
+| [早見優](https://zh.wikipedia.org/wiki/早見優 "wikilink")(3)      | PASSION                                                 |
+| [松田聖子](../Page/松田聖子.md "wikilink")(6)                       | 天使のウィンク                                                 |
+| [原田知世](../Page/原田知世.md "wikilink")(1)                       | 早春物語                                                    |
+| [川中美幸](https://zh.wikipedia.org/wiki/川中美幸 "wikilink")(5)    | 男じゃないか                                                  |
+| [水前寺清子](https://zh.wikipedia.org/wiki/水前寺清子 "wikilink")(21) | 人生夢三味線                                                  |
+| [島倉千代子](https://zh.wikipedia.org/wiki/島倉千代子 "wikilink")(29) | 夢飾り                                                     |
+| [八代亞紀](../Page/八代亞紀.md "wikilink")(13)                      | 命火                                                      |
+| [石川小百合](../Page/石川小百合.md "wikilink")(8)                     | 波止場しぐれ                                                  |
+| [小林幸子](../Page/小林幸子.md "wikilink")(7)                       | 夫婦しぐれ                                                   |
+| [森昌子](https://zh.wikipedia.org/wiki/森昌子 "wikilink")(13)     | 愛傷歌                                                     |
+|                                                             |                                                         |
 
 <small> 演唱歌手後面的(括號)即代表登上[紅白歌合戰的次數](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。</small>
 

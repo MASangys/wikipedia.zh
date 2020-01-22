@@ -53,7 +53,7 @@
 | bass                                          | HIROO YAMAGUCHI                                                            |
 | guiter                                        | [SUSUMU NISIKAWA](https://zh.wikipedia.org/wiki/西川進 "wikilink")            |
 | strings                                       | [DAISENSEI MUROYA STRINGS](https://zh.wikipedia.org/wiki/室屋光一郎 "wikilink") |
-| all other instrumental & programming          | [MASATO NAKAYAMA](../Page/中山真斗.md "wikilink")                              |
+| all other instrumental & programming          | [MASATO NAKAYAMA](https://zh.wikipedia.org/wiki/中山真斗 "wikilink")           |
 | recorded by                                   | TETSURO TAKEUCHI,HISAYOSHI KONDO                                           |
 | mixed by                                      | TETSURO TAKEUCHI                                                           |
 | recorded at                                   | AVACO CREATIVE STADIO,Sony Music Studios Tokyo                             |
@@ -78,7 +78,7 @@
 | <font color=#399ECC>ONE</font>                |                                                                            |
 | trunpet                                       | YUSUKE NAKANO                                                              |
 | strings                                       | [DAISENSEI MUROYA STRINGS](https://zh.wikipedia.org/wiki/室屋光一郎 "wikilink") |
-| all other instrumental & programming          | [HITOSHI FUJIMA](../Page/藤間仁.md "wikilink")                                |
+| all other instrumental & programming          | [HITOSHI FUJIMA](https://zh.wikipedia.org/wiki/藤間仁 "wikilink")             |
 | recorded & mixed by                           | HISAYOSHI KONDO                                                            |
 | recorded at                                   | Sound City                                                                 |
 | mixed at                                      | STUDIO SUNSHINE                                                            |

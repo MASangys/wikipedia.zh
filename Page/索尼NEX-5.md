@@ -1,13 +1,13 @@
 > 本文内容由[索尼NEX-5](https://zh.wikipedia.org/wiki/索尼NEX-5)转换而来。
 
 
-**索尼 NEX-5**是[索尼公司于](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")2010年5月11日发布的一款[数码相机](../Page/数码相机.md "wikilink")。\[1\]這是一款[無反光鏡可換鏡頭相機](../Page/無反光鏡可換鏡頭相機.md "wikilink")，具有普通[傻瓜相機機體](https://zh.wikipedia.org/wiki/傻瓜相機 "wikilink")，但其[感光元件尺寸](https://zh.wikipedia.org/wiki/感光元件 "wikilink")（[APS-C](https://zh.wikipedia.org/wiki/APS-C "wikilink")）與一些[數位單眼相機](../Page/數位單眼相機.md "wikilink")相容。它在市場上的主要競爭對手是由[Panasonic與](https://zh.wikipedia.org/wiki/Panasonic "wikilink")[奧林巴斯](../Page/奧林巴斯.md "wikilink")共同開發的[微4/3標準](https://zh.wikipedia.org/wiki/微4/3系統 "wikilink")，以及稍低階一些的[佳能](../Page/佳能.md "wikilink")、[尼康](../Page/尼康.md "wikilink")，甚至[索尼α](../Page/索尼α.md "wikilink")系列數位單眼相機。\[2\]
+**索尼 NEX-5**是[索尼公司于](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")2010年5月11日发布的一款[数码相机](../Page/数码相机.md "wikilink")。\[1\]這是一款[無反光鏡可換鏡頭相機](https://zh.wikipedia.org/wiki/無反光鏡可換鏡頭相機 "wikilink")，具有普通[傻瓜相機機體](https://zh.wikipedia.org/wiki/傻瓜相機 "wikilink")，但其[感光元件尺寸](https://zh.wikipedia.org/wiki/感光元件 "wikilink")（[APS-C](https://zh.wikipedia.org/wiki/APS-C "wikilink")）與一些[數位單眼相機](../Page/數位單眼相機.md "wikilink")相容。它在市場上的主要競爭對手是由[Panasonic與](https://zh.wikipedia.org/wiki/Panasonic "wikilink")[奧林巴斯](../Page/奧林巴斯.md "wikilink")共同開發的[微4/3標準](https://zh.wikipedia.org/wiki/微4/3系統 "wikilink")，以及稍低階一些的[佳能](../Page/佳能.md "wikilink")、[尼康](../Page/尼康.md "wikilink")，甚至[索尼α](../Page/索尼α.md "wikilink")系列數位單眼相機。\[2\]
 
 ## 型号释义
 
 NEX-3/5系列的完整型号应当包括以下字母后缀。
 
-  - C：不包含[Eye-Fi](../Page/Eye-Fi.md "wikilink")功能（仅有NEX-3C和NEX-5C）
+  - C：不包含[Eye-Fi功能](https://zh.wikipedia.org/wiki/Eye-Fi "wikilink")（仅有NEX-3C和NEX-5C）
   - A：E卡口2,8/16mm（SEL-16F28）镜头套装
   - D：E卡口2,8/16mm（SEL-16F28）與 E 3,5-5,6/18-55mm OSS（SEL-1855）镜头套装
   - H：E卡口3,5-6,3/18-200mm OSS（SEL-18200）镜头套装

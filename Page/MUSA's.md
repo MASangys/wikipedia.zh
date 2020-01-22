@@ -1,7 +1,7 @@
 > 本文内容由[MUSA\'s](https://zh.wikipedia.org/wiki/MUSA\'s)转换而来。
 
 
-**MUSA's**是由來自[阿根廷](../Page/阿根廷.md "wikilink")的鋼琴及鍵盤手[Martin "Musa" Musaubach](../Page/明馬丁.md "wikilink") (Musa)帶領的演奏團體。
+**MUSA's**是由來自[阿根廷](../Page/阿根廷.md "wikilink")的鋼琴及鍵盤手[Martin "Musa" Musaubach](https://zh.wikipedia.org/wiki/明馬丁 "wikilink") (Musa)帶領的演奏團體。
 
 ## 有關樂團
 
@@ -29,7 +29,7 @@ SENSATION組成後，選擇了台北「河岸留言」(Riverside Café Taipei) �
 
 自2012年第四季開始，MUSA's Trio開始不單只與其曹格合作，尤其在現場表演上樂團與不同音樂人的合作漸多。
 
-2013年4月，吉他手Fabio Moreira加入D.F.M，作為MUS4's (Quartet 四重奏) 成員與MUSA's Trio共同參與曹格Project SENSATION 2\[9\]。夏天開始，小號及富魯格號手Danny加入樂團，將之前的MUS4's擴充成MU5A's (Quintet 五重奏) ——由最初的三重奏，擴展成包括完整節奏組 ([rhythm section](https://zh.wikipedia.org/wiki/节奏组_\(音乐\) "wikilink")) 的小型編制樂團 ([jazz ensemble](../Page/爵士乐队.md "wikilink"))。就如爵士樂樂手之間常見的合作演出或錄音，MUSA's會邀請不同的樂手或歌手加入演奏，共同創造出更多的音樂新面貌。
+2013年4月，吉他手Fabio Moreira加入D.F.M，作為MUS4's (Quartet 四重奏) 成員與MUSA's Trio共同參與曹格Project SENSATION 2\[9\]。夏天開始，小號及富魯格號手Danny加入樂團，將之前的MUS4's擴充成MU5A's (Quintet 五重奏) ——由最初的三重奏，擴展成包括完整節奏組 ([rhythm section](https://zh.wikipedia.org/wiki/节奏组_\(音乐\) "wikilink")) 的小型編制樂團 ([jazz ensemble](https://zh.wikipedia.org/wiki/爵士乐队 "wikilink"))。就如爵士樂樂手之間常見的合作演出或錄音，MUSA's會邀請不同的樂手或歌手加入演奏，共同創造出更多的音樂新面貌。
 
 除了繼續進行「曹格 x SENSATION」Project 2及參與曹格的演唱會演奏部份，MUS4's及MU5A's亦會以DFM Jazz Club (其唱片公司) 的名義與旗下歌手Shiny Lv和Norma其同演出小型音樂會。除了參予MUSA's的演出，成員們也同時開始個人身份與其他樂手、歌手合作，不定期在台北的小型演出場地或者爵士樂酒吧舉行/主持現場演奏。
 
@@ -39,7 +39,7 @@ SENSATION組成後，選擇了台北「河岸留言」(Riverside Café Taipei) �
 
 **常任成員**
 
-  - **[Martin "Musa" Musaubach](../Page/明馬丁.md "wikilink")**
+  - **[Martin "Musa" Musaubach](https://zh.wikipedia.org/wiki/明馬丁 "wikilink")**
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@ SENSATION組成後，選擇了台北「河岸留言」(Riverside Café Taipei) �
 
 <!-- end list -->
 
-  - **[Lautaro "LuKa" Bellucca](../Page/Lautaro_Bellucca.md "wikilink")** (貝斯及低音大提琴手) (- 2013)
+  - **[Lautaro "LuKa" Bellucca](https://zh.wikipedia.org/wiki/Lautaro_Bellucca "wikilink")** (貝斯及低音大提琴手) (- 2013)
 
 <!-- end list -->
 

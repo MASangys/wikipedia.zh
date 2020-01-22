@@ -197,7 +197,7 @@ Fire Emblem Fates</p></td>
 北美：2016年3月10日<br />
 歐洲：2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演" title="wikilink">戰略角色扮演</a></p></td>
-<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/任天堂3DS" title="wikilink">任天堂3DS</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td></td>
 </tr>
@@ -212,12 +212,12 @@ Fire Emblem Echoes: Shadows of Valentia</p></td>
 歐洲：2017年5月19日<br />
 澳洲：2017年5月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演" title="wikilink">戰略角色扮演</a></p></td>
-<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/任天堂3DS" title="wikilink">任天堂3DS</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FC遊戲機" title="wikilink">FC遊戲機作品</a>《<a href="https://zh.wikipedia.org/wiki/聖火降魔錄外傳" title="wikilink">聖火降魔錄外傳</a>》的重製版</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/火焰之纹章_风花雪月.md" title="wikilink">火焰之纹章 风花雪月</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/火焰之纹章_风花雪月" title="wikilink">火焰之纹章 风花雪月</a><br />
 Fire Emblem 风花雪月<br />
 <br />
 Fire Emblem: Three Houses</p></td>

@@ -124,7 +124,7 @@ DTM四聯裝車載機槍衍生型。
 
 <!-- end list -->
 
-  - [拉提M26輕機槍](../Page/拉提M26輕機槍.md "wikilink")
+  - [拉提M26輕機槍](https://zh.wikipedia.org/wiki/拉提M26輕機槍 "wikilink")
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > 本文内容由[Xbox \(應用程式\)](https://zh.wikipedia.org/wiki/Xbox_\(應用程式\))转换而来。
 
 
-**Xbox SmartGlass**是一個為[Xbox 360](../Page/Xbox_360.md "wikilink")、[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")等行動終端開發的串連技術，于2012年面世\[1\]。它可以使行動設備連接Xbox 360，以分享更多的娛樂項目，使移動設備成為第二個螢幕\[2\]。
+**Xbox SmartGlass**是一個為[Xbox 360](../Page/Xbox_360.md "wikilink")、[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android等行動終端開發的串連技術](https://zh.wikipedia.org/wiki/Android "wikilink")，于2012年面世\[1\]。它可以使行動設備連接Xbox 360，以分享更多的娛樂項目，使移動設備成為第二個螢幕\[2\]。
 
 ## 功能
 
@@ -75,7 +75,7 @@ Xbox SmartGlass的最初2012年的[E3上被发布](https://zh.wikipedia.org/wiki
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/最後一戰4.md" title="wikilink">光晕4</a></p></td>
-<td><p><a href="../Page/343_Industries.md" title="wikilink">343 Industries</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/343_Industries" title="wikilink">343 Industries</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Microsoft Studios</a></p></td>
 <td></td>
 <td></td>
@@ -107,7 +107,7 @@ Xbox SmartGlass的最初2012年的[E3上被发布](https://zh.wikipedia.org/wiki
 <td><p>{{tsl|en|Madden NFL 13</p></td>
 <td><p>麦登橄榄球13}}</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
-<td><p><a href="../Page/EA_Sports.md" title="wikilink">EA Sports</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Sports" title="wikilink">EA Sports</a></p></td>
 <td><p>应予发表</p></td>
 <td><p>应予发表</p></td>
 <td><p>应予发表</p></td>
@@ -381,7 +381,7 @@ Xbox SmartGlass的最初2012年的[E3上被发布](https://zh.wikipedia.org/wiki
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/美國派4：美國重逢.md" title="wikilink">美國派4：美國重逢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美國派4：美國重逢" title="wikilink">美國派4：美國重逢</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -441,7 +441,7 @@ Xbox SmartGlass的最初2012年的[E3上被发布](https://zh.wikipedia.org/wiki
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/普罗米修斯_(电影).md" title="wikilink">普罗米修斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/普罗米修斯_(电影)" title="wikilink">普罗米修斯</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

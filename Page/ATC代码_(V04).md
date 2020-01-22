@@ -82,7 +82,7 @@
 
 ### QV04CQ [乳腺炎](../Page/乳腺炎.md "wikilink")检测（Tests for mastitis）
 
-### QV04CV [呼吸](../Page/呼吸.md "wikilink")功能检测（Tests for respiratory function）
+### QV04CV [呼吸功能检测](https://zh.wikipedia.org/wiki/呼吸 "wikilink")（Tests for respiratory function）
 
   -
     QV04CV01 [洛贝林](https://zh.wikipedia.org/wiki/洛贝林 "wikilink")（Lobeline）

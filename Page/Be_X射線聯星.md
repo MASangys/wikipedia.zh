@@ -1,7 +1,7 @@
 > 本文内容由[Be X射線聯星](https://zh.wikipedia.org/wiki/Be_X射線聯星)转换而来。
 
 
-**Be X射線聯星**是一種高質量[X射線聯星](https://zh.wikipedia.org/wiki/X射線聯星 "wikilink")，由一顆[中子星](../Page/中子星.md "wikilink")和一顆[Be星](../Page/Be星.md "wikilink")組成。通常中子星會以一個廣闊的橢圓軌道環繞着Be星，而Be星的[星風亦多會形成一個與中子星軌道交錯的平面](https://zh.wikipedia.org/wiki/星風 "wikilink")。每當中子星與Be星的[星風相遇時](https://zh.wikipedia.org/wiki/星風 "wikilink")，大量氣體便依附在中子星上。氣體會下沉到中子星並產生一股強烈的[X射線](https://zh.wikipedia.org/wiki/X射線 "wikilink")。\[1\]
+**Be X射線聯星**是一種高質量[X射線聯星](https://zh.wikipedia.org/wiki/X射線聯星 "wikilink")，由一顆[中子星](../Page/中子星.md "wikilink")和一顆[Be星組成](https://zh.wikipedia.org/wiki/Be星 "wikilink")。通常中子星會以一個廣闊的橢圓軌道環繞着Be星，而Be星的[星風亦多會形成一個與中子星軌道交錯的平面](https://zh.wikipedia.org/wiki/星風 "wikilink")。每當中子星與Be星的[星風相遇時](https://zh.wikipedia.org/wiki/星風 "wikilink")，大量氣體便依附在中子星上。氣體會下沉到中子星並產生一股強烈的[X射線](https://zh.wikipedia.org/wiki/X射線 "wikilink")。\[1\]
 
 ## LSI+61°303
 

@@ -1,7 +1,7 @@
 > 本文内容由[OpenOffice.org](https://zh.wikipedia.org/wiki/OpenOffice.org)转换而来。
 
 
-**OpenOffice.org**，一般称呼为**OpenOffice**，简写作**OOo**，是一个[开源的](../Page/开源软件.md "wikilink")[办公套件软件](../Page/辦公室套件.md "wikilink")。起源於[昇陽電腦](../Page/昇陽電腦.md "wikilink")1999年從[StarDivision收購的](https://zh.wikipedia.org/wiki/StarDivision "wikilink")[StarOffice](../Page/StarOffice.md "wikilink")。 OpenOffice包含了[文字处理器](../Page/文字处理器.md "wikilink")（Writer）、[電子試算表](https://zh.wikipedia.org/wiki/電子試算表 "wikilink")（Calc）、程序（Impress）、[绘图软件](https://zh.wikipedia.org/wiki/绘图软件 "wikilink")（Draw）、[数学公式编辑器](https://zh.wikipedia.org/wiki/数学公式 "wikilink")（Math）以及[關聯式資料庫管理系統](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")（Base）。\[1\]它[文件格式默认为](../Page/檔案格式.md "wikilink")[开放文档格式](../Page/开放文档格式.md "wikilink")（ODF）。该格式从OpenOffice.org发起，后来成为[ISO](../Page/國際標準化組織.md "wikilink")/[IEC标准格式](../Page/国际电工委员会.md "wikilink")。它也可读取许多不同的文件格式，尤其是[Microsoft Office生成的那些](../Page/Microsoft_Office.md "wikilink")。
+**OpenOffice.org**，一般称呼为**OpenOffice**，简写作**OOo**，是一个[开源的](../Page/开源软件.md "wikilink")[办公套件软件](https://zh.wikipedia.org/wiki/辦公室套件 "wikilink")。起源於[昇陽電腦](../Page/昇陽電腦.md "wikilink")1999年從[StarDivision收購的](https://zh.wikipedia.org/wiki/StarDivision "wikilink")[StarOffice](../Page/StarOffice.md "wikilink")。 OpenOffice包含了[文字处理器](../Page/文字处理器.md "wikilink")（Writer）、[電子試算表](https://zh.wikipedia.org/wiki/電子試算表 "wikilink")（Calc）、程序（Impress）、[绘图软件](https://zh.wikipedia.org/wiki/绘图软件 "wikilink")（Draw）、[数学公式编辑器](https://zh.wikipedia.org/wiki/数学公式 "wikilink")（Math）以及[關聯式資料庫管理系統](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")（Base）。\[1\]它[文件格式默认为](../Page/檔案格式.md "wikilink")[开放文档格式](../Page/开放文档格式.md "wikilink")（ODF）。该格式从OpenOffice.org发起，后来成为[ISO](../Page/國際標準化組織.md "wikilink")/[IEC标准格式](../Page/国际电工委员会.md "wikilink")。它也可读取许多不同的文件格式，尤其是[Microsoft Office生成的那些](../Page/Microsoft_Office.md "wikilink")。
 
 升阳电脑在2000年7月将StarOffice开源，发布OpenOffice.org，以此与[Microsoft Office竞争](../Page/Microsoft_Office.md "wikilink")。\[2\]\[3\]2002年5月1日，软件版本1.0公布。\[4\]
 
@@ -86,7 +86,7 @@ OpenOffice.org集合了密切協同工作的不同程序，來提供一個現代
 <td><p>2.0</p></td>
 <td><ul>
 <li>提供新功能和高階<a href="../Page/XML.md" title="wikilink">XML</a>處理能力</li>
-<li>內建<a href="../Page/結構化資訊標準促進組織.md" title="wikilink">OASIS的標準</a><a href="https://zh.wikipedia.org/wiki/OpenDocument" title="wikilink">OpenDocument格式支持</a></li>
+<li>內建<a href="https://zh.wikipedia.org/wiki/結構化資訊標準促進組織" title="wikilink">OASIS的標準</a><a href="https://zh.wikipedia.org/wiki/OpenDocument" title="wikilink">OpenDocument格式支持</a></li>
 </ul></td>
 <td><p>2005年10月21日</p></td>
 <td><p>里程碑</p></td>
@@ -115,7 +115,7 @@ OpenOffice.org集合了密切協同工作的不同程序，來提供一個現代
 <td><ul>
 <li>改善與<a href="../Page/Microsoft_Office.md" title="wikilink">Microsoft Office的相容</a></li>
 <li>改善<a href="https://zh.wikipedia.org/wiki/PDF" title="wikilink">PDF處理功能</a></li>
-<li>更多的<a href="../Page/語言.md" title="wikilink">語言</a>以及<a href="https://zh.wikipedia.org/wiki/辭典" title="wikilink">辭典</a></li>
+<li>更多的<a href="https://zh.wikipedia.org/wiki/語言" title="wikilink">語言以及</a><a href="https://zh.wikipedia.org/wiki/辭典" title="wikilink">辭典</a></li>
 </ul></td>
 <td><p>2006年6月29日</p></td>
 <td><p>修補三個安全漏洞</p></td>
@@ -133,8 +133,8 @@ OpenOffice.org集合了密切協同工作的不同程序，來提供一個現代
 <tr class="even">
 <td><p>2.1.0</p></td>
 <td><ul>
-<li>為<a href="../Page/OpenOffice.org_Impress.md" title="wikilink">Impress增加了多重顯示器支持</a></li>
-<li>改善<a href="../Page/OpenOffice.org_Calc.md" title="wikilink">Calc的</a><a href="../Page/HTML.md" title="wikilink">HTML</a>輸出</li>
+<li>為<a href="https://zh.wikipedia.org/wiki/OpenOffice.org_Impress" title="wikilink">Impress增加了多重顯示器支持</a></li>
+<li>改善<a href="https://zh.wikipedia.org/wiki/OpenOffice.org_Calc" title="wikilink">Calc的</a><a href="../Page/HTML.md" title="wikilink">HTML</a>輸出</li>
 <li>改善<a href="https://zh.wikipedia.org/wiki/Base" title="wikilink">Base的</a><a href="https://zh.wikipedia.org/wiki/Access" title="wikilink">Access支持</a></li>
 <li>版本更新自動提示功能</li>
 </ul></td>
@@ -291,7 +291,7 @@ OpenOffice.org集合了密切協同工作的不同程序，來提供一個現代
 
 OpenOffice.org的[API基于被称为](../Page/应用程序接口.md "wikilink")[通用网络对象](https://zh.wikipedia.org/wiki/通用网络对象 "wikilink")（Universal Network Objects，缩写为UNO）的组件技术。其包括各种类似于[CORBA](../Page/CORBA.md "wikilink")[接口描述语言](../Page/接口描述语言.md "wikilink")（interface description language）的接口定义。
 
-OpenOffice.org使用的[文件檔案格式](../Page/文件檔案格式.md "wikilink")（document file format）基于[XML](../Page/XML.md "wikilink")，以及几个输出、导入过滤器。OpenOffice.org读取的所有外部格式，都通过内部的XML表示法进行来回转换。将[XML](../Page/XML.md "wikilink")保存到磁盘时，由于使用了[压缩](../Page/数据压缩.md "wikilink")，文件体积一般要比同等的Microsoft Office文档要小。从1.0版起，存储文档的本地的文件格式开始基于[OASIS](../Page/結構化資訊標準促進組織.md "wikilink") [OpenDocument的文件格式标准](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")，2.0版时，已经成为默认的文件格式。
+OpenOffice.org使用的[文件檔案格式](../Page/文件檔案格式.md "wikilink")（document file format）基于[XML](../Page/XML.md "wikilink")，以及几个输出、导入过滤器。OpenOffice.org读取的所有外部格式，都通过内部的XML表示法进行来回转换。将[XML](../Page/XML.md "wikilink")保存到磁盘时，由于使用了[压缩](../Page/数据压缩.md "wikilink")，文件体积一般要比同等的Microsoft Office文档要小。从1.0版起，存储文档的本地的文件格式开始基于[OASIS](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink") [OpenDocument的文件格式标准](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")，2.0版时，已经成为默认的文件格式。
 
 在OpenOffice.org网站的开发员专区，该套件的开发版每数周就有新版释出。这些版本主要用于测试新功能，或者满足特殊用户的好奇心，可以提前看到未来的变化，但这不适合产品应用。
 
@@ -322,7 +322,7 @@ OpenOffice.org第一版中使用了[Java](../Page/Java.md "wikilink")語言來�
 
 但是使用Java作為輔助工具在開源社區引極大的爭論，因為Java本身是閉源的，這與OpenOffice.org的開源精神相違背。但事實是因為昇陽公司作為OpenOffice.org計劃的主導者和Java的開發者，其加入Java於OpenOffice.org裡也是無可厚非的。
 
-就這個問題，[GNU](../Page/GNU.md "wikilink")計劃的創始人[理查德·马修·斯托曼在](https://zh.wikipedia.org/wiki/理查德·马修·斯托曼 "wikilink")2005年5月提出要對OpenOffice.org作出修改，使用開放源碼的[GCJ](../Page/GCJ.md "wikilink")及GNU [Classpath取代Java](https://zh.wikipedia.org/wiki/Classpath "wikilink")。詳情可參看[自由軟體基金會上的](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")[宣告](http://www.fsf.org/news/open-office-java.html)及OpenOffice.org網站上的[簡介](http://www.openoffice.org/dev_docs/kay-java-20050511.html)。
+就這個問題，[GNU計劃的創始人](https://zh.wikipedia.org/wiki/GNU "wikilink")[理查德·马修·斯托曼在](https://zh.wikipedia.org/wiki/理查德·马修·斯托曼 "wikilink")2005年5月提出要對OpenOffice.org作出修改，使用開放源碼的[GCJ](../Page/GCJ.md "wikilink")及GNU [Classpath取代Java](https://zh.wikipedia.org/wiki/Classpath "wikilink")。詳情可參看[自由軟體基金會上的](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")[宣告](http://www.fsf.org/news/open-office-java.html)及OpenOffice.org網站上的[簡介](http://www.openoffice.org/dev_docs/kay-java-20050511.html)。
 
 [紅帽公司主導的](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[Fedora Core](https://zh.wikipedia.org/wiki/Fedora_Core "wikilink") 4（2005年6月13日發行）支持這個行動，紅帽公司在這個版本的Fedora Core Linux內加入了OpenOffice.org第二版的測試版，並整合了GCJ及GNU Classpath。這個舉動證明了Java在OpenOffice.org這個開源計劃裡並不是必須的，而OpenOffice.org的開發者亦在開發者守則裡加入了未來的OpenOffice.org的版本應要兼容開放源碼的Java版本的指引。
 

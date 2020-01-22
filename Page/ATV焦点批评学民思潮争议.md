@@ -3,7 +3,7 @@
 
 [thumb](https://zh.wikipedia.org/wiki/檔案:ATV_Focus.jpg "wikilink")
 
-**ATV焦点批评学民思潮争议**是指2012年9月3日[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")節目《[ATV焦點](../Page/ATV焦點.md "wikilink")》中的評論內容。部分[香港市民指責](https://zh.wikipedia.org/wiki/香港市民 "wikilink")《ATV焦點》本集內容嚴重偏頗，抹黑[學民思潮](../Page/學民思潮.md "wikilink")，並描述[泛民主派](../Page/泛民主派.md "wikilink")為[香港立法會](../Page/香港立法會.md "wikilink")的「破壞派」，惹起爭議。
+**ATV焦点批评学民思潮争议**是指2012年9月3日[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")節目《[ATV焦點](https://zh.wikipedia.org/wiki/ATV焦點 "wikilink")》中的評論內容。部分[香港市民指責](https://zh.wikipedia.org/wiki/香港市民 "wikilink")《ATV焦點》本集內容嚴重偏頗，抹黑[學民思潮](../Page/學民思潮.md "wikilink")，並描述[泛民主派為](https://zh.wikipedia.org/wiki/泛民主派 "wikilink")[香港立法會](../Page/香港立法會.md "wikilink")的「破壞派」，惹起爭議。
 
 ## 背景
 
@@ -29,7 +29,7 @@
 
 [香港浸會大學](../Page/香港浸會大學.md "wikilink")新聞系助理教授[杜耀明批評](https://zh.wikipedia.org/wiki/杜耀明 "wikilink")，當局應按監管電視評論節目條例處理，因《ATV焦點》內無列證據支持論點。\[34\]。
 
-[香港中文大學政治與行政學系副教授](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[馬嶽](../Page/馬嶽.md "wikilink")則指，《ATV焦點》內容已嚴重打擊亞洲電視之公信力，「咁左咁偏頗都照出到街，真係[香港電視史上罕有](https://zh.wikipedia.org/wiki/香港電視史 "wikilink")」。馬嶽並指中國內地及[香港左派傳媒向來使用](https://zh.wikipedia.org/wiki/香港傳媒爭議#政治立場 "wikilink")「反對派」一詞，「依家用破壞派，即係將所有反對派都講成只會破壞香港」，直指說法是比左派更左派；馬嶽又指事件突顯該亞洲電視內部運作出現問題，「同上次[誤報江澤民死訊事件一樣](../Page/亞洲電視誤報江澤民逝世事件.md "wikilink")，有啲人係完全凌駕新聞部，成個管理都有問題」\[35\]。
+[香港中文大學政治與行政學系副教授](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[馬嶽](../Page/馬嶽.md "wikilink")則指，《ATV焦點》內容已嚴重打擊亞洲電視之公信力，「咁左咁偏頗都照出到街，真係[香港電視史上罕有](https://zh.wikipedia.org/wiki/香港電視史 "wikilink")」。馬嶽並指中國內地及[香港左派傳媒向來使用](https://zh.wikipedia.org/wiki/香港傳媒爭議#政治立場 "wikilink")「反對派」一詞，「依家用破壞派，即係將所有反對派都講成只會破壞香港」，直指說法是比左派更左派；馬嶽又指事件突顯該亞洲電視內部運作出現問題，「同上次[誤報江澤民死訊事件一樣](https://zh.wikipedia.org/wiki/亞洲電視誤報江澤民逝世事件 "wikilink")，有啲人係完全凌駕新聞部，成個管理都有問題」\[35\]。
 
 ### 藝人
 

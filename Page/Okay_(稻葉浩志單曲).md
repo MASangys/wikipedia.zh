@@ -1,7 +1,7 @@
 > 本文内容由[Okay \(稻葉浩志單曲\)](https://zh.wikipedia.org/wiki/Okay_\(稻葉浩志單曲\))转换而来。
 
 
-「**Okay**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")在[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[6月23日](../Page/6月23日.md "wikilink")發行的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+〈**Okay**〉是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z](../Page/B'z.md "wikilink")的主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")在[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[6月23日](../Page/6月23日.md "wikilink")發行的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
@@ -12,13 +12,13 @@
 
 ## 收錄曲
 
-1.  **Okay** (5:15)
+1.  **** (5:15)
       -
         稻葉對於本曲表示「雖然不是在形容生命的短暫，但仍涵蓋了那樣的事物，是以類似於時間的流動為主題{{\#tag:ref||group="原文"}}」。
-2.  **Salvation** (4:34)
+2.  **** (4:34)
       -
         發售當初，這首單曲是唯一的演唱會未演奏曲，但僅在『[Koshi Inaba LIVE 2014 ～en-ball～](https://zh.wikipedia.org/wiki/羽_\(稻葉浩志單曲\)#收錄曲 "wikilink")』的第9日被演奏了。
-3.  **My未來（）**(2:51)
+3.  **（My未來）**(2:51)
       -
         [2007年](../Page/2007年.md "wikilink")提供給[宇浦冴香](../Page/宇浦冴香.md "wikilink")的樂曲「」的自我翻唱。歌詞有所變更。
         根據稻葉表示，據說原曲在[DEMO的階段時](https://zh.wikipedia.org/wiki/DEMO "wikilink")，便是這樣的編曲。並表示已是多少為人所知的歌曲了，因此也許亦可放入單曲的[coupling](../Page/A面與B面.md "wikilink")，而被收錄進了本作。
@@ -26,7 +26,7 @@
 
 ### DVD（僅初回限定盤附屬）
 
-  - 「**Okay**」 MUSIC VIDEO
+  - 「****」 MUSIC VIDEO
 
 <!-- end list -->
 

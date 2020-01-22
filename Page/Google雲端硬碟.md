@@ -3,11 +3,11 @@
 
 **Google云端硬盘**（）是[Google](../Page/Google.md "wikilink")的一個[線上同步儲存服務](https://zh.wikipedia.org/wiki/網路硬碟 "wikilink")，同時結合[Google文件](../Page/Google文件.md "wikilink")及[Google我的地圖的線上文件編輯功能](https://zh.wikipedia.org/wiki/Google我的地圖 "wikilink")，於2012年4月24日起逐漸開放給用戶使用\[1\]\[2\]。這項服務早於2006年3月便有傳言提及\[3\]。
 
-最早出現的是Google Storage，但不太受關注。Google Drive可視為Google Docs的升級版，把空間從1GB升級到5GB，后整合[Gmail](../Page/Gmail.md "wikilink")与[Google+](../Page/Google+.md "wikilink")相册的存储空间，总共15GB。Google Drive免費提供用戶15GB的儲存空間，單一檔案的大小限制為10GB。用戶可以付費把儲存空間擴充到最大30TB。Google Drive提供類似[Dropbox](../Page/Dropbox.md "wikilink")的目錄管理，在Google Drive中稱為Folder location，可同步上傳檔案到Google Drive中。
+最早出現的是Google Storage，但不太受關注。Google Drive可視為Google Docs的升級版，把空間從1GB升級到5GB，后整合[Gmail](../Page/Gmail.md "wikilink")与[Google+相册的存储空间](https://zh.wikipedia.org/wiki/Google+ "wikilink")，总共15GB。Google Drive免費提供用戶15GB的儲存空間，單一檔案的大小限制為10GB。用戶可以付費把儲存空間擴充到最大30TB。Google Drive提供類似[Dropbox的目錄管理](https://zh.wikipedia.org/wiki/Dropbox "wikilink")，在Google Drive中稱為Folder location，可同步上傳檔案到Google Drive中。
 
 ## 客户端
 
-Google Drive的軟體可執行於[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows 10](../Page/Windows_10.md "wikilink")、[Mac OS X Lion](../Page/Mac_OS_X_Lion.md "wikilink")（10.7）以及[Snow Leopard](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")（10.6）、[Android](../Page/Android.md "wikilink")[智慧型手機與](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")（Android 2.1以上）、 [iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")（[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 5.0以上）等的裝置。\[4\]
+Google Drive的軟體可執行於[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")、[Mac OS X Lion](https://zh.wikipedia.org/wiki/Mac_OS_X_Lion "wikilink")（10.7）以及[Snow Leopard](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")（10.6）、[Android](https://zh.wikipedia.org/wiki/Android "wikilink")[智慧型手機與](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")（Android 2.1以上）、 [iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")（[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 5.0以上）等的裝置。\[4\]
 
 InSync發佈Linux Beta版，將Google雲端硬碟帶至[Linux](../Page/Linux.md "wikilink")系統。\[5\]根據Google的[Sundar Pichai](https://zh.wikipedia.org/wiki/Sundar_Pichai "wikilink")，Google Drive 線上儲存服務將大大地整合於[Chrome OS版本](https://zh.wikipedia.org/wiki/Google_Chrome_OS "wikilink")20中。\[6\]
 

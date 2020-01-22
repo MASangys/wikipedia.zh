@@ -3,7 +3,7 @@
 
 **Namori**（），\[1\]\[2\]）是日本[女性](../Page/女性.md "wikilink")\[3\]漫畫家，血型為[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")\[4\]。她出生於[富山縣](../Page/富山縣.md "wikilink")，居於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")\[5\]。大學時住在名古屋\[6\]。
 
-據其所言，她從小學時代就想當漫畫家了\[7\]。成为漫画家后，喜欢在咖啡厅等处工作画漫画。代表作之一為《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》。自画像形似[水母](../Page/水母.md "wikilink")。\[8\]
+據其所言，她從小學時代就想當漫畫家了\[7\]。成为漫画家后，喜欢在咖啡厅等处工作画漫画。代表作之一為《[輕鬆百合](https://zh.wikipedia.org/wiki/輕鬆百合 "wikilink")》。自画像形似[水母](../Page/水母.md "wikilink")。\[8\]
 
 笔名中的是因为高中同班同学里有人字写的很可爱，则是随便取的\[9\]。
 
@@ -11,9 +11,9 @@
 
 ### 漫畫
 
-  - 《[神燈女僕！](https://zh.wikipedia.org/wiki/神燈女僕！ "wikilink")》（刊載於『[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")』2007年5月號至2009年4月號上、原作者為[夏綠](../Page/夏綠.md "wikilink")）
+  - 《[神燈女僕！](https://zh.wikipedia.org/wiki/神燈女僕！ "wikilink")》（刊載於『[月刊Comic Alive](https://zh.wikipedia.org/wiki/月刊Comic_Alive "wikilink")』2007年5月號至2009年4月號上、原作者為[夏綠](../Page/夏綠.md "wikilink")）
       - 全3巻（刊載於『・アライブシリーズ』）
-  - 《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》（初載於『』Vol.5 - Vol.14休刊為止，後轉至『[コミック百合姫](https://zh.wikipedia.org/wiki/コミック百合姫 "wikilink")』2011年1月号繼續連載，持續連載中）
+  - 《[輕鬆百合](https://zh.wikipedia.org/wiki/輕鬆百合 "wikilink")》（初載於『』Vol.5 - Vol.14休刊為止，後轉至『[コミック百合姫](https://zh.wikipedia.org/wiki/コミック百合姫 "wikilink")』2011年1月号繼續連載，持續連載中）
       - 既刊17巻（、2019年8月現在）
   - 《りせっと\!》（初載於 Vol.1，持續連載中）※Vol.4以降休載中
   - 《大室家》（初載於『[niconico静画](https://zh.wikipedia.org/wiki/niconico "wikilink")』2012年7月2日）
@@ -51,14 +51,14 @@
 ### 其他
 
   - 《[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》（2012年No.3的[勇者鬥惡龍系列](../Page/勇者鬥惡龍系列.md "wikilink")誕生25周年記念插圖）
-  - 《[偽物語](../Page/偽物語.md "wikilink")》（為動畫版第肆話提供插畫）
+  - 《[偽物語](https://zh.wikipedia.org/wiki/偽物語 "wikilink")》（為動畫版第肆話提供插畫）
   - 《ぽにきゃん声たま女子部オーディション2012》（二次審査角色圖）
   - 《[神薙](../Page/神薙.md "wikilink")》第七集（與武梨繪里合作）
   - 《百合アンソロジー dolce》（表紙イラスト、カラーイラスト）
   - 《[偽戀](../Page/偽戀.md "wikilink")》（為動畫版第9話提供插畫）
   - 《[RELEASE THE SPYCE](https://zh.wikipedia.org/wiki/RELEASE_THE_SPYCE "wikilink")》（角色原案）
   - 《[Endro～！](../Page/Endro～！.md "wikilink")》（角色原案）
-  - 《[天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")》（為動畫版第1話提供插畫）
+  - 《[天使降臨到我身邊！](https://zh.wikipedia.org/wiki/天使降臨到我身邊！ "wikilink")》（為動畫版第1話提供插畫）
 
 ## 腳註
 

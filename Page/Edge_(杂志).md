@@ -23,7 +23,7 @@
 
 虽然每期杂志都印有整体贡献者的名单，但杂志通常不对个人作家的具体的评论和文章署名，而只是以《Edge》杂志做匿名处理。而该做法对杂志的定期专栏作家例外。当前杂志有四个专栏作家：詹姆斯·利奇、兰迪·史密斯、克林特·霍金和Tadgh Kelly。此外，杂志的一些专栏作家开始谈论整个游戏产业，而非专注于具体游戏设计话题。他们是《》作者史蒂文·普尔\[13\]，雷·亚历山大和布赖恩·豪，而他们的戏仿章节“你玩错了”在杂志的新设计中开办。
 
-以前的专栏作家包括[保罗·罗斯](https://zh.wikipedia.org/wiki/保罗·罗斯 "wikilink")（的创始人）、[世嘉](../Page/世嘉.md "wikilink")视觉娱乐的[名越稔洋](../Page/名越稔洋.md "wikilink")、作家[蒂姆·盖斯特](https://zh.wikipedia.org/wiki/蒂姆·盖斯特 "wikilink")、N'Gai Croal和游戏开发者杰夫·明特。此外，许多栏目都以[化名](../Page/化名.md "wikilink")为“红眼”的形式[匿名](../Page/匿名.md "wikilink")发表，此外几位日本作家的作品发表在一个称为“关于日本的东西”的普通栏目中。
+以前的专栏作家包括[保罗·罗斯](https://zh.wikipedia.org/wiki/保罗·罗斯 "wikilink")（的创始人）、[世嘉](../Page/世嘉.md "wikilink")视觉娱乐的[名越稔洋](https://zh.wikipedia.org/wiki/名越稔洋 "wikilink")、作家[蒂姆·盖斯特](https://zh.wikipedia.org/wiki/蒂姆·盖斯特 "wikilink")、N'Gai Croal和游戏开发者杰夫·明特。此外，许多栏目都以[化名](../Page/化名.md "wikilink")为“红眼”的形式[匿名](../Page/匿名.md "wikilink")发表，此外几位日本作家的作品发表在一个称为“关于日本的东西”的普通栏目中。
 
 詹姆斯·哈钦森的漫画《Crashlander》连载于《Edge》的第143期到193期\[14\]。
 

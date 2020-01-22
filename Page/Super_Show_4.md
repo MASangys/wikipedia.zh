@@ -52,13 +52,13 @@ Super Junio​​r於2012年4月6日在法國巴黎Le Zenith de Paris舉辦Super
 **Fourth video interlude** (Ice Hockey)
 
   - "Feels Good"
-  - "[太完美](../Page/太完美.md "wikilink")" (韓文版) – [Super Junior-M](../Page/Super_Junior-M.md "wikilink")
+  - "[太完美](https://zh.wikipedia.org/wiki/太完美 "wikilink")" (韓文版) – [Super Junior-M](../Page/Super_Junior-M.md "wikilink")
   - "A-Cha"
 
 **Fifth video interlude**
 
   - "[Mr. Simple](../Page/Mr._Simple.md "wikilink")"
-  - "[Don't Don](../Page/Don't_Don.md "wikilink")"
+  - "[Don't Don](https://zh.wikipedia.org/wiki/Don't_Don "wikilink")"
   - "Because of You (Kelly Clarkson song)" – [周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")
   - "Kiss Me Darling" – [藝聲](../Page/藝聲.md "wikilink")
   - "Your Grace is Enough" feat. 3rd Wave – [始源](https://zh.wikipedia.org/wiki/始源 "wikilink")
@@ -75,7 +75,7 @@ Super Junio​​r於2012年4月6日在法國巴黎Le Zenith de Paris舉辦Super
 
 **Seventh video interlude** (The Sound of Super Junior)
 
-  - "[Do-Re-Mi](../Page/Do-Re-Mi.md "wikilink")" (Background Music)
+  - "[Do-Re-Mi](https://zh.wikipedia.org/wiki/Do-Re-Mi "wikilink")" (Background Music)
   - "White Christmas"
   - "Dancing Out"
   - Third MENT
@@ -104,7 +104,7 @@ Super Junio​​r於2012年4月6日在法國巴黎Le Zenith de Paris舉辦Super
 <td><p>2011年11月19日</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
-<td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首尔奥林匹克体操竞技场</a> [6]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首尔奥林匹克体操竞技场" title="wikilink">首尔奥林匹克体操竞技场</a> [6]</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年11月20日</p></td>
@@ -151,7 +151,7 @@ Super Junio​​r於2012年4月6日在法國巴黎Le Zenith de Paris舉辦Super
 <tr class="odd">
 <td><p>2012年2月18日</p></td>
 <td></td>
-<td><p><a href="../Page/新加坡室内体育馆.md" title="wikilink">新加坡室内体育馆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新加坡室内体育馆" title="wikilink">新加坡室内体育馆</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

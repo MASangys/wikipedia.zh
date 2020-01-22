@@ -63,8 +63,8 @@
   - 色彩設計：中山久美子
   - 撮影監督：植田真樹
   - 編集：定松剛
-  - 音楽制作：[Flying DOG](../Page/Flying_DOG.md "wikilink")・[BorderLine](https://zh.wikipedia.org/wiki/BorderLine "wikilink")
-  - 制作：[Satelight](../Page/SATELIGHT.md "wikilink")
+  - 音楽制作：[Flying DOG](https://zh.wikipedia.org/wiki/Flying_DOG "wikilink")・[BorderLine](https://zh.wikipedia.org/wiki/BorderLine "wikilink")
+  - 制作：[Satelight](https://zh.wikipedia.org/wiki/SATELIGHT "wikilink")
   - 製作：[BigWest](https://zh.wikipedia.org/wiki/BigWest "wikilink")・Macross FB7製作委員會
 
 ## 脚注

@@ -21,7 +21,7 @@
         1st單曲
 2.  **OSOZAKI 娘**
     （作詞：[三浦徳子](https://zh.wikipedia.org/wiki/三浦徳子 "wikilink") 作曲：[畠山俊昭](https://zh.wikipedia.org/wiki/畠山俊昭 "wikilink") 編曲：[朝井泰生](https://zh.wikipedia.org/wiki/朝井泰生 "wikilink")）
-3.  **[世界是Summer Party](../Page/世界是Summer_Party.md "wikilink")** (世界は サマー・パーティ)
+3.  **[世界是Summer Party](https://zh.wikipedia.org/wiki/世界是Summer_Party "wikilink")** (世界は サマー・パーティ)
     （作詞：[三浦徳子](https://zh.wikipedia.org/wiki/三浦徳子 "wikilink") 作曲：[KAN](https://zh.wikipedia.org/wiki/KAN "wikilink") 編曲：[佐々倉有吾](https://zh.wikipedia.org/wiki/佐々倉有吾 "wikilink")）
       -
         3rd單曲

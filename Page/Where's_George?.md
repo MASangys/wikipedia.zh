@@ -7,7 +7,7 @@
 
 ## 概览
 
-网站在1998年12月由汉克·埃斯金建立,他是[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[布鲁克莱恩的一个数据库顾问](https://zh.wikipedia.org/wiki/布鲁克莱恩_\(马萨诸塞州\) "wikilink")。\[3\]\[4\] *Where's George?*中的“George”指的是[乔治·华盛顿](../Page/乔治·华盛顿.md "wikilink")，他的头像出现在[1美元纸币上](https://zh.wikipedia.org/wiki/1美元纸币 "wikilink")。除了1美元的钞票，2美元、5美元、10美元、20美元、50美元和$100美元的面值也可以被追踪，但1美元是迄今为止最流行的面额，其次是[20美元纸币](../Page/20美元纸币.md "wikilink")。\[5\]
+网站在1998年12月由汉克·埃斯金建立,他是[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[布鲁克莱恩的一个数据库顾问](https://zh.wikipedia.org/wiki/布鲁克莱恩_\(马萨诸塞州\) "wikilink")。\[3\]\[4\] *Where's George?*中的“George”指的是[乔治·华盛顿](../Page/乔治·华盛顿.md "wikilink")，他的头像出现在[1美元纸币上](https://zh.wikipedia.org/wiki/1美元纸币 "wikilink")。除了1美元的钞票，2美元、5美元、10美元、20美元、50美元和$100美元的面值也可以被追踪，但1美元是迄今为止最流行的面额，其次是[20美元纸币](https://zh.wikipedia.org/wiki/20美元纸币 "wikilink")。\[5\]
 
 要追踪一张纸币，用户输入当地的[邮政编码](https://zh.wikipedia.org/wiki/美国邮政编码 "wikilink")、纸币序列号，以及任何被追踪美元面值的[年份](https://zh.wikipedia.org/wiki/年份_\(美元\) "wikilink")。美国以外的用户也可以通过使用唯一的地区编码加入进来，这些编码分配给美国加拿大以外的地区。一旦纸币被注册，网站会记录该纸币相邻两次被发现的时间、移动的距离，以及从发现者的一些记录（称为“用户注释”）。
 

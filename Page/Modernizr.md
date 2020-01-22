@@ -90,11 +90,11 @@ Modernizr CSS範例：
   - [HTML5](../Page/HTML5.md "wikilink")
   - [HTML5 Shiv](../Page/HTML5_Shiv.md "wikilink")
   - [HTML5 File API](https://zh.wikipedia.org/wiki/HTML5_File_API "wikilink")
-  - [瀏覽器引擎CSS支援比較](../Page/瀏覽器引擎CSS支援比較.md "wikilink")
+  - [瀏覽器引擎CSS支援比較](https://zh.wikipedia.org/wiki/瀏覽器引擎CSS支援比較 "wikilink")
   - [JavaScript](../Page/JavaScript.md "wikilink")
   - [Polyfill](https://zh.wikipedia.org/wiki/Polyfill "wikilink")
-  - [WebSocket](../Page/WebSocket.md "wikilink")
-  - [WebGL](../Page/WebGL.md "wikilink")
+  - [WebSocket](https://zh.wikipedia.org/wiki/WebSocket "wikilink")
+  - [WebGL](https://zh.wikipedia.org/wiki/WebGL "wikilink")
 
 ## 參考資料
 

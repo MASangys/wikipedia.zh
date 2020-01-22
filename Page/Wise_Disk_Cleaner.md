@@ -22,7 +22,7 @@ Wise Disk Cleaner 自2009年以来就被[CNET](../Page/CNET.md "wikilink")评为
   - [Advanced SystemCare](https://zh.wikipedia.org/wiki/Advanced_SystemCare "wikilink")
   - [CCleaner](../Page/CCleaner.md "wikilink")
   - [360安全卫士](../Page/360安全卫士.md "wikilink")
-  - [金山卫士](../Page/金山卫士.md "wikilink")
+  - [金山卫士](https://zh.wikipedia.org/wiki/金山卫士 "wikilink")
   - [超级兔子](../Page/超级兔子.md "wikilink")
   - [电脑管家](https://zh.wikipedia.org/wiki/电脑管家 "wikilink")
 

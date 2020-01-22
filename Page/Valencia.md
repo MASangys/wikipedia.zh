@@ -58,7 +58,7 @@
 
   - [巴倫西亞湖](https://zh.wikipedia.org/wiki/巴倫西亞湖 "wikilink")（），[委内瑞拉北部的湖](https://zh.wikipedia.org/wiki/委内瑞拉 "wikilink")。
   - [巴伦西亚 (委内瑞拉)](../Page/巴伦西亚_\(委内瑞拉\).md "wikilink")（）
-      - [天主教委內瑞拉的巴倫西亞總教區](../Page/天主教委內瑞拉的巴倫西亞總教區.md "wikilink")（），委内瑞拉巴伦西亚市的教区。
+      - [天主教委內瑞拉的巴倫西亞總教區](https://zh.wikipedia.org/wiki/天主教委內瑞拉的巴倫西亞總教區 "wikilink")（），委内瑞拉巴伦西亚市的教区。
 
 ### 其他
 
@@ -74,7 +74,7 @@
 
   - [安东尼奥·瓦伦西亚](../Page/安东尼奥·瓦伦西亚.md "wikilink")（1985年生），厄瓜多尔足球运动员。
 
-  - [恩纳·瓦伦西亚](../Page/恩纳·瓦伦西亚.md "wikilink")（，1989年生）， 厄瓜多尔足球运动员。
+  - [恩纳·瓦伦西亚](https://zh.wikipedia.org/wiki/恩纳·瓦伦西亚 "wikilink")（，1989年生）， 厄瓜多尔足球运动员。
 
 ## 体育
 
@@ -96,7 +96,7 @@
 
   - *Valencia*，美国电影《[科洛弗10號地窖](../Page/科洛弗10號地窖.md "wikilink")》中的代号
 
-  - Valencia Island，《[精灵宝可梦系列](../Page/精灵宝可梦系列.md "wikilink")》中的一个岛屿。
+  - Valencia Island，《[精灵宝可梦系列](https://zh.wikipedia.org/wiki/精灵宝可梦系列 "wikilink")》中的一个岛屿。
 
 ## 参见
 

@@ -8,7 +8,7 @@
 
 | 項目  | 數據                                                                                                              |
 | --- | --------------------------------------------------------------------------------------------------------------- |
-| 系統  | [Android 2.3.5](../Page/Android.md "wikilink")                                                                  |
+| 系統  | [Android 2.3.5](https://zh.wikipedia.org/wiki/Android "wikilink")                                               |
 | 介面  | [HTC Sense 3.5](../Page/HTC_Sense.md "wikilink")                                                                |
 | 螢幕  | 3.7吋、480x800 pixels、SLCD 電容式觸控螢幕                                                                                |
 | CPU | [高通](../Page/高通.md "wikilink") MSM8255、1GHz                                                                     |

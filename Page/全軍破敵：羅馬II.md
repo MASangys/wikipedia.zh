@@ -5,7 +5,7 @@
 
 遊戲的背景設定在[古典時代的歐洲](https://zh.wikipedia.org/wiki/古典時代 "wikilink")，相對於《羅馬：全軍破敵》的遊戲背景幾乎完全集中在[羅馬共和國和它的政治不同](https://zh.wikipedia.org/wiki/羅馬共和國 "wikilink")，羅馬II盡可能準確和深入地刻畫出在那時代的每一個文明。玩家在遊戲中扮演其中一個可玩派系，而玩家想取得勝利便要比敵人更快建立一個帝國。單人遊戲模式開始於公元前272年，並持續300多年。然而，玩家可以繼續進行遊戲，因為在羅馬II中沒有時間勝利條件。
 
-[Linux](../Page/Linux.md "wikilink") ([SteamOS](../Page/SteamOS.md "wikilink"))版本的遊戲正在開發中\[5\]。
+[Linux](../Page/Linux.md "wikilink") ([SteamOS](https://zh.wikipedia.org/wiki/SteamOS "wikilink"))版本的遊戲正在開發中\[5\]。
 
 ## 遊戲特色
 
@@ -59,7 +59,7 @@
 ＊註：此處所列可玩派系已包含所有下載包
 
   - [羅馬共和國](https://zh.wikipedia.org/wiki/羅馬共和國 "wikilink")：[尤利烏斯家族](https://zh.wikipedia.org/wiki/尤利烏斯家族 "wikilink")、[科涅利烏斯家族](https://zh.wikipedia.org/wiki/:en:Cornelia_\(gens\) "wikilink")、[尤尼烏斯家族](https://zh.wikipedia.org/wiki/:en:Junia_\(gens\) "wikilink")
-  - [古迦太基](../Page/古迦太基.md "wikilink")：[巴卡家族](https://zh.wikipedia.org/wiki/巴卡家族 "wikilink")、[漢諾家族](https://zh.wikipedia.org/wiki/漢諾家族 "wikilink")、[馬戈家族](https://zh.wikipedia.org/wiki/:en:Magonids "wikilink")
+  - [古迦太基](https://zh.wikipedia.org/wiki/古迦太基 "wikilink")：[巴卡家族](https://zh.wikipedia.org/wiki/巴卡家族 "wikilink")、[漢諾家族](https://zh.wikipedia.org/wiki/漢諾家族 "wikilink")、[馬戈家族](https://zh.wikipedia.org/wiki/:en:Magonids "wikilink")
   - [繼業者](../Page/繼業者.md "wikilink")帝國：[馬其頓](../Page/馬其頓.md "wikilink")([安提柯王朝](../Page/安提柯王朝.md "wikilink"))、[塞琉古帝國](https://zh.wikipedia.org/wiki/塞琉古帝國 "wikilink")、[埃及](../Page/托勒密王國.md "wikilink")([托勒密王國](../Page/托勒密王國.md "wikilink"))、[巴克特里亞王國](https://zh.wikipedia.org/wiki/希臘-巴克特里亞王國 "wikilink")（[大夏王國](https://zh.wikipedia.org/wiki/希臘-巴克特里亞王國 "wikilink")）
   - [希臘城邦](../Page/希臘城邦.md "wikilink")：[雅典](../Page/雅典.md "wikilink")、[斯巴達](https://zh.wikipedia.org/wiki/斯巴達 "wikilink")、[伊庇魯斯](https://zh.wikipedia.org/wiki/伊庇魯斯 "wikilink")、[敘拉古](https://zh.wikipedia.org/wiki/敘拉古 "wikilink")、[馬薩利亞](https://zh.wikipedia.org/wiki/馬賽 "wikilink")
   - 東方帝國：[帕提亞](../Page/安息帝國.md "wikilink")、[亞美尼亞王國](../Page/亞美尼亞王國.md "wikilink")、[本都](../Page/本都.md "wikilink")
@@ -161,7 +161,7 @@
 
 ## 評價
 
-《羅馬II：全軍破敵》在各大電子媒體上均獲得良好口碑，遊戲在[GameRankings](../Page/GameRankings.md "wikilink")\[22\]和[Metacritic](../Page/Metacritic.md "wikilink")\[23\]分別得到76.67分和76分，後者在網站上評級這遊戲是「總體良好」\[24\]。[PC Gamer給這遊戲](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")85分，這網站稱讚羅馬II的戰鬥像電影一般壯觀和對細節的重視，他們稱這遊戲為「令人驚嘆」。但在同一個評論中也有人批評遊戲的最初版本有毛病\[25\]。[Edge也同樣稱讚遊戲的和戰鬥視覺效果但同時也有指出遊戲初期的問題](https://zh.wikipedia.org/wiki/Edge "wikilink")\[26\]。[GameSpot](../Page/GameSpot.md "wikilink")在評論中稱讚羅馬II有眾多單位可以給玩家選擇的特點和優越的音效與視覺效果，但同時有批評遊戲的單位攝像機有問題\[27\]。[The Escapist也稱讚羅馬II優越的視覺效果](../Page/The_Escapist.md "wikilink")，並特別指出遊戲的單位多元化令遊戲中所有派系都可以特出自己的文化特點\[28\]。
+《羅馬II：全軍破敵》在各大電子媒體上均獲得良好口碑，遊戲在[GameRankings](../Page/GameRankings.md "wikilink")\[22\]和[Metacritic](../Page/Metacritic.md "wikilink")\[23\]分別得到76.67分和76分，後者在網站上評級這遊戲是「總體良好」\[24\]。[PC Gamer給這遊戲](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")85分，這網站稱讚羅馬II的戰鬥像電影一般壯觀和對細節的重視，他們稱這遊戲為「令人驚嘆」。但在同一個評論中也有人批評遊戲的最初版本有毛病\[25\]。[Edge也同樣稱讚遊戲的和戰鬥視覺效果但同時也有指出遊戲初期的問題](https://zh.wikipedia.org/wiki/Edge "wikilink")\[26\]。[GameSpot](../Page/GameSpot.md "wikilink")在評論中稱讚羅馬II有眾多單位可以給玩家選擇的特點和優越的音效與視覺效果，但同時有批評遊戲的單位攝像機有問題\[27\]。[The Escapist也稱讚羅馬II優越的視覺效果](https://zh.wikipedia.org/wiki/The_Escapist "wikilink")，並特別指出遊戲的單位多元化令遊戲中所有派系都可以特出自己的文化特點\[28\]。
 
 除了戰鬥之外，[Game Revolution給這遊戲的戰役地圖十分高的評價](https://zh.wikipedia.org/wiki/Game_Revolution "wikilink")，也讚揚遊戲新的功能，但同時也有批評等待人工智能的回合時間太長\[29\]。[IGN](../Page/IGN.md "wikilink")也批評回合時間太長，即使它們評價羅馬II是一個值得回味的遊戲，但遊戲也有地方要玩家受一些不必要的麻煩\[30\]。[Game Informer認為羅馬II比](../Page/Game_Informer.md "wikilink")《全軍破敵：幕府將軍2》退步，因為在羅馬II中國家的實力會影響戰爭的規模，而在幕府將軍2一個小國也可以發動一場規模龐大的戰爭\[31\]。但是[GamesRadar反而稱讚羅馬II是一個優秀的續集](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")\[32\]。
 

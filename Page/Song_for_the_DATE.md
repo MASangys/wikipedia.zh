@@ -15,7 +15,7 @@
 1.  **Song for the DATE**
     （作詞・作曲：[MIKOTO](https://zh.wikipedia.org/wiki/MIKOTO "wikilink") 編曲：[河合英嗣](https://zh.wikipedia.org/wiki/河合英嗣 "wikilink")）
 2.  **正在微笑的藍天**（）
-    （作詞：[三浦德子](../Page/三浦德子.md "wikilink") 作曲：[はたけ](https://zh.wikipedia.org/wiki/はたけ "wikilink") 編曲：[河合英嗣](https://zh.wikipedia.org/wiki/河合英嗣 "wikilink")）
+    （作詞：[三浦德子](https://zh.wikipedia.org/wiki/三浦德子 "wikilink") 作曲：[はたけ](https://zh.wikipedia.org/wiki/はたけ "wikilink") 編曲：[河合英嗣](https://zh.wikipedia.org/wiki/河合英嗣 "wikilink")）
 3.  Song for the DATE (Instrumental)
 
 ### DVD（初回生産限定盤A）

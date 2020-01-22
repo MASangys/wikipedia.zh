@@ -11,9 +11,9 @@
 
 [Logo_Disney_XD.svg](https://zh.wikipedia.org/wiki/File:Logo_Disney_XD.svg "fig:Logo_Disney_XD.svg") Disney XD在2009年2月13日於[東部時間凌晨](https://zh.wikipedia.org/wiki/北美東部時區 "wikilink")0點整起正式發射訊號，第一個播出的節目為《[飛哥與小佛](../Page/飛哥與小佛.md "wikilink")》的第1季第22集「」。該日晚間7點（東部時間），首播了首部自製影集《》，同時也播映了外購動畫《》與《[男孩和冤家貓](https://zh.wikipedia.org/wiki/男孩和冤家貓 "wikilink")》。
 
-本頻道取代了於1998年4月18日開播、以播映動畫為主的頻道「」（迪士尼卡通），而該頻道於2004年開創了以[Jetix](../Page/Jetix.md "wikilink")為名的帶狀檔期；Jetix於美國海外是建立在Disney XD品牌下，並於某些國家是做為電視頻道播送，其頻道以播放Toon Disney的動畫為主，尤其是在「Jetix」檔期下的節目，而Jetix在Toon Disney終止發射後一同關閉了。與本頻道同樣以「Disney XD」為名但不相關的微型網站與媒體播放器，設立在中，而其名稱全名為「Disney Xtreme Digital」，但本頻道的「XD」並未代表任何意義。
+本頻道取代了於1998年4月18日開播、以播映動畫為主的頻道「」（迪士尼卡通），而該頻道於2004年開創了以[Jetix為名的帶狀檔期](https://zh.wikipedia.org/wiki/Jetix "wikilink")；Jetix於美國海外是建立在Disney XD品牌下，並於某些國家是做為電視頻道播送，其頻道以播放Toon Disney的動畫為主，尤其是在「Jetix」檔期下的節目，而Jetix在Toon Disney終止發射後一同關閉了。與本頻道同樣以「Disney XD」為名但不相關的微型網站與媒體播放器，設立在中，而其名稱全名為「Disney Xtreme Digital」，但本頻道的「XD」並未代表任何意義。
 
-本頻道首部原創電影《》於2009年11月27日首播。2012年4月1日，Disney XD開創了「漫威世界」（Marvel Universe）的帶狀檔期，為迪士尼收購[漫威娛樂](../Page/漫威娛樂.md "wikilink")的成果。2012年中旬，迪士尼於[YouTube](../Page/YouTube.md "wikilink")開創了「迪士尼秀」的頻道，主要上傳[迪士尼頻道](../Page/迪士尼頻道.md "wikilink")與Disney XD的電視節目（Disney XD的節目有：《[冒險王奇克](../Page/冒險王奇克.md "wikilink")》、《[功夫Wasabi](../Page/功夫Wasabi.md "wikilink")》、《》與《》等）。
+本頻道首部原創電影《》於2009年11月27日首播。2012年4月1日，Disney XD開創了「漫威世界」（Marvel Universe）的帶狀檔期，為迪士尼收購[漫威娛樂的成果](https://zh.wikipedia.org/wiki/漫威娛樂 "wikilink")。2012年中旬，迪士尼於[YouTube](../Page/YouTube.md "wikilink")開創了「迪士尼秀」的頻道，主要上傳[迪士尼頻道](../Page/迪士尼頻道.md "wikilink")與Disney XD的電視節目（Disney XD的節目有：《[冒險王奇克](https://zh.wikipedia.org/wiki/冒險王奇克 "wikilink")》、《[功夫Wasabi](../Page/功夫Wasabi.md "wikilink")》、《》與《》等）。
 
 2013年7月31日，以「Disney Fandom」（迪士尼粉絲）為名播放了為期3天的特別節目，並以13歲（包含）以上為收視族群目標；其特別節目包含電影《[加勒比海盜系列電影](https://zh.wikipedia.org/wiki/加勒比海盜系列電影 "wikilink")》前三部曲與《[星際大戰](../Page/星際大戰.md "wikilink")》紀錄片，電視系列《》、《》、《看見迪士尼傳奇》與《[童話鎮](https://zh.wikipedia.org/wiki/童話鎮 "wikilink")》的特別集。
 
@@ -29,7 +29,7 @@
 
 ### 原創系列
 
-《[飛哥與小佛](../Page/飛哥與小佛.md "wikilink")》是由迪士尼XD工作室製作，連同《[神秘小鎮大冒險](../Page/神秘小鎮大冒險.md "wikilink")》，《[宇宙小奇兵](../Page/宇宙小奇兵.md "wikilink")》都是它的長青節目。2018年由於其長時間收視率不佳的情況，目前所有仍在播出的原創動畫已經全部改為[迪士尼頻道](../Page/迪士尼頻道.md "wikilink")原創劇集。
+《[飛哥與小佛](../Page/飛哥與小佛.md "wikilink")》是由迪士尼XD工作室製作，連同《[神秘小鎮大冒險](https://zh.wikipedia.org/wiki/神秘小鎮大冒險 "wikilink")》，《[宇宙小奇兵](../Page/宇宙小奇兵.md "wikilink")》都是它的長青節目。2018年由於其長時間收視率不佳的情況，目前所有仍在播出的原創動畫已經全部改為[迪士尼頻道](../Page/迪士尼頻道.md "wikilink")原創劇集。
 
 ### 漫威在Disney XD
 

@@ -1,7 +1,7 @@
 > 本文内容由[Here I Come](https://zh.wikipedia.org/wiki/Here_I_Come)转换而来。
 
 
-**《Here I Come》**是[李幸倪](../Page/李幸倪.md "wikilink")於香港發行的第一張專輯，於2011年10月27日推出，反應理想，其後於12月16日推出Special Edition，加收兩首翻唱的英文歌曲。
+**《Here I Come》**是[李幸倪於香港發行的第一張專輯](https://zh.wikipedia.org/wiki/李幸倪 "wikilink")，於2011年10月27日推出，反應理想，其後於12月16日推出Special Edition，加收兩首翻唱的英文歌曲。
 
 ## 曲目資料
 

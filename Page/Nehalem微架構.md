@@ -1,7 +1,7 @@
 > 本文内容由[Nehalem微架構](https://zh.wikipedia.org/wiki/Nehalem微架構)转换而来。
 
 
-**Intel Nehalem** (\[1\]) ，是[Intel研發的](https://zh.wikipedia.org/wiki/Intel "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")之代號，該架構取代了前代的[Core微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")。\[2\] 使用Nehalem架構的微處理器採用45[納米製程](https://zh.wikipedia.org/wiki/納米 "wikilink")（後期改用32納米製程），在2007年的Intel開發者論壇上Intel官方展示了一個採用兩顆INehalem微架構的處理器的系統平台。首款採用Intel Nehalem架構的處理器是2008年11月正式發售的桌上型處理器[Intel Core i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")。\[3\]
+**Intel Nehalem** (\[1\]) ，是[Intel研發的](https://zh.wikipedia.org/wiki/Intel "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")之代號，該架構取代了前代的[Core微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")。\[2\] 使用Nehalem架構的微處理器採用45[納米製程](https://zh.wikipedia.org/wiki/納米 "wikilink")（後期改用32納米製程），在2007年的Intel開發者論壇上Intel官方展示了一個採用兩顆Nehalem微架構的處理器的系統平台。首款採用Intel Nehalem架構的處理器是2008年11月正式發售的桌上型處理器[Intel Core i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")。\[3\]
 
 Intel在[Pentium 4時代也使用過](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")“Nehalem”的代號，該代號曾使用於[NetBurst微架構的](https://zh.wikipedia.org/wiki/NetBurst "wikilink")10Ghz版本之Pentium 4微處理器，後來改計劃取消。Nehalem微架構儘管與Netburst架構不是一個時代的產物，但是兩者之間有一些共同的技術和特點，如超執行緒、較高的預設[時脈等](https://zh.wikipedia.org/wiki/時脈 "wikilink")。儘管Nehalem架構的微處理器預設時脈普遍較高，但能效比依然比Core微架構的製程改進版Penryn微架構的微處理器要高。2011年1月，Intel Nehalem微架構由其下一代微架構[Intel Sandy Bridge所取代](https://zh.wikipedia.org/wiki/Intel_Sandy_Bridge "wikilink")。
 

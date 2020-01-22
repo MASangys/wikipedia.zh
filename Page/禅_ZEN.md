@@ -36,8 +36,8 @@
 
   - [道元](../Page/道元.md "wikilink") -
   - おりん - [内田有紀](https://zh.wikipedia.org/wiki/内田有紀 "wikilink")
-  - [北条时赖](https://zh.wikipedia.org/wiki/北条时赖 "wikilink") - [藤原龙也](https://zh.wikipedia.org/wiki/藤原龙也 "wikilink")（[友情出演](../Page/友情客串.md "wikilink")）
-  - [寂圆](https://zh.wikipedia.org/wiki/寂圆 "wikilink")、[源公晓](https://zh.wikipedia.org/wiki/公暁 "wikilink") (分饰) - [鄭龍進](../Page/鄭龍進.md "wikilink")
+  - [北条时赖](https://zh.wikipedia.org/wiki/北条时赖 "wikilink") - [藤原龙也](https://zh.wikipedia.org/wiki/藤原龙也 "wikilink")（[友情出演](https://zh.wikipedia.org/wiki/友情客串 "wikilink")）
+  - [寂圆](https://zh.wikipedia.org/wiki/寂圆 "wikilink")、[源公晓](https://zh.wikipedia.org/wiki/公暁 "wikilink") (分饰) - [鄭龍進](https://zh.wikipedia.org/wiki/鄭龍進 "wikilink")
   - 俊了 - [高良健吾](../Page/高良健吾.md "wikilink")
   - [義介](https://zh.wikipedia.org/wiki/徹通義介 "wikilink") - [安居剣一郎](https://zh.wikipedia.org/wiki/安居剣一郎 "wikilink")
   - [懐奘](https://zh.wikipedia.org/wiki/孤雲懐奘 "wikilink") - [村上淳](https://zh.wikipedia.org/wiki/村上淳 "wikilink")

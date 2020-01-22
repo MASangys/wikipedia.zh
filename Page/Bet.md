@@ -5,11 +5,11 @@
 
 Bet在不同的闪米特语言中都有“房子”的意思，最初来自[原始西奈字母中的](https://zh.wikipedia.org/wiki/原始西奈字母 "wikilink")[Proto-semiticB-01.svg](https://zh.wikipedia.org/wiki/File:Proto-semiticB-01.svg "fig:Proto-semiticB-01.svg")。\[1\]
 
-| [埃及聖書體](https://zh.wikipedia.org/wiki/埃及聖書體 "wikilink") | [青銅中期文化時期字母](../Page/青銅中期文化時期字母.md "wikilink")                                                                                        | [腓尼基字母](../Page/腓尼基字母.md "wikilink")                                                                     | [古希伯來字母](../Page/古希伯來字母.md "wikilink")                                                                                                                           |
+| [埃及聖書體](https://zh.wikipedia.org/wiki/埃及聖書體 "wikilink") | [青銅中期文化時期字母](../Page/青銅中期文化時期字母.md "wikilink")                                                                                        | [腓尼基字母](../Page/腓尼基字母.md "wikilink")                                                                     | [古希伯來字母](https://zh.wikipedia.org/wiki/古希伯來字母 "wikilink")                                                                                                        |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <hiero>O1</hiero>                                       | [<File:Proto-Canaanite_-_bet.png>](https://zh.wikipedia.org/wiki/File:Proto-Canaanite_-_bet.png "fig:File:Proto-Canaanite_-_bet.png") | [Phoenician_beth.svg](https://zh.wikipedia.org/wiki/File:Phoenician_beth.svg "fig:Phoenician_beth.svg") | [<File:Early_Aramaic_character_-_Beth.png>](https://zh.wikipedia.org/wiki/File:Early_Aramaic_character_-_Beth.png "fig:File:Early_Aramaic_character_-_Beth.png") |
 
-[希腊字母](../Page/希腊字母.md "wikilink")[Β](../Page/Β.md "wikilink")、[拉丁字母](../Page/拉丁字母.md "wikilink")（现[英文字母](../Page/英文字母.md "wikilink")）[B](../Page/B.md "wikilink")、[西里尔字母](../Page/西里尔字母.md "wikilink")[Б](../Page/Б.md "wikilink")与[В](../Page/В.md "wikilink")皆源于该字母。
+[希腊字母](../Page/希腊字母.md "wikilink")[Β](../Page/Β.md "wikilink")、[拉丁字母](../Page/拉丁字母.md "wikilink")（现[英文字母](https://zh.wikipedia.org/wiki/英文字母 "wikilink")）[B](../Page/B.md "wikilink")、[西里尔字母](../Page/西里尔字母.md "wikilink")[Б](../Page/Б.md "wikilink")与[В](../Page/В.md "wikilink")皆源于该字母。
 
 ## 参考文献
 

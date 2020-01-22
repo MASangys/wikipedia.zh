@@ -1,7 +1,7 @@
 > 本文内容由[三星Galaxy Note II](https://zh.wikipedia.org/wiki/三星Galaxy_Note_II)转换而来。
 
 
-**Samsung Galaxy Note II**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")在2012年中推出的[Android](../Page/Android.md "wikilink")行動通訊產品，擁有5.5英寸螢幕，介乎大螢幕[智慧型手機與](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")之間，為[Samsung Galaxy Note的後繼機](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note "wikilink")。而Galaxy Note II同期的最大競爭對手是 iPhone 5。
+**Samsung Galaxy Note II**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")在2012年中推出的[Android行動通訊產品](https://zh.wikipedia.org/wiki/Android "wikilink")，擁有5.5英寸螢幕，介乎大螢幕[智慧型手機與](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")之間，為[Samsung Galaxy Note的後繼機](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note "wikilink")。而Galaxy Note II同期的最大競爭對手是 iPhone 5。
 
 ## 歷史
 
@@ -16,13 +16,13 @@ Galaxy Note II是Note系列手機當中，唯一未有配備康寧[大猩猩玻�
 ## 規格\[1\]
 
   - 通信系統：[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")、[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")、[GSM](../Page/GSM.md "wikilink")四頻、[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")
-  - 螢幕：5.55" [HD Super AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink") 1280×720，螢幕[解析度約](https://zh.wikipedia.org/wiki/解析度 "wikilink")267ppi。（非[PenTile](../Page/PenTile.md "wikilink")排列）
+  - 螢幕：5.55" [HD Super AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink") 1280×720，螢幕[解析度約](https://zh.wikipedia.org/wiki/解析度 "wikilink")267ppi。（非[PenTile排列](https://zh.wikipedia.org/wiki/PenTile "wikilink")）
   - 處理器：1.6Ghz[四核心](https://zh.wikipedia.org/wiki/四核心 "wikilink")
   - GPU : Mali-400 MP4 高頻4核
   - 系統：[Android 4.1](https://zh.wikipedia.org/wiki/Android历史版本 "wikilink") (在2014年1月30日起更新為Android 4.3) 和[TouchWiz](../Page/TouchWiz.md "wikilink") Nature UX[用户界面](../Page/用户界面.md "wikilink")
   - 相機：800萬像素、。（有[LED閃光燈](https://zh.wikipedia.org/wiki/LED "wikilink")）
   - 顏色選擇：鈦晶灰、雲石白、琥珀棕、酒石紅、樱花粉
-  - [NFC](../Page/近場通訊.md "wikilink")：有
+  - [NFC](https://zh.wikipedia.org/wiki/近場通訊 "wikilink")：有
 
 ### S Pen繪圖筆
 

@@ -6,7 +6,7 @@
 ## 主要特性 (Core i 6代)
 
 1.  採用14納米製程；
-2.  支持[DDR4及](../Page/DDR4_SDRAM.md "wikilink")[DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink") [SDRAM](../Page/SDRAM.md "wikilink")(若使用DDR3而非DDR3L則會導致處理器受損，Y系列不支持DDR4)；\[6\]\[7\]
+2.  支持[DDR4及](https://zh.wikipedia.org/wiki/DDR4_SDRAM "wikilink")[DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink") [SDRAM](../Page/SDRAM.md "wikilink")(若使用DDR3而非DDR3L則會導致處理器受損，Y系列不支持DDR4)；\[6\]\[7\]
 3.  內建英特爾第九代[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")
 4.  移除EHCI主控，改为支持XHCI主控（Windows 7及之前版本的Windows安装在Skylake上时，USB接口将无法正常使用）\[8\]
 5.  採用第二代[FinFET電晶管技術](https://zh.wikipedia.org/wiki/FinFET "wikilink")；
@@ -37,15 +37,15 @@ Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，�
   - 最高可支持双通道记忆体，支援[DDR3L](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 (1.35V，最高32GB)及[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 (1.2V，最高64GB)，即使在100系列芯片组使用DDR4-2400也不会降至2133，但Skylake在200系列芯片组使用DDR4-2400则会降至2133
   - 支持16个[PCI Express](../Page/PCI_Express.md "wikilink") 3.0通道从CPU，24个[PCI Express](../Page/PCI_Express.md "wikilink") 3.0通道从PCH（LGA 1151）Z270晶片才有
   - 支持DMI 3.0
-  - 支持[Thunderbolt 3](../Page/Thunderbolt.md "wikilink")
+  - 支持[Thunderbolt 3](https://zh.wikipedia.org/wiki/Thunderbolt "wikilink")
   - 搭载Iris Plus/Iris Pro高级显示晶片上的处理器有额外64至128MB L4 eDRAM缓存(只限U/H型处理器)
   - 最低2个核心，最多4个核心作为預設主流配置
   - 支持Intel 技术
   - Core i3/i5/i7支援AVX2指令集；Pentium及Celeron只支援 SSE 4.1/4.2
 
-## 14奈米製程改進版(14nm++/14nm+++)：[Coffee Lake](../Page/Coffee_Lake微架构.md "wikilink")／[Coffee Lake Refresh](https://zh.wikipedia.org/wiki/Coffee_Lake_Refresh微架构 "wikilink")(Core i 8／9代)
+## 14奈米製程改進版(14nm++/14nm+++)：[Coffee Lake](https://zh.wikipedia.org/wiki/Coffee_Lake微架构 "wikilink")／[Coffee Lake Refresh](https://zh.wikipedia.org/wiki/Coffee_Lake_Refresh微架构 "wikilink")(Core i 8／9代)
 
-[Coffee Lake實為](../Page/Coffee_Lake微架构.md "wikilink")[Kaby Lake核心增量版](../Page/Kaby_Lake微架構.md "wikilink")，其核心在基礎上跟[Kaby Lake並無多大變化](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")，但在實體上因核心數量實質增加及使用更成熟的14[奈米技術](https://zh.wikipedia.org/wiki/奈米 "wikilink")，連帶效能在與Kaby Lake相比下約增加近40%左右。
+[Coffee Lake實為](https://zh.wikipedia.org/wiki/Coffee_Lake微架构 "wikilink")[Kaby Lake核心增量版](../Page/Kaby_Lake微架構.md "wikilink")，其核心在基礎上跟[Kaby Lake並無多大變化](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")，但在實體上因核心數量實質增加及使用更成熟的14[奈米技術](https://zh.wikipedia.org/wiki/奈米 "wikilink")，連帶效能在與Kaby Lake相比下約增加近40%左右。
 
 <big>**主要特性：**</big>
 
@@ -77,10 +77,10 @@ Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，�
 
 但在2016年3月22日，Intel在財務報告中宣布，Tick Tock將放緩至三年一迴圈，即增加最佳化環節，進一步減緩實際更新的速度。目前的環節為：Process, Architechture, Optimization，即製程、架構、優化。而Cannonlake已延至2018年發布攜帶版。
 
-## 10奈米架構改進版：[Ice Lake](https://zh.wikipedia.org/wiki/Ice_Lake "wikilink")
+## 10奈米架構改進版：[Ice Lake](../Page/Ice_Lake微架构.md "wikilink")
 
 2019年8月1日，Intel正式对外发表了Ice lake微架构的处理器，采用10nm制程，但是
-使用全新的[sunny cove 微架构](https://zh.wikipedia.org/wiki/sunny_cove_微架构 "wikilink")，而不是Sky Lake微架构的陆续改进（Ice Lake）
+使用全新的[Sunny Cove微架构](https://zh.wikipedia.org/wiki/Sunny_Cove微架構 "wikilink")，而不是Sky Lake微架构的陆续改进。
 
 ## 10奈米製程優化版：[Tiger Lake](https://zh.wikipedia.org/wiki/Tiger_Lake "wikilink")
 
@@ -125,7 +125,7 @@ Intel在2015年8月5日於Gamescom推出兩款桌上型處理器——分別是i
 <td><p>最大</p></td>
 <td><p>插座</p></td>
 <td><p>界面</p></td>
-<td><p>記憶體 (非<a href="../Page/纠错内存.md" title="wikilink">ECC</a>)</p></td>
+<td><p>記憶體 (非<a href="https://zh.wikipedia.org/wiki/纠错内存" title="wikilink">ECC</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1047,7 +1047,7 @@ tray / 盒裝</p></th>
 
 ## 下一代微架構
 
-~~目前英特爾沒有公佈Skylake/Cannonlake的接任微架構代號，但由英特爾的“Tick-Tock”（鐘擺）時間表可以知道Skylake/Cannonlake下一代的微架構仍會採用14納米製程。\[22\] ~~
+<del>目前英特爾沒有公佈Skylake/Cannonlake的接任微架構代號，但由英特爾的“Tick-Tock”（鐘擺）時間表可以知道Skylake/Cannonlake下一代的微架構仍會採用14納米製程。\[22\]
 
 2018年[Intel架构日](https://zh.wikipedia.org/wiki/Intel架构日 "wikilink")（Intel ArchitectureDay）上，Intel公布了下一代微架构--[Sunny Cove 微架构](https://zh.wikipedia.org/wiki/Sunny_Cove_微架构 "wikilink")。\[23\] \[24\]
 

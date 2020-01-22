@@ -34,9 +34,9 @@ M1型發射[12.7×108毫米大口徑步槍彈](../Page/12.7×108mm.md "wikilink"
   - 槍長：1,100毫米
   - 重量：10公斤
   - 載彈量：5/10發
-  - 槍機種類：[長行程後座作用](../Page/後座作用.md "wikilink")
+  - 槍機種類：[長行程後座作用](https://zh.wikipedia.org/wiki/後座作用 "wikilink")
 
-為一款[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，採用[長行程後座作用運作](../Page/後座作用.md "wikilink")。該槍比起M1有著更短的槍管長度及更低的重量，並以5發或10發容量的[彈匣](../Page/彈匣.md "wikilink")供彈。M2A2為該槍的縮短版本，主要提供給[傘兵](../Page/傘兵.md "wikilink")和[特種部隊](../Page/特種部隊.md "wikilink")使用。
+為一款[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，採用[長行程後座作用運作](https://zh.wikipedia.org/wiki/後座作用 "wikilink")。該槍比起M1有著更短的槍管長度及更低的重量，並以5發或10發容量的[彈匣](../Page/彈匣.md "wikilink")供彈。M2A2為該槍的縮短版本，主要提供給[傘兵](../Page/傘兵.md "wikilink")和[特種部隊](../Page/特種部隊.md "wikilink")使用。
 
 ### M3
 
@@ -49,7 +49,7 @@ M1型發射[12.7×108毫米大口徑步槍彈](../Page/12.7×108mm.md "wikilink"
   - 槍長：800毫米
   - 重量：17公斤
   - 載彈量：5發
-  - 槍機種類：[長行程後座作用](../Page/後座作用.md "wikilink")
+  - 槍機種類：[長行程後座作用](https://zh.wikipedia.org/wiki/後座作用 "wikilink")
 
 M2的改進版本，全槍改用了更強的物料打造，並提高了可靠性。具12.7×108毫米[俄羅斯口徑及](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")12.7×99毫米[北約口徑兩種版本可供選擇](https://zh.wikipedia.org/wiki/北約 "wikilink")。
 
@@ -64,7 +64,7 @@ M2的改進版本，全槍改用了更強的物料打造，並提高了可靠性
   - 槍長：730毫米
   - 重量：11.5公斤
   - 載彈量：5/10發
-  - 槍機種類：[長行程後座作用](../Page/後座作用.md "wikilink")
+  - 槍機種類：[長行程後座作用](https://zh.wikipedia.org/wiki/後座作用 "wikilink")
 
 Gepard系列的最新型號，為[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，並集合了許多上述型號的特點。
 
@@ -83,15 +83,15 @@ Gepard系列的最新型號，為[半自動步槍](https://zh.wikipedia.org/wiki
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 
   - 2006年—《[-{zh-hans:黑礁; zh-hant:企業傭兵;}-](../Page/企業傭兵.md "wikilink")》：於第1集被萊薇用以攻擊敵方的[Mi-24雌鹿直升機](../Page/Mi-24雌鹿直升機.md "wikilink")。
-  - 2009年—《[幻靈鎭魂曲](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")》：型號為M1，於第15集被江漣/Ein所使用。
+  - 2009年—《[幻靈鎭魂曲](https://zh.wikipedia.org/wiki/Phantom_-PHANTOM_OF_INFERNO- "wikilink")》：型號為M1，於第15集被江漣/Ein所使用。
 
 ### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")
 
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》：型号为GM6 Lynx，命名为“Gepard GM6 Lynx”，使用5发弹匣装填。为狙击手专用武器，大师级解锁，可以改装战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜、 V2 4.6倍瞄准镜），无法改装枪口，默认自带警用神枪手二型（，簡稱：PM II）瞄准镜（游戏内被命名为施密特-本德 V2 4.6倍瞄准镜）且拥有4.6倍变焦功能。
-  - 2013年—《[-{zh-hans:使命召唤：幽灵; zh-hant:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：型號為GM6 Lynx，被命名為“Lynx”。
+  - 2013年—《[-{zh-hans:使命召唤：幽灵; zh-hant:決勝時刻：魅影;}-](https://zh.wikipedia.org/wiki/決勝時刻：魅影 "wikilink")》：型號為GM6 Lynx，被命名為“Lynx”。
   - 2013年—《[-{zh-hans:武装突袭; zh-hant:武裝行動;}-3](https://zh.wikipedia.org/wiki/武装突袭3 "wikilink")》（ArmA 3）：型號為GM6 Lynx。
   - 2014年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎;}-4](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》：型號為縮短槍管版的GM6 Lynx，改名为“SA-50”。
-  - 2014年—《[-{zh-hans:使命召唤：高级战争; zh-hant:決勝時刻：先進戰爭;}-](../Page/使命召唤：高级战争.md "wikilink")》：型號為GM6 Lynx，被命名為“Lynx”。
+  - 2014年—《[-{zh-hans:使命召唤：高级战争; zh-hant:決勝時刻：先進戰爭;}-](https://zh.wikipedia.org/wiki/使命召唤：高级战争 "wikilink")》：型號為GM6 Lynx，被命名為“Lynx”。
   - 2018年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》：型號為GM6 Lynx，改名为“SA-50”。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光; zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far Cry: New Dawn）：型號為GM6 Lynx。
 
@@ -111,19 +111,19 @@ Gepard系列的最新型號，為[半自動步槍](https://zh.wikipedia.org/wiki
   - [巴雷特M82](../Page/巴雷特M82狙擊步槍.md "wikilink")
   - [巴雷特M90](../Page/巴雷特M90狙擊步槍.md "wikilink")
   - [巴雷特M95](../Page/巴雷特M95狙擊步槍.md "wikilink")
-  - [NTW-20](../Page/NTW-20.md "wikilink")
-  - [Istiglal](../Page/Istiglal狙擊步槍.md "wikilink")
+  - [NTW-20](https://zh.wikipedia.org/wiki/NTW-20 "wikilink")
+  - [Istiglal](https://zh.wikipedia.org/wiki/Istiglal狙擊步槍 "wikilink")
   - [RT-20反器材步槍](../Page/RT-20反器材步槍.md "wikilink")
   - [KSVK](../Page/KSVK狙擊步槍.md "wikilink")
   - [OSV-96](../Page/OSV-96狙擊步槍.md "wikilink")
   - [精密國際AW50](../Page/精密國際AW50狙擊步槍.md "wikilink")
-  - [精密國際AS50](../Page/精密國際AS50狙擊步槍.md "wikilink")
+  - [精密國際AS50](https://zh.wikipedia.org/wiki/精密國際AS50狙擊步槍 "wikilink")
   - [精密國際AX50](../Page/精密國際AX50狙擊步槍.md "wikilink")
   - [AMR-2](https://zh.wikipedia.org/wiki/AMR-2狙擊步槍 "wikilink")
   - [DSR-50](../Page/DSR-50狙擊步槍.md "wikilink")
   - [OM 50](../Page/OM_50復仇女神狙擊步槍.md "wikilink")
   - [TAC-50](../Page/TAC-50狙擊步槍.md "wikilink")
-  - [風行者M96](../Page/風行者M96狙擊步槍.md "wikilink")
+  - [風行者M96](https://zh.wikipedia.org/wiki/風行者M96狙擊步槍 "wikilink")
   - [Falcon](../Page/Falcon狙擊步槍.md "wikilink")
   - [PTRD](../Page/PTRD-41反坦克步槍.md "wikilink")
   - [PTRS](https://zh.wikipedia.org/wiki/PTRS-41反坦克步槍 "wikilink")

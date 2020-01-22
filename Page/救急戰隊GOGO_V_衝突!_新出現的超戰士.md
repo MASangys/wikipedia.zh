@@ -65,16 +65,16 @@ VS系列</p></td>
 | 巽祭 （Go Pink）   | [坂口望二香](https://zh.wikipedia.org/wiki/坂口望二香 "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |    |
 | 巽世界            | [マイク眞木](https://zh.wikipedia.org/wiki/マイク眞木 "wikilink") | [符爽](../Page/符爽.md "wikilink")                      |    |
 |                |                                                         |                                                     |    |
-| 速瀨京子（席克貞德）     | [宮村優子](../Page/宮村優子.md "wikilink")                      | [汪世瑋](../Page/汪世瑋.md "wikilink")                    |    |
+| 速瀨京子（席克貞德）     | [宮村優子](https://zh.wikipedia.org/wiki/宮村優子 "wikilink")   | [汪世瑋](../Page/汪世瑋.md "wikilink")                    |    |
 | 邪靈姬‧蒂娜絲        | [平澤草](https://zh.wikipedia.org/wiki/平澤草 "wikilink")     | [汪世瑋](../Page/汪世瑋.md "wikilink")                    |    |
 |                |                                                         |                                                     |    |
 | 獸魔獵人‧席克        | [和田圭市](https://zh.wikipedia.org/wiki/和田圭市 "wikilink")   | [李景唐](../Page/李景唐.md "wikilink")                    |    |
 | 角色             | 聲優                                                      | 台配                                                  |    |
 | 分析機器人‧米特       | [相田莎也加](https://zh.wikipedia.org/wiki/相田莎也加 "wikilink") | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |    |
-| 大魔女‧格蘭狄努       | [山田美穗](../Page/山田美穗.md "wikilink")                      |                                                     |    |
+| 大魔女‧格蘭狄努       | [山田美穗](https://zh.wikipedia.org/wiki/山田美穗 "wikilink")   |                                                     |    |
 | 冥王‧吉爾菲瑟        | [中村大樹](../Page/中村大樹.md "wikilink")                      | [符爽](../Page/符爽.md "wikilink")                      |    |
 | 獸男爵‧哥波魯達       | [乃村健次](../Page/乃村健次.md "wikilink")                      |                                                     |    |
-| 童鬼‧德羅布         | [闇村悠之介](../Page/宮村優子.md "wikilink")                     |                                                     |    |
+| 童鬼‧德羅布         | [闇村悠之介](https://zh.wikipedia.org/wiki/宮村優子 "wikilink")  |                                                     |    |
 | 咒語師‧皮耶魯        | [松野太紀](../Page/松野太紀.md "wikilink")                      |                                                     |    |
 | 獸魔王‧格爾魔亞       | [稻田徹](../Page/稻田徹.md "wikilink")                        | [曹冀魯](../Page/曹冀魯.md "wikilink")                    |    |
 

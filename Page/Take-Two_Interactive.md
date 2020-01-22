@@ -1,19 +1,19 @@
 > 本文内容由[Take-Two Interactive](https://zh.wikipedia.org/wiki/Take-Two_Interactive)转换而来。
 
 
-**Take-Two Interactive**（一般簡稱**TAKE 2**或**T2**；）是一家美國主要的遊戲開發與發行商，同時他也是電玩遊戲與周邊設備的經銷商，旗下有2K和[Rockstar Games](../Page/Rockstar_Games.md "wikilink")，其中2K品牌包括发行核心游戏的[2K Games](../Page/2K_Games.md "wikilink")、发行休闲益智类游戏的[2K Play以及发行体育竞技类游戏的](https://zh.wikipedia.org/wiki/2K_Play "wikilink")[2K Sports](../Page/2K_Sports.md "wikilink")。公司總部位於紐約而國際總部則是為於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[溫莎](../Page/溫莎_\(伯克郡\).md "wikilink")。開發工作室遍及了許多地方，包括[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")、[溫哥華](../Page/溫哥華.md "wikilink")、[多倫多以及](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[諾瓦托](https://zh.wikipedia.org/wiki/諾瓦托 "wikilink")。
+**Take-Two Interactive**（一般簡稱**TAKE 2**或**T2**；）是一家美國主要的遊戲開發與發行商，同時他也是電玩遊戲與周邊設備的經銷商，旗下有2K和[Rockstar Games](../Page/Rockstar_Games.md "wikilink")，其中2K品牌包括发行核心游戏的[2K Games](../Page/2K_Games.md "wikilink")、发行休闲益智类游戏的[2K Play以及发行体育竞技类游戏的](https://zh.wikipedia.org/wiki/2K_Play "wikilink")[2K Sports](https://zh.wikipedia.org/wiki/2K_Sports "wikilink")。公司總部位於紐約而國際總部則是為於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[溫莎](https://zh.wikipedia.org/wiki/溫莎_\(伯克郡\) "wikilink")。開發工作室遍及了許多地方，包括[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")、[溫哥華](../Page/溫哥華.md "wikilink")、[多倫多以及](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[諾瓦托](https://zh.wikipedia.org/wiki/諾瓦托 "wikilink")。
 
 ## 大事记
 
-Take-Two Interactive由《[访问](https://zh.wikipedia.org/wiki/访问_\(杂志\) "wikilink")》杂志的主创人之一Peter Brant之子Ryan Brant在1993年投资建立。Take-Two Interactive是美国典型的激进派游戏的发行商，它所发行的游戏大多都游走于法律的边缘，最初几年Take-Two Interactive所发行的游戏画面质量粗糙，并不是一家太过良心的公司，于是乎Take-Two Interactive走上了代理发行其他工作室的游戏的道路。1998年，Take-Two Interactive代理发行由狼蛛工作室（现[Rockstar林肯工作室](../Page/Rockstar_Lincoln.md "wikilink")）开发的《Rats》，虽然饱受恶评，但扭转了Take-Two Interactive饱受恶评的局面，同时随着《[俠盜獵車手](../Page/俠盜獵車手_\(遊戲\).md "wikilink")》的大卖，Take-Two Interactive用1420万美元收购BMG Interactive，同年BMG Interactive重组，成为了之后名声大噪的Rockstar Games。
+Take-Two Interactive由《[访问](https://zh.wikipedia.org/wiki/访问_\(杂志\) "wikilink")》杂志的主创人之一Peter Brant之子Ryan Brant在1993年投资建立。Take-Two Interactive是美国典型的激进派游戏的发行商，它所发行的游戏大多都游走于法律的边缘，最初几年Take-Two Interactive所发行的游戏画面质量粗糙，并不是一家太过良心的公司，于是乎Take-Two Interactive走上了代理发行其他工作室的游戏的道路。1998年，Take-Two Interactive代理发行由狼蛛工作室（现[Rockstar林肯工作室](https://zh.wikipedia.org/wiki/Rockstar_Lincoln "wikilink")）开发的《Rats》，虽然饱受恶评，但扭转了Take-Two Interactive饱受恶评的局面，同时随着《[俠盜獵車手](../Page/俠盜獵車手_\(遊戲\).md "wikilink")》的大卖，Take-Two Interactive用1420万美元收购BMG Interactive，同年BMG Interactive重组，成为了之后名声大噪的Rockstar Games。
 
-2004年，Take-Two Interactive花费2230万美元从[Atari手里收购了](https://zh.wikipedia.org/wiki/Atari "wikilink")[Firaxis Games](../Page/Firaxis_Games.md "wikilink")，2005年1月，Take-Two Interactive为了在体育竞技游戏市场上与[美国艺电旗下的](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")[EA Sports体育部门一决高下](../Page/EA_Sports.md "wikilink")，Take-Two Interactive收购日本[世嘉](../Page/世嘉.md "wikilink")公司旗下的工作室[Visual Concepts连同其完全所有的子公司](../Page/Visual_Concepts.md "wikilink")[Kush Games](https://zh.wikipedia.org/wiki/Kush_Games "wikilink")，之后又花费8000万美元收购了多个游戏工作室。伴随着对Visual Concepts的收购，Take-Two Interactive同时创立了一个全新的发行品牌2K Games，而原来由Visual Concepts开发的游戏以2K Sports品牌发行。2007年，Global Star Software加入2K Games，更名为2K Play发行休闲益智类游戏，至此2K品牌趋于完善。2013年，Take-Two Interactive收购了前[THQ旗下的](https://zh.wikipedia.org/wiki/THQ "wikilink")[Turtle Rock工作室以及](../Page/Turtle_Rock工作室.md "wikilink")[Yuke's工作室](https://zh.wikipedia.org/wiki/Yuke's "wikilink")，获得《Evolve》与《WWE 2K》两大游戏品牌。
+2004年，Take-Two Interactive花费2230万美元从[Atari手里收购了](https://zh.wikipedia.org/wiki/Atari "wikilink")[Firaxis Games](../Page/Firaxis_Games.md "wikilink")，2005年1月，Take-Two Interactive为了在体育竞技游戏市场上与[美国艺电旗下的](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")[EA Sports体育部门一决高下](https://zh.wikipedia.org/wiki/EA_Sports "wikilink")，Take-Two Interactive收购日本[世嘉](../Page/世嘉.md "wikilink")公司旗下的工作室[Visual Concepts连同其完全所有的子公司](https://zh.wikipedia.org/wiki/Visual_Concepts "wikilink")[Kush Games](https://zh.wikipedia.org/wiki/Kush_Games "wikilink")，之后又花费8000万美元收购了多个游戏工作室。伴随着对Visual Concepts的收购，Take-Two Interactive同时创立了一个全新的发行品牌2K Games，而原来由Visual Concepts开发的游戏以2K Sports品牌发行。2007年，Global Star Software加入2K Games，更名为2K Play发行休闲益智类游戏，至此2K品牌趋于完善。2013年，Take-Two Interactive收购了前[THQ旗下的](https://zh.wikipedia.org/wiki/THQ "wikilink")[Turtle Rock工作室以及](../Page/Turtle_Rock工作室.md "wikilink")[Yuke's工作室](https://zh.wikipedia.org/wiki/Yuke's "wikilink")，获得《Evolve》与《WWE 2K》两大游戏品牌。
 
 2017年12月，Take-Two Interactive成立新的发行品牌[Private Division](https://zh.wikipedia.org/wiki/Private_Division "wikilink")，主要负责第三方游戏的发行。
 
 ### 中国市场
 
-Take-Two Interactive对中国市场精雕细刻、力求完美。与推崇血腥暴力的Rockstar Games相比，Take-Two Interactive十分关注中国市场的发展，并表现出浓厚的兴趣。[2K中国](../Page/2K中国.md "wikilink")成立于2006年1月，是Take-Two Interactive在中国唯一的全资子公司，其工作包括为中国市场进行游戏本地化、移植游戏到其他平台以及协助其他工作室共同开发电子游戏。
+Take-Two Interactive对中国市场精雕细刻、力求完美。与推崇血腥暴力的Rockstar Games相比，Take-Two Interactive十分关注中国市场的发展，并表现出浓厚的兴趣。[2K中国成立于](https://zh.wikipedia.org/wiki/2K中国 "wikilink")2006年1月，是Take-Two Interactive在中国唯一的全资子公司，其工作包括为中国市场进行游戏本地化、移植游戏到其他平台以及协助其他工作室共同开发电子游戏。
 
 由于必须使用中文进行注册，所以2K中国的实际注册名称为仟游软件科技（上海）有限公司；而两间工作室则分别称为仟游软件科技（杭州）有限公司和仟游软件科技（成都）有限公司。
 
@@ -29,24 +29,24 @@ Take-Two Interactive对中国市场精雕细刻、力求完美。与推崇血腥
 
 ### 现有工作室
 
-  - 2K(该发行品牌旗下有[2K Games](../Page/2K_Games.md "wikilink")、[2K Play与](https://zh.wikipedia.org/wiki/2K_Play "wikilink")[2K Sports](../Page/2K_Sports.md "wikilink"))
+  - 2K(该发行品牌旗下有[2K Games](../Page/2K_Games.md "wikilink")、[2K Play与](https://zh.wikipedia.org/wiki/2K_Play "wikilink")[2K Sports](https://zh.wikipedia.org/wiki/2K_Sports "wikilink"))
       - [2K澳大利亚](../Page/2K_Australia.md "wikilink")（2K Australia）
-      - [2K中国](../Page/2K中国.md "wikilink")（2K China）
-      - [2K捷克](../Page/2K_Czech.md "wikilink")（2K Czech）
+      - [2K中国](https://zh.wikipedia.org/wiki/2K中国 "wikilink")（2K China）
+      - [2K捷克](https://zh.wikipedia.org/wiki/2K_Czech "wikilink")（2K Czech）
       - [2K Marin](../Page/2K_Marin.md "wikilink")
       - 2K维加斯（2K Vegas）
       - [Cat Daddy Games](https://zh.wikipedia.org/wiki/Cat_Daddy_Games "wikilink") - 2K Play旗下工作室
       - [Firaxis Games](../Page/Firaxis_Games.md "wikilink")
-      - [Visual Concepts](../Page/Visual_Concepts.md "wikilink") - 2K Sports旗下工作室
+      - [Visual Concepts](https://zh.wikipedia.org/wiki/Visual_Concepts "wikilink") - 2K Sports旗下工作室
           - Visual Concepts中国（Visual Concepts China）
           - Visual Concepts韩国（Visual Concepts Korea）
   - [Rockstar Games](../Page/Rockstar_Games.md "wikilink")
-      - [Rockstar Leeds](../Page/Rockstar_Leeds.md "wikilink")
-      - [Rockstar Lincoln](../Page/Rockstar_Lincoln.md "wikilink")
-      - [Rockstar London](../Page/Rockstar_London.md "wikilink")
+      - [Rockstar Leeds](https://zh.wikipedia.org/wiki/Rockstar_Leeds "wikilink")
+      - [Rockstar Lincoln](https://zh.wikipedia.org/wiki/Rockstar_Lincoln "wikilink")
+      - [Rockstar London](https://zh.wikipedia.org/wiki/Rockstar_London "wikilink")
       - [Rockstar New England](https://zh.wikipedia.org/wiki/Rockstar_New_England "wikilink")
       - [Rockstar North](../Page/Rockstar_North.md "wikilink")
-      - [Rockstar San Diego](../Page/Rockstar_San_Diego.md "wikilink")
+      - [Rockstar San Diego](https://zh.wikipedia.org/wiki/Rockstar_San_Diego "wikilink")
       - [Rockstar Toronto](../Page/Rockstar_Toronto.md "wikilink")
 
 ### 已解散工作室
@@ -60,8 +60,8 @@ Take-Two Interactive对中国市场精雕细刻、力求完美。与推崇血腥
   - [Mission Studios](../Page/Mission_Studios.md "wikilink") - 2001年解散
   - [PAM Development](../Page/PAM_Development.md "wikilink") - 2008年解散
   - [PopTop Software](https://zh.wikipedia.org/wiki/PopTop_Software "wikilink") - 2006年与Firaxis Games合并
-  - [Rockstar Vancouver](../Page/Rockstar_Vancouver.md "wikilink") - Rockstar Games旗下工作室，2012年与Rockstar Toronto合并
-  - [Rockstar Vienna](../Page/Rockstar_Vienna.md "wikilink") - Rockstar Games旗下工作室，2006年解散
+  - [Rockstar Vancouver](https://zh.wikipedia.org/wiki/Rockstar_Vancouver "wikilink") - Rockstar Games旗下工作室，2012年与Rockstar Toronto合并
+  - [Rockstar Vienna](https://zh.wikipedia.org/wiki/Rockstar_Vienna "wikilink") - Rockstar Games旗下工作室，2006年解散
   - [Take-Two Licensing](https://zh.wikipedia.org/wiki/Take-Two_Licensing "wikilink") - 已并入2K
   - [TalonSoft](../Page/TalonSoft.md "wikilink") - 2005年解散
   - [Venom Games](../Page/Venom_Games.md "wikilink") - 2008年解散
@@ -75,7 +75,7 @@ Take-Two Interactive对中国市场精雕细刻、力求完美。与推崇血腥
       - [邊緣禁地系列](https://zh.wikipedia.org/wiki/邊緣禁地 "wikilink")
       - [文明城市：罗马](https://zh.wikipedia.org/wiki/文明城市：罗马 "wikilink")
       - [毁灭公爵系列](https://zh.wikipedia.org/wiki/毁灭公爵 "wikilink")
-      - [四海兄弟系列](../Page/黑手党II.md "wikilink")
+      - [四海兄弟系列](https://zh.wikipedia.org/wiki/黑手党II "wikilink")
       - [猎魂](https://zh.wikipedia.org/wiki/猎魂 "wikilink")
       - [英雄萨姆2](https://zh.wikipedia.org/wiki/英雄萨姆 "wikilink")
       - [席德·梅尔的文明帝國系列](https://zh.wikipedia.org/wiki/文明帝國系列 "wikilink")
@@ -95,7 +95,7 @@ Take-Two Interactive对中国市场精雕细刻、力求完美。与推崇血腥
       - [奇迹宠物](https://zh.wikipedia.org/wiki/奇迹宠物 "wikilink")
       - [Ni Hao, Kai-lan系列](https://zh.wikipedia.org/wiki/Ni_Hao,_Kai-lan "wikilink")
       - [林林兄弟与巴纳姆及贝利马戏团：戏王之王](https://zh.wikipedia.org/wiki/林林兄弟与巴纳姆及贝利马戏团：戏王之王 "wikilink")
-  - 以[2K Sports为品牌发行](../Page/2K_Sports.md "wikilink")
+  - 以[2K Sports为品牌发行](https://zh.wikipedia.org/wiki/2K_Sports "wikilink")
       - [MLB 2K系列](https://zh.wikipedia.org/wiki/MLB_2K "wikilink")
       - [NBA 2K系列](https://zh.wikipedia.org/wiki/NBA_2K "wikilink")
       - [NFL 2K系列](https://zh.wikipedia.org/wiki/NFL_2K "wikilink")
@@ -108,7 +108,7 @@ Take-Two Interactive对中国市场精雕细刻、力求完美。与推崇血腥
   - [Agent](https://zh.wikipedia.org/wiki/Agent_\(video_game\) "wikilink")
   - [恶霸鲁尼](https://zh.wikipedia.org/wiki/恶霸鲁尼 "wikilink")
   - [侠盗猎车手系列](https://zh.wikipedia.org/wiki/侠盗猎车手系列 "wikilink")
-  - [黑色洛城](../Page/黑色洛城.md "wikilink")
+  - [黑色洛城](https://zh.wikipedia.org/wiki/黑色洛城 "wikilink")
   - [侠盗猎魔系列](https://zh.wikipedia.org/wiki/侠盗猎魔系列 "wikilink")
   - [马克思·佩恩系列](https://zh.wikipedia.org/wiki/马克思·佩恩 "wikilink")
   - [湾岸午夜俱乐部系列](https://zh.wikipedia.org/wiki/湾岸午夜俱乐部 "wikilink")

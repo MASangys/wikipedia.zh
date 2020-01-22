@@ -51,7 +51,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/國防部服役獎章.md" title="wikilink">國防部服役獎章</a> (with one service star)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/國防部服役獎章" title="wikilink">國防部服役獎章</a> (with one service star)</p></td>
 </tr>
 <tr class="even">
 <td></td>

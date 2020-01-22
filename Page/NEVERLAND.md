@@ -21,7 +21,7 @@
 5.  **Take Me Away**
 6.  **ON THE Floor**
 7.  **朋友的愛**（친구의 사랑）
-8.  **四月的故事**（Feat. Eun Young for [Brave Girls](../Page/Brave_Girls.md "wikilink")）（4월 이야기）
+8.  **四月的故事**（Feat. Eun Young for [Brave Girls](https://zh.wikipedia.org/wiki/Brave_Girls "wikilink")）（4월 이야기）
 9.  **Obsession**
 10. **TOP THAT**
 11. **Tell Me Y**

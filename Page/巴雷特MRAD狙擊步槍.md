@@ -1,7 +1,7 @@
 > 本文内容由[巴雷特MRAD狙擊步槍](https://zh.wikipedia.org/wiki/巴雷特MRAD狙擊步槍)转换而来。
 
 
-**巴雷特MRAD**（；MRAD，全稱：**M**ulti-**R**ole **A**daptive **D**esign，意為：多用途自行調應設計）是一款由[美国](../Page/美国.md "wikilink")槍械製造商[巴雷特所研製和生產的](../Page/巴雷特槍械公司.md "wikilink")[旋转后拉枪机式手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，以滿足特種作戰司令部（簡稱：PSR）合同的要求，\[1\]是基於[巴雷特M98B的改進型](../Page/巴雷特M98B狙擊步槍.md "wikilink")。\[2\]主要發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）。
+**巴雷特MRAD**（；MRAD，全稱：**M**ulti-**R**ole **A**daptive **D**esign，意為：多用途自行調應設計）是一款由[美国](../Page/美国.md "wikilink")槍械製造商[巴雷特所研製和生產的](../Page/巴雷特槍械公司.md "wikilink")[旋转后拉枪机式手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，以滿足特種作戰司令部（簡稱：PSR）合同的要求，\[1\]是基於[巴雷特M98B的改進型](../Page/巴雷特M98B狙擊步槍.md "wikilink")。\[2\]主要發射[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）。
 
 2010年底，巴雷特正式公佈MRAD，並且在2011年初開始銷售，其[建議售價為](https://zh.wikipedia.org/wiki/建議售價 "wikilink")[$](../Page/美元.md "wikilink")6,000.00。\[3\]推出市場以後，巴雷特MRAD被[美国全国步枪协会](../Page/美国全国步枪协会.md "wikilink")（，簡稱：NRA）評為2012年年度步槍。\[4\]
 
@@ -45,7 +45,7 @@
 
 ### 瞄準具及附件
 
-和各種目前流行的[机枪](../Page/机枪.md "wikilink")、[步枪](../Page/步枪.md "wikilink")及[冲锋枪](../Page/冲锋枪.md "wikilink")一樣，上[機匣還裝上一條不間斷的全尺寸長度型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。上方的導軌全長是21.75英吋（552.45毫米），比巴雷特M98B的18.125英吋（460.375毫米）上方導軌更長。\[20\]\[21\]巴雷特MRAD沒有內置其[機械瞄具](../Page/機械瞄具.md "wikilink")，必須利用其機匣頂部所設有的一條全長式[MIL-STD-1913戰術導軌安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間望遠式狙擊鏡、[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪](../Page/热成像仪.md "wikilink")和／或以戰術導軌安裝的機械瞄具作為巴雷特MRAD的瞄準具，亦可以使用流行的前後串連式安裝配置模式擴大瞄準具附件的加裝應用模式。由於機匣與護木為一體化部件設計，可使其頂部裝上一條不間斷的全尺寸長度型MIL-STD-1913戰術導軌，使日間望遠式狙擊鏡與[夜視儀使用流行的前後串連式安裝配置模式的銜接配合更為準確](../Page/夜視鏡.md "wikilink")。此槍的護木下方的導軌還可以用以安裝哈里斯公司原廠製造的（Harris）S-BR[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")；另外還有兩條可拆卸的導軌是安裝在上機匣的[護木的左右兩邊用於安裝對應導軌的](https://zh.wikipedia.org/wiki/護木 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。\[22\]\[23\]
+和各種目前流行的[机枪](../Page/机枪.md "wikilink")、[步枪](../Page/步枪.md "wikilink")及[冲锋枪](../Page/冲锋枪.md "wikilink")一樣，上[機匣還裝上一條不間斷的全尺寸長度型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。上方的導軌全長是21.75英吋（552.45毫米），比巴雷特M98B的18.125英吋（460.375毫米）上方導軌更長。\[20\]\[21\]巴雷特MRAD沒有內置其[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，必須利用其機匣頂部所設有的一條全長式[MIL-STD-1913戰術導軌安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間望遠式狙擊鏡、[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪](../Page/热成像仪.md "wikilink")和／或以戰術導軌安裝的機械瞄具作為巴雷特MRAD的瞄準具，亦可以使用流行的前後串連式安裝配置模式擴大瞄準具附件的加裝應用模式。由於機匣與護木為一體化部件設計，可使其頂部裝上一條不間斷的全尺寸長度型MIL-STD-1913戰術導軌，使日間望遠式狙擊鏡與[夜視儀使用流行的前後串連式安裝配置模式的銜接配合更為準確](../Page/夜視鏡.md "wikilink")。此槍的護木下方的導軌還可以用以安裝哈里斯公司原廠製造的（Harris）S-BR[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")；另外還有兩條可拆卸的導軌是安裝在上機匣的[護木的左右兩邊用於安裝對應導軌的](https://zh.wikipedia.org/wiki/護木 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。\[22\]\[23\]
 
 ## 特種作戰司令部精密狙擊步槍
 
@@ -55,12 +55,12 @@
 
 ## 使用國
 
-  -   - [以色列國境警察特勤隊](../Page/以色列國境警察特勤隊.md "wikilink")（2013年起採用，以取代[PGM 338狙擊步槍](../Page/PGM_338狙擊步槍.md "wikilink")）\[26\]
+  -   - [以色列國境警察特勤隊](https://zh.wikipedia.org/wiki/以色列國境警察特勤隊 "wikilink")（2013年起採用，以取代[PGM 338狙擊步槍](../Page/PGM_338狙擊步槍.md "wikilink")）\[26\]
       - [以色列國防軍](../Page/以色列國防軍.md "wikilink")（2018年起採用）\[27\]
 
   -   - [紐西蘭國防軍](../Page/紐西蘭國防軍.md "wikilink")（2018年起採用，以取代7.62毫米口徑的[精密國際AW狙擊步槍](../Page/精密國際AW狙擊步槍.md "wikilink")）\[28\]
 
-  -   - [挪威國防軍](../Page/挪威國防軍.md "wikilink")特種部隊（2015年起採用）\[29\]
+  -   - [挪威國防軍特種部隊](https://zh.wikipedia.org/wiki/挪威國防軍 "wikilink")（2015年起採用）\[29\]
 
   -   - 獲美國特種作戰司令部所訂購。\[30\]
 
@@ -68,7 +68,7 @@
 
 ### [电子遊戲](https://zh.wikipedia.org/wiki/电子遊戲 "wikilink")
 
-  - 2016年—《[-{zh-cn:杀手; zh-tw:刺客任務;}-2016](../Page/杀手_\(2016年游戏\).md "wikilink")》（Hitman 2016）：以該槍為藍本，但改為深藍色槍身和作出一些設計變更並裝上[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，命名為“耶格7”（），奇怪地在菜單中的該槍的[照門與](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星倒轉裝在導軌以上而在遊戲中兩者卻是正確安裝位置](../Page/照準器.md "wikilink")。衍生型為“耶格7槍騎兵型”（），為槍口改為裝上[制退器的版本](../Page/砲口制動器.md "wikilink")。
+  - 2016年—《[-{zh-cn:杀手; zh-tw:刺客任務;}-2016](../Page/杀手_\(2016年游戏\).md "wikilink")》（Hitman 2016）：以該槍為藍本，但改為深藍色槍身和作出一些設計變更並裝上[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，命名為“耶格7”（），奇怪地在菜單中的該槍的[照門與](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星倒轉裝在導軌以上而在遊戲中兩者卻是正確安裝位置](https://zh.wikipedia.org/wiki/照準器 "wikilink")。衍生型為“耶格7槍騎兵型”（），為槍口改為裝上[制退器的版本](../Page/砲口制動器.md "wikilink")。
 
 ## 參見
 
@@ -95,10 +95,10 @@
   - [FR-F2](../Page/FR-F2狙擊步槍.md "wikilink")
   - [GOL狙擊手麥格農](../Page/GOL狙擊手麥格農步槍.md "wikilink")
   - [IWI DAN](../Page/IWI_DAN狙擊步槍.md "wikilink")
-  - [JNG-90](../Page/JNG-90狙擊步槍.md "wikilink")
-  - [JS 7.62](../Page/JS_7.62毫米狙击步枪.md "wikilink")
+  - [JNG-90](https://zh.wikipedia.org/wiki/JNG-90狙擊步槍 "wikilink")
+  - [JS 7.62](https://zh.wikipedia.org/wiki/JS_7.62毫米狙击步枪 "wikilink")
   - [Kefefs](https://zh.wikipedia.org/wiki/Kefefs狙擊步槍 "wikilink")
-  - [KNT-308](../Page/KNT-308狙擊步槍.md "wikilink")
+  - [KNT-308](https://zh.wikipedia.org/wiki/KNT-308狙擊步槍 "wikilink")
   - [帕克黑爾M82](../Page/帕克黑爾M82狙擊步槍.md "wikilink")
   - [帕克黑爾M85](../Page/帕克黑爾M85狙擊步槍.md "wikilink")
   - [PGM 338](../Page/PGM_338狙擊步槍.md "wikilink")
@@ -109,10 +109,10 @@
   - [雷明登SR8](../Page/雷明登SR8狙擊步槍.md "wikilink")
   - [雷明登M40-XS](https://zh.wikipedia.org/wiki/雷明登M40-XS狙擊步槍 "wikilink")
   - [雷明登MSR](../Page/雷明登MSR狙擊步槍.md "wikilink")
-  - [雷明登M2010](../Page/M2010增強型狙擊步槍.md "wikilink")
+  - [雷明登M2010](https://zh.wikipedia.org/wiki/M2010增強型狙擊步槍 "wikilink")
   - [儒格M77](../Page/儒格M77步槍.md "wikilink")
   - [薩科蒂卡T3](../Page/薩科蒂卡T3步槍.md "wikilink")
-  - [薩科TRG-21／22／41／42](../Page/薩科TRG狙擊步槍.md "wikilink")
+  - [薩科TRG-21／22／41／42](https://zh.wikipedia.org/wiki/薩科TRG狙擊步槍 "wikilink")
   - [薩科TRG M10](https://zh.wikipedia.org/wiki/薩科TRG_M10狙擊步槍 "wikilink")
   - [薩維奇10FP](https://zh.wikipedia.org/wiki/薩維奇10FP狙擊步槍 "wikilink")
   - [薩維奇110BA](https://zh.wikipedia.org/wiki/薩維奇110BA狙擊步槍 "wikilink")
@@ -120,14 +120,14 @@
   - [SIG SSG 3000](../Page/SIG_SSG_3000狙擊步槍.md "wikilink")
   - [斯泰爾SSG 69](../Page/斯泰爾SSG_69狙擊步槍.md "wikilink")
   - [斯泰爾SSG 04](../Page/斯泰爾SSG_04狙擊步槍.md "wikilink")
-  - [斯泰爾SSG 08](../Page/斯泰爾SSG_08狙擊步槍.md "wikilink")
-  - [SV-98](../Page/SV-98狙擊步槍.md "wikilink")
+  - [斯泰爾SSG 08](https://zh.wikipedia.org/wiki/斯泰爾SSG_08狙擊步槍 "wikilink")
+  - [SV-98](https://zh.wikipedia.org/wiki/SV-98狙擊步槍 "wikilink")
   - [T-76“長弓”](https://zh.wikipedia.org/wiki/T-76長弓狙擊步槍 "wikilink")
   - [T93狙擊步槍](../Page/T93狙擊步槍.md "wikilink")
   - [TPG-1](../Page/TPG-1狙擊步槍.md "wikilink")
   - [特維洛狙擊步槍](https://zh.wikipedia.org/wiki/特維洛狙擊步槍 "wikilink")
   - [NM149](https://zh.wikipedia.org/wiki/NM149狙擊步槍 "wikilink")
-  - [風行者M98](../Page/風行者M96狙擊步槍.md "wikilink")
+  - [風行者M98](https://zh.wikipedia.org/wiki/風行者M96狙擊步槍 "wikilink")
 
 ## 資料來源
 

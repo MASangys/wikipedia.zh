@@ -27,7 +27,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/Choo_Choo_TRAIN_(EXILE單曲).md" title="wikilink">Choo Choo TRAIN</a></p></td>
-<td><p><a href="../Page/放浪兄弟.md" title="wikilink">放浪兄弟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/放浪兄弟" title="wikilink">放浪兄弟</a></p></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
 <td><p><strong>Duet</strong></p></td>
@@ -135,7 +135,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Just_Dance_2" title="wikilink">Just Dance 2</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/給你一BUMP.md" title="wikilink">君にBUMP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/給你一BUMP" title="wikilink">君にBUMP</a></p></td>
 <td><p><a href="../Page/決明子_(團體).md" title="wikilink">決明子</a></p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
@@ -219,7 +219,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Just_Dance_2" title="wikilink">Just Dance 2</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/BEST_FICTION.md" title="wikilink">Sexy Girl</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BEST_FICTION" title="wikilink">Sexy Girl</a></p></td>
 <td><p><a href="../Page/安室奈美惠.md" title="wikilink">安室奈美惠</a></p></td>
 <td><p>2</p></td>
 <td><p>1</p></td>
@@ -231,7 +231,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Survival_dAnce_～no_no_cry_more～.md" title="wikilink">Survival dAnce 〜no no cry more〜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Survival_dAnce_～no_no_cry_more～" title="wikilink">Survival dAnce 〜no no cry more〜</a></p></td>
 <td><p><a href="../Page/TRF.md" title="wikilink">TRF</a></p></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
@@ -267,7 +267,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Just_Dance_(遊戲)" title="wikilink">Just Dance</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/UFO_(Pink_Lady單曲).md" title="wikilink">UFO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UFO_(Pink_Lady單曲)" title="wikilink">UFO</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Pink_Lady" title="wikilink">Pink Lady</a></p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
@@ -316,7 +316,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Won&#39;t_Be_Long" title="wikilink">Won't Be Long</a></p></td>
-<td><p><a href="../Page/放浪兄弟.md" title="wikilink">放浪兄弟</a> &amp; <a href="../Page/倖田來未.md" title="wikilink">倖田來未</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/放浪兄弟" title="wikilink">放浪兄弟</a> &amp; <a href="../Page/倖田來未.md" title="wikilink">倖田來未</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p><strong>Duet</strong></p></td>

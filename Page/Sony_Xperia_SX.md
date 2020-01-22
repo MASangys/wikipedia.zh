@@ -25,7 +25,7 @@
 ## 參見
 
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
-  - [Xperia](../Page/Xperia.md "wikilink")
+  - [Xperia](https://zh.wikipedia.org/wiki/Xperia "wikilink")
   - [Sony Xperia GX](https://zh.wikipedia.org/wiki/Sony_Xperia_GX "wikilink")
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")

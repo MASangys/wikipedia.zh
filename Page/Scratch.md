@@ -11,7 +11,7 @@ Scratch 測試由[麻省理工媒體實驗室終身幼稚園組於](https://zh.w
 
 Scratch适用于8岁以上用户。即便用户从未學过[程序编程](https://zh.wikipedia.org/wiki/程序编程 "wikilink")，通过拖曳预先设定好的积木式程序模件，堆疊出指令，设置或控制角色及背景的行动和变化，从而完成程序设计\[3\]\[4\]。
 
-Scratch的1.x版本用[Squeak](../Page/Squeak.md "wikilink")编写，从2.0开始改为[ActionScript](../Page/ActionScript.md "wikilink")，自3.0後使用[HTML5](../Page/HTML5.md "wikilink")。Scratch 可安裝其發行的應用程式進行離線編輯。
+Scratch的1.x版本用[Squeak编写](https://zh.wikipedia.org/wiki/Squeak "wikilink")，从2.0开始改为[ActionScript](../Page/ActionScript.md "wikilink")，自3.0後使用[HTML5](../Page/HTML5.md "wikilink")。Scratch 可安裝其發行的應用程式進行離線編輯。
 
 ### 界面与功能
 

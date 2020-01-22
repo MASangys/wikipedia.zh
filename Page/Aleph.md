@@ -5,7 +5,7 @@
 
 Aleph在闪米特语言中表示“牛”，最初是源于[埃及圣书体中牛头的象形字](https://zh.wikipedia.org/wiki/埃及圣书体 "wikilink")<hiero> F1 </hiero>
 
-| [埃及聖書體](https://zh.wikipedia.org/wiki/埃及聖書體 "wikilink") | [青銅中期文化時期字母](../Page/青銅中期文化時期字母.md "wikilink")                                      | [腓尼基字母](../Page/腓尼基字母.md "wikilink")                                                                        | [古希伯來字母](../Page/古希伯來字母.md "wikilink")                                                                                                                      |
+| [埃及聖書體](https://zh.wikipedia.org/wiki/埃及聖書體 "wikilink") | [青銅中期文化時期字母](../Page/青銅中期文化時期字母.md "wikilink")                                      | [腓尼基字母](../Page/腓尼基字母.md "wikilink")                                                                        | [古希伯來字母](https://zh.wikipedia.org/wiki/古希伯來字母 "wikilink")                                                                                                   |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <hiero>F1</hiero>                                       | [Aleph](https://zh.wikipedia.org/wiki/File:Proto-Canaanite_-_aleph.png "fig:Aleph") | [phoenician_aleph.svg](https://zh.wikipedia.org/wiki/File:phoenician_aleph.svg "fig:phoenician_aleph.svg") | [Early_Aramaic_character_-_Alaph.png](https://zh.wikipedia.org/wiki/File:Early_Aramaic_character_-_Alaph.png "fig:Early_Aramaic_character_-_Alaph.png") |
 

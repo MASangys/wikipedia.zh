@@ -79,7 +79,7 @@ Windows Phone 8 支持多核处理器，这就让搭载 Windows Phone 8 的设�
 
 ### 系统体验
 
-WP8系统在使用上还是强调了简洁为主，系统菜单并没有太多级，能快速地找到相关设置选项，经过了不断发展，WP8系统内部加入了很多新的功能，比如[儿童园地](https://zh.wikipedia.org/wiki/#儿童乐园功能 "wikilink")、[NFC功能等等](../Page/近場通訊.md "wikilink")，此外在所有WP8机型中也都加入了微软自家的[Microsoft OneDrive云服务](https://zh.wikipedia.org/wiki/Microsoft_OneDrive "wikilink")，可将手机中的资料上传备份到云端。
+WP8系统在使用上还是强调了简洁为主，系统菜单并没有太多级，能快速地找到相关设置选项，经过了不断发展，WP8系统内部加入了很多新的功能，比如[儿童园地](https://zh.wikipedia.org/wiki/#儿童乐园功能 "wikilink")、[NFC功能等等](https://zh.wikipedia.org/wiki/近場通訊 "wikilink")，此外在所有WP8机型中也都加入了微软自家的[Microsoft OneDrive云服务](https://zh.wikipedia.org/wiki/Microsoft_OneDrive "wikilink")，可将手机中的资料上传备份到云端。
 
 随着智能手机的应用的不断地广泛发展，智能手机可用的功能越来越多，在WP8系统中，也加入了例如音频输出模式，就是当手机接入底座时会使用外置扬声器。
 
@@ -103,11 +103,11 @@ Windows Phone 8内置的浏览器升级到了IE10移动版。相比Windows Phone
 
 ### 支持NFC技术
 
-Windows Phone 8将支持[NFC移动传输技术](../Page/近場通訊.md "wikilink")，这项功能在之前 Windows Phone 7 时代是没有的。而通过[NFC技术](../Page/近場通訊.md "wikilink")，Windows Phone 8 可以更好的在移动电话、笔记本、平板之间将实现互操作，共享资源变得更加简单。
+Windows Phone 8将支持[NFC移动传输技术](https://zh.wikipedia.org/wiki/近場通訊 "wikilink")，这项功能在之前 Windows Phone 7 时代是没有的。而通过[NFC技术](https://zh.wikipedia.org/wiki/近場通訊 "wikilink")，Windows Phone 8 可以更好的在移动电话、笔记本、平板之间将实现互操作，共享资源变得更加简单。
 
 ### 实现移动支付等功能
 
-由于[NFC技术的引进](../Page/近場通訊.md "wikilink")，电子钱包也出现在 Windows Phone 8 中了，支持信用卡，还有会员卡等等东西，也支持[NFC接触支付](../Page/近場通訊.md "wikilink")。微软称之为“最完整的移动钱包体验”。同时微软为Windows Phone 8开发了程序内购买服务，也可以通过移动钱包来支付。
+由于[NFC技术的引进](https://zh.wikipedia.org/wiki/近場通訊 "wikilink")，电子钱包也出现在 Windows Phone 8 中了，支持信用卡，还有会员卡等等东西，也支持[NFC接触支付](https://zh.wikipedia.org/wiki/近場通訊 "wikilink")。微软称之为“最完整的移动钱包体验”。同时微软为Windows Phone 8开发了程序内购买服务，也可以通过移动钱包来支付。
 
 ### 内置诺基亚地图
 

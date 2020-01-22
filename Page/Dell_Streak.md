@@ -1,7 +1,7 @@
 > 本文内容由[Dell Streak](https://zh.wikipedia.org/wiki/Dell_Streak)转换而来。
 
 
-**Dell Streak 5**（曾名為Dell Mini 5）是[美國電腦商](https://zh.wikipedia.org/wiki/美國 "wikilink")[戴爾](../Page/戴爾.md "wikilink")推出的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")/[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink") [Android](../Page/Android.md "wikilink") [操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，2010年6月4日推出，2011年8月15日起停止出售。
+**Dell Streak 5**（曾名為Dell Mini 5）是[美國電腦商](https://zh.wikipedia.org/wiki/美國 "wikilink")[戴爾](../Page/戴爾.md "wikilink")推出的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")/[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink") [Android](https://zh.wikipedia.org/wiki/Android "wikilink") [操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，2010年6月4日推出，2011年8月15日起停止出售。
 
 ## 硬件
 

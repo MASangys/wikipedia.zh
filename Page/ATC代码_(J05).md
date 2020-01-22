@@ -97,7 +97,7 @@
 ### J05AX 其它抗病毒药（Other antivirals）
 
   -
-    J05AX01 [吗啉胍](../Page/吗啉胍.md "wikilink")（Moroxydine）
+    J05AX01 [吗啉胍](https://zh.wikipedia.org/wiki/吗啉胍 "wikilink")（Moroxydine）
     J05AX02 [溶菌酶](../Page/溶菌酶.md "wikilink")（Lysozyme）
     J05AX05 [异丙肌苷](https://zh.wikipedia.org/wiki/异丙肌苷 "wikilink")（Inosine pranobex）
     J05AX06 [普拉康纳利](https://zh.wikipedia.org/wiki/普拉康纳利 "wikilink")（Pleconaril）

@@ -15,7 +15,7 @@ Sony Xperia J具備4吋屏幕，解像度為FWVGA。採用[Snapdragon](https://z
 
 ## 作業系統
 
-Xperia J採用[Android](../Page/Android.md "wikilink") 4.0.4 Ice Cream Sandwich作業系統。現已可升級至[Android](../Page/Android.md "wikilink") 4.1.2 Jelly Bean作業系統。
+Xperia J採用[Android](https://zh.wikipedia.org/wiki/Android "wikilink") 4.0.4 Ice Cream Sandwich作業系統。現已可升級至[Android](https://zh.wikipedia.org/wiki/Android "wikilink") 4.1.2 Jelly Bean作業系統。
 
 ## 顏色
 
@@ -39,7 +39,7 @@ Xperia J採用[Android](../Page/Android.md "wikilink") 4.0.4 Ice Cream Sandwich�
 ## 參見
 
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
-  - [Xperia](../Page/Xperia.md "wikilink")
+  - [Xperia](https://zh.wikipedia.org/wiki/Xperia "wikilink")
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
 

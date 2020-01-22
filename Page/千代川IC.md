@@ -36,7 +36,7 @@
 ## 鄰近設施
 
   - [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")
-    [大井IC](../Page/大井IC.md "wikilink") - **千代川IC** - [八木東IC](../Page/八木東IC.md "wikilink")
+    [大井IC](https://zh.wikipedia.org/wiki/大井IC "wikilink") - **千代川IC** - [八木東IC](https://zh.wikipedia.org/wiki/八木東IC "wikilink")
 
 ## 相關項目
 

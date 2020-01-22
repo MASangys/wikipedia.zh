@@ -98,7 +98,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/青雉" title="wikilink">青雉</a></p></td>
-<td><p><a href="../Page/子安武人.md" title="wikilink">子安武人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/子安武人" title="wikilink">子安武人</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="even">
@@ -123,7 +123,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#阿鶴" title="wikilink">鶴中將</a></p></td>
-<td><p><a href="../Page/松島實.md" title="wikilink">松島實</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松島實" title="wikilink">松島實</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="odd">
@@ -248,7 +248,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
     聲優：[廣瀨正志](../Page/廣瀨正志.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     住在船鎢島的老人，他原本是個海賊，退休後成為船匠並經營造船公司 「」事務所，負責租借與修理船隻服務，肩上的鸚鵡名叫布爾特。
   -
-    聲優：[渡邊久美子](../Page/渡邊久美子.md "wikilink")（日本）；[劉如蘋](../Page/劉如蘋.md "wikilink")（台灣）
+    聲優：[渡邊久美子](https://zh.wikipedia.org/wiki/渡邊久美子 "wikilink")（日本）；[劉如蘋](../Page/劉如蘋.md "wikilink")（台灣）
     住在船鎢島的小孩，莫布斯通的孫子，夢想成為一名英雄。
   -
     聲優：[加藤綾子](../Page/加藤綾子.md "wikilink")（日本）；[劉如蘋](../Page/劉如蘋.md "wikilink")（台灣）
@@ -279,9 +279,9 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 
 ### 音樂
 
-本作電影的主題曲有兩首，分別是[五分錢合唱團](../Page/五分錢合唱團.md "wikilink")的《How You Remind Me》和[瓊·傑特](../Page/瓊·傑特.md "wikilink")的《Bad Reputation》，至於這兩首本作都是由著名加拿大的搖滾歌手[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")所負責翻唱\[21\]\[22\]。艾薇兒也同意為本作電影演唱此歌曲\[23\]，在原作者尾田榮一郎在聽到艾薇兒翻唱的《How You Remind Me》\[24\]後，尾田向艾薇兒發了一封感謝信，表示《Bad Reputation》\[25\]這首歌相當能表現出主角們積極而不畏艱難的態度，最適合作為航海王的主題曲，而《How You Remind Me》更是讓人印象深刻。
+本作電影的主題曲有兩首，分別是[五分錢合唱團](../Page/五分錢合唱團.md "wikilink")的《How You Remind Me》和[瓊·傑特的](https://zh.wikipedia.org/wiki/瓊·傑特 "wikilink")《Bad Reputation》，至於這兩首本作都是由著名加拿大的搖滾歌手[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")所負責翻唱\[21\]\[22\]。艾薇兒也同意為本作電影演唱此歌曲\[23\]，在原作者尾田榮一郎在聽到艾薇兒翻唱的《How You Remind Me》\[24\]後，尾田向艾薇兒發了一封感謝信，表示《Bad Reputation》\[25\]這首歌相當能表現出主角們積極而不畏艱難的態度，最適合作為航海王的主題曲，而《How You Remind Me》更是讓人印象深刻。
 
-插曲為《海導》（大海的指引）由[铃木收作詞](https://zh.wikipedia.org/wiki/铃木收 "wikilink")、[田中公平](../Page/田中公平.md "wikilink")作曲，在本作由飾演「Z」的[大塚芳忠](../Page/大塚芳忠.md "wikilink")和飾演「青雉」的[子安武人](../Page/子安武人.md "wikilink")所演唱。這是一首貫穿了整齣電影，這是一首送別離世海軍的歌，這首哀傷的歌曲為本作故事塑造了悲怨的氣氛。
+插曲為《海導》（大海的指引）由[铃木收作詞](https://zh.wikipedia.org/wiki/铃木收 "wikilink")、[田中公平](../Page/田中公平.md "wikilink")作曲，在本作由飾演「Z」的[大塚芳忠](../Page/大塚芳忠.md "wikilink")和飾演「青雉」的[子安武人所演唱](https://zh.wikipedia.org/wiki/子安武人 "wikilink")。這是一首貫穿了整齣電影，這是一首送別離世海軍的歌，這首哀傷的歌曲為本作故事塑造了悲怨的氣氛。
 
 ### 配音
 
@@ -435,7 +435,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 </tr>
 <tr class="even">
 <td><p>青雉</p></td>
-<td><p><a href="../Page/子安武人.md" title="wikilink">子安武人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/子安武人" title="wikilink">子安武人</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>黃猿</p></td>
@@ -455,7 +455,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 </tr>
 <tr class="odd">
 <td><p>阿鶴</p></td>
-<td><p><a href="../Page/松島實.md" title="wikilink">松島實</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松島實" title="wikilink">松島實</a></p></td>
 </tr>
 <tr class="even">
 <td><p>克比</p></td>
@@ -471,7 +471,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 </tr>
 <tr class="odd">
 <td><p>克里</p></td>
-<td><p><a href="../Page/渡邊久美子.md" title="wikilink">渡邊久美子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡邊久美子" title="wikilink">渡邊久美子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>布丁</p></td>
@@ -779,7 +779,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 
 ## 電視播放
 
-日本地區於2014年1月18日在「週六PREMIUM」時段在電視上初次播放本作電影\[50\]。於《[ONE PIECE FILM GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》上映前一天（2016年7月22日）的「週五PREMIUM」時段第二次播放此電影\[51\]。
+日本地區於2014年1月18日在「週六PREMIUM」時段在電視上初次播放本作電影\[50\]。於《[ONE PIECE FILM GOLD](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD "wikilink")》上映前一天（2016年7月22日）的「週五PREMIUM」時段第二次播放此電影\[51\]。
 
 ### 收視率
 

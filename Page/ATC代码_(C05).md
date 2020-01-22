@@ -7,8 +7,8 @@
 
   -
     C05AA01 [氢化可的松](https://zh.wikipedia.org/wiki/氢化可的松 "wikilink")（Hydrocortisone）
-    C05AA04 [泼尼松龙](../Page/泼尼松龙.md "wikilink")（Prednisolone）
-    C05AA05 [倍他米松](../Page/倍他米松.md "wikilink")（Betamethasone）
+    C05AA04 [泼尼松龙](https://zh.wikipedia.org/wiki/泼尼松龙 "wikilink")（Prednisolone）
+    C05AA05 [倍他米松](https://zh.wikipedia.org/wiki/倍他米松 "wikilink")（Betamethasone）
     C05AA06 [氟米龙](https://zh.wikipedia.org/wiki/氟米龙 "wikilink")（Fluorometholone）
     C05AA08 [氟可龙](https://zh.wikipedia.org/wiki/氟可龙 "wikilink")（Fluocortolone）
     C05AA09 [地塞米松](../Page/地塞米松.md "wikilink")（Dexamethasone）

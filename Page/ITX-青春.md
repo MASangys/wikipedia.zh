@@ -15,11 +15,11 @@
 
 [中央線](https://zh.wikipedia.org/wiki/中央線 "wikilink")，[京春線](https://zh.wikipedia.org/wiki/京春線 "wikilink") [龍山站](https://zh.wikipedia.org/wiki/龍山站 "wikilink") - [春川站](../Page/春川站.md "wikilink")
 
-[龍山](https://zh.wikipedia.org/wiki/龍山站_\(首爾\) "wikilink") - [玉水](https://zh.wikipedia.org/wiki/玉水站 "wikilink") - [往十里](../Page/往十里站.md "wikilink") - [清涼里](https://zh.wikipedia.org/wiki/清涼里站 "wikilink") - [上鳳](https://zh.wikipedia.org/wiki/上鳳站 "wikilink") - [退溪院](../Page/退溪院站.md "wikilink") - [思陵](../Page/思陵站.md "wikilink") - [坪內好坪](https://zh.wikipedia.org/wiki/坪內好坪站 "wikilink") - [磨石](../Page/磨石站.md "wikilink") - [清平](../Page/清平站_\(韓國\).md "wikilink") - [加平](../Page/加平站.md "wikilink") - [江村](../Page/江村站_\(江原道\).md "wikilink") - [南春川](../Page/南春川站.md "wikilink") - [春川](../Page/春川站.md "wikilink")
+[龍山](https://zh.wikipedia.org/wiki/龍山站_\(首爾\) "wikilink") - [玉水](https://zh.wikipedia.org/wiki/玉水站 "wikilink") - [往十里](../Page/往十里站.md "wikilink") - [清涼里](https://zh.wikipedia.org/wiki/清涼里站 "wikilink") - [上鳳](https://zh.wikipedia.org/wiki/上鳳站 "wikilink") - [退溪院](../Page/退溪院站.md "wikilink") - [思陵](../Page/思陵站.md "wikilink") - [坪內好坪](https://zh.wikipedia.org/wiki/坪內好坪站 "wikilink") - [磨石](../Page/磨石站.md "wikilink") - [清平](../Page/清平站_\(韓國\).md "wikilink") - [加平](https://zh.wikipedia.org/wiki/加平站 "wikilink") - [江村](https://zh.wikipedia.org/wiki/江村站_\(江原道\) "wikilink") - [南春川](../Page/南春川站.md "wikilink") - [春川](../Page/春川站.md "wikilink")
 
 [京釜線](../Page/京釜線.md "wikilink") [龍山站](https://zh.wikipedia.org/wiki/龍山站 "wikilink") - [大田站](https://zh.wikipedia.org/wiki/大田站 "wikilink")
 
-[龍山](https://zh.wikipedia.org/wiki/龍山站_\(首爾\) "wikilink") - [鷺梁津](../Page/鷺梁津站.md "wikilink") - [新道林](../Page/新道林站.md "wikilink") - [水原](https://zh.wikipedia.org/wiki/水原站 "wikilink") - [平澤](https://zh.wikipedia.org/wiki/平澤站 "wikilink") - [天安](../Page/天安站.md "wikilink") - [烏致院](https://zh.wikipedia.org/wiki/烏致院站 "wikilink") - [大田](https://zh.wikipedia.org/wiki/大田站 "wikilink")
+[龍山](https://zh.wikipedia.org/wiki/龍山站_\(首爾\) "wikilink") - [鷺梁津](../Page/鷺梁津站.md "wikilink") - [新道林](../Page/新道林站.md "wikilink") - [水原](https://zh.wikipedia.org/wiki/水原站 "wikilink") - [平澤](https://zh.wikipedia.org/wiki/平澤站 "wikilink") - [天安](https://zh.wikipedia.org/wiki/天安站 "wikilink") - [烏致院](https://zh.wikipedia.org/wiki/烏致院站 "wikilink") - [大田](https://zh.wikipedia.org/wiki/大田站 "wikilink")
 
 ## 参见
 

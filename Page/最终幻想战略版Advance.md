@@ -145,7 +145,7 @@
 
 ### 原声大碟
 
-《最终幻想战略版Advance》的原声大碟专辑《Final Fantasy Tactics Advance Original Soundtrack》由[DigiCube](../Page/DigiCube.md "wikilink")唱片公司于2003年2月19日发行；专辑配有两张CD一共收录了74首曲目，全长2：05：27。第一张收录的是游戏中出现的全部音乐，总共42首曲目；但采用了近似[Game Boy Advance产生的音质效果](../Page/Game_Boy_Advance.md "wikilink")。第二张收录的曲目是从游戏中全部42首中精选出的32首，并且音质为原生音质而非第一张碟的GBA音质。\[36\]
+《最终幻想战略版Advance》的原声大碟专辑《Final Fantasy Tactics Advance Original Soundtrack》由[DigiCube唱片公司于](https://zh.wikipedia.org/wiki/DigiCube "wikilink")2003年2月19日发行；专辑配有两张CD一共收录了74首曲目，全长2：05：27。第一张收录的是游戏中出现的全部音乐，总共42首曲目；但采用了近似[Game Boy Advance产生的音质效果](../Page/Game_Boy_Advance.md "wikilink")。第二张收录的曲目是从游戏中全部42首中精选出的32首，并且音质为原生音质而非第一张碟的GBA音质。\[36\]
 
 本张专辑的产品目录号为SSCX-10083-4\[37\]以及 SQEX-10070-1（再版）。
 
@@ -677,23 +677,23 @@
 
 ### 广播剧
 
-《最终幻想战略版Advance》还制作了一部仅供日本地区的同名[广播剧](https://zh.wikipedia.org/wiki/广播剧 "wikilink")。剧中故事大部分是游戏的情节，也有部分改动。从2003年1月4日起至3月29日，该剧在[TOKYO FM的](https://zh.wikipedia.org/wiki/FM东京 "wikilink")『RADIO MAGAZINE WHAT'S IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放。\[54\]该剧集还由[DigiCube](../Page/DigiCube.md "wikilink")推出了CD套装，一共4张CD。\[55\]
+《最终幻想战略版Advance》还制作了一部仅供日本地区的同名[广播剧](https://zh.wikipedia.org/wiki/广播剧 "wikilink")。剧中故事大部分是游戏的情节，也有部分改动。从2003年1月4日起至3月29日，该剧在[TOKYO FM的](https://zh.wikipedia.org/wiki/FM东京 "wikilink")『RADIO MAGAZINE WHAT'S IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放。\[54\]该剧集还由[DigiCube推出了CD套装](https://zh.wikipedia.org/wiki/DigiCube "wikilink")，一共4张CD。\[55\]
 
 **声优名单**
 
   - [今井由香](../Page/今井由香.md "wikilink") 饰 马修·拉德吉（マーシュ・ラディウユ，Marche Radiuju）
   - [冰青](../Page/冰青.md "wikilink") 饰 梦布兰（モンブラン，Montblanc）
   - [嘉數由美](../Page/嘉數由美.md "wikilink") 饰 丽滋·马卢尔（リッツ・マルール，Ritz Malheur）
-  - [神田理江](../Page/神田理江.md "wikilink") 饰 莎拉（シャアラ，Shara）
+  - [神田理江](https://zh.wikipedia.org/wiki/神田理江 "wikilink") 饰 莎拉（シャアラ，Shara）
   - [真田麻美](../Page/真田麻美.md "wikilink") 饰 谬特·兰德尔（ミュート・ランデル，Mewt Randell）
   - [佐久間紅美](../Page/佐久間紅美.md "wikilink") 饰 巴布兹·斯艾因（バブズ·スエイン，Babus Swain）
-  - [城雅子](../Page/城雅子.md "wikilink") 饰 诺诺（ノノ，Nono）
-  - [高木涉](../Page/高木涉.md "wikilink") 饰 艾泽尔·巴尔比艾（エゼル·バルビエ，Ezel Berbier）
+  - [城雅子](https://zh.wikipedia.org/wiki/城雅子 "wikilink") 饰 诺诺（ノノ，Nono）
+  - [高木涉](https://zh.wikipedia.org/wiki/高木涉 "wikilink") 饰 艾泽尔·巴尔比艾（エゼル·バルビエ，Ezel Berbier）
   - [加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink") 饰 希德·兰德尔（シド·ランデル，Cid Randell）
   - [石川寛美](https://zh.wikipedia.org/wiki/石川寛美 "wikilink") 饰 德奈特·拉德吉（ドネッド・ラディウユ，Doned Radiujuu）
   - [緑川光](https://zh.wikipedia.org/wiki/緑川光 "wikilink") 饰 雷那多·托艾姆（レドナ·トェム，Llednar Twem）
   - [榊原良子](../Page/榊原良子.md "wikilink") 饰 雷梦迪女王（女王レメディ，Queen Remedi）
-  - [真殿光昭](../Page/真殿光昭.md "wikilink") 饰 范伊夫利特（暗闇の雲ファムフリート，Famfrit）
+  - [真殿光昭](https://zh.wikipedia.org/wiki/真殿光昭 "wikilink") 饰 范伊夫利特（暗闇の雲ファムフリート，Famfrit）
   - [幸田夏穂](https://zh.wikipedia.org/wiki/幸田夏穂 "wikilink") 饰 奥特玛（堕天使アルテマ，Ultema）
   - [森川智之](../Page/森川智之.md "wikilink") 饰 亚德米勒斯（憤怒の霊帝アドラメレク，Adrammelech）
 

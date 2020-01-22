@@ -1,7 +1,7 @@
 > 本文内容由[華碩Eee Pad Transformer](https://zh.wikipedia.org/wiki/華碩Eee_Pad_Transformer)转换而来。
 
 
-**华硕Eee Pad Transformer**是[台灣電腦廠商](https://zh.wikipedia.org/wiki/台灣 "wikilink")[華碩](../Page/華碩.md "wikilink")生產的[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink")[Android](../Page/Android.md "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，於[CES](https://zh.wikipedia.org/wiki/CES "wikilink")2011發表，2011年3月30日推出。
+**华硕Eee Pad Transformer**是[台灣電腦廠商](https://zh.wikipedia.org/wiki/台灣 "wikilink")[華碩](../Page/華碩.md "wikilink")生產的[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink")[Android](https://zh.wikipedia.org/wiki/Android "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，於[CES](https://zh.wikipedia.org/wiki/CES "wikilink")2011發表，2011年3月30日推出。
 
 华硕Eee Pad Transformer以「[變形金剛](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")」為名稱，因其附設一個另購的[鍵盤底座配件](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")，提供全尺寸[QWERTY鍵盤及觸控版](https://zh.wikipedia.org/wiki/QWERTY "wikilink")，接上後平板電腦在外型及功能上就如變身為一部[Netbook](https://zh.wikipedia.org/wiki/Netbook "wikilink")。\[1\]
 

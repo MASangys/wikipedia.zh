@@ -1,7 +1,7 @@
 > 本文内容由[啊 \(Superfly單曲\)](https://zh.wikipedia.org/wiki/啊_\(Superfly單曲\))转换而来。
 
 
-《**啊**》（）為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Superfly.md "wikilink")於2011年6月29日發行的13th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+《**啊**》（）為[日本](../Page/日本.md "wikilink")歌手[Superfly於](https://zh.wikipedia.org/wiki/Superfly "wikilink")2011年6月29日發行的13th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 

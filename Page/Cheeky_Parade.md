@@ -7,7 +7,7 @@
 
 Cheeky Parade是從[愛貝克思集團在](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")2010年創立的偶像專屬品牌[iDOL Street之中](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")，選出9位出道候補成員（又稱「Street生」）所組成的團體。在2012年2月9日於 [Shibuya O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink") 舉辦的「」演唱會中宣布正式成立。\[1\]\[2\]\[3\]。以華麗大膽的舞蹈表演與服裝為團體的基本概念。與日本[澀谷](../Page/澀谷.md "wikilink")[109百貨](../Page/109百貨.md "wikilink")裡的品牌「JSG」合作的打歌服是特色之一。
 
-在2012年9月22日的「」上宣布將在2013年1月正式出道\[4\]，是繼同公司的[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")第二個正式出道的團體。
+在2012年9月22日的「」上宣布將在2013年1月正式出道\[4\]，是繼同公司的[SUPER☆GiRLS第二個正式出道的團體](https://zh.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")。
 
 2018年4月12日宣佈將會於7月31日解散。
 
@@ -165,7 +165,7 @@ a-nation'07 舞者</p></td>
 <td></td>
 <td><p>2期追加</p></td>
 <td><p>-</p></td>
-<td><p>姐姐是前 <a href="../Page/NMB48.md" title="wikilink">NMB48</a> team M 成員<a href="https://zh.wikipedia.org/wiki/小鷹狩佑香" title="wikilink">小鷹狩佑香</a><br />
+<td><p>姐姐是前 <a href="https://zh.wikipedia.org/wiki/NMB48" title="wikilink">NMB48</a> team M 成員<a href="https://zh.wikipedia.org/wiki/小鷹狩佑香" title="wikilink">小鷹狩佑香</a><br />
 的前成員</p></td>
 </tr>
 <tr class="odd">
@@ -562,9 +562,9 @@ AVBD-39083</p></td>
 
 ### 手機應用程式
 
-  - （2012年4月4日 - ，[Android](../Page/Android.md "wikilink")）
+  - （2012年4月4日 - ，[Android](https://zh.wikipedia.org/wiki/Android "wikilink")）
 
-  - （2012年4月27日 - ，僅[功能型手機](../Page/功能型手機.md "wikilink")）
+  - （2012年4月27日 - ，僅[功能型手機](https://zh.wikipedia.org/wiki/功能型手機 "wikilink")）
 
 ## 書籍・出版物
 
@@ -592,7 +592,7 @@ AVBD-39083</p></td>
 ## 相關條目
 
   - [iDOL Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")
-  - [SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")
+  - [SUPER☆GiRLS](https://zh.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")
 
 ## 外部連結
 

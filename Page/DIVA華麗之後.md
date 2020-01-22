@@ -20,7 +20,7 @@
   - [陳家樂](../Page/陳家樂_\(藝人\).md "wikilink") 飾 樂
   - [劉浩龍](../Page/劉浩龍.md "wikilink") 飾 南
   - [冼色麗](../Page/冼色麗.md "wikilink") 飾 曼莉
-  - [王敏奕](../Page/王敏奕.md "wikilink") 飾 Gennie
+  - [王敏奕](https://zh.wikipedia.org/wiki/王敏奕 "wikilink") 飾 Gennie
 
 ## 特別客串
 

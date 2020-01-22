@@ -7,7 +7,7 @@
 
 ## 歷史
 
-該水源地的發現歷史超過一千年。\[8\]考古學家在該地發現的七個大石制浴缸可追溯至公元七世紀，證實该水源的使用歷史，最初可能作洗浴用水。\[9\] 1820年，[俄羅斯帝國軍隊發現Borjomi泉水](https://zh.wikipedia.org/wiki/俄羅斯帝國 "wikilink")，使[博爾若米成為旅遊勝地](https://zh.wikipedia.org/wiki/博爾若米 "wikilink")。Borjomi品牌的歷史與[罗曼诺夫王朝](../Page/罗曼诺夫王朝.md "wikilink")歷史息息相關。 [1917年俄国革命](../Page/1917年俄国革命.md "wikilink")及[蘇聯入侵格魯吉亞戰爭後](https://zh.wikipedia.org/wiki/蘇聯入侵格魯吉亞 "wikilink"), Borjomi被國有化，並作為蘇聯的出口商品。\[10\]
+該水源地的發現歷史超過一千年。\[8\]考古學家在該地發現的七個大石制浴缸可追溯至公元七世紀，證實该水源的使用歷史，最初可能作洗浴用水。\[9\] 1820年，[俄羅斯帝國軍隊發現Borjomi泉水](https://zh.wikipedia.org/wiki/俄羅斯帝國 "wikilink")，使[博爾若米成為旅遊勝地](https://zh.wikipedia.org/wiki/博爾若米 "wikilink")。Borjomi品牌的歷史與[罗曼诺夫王朝](../Page/罗曼诺夫王朝.md "wikilink")歷史息息相關。 [1917年俄国革命及](https://zh.wikipedia.org/wiki/1917年俄国革命 "wikilink")[蘇聯入侵格魯吉亞戰爭後](https://zh.wikipedia.org/wiki/蘇聯入侵格魯吉亞 "wikilink"), Borjomi被國有化，並作為蘇聯的出口商品。\[10\]
 
 ## 包装
 

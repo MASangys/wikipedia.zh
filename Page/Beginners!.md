@@ -11,11 +11,11 @@
 
 **S Class**和**桜庭教場**的通称。
 
-  - 志村 徹平 (18) - [藤谷太輔](../Page/藤谷太輔.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）
-    立花 団司 (18) - [北山宏光](../Page/北山宏光.md "wikilink")（Kis-My-Ft2）
+  - 志村 徹平 (18) - [藤谷太輔](https://zh.wikipedia.org/wiki/藤谷太輔 "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）
+    立花 団司 (18) - [北山宏光](https://zh.wikipedia.org/wiki/北山宏光 "wikilink")（Kis-My-Ft2）
     桃江 比呂 (18) - [剛力彩芽](../Page/剛力彩芽.md "wikilink")
     山根 省吾 (18) - [柄本時生](../Page/柄本時生.md "wikilink")（幼少期：[土屋楓](https://zh.wikipedia.org/wiki/土屋楓 "wikilink")）
-    杉山 清貴 (25) - [小柳友](../Page/小柳友.md "wikilink")
+    杉山 清貴 (25) - [小柳友](https://zh.wikipedia.org/wiki/小柳友 "wikilink")
     石岡 太一 (22) - [石井智也](https://zh.wikipedia.org/wiki/石井智也 "wikilink")
     恩田 雄一 (18) - [森廉](https://zh.wikipedia.org/wiki/森廉 "wikilink")
     新島 千晶 (19) - [岡本あずさ](https://zh.wikipedia.org/wiki/岡本あずさ "wikilink")
@@ -31,7 +31,7 @@
 
 ### S Class關係者
 
-  - 志村 真夏 (16) - [森高愛](../Page/森高愛.md "wikilink")
+  - 志村 真夏 (16) - [森高愛](https://zh.wikipedia.org/wiki/森高愛 "wikilink")
     志村 恭一郎 (50) - [国広富之](https://zh.wikipedia.org/wiki/国広富之 "wikilink")
     福田 清志 (40) - [柳沢慎吾](https://zh.wikipedia.org/wiki/柳沢慎吾 "wikilink")
     福田 顕子 - [松永玲子](https://zh.wikipedia.org/wiki/松永玲子 "wikilink")

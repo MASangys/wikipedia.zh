@@ -1,7 +1,7 @@
 > 本文内容由[Big](https://zh.wikipedia.org/wiki/Big)转换而来。
 
 
-《**Big**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2012年6月4日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，由[孔劉](../Page/孔劉.md "wikilink")、[申原昊](../Page/申原昊.md "wikilink")及[李珉廷](../Page/李珉廷.md "wikilink")主演，《[原來是美男](https://zh.wikipedia.org/wiki/原來是美男 "wikilink")》、《[最佳愛情](../Page/最佳愛情.md "wikilink")》等劇的洪氏姐妹（[洪貞恩](https://zh.wikipedia.org/wiki/洪貞恩 "wikilink")、[洪美蘭](https://zh.wikipedia.org/wiki/洪美蘭 "wikilink")）與《[熱血生意人](../Page/熱血生意人.md "wikilink")》[池秉賢導演合作打造](https://zh.wikipedia.org/wiki/池秉賢 "wikilink")，其創作靈感源自於[汤姆·汉克斯](../Page/汤姆·汉克斯.md "wikilink")主演的同名電影《[飛進未來](../Page/飛進未來.md "wikilink")》（-{Big}-）。[孔劉](../Page/孔劉.md "wikilink")繼《[咖啡王子1號店](../Page/咖啡王子1號店.md "wikilink")》後時隔5年回歸電視劇場，在劇中同時展現中年和少年、醫生和高中生、完美男和叛逆學生的面貌。
+《**Big**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2012年6月4日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，由[孔劉](../Page/孔劉.md "wikilink")、[申原昊](../Page/申原昊.md "wikilink")及[李珉廷](../Page/李珉廷.md "wikilink")主演，《[原來是美男](https://zh.wikipedia.org/wiki/原來是美男 "wikilink")》、《[最佳愛情](https://zh.wikipedia.org/wiki/最佳愛情 "wikilink")》等劇的洪氏姐妹（[洪貞恩](https://zh.wikipedia.org/wiki/洪貞恩 "wikilink")、[洪美蘭](https://zh.wikipedia.org/wiki/洪美蘭 "wikilink")）與《[熱血生意人](../Page/熱血生意人.md "wikilink")》[池秉賢導演合作打造](https://zh.wikipedia.org/wiki/池秉賢 "wikilink")，其創作靈感源自於[汤姆·汉克斯](../Page/汤姆·汉克斯.md "wikilink")主演的同名電影《[飛進未來](../Page/飛進未來.md "wikilink")》（-{Big}-）。[孔劉](../Page/孔劉.md "wikilink")繼《[咖啡王子1號店](../Page/咖啡王子1號店.md "wikilink")》後時隔5年回歸電視劇場，在劇中同時展現中年和少年、醫生和高中生、完美男和叛逆學生的面貌。
 
 ## 劇情介紹
 
@@ -77,7 +77,7 @@
 <p>18</p></td>
 <td><p>景俊媽媽在美國幾乎要結婚的男人的女兒，差點和景俊成為家人。對景俊的事瞭若指掌，自稱是景俊靈魂的另一半，因為喜歡他誓死反對這樁婚事。</p></td>
 <td><center>
-<p><a href="../Page/陳皓宜.md" title="wikilink">陳皓宜</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳皓宜" title="wikilink">陳皓宜</a></p></td>
 <td><center>
 <p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
@@ -132,7 +132,7 @@
 <td><center>
 <p><a href="../Page/陳欣_(配音員).md" title="wikilink">陳欣</a></p></td>
 <td><center>
-<p><a href="../Page/黃天佑.md" title="wikilink">黃天佑</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃天佑" title="wikilink">黃天佑</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -275,7 +275,7 @@
 <td><center>
 <p><a href="../Page/蕭徽勇.md" title="wikilink">蕭徽勇</a></p></td>
 <td><center>
-<p><a href="../Page/黃天佑.md" title="wikilink">黃天佑</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃天佑" title="wikilink">黃天佑</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -295,7 +295,7 @@
 <p>李愛京</p></td>
 <td><p>與多蘭大學同期的教師同事，是被提前合格任用的女老師。超羨慕能嫁到好-{}-人家的多蘭，一直給她施加壓力，讓其給自己介紹潤財的朋友。</p></td>
 <td><center>
-<p><a href="../Page/余欣沛.md" title="wikilink">余欣沛</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/余欣沛" title="wikilink">余欣沛</a></p></td>
 <td><center>
 <p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
 </tr>
@@ -343,12 +343,12 @@
 <p>巫師</p></td>
 <td><p>惡搞《<a href="../Page/擁抱太陽的月亮.md" title="wikilink">擁抱太陽的月亮</a>》橋段</p></td>
 <td><center>
-<p><a href="../Page/黃淑芬.md" title="wikilink">黃淑芬</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃淑芬" title="wikilink">黃淑芬</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/尹朱尚.md" title="wikilink">尹朱尚</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/尹朱尚" title="wikilink">尹朱尚</a></p></td>
 <td><center>
 <p>朴民奎</p></td>
 <td><p>美術大學教授</p></td>

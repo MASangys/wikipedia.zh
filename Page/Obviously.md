@@ -1,7 +1,7 @@
 > 本文内容由[Obviously](https://zh.wikipedia.org/wiki/Obviously)转换而来。
 
 
-《**Obviously**》是英國流行搖滾樂隊小飛俠的首張專輯《[Room on the 3rd Floor](../Page/Room_on_the_3rd_Floor.md "wikilink")》的第二張單曲。本單曲專輯包含了披頭四的單曲《[Help\!](../Page/Help!.md "wikilink")》的翻唱版本，以及樂隊的第一次錄製採訪。這首歌榮登英國單曲榜第一，停留一週。在愛爾蘭單曲榜中排行第十四。
+《**Obviously**》是英國流行搖滾樂隊小飛俠的首張專輯《[Room on the 3rd Floor](https://zh.wikipedia.org/wiki/Room_on_the_3rd_Floor "wikilink")》的第二張單曲。本單曲專輯包含了披頭四的單曲《[Help\!](../Page/Help!.md "wikilink")》的翻唱版本，以及樂隊的第一次錄製採訪。這首歌榮登英國單曲榜第一，停留一週。在愛爾蘭單曲榜中排行第十四。
 
 ## 歌詞
 

@@ -13,7 +13,7 @@ WebQQ 1.7 之前版本并不支持[IE以外的](https://zh.wikipedia.org/wiki/IE
 
 ### WebQQ Mini
 
-WebQQ 1.5 发布不久后，腾讯推出了WebQQ Mini，此版本仅有文字聊天功能。在[3Q大战中](../Page/奇虎360与腾讯QQ争斗事件.md "wikilink")，此版本是唯一没有被临时关闭的WebQQ服务，同样，各种升级也没有应用到WebQQ Mini上。2012年，腾讯关闭了此项服务。
+WebQQ 1.5 发布不久后，腾讯推出了WebQQ Mini，此版本仅有文字聊天功能。在[3Q大战中](https://zh.wikipedia.org/wiki/奇虎360与腾讯QQ争斗事件 "wikilink")，此版本是唯一没有被临时关闭的WebQQ服务，同样，各种升级也没有应用到WebQQ Mini上。2012年，腾讯关闭了此项服务。
 
 ### WebQQ 2.0
 
@@ -37,7 +37,7 @@ WebQQ 1.5 发布不久后，腾讯推出了WebQQ Mini，此版本仅有文字聊
 
 ## 争议
 
-WebQQ 2.0刚上市时提供登录[Gmail](../Page/Gmail.md "wikilink")的功能。网友发现若使用此功能登录Gmail，Gmail的帐号密码会被发送到腾讯的一个服务器。不到半小时后，WebQQ 2.0中的Gmail模块已经在[Firefox](../Page/Firefox.md "wikilink")和[Chrome浏览器中被举报为欺诈网站](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")。很快，腾讯移除了此功能。\[4\]
+WebQQ 2.0刚上市时提供登录[Gmail](../Page/Gmail.md "wikilink")的功能。网友发现若使用此功能登录Gmail，Gmail的帐号密码会被发送到腾讯的一个服务器。不到半小时后，WebQQ 2.0中的Gmail模块已经在[Firefox和](https://zh.wikipedia.org/wiki/Firefox "wikilink")[Chrome浏览器中被举报为欺诈网站](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")。很快，腾讯移除了此功能。\[4\]
 
 ## 参考资料
 

@@ -1,7 +1,7 @@
 > 本文内容由[索尼Tablet](https://zh.wikipedia.org/wiki/索尼Tablet)转换而来。
 
 
-**Sony Tablet**是[索尼](../Page/索尼.md "wikilink")旗下的[平板電腦](../Page/平板電腦.md "wikilink")品牌，搭載[Android](../Page/Android.md "wikilink")作業系統。\[1\]\[2\]
+**Sony Tablet**是[索尼](../Page/索尼.md "wikilink")旗下的[平板電腦](../Page/平板電腦.md "wikilink")品牌，搭載[Android作業系統](https://zh.wikipedia.org/wiki/Android "wikilink")。\[1\]\[2\]
 
 ## 歷史
 
@@ -41,7 +41,7 @@
 <td><p>純平板型</p></td>
 <td><p>511萬畫素</p></td>
 <td><p>31萬畫素</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 4.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Android" title="wikilink">Android</a> 4.0</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Sony_Tablet_P.md" title="wikilink">Sony Tablet P</a></p></td>
@@ -54,7 +54,7 @@
 <td><p>摺疊平板</p></td>
 <td><p>511萬畫素</p></td>
 <td><p>31萬畫素</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 4.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Android" title="wikilink">Android</a> 4.0</p></td>
 </tr>
 </tbody>
 </table>

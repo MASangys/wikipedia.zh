@@ -10,7 +10,7 @@
 | 期數                  | 播出日期                                                  | 主持                                                                     |
 | ------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------- |
 | 1期                  | 2012年2月14日－12月25日                                     | [神童](../Page/神童_\(藝人\).md "wikilink")、[金信英](../Page/金信英.md "wikilink") |
-| 2期                  | 2013年1月30日 － 8月28日                                    | [𤨒晶](../Page/咸𤨒晶.md "wikilink")                                        |
+| 2期                  | 2013年1月30日 － 8月28日                                    | [𤨒晶](https://zh.wikipedia.org/wiki/咸𤨒晶 "wikilink")                     |
 | 2013年1月30日 － 12月18日 | [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink") |                                                                        |
 | 3期                  | 2014年1月8日 － 11月26日                                    | [強仁](../Page/強仁.md "wikilink")                                         |
 | 4期                  | 2015年1月21日 － 7月1日                                     | [道英](../Page/NCT.md "wikilink")、[在玹](../Page/NCT.md "wikilink")        |
@@ -24,19 +24,19 @@
 | 2012年7月17日      | [Lizzy](https://zh.wikipedia.org/wiki/Lizzy "wikilink")                                                                                                      |
 | 2012年9月11日      | [利特](../Page/利特.md "wikilink")                                                                                                                               |
 | 2012年9月18日      | [銀赫](../Page/銀赫.md "wikilink")                                                                                                                               |
-| 2013年3月6、20、27日 | [Luna](../Page/朴善英.md "wikilink")                                                                                                                            |
+| 2013年3月6、20、27日 | [Luna](https://zh.wikipedia.org/wiki/朴善英 "wikilink")                                                                                                         |
 | 2013年3月13日      | [大賢](https://zh.wikipedia.org/wiki/大賢 "wikilink")、[永才](https://zh.wikipedia.org/wiki/永才 "wikilink")                                                          |
 | 2013年9月4日       | [永才](https://zh.wikipedia.org/wiki/永才 "wikilink")、[力燦](https://zh.wikipedia.org/wiki/力燦 "wikilink")                                                          |
 | 2013年9月11日      | [俊英](https://zh.wikipedia.org/wiki/俊英 "wikilink")、[桐俊](https://zh.wikipedia.org/wiki/桐俊 "wikilink")                                                          |
-| 2013年9月18日      | [鎰勳](../Page/鄭鎰勳.md "wikilink")、[星材](../Page/陸星材.md "wikilink")                                                                                              |
+| 2013年9月18日      | [鎰勳](../Page/鄭鎰勳.md "wikilink")、[星材](https://zh.wikipedia.org/wiki/陸星材 "wikilink")                                                                           |
 | 2013年9月25日      | [白虎](../Page/姜東昊.md "wikilink")、[旼泫](https://zh.wikipedia.org/wiki/黃旼泫 "wikilink")                                                                           |
-| 2013年10月9－23日   | [Luna](../Page/朴善英.md "wikilink")                                                                                                                            |
-| 2013年12月18日     | [Xiumin](../Page/金珉錫.md "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")                                                                     |
+| 2013年10月9－23日   | [Luna](https://zh.wikipedia.org/wiki/朴善英 "wikilink")                                                                                                         |
+| 2013年12月18日     | [Xiumin](https://zh.wikipedia.org/wiki/金珉錫 "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")                                                  |
 | 2015年3月11日      | [齡智](../Page/許齡智.md "wikilink")                                                                                                                              |
 | 2015年8月5日       | [初瓏](../Page/朴初瓏.md "wikilink")、[夏榮](../Page/吳夏榮.md "wikilink")                                                                                              |
 | 2017年3月15日      | [世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[娜英](https://zh.wikipedia.org/wiki/gu9udan "wikilink") |
 | 2019年4月17日      | [洪碩](../Page/Pentagon_\(男子組合\).md "wikilink")、[Lee Know](https://zh.wikipedia.org/wiki/Lee_Know "wikilink")、[采源](../Page/金采源.md "wikilink")                  |
-| 2019年10月16日     | [佑鎮](../Page/朴佑鎮.md "wikilink")、[煐岷](../Page/林煐岷.md "wikilink")                                                                                              |
+| 2019年10月16日     | [佑鎮](../Page/朴佑鎮.md "wikilink")、[煐岷](https://zh.wikipedia.org/wiki/林煐岷 "wikilink")                                                                           |
 
 ## 評定基準
 
@@ -181,13 +181,13 @@
 **四月**
 
   - 04.03 - [SHINee](../Page/SHINee.md "wikilink")<sup>2nd</sup> - **Sherlock•셜록 (Clue + Note)**<sup>2nd</sup>
-  - 04.10 - [CNBLUE](../Page/CNBLUE.md "wikilink")<sup>1st</sup> - **Hey You**<sup>1st</sup>
+  - 04.10 - [CNBLUE](https://zh.wikipedia.org/wiki/CNBLUE "wikilink")<sup>1st</sup> - **Hey You**<sup>1st</sup>
   - 04.17 - [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")<sup>1st</sup> - **Volume Up**<sup>1st</sup>
   - 04.24 - [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")<sup>2nd</sup> - **Volume Up**<sup>2nd</sup>
 
 **五月**
 
-  - 05.01 - [SISTAR](../Page/SISTAR.md "wikilink")<sup>1st</sup> - **나 혼자 (Alone)**<sup>1st</sup>
+  - 05.01 - [SISTAR](https://zh.wikipedia.org/wiki/SISTAR "wikilink")<sup>1st</sup> - **나 혼자 (Alone)**<sup>1st</sup>
   - 05.08 - [TaeTiSeo](../Page/少女時代-太蒂徐.md "wikilink")<sup>1st</sup> - **Twinkle**<sup>1st</sup>
   - 05.15 - [TaeTiSeo](../Page/少女時代-太蒂徐.md "wikilink")<sup>2nd</sup> - **Twinkle**<sup>2nd</sup>
   - 05.22 - [TaeTiSeo](../Page/少女時代-太蒂徐.md "wikilink")<sup>3rd</sup> - **Twinkle**<sup>3rd</sup>
@@ -195,7 +195,7 @@
 
 **六月**
 
-  - 06.05 - [INFINITE](../Page/INFINITE.md "wikilink")<sup>1st</sup> - **추격자 (The Chaser)**<sup>1st</sup>
+  - 06.05 - [INFINITE](https://zh.wikipedia.org/wiki/INFINITE "wikilink")<sup>1st</sup> - **추격자 (The Chaser)**<sup>1st</sup>
   - 06.12 - [Wonder Girls](../Page/Wonder_Girls.md "wikilink")<sup>1st</sup> - **Like This**<sup>1st</sup>
   - 06.19 - [Wonder Girls](../Page/Wonder_Girls.md "wikilink")<sup>2nd</sup> - **Like This**<sup>2nd</sup>
   - 06.26 - [f(x)](../Page/F\(x\)_\(組合\).md "wikilink")<sup>1st</sup> - **Electric Shock**<sup>1st</sup>
@@ -221,12 +221,12 @@
 
 **一月**
 
-  - 01.30 - [CNBLUE](../Page/CNBLUE.md "wikilink")<sup>2nd</sup> - **I'm Sorry**<sup>1st</sup>
+  - 01.30 - [CNBLUE](https://zh.wikipedia.org/wiki/CNBLUE "wikilink")<sup>2nd</sup> - **I'm Sorry**<sup>1st</sup>
 
 **二月**
 
-  - 02.06 - [CNBLUE](../Page/CNBLUE.md "wikilink")<sup>3rd</sup> - **I'm Sorry**<sup>2nd</sup>
-  - 02.13 - [CNBLUE](../Page/CNBLUE.md "wikilink")<sup>4th</sup> - **I'm Sorry**<sup>3rd</sup>
+  - 02.06 - [CNBLUE](https://zh.wikipedia.org/wiki/CNBLUE "wikilink")<sup>3rd</sup> - **I'm Sorry**<sup>2nd</sup>
+  - 02.13 - [CNBLUE](https://zh.wikipedia.org/wiki/CNBLUE "wikilink")<sup>4th</sup> - **I'm Sorry**<sup>3rd</sup>
   - 02.20 - [SISTAR19](../Page/SISTAR19.md "wikilink")<sup>1st</sup> - **있다 없으니까 (Gone Not Around Any Longer)**<sup>1st</sup>
   - 02.27 - [SHINee](../Page/SHINee.md "wikilink")<sup>3rd</sup> - **Dream Girl**<sup>1st</sup>
 
@@ -239,7 +239,7 @@
 
 **四月**
 
-  - 04.03 - [INFINITE](../Page/INFINITE.md "wikilink")<sup>2nd</sup> - **남자가 사랑할때 (Man In Love)**<sup>1st</sup>
+  - 04.03 - [INFINITE](https://zh.wikipedia.org/wiki/INFINITE "wikilink")<sup>2nd</sup> - **남자가 사랑할때 (Man In Love)**<sup>1st</sup>
   - 04.10 - [Davichi](../Page/Davichi.md "wikilink")<sup>2nd</sup> - **거북이 (烏龜)**<sup>1st</sup>
   - 04.17 - [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")<sup>1st</sup> - **Love Blossom**<sup>1st</sup>
   - 04.24 - [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")<sup>2nd</sup> - **Love Blossom**<sup>2nd</sup>
@@ -257,15 +257,15 @@
   - 06.05 - [神話](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")<sup>2nd</sup> - **This love**<sup>2nd</sup>
   - 06.12 - [李孝利](../Page/李孝利.md "wikilink")<sup>1st</sup> - **배드 걸스 (Bad Girls)**<sup>1st</sup>
   - 06.19 - [EXO](../Page/EXO.md "wikilink")<sup>1st</sup> - **늑대와 미녀 (Wolf)**<sup>1st</sup>
-  - 06.26 - [SISTAR](../Page/SISTAR.md "wikilink")<sup>2nd</sup> - **Give It To Me**<sup>1st</sup>
+  - 06.26 - [SISTAR](https://zh.wikipedia.org/wiki/SISTAR "wikilink")<sup>2nd</sup> - **Give It To Me**<sup>1st</sup>
 
 **七月**
 
   - 07.03 - 年中特辑
-  - 07.10 - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")<sup>1st</sup> - **BAAAM (feat. Muzie of UV)**<sup>1st</sup>
-  - 07.17 - [Apink](../Page/Apink.md "wikilink") <sup>1st</sup> - **NoNoNo**<sup>1st</sup>
+  - 07.10 - [Dynamic Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")<sup>1st</sup> - **BAAAM (feat. Muzie of UV)**<sup>1st</sup>
+  - 07.17 - [Apink](https://zh.wikipedia.org/wiki/Apink "wikilink") <sup>1st</sup> - **NoNoNo**<sup>1st</sup>
   - 07.24 - [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink") <sup>1st</sup> - **유앤아이 (U\&I)**<sup>1st</sup>
-  - 07.31 - [INFINITE](../Page/INFINITE.md "wikilink")<sup>3rd</sup> - **Destiny**<sup>1st</sup>
+  - 07.31 - [INFINITE](https://zh.wikipedia.org/wiki/INFINITE "wikilink")<sup>3rd</sup> - **Destiny**<sup>1st</sup>
 
 **八月**
 
@@ -308,21 +308,21 @@
 **一月**
 
   - 01.01 - 停播
-  - 01.08 - [Girl's Day](../Page/Girl's_Day.md "wikilink")<sup>1st</sup> - **Something**<sup>1st</sup>
+  - 01.08 - [Girl's Day](https://zh.wikipedia.org/wiki/Girl's_Day "wikilink")<sup>1st</sup> - **Something**<sup>1st</sup>
   - 01.15 - [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")<sup>2nd</sup> - **노래가 늘었어 (Singing Got Better)**<sup>1st</sup>
-  - 01.22 - [B1A4](../Page/B1A4.md "wikilink")<sup>1st</sup> - **없구나 (Lonely)**<sup>1st</sup>
-  - 01.29 - [B1A4](../Page/B1A4.md "wikilink")<sup>2nd</sup> - **없구나 (Lonely)**<sup>2nd</sup>
+  - 01.22 - [B1A4](https://zh.wikipedia.org/wiki/B1A4 "wikilink")<sup>1st</sup> - **없구나 (Lonely)**<sup>1st</sup>
+  - 01.29 - [B1A4](https://zh.wikipedia.org/wiki/B1A4 "wikilink")<sup>2nd</sup> - **없구나 (Lonely)**<sup>2nd</sup>
 
 **二月**
 
-  - 02.05 - [B1A4](../Page/B1A4.md "wikilink")<sup>3rd</sup> - **없구나 (Lonely)**<sup>3rd</sup>
+  - 02.05 - [B1A4](https://zh.wikipedia.org/wiki/B1A4 "wikilink")<sup>3rd</sup> - **없구나 (Lonely)**<sup>3rd</sup>
   - 02.12 - [B.A.P](../Page/B.A.P.md "wikilink")<sup>1st</sup> - **1004(Angel)**<sup>1st</sup>
   - 02.19 - [昭宥](https://zh.wikipedia.org/wiki/姜智賢 "wikilink")<sup>1st</sup> & 鄭基高<sup>1st</sup> - **썸 (Some)**<sup>1st</sup>
   - 02.26 - 停播
 
 **三月**
 
-  - 03.05 - [CNBLUE](../Page/CNBLUE.md "wikilink")<sup>5th</sup> - **Can't Stop**<sup>1st</sup>
+  - 03.05 - [CNBLUE](https://zh.wikipedia.org/wiki/CNBLUE "wikilink")<sup>5th</sup> - **Can't Stop**<sup>1st</sup>
   - 03.12 - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")<sup>1st</sup> - **Mr.Mr.**<sup>1st</sup>
   - 03.19 - 慶祝100回特輯 [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")<sup>2nd</sup> - **Mr.Mr.**<sup>2nd</sup>
   - 03.26 - 停播
@@ -331,7 +331,7 @@
 
   - 04.02 - 停播
   - 04.09 - [Apink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")<sup>2nd</sup> - **Mr.Chu**<sup>1st</sup>
-  - 04.16 - [Mad Clown](../Page/Mad_Clown.md "wikilink")<sup>1st</sup> - **Without You**<sup>1st</sup>
+  - 04.16 - [Mad Clown](https://zh.wikipedia.org/wiki/Mad_Clown "wikilink")<sup>1st</sup> - **Without You**<sup>1st</sup>
   - 04.23 - 停播
   - 04.30 - 停播
 
@@ -340,11 +340,11 @@
   - 05.07 - 停播
   - 05.14 - [EXO-K](../Page/EXO-K.md "wikilink")<sup>1st</sup> - **중독 (Overdose)**<sup>1st</sup>
   - 05.21 - [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")<sup>1st</sup> - **Night And Day**<sup>1st</sup>
-  - 05.28 - [INFINITE](../Page/INFINITE.md "wikilink")<sup>4th</sup> - **Last Romeo**<sup>1st</sup>
+  - 05.28 - [INFINITE](https://zh.wikipedia.org/wiki/INFINITE "wikilink")<sup>4th</sup> - **Last Romeo**<sup>1st</sup>
 
 **六月**
 
-  - 06.04 - [INFINITE](../Page/INFINITE.md "wikilink")<sup>5th</sup> - **Last Romeo**<sup>2nd</sup>
+  - 06.04 - [INFINITE](https://zh.wikipedia.org/wiki/INFINITE "wikilink")<sup>5th</sup> - **Last Romeo**<sup>2nd</sup>
   - 06.11 - [VIXX](../Page/VIXX.md "wikilink")<sup>1st</sup> - **기적 (Eternity)**<sup>1st</sup>
   - 06.18 - 停播
   - 06.25 - 停播
@@ -354,19 +354,19 @@
   - 07.02 - [BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")<sup>2nd</sup> - **Good Luck**<sup>1st</sup>
   - 07.09 - [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")<sup>3rd</sup> - **오늘부터 1일 (Day 1)**<sup>1st</sup>
   - 07.16 - [f(x)](../Page/F\(x\)_\(組合\).md "wikilink")<sup>4nd</sup> - **Red Light**<sup>1st</sup>
-  - 07.23 - [B1A4](../Page/B1A4.md "wikilink")<sup>4th</sup> - **Solo Day**<sup>1st</sup>
-  - 07.30 - [Girl's Day](../Page/Girl's_Day.md "wikilink")<sup>2nd</sup> - **Darling**<sup>1st</sup>
+  - 07.23 - [B1A4](https://zh.wikipedia.org/wiki/B1A4 "wikilink")<sup>4th</sup> - **Solo Day**<sup>1st</sup>
+  - 07.30 - [Girl's Day](https://zh.wikipedia.org/wiki/Girl's_Day "wikilink")<sup>2nd</sup> - **Darling**<sup>1st</sup>
 
 **八月**
 
-  - 08.06 - 蔚山夏季音樂節特輯 [金泫雅](../Page/金泫雅.md "wikilink")<sup>1st</sup> - **빨개요 (Red)**<sup>1st</sup>
-  - 08.16\[1\] - 大韓民國音樂大饗宴 特輯 [金泫雅](../Page/金泫雅.md "wikilink")<sup>2nd</sup> - **빨개요 (Red)**<sup>2nd</sup>
-  - 08.20 - [Block B](../Page/Block_B.md "wikilink")<sup>1st</sup> - **헐 (H.E.R)**<sup>1st</sup>
+  - 08.06 - 蔚山夏季音樂節特輯 [金泫雅](https://zh.wikipedia.org/wiki/金泫雅 "wikilink")<sup>1st</sup> - **빨개요 (Red)**<sup>1st</sup>
+  - 08.16\[1\] - 大韓民國音樂大饗宴 特輯 [金泫雅](https://zh.wikipedia.org/wiki/金泫雅 "wikilink")<sup>2nd</sup> - **빨개요 (Red)**<sup>2nd</sup>
+  - 08.20 - [Block B](https://zh.wikipedia.org/wiki/Block_B "wikilink")<sup>1st</sup> - **헐 (H.E.R)**<sup>1st</sup>
   - 08.27 - 清州特輯 [KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")<sup>4th</sup> - **Mamma Mia**<sup>1st</sup>
 
 **九月**
 
-  - 09.03 - [SISTAR](../Page/SISTAR.md "wikilink")<sup>3rd</sup> - **I Swear**<sup>1st</sup>
+  - 09.03 - [SISTAR](https://zh.wikipedia.org/wiki/SISTAR "wikilink")<sup>3rd</sup> - **I Swear**<sup>1st</sup>
   - 09.10 - [Super Junior](../Page/Super_Junior.md "wikilink")<sup>4th</sup> - **MAMACITA (아야야)**<sup>1st</sup>
   - 09.17 - [Super Junior](../Page/Super_Junior.md "wikilink")<sup>5th</sup> - **MAMACITA (아야야)**<sup>2nd</sup>
   - 09.24 - [TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")<sup>2nd</sup> - **쉽지 않아 (Missing)**<sup>1st</sup>
@@ -395,11 +395,11 @@
   - 01.07 - 停播
   - 01.14 - 停播
   - 01.21 - [鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")<sup>1st</sup> - **Déjà-Boo**<sup>1st</sup>
-  - 01.28 - [Mad Clown](../Page/Mad_Clown.md "wikilink")<sup>2nd</sup> - **화（Fire）**<sup>1st</sup>
+  - 01.28 - [Mad Clown](https://zh.wikipedia.org/wiki/Mad_Clown "wikilink")<sup>2nd</sup> - **화（Fire）**<sup>1st</sup>
 
 **二月**
 
-  - 02.04 - [鄭容和](../Page/鄭容和.md "wikilink")<sup>1st</sup> - **어느 멋진 날（One Fine Day）**<sup>1st</sup>
+  - 02.04 - [鄭容和](https://zh.wikipedia.org/wiki/鄭容和 "wikilink")<sup>1st</sup> - **어느 멋진 날（One Fine Day）**<sup>1st</sup>
   - 02.11 - [Zion.T](../Page/Zion.T.md "wikilink")×[CRUSH](https://zh.wikipedia.org/wiki/CRUSH_\(歌手\) "wikilink")<sup>1st</sup> - **그냥（Just）**<sup>1st</sup>
   - 02.18 - [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")<sup>6th</sup> - **Crazy**<sup>1st</sup>
   - 02.25 - [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")<sup>7th</sup> - **Crazy**<sup>2nd</sup>
@@ -413,7 +413,7 @@
 
 **四月**
 
-  - 04.01 - MBC Plus Media開播14週年特輯 [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>1st</sup> - **Ice Cream Cake**<sup>1st</sup>
+  - 04.01 - MBC Plus Media開播14週年特輯 [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>1st</sup> - **Ice Cream Cake**<sup>1st</sup>
   - 04.08 - [EXO](../Page/EXO.md "wikilink")<sup>6th</sup> - **Call Me Baby**<sup>1st</sup>
   - 04.15 - [EXO](../Page/EXO.md "wikilink")<sup>7th</sup> - **Call Me Baby**<sup>2nd</sup>
   - 04.22 - [EXO](../Page/EXO.md "wikilink")<sup>8th</sup> - **Call Me Baby**<sup>3rd</sup>
@@ -422,7 +422,7 @@
 **五月**
 
   - 05.06 - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")<sup>2nd</sup> - **Ah Yeah**<sup>2nd</sup>
-  - 05.13 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>1st</sup> - **I Need U**<sup>1st</sup>
+  - 05.13 - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>1st</sup> - **I Need U**<sup>1st</sup>
   - 05.20 - [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")<sup>1st</sup> - **Loser**<sup>1st</sup>
   - 05.27 - [SHINee](../Page/SHINee.md "wikilink")<sup>9th</sup> - **View**<sup>1st</sup>
 
@@ -436,24 +436,24 @@
 **七月**
 
   - 07.01 - [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")<sup>2nd</sup> - **Heart Attack**<sup>1st</sup>
-  - 07.08 - [SISTAR](../Page/SISTAR.md "wikilink")<sup>4th</sup> - **Shake It**<sup>1st</sup>
+  - 07.08 - [SISTAR](https://zh.wikipedia.org/wiki/SISTAR "wikilink")<sup>4th</sup> - **Shake It**<sup>1st</sup>
   - 07.15 - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")<sup>3rd</sup> - **Party**<sup>1st</sup>
-  - 07.22 - [INFINITE](../Page/INFINITE.md "wikilink")<sup>6th</sup> - **Bad**<sup>1st</sup>
-  - 07.29 - [Apink](../Page/Apink.md "wikilink")<sup>3rd</sup> - **Remember**<sup>1st</sup>\[停播\]
+  - 07.22 - [INFINITE](https://zh.wikipedia.org/wiki/INFINITE "wikilink")<sup>6th</sup> - **Bad**<sup>1st</sup>
+  - 07.29 - [Apink](https://zh.wikipedia.org/wiki/Apink "wikilink")<sup>3rd</sup> - **Remember**<sup>1st</sup>\[停播\]
 
 **八月**
 
   - 08.05 - [BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")<sup>4th</sup> - **YeY**<sup>1st</sup>
   - 08.12 - [SHINee](../Page/SHINee.md "wikilink")<sup>10th</sup> - **Married To The Music**<sup>1st</sup>
-  - 08.19 - [B1A4](../Page/B1A4.md "wikilink")<sup>5th</sup> - '''Sweet girl '''<sup>1st</sup>
+  - 08.19 - [B1A4](https://zh.wikipedia.org/wiki/B1A4 "wikilink")<sup>5th</sup> - '''Sweet girl '''<sup>1st</sup>
   - 08.26 - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")<sup>4th</sup> - **Lion Heart**<sup>1st</sup>
 
 **九月**
 
   - 09.02 - 停播 - 改播完州 Prime Concert
   - 09.09 - 停播 - 改播2015 DMC Festival K-POP Super Concert
-  - 09.16 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>2nd</sup> - **Dumb Dumb**<sup>1st</sup>
-  - 09.23 - [CNBLUE](../Page/CNBLUE.md "wikilink")<sup>6th</sup> - **Cinderella**<sup>1st</sup>
+  - 09.16 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>2nd</sup> - **Dumb Dumb**<sup>1st</sup>
+  - 09.23 - [CNBLUE](https://zh.wikipedia.org/wiki/CNBLUE "wikilink")<sup>6th</sup> - **Cinderella**<sup>1st</sup>
   - 09.30 - Special KMF 2015特輯
 
 **十月**
@@ -472,9 +472,9 @@
 
 **十二月**
 
-  - 12.02 - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")<sup>2nd</sup> - **Jam**<sup>1st</sup>\[預錄\]
-  - 12.09 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>2nd</sup> - **Run**<sup>1st</sup>
-  - 12.16 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>3rd</sup> - **Run**<sup>2nd</sup>
+  - 12.02 - [Dynamic Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")<sup>2nd</sup> - **Jam**<sup>1st</sup>\[預錄\]
+  - 12.09 - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>2nd</sup> - **Run**<sup>1st</sup>
+  - 12.16 - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>3rd</sup> - **Run**<sup>2nd</sup>
   - 12.23 - 特輯 2015 Show Champion Awards
   - 12.30 - 停播
 
@@ -489,30 +489,30 @@
 
 二月
 
-  - 02.03 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>1st</sup> - Rough<sup>1st</sup>
+  - 02.03 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>1st</sup> - Rough<sup>1st</sup>
   - 02.10 - 春节特辑
-  - 02.17 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>2nd</sup> - Rough<sup>2nd</sup>
-  - 02.24 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>3rd</sup> - Rough<sup>3rd</sup>
+  - 02.17 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>2nd</sup> - Rough<sup>2nd</sup>
+  - 02.24 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>3rd</sup> - Rough<sup>3rd</sup>
 
 三月
 
-  - 03.02 - [泰民](../Page/泰民.md "wikilink")<sup>1st</sup> - Press Your Number<sup>1st</sup>
+  - 03.02 - [泰民](https://zh.wikipedia.org/wiki/泰民 "wikilink")<sup>1st</sup> - Press Your Number<sup>1st</sup>
   - 03.09 - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")<sup>1st</sup> - You're The Best<sup>1st</sup>
   - 03.16 - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")<sup>2nd</sup> - You're The Best<sup>2nd</sup>
-  - 03.23 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>3rd</sup> - One of These Nights<sup>1st</sup>
+  - 03.23 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>3rd</sup> - One of These Nights<sup>1st</sup>
   - 03.30 - 特輯
 
 四月
 
   - 04.06 - [BTOB](../Page/BTOB.md "wikilink")<sup>2nd</sup> - Remember That<sup>1st</sup>
-  - 04.13 - [CNBLUE](../Page/CNBLUE.md "wikilink")<sup>7th</sup> - You're So Fine<sup>1st</sup>\[特輯\]
-  - 04.20 - [Block B](../Page/Block_B.md "wikilink")<sup>2nd</sup> - Toy<sup>1st</sup>
+  - 04.13 - [CNBLUE](https://zh.wikipedia.org/wiki/CNBLUE "wikilink")<sup>7th</sup> - You're So Fine<sup>1st</sup>\[特輯\]
+  - 04.20 - [Block B](https://zh.wikipedia.org/wiki/Block_B "wikilink")<sup>2nd</sup> - Toy<sup>1st</sup>
   - 04.27 - [VIXX](../Page/VIXX.md "wikilink")<sup>5th</sup> - Dynamite<sup>1st</sup>\[蔚山特輯\]
 
 五月
 
-  - 05.04 - [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>1st</sup> - Pretty U<sup>1st</sup>
-  - 05.11 - [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>2nd</sup> - Pretty U<sup>2nd</sup>
+  - 05.04 - [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>1st</sup> - Pretty U<sup>1st</sup>
+  - 05.11 - [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>2nd</sup> - Pretty U<sup>2nd</sup>
   - 05.18 - [Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")<sup>1st</sup> - I Just Wanna Dance<sup>1st</sup>
   - 05.25 - [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")<sup>3rd</sup> - Good Luck<sup>1st</sup>
 
@@ -522,19 +522,19 @@
   - 06.08 - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")<sup>4th</sup> - L.I.E<sup>1st</sup>
   - 06.15 - 停播
   - 06.22 - [EXO](../Page/EXO.md "wikilink")<sup>12th</sup> - Monster<sup>1st</sup>
-  - 06.29 - [SISTAR](../Page/SISTAR.md "wikilink")<sup>5th</sup> - I Like That<sup>1st</sup>
+  - 06.29 - [SISTAR](https://zh.wikipedia.org/wiki/SISTAR "wikilink")<sup>5th</sup> - I Like That<sup>1st</sup>
 
 七月
 
-  - 07.06 - [SISTAR](../Page/SISTAR.md "wikilink")<sup>6th</sup> - I Like That<sup>2nd</sup>
+  - 07.06 - [SISTAR](https://zh.wikipedia.org/wiki/SISTAR "wikilink")<sup>6th</sup> - I Like That<sup>2nd</sup>
   - 07.13 - [BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")<sup>5th</sup> - Ribbon<sup>1st</sup>
-  - 07.20 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>4th</sup> - Navillera<sup>1st</sup>
+  - 07.20 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>4th</sup> - Navillera<sup>1st</sup>
   - 07.27 - 特輯
 
 八月
 
   - 08.03 - 停播
-  - 08.10 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>5th</sup> - Navillera<sup>2nd</sup>
+  - 08.10 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>5th</sup> - Navillera<sup>2nd</sup>
   - 08.17 - [I.O.I](../Page/I.O.I.md "wikilink")<sup>1st</sup> - Whatta Man（Good Man）<sup>1st</sup>
   - 08.24 - [VIXX](../Page/VIXX.md "wikilink")<sup>6th</sup> - Fantasy<sup>1st</sup>
   - 08.31 - [EXO](../Page/EXO.md "wikilink")<sup>13th</sup> - Lotto<sup>1st</sup>\[200集特輯\]
@@ -543,14 +543,14 @@
 
   - 09.07 - 停播
   - 09.14 - Show Champion in 馬尼拉特輯
-  - 09.21 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>4th</sup> - Russian Roulette<sup>1st</sup>
+  - 09.21 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>4th</sup> - Russian Roulette<sup>1st</sup>
   - 09.28 - [任昌丁](../Page/任昌丁.md "wikilink")<sup>1st</sup> - The Love That I Committed<sup>1st</sup>
 
 十月
 
   - 10.05 - 停播
   - 10.12 - 停播
-  - 10.19 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>4th</sup> - Blood Sweat & Tears<sup>1st</sup>
+  - 10.19 - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>4th</sup> - Blood Sweat & Tears<sup>1st</sup>
   - 10.26 - [I.O.I](../Page/I.O.I.md "wikilink")<sup>2nd</sup> - Very Very Very<sup>1st</sup>
 
 十一月
@@ -564,8 +564,8 @@
 十二月
 
   - 12.07 - 停播
-  - 12.14 - [B1A4](../Page/B1A4.md "wikilink")<sup>6th</sup> - A Lie<sup>1st</sup>
-  - 12.21 - [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>3rd</sup> - Boom Boom<sup>1st</sup>
+  - 12.14 - [B1A4](https://zh.wikipedia.org/wiki/B1A4 "wikilink")<sup>6th</sup> - A Lie<sup>1st</sup>
+  - 12.21 - [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>3rd</sup> - Boom Boom<sup>1st</sup>
   - 12.28 - 停播
 
 ### 2017年
@@ -580,21 +580,21 @@
 二月
 
   - 02.01 - 特輯
-  - 02.08 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>5th</sup> - Rookie<sup>1st</sup>
-  - 02.15 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>6th</sup> - Rookie<sup>2nd</sup>
-  - 02.22 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>5th</sup> - Spring Day<sup>1st</sup>
+  - 02.08 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>5th</sup> - Rookie<sup>1st</sup>
+  - 02.15 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>6th</sup> - Rookie<sup>2nd</sup>
+  - 02.22 - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>5th</sup> - Spring Day<sup>1st</sup>
 
 三月
 
   - 03.01 - 特輯
   - 03.08 - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")<sup>2nd</sup> - Knock Knock<sup>1st</sup>
   - 03.15 - [BTOB](../Page/BTOB.md "wikilink")<sup>3rd</sup> - Movie<sup>1st</sup>
-  - 03.22 - [GOT7](../Page/GOT7.md "wikilink")<sup>1st</sup> - Never Ever<sup>1st</sup>
+  - 03.22 - [GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")<sup>1st</sup> - Never Ever<sup>1st</sup>
   - 03.29 - [Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")<sup>6th</sup> - Plz Don't Be Sad<sup>1st</sup>
 
 四月
 
-  - 04.05 - [Girl's Day](../Page/Girl's_Day.md "wikilink")<sup>3rd</sup> - I'll Be Yours<sup>1st</sup>
+  - 04.05 - [Girl's Day](https://zh.wikipedia.org/wiki/Girl's_Day "wikilink")<sup>3rd</sup> - I'll Be Yours<sup>1st</sup>
   - 04.12 - [IU](https://zh.wikipedia.org/wiki/IU_\(藝人\) "wikilink")<sup>2nd</sup> - Through the Night<sup>1st</sup>
   - 04.19 - [鄭恩地](../Page/鄭恩地.md "wikilink")<sup>1st</sup> - The Spring<sup>1st</sup>
   - 04.26 - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")<sup>5th</sup> - Night Rather Than Day<sup>1st</sup>
@@ -609,22 +609,22 @@
 
 六月
 
-  - 06.07 - [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>4th</sup> - Don't Wanny Cry<sup>1st</sup>
-  - 06.14 - [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>5th</sup> - Don't Wanny Cry<sup>2nd</sup>
-  - 06.21 - [G-Dragon](../Page/G-Dragon.md "wikilink")<sup>1st</sup> - 無題<sup>1st</sup>
+  - 06.07 - [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>4th</sup> - Don't Wanny Cry<sup>1st</sup>
+  - 06.14 - [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>5th</sup> - Don't Wanny Cry<sup>2nd</sup>
+  - 06.21 - [G-Dragon](https://zh.wikipedia.org/wiki/G-Dragon "wikilink")<sup>1st</sup> - 無題<sup>1st</sup>
   - 06.28 - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")<sup>3rd</sup> - Yes I Am<sup>1st</sup>
 
 七月
 
-  - 07.05 - [Apink](../Page/Apink.md "wikilink")<sup>4th</sup> - Five<sup>1st</sup>
-  - 07.12 - [Apink](../Page/Apink.md "wikilink")<sup>5th</sup> - Five<sup>2nd</sup>
-  - 07.19 - 特輯 [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>7th</sup> - Red Flavor <sup>1st</sup>
+  - 07.05 - [Apink](https://zh.wikipedia.org/wiki/Apink "wikilink")<sup>4th</sup> - Five<sup>1st</sup>
+  - 07.12 - [Apink](https://zh.wikipedia.org/wiki/Apink "wikilink")<sup>5th</sup> - Five<sup>2nd</sup>
+  - 07.19 - 特輯 [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>7th</sup> - Red Flavor <sup>1st</sup>
   - 07.26 - [EXO](../Page/EXO.md "wikilink")<sup>14th</sup> - Ko Ko Bop<sup>1st</sup>
 
 八月
 
   - 08.02 - [EXO](../Page/EXO.md "wikilink")<sup>15th</sup> - Ko Ko Bop<sup>2nd</sup>
-  - 08.09 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>6th</sup> - Love Whisper<sup>1st</sup>大韓民國 偶像代表 TOP5 特輯
+  - 08.09 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>6th</sup> - Love Whisper<sup>1st</sup>大韓民國 偶像代表 TOP5 特輯
   - 08.16 - [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")<sup>1st</sup> - Energetic<sup>1st</sup>
   - 08.23 - [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")<sup>2nd</sup> - Energetic<sup>2nd</sup>
   - 08.30 - [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")<sup>3rd</sup> - Energetic<sup>3rd</sup>
@@ -634,7 +634,7 @@
   - 09.06 - [善美](https://zh.wikipedia.org/wiki/善美 "wikilink")<sup>1st</sup> - Gashina<sup>1st</sup>
   - 09.13 - 特輯 [EXO](../Page/EXO.md "wikilink")<sup>16th</sup> - Power<sup>1st</sup>
   - 09.20 - 特輯
-  - 09.27 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>6th</sup> - DNA<sup>1st</sup>
+  - 09.27 - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>6th</sup> - DNA<sup>1st</sup>
 
 十月
 
@@ -647,7 +647,7 @@
 
   - 11.01 - Show Champion X MMA特輯 [BTOB](../Page/BTOB.md "wikilink")<sup>5th</sup> - Missing You<sup>2nd</sup>
   - 11.08 - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")<sup>5th</sup> - Likey<sup>1st</sup>
-  - 11.15 - [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>6th</sup> - Clap<sup>1st</sup>
+  - 11.15 - [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>6th</sup> - Clap<sup>1st</sup>
   - 11.22 - [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")<sup>4th</sup> - Beautiful<sup>1st</sup>
   - 11.29 - 停播
 
@@ -664,14 +664,14 @@
 
   - 01.03 - 停播
   - 01.10 - 特輯
-  - 01.17 - [INFINITE](../Page/INFINITE.md "wikilink")<sup>7th</sup> - Tell Me<sup>1st</sup>
+  - 01.17 - [INFINITE](https://zh.wikipedia.org/wiki/INFINITE "wikilink")<sup>7th</sup> - Tell Me<sup>1st</sup>
   - 01.24 - [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")<sup>1st</sup> - Secret Garden<sup>1st</sup>
   - 01.31 - [MOMOLAND](../Page/MOMOLAND.md "wikilink")<sup>1st</sup> - BBoom BBoom<sup>1st</sup>
 
 二月
 
-  - 02.07 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>8th</sup> - Bad Boy<sup>1st</sup>
-  - 02.14 - Show Champion X K-POP WORLD FESTA特輯 [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>7th</sup> - Thanks<sup>1st</sup>
+  - 02.07 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>8th</sup> - Bad Boy<sup>1st</sup>
+  - 02.14 - Show Champion X K-POP WORLD FESTA特輯 [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>7th</sup> - Thanks<sup>1st</sup>
   - 02.21 - 停播 - <K-POP WORLD FESTA BIG CONCERT>
   - 02.28 - 停播 - <K-POP WORLD FESTA PRIME CONCERT>
 
@@ -692,10 +692,10 @@
 五月
 
   - 05.02 - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")<sup>8th</sup> - What is Love?<sup>3rd</sup>
-  - 05.09 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>7th</sup> - Time For The Moon Night<sup>1st</sup>
-  - 05.16 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>8th</sup> - Time For The Moon Night<sup>2nd</sup>
+  - 05.09 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>7th</sup> - Time For The Moon Night<sup>1st</sup>
+  - 05.16 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>8th</sup> - Time For The Moon Night<sup>2nd</sup>
   - 05.23 - 上半年度一位特輯
-  - 05.30 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>7th</sup> - Fake Love<sup>1st</sup>
+  - 05.30 - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>7th</sup> - Fake Love<sup>1st</sup>
 
 六月
 
@@ -707,28 +707,28 @@
 七月
 
   - 07.04 - 停播
-  - 07.11 - [Apink](../Page/Apink.md "wikilink")<sup>6th</sup> - I'm So Sick<sup>1st</sup>
+  - 07.11 - [Apink](https://zh.wikipedia.org/wiki/Apink "wikilink")<sup>6th</sup> - I'm So Sick<sup>1st</sup>
   - 07.18 - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")<sup>9th</sup> - Dance The Night Away<sup>1st</sup>
-  - 07.25 - [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>8th</sup> - Oh My\!<sup>1st</sup>
+  - 07.25 - [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>8th</sup> - Oh My\!<sup>1st</sup>
 
 八月
 
   - 08.01 - 特輯
   - 08.08 - 停播 - 2018 KOREA MUSIC FESTIVAL
-  - 08.15 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>9th</sup> - Power Up<sup>1st</sup>
-  - 08.22 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>10th</sup> - Power Up<sup>2nd</sup>
-  - 08.29 - [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")<sup>1st</sup> - HANN (Alone)<sup>1st</sup>
+  - 08.15 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>9th</sup> - Power Up<sup>1st</sup>
+  - 08.22 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>10th</sup> - Power Up<sup>2nd</sup>
+  - 08.29 - [(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")<sup>1st</sup> - HANN (Alone)<sup>1st</sup>
 
 九月
 
-  - 09.05 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>8th</sup> - IDOL<sup>1st</sup>
-  - 09.12 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>9th</sup> - IDOL<sup>2nd</sup>
+  - 09.05 - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>8th</sup> - IDOL<sup>1st</sup>
+  - 09.12 - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>9th</sup> - IDOL<sup>2nd</sup>
   - 09.19 - [善美](https://zh.wikipedia.org/wiki/善美 "wikilink")<sup>2nd</sup> - Siren<sup>1st</sup>
   - 09.26 - 特輯
 
 十月
 
-  - 10.03 - [GOT7](../Page/GOT7.md "wikilink")<sup>2nd</sup> - Lullaby<sup>1st</sup>
+  - 10.03 - [GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")<sup>2nd</sup> - Lullaby<sup>1st</sup>
   - 10.10 - [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")<sup>2nd</sup> - Goodbye Road<sup>1st</sup>
   - 10.17 - [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")<sup>3rd</sup> - Goodbye Road<sup>2nd</sup>
   - 10.24 - 停播 - Busan One Asia Festival 開幕式
@@ -754,22 +754,22 @@
 
   - 01.02 - 特輯
   - 01.09 - [請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")<sup>1st</sup> - Gotta Go<sup>1st</sup>
-  - 01.16 - [Apink](../Page/Apink.md "wikilink")<sup>7th</sup> - %%<sup>1st</sup>
-  - 01.23 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>9th</sup> - Sunrise<sup>1st</sup>
-  - 01.30 - [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>9th</sup> - Home<sup>1st</sup>
+  - 01.16 - [Apink](https://zh.wikipedia.org/wiki/Apink "wikilink")<sup>7th</sup> - %%<sup>1st</sup>
+  - 01.23 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>9th</sup> - Sunrise<sup>1st</sup>
+  - 01.30 - [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>9th</sup> - Home<sup>1st</sup>
 
 二月
 
   - 02.06 - 特輯
-  - 02.13 - [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")<sup>10th</sup> - Home<sup>2nd</sup>
-  - 02.20 - [泰民](../Page/泰民.md "wikilink")<sup>2nd</sup> - Want<sup>1st</sup>
+  - 02.13 - [Seventeen](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")<sup>10th</sup> - Home<sup>2nd</sup>
+  - 02.20 - [泰民](https://zh.wikipedia.org/wiki/泰民 "wikilink")<sup>2nd</sup> - Want<sup>1st</sup>
   - 02.27 - [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")<sup>2nd</sup> - Alligator<sup>1st</sup>
 
 三月
 
-  - 03.06 - [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")<sup>2nd</sup> - Senorita<sup>1st</sup>
+  - 03.06 - [(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")<sup>2nd</sup> - Senorita<sup>1st</sup>
   - 03.13 - [河成雲](../Page/河成雲.md "wikilink")<sup>1st</sup> - Bird<sup>1st</sup>
-  - 03.20 - [TOMORROW X TOGETHER](../Page/TXT_\(組合\).md "wikilink")<sup>1st</sup> - CROWN<sup>1st</sup>
+  - 03.20 - [TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TXT_\(組合\) "wikilink")<sup>1st</sup> - CROWN<sup>1st</sup>
   - 03.27 - 特輯 [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")<sup>5th</sup> - Gogobebe<sup>1st</sup>
 
 四月
@@ -777,7 +777,7 @@
   - 04.03 - [MOMOLAND](../Page/MOMOLAND.md "wikilink")<sup>2nd</sup> - I'm So Hot<sup>1st</sup>
   - 04.10 - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")<sup>1st</sup> - Violeta<sup>1st</sup>
   - 04.17 - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")<sup>2nd</sup> - Violeta<sup>2nd</sup>
-  - 04.24 - 特輯 [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>10th</sup> - Boy With Luv<sup>1st</sup>
+  - 04.24 - 特輯 [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")<sup>10th</sup> - Boy With Luv<sup>1st</sup>
 
 五月
 
@@ -792,28 +792,28 @@
   - 06.05 - [AB6IX](../Page/AB6IX.md "wikilink")<sup>1st</sup> - Breathe<sup>1st</sup>
   - 06.12 - [NCT](../Page/NCT.md "wikilink")127<sup>1st</sup> - Superhuman<sup>1st</sup>
   - 06.19 - 特輯 [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")<sup>1st</sup> - Boogie Up<sup>1st</sup>
-  - 06.26 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>11th</sup> - Zimzalabim<sup>1st</sup>
+  - 06.26 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>11th</sup> - Zimzalabim<sup>1st</sup>
 
 七月
 
   - 07.03 - [請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")<sup>2nd</sup> - Snapping<sup>1st</sup>
-  - 07.10 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>10th</sup> - Fever<sup>1st</sup>
+  - 07.10 - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")<sup>10th</sup> - Fever<sup>1st</sup>
   - 07.17 - [河成雲](../Page/河成雲.md "wikilink")<sup>2nd</sup> - Blue<sup>1st</sup>
   - 07.24 - 特輯 [DAY6](../Page/DAY6.md "wikilink")<sup>1st</sup> - Time of Our Life<sup>1st</sup>
   - 07.31 - 停播
 
 八月
 
-  - 08.07 - [ITZY](../Page/ITZY.md "wikilink")<sup>1st</sup> - ICY<sup>1st</sup>
-  - 08.14 - 特輯 [ITZY](../Page/ITZY.md "wikilink")<sup>2nd</sup> - ICY<sup>2nd</sup>
-  - 08.21 - [ITZY](../Page/ITZY.md "wikilink")<sup>3rd</sup> - ICY<sup>3rd</sup>
-  - 08.28 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>12th</sup> - Umpah Umpah<sup>1st</sup>
+  - 08.07 - [ITZY](https://zh.wikipedia.org/wiki/ITZY "wikilink")<sup>1st</sup> - ICY<sup>1st</sup>
+  - 08.14 - 特輯 [ITZY](https://zh.wikipedia.org/wiki/ITZY "wikilink")<sup>2nd</sup> - ICY<sup>2nd</sup>
+  - 08.21 - [ITZY](https://zh.wikipedia.org/wiki/ITZY "wikilink")<sup>3rd</sup> - ICY<sup>3rd</sup>
+  - 08.28 - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")<sup>12th</sup> - Umpah Umpah<sup>1st</sup>
 
 九月
 
-  - 09.04 - [X1](../Page/X1.md "wikilink")<sup>1st</sup> - Flash<sup>1st</sup>
+  - 09.04 - [X1](https://zh.wikipedia.org/wiki/X1 "wikilink")<sup>1st</sup> - Flash<sup>1st</sup>
   - 09.11 - 停播
-  - 09.18 - 特輯 [X1](../Page/X1.md "wikilink")<sup>2nd</sup> - Flash<sup>2nd</sup>
+  - 09.18 - 特輯 [X1](https://zh.wikipedia.org/wiki/X1 "wikilink")<sup>2nd</sup> - Flash<sup>2nd</sup>
   - 09.25 - [臉紅的思春期](https://zh.wikipedia.org/wiki/臉紅的思春期 "wikilink")<sup>1st</sup> - Workaholic<sup>1st</sup>
 
 十月
@@ -843,48 +843,51 @@
 一月
 
   - 01.01 - 停播
+  - 01.08 - 停播
+  - 01.15 - 停播
 
 ## 藝人成就
 
-| 等級                                                          | 藝人                                                              | 統計  | 出道年份 |
-| ----------------------------------------------------------- | --------------------------------------------------------------- | --- | ---- |
-| 1st                                                         | [EXO](../Page/EXO.md "wikilink")                                | 17次 | 2012 |
-| 2nd                                                         | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")         | 14次 | 2015 |
-| 3rd                                                         | [Red Velvet](../Page/Red_Velvet.md "wikilink")                  | 12次 | 2014 |
-| 4th                                                         | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink") | 11次 | 2017 |
-| 5th                                                         | [SHINee](../Page/SHINee.md "wikilink")                          | 10次 | 2008 |
-| [防彈少年團](../Page/防彈少年團.md "wikilink")                        | 2013                                                            |     |      |
-| [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")         | 2015                                                            |     |      |
-| 6th                                                         | [GFRIEND](../Page/GFRIEND.md "wikilink")                        | 9次  | 2015 |
-| 7th                                                         | |[4minute](../Page/4minute.md "wikilink")                       | 7次  | 2009 |
-| [CNBLUE](../Page/CNBLUE.md "wikilink")                      | 2010                                                            |     |      |
-| [INFINITE](../Page/INFINITE.md "wikilink")                  | 2010                                                            |     |      |
-| [Apink](../Page/Apink.md "wikilink")                        | 2011                                                            |     |      |
-| 8th                                                         | [BEAST/Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")     | 6次  | 2009 |
-| [SISTAR](../Page/SISTAR.md "wikilink")                      | 2010                                                            |     |      |
-| [B1A4](../Page/B1A4.md "wikilink")                          | 2011                                                            |     |      |
-| [VIXX](../Page/VIXX.md "wikilink")                          | 2012                                                            |     |      |
-| 9th                                                         | [Super Junior](../Page/Super_Junior.md "wikilink")              | 5次  | 2005 |
-| [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")  | 2012                                                            |     |      |
-| [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")       | 2012                                                            |     |      |
-| [BTOB](../Page/BTOB.md "wikilink")                          | 2012                                                            |     |      |
-| [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink") | 2014                                                            |     |      |
+| 等級                                                                     | 藝人                                                                | 統計  | 出道年份 |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------- | --- | ---- |
+| 1st                                                                    | [EXO](../Page/EXO.md "wikilink")                                  | 17次 | 2012 |
+| 2nd                                                                    | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")           | 14次 | 2015 |
+| 3rd                                                                    | [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink") | 12次 | 2014 |
+| 4th                                                                    | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")   | 11次 | 2017 |
+| 5th                                                                    | [SHINee](../Page/SHINee.md "wikilink")                            | 10次 | 2008 |
+| [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")                | 2013                                                              |     |      |
+| [SEVENTEEN](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink") | 2015                                                              |     |      |
+| 6th                                                                    | [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")       | 9次  | 2015 |
+| 7th                                                                    | |[4minute](../Page/4minute.md "wikilink")                         | 7次  | 2009 |
+| [CNBLUE](https://zh.wikipedia.org/wiki/CNBLUE "wikilink")              | 2010                                                              |     |      |
+| [INFINITE](https://zh.wikipedia.org/wiki/INFINITE "wikilink")          | 2010                                                              |     |      |
+| [Apink](https://zh.wikipedia.org/wiki/Apink "wikilink")                | 2011                                                              |     |      |
+| 8th                                                                    | [BEAST/Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")       | 6次  | 2009 |
+| [SISTAR](https://zh.wikipedia.org/wiki/SISTAR "wikilink")              | 2010                                                              |     |      |
+| [B1A4](https://zh.wikipedia.org/wiki/B1A4 "wikilink")                  | 2011                                                              |     |      |
+| [VIXX](../Page/VIXX.md "wikilink")                                     | 2012                                                              |     |      |
+| [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")            | 2014                                                              |     |      |
+| 9th                                                                    | [Super Junior](../Page/Super_Junior.md "wikilink")                | 5次  | 2005 |
+| [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")             | 2012                                                              |     |      |
+| [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")                  | 2012                                                              |     |      |
+| [BTOB](../Page/BTOB.md "wikilink")                                     | 2012                                                              |     |      |
+|                                                                        |                                                                   |     |      |
 
 | 等級                                                              | 藝人                                         | 歌曲         | 統計 |
 | --------------------------------------------------------------- | ------------------------------------------ | ---------- | -- |
 | 1st                                                             | [SHINee](../Page/SHINee.md "wikilink")     | Dream Girl | 4次 |
 | 2nd                                                             | [TaeTiSeo](../Page/少女時代-太蒂徐.md "wikilink") | Twinkle    | 3次 |
 | [Super Junior](../Page/Super_Junior.md "wikilink")              | Sexy, Free & Single                        |            |    |
-| [CNBLUE](../Page/CNBLUE.md "wikilink")                          | I'm Sorry                                  |            |    |
+| [CNBLUE](https://zh.wikipedia.org/wiki/CNBLUE "wikilink")       | I'm Sorry                                  |            |    |
 | |[4minute](../Page/4minute.md "wikilink")                       | What's Your Name?                          |            |    |
 | [EXO](../Page/EXO.md "wikilink")                                | Growl                                      |            |    |
 | Call Me Baby                                                    |                                            |            |    |
 | Love Me Right                                                   |                                            |            |    |
-| |[B1A4](../Page/B1A4.md "wikilink")                             | Lonely                                     |            |    |
-| [GFRIEND](../Page/GFRIEND.md "wikilink")                        | Rough                                      |            |    |
+| |[B1A4](https://zh.wikipedia.org/wiki/B1A4 "wikilink")          | Lonely                                     |            |    |
+| [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")     | Rough                                      |            |    |
 | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink") | Energetic                                  |            |    |
 | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")         | What is Love?                              |            |    |
-| [ITZY](../Page/ITZY.md "wikilink")                              | ICY                                        |            |    |
+| [ITZY](https://zh.wikipedia.org/wiki/ITZY "wikilink")           | ICY                                        |            |    |
 
 ## 相關節目
 

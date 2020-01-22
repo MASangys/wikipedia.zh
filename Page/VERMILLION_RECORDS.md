@@ -11,11 +11,11 @@
 
 B'z或[<u><font color="#0066cc" data-ve-color="#0066cc"> B.B.QUEENS</font></u>](../Page/B.B.QUEENS.md "wikilink")、[<u><font color="#0066cc" data-ve-color="#0066cc">Mi-Ke</font></u>](../Page/Mi-Ke.md "wikilink")、[<u><font color="#0066cc" data-ve-color="#0066cc">織田哲郎</font></u>等僅Being系保有原盤權之作品](../Page/織田哲郎.md "wikilink")（CD/卡帶/VHS/LD），由BMG VICTOR將發售權移管到BMG ROOMS再次發行。 B'z或栗林誠一郎、近藤房之助、等初期作品或『[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")』主題曲B.B.QUEENS的「[おどるポンポコリン](https://zh.wikipedia.org/wiki/おどるポンポコリン "wikilink")」與的「」的原盤權，現在為保有但未被再次發行。
 
-（雖然櫻桃小丸子ED主題曲[西城秀樹](../Page/西城秀樹.md "wikilink")的「[走れ正直者](https://zh.wikipedia.org/wiki/走れ正直者 "wikilink")」，單曲未被再次發行，但Being保有原盤權）
+（雖然櫻桃小丸子ED主題曲[西城秀樹的](https://zh.wikipedia.org/wiki/西城秀樹 "wikilink")「[走れ正直者](https://zh.wikipedia.org/wiki/走れ正直者 "wikilink")」，單曲未被再次發行，但Being保有原盤權）
 
 由於BMG ROOMS（BMGルームス）再次發行的標題正式發售日期不明，因此根據POS代碼序號而言，似乎是於同年秋天被再次發行。 </ref>
 
-  - [1992年](../Page/1992年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - 作為第1張新唱片，B'z的「[ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")」CD單曲以[卡式錄音帶發售](https://zh.wikipedia.org/wiki/卡式錄音帶 "wikilink")。
+  - [1992年](../Page/1992年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - 作為第1張新唱片，B'z的「[ZERO](https://zh.wikipedia.org/wiki/ZERO_\(B'z單曲\) "wikilink")」CD單曲以[卡式錄音帶發售](https://zh.wikipedia.org/wiki/卡式錄音帶 "wikilink")。
   - [1993年](../Page/1993年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - 作為管理BMG ROOMS旗下藝人樂曲的出版社，株式會社ROOMS MUSIC（）在同公司內成立。\[1\]
   - [1995年](../Page/1995年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink") - 作為B'z的新私人唱片公司，在同公司內成立VERMILLION。從單曲「ねがい」開始使用。
   - [1995年](../Page/1995年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - 伴隨著Being的100%出資，公司名稱變更為株式會社Rooms RECORDS（）。此時，本公司從澀谷轉移到六本木。
@@ -53,7 +53,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
 
 ## BMG ROOMS・Rooms RECORDS時期旗下歌手／團體
 
-  - [秋吉契里](../Page/秋吉契里.md "wikilink")
+  - [秋吉契里](https://zh.wikipedia.org/wiki/秋吉契里 "wikilink")
 
   - [織田哲郎](../Page/織田哲郎.md "wikilink")
 
@@ -61,7 +61,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
   -
   -
   -
-  - [西城秀樹](../Page/西城秀樹.md "wikilink")
+  - [西城秀樹](https://zh.wikipedia.org/wiki/西城秀樹 "wikilink")
 
   -
   -
@@ -78,7 +78,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
   - [Mi-Ke](../Page/Mi-Ke.md "wikilink")
 
   -
-  - [LOUDNESS](../Page/響度樂團.md "wikilink")
+  - [LOUDNESS](https://zh.wikipedia.org/wiki/響度樂團 "wikilink")
 
   -
 ## B'z的唱片公司經緯
@@ -107,7 +107,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
       -   - [BMG JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")
           - [FUN HOUSE](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")
 
-  - [Being集團列表](../Page/Being集團列表.md "wikilink")
+  - [Being集團列表](https://zh.wikipedia.org/wiki/Being集團列表 "wikilink")
 
   - [Being](../Page/Being_\(公司\).md "wikilink")
 
@@ -115,7 +115,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
   -
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
 
-  - [NORTHERN MUSIC](../Page/NORTHERN_MUSIC.md "wikilink")
+  - [NORTHERN MUSIC](https://zh.wikipedia.org/wiki/NORTHERN_MUSIC "wikilink")
 
   -
 ## 外部連結
@@ -130,5 +130,5 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
 [Category:B'z](https://zh.wikipedia.org/wiki/Category:B'z "wikilink") [Category:Being](https://zh.wikipedia.org/wiki/Category:Being "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:1992年建立](https://zh.wikipedia.org/wiki/Category:1992年建立 "wikilink")
 
 1.  伴隨著長戶大幸的修養，作為Being公司再編的一環，將迄今為止Being未實行樂曲管理的グラムミュージック（[ZARD](../Page/ZARD.md "wikilink")、[WANDS](../Page/WANDS.md "wikilink")、[大黑摩季](../Page/大黑摩季.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、[ZYYG](../Page/ZYYG.md "wikilink")）、ヅァインミュージック([T-BOLAN](../Page/T-BOLAN.md "wikilink")、等ZAIN RECORDS藝人)、パスミュージック([TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink")、、等外部唱片公司旗下藝人)4間公司瓜分。97年成立GIZA Studio旗下藝人樂曲管理的スプーンフルミュージック（現ギザミュージック）。直到93年10月為止發售的份量，皆由Being管理。
-2.  伴隨著B'z的私人唱片公司化，或等旗下藝人移籍到。曾經旗下的[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")、[Mi-Ke](../Page/Mi-Ke.md "wikilink")、[織田哲郎](../Page/織田哲郎.md "wikilink")或、[西城秀樹](../Page/西城秀樹.md "wikilink")等人的原盤權，轉為移管到上繼承。
+2.  伴隨著B'z的私人唱片公司化，或等旗下藝人移籍到。曾經旗下的[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")、[Mi-Ke](../Page/Mi-Ke.md "wikilink")、[織田哲郎](../Page/織田哲郎.md "wikilink")或、[西城秀樹等人的原盤權](https://zh.wikipedia.org/wiki/西城秀樹 "wikilink")，轉為移管到上繼承。
 3.  伴隨著2007年的集團公司再編，移管到Be企劃室（ビー企画室）。2014年以後的樂曲，由Being出版業管理。

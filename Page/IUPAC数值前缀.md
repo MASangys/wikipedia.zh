@@ -41,7 +41,7 @@
 
 ### 数值1
 
-前缀*mono-*很少用于[有机化学](../Page/有机化学.md "wikilink")，但在[无机化学](../Page/无机化学.md "wikilink")中为避免二义性前缀*mono-*是必须的。例如**carbon oxide**可能指[carbon monoxide或](https://zh.wikipedia.org/wiki/carbon_monoxide "wikilink")[carbon dioxide](https://zh.wikipedia.org/wiki/carbon_dioxide "wikilink")。
+前缀*mono-*很少用于[有机化学](../Page/有机化学.md "wikilink")，但在[无机化学中为避免二义性前缀](https://zh.wikipedia.org/wiki/无机化学 "wikilink")*mono-*是必须的。例如**carbon oxide**可能指[carbon monoxide或](https://zh.wikipedia.org/wiki/carbon_monoxide "wikilink")[carbon dioxide](https://zh.wikipedia.org/wiki/carbon_dioxide "wikilink")。
 
 在构成复合前缀时, 数值1表示为*hen-*除非它是数值11的组成部分，11专门使用*undeca-*。例如：
 

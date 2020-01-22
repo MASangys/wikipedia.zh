@@ -6,7 +6,7 @@
   -
     全反式[视黄醇](../Page/视黄醇.md "wikilink")-[视黄醇结合蛋白](https://zh.wikipedia.org/wiki/视黄醇结合蛋白 "wikilink") + [NAD](../Page/烟酰胺腺嘌呤二核苷酸.md "wikilink")<sup>+</sup> \(\rightleftharpoons\) 全反式[视黄醛](../Page/视黄醛.md "wikilink")-视黄醇结合蛋白 + NADH + [H<sup>+</sup>](https://zh.wikipedia.org/wiki/氢离子 "wikilink")
 
-全反式视黄醇脱氢酶 (NAD<sup>+</sup>)能以全反式[视黄醇](../Page/视黄醇.md "wikilink")和全反式[视黄醛](../Page/视黄醛.md "wikilink")为[底物](https://zh.wikipedia.org/wiki/底物 "wikilink")，且对NAD<sup>+</sup>/NADH[辅因子](../Page/辅因子.md "wikilink")有很强的特异性。这种酶既能识别处于[游离态](../Page/游离态.md "wikilink")的底物也能识别与[视黄醇结合蛋白相结合时的底物](https://zh.wikipedia.org/wiki/视黄醇结合蛋白 "wikilink")，但对结合状态下的底物具有更高的亲和性。\[1\]
+全反式视黄醇脱氢酶 (NAD<sup>+</sup>)能以全反式[视黄醇](../Page/视黄醇.md "wikilink")和全反式[视黄醛](../Page/视黄醛.md "wikilink")为[底物](https://zh.wikipedia.org/wiki/底物 "wikilink")，且对NAD<sup>+</sup>/NADH[辅因子](../Page/辅因子.md "wikilink")有很强的特异性。这种酶既能识别处于[游离态的底物也能识别与](https://zh.wikipedia.org/wiki/游离态 "wikilink")[视黄醇结合蛋白相结合时的底物](https://zh.wikipedia.org/wiki/视黄醇结合蛋白 "wikilink")，但对结合状态下的底物具有更高的亲和性。\[1\]
 
 ## 参考文献
 

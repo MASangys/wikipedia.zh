@@ -5,7 +5,7 @@
 
 ### V07AA [石膏](../Page/石膏.md "wikilink")类（Plasters）
 
-### V07AB [溶剂](../Page/溶剂.md "wikilink")和稀释剂，含灌注溶液（Solvents and diluting agents, including irrigating solutions）
+### V07AB [溶剂和稀释剂](https://zh.wikipedia.org/wiki/溶剂 "wikilink")，含灌注溶液（Solvents and diluting agents, including irrigating solutions）
 
 ### V07AC [输血](https://zh.wikipedia.org/wiki/输血 "wikilink")，辅助用品（Blood transfusion, auxiliary products）
 

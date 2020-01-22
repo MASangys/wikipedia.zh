@@ -17,7 +17,7 @@
 1.  **ホントのじぶん**
     （作詞：[岩里祐穂](https://zh.wikipedia.org/wiki/岩里祐穂 "wikilink")、作曲：木之下慶行、編曲：[西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink")）
 2.  **こころのたまご**
-    （作詞：川上夏季、作曲：ムラマツテツヤ、編曲：[安部潤](../Page/安部潤.md "wikilink")）
+    （作詞：川上夏季、作曲：ムラマツテツヤ、編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")）
 3.  ホントのじぶん(Instrumental)
 4.  こころのたまご(Instrumental)
 

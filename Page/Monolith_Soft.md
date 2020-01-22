@@ -5,7 +5,7 @@
 
 ## 公司概要
 
-因为受到管理政策差异等原因，杉浦博英、[高橋哲哉和](../Page/高橋哲哉_\(遊戲製作人\).md "wikilink")[本根康之](../Page/本根康之.md "wikilink")从[史克威爾](../Page/史克威爾.md "wikilink")（SQUARE CO.）退社；1999年10月1日，由[南梦宫](../Page/南梦宫.md "wikilink")（现[万代南梦宫游戏](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")）出资成立Monolith Soft，\[1\]杉浦博英担任公司总裁兼首席执行官，公司地址位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[目黑區](../Page/目黑區.md "wikilink")。
+因为受到管理政策差异等原因，杉浦博英、[高橋哲哉和](https://zh.wikipedia.org/wiki/高橋哲哉_\(遊戲製作人\) "wikilink")[本根康之从](https://zh.wikipedia.org/wiki/本根康之 "wikilink")[史克威爾](../Page/史克威爾.md "wikilink")（SQUARE CO.）退社；1999年10月1日，由[南梦宫](../Page/南梦宫.md "wikilink")（现[万代南梦宫游戏](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")）出资成立Monolith Soft，\[1\]杉浦博英担任公司总裁兼首席执行官，公司地址位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[目黑區](../Page/目黑區.md "wikilink")。
 
 公司开发了著名的科幻RPG电子游戏[異域傳說系列](../Page/異域傳說系列.md "wikilink")，还有在[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")平台上受到好评的[霸天开拓史系列](https://zh.wikipedia.org/wiki/霸天开拓史系列 "wikilink")。此外公司还接受游戏外包服务。
 
@@ -70,8 +70,8 @@
   - 《[地獄犬的輓歌：最終幻想VII](https://zh.wikipedia.org/wiki/地獄犬的輓歌：最終幻想VII "wikilink")》（[PlayStation 2](../Page/PlayStation_2.md "wikilink")，2006年1月26日，作为第三方承包游戏背景绘制）\[5\]\[6\]
   - 《[任天堂明星大亂鬥X](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥X "wikilink")》（[Wii](../Page/Wii.md "wikilink")，2008年1月31日，协力开发、公司创始人之一的本根康之负责冒险模式『亜空の使者』的地图设计）\[7\]
   - 《[薩爾達傳說 天空之劍](../Page/薩爾達傳說_天空之劍.md "wikilink")》（[Wii](../Page/Wii.md "wikilink")，2011年11月23日，受委托开发）
-  - 《[走出戶外 動物之森](https://zh.wikipedia.org/wiki/走出戶外_動物之森 "wikilink")》（[任天堂3DS](../Page/任天堂3DS.md "wikilink")，2012年11月8日，协力开发）
-  - 《[皮克敏3](https://zh.wikipedia.org/wiki/皮克敏3 "wikilink")》（[Wii U](../Page/Wii_U.md "wikilink")，2013年7月13日，协力开发）\[8\]
+  - 《[走出戶外 動物之森](https://zh.wikipedia.org/wiki/走出戶外_動物之森 "wikilink")》（[任天堂3DS](https://zh.wikipedia.org/wiki/任天堂3DS "wikilink")，2012年11月8日，协力开发）
+  - 《[皮克敏3](https://zh.wikipedia.org/wiki/皮克敏3 "wikilink")》（[Wii U](https://zh.wikipedia.org/wiki/Wii_U "wikilink")，2013年7月13日，协力开发）\[8\]
   - 《[塞尔达传说 众神的三角力量2](../Page/塞尔达传说_众神的三角力量2.md "wikilink")》（任天堂3DS，2013年11月22日，协力开发）
   - 《[Splatoon](../Page/Splatoon.md "wikilink")》（Wii U，2015年5月28日，协力开发）
   - 《[动物之森 快乐之家设计师](../Page/动物之森_快乐之家设计师.md "wikilink")》（任天堂3DS，2015年7月30日，受委托开发）
@@ -81,8 +81,8 @@
 ## 主要成员
 
   - 杉浦博英（来自[史克威爾](../Page/史克威爾.md "wikilink")）
-  - [高橋哲哉](../Page/高橋哲哉_\(遊戲製作人\).md "wikilink")（来自史克威爾）
-  - [本根康之](../Page/本根康之.md "wikilink")（来自史克威爾）
+  - [高橋哲哉](https://zh.wikipedia.org/wiki/高橋哲哉_\(遊戲製作人\) "wikilink")（来自史克威爾）
+  - [本根康之](https://zh.wikipedia.org/wiki/本根康之 "wikilink")（来自史克威爾）
   - 森住惣一郎（来自[帕布雷斯特](https://zh.wikipedia.org/wiki/帕布雷斯特 "wikilink")）
   - 石谷浩二（来自帕布雷斯特）
 

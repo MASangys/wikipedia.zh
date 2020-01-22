@@ -374,7 +374,7 @@
 <td><p>27</p></td>
 <td></td>
 <td><p>我要做偶像</p></td>
-<td><p><a href="../Page/荒川稔久.md" title="wikilink">荒川稔久</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒川稔久" title="wikilink">荒川稔久</a></p></td>
 <td><p>筑紫大介</p></td>
 <td><p>山本郷</p></td>
 <td><p>9月9日</p></td>

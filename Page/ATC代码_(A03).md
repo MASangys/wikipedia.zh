@@ -42,7 +42,7 @@
     A03AB53 奥芬溴铵，复方（Oxyphenonium, combinations）
     QA03AB90 [苄替米特](https://zh.wikipedia.org/wiki/苄替米特 "wikilink")（Benzetimide）
     QA03AB92 [碳酰胆碱](https://zh.wikipedia.org/wiki/碳酰胆碱 "wikilink")（Carbachol）
-    QA03AB93 [新斯的明](../Page/新斯的明.md "wikilink")（Neostigmin）
+    QA03AB93 [新斯的明](https://zh.wikipedia.org/wiki/新斯的明 "wikilink")（Neostigmin）
 
 ### A03AC 合成的解痉药，带叔胺的酰胺类（Synthetic antispasmodics, amides with tertiary amines）
 
@@ -51,10 +51,10 @@
     A03AC04 [尼非他胺](https://zh.wikipedia.org/wiki/尼非他胺 "wikilink")（Nicofetamide）
     A03AC05 [苯酰胺桂胺](https://zh.wikipedia.org/wiki/苯酰胺桂胺 "wikilink")（Tiropramide）
 
-### A03AD [罂粟碱](../Page/罂粟碱.md "wikilink")及其衍生物（Papaverine and derivatives）
+### A03AD [罂粟碱及其衍生物](https://zh.wikipedia.org/wiki/罂粟碱 "wikilink")（Papaverine and derivatives）
 
   -
-    A03AD01 [罂粟碱](../Page/罂粟碱.md "wikilink")（Papaverine）
+    A03AD01 [罂粟碱](https://zh.wikipedia.org/wiki/罂粟碱 "wikilink")（Papaverine）
     A03AD02 [屈他维林](https://zh.wikipedia.org/wiki/屈他维林 "wikilink")（Drotaverine）
     A03AD30 [莫沙维林](https://zh.wikipedia.org/wiki/莫沙维林 "wikilink")（Moxaverine）
 
@@ -164,7 +164,7 @@
 ### A03FA 胃肠动力药（Propulsives）
 
   -
-    A03FA01 [甲氧氯普胺](../Page/甲氧氯普胺.md "wikilink")（Metoclopramide）
+    A03FA01 [甲氧氯普胺](https://zh.wikipedia.org/wiki/甲氧氯普胺 "wikilink")（Metoclopramide）
     A03FA02 [西沙必利](https://zh.wikipedia.org/wiki/西沙必利 "wikilink")（Cisapride）
     A03FA03 [多潘立酮](../Page/多潘立酮.md "wikilink")（吗叮啉）（Domperidone）
     A03FA04 [溴必利](https://zh.wikipedia.org/wiki/溴必利 "wikilink")（Bromopride）

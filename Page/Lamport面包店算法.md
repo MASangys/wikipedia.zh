@@ -1,7 +1,7 @@
 > 本文内容由[Lamport面包店算法](https://zh.wikipedia.org/wiki/Lamport面包店算法)转换而来。
 
 
-**Lamport面包店算法**是解决多个[线程](../Page/线程.md "wikilink")[并发访问一个共享的单用户资源的](https://zh.wikipedia.org/wiki/并发程序设计 "wikilink")[互斥问题的算法](../Page/互斥锁.md "wikilink")。 由[莱斯利·兰波特](../Page/莱斯利·兰波特.md "wikilink")发明\[1\]。
+**Lamport面包店算法**是解决多个[线程](../Page/线程.md "wikilink")[并发访问一个共享的单用户资源的](https://zh.wikipedia.org/wiki/并发程序设计 "wikilink")[互斥问题的算法](../Page/互斥锁.md "wikilink")。 由[莱斯利·兰波特发明](https://zh.wikipedia.org/wiki/莱斯利·兰波特 "wikilink")\[1\]。
 
 ## 算法
 

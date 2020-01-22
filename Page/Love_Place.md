@@ -1,14 +1,14 @@
 > 本文内容由[Love Place](https://zh.wikipedia.org/wiki/Love_Place)转换而来。
 
 
-{{ Infobox Album | | Name = Love Place | Type = [錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink") | Cover = | Artist = [西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink") | Released = 2012年9月5日 \[1\] | Recorded = 2011年～2012年 | Genre = [日本流行音樂](../Page/日本流行音樂.md "wikilink") | Length = - | Label = [日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink") | Producer = | Last album = [Thank you, Love](../Page/Thank_you,_Love.md "wikilink")
+{{ Infobox Album | | Name = Love Place | Type = [錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink") | Cover = | Artist = [西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink") | Released = 2012年9月5日 \[1\] | Recorded = 2011年～2012年 | Genre = [日本流行音樂](../Page/日本流行音樂.md "wikilink") | Length = - | Label = [日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink") | Producer = | Last album = [Thank you, Love](https://zh.wikipedia.org/wiki/Thank_you,_Love "wikilink")
 （2011年） | This album = **Love Place**
 （2012年） | Next album = [Love Collection ～pink～](../Page/Love_Collection_～pink～.md "wikilink") / [Love Collection ～mint～](../Page/Love_Collection_～mint～.md "wikilink")
 （2013年） | Misc =  }} 《**Love Place**》是日本歌手[西野加奈的第四張專輯](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")，於2012年9月5日發售。\[2\]
 
 ## 解說
 
-  - 與上張專輯《[Thank you, Love](../Page/Thank_you,_Love.md "wikilink")》相隔約1年2個月\[3\]，收錄了4張單曲的A面曲以及1首B面曲，共15首歌。
+  - 與上張專輯《[Thank you, Love](https://zh.wikipedia.org/wiki/Thank_you,_Love "wikilink")》相隔約1年2個月\[3\]，收錄了4張單曲的A面曲以及1首B面曲，共15首歌。
 
 ## 發行版本
 
@@ -90,7 +90,7 @@
 
 ### DVD\[5\]
 
-1.  **Alright**(專輯[Thank you, Love專輯曲](../Page/Thank_you,_Love.md "wikilink")) **Video Clip**
+1.  **Alright**(專輯[Thank you, Love專輯曲](https://zh.wikipedia.org/wiki/Thank_you,_Love "wikilink")) **Video Clip**
 2.  **Alirght Video Clip Making**
 3.  **たとえ どんなに… Video Clip**
 4.  **たとえ どんなに… Video Clip Making**

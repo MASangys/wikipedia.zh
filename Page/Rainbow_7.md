@@ -6,7 +6,7 @@
 ## 概要
 
   - 與上一張原創專輯「[愛的第6感](../Page/愛的第6感.md "wikilink")」相距約1年2個月。
-  - 收錄第25張單曲「[THE MANPOWER\!\!\!](../Page/THE_MANPOWER!!!.md "wikilink")」至第28張單曲「[直感2 ～溜掉的魚才是最大尾的\!～](../Page/直感2_～溜掉的魚才是最大尾的!～.md "wikilink")」，一共4首A面曲。
+  - 收錄第25張單曲「[THE MANPOWER\!\!\!](../Page/THE_MANPOWER!!!.md "wikilink")」至第28張單曲「[直感2 ～溜掉的魚才是最大尾的\!～](https://zh.wikipedia.org/wiki/直感2_～溜掉的魚才是最大尾的!～ "wikilink")」，一共4首A面曲。
   - 七期成員[久住小春](../Page/久住小春.md "wikilink")加入後第一張原創專輯。
   - 此專輯是早安少女組。以十人形式參與演唱，一期成員[飯田圭織](../Page/飯田圭織.md "wikilink")只參與一首曲目（[THE MANPOWER\!\!\!](../Page/THE_MANPOWER!!!.md "wikilink")），而二期成員[矢口真里](../Page/矢口真里.md "wikilink")和四期成員[石川梨華](../Page/石川梨華.md "wikilink")只參與二首曲目（[THE MANPOWER\!\!\!](../Page/THE_MANPOWER!!!.md "wikilink")、[大阪 戀之歌](../Page/大阪_戀之歌.md "wikilink")）
   - 本作分「初回限定盤」和「CD盤」2種版本
@@ -48,7 +48,7 @@
     （作詞・作曲：淳君 編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
 10. **再見 SEE YOU AGAIN Adios BYE BYE Chaccha\!**（さよなら SEE YOU AGAIN アディオス BYE BYE チャッチャ\!）
     （作詞・作曲：淳君 編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
-11. **[直感2 ～溜掉的魚才是最大尾的\!～](../Page/直感2_～溜掉的魚才是最大尾的!～.md "wikilink")（完全正確Remix）**（直感2 〜逃した魚は大きいぞ\!〜（全くその通リミックス））
+11. **[直感2 ～溜掉的魚才是最大尾的\!～](https://zh.wikipedia.org/wiki/直感2_～溜掉的魚才是最大尾的!～ "wikilink")（完全正確Remix）**（直感2 〜逃した魚は大きいぞ\!〜（全くその通リミックス））
     （作詞・作曲：淳君 編曲：[江上浩太郎](https://zh.wikipedia.org/wiki/江上浩太郎 "wikilink")）
       -
         28th單曲・第6枚原創專輯「[愛的第6感](../Page/愛的第6感.md "wikilink")」收錄曲「直感 ～有時愛情是〜」的後續曲

@@ -1,7 +1,7 @@
 > 本文内容由[Npm](https://zh.wikipedia.org/wiki/Npm)转换而来。
 
 
-**npm**（全称 Node Package Manager，即“node包管理器”）是[Node.js](../Page/Node.js.md "wikilink")預設的、以[JavaScript](../Page/JavaScript.md "wikilink")編寫的[軟體套件管理系統](https://zh.wikipedia.org/wiki/軟體套件管理系統 "wikilink")。
+**npm**（全称 Node Package Manager，即“node包管理器”）是[Node.js預設的](https://zh.wikipedia.org/wiki/Node.js "wikilink")、以[JavaScript](../Page/JavaScript.md "wikilink")編寫的[軟體套件管理系統](https://zh.wikipedia.org/wiki/軟體套件管理系統 "wikilink")。
 
 ## 历史
 
@@ -33,8 +33,8 @@ npm可以管理本地项目的所需模块并自动维护依赖情况，也可�
 ## 参见
 
   - [JavaScript](../Page/JavaScript.md "wikilink")
-  - [V8 (JavaScript引擎)](../Page/V8_\(JavaScript引擎\).md "wikilink")
-  - [Node.js](../Page/Node.js.md "wikilink")
+  - [V8 (JavaScript引擎)](https://zh.wikipedia.org/wiki/V8_\(JavaScript引擎\) "wikilink")
+  - [Node.js](https://zh.wikipedia.org/wiki/Node.js "wikilink")
 
 {{-}}
 

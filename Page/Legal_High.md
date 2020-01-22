@@ -70,7 +70,7 @@
 <td><center>
 <p>加賀蘭丸</p></td>
 <td><center>
-<p><a href="../Page/李凱傑.md" title="wikilink">李凱傑</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李凱傑" title="wikilink">李凱傑</a></p></td>
 <td><p>23歲，古美門得力助手，是個大胃王，專責替古美門蒐集對訴訟有利的情報，擅長潛入、破壞作業。自稱「古美門的<a href="../Page/忍者.md" title="wikilink">忍者</a>」。黛想要雇用他的話雇用費則由黛的薪資直接扣除。夢想成為一位舞台劇演員，但總是無疾而終。</p></td>
 <td></td>
 </tr>
@@ -115,7 +115,7 @@
 <td><center>
 <p>井手孝雄</p></td>
 <td><center>
-<p><a href="../Page/周倚天.md" title="wikilink">周倚天</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/周倚天" title="wikilink">周倚天</a></p></td>
 <td><p>26歲，本身也是律師，因連續失敗，而被三木當成僕人使喚的小助理，並且每次都會被三木喊錯名字。偶爾喊對的時候通常會發生意外劇情。</p></td>
 <td></td>
 </tr>
@@ -156,11 +156,11 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/黑木華.md" title="wikilink">黑木華</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黑木華" title="wikilink">黑木華</a></p></td>
 <td><center>
 <p>本田珍</p></td>
 <td><center>
-<p><a href="../Page/黃瑩瑩.md" title="wikilink">黃瑩瑩</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃瑩瑩" title="wikilink">黃瑩瑩</a></p></td>
 <td><p>33歲，從零存在感的陰沉檢察官轉變成自由奔放的嬉皮風女律師。離開事務所後，再度變回陰沉檢察官。</p></td>
 <td></td>
 </tr>
@@ -237,7 +237,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/松平健.md" title="wikilink">松平健</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/松平健" title="wikilink">松平健</a></p></td>
 <td><center>
 <p>醍醐實</p></td>
 <td><center>
@@ -433,7 +433,7 @@
 <td><center>
 <p>村瀨美由紀</p></td>
 <td><center>
-<p><a href="../Page/余欣沛.md" title="wikilink">余欣沛</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/余欣沛" title="wikilink">余欣沛</a></p></td>
 <td><p>本集原告。</p></td>
 <td></td>
 </tr>
@@ -453,7 +453,7 @@
 <td><center>
 <p>牧野達哉</p></td>
 <td><center>
-<p><a href="../Page/張方正.md" title="wikilink">張方正</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張方正" title="wikilink">張方正</a></p></td>
 <td><p>本集原告（村瀨）丈夫。</p></td>
 <td></td>
 </tr>
@@ -469,11 +469,11 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/村井美樹.md" title="wikilink">村井美樹</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/村井美樹" title="wikilink">村井美樹</a></p></td>
 <td><center>
 <p>桑田久美子</p></td>
 <td><center>
-<p><a href="../Page/黃淑芬.md" title="wikilink">黃淑芬</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃淑芬" title="wikilink">黃淑芬</a></p></td>
 <td></td>
 <td><center>
 <p>4</p></td>
@@ -597,7 +597,7 @@
 <td><center>
 <p>小松凛</p></td>
 <td><center>
-<p><a href="../Page/黃淑芬.md" title="wikilink">黃淑芬</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃淑芬" title="wikilink">黃淑芬</a></p></td>
 <td><p>岡崎之前的同事。</p></td>
 <td></td>
 </tr>
@@ -699,7 +699,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/小澤真珠.md" title="wikilink">小澤真珠</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/小澤真珠" title="wikilink">小澤真珠</a></p></td>
 <td><center>
 <p>安永留美子</p></td>
 <td><center>
@@ -850,7 +850,7 @@
 <td><center>
 <p>出水舞</p></td>
 <td><center>
-<p><a href="../Page/余欣沛.md" title="wikilink">余欣沛</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/余欣沛" title="wikilink">余欣沛</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -876,7 +876,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/田畑智子.md" title="wikilink">田畑智子</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/田畑智子" title="wikilink">田畑智子</a></p></td>
 <td><center>
 <p>八木沼佳奈</p></td>
 <td><center>
@@ -973,7 +973,7 @@
 <td><center>
 <p>小暮和彥</p></td>
 <td><center>
-<p><a href="../Page/胡家豪.md" title="wikilink">胡家豪</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/胡家豪" title="wikilink">胡家豪</a></p></td>
 <td><p>2年C班學生。從屋頂摔下後送醫急救，一度出現昏迷狀態。</p></td>
 </tr>
 <tr class="even">
@@ -982,7 +982,7 @@
 <td><center>
 <p>青山瞬</p></td>
 <td><center>
-<p><a href="../Page/周良鴻.md" title="wikilink">周良鴻</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/周良鴻" title="wikilink">周良鴻</a></p></td>
 <td><p>2年C班學生。和彥的同學兼好友。</p></td>
 </tr>
 <tr class="odd">
@@ -1096,7 +1096,7 @@
 <td><center>
 <p>南風倫倫</p></td>
 <td><center>
-<p><a href="../Page/陳皓宜.md" title="wikilink">陳皓宜</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳皓宜" title="wikilink">陳皓宜</a></p></td>
 <td><p>偶像明星。</p></td>
 <td><center>
 <p>1</p></td>
@@ -1207,7 +1207,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/塚地武雅.md" title="wikilink">塚地武雅</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/塚地武雅" title="wikilink">塚地武雅</a></p></td>
 <td><center>
 <p>熊井健悟</p></td>
 <td><center>
@@ -1218,7 +1218,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/美波.md" title="wikilink">美波</a><br />
+<p><a href="https://zh.wikipedia.org/wiki/美波" title="wikilink">美波</a><br />
 <small>高校時代：<a href="https://zh.wikipedia.org/wiki/伊部葉子" title="wikilink">伊部葉子</a></small></p></td>
 <td><center>
 <p>熊井穗乃香</p></td>
@@ -1271,7 +1271,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/佐藤瑠生亮.md" title="wikilink">佐藤瑠生亮</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/佐藤瑠生亮" title="wikilink">佐藤瑠生亮</a></p></td>
 <td><center>
 <p>東山弘夢</p></td>
 <td><center>
@@ -1337,7 +1337,7 @@
 <td><center>
 <p>田向百合子</p></td>
 <td><center>
-<p><a href="../Page/陳皓宜.md" title="wikilink">陳皓宜</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳皓宜" title="wikilink">陳皓宜</a></p></td>
 <td><p>學和美繪的女兒。</p></td>
 <td></td>
 </tr>
@@ -1518,7 +1518,7 @@
 <td><center>
 <p>穗積孝</p></td>
 <td><center>
-<p><a href="../Page/張方正.md" title="wikilink">張方正</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張方正" title="wikilink">張方正</a></p></td>
 <td><p>前動畫工作室員工。</p></td>
 <td></td>
 </tr>
@@ -1535,7 +1535,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/橋本潤.md" title="wikilink">橋本潤</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/橋本潤" title="wikilink">橋本潤</a></p></td>
 <td><center>
 <p>鄉田</p></td>
 <td><center>
@@ -1559,7 +1559,7 @@
 <td><center>
 <p>平野里香</p></td>
 <td><center>
-<p><a href="../Page/羅孔柔.md" title="wikilink">羅孔柔</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/羅孔柔" title="wikilink">羅孔柔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1713,12 +1713,12 @@
 <td><center>
 <p>赤目好美</p></td>
 <td><center>
-<p><a href="../Page/廖杏茵.md" title="wikilink">廖杏茵</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/廖杏茵" title="wikilink">廖杏茵</a></p></td>
 <td><p>赤目義二的次女。廣瀬的未婚妻。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/東出昌大.md" title="wikilink">東出昌大</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/東出昌大" title="wikilink">東出昌大</a></p></td>
 <td><center>
 <p>廣瀨史也</p></td>
 <td><center>
@@ -1749,7 +1749,7 @@
 <td><center>
 <p>野野宮</p></td>
 <td><center>
-<p><a href="../Page/吳羨婷.md" title="wikilink">吳羨婷</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/吳羨婷" title="wikilink">吳羨婷</a></p></td>
 <td><p>東都綜合醫院的護理師。</p></td>
 </tr>
 <tr class="odd">
@@ -1803,7 +1803,7 @@
 <td><center>
 <p>高木健太</p></td>
 <td><center>
-<p><a href="../Page/巫哲棋.md" title="wikilink">巫哲棋</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/巫哲棋" title="wikilink">巫哲棋</a></p></td>
 <td><p>東都綜合醫院前事務員。出庭作證的證人。</p></td>
 </tr>
 <tr class="odd">
@@ -1812,7 +1812,7 @@
 <td><center>
 <p>小林安代</p></td>
 <td><center>
-<p><a href="../Page/黃淑芬.md" title="wikilink">黃淑芬</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃淑芬" title="wikilink">黃淑芬</a></p></td>
 <td><p>東都綜合醫院前看護師。出庭作證的證人。</p></td>
 </tr>
 <tr class="even">
@@ -1821,7 +1821,7 @@
 <td><center>
 <p>所慎平</p></td>
 <td><center>
-<p><a href="../Page/關令翹.md" title="wikilink">關令翹</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/關令翹" title="wikilink">關令翹</a></p></td>
 <td><p>製藥公司研究員。出庭作證的證人。</p></td>
 </tr>
 <tr class="odd">
@@ -1848,7 +1848,7 @@
 <td><center>
 <p>東京地方裁判所民事部裁判長</p></td>
 <td><center>
-<p><a href="../Page/馮志輝.md" title="wikilink">馮志輝</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/馮志輝" title="wikilink">馮志輝</a></p></td>
 <td><p>醫療過失訴訟的主審法官。</p></td>
 </tr>
 </tbody>
@@ -1906,8 +1906,8 @@
 
 | 大獎                                                                | 獎項         | 得獎者      |
 | ----------------------------------------------------------------- | ---------- | -------- |
-| 2012年6月[銀河賞](../Page/銀河賞.md "wikilink")                           |            |          |
-| 第50回[銀河賞](../Page/銀河賞.md "wikilink")                              | 個人賞（僅電視部門） | 堺雅人\[8\] |
+| 2012年6月[銀河賞](https://zh.wikipedia.org/wiki/銀河賞 "wikilink")        |            |          |
+| 第50回[銀河賞](https://zh.wikipedia.org/wiki/銀河賞 "wikilink")           | 個人賞（僅電視部門） | 堺雅人\[8\] |
 | [第73回日劇學院賞](https://zh.wikipedia.org/wiki/第73回日劇學院賞名單 "wikilink") | 監督賞        |          |
 | 脚本賞\[9\]                                                          |            |          |
 | 第5回[東京國際戲劇節](../Page/東京國際戲劇節.md "wikilink")                       | 優秀賞        |          |
@@ -1930,13 +1930,13 @@
 
 第一季與特別篇
 
-  - 主題曲 - [PES](https://zh.wikipedia.org/wiki/PES "wikilink") from [RIP SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")《女神のKISS》（[unBORDE](../Page/日本華納音樂.md "wikilink")）
-  - 片頭曲 - [小野惠令奈](../Page/小野惠令奈.md "wikilink")《[えれぴょん](https://zh.wikipedia.org/wiki/えれぴょん_\(小野惠令奈單曲\) "wikilink")》（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
+  - 主題曲 - [PES](https://zh.wikipedia.org/wiki/PES "wikilink") from [RIP SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")《女神のKISS》（[unBORDE](https://zh.wikipedia.org/wiki/日本華納音樂 "wikilink")）
+  - 片頭曲 - [小野惠令奈](../Page/小野惠令奈.md "wikilink")《[えれぴょん](https://zh.wikipedia.org/wiki/えれぴょん_\(小野惠令奈單曲\) "wikilink")》（[日本華納音樂](https://zh.wikipedia.org/wiki/日本華納音樂 "wikilink")）
 
 第二季
 
-  - 主題曲 - [RIP SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")《SLY》（[unBORDE](../Page/日本華納音樂.md "wikilink")）
-  - 片頭曲 - [9nine](../Page/9nine.md "wikilink")《[Re:](https://zh.wikipedia.org/wiki/Re:_\(9nine单曲\) "wikilink")》（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
+  - 主題曲 - [RIP SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")《SLY》（[unBORDE](https://zh.wikipedia.org/wiki/日本華納音樂 "wikilink")）
+  - 片頭曲 - [9nine](https://zh.wikipedia.org/wiki/9nine "wikilink")《[Re:](https://zh.wikipedia.org/wiki/Re:_\(9nine单曲\) "wikilink")》（[日本華納音樂](https://zh.wikipedia.org/wiki/日本華納音樂 "wikilink")）
 
 特別篇2
 
@@ -1976,7 +1976,7 @@
 <td><p>著作權訴訟案有利可圖!?</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福田沙紀" title="wikilink">福田沙紀</a><br />
 <a href="../Page/友近.md" title="wikilink">友近</a><br />
-<a href="../Page/洼田正孝.md" title="wikilink">洼田正孝</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/洼田正孝" title="wikilink">洼田正孝</a></p></td>
 <td><p>12.1%</p></td>
 <td></td>
 <td></td>
@@ -2010,7 +2010,7 @@
 <td></td>
 <td><p>還我陽光！公寓訴訟泯滅仁義之戰</p></td>
 <td><p><a href="../Page/大和田伸也.md" title="wikilink">大和田伸也</a><br />
-<a href="../Page/村井美樹.md" title="wikilink">村井美樹</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/村井美樹" title="wikilink">村井美樹</a></p></td>
 <td><p>12.3%</p></td>
 <td></td>
 <td></td>
@@ -2080,7 +2080,7 @@
 <td><p>監護權爭奪戰！天才童星與母親的斷絕關係訴訟</p></td>
 <td><p>城宝秀則</p></td>
 <td><p><a href="../Page/中村敦夫.md" title="wikilink">中村敦夫</a><br />
-<a href="../Page/小澤真珠.md" title="wikilink">小澤真珠</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/小澤真珠" title="wikilink">小澤真珠</a></p></td>
 <td><p><font color="red">14.5%</p></td>
 <td></td>
 <td></td>
@@ -2113,7 +2113,7 @@
 <td></td>
 <td><p>破產與否得靠這5億！？再見吧 過度浮誇的美好小鎮</p></td>
 <td><p>城宝秀則</p></td>
-<td><p><a href="../Page/田畑智子.md" title="wikilink">田畑智子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田畑智子" title="wikilink">田畑智子</a></p></td>
 <td><p>12.0%</p></td>
 <td></td>
 <td></td>
@@ -2202,7 +2202,7 @@
 <th><p>完全復活的古美門研介！<br />
 完全替委託人著想的不敗律師挺身面對殘暴的壞人！</p></th>
 <th><p>石川淳一</p></th>
-<th><p><a href="../Page/松平健.md" title="wikilink">松平健</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/松平健" title="wikilink">松平健</a><br />
 <a href="../Page/中尾明慶.md" title="wikilink">中尾明慶</a></p></th>
 <th><p><span style="color:red">21.2%</span></p></th>
 </tr>
@@ -2233,8 +2233,8 @@
 <td><p>要臉？還是要心？該選哪一個？<br />
 前所未有的整型判決</p></td>
 <td><p>城寶秀則</p></td>
-<td><p><a href="../Page/塚地武雅.md" title="wikilink">塚地武雅</a><br />
-<a href="../Page/美波.md" title="wikilink">美波</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塚地武雅" title="wikilink">塚地武雅</a><br />
+<a href="https://zh.wikipedia.org/wiki/美波" title="wikilink">美波</a></p></td>
 <td><p>18.5%</p></td>
 <td></td>
 <td></td>
@@ -2303,7 +2303,7 @@
 <td><p>是天才還是暴君！？世界級動畫導演的職權騷擾判決</p></td>
 <td><p>西坂瑞城</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伊東四朗" title="wikilink">伊東四朗</a><br />
-<a href="../Page/橋本潤.md" title="wikilink">橋本潤</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/橋本潤" title="wikilink">橋本潤</a></p></td>
 <td><p>17.7%</p></td>
 <td></td>
 <td></td>
@@ -2395,7 +2395,7 @@
 <td><p><a href="../Page/大森南朋.md" title="wikilink">大森南朋</a><br />
 <a href="../Page/吉瀨美智子.md" title="wikilink">吉瀨美智子</a><br />
 <a href="../Page/剛力彩芽.md" title="wikilink">剛力彩芽</a><br />
-<a href="../Page/東出昌大.md" title="wikilink">東出昌大</a><br />
+<a href="https://zh.wikipedia.org/wiki/東出昌大" title="wikilink">東出昌大</a><br />
 <a href="https://zh.wikipedia.org/wiki/古谷一行" title="wikilink">古谷一行</a></p></td>
 <td><p>15.1%</p></td>
 <td></td>

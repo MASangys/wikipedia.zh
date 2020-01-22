@@ -50,11 +50,11 @@
 
   - 處理器晶片將內建完整的[電壓調節模組](../Page/電壓調節模組.md "wikilink")，Intel又一次把[主機板上的元件整合至處理器上](https://zh.wikipedia.org/wiki/主機板 "wikilink")，\[48\]此舉可令主機板的供電設計變得簡單，降低主機板廠商的製造主機板的製造成本。\[49\]但同時也令主機板廠商的產品賣點減少，趨於同質化，競爭加劇。\[50\]\[51\]英特爾的這種設計並非是電壓調節模組和處理器晶片完全融合，電壓調節模組是一塊獨立的供電晶片，英特爾稱『整合稳压器』（IVR），和處理器晶片共用一塊處理器基板。晶片採用22奈米制程，內建20個『供電單元』（Power Cell），具有可程式化特性，可為處理器各單元模組提供獨立穩定的電壓控制，理論上最多可以為處理器內各個模組單元提供一共320相供電。\[52\]
   - 新的高級電源管理，除了傳統的EIST和Turbo Boost以外，新增了幾個電力控制狀態，對於CPU核心和內建GPU核心將會有更明確精細的電壓控制，類似於對手[超微半導體](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")（[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")）的Turbo Core 3.0；\[53\]\[54\]
-  - 行動版本的處理器將有[熱設計功耗為](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")25瓦、37瓦、47瓦以及57瓦的型號\[55\]；而桌機版本的預期則有熱設計功耗為35瓦、45瓦、55瓦、65瓦、77瓦、95瓦以及極致效能（包括高階[伺服器平台的](https://zh.wikipedia.org/wiki/伺服器 "wikilink")）高達100瓦以上TDP的型號\[56\]，最高達到了Haswell-EP/EX的160瓦，最大通過電流190安培\[57\]\[58\]，不過有消息指出，由於增大的顯示核心，主流級和效能級桌面版本處理器的熱設計功耗有可能上揚至105瓦\[59\]；除了流動平台、桌面平台以及伺服器平台以外，Intel還專門為[超極致筆電設計了](../Page/Ultrabook.md "wikilink")[TDP只有](https://zh.wikipedia.org/wiki/TDP "wikilink")15W、10W的版本，而且還將採用[多晶片模組](../Page/多晶片模組.md "wikilink")的設計，將晶片組和處理器整合到一塊處理器[基板上](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，類似於[Intel Westmere中顯示核心和CPU核心整合於一塊處理器基板的形式](https://zh.wikipedia.org/wiki/Intel_Westmere "wikilink")。\[60\]\[61\]\[62\]\[63\]\[64\]
+  - 行動版本的處理器將有[熱設計功耗為](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")25瓦、37瓦、47瓦以及57瓦的型號\[55\]；而桌機版本的預期則有熱設計功耗為35瓦、45瓦、55瓦、65瓦、77瓦、95瓦以及極致效能（包括高階[伺服器平台的](https://zh.wikipedia.org/wiki/伺服器 "wikilink")）高達100瓦以上TDP的型號\[56\]，最高達到了Haswell-EP/EX的160瓦，最大通過電流190安培\[57\]\[58\]，不過有消息指出，由於增大的顯示核心，主流級和效能級桌面版本處理器的熱設計功耗有可能上揚至105瓦\[59\]；除了流動平台、桌面平台以及伺服器平台以外，Intel還專門為[超極致筆電設計了](https://zh.wikipedia.org/wiki/Ultrabook "wikilink")[TDP只有](https://zh.wikipedia.org/wiki/TDP "wikilink")15W、10W的版本，而且還將採用[多晶片模組](../Page/多晶片模組.md "wikilink")的設計，將晶片組和處理器整合到一塊處理器[基板上](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，類似於[Intel Westmere中顯示核心和CPU核心整合於一塊處理器基板的形式](https://zh.wikipedia.org/wiki/Intel_Westmere "wikilink")。\[60\]\[61\]\[62\]\[63\]\[64\]
 
 ### 預期特性
 
-  - 支援[Thunderbolt](../Page/Thunderbolt.md "wikilink")技術。\[65\]
+  - 支援[Thunderbolt技術](https://zh.wikipedia.org/wiki/Thunderbolt "wikilink")。\[65\]
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@ i7-4790用以取代i7-4771而非i7-4770。
 
 ### 企業級處理器
 
-Intel為在[高效能計算和高效能資料中心領域對抗](https://zh.wikipedia.org/wiki/超級計算機 "wikilink")[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")“[Project Denver](../Page/Project_Denver.md "wikilink")”的新形態處理器（基於[ARM的](https://zh.wikipedia.org/wiki/ARM "wikilink")[指令集架構](../Page/指令集架構.md "wikilink")的處理器並整合NVIDIA基於“Maxwell”架構的[GPGPU](https://zh.wikipedia.org/wiki/GPGPU "wikilink")），將推出極致效能的x86處理器核心Haswell-EP/EX，最高支援[八通道](https://zh.wikipedia.org/wiki/多通道 "wikilink")[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-4266，熱設計功耗高達160[瓦](../Page/瓦特.md "wikilink")，往下還有145瓦、135瓦、120瓦等幾個階層。\[95\]\[96\]\[97\]
+Intel為在[高效能計算和高效能資料中心領域對抗](https://zh.wikipedia.org/wiki/超級計算機 "wikilink")[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")“[Project Denver](https://zh.wikipedia.org/wiki/Project_Denver "wikilink")”的新形態處理器（基於[ARM的](https://zh.wikipedia.org/wiki/ARM "wikilink")[指令集架構](../Page/指令集架構.md "wikilink")的處理器並整合NVIDIA基於“Maxwell”架構的[GPGPU](https://zh.wikipedia.org/wiki/GPGPU "wikilink")），將推出極致效能的x86處理器核心Haswell-EP/EX，最高支援[八通道](https://zh.wikipedia.org/wiki/多通道 "wikilink")[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-4266，熱設計功耗高達160[瓦](../Page/瓦特.md "wikilink")，往下還有145瓦、135瓦、120瓦等幾個階層。\[95\]\[96\]\[97\]
 
 ## 效能表現
 

@@ -11,7 +11,7 @@
 
 ## 建立與使用
 
-這個專案在Bronk\[4\]於[Wikimania 2006上的介紹後](https://zh.wikipedia.org/wiki/維基媒體國際會議#2006年度 "wikilink")，於當年9月開始正式運作\[5\]\[6\]，此為前任[國務卿](https://zh.wikipedia.org/wiki/美國國務卿 "wikilink")[康朵麗莎·萊斯在轉型外交概念下所做的大力推動而開始的計劃其中一部分](https://zh.wikipedia.org/wiki/康朵麗莎·萊斯 "wikilink")。根據該計劃，人員利用維基、部落格、社群和虛擬工作環境等Web 2.0技術為代表性不足的領域提供外交服務\[7\]。在她卸任之後，該計劃繼續在[希拉蕊·柯林頓的外交](https://zh.wikipedia.org/wiki/希拉蕊·柯林頓 "wikilink")[巧實力](../Page/巧實力.md "wikilink")願景之下進行發展，相當依賴網路發展出的[新媒體](../Page/新媒體.md "wikilink")，以及[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")和[YouTube](../Page/YouTube.md "wikilink")等大型的商業社群媒體網站\[8\]。
+這個專案在Bronk\[4\]於[Wikimania 2006上的介紹後](https://zh.wikipedia.org/wiki/維基媒體國際會議#2006年度 "wikilink")，於當年9月開始正式運作\[5\]\[6\]，此為前任[國務卿](https://zh.wikipedia.org/wiki/美國國務卿 "wikilink")[康朵麗莎·萊斯在轉型外交概念下所做的大力推動而開始的計劃其中一部分](https://zh.wikipedia.org/wiki/康朵麗莎·萊斯 "wikilink")。根據該計劃，人員利用維基、部落格、社群和虛擬工作環境等Web 2.0技術為代表性不足的領域提供外交服務\[7\]。在她卸任之後，該計劃繼續在[希拉蕊·柯林頓的外交](https://zh.wikipedia.org/wiki/希拉蕊·柯林頓 "wikilink")[巧實力願景之下進行發展](https://zh.wikipedia.org/wiki/巧實力 "wikilink")，相當依賴網路發展出的[新媒體](../Page/新媒體.md "wikilink")，以及[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")和[YouTube](../Page/YouTube.md "wikilink")等大型的商業社群媒體網站\[8\]。
 
 在[Wikimania 2008中](https://zh.wikipedia.org/wiki/維基媒體國際會議#2008年度 "wikilink")，eDiplomacy公佈了Diplopedia維基專案截至2008年7月的的狀態。根據當時發表的題目：「Diplopedia：美國國務院中的維基文化」（）中所提到，其中共有4,400多則條目、1000個註冊用戶編輯、並擁有65萬次的頁面瀏覽量\[9\]。
 

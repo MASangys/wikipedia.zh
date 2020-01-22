@@ -1,7 +1,7 @@
 > 本文内容由[Robynn \& Kendy](https://zh.wikipedia.org/wiki/Robynn_\&_Kendy)转换而来。
 
 
-**Robynn & Kendy**，[香港](../Page/香港.md "wikilink")唱作[女子組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員為**Robynn Yip**（[葉晴晴](https://zh.wikipedia.org/wiki/:zh-yue:葉晴晴 "wikilink")）和**Kendy Suen**（[孫曉慧](https://zh.wikipedia.org/wiki/:zh-yue:孫曉慧 "wikilink")），2011年7月開始於影片分享網站[YouTube](../Page/YouTube.md "wikilink")發放改編及翻唱作品，現為[環球唱片旗下歌手](../Page/環球唱片_\(香港\).md "wikilink")。
+**Robynn & Kendy**，[香港](../Page/香港.md "wikilink")唱作[女子組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員為**Robynn Yip**（[葉晴晴](https://zh.wikipedia.org/wiki/:zh-yue:葉晴晴 "wikilink")）和**Kendy Suen**（[孫曉慧](https://zh.wikipedia.org/wiki/:zh-yue:孫曉慧 "wikilink")），2011年7月開始於影片分享網站[YouTube](../Page/YouTube.md "wikilink")發放改編及翻唱作品，現為[環球唱片旗下歌手](https://zh.wikipedia.org/wiki/環球唱片_\(香港\) "wikilink")。
 
 ## 成員背景
 
@@ -39,7 +39,7 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 
 ### 正式出道
 
-2012年1月10日，她們宣佈加入[環球唱片成為旗下歌手](../Page/環球唱片_\(香港\).md "wikilink")，正式在香港主流樂壇上出道。 出道後有繼續拍攝網上的視頻，其中包括翻唱的視頻和自家製的MV。
+2012年1月10日，她們宣佈加入[環球唱片成為旗下歌手](https://zh.wikipedia.org/wiki/環球唱片_\(香港\) "wikilink")，正式在香港主流樂壇上出道。 出道後有繼續拍攝網上的視頻，其中包括翻唱的視頻和自家製的MV。
 
 2014年年初，她們自己舉辦了『V計劃』－ 自己當導演，為《Sail Away》專輯拍攝了6首非主打歌的MV，整個拍攝過程都是她們和友人一起策劃、找場地、拍攝、和剪接，希望為自己的原創曲加上畫面。
 
@@ -69,7 +69,7 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <td style="text-align: left;"><p>1st</p></td>
 <td style="text-align: left;"><p><a href="../Page/Robynn_&amp;_Kendy_(專輯).md" title="wikilink">Robynn &amp; Kendy</a></p></td>
 <td style="text-align: left;"><p>雙EP</p></td>
-<td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(香港)" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2012年6月13日</p></td>
 <td style="text-align: left;"><p><strong>CD 1</strong></p>
 <ol>
@@ -99,7 +99,7 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <tr class="even">
 <td style="text-align: left;"><p><a href="../Page/Robynn_&amp;_Kendy_(專輯).md" title="wikilink">Robynn &amp; Kendy (Dream Together Edition)</a></p></td>
 <td style="text-align: left;"><p>雙EP</p></td>
-<td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(香港)" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2012年7月17日</p></td>
 <td style="text-align: left;"><p><strong>CD 1</strong></p>
 <ol>
@@ -140,9 +140,9 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p><a href="../Page/Dear_Diary.md" title="wikilink">Dear Diary</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dear_Diary" title="wikilink">Dear Diary</a></p></td>
 <td style="text-align: left;"><p>雙EP</p></td>
-<td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(香港)" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2013年2月21日</p></td>
 <td style="text-align: left;"><p><strong>CD 1</strong></p>
 <ol>
@@ -168,9 +168,9 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 </ol></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="../Page/Dear_Diary.md" title="wikilink">Dear Diary (2nd Edition)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dear_Diary" title="wikilink">Dear Diary (2nd Edition)</a></p></td>
 <td style="text-align: left;"><p>雙EP</p></td>
-<td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(香港)" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2013年4月15日</p></td>
 <td style="text-align: left;"><p><strong>CD 1</strong></p>
 <ol>
@@ -202,9 +202,9 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>3rd</p></td>
-<td style="text-align: left;"><p><a href="../Page/Sail_Away.md" title="wikilink">Sail Away</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Sail_Away" title="wikilink">Sail Away</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(香港)" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2013年11月25日</p></td>
 <td style="text-align: left;"><ol>
 <li><strong>Sail Away</strong></li>
@@ -220,9 +220,9 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 </ol></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="../Page/Sail_Away.md" title="wikilink">航海之旅</a>（內地版）</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Sail_Away" title="wikilink">航海之旅</a>（內地版）</p></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(香港)" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2014年3月</p></td>
 <td style="text-align: left;"><ol>
 <li><strong>Sail Away</strong></li>
@@ -242,7 +242,7 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <td style="text-align: left;"><p>4th</p></td>
 <td style="text-align: left;"><p><a href="../Page/Picturesque.md" title="wikilink">Picturesque</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(香港)" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2014年10月28日</p></td>
 <td style="text-align: left;"><p><strong>CD 1 - The Gallery</strong></p>
 <ol>
@@ -284,7 +284,7 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <td style="text-align: left;"><p>5th</p></td>
 <td style="text-align: left;"><p><a href="../Page/如果·我不完美.md" title="wikilink">如果·我不完美</a></p></td>
 <td style="text-align: left;"><p>國語大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(香港)" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2015年9月16日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
@@ -296,21 +296,21 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 <li>不想想你（不痛不癢國語版）</li>
 <li>那些回憶（不用太趕國語版）</li>
 <li>幸福好寂寞（月湖國語版）</li>
-<li><strong>新一天</strong>（feat. <a href="../Page/林奕匡.md" title="wikilink">林奕匡</a>）</li>
+<li><strong>新一天</strong>（feat. <a href="https://zh.wikipedia.org/wiki/林奕匡" title="wikilink">林奕匡</a>）</li>
 </ol>
 <p><strong>DVD</strong></p>
 <ol>
 <li>想怎樣 MV</li>
 <li>我不完美 MV</li>
 <li>如果一天有25小時 MV</li>
-<li>新一天 MV (feat. <a href="../Page/林奕匡.md" title="wikilink">林奕匡</a>)</li>
+<li>新一天 MV (feat. <a href="https://zh.wikipedia.org/wiki/林奕匡" title="wikilink">林奕匡</a>)</li>
 </ol></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>6th</p></td>
 <td style="text-align: left;"><p><a href="../Page/CURATIONS.md" title="wikilink">CURATIONS</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(香港)" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2019年4月26日</p></td>
 <td style="text-align: left;"><ol>
 <li><strong>負攝石</strong></li>
@@ -332,10 +332,10 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
   - **Robynn & Kendy**自創歌曲
   - 2010年：[楊千嬅](../Page/楊千嬅.md "wikilink") - 呼吸需要（Kendy作曲）
   - 2013年：[麥家瑜](../Page/麥家瑜.md "wikilink") - 我愛大商場（Robynn 作曲）
-  - 2015年：[馮允謙](../Page/馮允謙.md "wikilink") - 飛星雨（作詞）
+  - 2015年：[馮允謙](https://zh.wikipedia.org/wiki/馮允謙 "wikilink") - 飛星雨（作詞）
   - 2015年：[李克勤](../Page/李克勤.md "wikilink") - 簡單美（Kendy作曲、作詞）
   - 2015年：[楊千嬅](../Page/楊千嬅.md "wikilink") - 房間號碼（Kendy作曲）
-  - 2017年：[馮允謙](../Page/馮允謙.md "wikilink") - 楓葉書籤（作詞）
+  - 2017年：[馮允謙](https://zh.wikipedia.org/wiki/馮允謙 "wikilink") - 楓葉書籤（作詞）
   - 2017年：[泳兒](../Page/泳兒.md "wikilink") - 愛如雪（Kendy、黃安弘作曲）
   - 2018年：[黃紫藍](https://zh.wikipedia.org/wiki/黃紫藍 "wikilink") - 可惜只是男朋友（Kendy、Cousin Fung作曲）
   - 2019年：[孫慧雪](../Page/孫慧雪.md "wikilink") - 幸福的錯覺（Robynn、鍾婉芸、佳旺作曲）
@@ -350,16 +350,16 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 | [Robynn & Kendy](../Page/Robynn_&_Kendy_\(專輯\).md "wikilink")                         |
 | [Robynn & Kendy](../Page/Robynn_&_Kendy_\(專輯\).md "wikilink")                         |
 | [Robynn & Kendy](../Page/Robynn_&_Kendy_\(專輯\).md "wikilink")                         |
-| [Dear Diary](../Page/Dear_Diary.md "wikilink")                                        |
+| [Dear Diary](https://zh.wikipedia.org/wiki/Dear_Diary "wikilink")                     |
 | **2013年**                                                                             |
-| [Dear Diary](../Page/Dear_Diary.md "wikilink")                                        |
-| [Dear Diary](../Page/Dear_Diary.md "wikilink")                                        |
-| [Dear Diary](../Page/Dear_Diary.md "wikilink")                                        |
-| [Sail Away](../Page/Sail_Away.md "wikilink")                                          |
-| [Sail Away](../Page/Sail_Away.md "wikilink")                                          |
+| [Dear Diary](https://zh.wikipedia.org/wiki/Dear_Diary "wikilink")                     |
+| [Dear Diary](https://zh.wikipedia.org/wiki/Dear_Diary "wikilink")                     |
+| [Dear Diary](https://zh.wikipedia.org/wiki/Dear_Diary "wikilink")                     |
+| [Sail Away](https://zh.wikipedia.org/wiki/Sail_Away "wikilink")                       |
+| [Sail Away](https://zh.wikipedia.org/wiki/Sail_Away "wikilink")                       |
 | **2014年**                                                                             |
-| [Sail Away](../Page/Sail_Away.md "wikilink")                                          |
-| [Sail Away](../Page/Sail_Away.md "wikilink")                                          |
+| [Sail Away](https://zh.wikipedia.org/wiki/Sail_Away "wikilink")                       |
+| [Sail Away](https://zh.wikipedia.org/wiki/Sail_Away "wikilink")                       |
 | [Picturesque](../Page/Picturesque.md "wikilink")                                      |
 | [Picturesque](../Page/Picturesque.md "wikilink")                                      |
 | **2015年**                                                                             |
@@ -389,8 +389,8 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 | **5**       |
 
   - （\*）表示仍在榜上
-  - （×）代表由於[TVB與包括其所屬](https://zh.wikipedia.org/wiki/TVB "wikilink")[環球唱片的四大唱片公司的版稅紛爭而沒有派上TVB](../Page/環球唱片_\(香港\).md "wikilink")
-  - **粗體**表示四台冠軍歌、[TVB與包括其所屬](https://zh.wikipedia.org/wiki/TVB "wikilink")[環球唱片的四大唱片公司的版稅紛爭](../Page/環球唱片_\(香港\).md "wikilink")/TVB歌手合約問題而並未派台的三台冠軍歌
+  - （×）代表由於[TVB與包括其所屬](https://zh.wikipedia.org/wiki/TVB "wikilink")[環球唱片的四大唱片公司的版稅紛爭而沒有派上TVB](https://zh.wikipedia.org/wiki/環球唱片_\(香港\) "wikilink")
+  - **粗體**表示四台冠軍歌、[TVB與包括其所屬](https://zh.wikipedia.org/wiki/TVB "wikilink")[環球唱片的四大唱片公司的版稅紛爭](https://zh.wikipedia.org/wiki/環球唱片_\(香港\) "wikilink")/TVB歌手合約問題而並未派台的三台冠軍歌
 
 ## 電視
 
@@ -1434,7 +1434,7 @@ Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽
 ## 參考資料
 
   - [太陽報](../Page/太陽報_\(香港\).md "wikilink"). [Robynn & Kendy喚醒音樂夢](http://the-sun.on.cc/cnt/lifestyle/20111009/00485_001.html) 2011年10月9日
-  - [晴報](../Page/晴報.md "wikilink"). [Robynn & Kendy只想做自己](https://web.archive.org/web/20160311161526/http://skypost.hk/feature/%E4%BA%BA%E7%89%A9/2/2/robynn%20%26%20kendy%E5%8F%AA%E6%83%B3%E5%81%9A%E8%87%AA%E5%B7%B1/21149)
+  - [晴報](https://zh.wikipedia.org/wiki/晴報 "wikilink"). [Robynn & Kendy只想做自己](https://web.archive.org/web/20160311161526/http://skypost.hk/feature/%E4%BA%BA%E7%89%A9/2/2/robynn%20%26%20kendy%E5%8F%AA%E6%83%B3%E5%81%9A%E8%87%AA%E5%B7%B1/21149)
 
 ## 外部連結
 

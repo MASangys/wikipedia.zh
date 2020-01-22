@@ -68,7 +68,7 @@
 與張俊傑不和、後和好</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/張振朗.md" title="wikilink">張振朗</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a></strong></p></td>
 <td><p><strong>陳敏聰</strong></p></td>
 <td><p><strong>阿B、聰仔</strong><br />
 陳永就、劉翠雲之子，後與劉翠雲反目，最後和好<br />
@@ -196,7 +196,7 @@
 許美鳳之好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何遠東.md" title="wikilink">何遠東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何遠東" title="wikilink">何遠東</a></p></td>
 <td><p>賴導演</p></td>
 <td></td>
 </tr>
@@ -228,7 +228,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張明偉.md" title="wikilink">張明偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張明偉" title="wikilink">張明偉</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -449,22 +449,22 @@
 <td><p>（第1集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳婉婷_(演員).md" title="wikilink">陳婉婷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳婉婷_(演員)" title="wikilink">陳婉婷</a></p></td>
 <td><p>珊</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張漢斌.md" title="wikilink">張漢斌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張漢斌" title="wikilink">張漢斌</a></p></td>
 <td><p>全</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>明</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳芷尤" title="wikilink">陳芷尤</a></p></td>
 <td><p>歌　星</p></td>
 <td></td>
 </tr>
@@ -484,7 +484,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/譚坤倫.md" title="wikilink">譚坤倫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/譚坤倫" title="wikilink">譚坤倫</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -546,12 +546,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅鈞滿.md" title="wikilink">羅鈞滿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅鈞滿" title="wikilink">羅鈞滿</a></p></td>
 <td><p>頭　七</p></td>
 <td><p>澳門賭場高利貸</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊潮凱" title="wikilink">楊潮凱</a></p></td>
 <td><p>尾　注</p></td>
 <td></td>
 </tr>
@@ -566,7 +566,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃栢文.md" title="wikilink">黃栢文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃栢文" title="wikilink">黃栢文</a></p></td>
 <td><p>超市經理</p></td>
 <td></td>
 </tr>
@@ -606,7 +606,7 @@
 <td><p>虐打劉翠雲並掠去她的錢（第15集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳幸美" title="wikilink">吳幸美</a></p></td>
 <td><p>社　工</p></td>
 <td></td>
 </tr>

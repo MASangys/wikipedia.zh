@@ -1,7 +1,7 @@
 > 本文内容由[假面骑士×假面骑士 Wizard \& Fourze MOVIE大战Ultimatum](https://zh.wikipedia.org/wiki/假面骑士×假面骑士_Wizard_\&_Fourze_MOVIE大战Ultimatum)转换而来。
 
 
-《**假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum**》（），是日本特攝節目《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》和《**[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")**》聯動劇場版，「MOVIE大戰系列」第4部作品。日本地區於2012年12月8日上映。
+《**假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum**》（），是日本特攝節目《**[假面騎士Fourze](https://zh.wikipedia.org/wiki/假面騎士Fourze "wikilink")**》和《**[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")**》聯動劇場版，「MOVIE大戰系列」第4部作品。日本地區於2012年12月8日上映。
 
 本作劇場版的口號為「究極的Show Time、開幕！」、「Wizard、向未來的約定。Fourze、5年前的約定。為完成那個「約定」、投入決戰之地。」
 
@@ -9,9 +9,9 @@
 
 繼前作《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》加入東映系列的其他特攝作品，假面騎士以外的英雄共同演出後，本作同樣加入了《[閃電人](../Page/闪电人.md "wikilink")》(日原文《イナズマン》) 、《伏魔三劍俠》(日原文《[アクマイザー3](../Page/伏魔三剑侠.md "wikilink")》) 和《美少女假面Poitrine》(日原文《[美少女仮面ポワトリン](https://zh.wikipedia.org/wiki/美少女假面 "wikilink")》)三大特攝作品的主角演出。
 
-本作把《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的主角和二號騎士及怪人實行大集結，同時前作《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》中登場的假面騎士Nadeshiko亦會回歸。
+本作把《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》、《[假面騎士Fourze](https://zh.wikipedia.org/wiki/假面騎士Fourze "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的主角和二號騎士及怪人實行大集結，同時前作《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》中登場的假面騎士Nadeshiko亦會回歸。
 
-根据本作Fourze篇结尾与后续剧场版剧情，可以猜测Fourze篇实际发生在《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》之后。\[1\]
+根据本作Fourze篇结尾与后续剧场版剧情，可以猜测Fourze篇实际发生在《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》之后。\[1\]
 
 ## 故事概要
 
@@ -44,7 +44,7 @@
 ### 《假面騎士Fourze》
 
   -
-    主條目：[假面騎士Fourze\#登場人物](../Page/假面騎士Fourze角色列表.md "wikilink")
+    主條目：[假面騎士Fourze\#登場人物](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表 "wikilink")
 
 **如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")飾）
 
@@ -118,7 +118,7 @@
     劇場版《[假面騎士Fourze The Movie 大家的宇宙來了！](../Page/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！.md "wikilink")》中與假面騎士部對峙，直至化敵為友共同作戰。
     五年後與朔田流星成為工作伙伴，調查有關超能力士兵的國際犯罪組織。
 
-**大木美代子（）**\[3\]（[足立梨花](../Page/足立梨花.md "wikilink")飾）
+**大木美代子（）**\[3\]（[足立梨花飾](https://zh.wikipedia.org/wiki/足立梨花 "wikilink")）
 
   -
     就讀天之川學園高中，如月弦太朗負責班別 － 1年A班的學生，宇宙假面騎士部部長及唯一成員。
@@ -482,7 +482,7 @@
       -
         雜兵級Yummy。
 
-  - \* **[螳螂](../Page/螳螂.md "wikilink")Yummy（）**
+  - \* **[螳螂Yummy](https://zh.wikipedia.org/wiki/螳螂 "wikilink")（）**
     \* **[貓Yummy](https://zh.wikipedia.org/wiki/貓 "wikilink")（）**
     \* **[犎牛Yummy](https://zh.wikipedia.org/wiki/犎牛 "wikilink")（）**
     \* **[鯊魚Yummy](https://zh.wikipedia.org/wiki/鯊魚 "wikilink")（）**
@@ -670,7 +670,7 @@
   - 佐竹剛 -  飾
   - 諸田先生 -  飾
   - 宇津木遥 - [長澤奈央](../Page/長澤奈央.md "wikilink") 飾
-  - 大木美代子 - [足立梨花](../Page/足立梨花.md "wikilink") 飾
+  - 大木美代子 - [足立梨花](https://zh.wikipedia.org/wiki/足立梨花 "wikilink") 飾
   - 風田三郎 / 蛹超人 / 閃電人 - [須賀健太](../Page/須賀健太.md "wikilink") 飾/聲
   - 小牧瑠美 - [山谷花純](../Page/山谷花純.md "wikilink") 飾
   - 近藤大太 - 中澤兼利 飾
@@ -710,7 +710,7 @@
   - Gara - [三ツ矢雄二](https://zh.wikipedia.org/wiki/三ツ矢雄二 "wikilink")
   - 賢者 - [古川登志夫](../Page/古川登志夫.md "wikilink")
   - 其他假面騎士 - [田丸篤志](../Page/田丸篤志.md "wikilink")、、[間島淳司](../Page/間島淳司.md "wikilink")
-  - 怪人 - 、、津留崎明廣、竹内裕美、[中澤匡智](../Page/中澤匡智.md "wikilink")、[山根剛](../Page/山根剛.md "wikilink")、木村大介、前川綾香
+  - 怪人 - 、、津留崎明廣、竹内裕美、[中澤匡智](https://zh.wikipedia.org/wiki/中澤匡智 "wikilink")、[山根剛](../Page/山根剛.md "wikilink")、木村大介、前川綾香
   - 蓋亞記憶體音聲 - [立木文彥](https://zh.wikipedia.org/wiki/立木文彥 "wikilink")
   - 假面騎士OOO聯組音聲 - [串田晃](../Page/串田晃.md "wikilink")
   - 假面騎士Beast（仁藤攻介） - [永瀨匡](../Page/永瀨匡.md "wikilink")\[7\]

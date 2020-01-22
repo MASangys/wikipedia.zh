@@ -17,7 +17,7 @@
 
 《Your Eyes》發售首周的銷量約有47.8萬張，取得該周[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲周榜首名。\[6\]嵐憑此單曲，由《[PIKA★★NCHI DOUBLE](../Page/PIKA★★NCHI_DOUBLE.md "wikilink")》開始連續28張單曲奪得首名；合共則有35張單曲取得首名，為當時該排行榜第三高的紀錄。\[7\]
 
-此外，該周Oricon公信榜的[專輯周榜首名為](https://zh.wikipedia.org/wiki/專輯 "wikilink")[Hey\! Say\! JUMP的](../Page/Hey!_Say!_JUMP.md "wikilink")《[JUMP WORLD](../Page/JUMP_WORLD.md "wikilink")》，使該周兩個排行榜的首名都由[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的藝人奪得。\[8\]
+此外，該周Oricon公信榜的[專輯周榜首名為](https://zh.wikipedia.org/wiki/專輯 "wikilink")[Hey\! Say\! JUMP的](../Page/Hey!_Say!_JUMP.md "wikilink")《[JUMP WORLD](../Page/JUMP_WORLD.md "wikilink")》，使該周兩個排行榜的首名都由[傑尼斯事務所的藝人奪得](https://zh.wikipedia.org/wiki/傑尼斯事務所 "wikilink")。\[8\]
 
 ## 收錄內容
 

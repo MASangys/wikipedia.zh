@@ -1,7 +1,7 @@
 > 本文内容由[MY KIDS TV](https://zh.wikipedia.org/wiki/MY_KIDS_TV)转换而来。
 
 
-**MY-KIDS TV**（****）是[群英社國際股份有限公司經營的以兒童為對象的](https://zh.wikipedia.org/wiki/群英社國際股份有限公司 "wikilink")[高畫質電視頻道](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")，目前僅在[中華電信MOD](../Page/中華電信MOD.md "wikilink")播出。經常代理最新的[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，與[日本](../Page/日本.md "wikilink")同步播送。
+**MY-KIDS TV**（****）是[群英社國際股份有限公司經營的以兒童為對象的](https://zh.wikipedia.org/wiki/群英社國際股份有限公司 "wikilink")[高畫質電視頻道](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")，目前僅在[中華電信MOD播出](https://zh.wikipedia.org/wiki/中華電信MOD "wikilink")。經常代理最新的[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，與[日本](../Page/日本.md "wikilink")同步播送。
 
 MY KIDS TV為[台灣第一個採用](https://zh.wikipedia.org/wiki/台灣 "wikilink")「[HD無帶化](https://zh.wikipedia.org/wiki/HDTV "wikilink")」運作方式的[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，所有[動畫以數位檔案方式透過](https://zh.wikipedia.org/wiki/動畫 "wikilink")[光纖網路傳送而不使用](https://zh.wikipedia.org/wiki/光纖網路 "wikilink")[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，減少人力成本、物流成本與時間\[1\]。
 
@@ -19,13 +19,13 @@ MY KIDS TV為[台灣第一個採用](https://zh.wikipedia.org/wiki/台灣 "wikil
   - [鋼彈創鬥者](https://zh.wikipedia.org/wiki/鋼彈創鬥者 "wikilink")
   - [鐵道小英雄](https://zh.wikipedia.org/wiki/鐵道小英雄 "wikilink")
   - [奇幻山丘高中](https://zh.wikipedia.org/wiki/奇幻山丘高中 "wikilink")
-  - [星光樂園](../Page/星光樂園.md "wikilink")
+  - [星光樂園](https://zh.wikipedia.org/wiki/星光樂園 "wikilink")
   - [網球王子](https://zh.wikipedia.org/wiki/網球王子 "wikilink")
   - [忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")
   - [影子篮球员](https://zh.wikipedia.org/wiki/影子篮球员 "wikilink")
   - [星光少女 彩虹舞台](../Page/星光少女_彩虹舞台.md "wikilink")
   - [鹹蛋超人 TARO](https://zh.wikipedia.org/wiki/鹹蛋超人_TARO "wikilink")
-  - [晨曦公主](../Page/晨曦公主.md "wikilink")
+  - [晨曦公主](https://zh.wikipedia.org/wiki/晨曦公主 "wikilink")
   - [小紅豆](https://zh.wikipedia.org/wiki/小紅豆_\(漫畫\) "wikilink")
   - [偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")
   - [萌學園6復活之戰](https://zh.wikipedia.org/wiki/萌學園6復活之戰 "wikilink")

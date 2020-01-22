@@ -7,7 +7,7 @@
 
   - 水樹於2012年的第3張單曲，距離前作TIME SPACE EP只有兩個月。
   - 歌曲「BRIGHT STREAM」是由水樹奈奈所演出的劇場版動畫《[魔法少女奈葉 The MOVIE 2nd A's](../Page/魔法少女奈葉_The_MOVIE_2nd_A's.md "wikilink")》的主題曲\[1\]。
-  - 這首也是在[第63回NHK紅白歌合戰](../Page/第63回NHK紅白歌合戰.md "wikilink")中，水樹演唱的曲目。
+  - 這首也是在[第63回NHK紅白歌合戰中](https://zh.wikipedia.org/wiki/第63回NHK紅白歌合戰 "wikilink")，水樹演唱的曲目。
 
 ## 主要记录
 
@@ -19,7 +19,7 @@
 
 1.  **BRIGHT STREAM**（4:11）
       -
-        作詞：水樹奈奈、作曲：吉木繪里子、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
+        作詞：水樹奈奈、作曲：吉木繪里子、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[藤間仁](https://zh.wikipedia.org/wiki/藤間仁 "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
           - 劇場版動畫魔法少女奈葉 The MOVIE 2nd A's[主題曲](../Page/主題曲.md "wikilink")
           - 对应水树第12张单曲“[Eternal Blaze](https://zh.wikipedia.org/wiki/Eternal_Blaze "wikilink")”（原作TV版主题曲）的，情感直接的单曲。是混合了“Eternal Blaze”的激烈和“[Phantom Minds](https://zh.wikipedia.org/wiki/Phantom_Minds "wikilink")”（前一部剧场版主题曲）中女性的温柔，而组合而成的曲子\[3\]。
           - 标题「BRIGHT STREAM」是「一束微光」的意思。和在相互的遇见中产生了光芒的2nd A's一样，同样因为光芒而在命运中创造了缝隙，而选择了这个名字。也因此音乐的构成中加入了钢琴，来创造流星一般闪耀的印象\[4\]。
@@ -27,7 +27,7 @@
 2.  **FEARLESS HERO**（4:16）
       -
         作詞：藤林聖子、作曲：奈良悠樹、編曲：藤田淳平（Elements Garden）
-          - 電視動畫[DOG DAYS主題曲](../Page/DOG_DAYS.md "wikilink")（OP）
+          - 電視動畫[DOG DAYS主題曲](https://zh.wikipedia.org/wiki/DOG_DAYS "wikilink")（OP）
 3.  **Sacred Force**（3:07）
       -
         作詞：Hibiki、作曲：Shihori、編曲：藤間仁（Elements Garden）
@@ -45,7 +45,7 @@
 | e.guiter                                 | [SUSUMU NISIKAWA](https://zh.wikipedia.org/wiki/西川進 "wikilink")                                      |
 | e.bass                                   | FIRE                                                                                                 |
 | strings                                  | [DAISENSEI MUROYA STRINGS](https://zh.wikipedia.org/wiki/室屋光一郎 "wikilink")                           |
-| all other instruments & programming      | [HITOSHI FUJIMA](../Page/藤間仁.md "wikilink")                                                          |
+| all other instruments & programming      | [HITOSHI FUJIMA](https://zh.wikipedia.org/wiki/藤間仁 "wikilink")                                       |
 | recorded by                              | HISAYOSHI KONDO,TETSURO TAKEUCHI(Climbers)                                                           |
 | mixed by                                 | TETSURO TAKEUCHI(Climbers)                                                                           |
 | recorded at                              | [Sony Music Studios Tokyo](https://zh.wikipedia.org/wiki/ソニー・ミュージックスタジオ "wikilink"),Bunkamura Studio |
@@ -61,7 +61,7 @@
 | alto sax                                 | KEI SUZUKI                                                                                           |
 | strings                                  | [GEN ITTETSU STRINGS](https://zh.wikipedia.org/wiki/落合徹也 "wikilink")                                 |
 | chorus                                   | KAZCO                                                                                                |
-| all other instruments & programming      | [JUNPEI FUJITA](../Page/藤田淳平.md "wikilink")                                                          |
+| all other instruments & programming      | [JUNPEI FUJITA](https://zh.wikipedia.org/wiki/藤田淳平 "wikilink")                                       |
 | recorded & mixed by                      | HISAYOSHI KONDO,TETSURO TAKEUCHI(Climbers)                                                           |
 | recorded at                              | Sony Music Studios Tokyo,sunrise studio,ARIA studio                                                  |
 | mixed at                                 | PLANET KINGDOM                                                                                       |

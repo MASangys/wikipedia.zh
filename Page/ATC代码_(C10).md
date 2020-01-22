@@ -13,7 +13,7 @@
     C10AA05 [阿伐他汀](https://zh.wikipedia.org/wiki/阿伐他汀 "wikilink")（Atorvastatin）
     C10AA06 [西立伐他汀](https://zh.wikipedia.org/wiki/西立伐他汀 "wikilink")（Cerivastatin）
     C10AA07 [罗舒伐他汀](https://zh.wikipedia.org/wiki/罗舒伐他汀 "wikilink")（Rosuvastatin）
-    C10AA08 [匹伐他汀](../Page/匹伐他汀.md "wikilink")（Pitavastatin）
+    C10AA08 [匹伐他汀](https://zh.wikipedia.org/wiki/匹伐他汀 "wikilink")（Pitavastatin）
 
 ### C10AB [贝特类](https://zh.wikipedia.org/wiki/贝特类 "wikilink")（Fibrates）
 
@@ -30,7 +30,7 @@
     C10AB10 [氯贝胺](https://zh.wikipedia.org/wiki/氯贝胺 "wikilink")（Clofibride）
     C10AB11 [非诺贝酸](https://zh.wikipedia.org/wiki/非诺贝酸 "wikilink")（Choline fenofibrate）
 
-### C10AC [胆酸](../Page/胆酸.md "wikilink")螯合剂（Bile acid sequestrants）
+### C10AC [胆酸螯合剂](https://zh.wikipedia.org/wiki/胆酸 "wikilink")（Bile acid sequestrants）
 
   -
     C10AC01 [考来烯胺](https://zh.wikipedia.org/wiki/考来烯胺 "wikilink")（Colestyramine）

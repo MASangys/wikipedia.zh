@@ -9,7 +9,7 @@
 
 2017年12月，As One正式解散，成員各自發展，Shin到韓國發展，而後來加入的陳嘉茵則到台灣發展\[1\]，2018年回港發展。
 
-2018年6月，As One前成員Tania參加[2018年度香港小姐競選](../Page/2018年度香港小姐競選.md "wikilink")的[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")\[2\]，奪得「現場至like才藝表演獎」，並入圍最後五強。
+2018年6月，As One前成員Tania參加[2018年度香港小姐競選的](https://zh.wikipedia.org/wiki/2018年度香港小姐競選 "wikilink")[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")\[2\]，奪得「現場至like才藝表演獎」，並入圍最後五強。
 
 ## 團名由來
 
@@ -55,7 +55,7 @@
 
 2015年7月24日，官方公開數位單曲《Candy Ball》廣東話版。\[6\]
 
-2015年12月，隊長Shin因早前獲南韓大型電視台[Mnet](../Page/Mnet.md "wikilink")邀請參與女團育成節目[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")，而前往當地準備參賽。
+2015年12月，隊長Shin因早前獲南韓大型電視台[Mnet邀請參與女團育成節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")，而前往當地準備參賽。
 
 ### 2016年：PRODUCE 101 及 成熟蛻變《Hey Ya》
 
@@ -78,7 +78,7 @@
 
 2017年12月，As One正式解散，成員各自發展，Shin到中國發展；陳嘉茵則到台灣發展，2018年簽約[夢想沙龍](https://zh.wikipedia.org/wiki/夢想沙龍 "wikilink")，並回港推出首支個人派台作品《大肆慶祝》；
 
-2018年6月，Tania報名參加了[2018年度香港小姐競選](../Page/2018年度香港小姐競選.md "wikilink")\[8\]。據了解，陳苑澄曾為香港藝術體操隊成員，她曾於2005年接受報章訪問，表示自己當時參與藝術體操已有四年時間，而自己愛上藝術體操是因為動作優美，表演時十分有美感，而棒操則為的自己的強項。\[9\]她於2017年離開As One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競選而再次受到關注](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")。\[10\]
+2018年6月，Tania報名參加了[2018年度香港小姐競選](https://zh.wikipedia.org/wiki/2018年度香港小姐競選 "wikilink")\[8\]。據了解，陳苑澄曾為香港藝術體操隊成員，她曾於2005年接受報章訪問，表示自己當時參與藝術體操已有四年時間，而自己愛上藝術體操是因為動作優美，表演時十分有美感，而棒操則為的自己的強項。\[9\]她於2017年離開As One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競選而再次受到關注](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")。\[10\]
 
 ## 成員資料
 
@@ -590,7 +590,7 @@ PlotData =
   - 2月3日 - 《[太陽國際集團](https://zh.wikipedia.org/wiki/太陽國際集團 "wikilink")》週年晚宴
   - 2月6日 - 《[勁歌金曲](../Page/勁歌金曲.md "wikilink")》錄影
   - 2月9日 - The One x B.Duck 甜蜜唱聚迎新歲（表演嘉賓）
-  - 2月12日 - Sita[陳僖儀](../Page/陳僖儀.md "wikilink")《Let Me Find Love》簽唱會（表演嘉賓）
+  - 2月12日 - Sita[陳僖儀](https://zh.wikipedia.org/wiki/陳僖儀 "wikilink")《Let Me Find Love》簽唱會（表演嘉賓）
   - 3月5日 - 《香港亞洲流行音樂節2013》記者招待會、Sa Sa 35th Anniversary
   - 3月17日 - 第九屆勁歌王全球華人樂壇音樂盛典
   - 3月19日 - 第二十屆逸夫書院歌唱比賽 （表演嘉賓）
@@ -624,7 +624,7 @@ PlotData =
   - 7月27日 - 2013香港春浪音樂節
   - 7月28日 - RoadShowYOUTH 型人主持新星賽 總決賽
   - 7月28日 - HK Dance Power Competition：Hip Hop 總決賽
-  - 8月2日 - 《[狂舞派](../Page/狂舞派.md "wikilink")》首映禮
+  - 8月2日 - 《[狂舞派](https://zh.wikipedia.org/wiki/狂舞派 "wikilink")》首映禮
   - 8月4日 - Alcatel event
   - 8月20日 - 電影宣傳
   - 8月26日 - 太陽飛馬 Press Con
@@ -870,8 +870,8 @@ PlotData =
 ### 2013年度
 
   - [第9屆「勁歌王」全球華人樂壇音樂盛典](../Page/第9屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") - 最佳新人組合
-  - [新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆新人王（組合）
-  - [IFPI香港唱片銷量大獎2013](../Page/IFPI香港唱片銷量大獎頒獎禮2013.md "wikilink") - 最暢銷本地新人組合
+  - [新城勁爆頒獎禮2013](https://zh.wikipedia.org/wiki/2013年度新城勁爆頒獎禮得獎名單 "wikilink") - 新城勁爆新人王（組合）
+  - [IFPI香港唱片銷量大獎2013](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒獎禮2013 "wikilink") - 最暢銷本地新人組合
 
 ### 2014年度
 
@@ -937,7 +937,7 @@ PlotData =
 2.
 3.  [四變三！三變五！As One兩新成員曝光](http://www.on.cc/hk/bkn/cnt/entertainment/20150417/bkn-20150417134022181-0417_00862_001.html), on.cc東網. 2015-4-17
 4.  [As One成員Elfa離隊聲明](http://www.suneg.com/2015/05/15/as-one%E6%88%90%E5%93%A1elfa%E9%9B%A2%E9%9A%8A%E8%81%B2%E6%98%8E/), 聲明. 太陽娛樂文化. 2015-5-15
-5.  [애즈원의 상큼하고 앙큼한 캔디볼(Candy Ball) MV 촬영 현장 스케치](http://www.mnet.com/special/7732), Mnet Special. 2015-7-14
+5.  [애즈원의 상큼하고 앙큼한 캔디볼(Candy Ball) MV 촬영 현장 스케치](http://www.mnet.com/special/7732) , Mnet Special. 2015-7-14
 6.  [As One 《Candy Ball》 現正熱播中](http://www.suneg.com/2015/07/27/as-one-%E7%8F%BE%E6%AD%A3%E7%86%B1%E6%92%AD%E4%B8%AD/), 新聞稿. 太陽娛樂文化. 2015-7-27。
 7.  [As One 全新派台單曲《HeyYa\!》經已上架](http://www.suneg.com/2016/05/06/as-one-%E5%85%A8%E6%96%B0%E6%B4%BE%E5%8F%B0%E5%96%AE%E6%9B%B2%E3%80%8Aheyya%E3%80%8B%E7%B6%93%E5%B7%B2%E4%B8%8A%E6%9E%B6/), 新聞稿. 太陽娛樂文化. 2016-5-6。
 8.

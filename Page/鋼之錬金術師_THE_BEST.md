@@ -113,11 +113,11 @@
 12. [Chasing hearts](https://zh.wikipedia.org/wiki/441 "wikilink")/ [miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")
       -
         (作詞：miwa 作曲：miwa)
-        2011年 劇場版　[嘆息之丘的聖星](../Page/鋼之鍊金術師_嘆息之丘的聖星.md "wikilink") OP
-13. [GOOD LUCK MY WAY](../Page/GOOD_LUCK_MY_WAY.md "wikilink")/ [L'Arc～en～Ciel](https://zh.wikipedia.org/wiki/L'Arc～en～Ciel "wikilink")
+        2011年 劇場版　[嘆息之丘的聖星](https://zh.wikipedia.org/wiki/鋼之鍊金術師_嘆息之丘的聖星 "wikilink") OP
+13. [GOOD LUCK MY WAY](https://zh.wikipedia.org/wiki/GOOD_LUCK_MY_WAY "wikilink")/ [L'Arc～en～Ciel](https://zh.wikipedia.org/wiki/L'Arc～en～Ciel "wikilink")
       -
         (作詞：hyde 作曲：tetsuya)
-        2011年 劇場版　[嘆息之丘的聖星](../Page/鋼之鍊金術師_嘆息之丘的聖星.md "wikilink") ED
+        2011年 劇場版　[嘆息之丘的聖星](https://zh.wikipedia.org/wiki/鋼之鍊金術師_嘆息之丘的聖星 "wikilink") ED
 
 ## 外部連結
 

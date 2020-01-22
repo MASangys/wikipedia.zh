@@ -78,7 +78,7 @@ VS系列</p></td>
 ### 宇宙暴走族·爆走客
 
   -
-    **總長·蓋拉摩<small>｜**[大竹宏](../Page/大竹宏.md "wikilink")／台配：[梁興昌](../Page/梁興昌.md "wikilink") 聲</small>
+    **總長·蓋拉摩<small>｜**[大竹宏](https://zh.wikipedia.org/wiki/大竹宏 "wikilink")／台配：[梁興昌](../Page/梁興昌.md "wikilink") 聲</small>
     **美女·佐奈特<small>｜**[七瀨理香](https://zh.wikipedia.org/wiki/七瀨理香 "wikilink")／台配：[汪世瑋](../Page/汪世瑋.md "wikilink")</small>
     **副長·澤路馬達<small>｜**[津久井教生](../Page/津久井教生.md "wikilink")／台配：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink") 聲</small>
     **發明家·古拉奇<small>｜**[長嶝高士](../Page/長嶝高士.md "wikilink")／台配：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink") 聲</small>

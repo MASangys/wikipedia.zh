@@ -22,7 +22,7 @@
 <td><p>1st</p></td>
 <td><p>2006年8月2日<br />
 初回限定生産盤</p></td>
-<td><p><strong><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume～Complete Best～</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume～Complete_Best～" title="wikilink">Perfume～Complete Best～</a></strong></p></td>
 <td><p>66</p></td>
 </tr>
 <tr class="even">
@@ -41,7 +41,7 @@
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2009年7月8日</p></td>
-<td><p><strong><a href="../Page/⊿_(Perfume專輯).md" title="wikilink">⊿</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/⊿_(Perfume專輯)" title="wikilink">⊿</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -53,7 +53,7 @@
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2013年10月2日</p></td>
-<td><p><strong><a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LEVEL3" title="wikilink">LEVEL3</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -194,19 +194,19 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2003年8月6日</p></td>
-<td><p><strong><a href="../Page/Sweet_Donuts.md" title="wikilink">スウィートドーナッツ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Sweet_Donuts" title="wikilink">スウィートドーナッツ</a></strong></p></td>
 <td><p>Sweet Donuts</p></td>
 <td><ol>
 <li>スウィートドーナッツ</li>
 <li>シークレットメッセージ</li>
 <li>ジェニーはご機嫌ななめ</li>
 </ol></td>
-<td><p><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume ~Complete Best~</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume～Complete_Best～" title="wikilink">Perfume ~Complete Best~</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2004年3月17日</p></td>
-<td><p><strong><a href="../Page/Monochrome_Effect.md" title="wikilink">モノクロームエフェクト</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Monochrome_Effect" title="wikilink">モノクロームエフェクト</a></strong></p></td>
 <td><p>Monochrome Effect</p></td>
 <td><ol>
 <li>モノクロームエフェクト</li>
@@ -218,7 +218,7 @@
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2004年9月8日</p></td>
-<td><p><strong><a href="../Page/Vitamin_Drop.md" title="wikilink">ビタミンドロップ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Vitamin_Drop" title="wikilink">ビタミンドロップ</a></strong></p></td>
 <td><p>Vitamin Drop</p></td>
 <td><ol>
 <li>ビタミンドロップ</li>
@@ -248,7 +248,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2005年9月21日</p></td>
-<td><p><strong><a href="../Page/Linear_Motor_Girl.md" title="wikilink">リニアモーターガール</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Linear_Motor_Girl" title="wikilink">リニアモーターガール</a></strong></p></td>
 <td><p>Linear Motor Girl</p></td>
 <td><ol>
 <li>リニアモーターガール</li>
@@ -256,12 +256,12 @@
 <li>コンピューター ドライビング</li>
 </ol></td>
 <td><p>99</p></td>
-<td><p><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume ~Complete Best~</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume～Complete_Best～" title="wikilink">Perfume ~Complete Best~</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2006年1月11日</p></td>
-<td><p><strong><a href="../Page/Computer_City.md" title="wikilink">コンピューターシティ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Computer_City" title="wikilink">コンピューターシティ</a></strong></p></td>
 <td><p>Computer City</p></td>
 <td><ol>
 <li>コンピューターシティ</li>
@@ -273,7 +273,7 @@
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2006年6月28日</p></td>
-<td><p><strong><a href="../Page/Electro_World.md" title="wikilink">エレクトロ・ワールド</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Electro_World" title="wikilink">エレクトロ・ワールド</a></strong></p></td>
 <td><p>Electro World</p></td>
 <td><ol>
 <li>エレクトロ・ワールド</li>
@@ -285,7 +285,7 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2007年2月14日</p></td>
-<td><p><strong><a href="../Page/Fan_Service［sweet］.md" title="wikilink">Fan Service ［sweet］</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Fan_Service［sweet］" title="wikilink">Fan Service ［sweet］</a></strong></p></td>
 <td></td>
 <td><ol>
 <li>チョコレイト・ディスコ</li>
@@ -297,7 +297,7 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2007年9月12日</p></td>
-<td><p><strong><a href="../Page/Polyrhythm_(Perfume單曲).md" title="wikilink">ポリリズム</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Polyrhythm_(Perfume單曲)" title="wikilink">ポリリズム</a></strong></p></td>
 <td><p>Polyrhythm</p></td>
 <td><ol>
 <li>ポリリズム</li>
@@ -335,7 +335,7 @@
 <li>edge -extended mix-</li>
 </ol></td>
 <td><p>1</p></td>
-<td><p><a href="../Page/⊿_(Perfume專輯).md" title="wikilink">⊿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/⊿_(Perfume專輯)" title="wikilink">⊿</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
@@ -396,7 +396,7 @@
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>2010年11月10日</p></td>
-<td><p><strong><a href="../Page/欸_(Perfume單曲).md" title="wikilink">ねぇ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/欸_(Perfume單曲)" title="wikilink">ねぇ</a></strong></p></td>
 <td><p>欸</p></td>
 <td><ol>
 <li>ねぇ (Nee)</li>
@@ -447,7 +447,7 @@
 <li>コミュニケーション (Communication) -original instrumental-</li>
 </ol></td>
 <td><p>2</p></td>
-<td><p><a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LEVEL3" title="wikilink">LEVEL3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>16th</p></td>
@@ -496,7 +496,7 @@
 <tr class="odd">
 <td><p>19th</p></td>
 <td><p>2013年11月27日</p></td>
-<td><p><strong><a href="../Page/Sweet_Refrain.md" title="wikilink">Sweet Refrain</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Sweet_Refrain" title="wikilink">Sweet Refrain</a></strong></p></td>
 <td><p>Sweet Refrain</p></td>
 <td><ol>
 <li>Sweet Refrain</li>
@@ -510,7 +510,7 @@
 <tr class="even">
 <td><p>20th</p></td>
 <td><p>2014年7月16日</p></td>
-<td><p><strong><a href="../Page/Cling_Cling.md" title="wikilink">Cling Cling</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Cling_Cling" title="wikilink">Cling Cling</a></strong></p></td>
 <td><p>Cling Cling</p></td>
 <td><ol>
 <li>Cling Cling</li>
@@ -637,7 +637,7 @@
 <td><p>1</p></td>
 <td><p>2007年3月14日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="../Page/Fan_Service［bitter］.md" title="wikilink">Fan Service［bitter］</a></strong> 完全生産限定盤</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Fan_Service［bitter］" title="wikilink">Fan Service［bitter］</a></strong> 完全生産限定盤</p></td>
 <td><p>13</p></td>
 </tr>
 <tr class="odd">
@@ -718,7 +718,7 @@
 <td><p>4</p></td>
 <td><p>2010年1月13日</p></td>
 <td><p>DVD</p></td>
-<td><p>'''<a href="../Page/Perfume_Second_Tour_2009『直角二等邊三角形TOUR』.md" title="wikilink">Perfume Second Tour 2009『直角二等邊三角形TOUR』</a> '''</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/Perfume_Second_Tour_2009『直角二等邊三角形TOUR』" title="wikilink">Perfume Second Tour 2009『直角二等邊三角形TOUR』</a> '''</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -732,7 +732,7 @@
 <td><p>5</p></td>
 <td><p>2011年2月9日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="../Page/結成10週年、主流出道5週年紀念！Perfume_LIVE@東京巨蛋「1_2_3_4_5_6_7_8_9_10_11」.md" title="wikilink">結成10週年、主流出道5週年紀念！Perfume LIVE@東京巨蛋「1 2 3 4 5 6 7 8 9 10 11」</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/結成10週年、主流出道5週年紀念！Perfume_LIVE@東京巨蛋「1_2_3_4_5_6_7_8_9_10_11」" title="wikilink">結成10週年、主流出道5週年紀念！Perfume LIVE@東京巨蛋「1 2 3 4 5 6 7 8 9 10 11」</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -774,7 +774,7 @@
 <td><p>8</p></td>
 <td><p>2014年2月12日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="../Page/Perfume_Clips.md" title="wikilink">Perfume Clips</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_Clips" title="wikilink">Perfume Clips</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -788,7 +788,7 @@
 <td><p>9</p></td>
 <td><p>2014年4月9日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="../Page/Perfume_4th_Tour_in_DOME『LEVEL3』.md" title="wikilink">Perfume 4th Tour in DOME『LEVEL3』</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_4th_Tour_in_DOME『LEVEL3』" title="wikilink">Perfume 4th Tour in DOME『LEVEL3』</a></strong></p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
@@ -802,7 +802,7 @@
 <td><p>10</p></td>
 <td><p>2014年10月1日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="../Page/Perfume_WORLD_TOUR_2nd.md" title="wikilink">Perfume WORLD TOUR 2nd</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_WORLD_TOUR_2nd" title="wikilink">Perfume WORLD TOUR 2nd</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -1187,7 +1187,7 @@
 <li>唱片公司:BEE-HIVE</li>
 <li>生産編號:BEHV-0001</li>
 </ul></td>
-<td><p>收錄「<a href="../Page/Monochrome_Effect.md" title="wikilink">美味食譜</a>（おいしいレシピ）」。也參與了BEE-HIVE『Time to go』合唱。作曲、編曲。</p></td>
+<td><p>收錄「<a href="https://zh.wikipedia.org/wiki/Monochrome_Effect" title="wikilink">美味食譜</a>（おいしいレシピ）」。也參與了BEE-HIVE『Time to go』合唱。作曲、編曲。</p></td>
 </tr>
 <tr class="even">
 <td><p>Imitation World<br />

@@ -1,7 +1,7 @@
 > 本文内容由[特命戰隊Go Busters THE MOVIE 保護東京Enetower!](https://zh.wikipedia.org/wiki/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!)转换而来。
 
 
-『**特命戰隊Go Busters THE MOVIE 保護東京Enetower\!**』（日文：）是2012年8月4日 [東映](../Page/東映.md "wikilink")公開預定上映的『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』的『[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")』劇場版作品，與『[假面騎士系列](../Page/假面騎士系列.md "wikilink") 』的『[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink") 』劇場版『[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink") 』同時上映。
+『**特命戰隊Go Busters THE MOVIE 保護東京Enetower\!**』（日文：）是2012年8月4日 [東映](../Page/東映.md "wikilink")公開預定上映的『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』的『[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")』劇場版作品，與『[假面騎士系列](../Page/假面騎士系列.md "wikilink") 』的『[假面騎士Fourze](https://zh.wikipedia.org/wiki/假面騎士Fourze "wikilink") 』劇場版『[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink") 』同時上映。
 
 ## 概要
 
@@ -95,12 +95,12 @@
 ## Cast
 
   - 櫻田 弘 / Red Buster（聲）：[鈴木勝大](../Page/鈴木勝大.md "wikilink")
-  - 岩崎龍次 / Blue Buster（聲）：[馬場良馬](../Page/馬場良馬.md "wikilink")
+  - 岩崎龍次 / Blue Buster（聲）：[馬場良馬](https://zh.wikipedia.org/wiki/馬場良馬 "wikilink")
   - 宇佐見陽子 / Yellow Buster（聲）：[小宮有紗](../Page/小宮有紗.md "wikilink")
   - 陣雅人 / Beet Buster（聲）：[松本寬也](../Page/松本寬也.md "wikilink")
   - 黒木猛：[榊英雄](https://zh.wikipedia.org/wiki/榊英雄 "wikilink")
   - 仲村美穗：[西平風香](https://zh.wikipedia.org/wiki/西平風香 "wikilink")
-  - 森下徹：[高橋直人](../Page/高橋直人.md "wikilink")
+  - 森下徹：[高橋直人](https://zh.wikipedia.org/wiki/高橋直人 "wikilink")
   - Enter：[陳内將](https://zh.wikipedia.org/wiki/陳内將 "wikilink")
 
 ### 配音出演
@@ -126,7 +126,7 @@
 ## 主題曲
 
   - 「バスターズ レディーゴー\!/キズナ〜ゴーバスターズ\!|キズナ〜ゴーバスターズ\!」（2012 summer MOVIE UNIT）
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲・編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")（[Project.R](../Page/Project.R.md "wikilink")） / 歌：CV：[鈴木勝大](../Page/鈴木勝大.md "wikilink")&[藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")、[馬場良馬](../Page/馬場良馬.md "wikilink")&[玄田哲章](../Page/玄田哲章.md "wikilink")、[小宮有紗](../Page/小宮有紗.md "wikilink")&[鈴木達央](../Page/鈴木達央.md "wikilink")
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲・編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")（[Project.R](../Page/Project.R.md "wikilink")） / 歌：CV：[鈴木勝大](../Page/鈴木勝大.md "wikilink")&[藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")、[馬場良馬](https://zh.wikipedia.org/wiki/馬場良馬 "wikilink")&[玄田哲章](../Page/玄田哲章.md "wikilink")、[小宮有紗](../Page/小宮有紗.md "wikilink")&[鈴木達央](../Page/鈴木達央.md "wikilink")
   - 挿入歌「バスターズ レディーゴー\!/キズナ〜ゴーバスターズ\!|バスターズ レディゴー\!」
     作詞：藤林聖子 / 作曲・編曲：大石憲一郎（Project.R） / 歌：[高橋秀幸](https://zh.wikipedia.org/wiki/高橋秀幸 "wikilink")
 

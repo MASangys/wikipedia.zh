@@ -1,7 +1,7 @@
 > 本文内容由[高垣彩陽第一次巡迴演唱「Memoria×Melodia」](https://zh.wikipedia.org/wiki/高垣彩陽第一次巡迴演唱「Memoria×Melodia」)转换而来。
 
 
-『**高垣彩陽第一次巡迴演唱「Memoria×Melodia」**』（高垣彩陽ファーストコンサートツアー「Memoria×Melodia」）是[高垣彩陽](../Page/高垣彩陽.md "wikilink")的Live影像作品。2012年6月13日由[Music Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
+『**高垣彩陽第一次巡迴演唱「Memoria×Melodia」**』（高垣彩陽ファーストコンサートツアー「Memoria×Melodia」）是[高垣彩陽的Live影像作品](https://zh.wikipedia.org/wiki/高垣彩陽 "wikilink")。2012年6月13日由[Music Ray'n發售](https://zh.wikipedia.org/wiki/Music_Ray'n "wikilink")。
 
 ## 收錄内容
 

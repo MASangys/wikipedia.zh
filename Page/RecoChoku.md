@@ -18,7 +18,7 @@
   - 2008年12月25日，以「唱片公司直營plus」名稱向au（KDDI／沖縄セルラー電話連合）提供[全曲下載plus服務](https://zh.wikipedia.org/wiki/全曲下載plus "wikilink")。
   - 2009年1月15日，開設了CD・DVD販賣網站「[レコチョク shopping](https://web.archive.org/web/20101225160530/http://shopping.recochoku.jp/)」。
   - 2009年2月1日，社名更改為「株式会社レコチョク」。\[3\]
-  - 2010年4月1日，開始對[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")「[Android](../Page/Android.md "wikilink")」提供音樂配信服務「レコチョクAPP」。
+  - 2010年4月1日，開始對[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")「[Android](https://zh.wikipedia.org/wiki/Android "wikilink")」提供音樂配信服務「レコチョクAPP」。
   - 2011年11月18日，DoCoMo的android智慧型手機也開始提供「[dマーケットMUSICストア](https://zh.wikipedia.org/wiki/dマーケット "wikilink") powered by レコチョク」。
   - 2012年4月25日，開始對KDDI和沖縄セルラー搭載android的智慧型手機提供「LISMO Store powered by レコチョク」服務。
 
@@ -51,9 +51,9 @@
   - [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
   - [YAMAHA MUSIC COMMUNICATIONS](https://zh.wikipedia.org/wiki/YAMAHA_MUSIC_COMMUNICATIONS "wikilink")
   - [環球音樂](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")
-  - [YOSHIMOTO R and C](../Page/YOSHIMOTO_R_and_C.md "wikilink")
+  - [YOSHIMOTO R and C](https://zh.wikipedia.org/wiki/YOSHIMOTO_R_and_C "wikilink")
   - [Roadrunner Records](https://zh.wikipedia.org/wiki/Roadrunner_Records "wikilink")
-  - [日本華納音樂](../Page/日本華納音樂.md "wikilink")
+  - [日本華納音樂](https://zh.wikipedia.org/wiki/日本華納音樂 "wikilink")
   - [A-Sketch](../Page/A-Sketch.md "wikilink")　等等
 
 ## RecoChoku新人杯

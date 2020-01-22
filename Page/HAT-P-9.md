@@ -11,7 +11,7 @@
 
 ## 參見
 
-  - [匈牙利自动望远镜网络计划](../Page/匈牙利自动望远镜网络计划.md "wikilink")
+  - [匈牙利自动望远镜网络计划](https://zh.wikipedia.org/wiki/匈牙利自动望远镜网络计划 "wikilink")
   - [確定存在的太陽系外行星列表](https://zh.wikipedia.org/wiki/確定存在的太陽系外行星列表 "wikilink")
 
 ## 參考資料

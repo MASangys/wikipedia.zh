@@ -155,7 +155,7 @@
 <td><p>2010年8月14日</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
-<td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首尔奥林匹克体操竞技场</a>[2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首尔奥林匹克体操竞技场" title="wikilink">首尔奥林匹克体操竞技场</a>[2]</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年8月15日</p></td>

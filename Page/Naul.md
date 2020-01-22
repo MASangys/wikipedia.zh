@@ -41,7 +41,7 @@
 
   - 2000年 [DJ DOC](../Page/DJ_DOC.md "wikilink") 《Season's Greeting》 〈我在等待〉
   - 2000年 火曜飛 1輯 《My All》 〈Promise〉
-  - 2004年 [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") 1輯 《Taxi Driver》 〈兩個男人〉, 〈my bell〉
+  - 2004年 [Dynamic Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink") 1輯 《Taxi Driver》 〈兩個男人〉, 〈my bell〉
   - 2007年 Dynamic Duo 3輯 《Enlightened》 〈考勤〉
   - 2010年 Eco Bridge Single 2輯 《Fall-Ache》〈第一天〉
   - 2011年 DonSpike Single 1輯 《錢spike Presents Vol.1》〈Hello〉
@@ -141,7 +141,7 @@
 <tr class="even">
 <td><p>2012年</p></td>
 <td><p>10月10日</p></td>
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a>／</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet媒體" title="wikilink">Mnet</a>／</p></td>
 <td></td>
 <td><p>風的記憶</p></td>
 <td><p>Naul(Solo)</p></td>

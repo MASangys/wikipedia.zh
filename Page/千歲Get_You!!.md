@@ -3,7 +3,7 @@
 
 《**千歲Get You\!\!**》（）是[日本](../Page/日本.md "wikilink")漫畫家的[四格漫畫](../Page/四格漫畫.md "wikilink")作品。
 
-於[竹書房](../Page/竹書房.md "wikilink")的漫畫雜誌月刊『[まんがライフオリジナル](https://zh.wikipedia.org/wiki/まんがライフオリジナル "wikilink")』在2002年9月号初次掲載。
+於[竹書房的漫畫雜誌月刊](https://zh.wikipedia.org/wiki/竹書房 "wikilink")『[まんがライフオリジナル](https://zh.wikipedia.org/wiki/まんがライフオリジナル "wikilink")』在2002年9月号初次掲載。
 
 『まんがライフオリジナル』的連載在2007年8月号完結，姊妹雜誌的『[まんがライフMOMO](https://zh.wikipedia.org/wiki/まんがライフMOMO "wikilink")』繼續連載中。（参照[連載](https://zh.wikipedia.org/wiki/#連載 "wikilink")）。
 
@@ -32,7 +32,7 @@
     千歲的同班同學，みさき的親友。家裡有錢的大小姐，最愛角色扮演。
     在人氣讀者投票中，擊敗了主角及親友取得第一名。
   - 藤 麻子（）
-    声 - [生天目仁美](../Page/生天目仁美.md "wikilink")（廣播劇CD）/ [三石琴乃](../Page/三石琴乃.md "wikilink")（電視動畫）
+    声 - [生天目仁美](../Page/生天目仁美.md "wikilink")（廣播劇CD）/ [三石琴乃](https://zh.wikipedia.org/wiki/三石琴乃 "wikilink")（電視動畫）
     千歲的班主任，喜歡柏原宏志，經常生氣地制止千歲纏繞柏原。曾經與柏原相親一次，但聚少離多。
   - 晚輩老師（）
     声 - [伊藤静](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")（廣播劇CD）/ [山口立花子](../Page/山口立花子.md "wikilink")（電視動畫）
@@ -87,7 +87,7 @@
 
 ### 工作人員
 
-  - 原作 - [真島悦也](https://zh.wikipedia.org/wiki/真島悦也 "wikilink")（[竹書房](../Page/竹書房.md "wikilink")刊/「[月刊まんがライフMOMO](https://zh.wikipedia.org/wiki/まんがライフMOMO "wikilink")」連載中）
+  - 原作 - [真島悦也](https://zh.wikipedia.org/wiki/真島悦也 "wikilink")（[竹書房刊](https://zh.wikipedia.org/wiki/竹書房 "wikilink")/「[月刊まんがライフMOMO](https://zh.wikipedia.org/wiki/まんがライフMOMO "wikilink")」連載中）
   - 監督・腳本・人物設定・分鏡・演出・作画監督 - 佐野隆雄
   - 原画 - 佐野隆雄、井嶋けい子、松井誠
   - 色彩設計・色指定・検査 - 大塚奈津子
@@ -331,7 +331,7 @@
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
 <td><p>2012年7月6日 -</p></td>
 <td><p>星期五 12:00 - 12:04</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>

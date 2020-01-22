@@ -48,14 +48,14 @@
     **萊娜公主<small>｜**[吉野紗香](https://zh.wikipedia.org/wiki/吉野紗香 "wikilink")</small>
       -
         亞斯特拉姆第四行星的公主。個性刁蠻。萊娜的身體被稱為「噬魂之儀」的儀式所燒傷過，因此她的身體變成了使人長生不老的妙藥，擁有能灌注生命給予已消逝者使其復活的能力。如今，覬覦這能力的宇宙猿忍·扎爾一族，為了奪取此能力而綁走公主。
-    **納庫魯<small>｜**[宮村優子](../Page/宮村優子.md "wikilink") 聲</small>
+    **納庫魯<small>｜**[宮村優子](https://zh.wikipedia.org/wiki/宮村優子 "wikilink") 聲</small>
       -
         萊娜公主的小機器人侍從。平常為手裡劍型態。
 
 ### 邪暗者
 
   -
-    **首領·塔臧特<small>｜**[梁田清之](../Page/梁田清之.md "wikilink") 聲</small>
+    **首領·塔臧特<small>｜**[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink") 聲</small>
     **一之槍·芙拉碧裘<small>｜**[山本梓](../Page/山本梓.md "wikilink")</small>
     **三之槍·曼馬魯巴<small>｜**[今村卓博](../Page/今村卓博.md "wikilink") 聲</small>
     **四之槍·溫蒂努<small>｜**[福澄美緒](https://zh.wikipedia.org/wiki/福澄美緒 "wikilink")</small>

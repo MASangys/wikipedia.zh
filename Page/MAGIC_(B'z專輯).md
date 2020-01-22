@@ -58,11 +58,11 @@
 
 ### 单曲 （Oricon单曲排行榜）
 
-| 年份                                                     | 单曲                                                                  | 排行榜 |
-| ------------------------------------------------------ | ------------------------------------------------------------------- | --- |
-| Oricon单曲排行榜                                            |                                                                     |     |
-| 2009                                                   | [一部分與全部/DIVE](https://zh.wikipedia.org/wiki/一部分與全部/DIVE "wikilink") | 1   |
-| [MY LONELY TOWN](../Page/MY_LONELY_TOWN.md "wikilink") | 1                                                                   |     |
+| 年份                                                                        | 单曲                                                                  | 排行榜 |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------- | --- |
+| Oricon单曲排行榜                                                               |                                                                     |     |
+| 2009                                                                      | [一部分與全部/DIVE](https://zh.wikipedia.org/wiki/一部分與全部/DIVE "wikilink") | 1   |
+| [MY LONELY TOWN](https://zh.wikipedia.org/wiki/MY_LONELY_TOWN "wikilink") | 1                                                                   |     |
 
 ### 单曲 (Billboard Japan Hot 100)
 
@@ -70,7 +70,7 @@
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --- |
 | [Billboard Japan Hot 100](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink") |                                                                  |     |
 | 2009                                                                              | "[一部分與全部](https://zh.wikipedia.org/wiki/一部分與全部/DIVE "wikilink")" | 1   |
-| [MY LONELY TOWN](../Page/MY_LONELY_TOWN.md "wikilink")                            | 1                                                                |     |
+| [MY LONELY TOWN](https://zh.wikipedia.org/wiki/MY_LONELY_TOWN "wikilink")         | 1                                                                |     |
 
 ## 参考文献
 

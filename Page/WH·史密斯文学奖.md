@@ -15,7 +15,7 @@
 | 1964 |                                                             | Ernst Gombrich       |       | Meditations on a Hobby-Horse                                           |    |
 | 1965 |                                                             | Leonard Woolf        |       | Beginning Again                                                        |    |
 | 1966 |                                                             | R. C. Hutchinson     |       | A Child Possessed                                                      |    |
-| 1967 | [簡·里斯](../Page/簡·里斯.md "wikilink")                          | Jean Rhys            |       | Wide Sargasso Sea                                                      |    |
+| 1967 | [簡·里斯](https://zh.wikipedia.org/wiki/簡·里斯 "wikilink")       | Jean Rhys            |       | Wide Sargasso Sea                                                      |    |
 | 1968 | [V·S·奈波爾](../Page/V·S·奈波爾.md "wikilink")                    | V. S. Naipaul        |       | The Mimic Men                                                          |    |
 | 1969 |                                                             | Robert Gittings      |       | John Keats                                                             |    |
 | 1970 | [约翰·福尔斯](https://zh.wikipedia.org/wiki/约翰·福尔斯 "wikilink")   | John Fowles          |       | The French Lieutenant's Woman                                          |    |

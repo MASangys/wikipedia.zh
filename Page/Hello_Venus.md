@@ -1,7 +1,7 @@
 > 本文内容由[Hello Venus](https://zh.wikipedia.org/wiki/Hello_Venus)转换而来。
 
 
-**Hello Venus**（）是2012年由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")與[Fantagio](../Page/Fantagio.md "wikilink")共同合作透過Tricell Media經營的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2012年5月10日以《Venus》一曲正式出道，成員包括[娥羅](../Page/柳娥羅.md "wikilink")、[胤祖](../Page/慎胤祖.md "wikilink")、Lime、[娜拉](../Page/權娜拉.md "wikilink")、[Alice及](../Page/Alice_\(韓國歌手\).md "wikilink")[瑜瑛](../Page/李瑜瑛.md "wikilink")，由娥羅擔任隊長。官方歌迷名稱為「Hello Cupid」\[1\]。Hello Venus的出道舞台因胤祖腳傷無法參與，故出道歌曲《VENUS》的宣傳期以五人形式進行。
+**Hello Venus**（）是2012年由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")與[Fantagio](../Page/Fantagio.md "wikilink")共同合作透過Tricell Media經營的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2012年5月10日以《Venus》一曲正式出道，成員包括[娥羅](../Page/柳娥羅.md "wikilink")、[胤祖](https://zh.wikipedia.org/wiki/慎胤祖 "wikilink")、Lime、[娜拉](../Page/權娜拉.md "wikilink")、[Alice及](../Page/Alice_\(韓國歌手\).md "wikilink")[瑜瑛](../Page/李瑜瑛.md "wikilink")，由娥羅擔任隊長。官方歌迷名稱為「Hello Cupid」\[1\]。Hello Venus的出道舞台因胤祖腳傷無法參與，故出道歌曲《VENUS》的宣傳期以五人形式進行。
 2014年7月31日，經紀公司透過官方CAFÉ宣布成員娥羅和胤祖退出組合，Hello Venus正式完全由[Fantagio](../Page/Fantagio.md "wikilink")經營。\[2\]2014年11月6日，加入兩名新成員（夏天、序英），以六人形式發行第四張單曲回歸。2019年4月26日，經紀公司公佈合約於5月8日到期，團體正式解散，Alice、娜拉離開公司，序英、夏天續留公司，Lime、瑜瑛決定與公司續約，四人均更換活動名，Lime改名為蔡㫶華（채주화）、瑜瑛改名為李花兼（이화겸）、夏天改名為庾拏結（유나결）、序英改用本名李瑞英\[3\]，4人將分別在演技、音樂劇領域活動。
 
 ## 成員簡介
@@ -13,7 +13,7 @@
 | 藝名                                                     |
 | 藝名                                                     |
 | [娥羅](../Page/柳娥羅.md "wikilink")                        |
-| [胤祖](../Page/慎胤祖.md "wikilink")                        |
+| [胤祖](https://zh.wikipedia.org/wiki/慎胤祖 "wikilink")     |
 | [Alice](../Page/Alice_\(韓國歌手\).md "wikilink")          |
 | [娜拉](../Page/權娜拉.md "wikilink")\[4\]                   |
 | [Lime](https://zh.wikipedia.org/wiki/金慧林 "wikilink")   |
@@ -37,7 +37,7 @@ ScaleMajor = unit:year increment:1 start:2012 gridcolor:black
 
 BarData =
 
-` bar:Alice text:愛麗絲`
+` bar:Alice text:Alice`
 ` bar:NaRa text:娜拉`
 ` bar:ARa text:娥羅`
 ` bar:YoonJo text:胤祖`
@@ -73,27 +73,27 @@ PlotData =
 
 ## 廣告代言
 
-|       |                                                          |             |
-| ----- | -------------------------------------------------------- | ----------- |
-| 日期    | 產品名稱                                                     | 參與成員        |
-| 2012年 | Cass Fresh 啤酒(與[金秀賢](../Page/金秀賢_\(男演員\).md "wikilink")） | 權娜拉         |
-| 2012年 | Bugs 3.0 application                                     | 全體          |
-| 2013年 | Lime Odyssey 網路遊戲                                        | 全體          |
-| 2014年 | Master League Games                                      | 全體          |
-| 2014年 | 可伶可俐 洗面乳                                                 | 金慧林、權娜拉、宋主喜 |
-| 2014年 | Immortal Warrior 2 手機遊戲                                  | 全體          |
-| 2014年 | Foodnuri 農產食品情報                                          | 宋主喜         |
-| 2014年 | LOTTE CINEMA                                             | 金慧林、權娜拉、宋主喜 |
-| 2014年 | LOTTE 千山萬水 飲料                                            | 權娜拉、宋主喜     |
-| 2014年 | 餅乾品牌 POCKY(與[徐康俊](../Page/徐康俊.md "wikilink"))            | 宋主喜         |
-| 2015年 | GETUSED 牛仔褲                                              | 全體          |
-| 2015年 | NESCAFÉ Dolce Gusto                                      | 宋主喜         |
-| 2015年 | Kloud 啤酒                                                 | 權娜拉         |
-| 2015年 | Cinema Game RAGE 手機遊戲                                    | 權娜拉         |
-| 2016年 | SK Telecom                                               | 權娜拉         |
-| 2016年 | LPGA gallery 高爾夫球服品牌 \[6\]                               | 權娜拉、宋主喜     |
-| 2016年 | EIDER 戶外品牌 \[7\]                                         | 權娜拉         |
-| 2016年 | Dark Blaze 遊戲 \[8\]                                      | 權娜拉         |
+|       |                                                                             |             |
+| ----- | --------------------------------------------------------------------------- | ----------- |
+| 日期    | 產品名稱                                                                        | 參與成員        |
+| 2012年 | Cass Fresh 啤酒(與[金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(男演員\) "wikilink")） | 權娜拉         |
+| 2012年 | Bugs 3.0 application                                                        | 全體          |
+| 2013年 | Lime Odyssey 網路遊戲                                                           | 全體          |
+| 2014年 | Master League Games                                                         | 全體          |
+| 2014年 | 可伶可俐 洗面乳                                                                    | 金慧林、權娜拉、宋主喜 |
+| 2014年 | Immortal Warrior 2 手機遊戲                                                     | 全體          |
+| 2014年 | Foodnuri 農產食品情報                                                             | 宋主喜         |
+| 2014年 | LOTTE CINEMA                                                                | 金慧林、權娜拉、宋主喜 |
+| 2014年 | LOTTE 千山萬水 飲料                                                               | 權娜拉、宋主喜     |
+| 2014年 | 餅乾品牌 POCKY(與[徐康俊](https://zh.wikipedia.org/wiki/徐康俊 "wikilink"))            | 宋主喜         |
+| 2015年 | GETUSED 牛仔褲                                                                 | 全體          |
+| 2015年 | NESCAFÉ Dolce Gusto                                                         | 宋主喜         |
+| 2015年 | Kloud 啤酒                                                                    | 權娜拉         |
+| 2015年 | Cinema Game RAGE 手機遊戲                                                       | 權娜拉         |
+| 2016年 | SK Telecom                                                                  | 權娜拉         |
+| 2016年 | LPGA gallery 高爾夫球服品牌 \[6\]                                                  | 權娜拉、宋主喜     |
+| 2016年 | EIDER 戶外品牌 \[7\]                                                            | 權娜拉         |
+| 2016年 | Dark Blaze 遊戲 \[8\]                                                         | 權娜拉         |
 
 ### 宣傳大使
 
@@ -101,8 +101,8 @@ PlotData =
 | ----- | ----------------- | ---- |
 | 年份    | 活動名稱              | 參與成員 |
 | 2010年 | 第13屆保寧美容泥漿節宣傳大使   | 宋主喜  |
-| 2013年 | 预防儿童虐待宣傳大使        | 全體   |
-| 2013年 | 第17届首尔国际漫画动画节宣傳大使 | 全體   |
+| 2013年 | 预防兒童虐待宣傳大使        | 全體   |
+| 2013年 | 第17届首爾國際漫畫動畫節宣傳大使 | 全體   |
 | 2014年 | 綠傘兒童夢想自行車宣傳大使     | 全體   |
 
 ## 音樂作品
@@ -306,7 +306,7 @@ PlotData =
 <td><p>2012年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Venus(韓語專輯)" title="wikilink">Venus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Venus_(韓語專輯)" title="wikilink">Venus</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/像波浪一樣" title="wikilink">像波浪一樣</a></p></td>

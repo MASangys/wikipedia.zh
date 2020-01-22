@@ -1,7 +1,7 @@
 > 本文内容由[QSL卡](https://zh.wikipedia.org/wiki/QSL卡)转换而来。
 
 
-[Radio_Moscow_logo.png](https://zh.wikipedia.org/wiki/File:Radio_Moscow_logo.png "fig:Radio_Moscow_logo.png")（Radio Moscow）於1969年發出的QSL卡\]\] [NX1Z_QSL.jpg](https://zh.wikipedia.org/wiki/File:NX1Z_QSL.jpg "fig:NX1Z_QSL.jpg") **QSL卡**，也叫**收听证明卡**，是[业余电台及](https://zh.wikipedia.org/wiki/业余电台 "wikilink")[广播电台](https://zh.wikipedia.org/wiki/广播电台 "wikilink")（[短波](../Page/短波.md "wikilink")、[中波](https://zh.wikipedia.org/wiki/中波 "wikilink")）特有的一种确认联络或收听的凭证；通俗地说，就是[业余无线电爱好者](https://zh.wikipedia.org/wiki/业余无线电爱好者 "wikilink")（HAM）与[广播爱好者](https://zh.wikipedia.org/wiki/广播爱好者 "wikilink")（BCL）收集的一种“证明自己收听到了某个电台”的证明。许多[无线电爱好者将获得尽可能多的QSL卡作为追求目标](https://zh.wikipedia.org/wiki/无线电 "wikilink")，国际上也有有关于此的竞赛。
+[Radio_Moscow_logo.png](https://zh.wikipedia.org/wiki/File:Radio_Moscow_logo.png "fig:Radio_Moscow_logo.png")（Radio Moscow）於1969年發出的QSL卡\]\] [NX1Z_QSL.jpg](https://zh.wikipedia.org/wiki/File:NX1Z_QSL.jpg "fig:NX1Z_QSL.jpg") **QSL卡**，也叫**收听证明卡**，是[业余电台及](https://zh.wikipedia.org/wiki/业余电台 "wikilink")[广播电台](https://zh.wikipedia.org/wiki/广播电台 "wikilink")（[短波](https://zh.wikipedia.org/wiki/短波 "wikilink")、[中波](https://zh.wikipedia.org/wiki/中波 "wikilink")）特有的一种确认联络或收听的凭证；通俗地说，就是[业余无线电爱好者](https://zh.wikipedia.org/wiki/业余无线电爱好者 "wikilink")（HAM）与[广播爱好者](https://zh.wikipedia.org/wiki/广播爱好者 "wikilink")（BCL）收集的一种“证明自己收听到了某个电台”的证明。许多[无线电爱好者将获得尽可能多的QSL卡作为追求目标](https://zh.wikipedia.org/wiki/无线电 "wikilink")，国际上也有有关于此的竞赛。
 
 ## 名称来源
 

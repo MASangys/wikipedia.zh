@@ -1,7 +1,7 @@
 > 本文内容由[Battle Spirits 少年激霸彈角色列表](https://zh.wikipedia.org/wiki/Battle_Spirits_少年激霸彈角色列表)转换而来。
 
 
-**Battle Spirits 少年激霸彈 角色列表**是《[Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》的角色介紹。
+**Battle Spirits 少年激霸彈 角色列表**是《[Battle Spirits 少年激霸彈](https://zh.wikipedia.org/wiki/Battle_Spirits_少年激霸彈 "wikilink")》的角色介紹。
 
 ## 主要人物
 
@@ -215,7 +215,7 @@
 
 ## 相關條目
 
-  - [Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")
+  - [Battle Spirits 少年激霸彈](https://zh.wikipedia.org/wiki/Battle_Spirits_少年激霸彈 "wikilink")
 
 ## 參考網址
 
@@ -225,5 +225,5 @@
 
 [Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 
-1.  「維奧娜·魔魅」是博客上用的名稱，本名為紫乃宮魔魅，在本作中並未公開名字，在續作《[Battle Spirits Brave](../Page/Battle_Spirits_Brave.md "wikilink")》出現正式名字。
-2.  在續作《[Battle Spirits Brave](../Page/Battle_Spirits_Brave.md "wikilink")》有詳盡的介紹。
+1.  「維奧娜·魔魅」是博客上用的名稱，本名為紫乃宮魔魅，在本作中並未公開名字，在續作《[Battle Spirits Brave](https://zh.wikipedia.org/wiki/Battle_Spirits_Brave "wikilink")》出現正式名字。
+2.  在續作《[Battle Spirits Brave](https://zh.wikipedia.org/wiki/Battle_Spirits_Brave "wikilink")》有詳盡的介紹。

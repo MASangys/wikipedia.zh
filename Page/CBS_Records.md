@@ -21,7 +21,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://www.cbsrecords.com/)
+  - [官方網站](https://web.archive.org/web/20110926012854/http://www.cbsrecords.com/)
 
   - [CBS Records成立的新聞](https://web.archive.org/web/20090422131946/http://www.cbscorporation.com/news/prdetails.php?id=1383)
 

@@ -7,7 +7,7 @@
 
 主打曲《oath sign》是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")之一。發售形式分為通常盤、初回盤和期間限定盤3種，初回盤附有收錄了《oath sign》[PV的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，動畫盤則收錄了《》和《oath sign》的電視播映版。
 
-此單曲於Oricon公信榜中曾獲得最高第5位，曾是LiSA在該榜中名次最高的作品之一（僅次於[Rising Hope與](../Page/Rising_Hope.md "wikilink")[シルシ](https://zh.wikipedia.org/wiki/シルシ "wikilink")）。\[1\]
+此單曲於Oricon公信榜中曾獲得最高第5位，曾是LiSA在該榜中名次最高的作品之一（僅次於[Rising Hope與](https://zh.wikipedia.org/wiki/Rising_Hope "wikilink")[シルシ](https://zh.wikipedia.org/wiki/シルシ "wikilink")）。\[1\]
 
 ## 收錄歌曲
 
@@ -19,7 +19,7 @@
         [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《Fate/Zero》[主題曲](../Page/主題曲.md "wikilink")
 2.  **confidence driver** \[3:23\]
       -
-        作詞：LiSA，作曲：[田淵智也](../Page/UNISON_SQUARE_GARDEN.md "wikilink")，編曲：[涌井啓一](https://zh.wikipedia.org/wiki/涌井啓一 "wikilink")、[千葉直樹](https://zh.wikipedia.org/wiki/千葉直樹 "wikilink")
+        作詞：LiSA，作曲：[田淵智也](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")，編曲：[涌井啓一](https://zh.wikipedia.org/wiki/涌井啓一 "wikilink")、[千葉直樹](https://zh.wikipedia.org/wiki/千葉直樹 "wikilink")
 3.  **HANDS & SMiLE** \[3:07\]
       -
         作詞：LiSA，作曲：[An Cafe](../Page/An_Cafe.md "wikilink")，編曲：涌井啓一、千葉直樹

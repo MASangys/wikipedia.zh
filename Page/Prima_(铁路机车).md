@@ -55,7 +55,7 @@
 [BB_75001_à_Longueau_-_18_septembre_2009.jpg](https://zh.wikipedia.org/wiki/File:BB_75001_à_Longueau_-_18_septembre_2009.jpg "fig:BB_75001_à_Longueau_-_18_septembre_2009.jpg") [Haifa_-_Bat_Galim_(3561445449).jpg](https://zh.wikipedia.org/wiki/File:Haifa_-_Bat_Galim_\(3561445449\).jpg "fig:Haifa_-_Bat_Galim_(3561445449).jpg")JT 42BW型柴油机车\]\] [Hugh_llewelyn_67_002_(5581805883).jpg](https://zh.wikipedia.org/wiki/File:Hugh_llewelyn_67_002_\(5581805883\).jpg "fig:Hugh_llewelyn_67_002_(5581805883).jpg")67型柴油机车\]\]
 
   - 法国
-      - （裝配[MTU製柴油機](../Page/MTU腓德烈斯哈芬有限公司.md "wikilink")）
+      - （裝配[MTU製柴油機](https://zh.wikipedia.org/wiki/MTU腓德烈斯哈芬有限公司 "wikilink")）
   - 伊朗
       - （裝配製柴油機，下同）
   - 叙利亚

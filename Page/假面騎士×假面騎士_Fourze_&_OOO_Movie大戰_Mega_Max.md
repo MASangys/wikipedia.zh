@@ -1,7 +1,7 @@
 > 本文内容由[假面騎士×假面騎士 Fourze \& OOO Movie大戰 Mega Max](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Fourze_\&_OOO_Movie大戰_Mega_Max)转换而来。
 
 
-《**假面騎士×假面騎士 Fourze & OOO MOVIE大戰MEGA MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")**》和《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》聯動劇場版，「MOVIE大戰系列」第3部作品。此外[假面騎士W和榮光](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")7人騎士亦參與作品演出。
+《**假面騎士×假面騎士 Fourze & OOO MOVIE大戰MEGA MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")**》和《**[假面騎士Fourze](https://zh.wikipedia.org/wiki/假面騎士Fourze "wikilink")**》聯動劇場版，「MOVIE大戰系列」第3部作品。此外[假面騎士W和榮光](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")7人騎士亦參與作品演出。
 
 本作劇場版的口號為「2011年冬、MOVIE大戰進化」
 

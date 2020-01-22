@@ -29,7 +29,7 @@
 
 ### 社区
 
-当被提到的网站是基于[社区的网站的时候](../Page/虛擬社群.md "wikilink")，本效应还可以指一大群新用户突然前来注册、参与社区引发的次生效应。有的时候这是一件好事，但是某些时候先前的高端用户会觉得受到冒犯，因为大量纯新人带来了许多原有用户并不希望的东西，例如[小白](https://zh.wikipedia.org/wiki/白目 "wikilink")、[破坏和](https://zh.wikipedia.org/wiki/破坏 "wikilink")[菜鳥](../Page/菜鳥.md "wikilink")行为泛滥。这类似于1990年代[Usenet](../Page/Usenet.md "wikilink")俚语裡的“[永恒九月](../Page/永恒九月.md "wikilink")”。
+当被提到的网站是基于[社区的网站的时候](../Page/虛擬社群.md "wikilink")，本效应还可以指一大群新用户突然前来注册、参与社区引发的次生效应。有的时候这是一件好事，但是某些时候先前的高端用户会觉得受到冒犯，因为大量纯新人带来了许多原有用户并不希望的东西，例如[小白](https://zh.wikipedia.org/wiki/白目 "wikilink")、[破坏和](https://zh.wikipedia.org/wiki/破坏 "wikilink")[菜鳥](../Page/菜鳥.md "wikilink")行为泛滥。这类似于1990年代[Usenet](../Page/Usenet.md "wikilink")俚语裡的“[永恒九月](https://zh.wikipedia.org/wiki/永恒九月 "wikilink")”。
 
 ## 解决办法
 

@@ -1,11 +1,11 @@
 > 本文内容由[西瓜BABY](https://zh.wikipedia.org/wiki/西瓜BABY)转换而来。
 
 
-《**西瓜BABY**》是[Not yet的第](../Page/Not_yet.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年5月30日由[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")發行。
+《**西瓜BABY**》是[Not yet的第](https://zh.wikipedia.org/wiki/Not_yet "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年5月30日由[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")發行。
 
 ## 概要
 
-《西瓜BABY》距離前作《[愛說愛說愛說的男人](../Page/愛說愛說愛說的男人.md "wikilink")》發行約6個半月，為[Not yet在](../Page/Not_yet.md "wikilink")2012年發行的第1張單曲。單曲分為通常盤Type-A、Type-B、Type-C和Type-D，共4種版本發售。單曲在[初回期間不論版本](../Page/限定版.md "wikilink")，都附有「發售紀念活動參加報名券」和「特典內容視聽券」。封面上的文字由成員[大島優子](../Page/大島優子.md "wikilink")所寫。\[1\]
+《西瓜BABY》距離前作《[愛說愛說愛說的男人](../Page/愛說愛說愛說的男人.md "wikilink")》發行約6個半月，為[Not yet在](https://zh.wikipedia.org/wiki/Not_yet "wikilink")2012年發行的第1張單曲。單曲分為通常盤Type-A、Type-B、Type-C和Type-D，共4種版本發售。單曲在[初回期間不論版本](../Page/限定版.md "wikilink")，都附有「發售紀念活動參加報名券」和「特典內容視聽券」。封面上的文字由成員[大島優子](../Page/大島優子.md "wikilink")所寫。\[1\]
 
 另外，[AKB48](../Page/AKB48.md "wikilink")另一[衍生組合](https://zh.wikipedia.org/wiki/AKB48#長期組合 "wikilink")[走廊奔跑隊7](../Page/走廊奔跑隊7.md "wikilink")第10張單曲《[少年喲 說謊吧！](../Page/少年喲_說謊吧！.md "wikilink")》同樣於5月30日發行，是AKB48首次有衍生組合於同一天發行新單曲。\[2\]
 
@@ -15,9 +15,9 @@
 
 A面曲《西瓜BABY》是一首以男生角度寫的歌曲，歌詞內容描述久未回鄉的男生回到鄉下，對同級的女同學——足球部的經理人萌生愛意，並以[西瓜](../Page/西瓜.md "wikilink")和[夏日等事物表現出來](https://zh.wikipedia.org/wiki/夏日 "wikilink")。\[3\]歌詞中相關的詞語有「相隔已久的回鄉（）」、「農村小路（）」、「我們的中學（）」等等。\[4\]
 
-Type-B的《guilty love》並非由AKB48總製作人[秋元康](../Page/秋元康.md "wikilink")填詞，而是由成員[北原里英](../Page/北原里英.md "wikilink")負責。秋元康於3月尾指示北原里英以的曲子作詞，並用作[Not yet的B面曲](../Page/Not_yet.md "wikilink")。這是北原首次為收錄在單曲的歌曲填詞，也是[AKB48](../Page/AKB48.md "wikilink")中首個宣布將會為歌曲填詞的成員。\[5\]\[6\]歌詞主題為「不被容許的愛」，例如歌詞中有一句「嘟嚷着這是不道德的行為　但手機還是再次響起　打算不再見面嗎？」。\[7\]\[8\]北原表示「這是我覺得能接受的作品，但讓各位聽我的作品讓我感到難為情」。另一成員[指原莉乃](../Page/指原莉乃.md "wikilink")稱這首歌的世界觀「錯綜複雜。深刻。很厲害。」。\[9\]
+Type-B的《guilty love》並非由AKB48總製作人[秋元康](../Page/秋元康.md "wikilink")填詞，而是由成員[北原里英](../Page/北原里英.md "wikilink")負責。秋元康於3月尾指示北原里英以的曲子作詞，並用作[Not yet的B面曲](https://zh.wikipedia.org/wiki/Not_yet "wikilink")。這是北原首次為收錄在單曲的歌曲填詞，也是[AKB48](../Page/AKB48.md "wikilink")中首個宣布將會為歌曲填詞的成員。\[5\]\[6\]歌詞主題為「不被容許的愛」，例如歌詞中有一句「嘟嚷着這是不道德的行為　但手機還是再次響起　打算不再見面嗎？」。\[7\]\[8\]北原表示「這是我覺得能接受的作品，但讓各位聽我的作品讓我感到難為情」。另一成員[指原莉乃](../Page/指原莉乃.md "wikilink")稱這首歌的世界觀「錯綜複雜。深刻。很厲害。」。\[9\]
 
-Type-C的《May》是成員[橫山由依](../Page/橫山由依.md "wikilink")的第一首獨唱歌曲\[10\]，風格上比較像一首較舊的[歌謠曲](../Page/日本歌謠曲.md "wikilink")。\[11\]內容關於一個男性跟一個叫作「May」的女性分離的難過之情\[12\]，歌詞中亦多次出現「May」一詞。\[13\]
+Type-C的《May》是成員[橫山由依的第一首獨唱歌曲](https://zh.wikipedia.org/wiki/橫山由依 "wikilink")\[10\]，風格上比較像一首較舊的[歌謠曲](../Page/日本歌謠曲.md "wikilink")。\[11\]內容關於一個男性跟一個叫作「May」的女性分離的難過之情\[12\]，歌詞中亦多次出現「May」一詞。\[13\]
 
 Type-D的《所謂被愛》（）原是由今井優、[大島優子](../Page/大島優子.md "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")和[佐藤夏希](../Page/佐藤夏希.md "wikilink")組成的「ICE from AKB48」的歌曲。現由Not yet翻唱，首次收錄到CD內。\[14\]
 

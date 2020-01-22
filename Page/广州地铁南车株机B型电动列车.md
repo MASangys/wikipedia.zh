@@ -1,7 +1,7 @@
 > 本文内容由[广州地铁南车株机B型电动列车](https://zh.wikipedia.org/wiki/广州地铁南车株机B型电动列车)转换而来。
 
 
-**广州地铁南车株机B型电动列车**是[广州地铁](../Page/广州地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，目前在[3号线运营](../Page/广州地铁3号线.md "wikilink")。
+**广州地铁南车株机B型电动列车**是[广州地铁的](https://zh.wikipedia.org/wiki/广州地铁 "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，目前在[3号线运营](../Page/广州地铁3号线.md "wikilink")。
 
 ## 简介
 

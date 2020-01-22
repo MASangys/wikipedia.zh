@@ -5,7 +5,7 @@
 
 ## 歷史
 
-OMNI新聞部分佈於各省之直屬分台並在該台製播多種語言的本地新聞報道（[亞伯達省](https://zh.wikipedia.org/wiki/亞伯達省 "wikilink")[分台除外並已於](../Page/多元文化電視台_\(亞伯達省\).md "wikilink")2011年取消），有時在[多倫多總台製播的本地新聞報導內可能會出現由其他直屬分台採訪的新聞消息](https://zh.wikipedia.org/wiki/多倫多 "wikilink")。由於[OMNI在](../Page/多元文化電視台.md "wikilink")2011年對新聞部實行改組除取消[亞伯達省](https://zh.wikipedia.org/wiki/亞伯達省 "wikilink")[分台的所有本地新聞報導外](../Page/多元文化電視台_\(亞伯達省\).md "wikilink")，更在各直屬分台製播的本地新聞報道播出前並機直播由[多倫多總台製播的全國新聞報導](https://zh.wikipedia.org/wiki/多倫多 "wikilink")（其中[旁遮普語](../Page/旁遮普語.md "wikilink")由[溫哥華](../Page/溫哥華.md "wikilink")分台製播）。
+OMNI新聞部分佈於各省之直屬分台並在該台製播多種語言的本地新聞報道（[亞伯達省](https://zh.wikipedia.org/wiki/亞伯達省 "wikilink")[分台除外並已於](https://zh.wikipedia.org/wiki/多元文化電視台_\(亞伯達省\) "wikilink")2011年取消），有時在[多倫多總台製播的本地新聞報導內可能會出現由其他直屬分台採訪的新聞消息](https://zh.wikipedia.org/wiki/多倫多 "wikilink")。由於[OMNI在](../Page/多元文化電視台.md "wikilink")2011年對新聞部實行改組除取消[亞伯達省](https://zh.wikipedia.org/wiki/亞伯達省 "wikilink")[分台的所有本地新聞報導外](https://zh.wikipedia.org/wiki/多元文化電視台_\(亞伯達省\) "wikilink")，更在各直屬分台製播的本地新聞報道播出前並機直播由[多倫多總台製播的全國新聞報導](https://zh.wikipedia.org/wiki/多倫多 "wikilink")（其中[旁遮普語](../Page/旁遮普語.md "wikilink")由[溫哥華](../Page/溫哥華.md "wikilink")分台製播）。
 
 OMNI NEWS於周一至周五均推出六種語言的本地新聞報導，包括：[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、[國語](https://zh.wikipedia.org/wiki/普通話 "wikilink")（其中[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")、[葡萄牙語均沒有](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")[卑詩省](https://zh.wikipedia.org/wiki/卑詩省 "wikilink")[分台製播的版本](../Page/多元文化電視台_\(卑詩省\).md "wikilink")）及[旁遮普語](../Page/旁遮普語.md "wikilink")；和三種語言的全國新聞報導，包括：[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、[國語和](https://zh.wikipedia.org/wiki/普通話 "wikilink")[旁遮普語](../Page/旁遮普語.md "wikilink")。而周末新聞雜誌類節目，包括[粵語及](https://zh.wikipedia.org/wiki/粵語 "wikilink")[國語並由多倫多總台製播](https://zh.wikipedia.org/wiki/國語 "wikilink")。
 
@@ -80,7 +80,7 @@ OMNI NEWS於周一至周五均推出六種語言的本地新聞報導，包括�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/普通話" title="wikilink">國語</a></p></td>
 <td><p>新聞主播：<a href="https://zh.wikipedia.org/wiki/郭然" title="wikilink">郭然</a><br />
-記者：<a href="https://zh.wikipedia.org/wiki/滕忠勤" title="wikilink">滕忠勤</a>、<a href="../Page/王翔.md" title="wikilink">王翔</a></p></td>
+記者：<a href="https://zh.wikipedia.org/wiki/滕忠勤" title="wikilink">滕忠勤</a>、<a href="https://zh.wikipedia.org/wiki/王翔" title="wikilink">王翔</a></p></td>
 <td><p>週一至週日下午5:00至5:30、晚上7:30至8:00、9:00至9:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/OMNI.2" title="wikilink">OMNI.2</a></p></td>
 </tr>
@@ -93,7 +93,7 @@ OMNI NEWS於周一至周五均推出六種語言的本地新聞報導，包括�
 <td><p><a href="https://zh.wikipedia.org/wiki/OMNI.2" title="wikilink">OMNI.2</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/多元文化電視台_(亞伯達省).md" title="wikilink">OMNI AB</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多元文化電視台_(亞伯達省)" title="wikilink">OMNI AB</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -238,7 +238,7 @@ OMNI NEWS於周一至周五均推出六種語言的本地新聞報導，包括�
 <td style="text-align: center;"><p><strong>國語記者</strong></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/王翔.md" title="wikilink">王翔</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王翔" title="wikilink">王翔</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong>英語記者</strong></p></td>

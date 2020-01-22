@@ -1,7 +1,7 @@
 > 本文内容由[英雄萨姆3：BFE](https://zh.wikipedia.org/wiki/英雄萨姆3：BFE)转换而来。
 
 
-是由[Croteam](../Page/Croteam.md "wikilink")开发，[Devolver Digital发行的第一人称射击游戏](https://zh.wikipedia.org/wiki/Devolver_Digital "wikilink")。游戏是[英雄萨姆系列的最新作](https://zh.wikipedia.org/wiki/英雄萨姆 "wikilink")，也是《[英雄萨姆：第一次遭遇](https://zh.wikipedia.org/wiki/英雄萨姆：第一次遭遇 "wikilink")》的前传。游戏故事发生在22世纪Mental入侵地球之时，这在《[英雄萨姆：第一次遭遇](https://zh.wikipedia.org/wiki/英雄萨姆：第一次遭遇 "wikilink")》中有过暗示。游戏设定在埃及，并设有16人合作战役模式，以及四玩家分屏模式。
+是由[Croteam开发](https://zh.wikipedia.org/wiki/Croteam "wikilink")，[Devolver Digital发行的第一人称射击游戏](https://zh.wikipedia.org/wiki/Devolver_Digital "wikilink")。游戏是[英雄萨姆系列的最新作](https://zh.wikipedia.org/wiki/英雄萨姆 "wikilink")，也是《[英雄萨姆：第一次遭遇](https://zh.wikipedia.org/wiki/英雄萨姆：第一次遭遇 "wikilink")》的前传。游戏故事发生在22世纪Mental入侵地球之时，这在《[英雄萨姆：第一次遭遇](https://zh.wikipedia.org/wiki/英雄萨姆：第一次遭遇 "wikilink")》中有过暗示。游戏设定在埃及，并设有16人合作战役模式，以及四玩家分屏模式。
 
 ## 外部链接
 

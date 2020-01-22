@@ -7,11 +7,11 @@
 
 ## 行星系統
 
-2007年以[XO望遠鏡](../Page/XO望遠鏡.md "wikilink")使用[凌日法發現了一顆氣體巨行星](https://zh.wikipedia.org/wiki/凌日法 "wikilink") [XO-3b](../Page/XO-3b.md "wikilink")。不過該天體因為它的質量相當大，有可能是棕矮星\[6\]。
+2007年以[XO望遠鏡使用](https://zh.wikipedia.org/wiki/XO望遠鏡 "wikilink")[凌日法發現了一顆氣體巨行星](https://zh.wikipedia.org/wiki/凌日法 "wikilink") [XO-3b](../Page/XO-3b.md "wikilink")。不過該天體因為它的質量相當大，有可能是棕矮星\[6\]。
 
 ## 參見
 
-  - [XO望遠鏡](../Page/XO望遠鏡.md "wikilink")
+  - [XO望遠鏡](https://zh.wikipedia.org/wiki/XO望遠鏡 "wikilink")
 
 ## 參考資料
 

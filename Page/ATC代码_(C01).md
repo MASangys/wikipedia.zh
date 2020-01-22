@@ -17,7 +17,7 @@
     C01AA09 [吉妥福酯](https://zh.wikipedia.org/wiki/吉妥福酯 "wikilink")（Gitoformate）
     C01AA52 乙酰地高辛复方（Acetyldigoxin, combinations）
 
-### C01AB [海葱](../Page/海葱.md "wikilink")苷类（Scilla glycosides）
+### C01AB [海葱苷类](https://zh.wikipedia.org/wiki/海葱 "wikilink")（Scilla glycosides）
 
   -
     C01AB01 [海葱次苷](https://zh.wikipedia.org/wiki/海葱次苷 "wikilink")（Proscillaridin）

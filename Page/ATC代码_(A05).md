@@ -8,7 +8,7 @@
   -
     A05AA01 [鹅去氧胆酸](../Page/鹅去氧胆酸.md "wikilink")（Chenodeoxycholic acid）
     A05AA02 [熊去氧胆酸](../Page/熊去氧胆酸.md "wikilink")（Ursodeoxycholic acid）
-    A05AA03 [胆酸](../Page/胆酸.md "wikilink")（Cholic acid）
+    A05AA03 [胆酸](https://zh.wikipedia.org/wiki/胆酸 "wikilink")（Cholic acid）
 
 ### A05AB 胆道疾病治疗药（Preparations for biliary tract therapy）
 

@@ -5,8 +5,8 @@
 
 ## 解說
 
-  - 與前作《[Distance](../Page/Distance_\(西野加奈單曲\).md "wikilink")》相隔約3個月。
-  - 2011年第二張單曲。封面風格與收錄本單曲的專輯[Thank you, Love相同](../Page/Thank_you,_Love.md "wikilink")。
+  - 與前作《[Distance](https://zh.wikipedia.org/wiki/Distance_\(西野加奈單曲\) "wikilink")》相隔約3個月。
+  - 2011年第二張單曲。封面風格與收錄本單曲的專輯[Thank you, Love相同](https://zh.wikipedia.org/wiki/Thank_you,_Love "wikilink")。
 
 ## 發行版本
 

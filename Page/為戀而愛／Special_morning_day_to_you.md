@@ -1,13 +1,13 @@
 > 本文内容由[為戀而愛／Special morning day to you](https://zh.wikipedia.org/wiki/為戀而愛／Special_morning_day_to_you)转换而来。
 
 
-《**為戀而愛／Special morning day to you**》（日語：恋に恋して／Special morning day to you）為[倉木麻衣](../Page/倉木麻衣.md "wikilink")第38張單曲。2012年8月15日由[NORTHERN MUSIC發售](../Page/NORTHERN_MUSIC.md "wikilink")。
+《**為戀而愛／Special morning day to you**》（日語：恋に恋して／Special morning day to you）為[倉木麻衣](../Page/倉木麻衣.md "wikilink")第38張單曲。2012年8月15日由[NORTHERN MUSIC發售](https://zh.wikipedia.org/wiki/NORTHERN_MUSIC "wikilink")。
 
 ## 概述
 
-  - 距離前作《[Strong Heart](../Page/Strong_Heart.md "wikilink")》約9個月的新單曲，以CD單曲計算則是《[Your Best Friend](../Page/Your_Best_Friend.md "wikilink")》約10個月後的新作。同日發售演唱會DVD《Mai Kuraki Live Tour 2012 ～OVER THE RAINBOW～》。
+  - 距離前作《[Strong Heart](../Page/Strong_Heart.md "wikilink")》約9個月的新單曲，以CD單曲計算則是《[Your Best Friend](https://zh.wikipedia.org/wiki/Your_Best_Friend "wikilink")》約10個月後的新作。同日發售演唱會DVD《Mai Kuraki Live Tour 2012 ～OVER THE RAINBOW～》。
   - 對一般消費者以「初回限定盤」和「通常盤」兩種形態發售，另外包括只向歌迷會會員和Musing限定會員發售的「Musing\&FC盤」，實際上是以三種形態發售。各版本封面均不相同。
-  - 《**為戀而愛**》是繼《[Your Best Friend](../Page/Your_Best_Friend.md "wikilink")》以來第15次、相隔11個月為《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》演唱歌曲。繼第37張單曲《[Your Best Friend](../Page/Your_Best_Friend.md "wikilink")》與DVD單曲《[Strong Heart](../Page/Strong_Heart.md "wikilink")》後再由GIORGIO CANCEMI負責作曲，亦以GIORGIO 13名義與倉木共同填詞。
+  - 《**為戀而愛**》是繼《[Your Best Friend](https://zh.wikipedia.org/wiki/Your_Best_Friend "wikilink")》以來第15次、相隔11個月為《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》演唱歌曲。繼第37張單曲《[Your Best Friend](https://zh.wikipedia.org/wiki/Your_Best_Friend "wikilink")》與DVD單曲《[Strong Heart](../Page/Strong_Heart.md "wikilink")》後再由GIORGIO CANCEMI負責作曲，亦以GIORGIO 13名義與倉木共同填詞。
 
 ## 收錄歌曲
 

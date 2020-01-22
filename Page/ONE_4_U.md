@@ -1,7 +1,7 @@
 > 本文内容由[ONE 4 U](https://zh.wikipedia.org/wiki/ONE_4_U)转换而来。
 
 
-**《ONE 4 U》**( ；) 是韓國新銳男子組合〈[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")〉，於2012年6月1日由 [DSP Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，CJ E\&M發行的第二張單曲。同年8月另由[UNIVERSAL SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。韓版宣傳於6月2日從[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") - [Show\! 音樂中心進行出道舞台後正式展開一連串的行程](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")。日版宣傳於7月11日日本東京舉行「出道ShowCase」後8月4日開始緊湊的出道行程，包含了東京大阪攝影會、日本四地[握手會](../Page/握手會.md "wikilink")、[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")、電視雜誌等行程。
+**《ONE 4 U》**( ；) 是韓國新銳男子組合〈[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")〉，於2012年6月1日由 [DSP Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，CJ E\&M發行的第二張單曲。同年8月另由[UNIVERSAL SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。韓版宣傳於6月2日從[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") - [Show\! 音樂中心進行出道舞台後正式展開一連串的行程](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")。日版宣傳於7月11日日本東京舉行「出道ShowCase」後8月4日開始緊湊的出道行程，包含了東京大阪攝影會、日本四地[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")、[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")、電視雜誌等行程。
 
 ## 單曲概要
 
@@ -37,7 +37,7 @@
 <p>（限定盤A / B / C + SPECIAL SHOWCASE DVD）</p></td>
 </tr>
 <tr class="odd">
-<td><p>贈送：⒈A-JAX <a href="../Page/握手會.md" title="wikilink">握手會</a>參加券 ⒉A-JAX 成員小卡 (共七款，隨機收入一款)</p></td>
+<td><p>贈送：⒈A-JAX <a href="https://zh.wikipedia.org/wiki/握手會" title="wikilink">握手會參加券</a> ⒉A-JAX 成員小卡 (共七款，隨機收入一款)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -176,7 +176,7 @@
 </tr>
 <tr class="even">
 <td><p>06月14日、06月21日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -220,7 +220,7 @@
 </tr>
 <tr class="odd">
 <td><p>06月7日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>

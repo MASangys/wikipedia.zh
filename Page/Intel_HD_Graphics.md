@@ -3,7 +3,7 @@
 
 **HD Graphics**是[Intel一系列的](https://zh.wikipedia.org/wiki/Intel "wikilink")[整合顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，於2010年首次推出。不同於以往整合在[晶片組的顯示核心](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，此次顯示核心是整合於[處理器上](https://zh.wikipedia.org/wiki/處理器 "wikilink")，並且擁有獨立的[品牌](../Page/品牌.md "wikilink")。[中國大陸官方](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[中文品牌名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")“****”，\[1\]而[台灣仍採用半](https://zh.wikipedia.org/wiki/台灣 "wikilink")[直譯的](https://zh.wikipedia.org/wiki/直譯 "wikilink")“****”，\[2\]，而[港澳地區](../Page/港澳地區.md "wikilink")則繼續沿用官方的[英文名稱](https://zh.wikipedia.org/wiki/英文 "wikilink")“Intel® HD Graphics”\[3\]。
 
-**Iris Graphics**及**Iris Pro Graphics**是Intel最新的整合式顯示核心品牌，在Haswell微架構處理器中開始使用，頻率及效能更高。其中，Pro版帶有128MB eDRAM（embedded [DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）用作GPU快取，也可當作CPU L4。\[4\]
+**Iris Graphics**及**Iris Pro Graphics**是Intel最高端的整合式顯示核心品牌，頻率及效能更高。其中，Pro版帶有eDRAM（embedded [DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）用作GPU快取，也可當作CPU L4。\[4\]
 
 ## 歷史
 
@@ -57,6 +57,8 @@
   - Iris Pro 580（EU：72），核心代號「GT4e」，同時擁有128MB的eDRAM
 
 ### Ice Lake微架構
+
+第11代核芯顯卡。Core 10xxG1採用UHD顯示卡，Core 10xxG4和Core 10xxG7採用Iris顯示卡。
 
 ## 技術參數
 

@@ -31,12 +31,12 @@
 ### 記憶體界面、晶片組、處理器插座、匯流排
 
   - 仍然是內建[雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")[DDR3記憶體界面](https://zh.wikipedia.org/wiki/DDR3 "wikilink")，支援DDR3-800至2133的記憶體時鐘頻率規格，支援1.25V超低[電壓](../Page/電壓.md "wikilink")DDR3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")；企業級的處理器則最高支援[四通道DDR](https://zh.wikipedia.org/wiki/四通道 "wikilink")3，支援[ECC記憶體](https://zh.wikipedia.org/wiki/寄存式內存 "wikilink")；\[24\]\[25\]
-  - 消費級的[AMD FX系列沿用](../Page/AMD_FX.md "wikilink")[Socket AM3+插座](../Page/Socket_AM3+.md "wikilink")，沿用舊有的[900系列晶片組](../Page/AMD_900_芯片组系列.md "wikilink")；\[26\]\[27\]而基於Piledriver微架構的[AMD Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink") A系列APU雖然仍使用舊有的A55、A75等晶片組，也可使用全新發布的A85X晶片組，但插座則使用全新的[Socket FM2插座](../Page/Socket_FM2.md "wikilink")，不相容於舊有的[Socket FM1](https://zh.wikipedia.org/wiki/Socket_FM1 "wikilink")；\[28\]\[29\]\[30\]基於Piledriver微架構的[AMD Opteron則全部相容於既有的晶片組和既有的Socket](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink") AM3+、[Socket C32和](../Page/Socket_C32.md "wikilink")[Socket G34插座](../Page/Socket_G34.md "wikilink")；\[31\]
+  - 消費級的[AMD FX系列沿用](https://zh.wikipedia.org/wiki/AMD_FX "wikilink")[Socket AM3+插座](../Page/Socket_AM3+.md "wikilink")，沿用舊有的[900系列晶片組](../Page/AMD_900_芯片组系列.md "wikilink")；\[26\]\[27\]而基於Piledriver微架構的[AMD Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink") A系列APU雖然仍使用舊有的A55、A75等晶片組，也可使用全新發布的A85X晶片組，但插座則使用全新的[Socket FM2插座](../Page/Socket_FM2.md "wikilink")，不相容於舊有的[Socket FM1](https://zh.wikipedia.org/wiki/Socket_FM1 "wikilink")；\[28\]\[29\]\[30\]基於Piledriver微架構的[AMD Opteron則全部相容於既有的晶片組和既有的Socket](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink") AM3+、[Socket C32和](../Page/Socket_C32.md "wikilink")[Socket G34插座](../Page/Socket_G34.md "wikilink")；\[31\]
   - [HyperTransport 3.1](../Page/HyperTransport.md "wikilink")，預設運作時鐘頻率3.2[GHz](https://zh.wikipedia.org/wiki/GHz "wikilink")，資料吞吐效能為單向6.4GT/s；
 
 ### 內建顯示核心（僅限AMD Fusion）
 
-  - 基於Piledriver微架構的AMD Fusion，核心代號“Trinity”，[CPU部分是單](https://zh.wikipedia.org/wiki/CPU "wikilink")/雙Piledriver模組，2至4核心，無L3快取，[GPU部分基於](https://zh.wikipedia.org/wiki/GPU "wikilink")[AMD Radeon HD 6900系列的](https://zh.wikipedia.org/wiki/AMD_Radeon_HD_6000 "wikilink")“Cayman”顯示核心之[VLIW4指令架構而設計的](https://zh.wikipedia.org/wiki/VLIW "wikilink")[Radeon HD 7600D/G系列](../Page/AMD_Radeon_HD_7000.md "wikilink")，擁有128至384個流處理器，核心時鐘頻率為327MHz至492MHz，支援[DriectX 11](../Page/DirectX.md "wikilink")、[OpenGL 4.2](../Page/OpenGL.md "wikilink")、[OpenCL 1.1](../Page/OpenCL.md "wikilink")，支援[UVD](../Page/UVD.md "wikilink")3[高解析度視訊](https://zh.wikipedia.org/wiki/高清 "wikilink")[解碼](https://zh.wikipedia.org/wiki/解碼 "wikilink")、Eyefinity多屏顯示輸出、[DisplayPort 1.2規範等](../Page/DisplayPort.md "wikilink")\[32\]
+  - 基於Piledriver微架構的AMD Fusion，核心代號“Trinity”，[CPU部分是單](https://zh.wikipedia.org/wiki/CPU "wikilink")/雙Piledriver模組，2至4核心，無L3快取，[GPU部分基於](https://zh.wikipedia.org/wiki/GPU "wikilink")[AMD Radeon HD 6900系列的](https://zh.wikipedia.org/wiki/AMD_Radeon_HD_6000 "wikilink")“Cayman”顯示核心之[VLIW4指令架構而設計的](https://zh.wikipedia.org/wiki/VLIW "wikilink")[Radeon HD 7600D/G系列](https://zh.wikipedia.org/wiki/AMD_Radeon_HD_7000 "wikilink")，擁有128至384個流處理器，核心時鐘頻率為327MHz至492MHz，支援[DriectX 11](../Page/DirectX.md "wikilink")、[OpenGL 4.2](../Page/OpenGL.md "wikilink")、[OpenCL 1.1](../Page/OpenCL.md "wikilink")，支援[UVD](../Page/UVD.md "wikilink")3[高解析度視訊](https://zh.wikipedia.org/wiki/高清 "wikilink")[解碼](https://zh.wikipedia.org/wiki/解碼 "wikilink")、Eyefinity多屏顯示輸出、[DisplayPort 1.2規範等](../Page/DisplayPort.md "wikilink")\[32\]
 
 ## 處理器
 
@@ -93,7 +93,7 @@
   - [AMD CPU微架構列表](../Page/AMD_CPU微架構列表.md "wikilink")
   - [AMD Bulldozer](../Page/AMD_Bulldozer.md "wikilink")
   - [AMD Opteron](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")
-  - [AMD FX](../Page/AMD_FX.md "wikilink")
+  - [AMD FX](https://zh.wikipedia.org/wiki/AMD_FX "wikilink")
   - [AMD Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")
 
 ## 參考資料

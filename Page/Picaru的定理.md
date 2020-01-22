@@ -13,11 +13,11 @@
 
 :;Picaru隊
 
-:\*[Piece](../Page/Piece_\(搞笑組合\).md "wikilink")（[綾部祐二](https://zh.wikipedia.org/wiki/綾部祐二 "wikilink")、[又吉直樹](../Page/又吉直樹.md "wikilink")）
+:\*[Piece](https://zh.wikipedia.org/wiki/Piece_\(搞笑組合\) "wikilink")（[綾部祐二](https://zh.wikipedia.org/wiki/綾部祐二 "wikilink")、[又吉直樹](../Page/又吉直樹.md "wikilink")）
 
 :\*[怪物引擎](https://zh.wikipedia.org/wiki/怪物引擎 "wikilink")（[西森洋一](https://zh.wikipedia.org/wiki/西森洋一 "wikilink")、[大林健二](https://zh.wikipedia.org/wiki/大林健二 "wikilink")）
 
-:\*[原市](../Page/原市.md "wikilink")（[岩井勇氣](https://zh.wikipedia.org/wiki/岩井勇氣 "wikilink")、[澤部佑](../Page/澤部佑.md "wikilink")）
+:\*[原市](https://zh.wikipedia.org/wiki/原市 "wikilink")（[岩井勇氣](https://zh.wikipedia.org/wiki/岩井勇氣 "wikilink")、[澤部佑](../Page/澤部佑.md "wikilink")）
 
 :\*[平成野武士古武士](https://zh.wikipedia.org/wiki/平成野武士古武士 "wikilink")（[德井健太](https://zh.wikipedia.org/wiki/德井健太 "wikilink")、[吉村崇](https://zh.wikipedia.org/wiki/吉村崇 "wikilink")）
 
@@ -35,7 +35,7 @@
 
 :\*[Tomi Dokoro](https://zh.wikipedia.org/wiki/Tomi_Dokoro "wikilink")
 
-:\*[中田敦彥](../Page/中田敦彥.md "wikilink")
+:\*[中田敦彥](https://zh.wikipedia.org/wiki/中田敦彥 "wikilink")
 
   - 第二季
 
@@ -73,7 +73,7 @@
 
 :\*[加賀美聖良](https://zh.wikipedia.org/wiki/加賀美聖良 "wikilink")
 
-:\*[千鳥](../Page/千鳥_\(搞笑組合\).md "wikilink")（[大悟](https://zh.wikipedia.org/wiki/大悟_\(千鳥\) "wikilink")、[阿-{}-信](https://zh.wikipedia.org/wiki/阿信_\(千鳥\) "wikilink")）
+:\*[千鳥](https://zh.wikipedia.org/wiki/千鳥_\(搞笑組合\) "wikilink")（[大悟](https://zh.wikipedia.org/wiki/大悟_\(千鳥\) "wikilink")、[阿-{}-信](https://zh.wikipedia.org/wiki/阿信_\(千鳥\) "wikilink")）
 
 :;準常規成員
 

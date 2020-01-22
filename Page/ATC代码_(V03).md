@@ -10,7 +10,7 @@
     V03AB02 [烯丙吗啡](https://zh.wikipedia.org/wiki/烯丙吗啡 "wikilink")（Nalorphine）
     V03AB03 [依地酸盐](https://zh.wikipedia.org/wiki/依地酸盐 "wikilink")（Edetates）
     V03AB04 [碘解磷定](https://zh.wikipedia.org/wiki/碘解磷定 "wikilink")（Pralidoxime）
-    V03AB05 [泼尼松龙](../Page/泼尼松龙.md "wikilink")和[异丙嗪](https://zh.wikipedia.org/wiki/异丙嗪 "wikilink")（Prednisolone and promethazine）
+    V03AB05 [泼尼松龙和](https://zh.wikipedia.org/wiki/泼尼松龙 "wikilink")[异丙嗪](https://zh.wikipedia.org/wiki/异丙嗪 "wikilink")（Prednisolone and promethazine）
     V03AB06 [硫代硫酸钠](../Page/硫代硫酸钠.md "wikilink")（Thiosulfate）
     V03AB08 [亚硝酸钠](../Page/亚硝酸钠.md "wikilink")（Sodium nitrite）
     V03AB09 [二巯丙醇](https://zh.wikipedia.org/wiki/二巯丙醇 "wikilink")（Dimercaprol）
@@ -20,7 +20,7 @@
     V03AB16 [乙醇](../Page/乙醇.md "wikilink")（Ethanol）
     V03AB17 [亚甲蓝](https://zh.wikipedia.org/wiki/亚甲蓝 "wikilink")（Methylthioninium chloride）
     V03AB18 [高锰酸钾](../Page/高锰酸钾.md "wikilink")（Potassium permanganate）
-    V03AB19 [毒扁豆碱](../Page/毒扁豆碱.md "wikilink")（Physostigmine）
+    V03AB19 [毒扁豆碱](https://zh.wikipedia.org/wiki/毒扁豆碱 "wikilink")（Physostigmine）
     V03AB20 [硫酸铜](../Page/硫酸铜.md "wikilink")（Copper sulfate）
     V03AB21 [碘化钾](../Page/碘化钾.md "wikilink")（Potassium iodide）
     V03AB22 [亚硝酸异戊酯](../Page/亚硝酸异戊酯.md "wikilink")（Amyl nitrite）
@@ -28,7 +28,7 @@
     V03AB24 [洋地黄抗毒素](https://zh.wikipedia.org/wiki/洋地黄抗毒素 "wikilink")（Digitalis antitoxin）
     V03AB25 [氟马西尼](https://zh.wikipedia.org/wiki/氟马西尼 "wikilink")（Flumazenil）
     V03AB26 [蛋氨酸](https://zh.wikipedia.org/wiki/蛋氨酸 "wikilink")（Methionine）
-    V03AB27 [4-二甲氨基苯酚](../Page/4-二甲氨基苯酚.md "wikilink")（4-dimethylaminophenol）
+    V03AB27 [4-二甲氨基苯酚](https://zh.wikipedia.org/wiki/4-二甲氨基苯酚 "wikilink")（4-dimethylaminophenol）
     V03AB29 [胆碱酯酶](https://zh.wikipedia.org/wiki/胆碱酯酶 "wikilink")（Cholinesterase）
     V03AB31 [普鲁士蓝](../Page/普鲁士蓝.md "wikilink")（Prussian blue）
     V03AB32 [谷胱甘肽](../Page/谷胱甘肽.md "wikilink")（Glutathione）
@@ -39,7 +39,7 @@
     QV03AB90 [阿替美唑](https://zh.wikipedia.org/wiki/阿替美唑 "wikilink")（Atipamezole）
     QV03AB91 [沙马西尼](https://zh.wikipedia.org/wiki/沙马西尼 "wikilink")（Sarmazenil）
     QV03AB92 [地利洛非](../Page/地利洛非.md "wikilink")（Diprenorfin）
-    QV03AB93 [育亨宾](../Page/育亨宾.md "wikilink")（Yohimbine）
+    QV03AB93 [育亨宾](https://zh.wikipedia.org/wiki/育亨宾 "wikilink")（Yohimbine）
     QV03AB94 [妥拉苏林](https://zh.wikipedia.org/wiki/妥拉苏林 "wikilink")（Tolazoline）
 
 ### V03AC [铁螯合剂类](https://zh.wikipedia.org/wiki/铁螯合剂类 "wikilink")（Iron chelating agents）
@@ -54,7 +54,7 @@
   -
     V03AE01 [聚磺苯乙烯](https://zh.wikipedia.org/wiki/聚磺苯乙烯 "wikilink")（Polystyrene sulfonate）
     V03AE02 [司维拉莫](https://zh.wikipedia.org/wiki/司维拉莫 "wikilink")（Sevelamer）
-    V03AE03 [碳酸镧](../Page/碳酸镧.md "wikilink")（Lanthanum carbonate）
+    V03AE03 [碳酸镧](https://zh.wikipedia.org/wiki/碳酸镧 "wikilink")（Lanthanum carbonate）
     V03AE04 [醋酸钙和碳酸镁](https://zh.wikipedia.org/wiki/醋酸钙和碳酸镁 "wikilink")（Calcium acetate and magnesium carbonate）
 
 ### V03AF 用于抗肿瘤治疗的解毒剂（Detoxifying agents for antineoplastic treatment）

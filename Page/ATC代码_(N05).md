@@ -53,7 +53,7 @@
 ### N05AE [吲哚](../Page/吲哚.md "wikilink")衍生物类（Indole derivatives）
 
   -
-    N05AE01 [奥昔哌汀](../Page/奥昔哌汀.md "wikilink")（Oxypertine）
+    N05AE01 [奥昔哌汀](https://zh.wikipedia.org/wiki/奥昔哌汀 "wikilink")（Oxypertine）
     N05AE02 [吗茚酮](https://zh.wikipedia.org/wiki/吗茚酮 "wikilink")（Molindone）
     N05AE03 [舍吲哚](https://zh.wikipedia.org/wiki/舍吲哚 "wikilink")（Sertindole）
     N05AE04 [齐哌西酮](https://zh.wikipedia.org/wiki/齐哌西酮 "wikilink")（Ziprasidone）
@@ -78,7 +78,7 @@
 
   -
     N05AH01 [洛沙平](https://zh.wikipedia.org/wiki/洛沙平 "wikilink")（Loxapine）
-    N05AH02 [氯氮平](../Page/氯氮平.md "wikilink")（Clozapine）
+    N05AH02 [氯氮平](https://zh.wikipedia.org/wiki/氯氮平 "wikilink")（Clozapine）
     N05AH03 [奥氮平](../Page/奥氮平.md "wikilink")（Olanzapine）
     N05AH04 [喹硫平](../Page/喹硫平.md "wikilink")（Quetiapine）
     N05AH05 [阿塞那平](https://zh.wikipedia.org/wiki/阿塞那平 "wikilink")（Asenapine）
@@ -135,7 +135,7 @@
     N05BA14
     N05BA15
     N05BA16
-    N05BA17 [氟地西泮](../Page/氟地西泮.md "wikilink")
+    N05BA17 [氟地西泮](https://zh.wikipedia.org/wiki/氟地西泮 "wikilink")
     N05BA18
     N05BA19
     N05BA21
@@ -143,7 +143,7 @@
     N05BA23
     N05BA56 劳拉西泮，复方 Lorazepam, combinations
 
-### N05BB [二苯甲烷](../Page/二苯甲烷.md "wikilink")衍生物类（Diphenylmethane derivatives）
+### N05BB [二苯甲烷衍生物类](https://zh.wikipedia.org/wiki/二苯甲烷 "wikilink")（Diphenylmethane derivatives）
 
   -
     N05BB01 羟嗪 [羟嗪](../Page/羟嗪.md "wikilink")
@@ -194,7 +194,7 @@
     N05CA12
     N05CA15
     N05CA16 [环己巴比妥](../Page/环己巴比妥.md "wikilink")
-    N05CA19 [硫噴妥鈉](../Page/硫噴妥鈉.md "wikilink")
+    N05CA19 [硫噴妥鈉](https://zh.wikipedia.org/wiki/硫噴妥鈉 "wikilink")
     N05CA20
     N05CA21
     N05CA22
@@ -224,7 +224,7 @@
     N05CD05 三唑仑 [三唑仑](../Page/三唑仑.md "wikilink")
     N05CD06
     N05CD07
-    N05CD08 咪达唑仑 [咪達唑侖](../Page/咪達唑侖.md "wikilink")
+    N05CD08 咪达唑仑 [咪達唑侖](https://zh.wikipedia.org/wiki/咪達唑侖 "wikilink")
     N05CD09
     N05CD10
     N05CD11
@@ -245,12 +245,12 @@
     N05CF01 佐匹克隆 [佐匹克隆](../Page/佐匹克隆.md "wikilink")
     N05CF02 唑吡坦 [唑吡坦](../Page/唑吡坦.md "wikilink")
     N05CF03 扎来普隆
-    N05CF04 右佐匹克隆 [艾司佐匹克隆](../Page/艾司佐匹克隆.md "wikilink")
+    N05CF04 右佐匹克隆 [艾司佐匹克隆](https://zh.wikipedia.org/wiki/艾司佐匹克隆 "wikilink")
 
 ### N05CH 美洛托宁受体激动剂（Melatonin receptor agonists）
 
   -
-    N05CH01 [褪黑素](../Page/褪黑素.md "wikilink")
+    N05CH01 [褪黑素](https://zh.wikipedia.org/wiki/褪黑素 "wikilink")
     N05CH02
 
 ### N05CM 其它催眠镇静药（Other hypnotics and sedatives）

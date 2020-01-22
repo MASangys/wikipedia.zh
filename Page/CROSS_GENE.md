@@ -9,6 +9,8 @@
 
 2018年12月11日，官方宣布日本籍成員Takuya約滿不續約離隊\[2\]。
 
+2019年12月31日，官方宣布Yongseok、Sangmin與Amuse約滿，並因二人與Shin將入伍服役，組合暫停活動\[3\]。
+
 ## 成員資料
 
 | 成員列表     |
@@ -104,6 +106,15 @@
 <ul>
 <li>发行日期：2012年11月21日</li>
 <li>语言：日語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong>C.O.R.V.U.S</strong>》</p>
+<ul>
+<li>發行日期：2019年9月7日（会場限定發售）</li>
+<li>語言：日語</li>
 </ul></td>
 <td></td>
 </tr>
@@ -291,7 +302,7 @@
 |            |       |                 |
 | ---------- | ----- | --------------- |
 | 日期         | 演唱會站次 | 舉行地點            |
-| 2016年7月30日 | 神奈川站  | 日本神奈川藝術劇場廳\[3\] |
+| 2016年7月30日 | 神奈川站  | 日本神奈川藝術劇場廳\[4\] |
 
   - CROSS GENE其他大型演唱會
 
@@ -410,11 +421,11 @@
 </tbody>
 </table>
 
-| 各台冠軍歌曲統計                             |
-| ------------------------------------ |
-| [Mnet](../Page/Mnet媒體.md "wikilink") |
-| 0                                    |
-| 一位總數：0                               |
+| 各台冠軍歌曲統計                                                |
+| ------------------------------------------------------- |
+| [Mnet](https://zh.wikipedia.org/wiki/Mnet媒體 "wikilink") |
+| 0                                                       |
+| 一位總數：0                                                  |
 
 ## 參考資料
 
@@ -444,4 +455,5 @@
 
 1.  [Casper leaves Cross Gene before upcoming comeback](https://www.allkpop.com/article/2017/09/casper-leaves-cross-gene-before-upcoming-comeback)
 2.  [Takuya announces his departure from Cross Gene + remaining members dedicate a letter to fans](https://www.allkpop.com/article/2018/12/takuya-announces-his-departure-from-cross-gene-remaining-members-dedicate-a-letter-to-fans)
-3.  [不惜男扮女裝落力演出！Cross Gene為亞巡粉絲見面會畫上最美句號！](http://www.vlovekpop.com/20160803-crossgene/) vlovekpop
+3.  [CROSS GENEを応援して下さっているファンの皆さんへ](https://www.crossgene.jp/contents/288850)
+4.  [不惜男扮女裝落力演出！Cross Gene為亞巡粉絲見面會畫上最美句號！](http://www.vlovekpop.com/20160803-crossgene/) vlovekpop

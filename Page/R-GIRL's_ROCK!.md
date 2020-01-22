@@ -22,14 +22,14 @@
       - 原曲是[JITTERIN'JINN](https://zh.wikipedia.org/wiki/JITTERIN'JINN "wikilink") （1989）
 4.  **[ロックンロール・ウィドウ](https://zh.wikipedia.org/wiki/ロックンロール・ウィドウ "wikilink")** \[3:20\]
       -
-        作詞：[阿木燿子](../Page/阿木燿子.md "wikilink")　作曲：[宇崎竜童](https://zh.wikipedia.org/wiki/宇崎竜童 "wikilink")　編曲：[宮永治郎](https://zh.wikipedia.org/wiki/宮永治郎 "wikilink")、[ユトリロン](https://zh.wikipedia.org/wiki/ユトリロン "wikilink")
+        作詞：[阿木燿子](https://zh.wikipedia.org/wiki/阿木燿子 "wikilink")　作曲：[宇崎竜童](https://zh.wikipedia.org/wiki/宇崎竜童 "wikilink")　編曲：[宮永治郎](https://zh.wikipedia.org/wiki/宮永治郎 "wikilink")、[ユトリロン](https://zh.wikipedia.org/wiki/ユトリロン "wikilink")
     <!-- end list -->
       - 原曲是[山口百惠](../Page/山口百惠.md "wikilink") （1980）
 5.  **[DAYDREAM](https://zh.wikipedia.org/wiki/DAYDREAM/キケンな2人 "wikilink")** \[4:01\]
       -
         作詞：[YUKI](../Page/YUKI_\(歌手\).md "wikilink")　作曲：[恩田快人](https://zh.wikipedia.org/wiki/恩田快人 "wikilink")　編曲：イイジマケン
     <!-- end list -->
-      - 原曲是[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink") （1994）
+      - 原曲是[JUDY AND MARY](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink") （1994）
 6.  **[Sunny Day Sunday](https://zh.wikipedia.org/wiki/Sunny_Day_Sunday "wikilink")** \[2:21\]
       -
         作詞：赤羽奈津代　作曲：[鈴木秋則](https://zh.wikipedia.org/wiki/鈴木秋則 "wikilink")　編曲：川口圭太

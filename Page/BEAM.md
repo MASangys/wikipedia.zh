@@ -36,7 +36,7 @@
       - 最小球：移动它们的[重心](https://zh.wikipedia.org/wiki/重心 "wikilink")，使得它们的球形躯体滚动。
   - *[步行者](https://zh.wikipedia.org/wiki/步行者 "wikilink")*：通过与地面不同的接触进行移动的机器人。
       - 电机驱动：使用电机移动它们的腿部（典型的是3个电机或更少）。
-      - 肌肉线驱动：通过[镍](../Page/镍.md "wikilink")（镍钛-[记忆合金](https://zh.wikipedia.org/wiki/记忆合金 "wikilink")）线作为腿部的驱动器。
+      - 肌肉线驱动：通过[镍](https://zh.wikipedia.org/wiki/镍 "wikilink")（镍钛-[记忆合金](https://zh.wikipedia.org/wiki/记忆合金 "wikilink")）线作为腿部的驱动器。
   - *[游泳者](https://zh.wikipedia.org/wiki/游泳者 "wikilink")*在液体中或表面运动的机器人（典型的是水）。
       - 船型机器人：在液体表面上运转。
       - 水下机器人：在液体表面下运转。

@@ -6,7 +6,7 @@
 ### C08CA [二氢吡啶衍生物](https://zh.wikipedia.org/wiki/二氢吡啶衍 "wikilink")（Dihydropyridine derivatives）
 
   -
-    C08CA01 [氨氯地平](../Page/氨氯地平.md "wikilink")（Amlodipine）
+    C08CA01 [氨氯地平](https://zh.wikipedia.org/wiki/氨氯地平 "wikilink")（Amlodipine）
     C08CA02 [非洛地平](https://zh.wikipedia.org/wiki/非洛地平 "wikilink")（Felodipine）
     C08CA03 [伊拉地平](https://zh.wikipedia.org/wiki/伊拉地平 "wikilink")（Isradipine）
     C08CA04 [尼卡地平](https://zh.wikipedia.org/wiki/尼卡地平 "wikilink")（Nicardipine）

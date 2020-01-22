@@ -25,10 +25,10 @@
 | 10 | **[沈黙の果実](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                                   |
 | 11 | **[残光のガイア](../Page/HYBRID_UNIVERSE.md "wikilink")**                                                   |
 | 12 | **MC-2**                                                                                              |
-| 13 | **[STAND](../Page/MAGIC_ATTRACTION.md "wikilink")**                                                   |
+| 13 | **[STAND](https://zh.wikipedia.org/wiki/MAGIC_ATTRACTION "wikilink")**                                |
 | 14 | **[少年](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                                      |
 | 15 | **二人のMemory 〜prologue〜 (短編動画)**                                                                       |
-| 16 | **[二人のMemory](../Page/MAGIC_ATTRACTION.md "wikilink")**                                               |
+| 16 | **[二人のMemory](https://zh.wikipedia.org/wiki/MAGIC_ATTRACTION "wikilink")**                            |
 | 17 | **[PERFECT SMILE](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                           |
 | 18 | **MC-3**                                                                                              |
 | 19 | '''[innocent starter](https://zh.wikipedia.org/wiki/innocent_starter "wikilink") (acoustice ver.) ''' |

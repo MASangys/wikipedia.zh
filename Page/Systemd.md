@@ -19,7 +19,7 @@ systemd这一名字源于[Unix中的一个惯例](https://zh.wikipedia.org/wiki/
 
   - 將service（服務）、target（執行模式，類似於執行等級）、mount、timer、snapshot、path、socket、swap等稱為Unit。比如，一個auditd服務（就是auditd.service）就是一個Unit，一個multi-user.target執行模式也是一個Unit。
   - 采用[Socket激活式与](https://zh.wikipedia.org/wiki/Socket "wikilink")[D-Bus](../Page/D-Bus.md "wikilink")激活式服务，以提高相互依赖的各服务的并行运行性能；
-  - 用[cgroups代替](https://zh.wikipedia.org/wiki/cgroups "wikilink")[进程ID](../Page/进程ID.md "wikilink")来追踪进程，以此即使是两次[fork之后生成的守护进程也不会脱离systemd的控制](https://zh.wikipedia.org/wiki/Fork_\(操作系统\) "wikilink")。
+  - 用[cgroups代替](https://zh.wikipedia.org/wiki/cgroups "wikilink")[进程ID来追踪进程](https://zh.wikipedia.org/wiki/进程ID "wikilink")，以此即使是两次[fork之后生成的守护进程也不会脱离systemd的控制](https://zh.wikipedia.org/wiki/Fork_\(操作系统\) "wikilink")。
   - 用target代替System V的[執行級別](https://zh.wikipedia.org/wiki/執行級別 "wikilink")（Runlevel），比如，SystemD的graphical.target相當於System V的init 5，multi-user.target相當於System V的init 3。
   - 內建新的[journald](https://zh.wikipedia.org/wiki/journald "wikilink") [日誌管理系統](https://zh.wikipedia.org/wiki/日誌 "wikilink")。
   - 引入`localectl`、`timedatectl`等新命令，系統配置更方便。
@@ -35,7 +35,7 @@ systemd已纳入众多[Linux发行版](../Page/Linux发行版.md "wikilink")的�
 <!-- end list -->
 
   - [Fedora](../Page/Fedora.md "wikilink") 15及后续版本\[8\]
-  - [Mageia](../Page/Mageia.md "wikilink") 2\[9\]
+  - [Mageia](https://zh.wikipedia.org/wiki/Mageia "wikilink") 2\[9\]
   - [Mandriva](../Page/Mandriva_Linux.md "wikilink") 2011\[10\]
   - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink") 12.1 及后续版本\[11\]
   - [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") 7及后续版本，包括其衍生品[CentOS](../Page/CentOS.md "wikilink")、[Scientific Linux](../Page/Scientific_Linux.md "wikilink")、[Oracle Linux等](../Page/Oracle_Linux.md "wikilink")
@@ -73,7 +73,7 @@ systemd已纳入众多[Linux发行版](../Page/Linux发行版.md "wikilink")的�
   - [readahead](https://zh.wikipedia.org/wiki/readahead "wikilink")
 
   -
-  - [Upstart](../Page/Upstart.md "wikilink")
+  - [Upstart](https://zh.wikipedia.org/wiki/Upstart "wikilink")
 
   -
 {{-}}

@@ -6,7 +6,7 @@
   -
     [甘油](../Page/甘油.md "wikilink") + [NADP<sup>+</sup>](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink") \(\rightleftharpoons\) [D-甘油醛](https://zh.wikipedia.org/wiki/D-甘油醛 "wikilink") + NADPH + [H<sup>+</sup>](https://zh.wikipedia.org/wiki/氢离子 "wikilink")
 
-甘油脱氢酶 (NADP<sup>+</sup>)主要参与[甘油酯](../Page/甘油酯.md "wikilink")的[代谢](../Page/代谢.md "wikilink")过程。
+甘油脱氢酶 (NADP<sup>+</sup>)主要参与[甘油酯的](https://zh.wikipedia.org/wiki/甘油酯 "wikilink")[代谢](../Page/代谢.md "wikilink")过程。
 
 ## 参考文献
 

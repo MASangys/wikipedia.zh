@@ -57,7 +57,7 @@
     N01AX11 [羟丁酸钠](https://zh.wikipedia.org/wiki/羟丁酸钠 "wikilink")（Sodium oxybate）
     N01AX13 [氧化亚氮](https://zh.wikipedia.org/wiki/氧化亚氮 "wikilink")（Nitrous oxide）
     N01AX14 [艾氯胺酮](https://zh.wikipedia.org/wiki/艾氯胺酮 "wikilink")（Esketamine）
-    N01AX15 [氙](../Page/氙.md "wikilink")（Xenon）
+    N01AX15 [氙](https://zh.wikipedia.org/wiki/氙 "wikilink")（Xenon）
     N01AX63 一氧化氮，复方（Nitrous oxide, combinations）
     QN01AX91 （Azaperone）
     QN01AX92 （Benzocaine）
@@ -77,7 +77,7 @@
     N01BA05 [苯佐卡因](../Page/苯佐卡因.md "wikilink")（Benzocaine）
     N01BA52 普鲁卡因，复方（Procaine, combinations）
 
-### N01BB [酰胺](../Page/酰胺.md "wikilink")类（Amides）
+### N01BB [酰胺类](https://zh.wikipedia.org/wiki/酰胺 "wikilink")（Amides）
 
   -
     N01BB01 [布比卡因](../Page/布比卡因.md "wikilink")（Bupivacaine）

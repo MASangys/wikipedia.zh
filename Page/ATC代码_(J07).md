@@ -46,7 +46,7 @@
     J07AH08 脑膜炎球菌，结合四价纯化多糖抗原（Meningococcus A, C, Y, W-135, tetravalent purified polysaccharides antigen conjugated）
     J07AH09 乙型脑膜炎，多元疫苗（Meningococcus B, multicomponent vaccine）
 
-### J07AJ [百日咳疫苗](../Page/百日咳疫苗.md "wikilink")（Pertussis vaccines）
+### J07AJ [百日咳疫苗](https://zh.wikipedia.org/wiki/百日咳疫苗 "wikilink")（Pertussis vaccines）
 
   -
     J07AJ01 百日咳疫苗，灭活全细胞（Pertussis, inactivated, whole cell）

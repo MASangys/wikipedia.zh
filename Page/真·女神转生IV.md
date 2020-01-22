@@ -1,7 +1,7 @@
 > 本文内容由[真·女神转生IV](https://zh.wikipedia.org/wiki/真·女神转生IV)转换而来。
 
 
-《**真·女神转生IV**》（）是一款由[ATLUS开发并将发行于](https://zh.wikipedia.org/wiki/ATLUS "wikilink")[任天堂3DS](../Page/任天堂3DS.md "wikilink")平台上的[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。本作是继《[真女神轉生III Nocturne](https://zh.wikipedia.org/wiki/真女神轉生III_Nocturne "wikilink")》时隔9年公布的[系列正统续作](../Page/女神轉生系列.md "wikilink")\[1\]。游戏最早由Altus在2010年[E3游戏展上确认新游戏将登陆](https://zh.wikipedia.org/wiki/E3游戏展 "wikilink")[任天堂3DS](../Page/任天堂3DS.md "wikilink")平台\[2\]。
+《**真·女神转生IV**》（）是一款由[ATLUS开发并将发行于](https://zh.wikipedia.org/wiki/ATLUS "wikilink")[任天堂3DS平台上的](https://zh.wikipedia.org/wiki/任天堂3DS "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。本作是继《[真女神轉生III Nocturne](https://zh.wikipedia.org/wiki/真女神轉生III_Nocturne "wikilink")》时隔9年公布的[系列正统续作](../Page/女神轉生系列.md "wikilink")\[1\]。游戏最早由Altus在2010年[E3游戏展上确认新游戏将登陆](https://zh.wikipedia.org/wiki/E3游戏展 "wikilink")[任天堂3DS平台](https://zh.wikipedia.org/wiki/任天堂3DS "wikilink")\[2\]。
 
 本作同期发售针对繁体中文区（香港，台湾）任天堂3DS的游戏版本，不过语言依旧为日语。本作是繁体中文区第一款支持使用“Nintendo预付卡”购买新增下载内容（DLC）的游戏。\[3\]。
 

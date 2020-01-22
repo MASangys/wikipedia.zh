@@ -49,7 +49,7 @@
       -
         7th單曲・[TBS](../Page/TBS.md "wikilink")節目「メガデジ」片尾曲
         成員[有原栞菜](../Page/有原栞菜.md "wikilink")的最後一張單曲
-11. **[江戶手毬歌Ⅱ](../Page/江戶手毬歌Ⅱ.md "wikilink")**（江戸の手毬唄II）
+11. **[江戶手毬歌Ⅱ](https://zh.wikipedia.org/wiki/江戶手毬歌Ⅱ "wikilink")**（江戸の手毬唄II）
     （作詞：[吉岡治](https://zh.wikipedia.org/wiki/吉岡治 "wikilink") 作曲：[宇崎竜童](https://zh.wikipedia.org/wiki/宇崎竜童 "wikilink") 編曲：[川端良征](https://zh.wikipedia.org/wiki/川端良征 "wikilink")）
       -
         6th單曲

@@ -13,7 +13,7 @@ RPG-2採用的彈頭為PG-2 HEAT。使用前射手需先把PG-2 HEAT彈頭從槍
 
 ## 仿製
 
-  - [中國](../Page/中國.md "wikilink")－[56式火箭筒](../Page/56式火箭筒.md "wikilink")
+  - [中國](../Page/中國.md "wikilink")－[56式火箭筒](https://zh.wikipedia.org/wiki/56式火箭筒 "wikilink")
   - [越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")－B-40、B-50
   - [埃及](../Page/埃及.md "wikilink")－PG-7
   - [南斯拉夫](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")－[M57](https://zh.wikipedia.org/wiki/M57火箭筒 "wikilink")
@@ -97,10 +97,10 @@ RPG-2採用的彈頭為PG-2 HEAT。使用前射手需先把PG-2 HEAT彈頭從槍
 ## 另見
 
   - [Panzerfaust](https://zh.wikipedia.org/wiki/Panzerfaust "wikilink")
-  - [卡爾·古斯塔夫無後座力炮](../Page/卡爾·古斯塔夫無後座力炮.md "wikilink")
+  - [卡爾·古斯塔夫無後座力炮](https://zh.wikipedia.org/wiki/卡爾·古斯塔夫無後座力炮 "wikilink")
   - [巴祖卡火箭筒](../Page/巴祖卡火箭筒.md "wikilink")
-  - [55 S 55無後座力炮](../Page/55_S_55無後座力炮.md "wikilink")
-  - [56式火箭筒](../Page/56式火箭筒.md "wikilink")
+  - [55 S 55無後座力炮](https://zh.wikipedia.org/wiki/55_S_55無後座力炮 "wikilink")
+  - [56式火箭筒](https://zh.wikipedia.org/wiki/56式火箭筒 "wikilink")
   - [RPG-7](../Page/RPG-7.md "wikilink")
   - [69式火箭筒](../Page/69式火箭筒.md "wikilink")
   - [火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")

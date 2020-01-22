@@ -7,9 +7,9 @@ Nokia Lumia 920也內建無線充電模組，可以使用國際標準的Qi無線
 
 ## 主要特色
 
-### 強大的[Here地图](../Page/Here地图.md "wikilink")
+### 強大的[Here地图](https://zh.wikipedia.org/wiki/Here地图 "wikilink")
 
-用 [Here地图](../Page/Here地图.md "wikilink")探索城市四周，離線時亦可使用。
+用 [Here地图探索城市四周](https://zh.wikipedia.org/wiki/Here地图 "wikilink")，離線時亦可使用。
 
 ### PureView
 
@@ -48,4 +48,4 @@ GDR2的軟體更新已在2013年8月23日搭載Nokia獨家更新-Lumia Amber-在
 
 1.  類似[Lumia 710](https://zh.wikipedia.org/wiki/Lumia_710 "wikilink")/[Lumia 800在剛推出時關閉](https://zh.wikipedia.org/wiki/Lumia_800 "wikilink")「網際網路共用」的功能。
 2.  台灣NOKIA於2012年12月7日舉行Lumia 820/920網友體驗會中所得到的答案，事實上配置的S4 MSM8960處理器也確實有支援LTE。
-3.  <http://mobile.163.com/13/0723/08/94F2FOLI0011179O.html>
+3.

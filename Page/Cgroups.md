@@ -7,7 +7,7 @@
 
 ## 功能
 
-cgroups的一个设计目标是为不同的应用情况提供统一的接口，从控制单一进程（像[nice](https://zh.wikipedia.org/wiki/nice "wikilink")）到[作業系統層虛擬化](../Page/作業系統層虛擬化.md "wikilink")（像[OpenVZ](../Page/OpenVZ.md "wikilink")，[Linux-VServer](https://zh.wikipedia.org/wiki/Linux-VServer "wikilink")，[LXC](../Page/LXC.md "wikilink")）。cgroups提供：
+cgroups的一个设计目标是为不同的应用情况提供统一的接口，从控制单一进程（像[nice](https://zh.wikipedia.org/wiki/nice "wikilink")）到[作業系統層虛擬化](https://zh.wikipedia.org/wiki/作業系統層虛擬化 "wikilink")（像[OpenVZ](../Page/OpenVZ.md "wikilink")，[Linux-VServer](https://zh.wikipedia.org/wiki/Linux-VServer "wikilink")，[LXC](https://zh.wikipedia.org/wiki/LXC "wikilink")）。cgroups提供：
 
   - **资源限制：**组可以被设置不超过设定的[内存限制](https://zh.wikipedia.org/wiki/内存 "wikilink")；这也包括[虚拟内存](../Page/虚拟内存.md "wikilink")。\[3\] \[4\]
   - **优先级：**一些组可能会得到大量的CPU\[5\] 或磁盘IO吞吐量。\[6\]

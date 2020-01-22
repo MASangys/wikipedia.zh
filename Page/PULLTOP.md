@@ -271,7 +271,7 @@
 ### 遊戲機移植版
 
   - 2003年7月17日 - とらかぷっ\!だーっしゅ\!\!（發行單位：、機種：[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")）
-  - 2004年7月29日 - 夏少女 -Promised Summer-（發行單位：[Success](../Page/Success.md "wikilink")、機種：PS2）
+  - 2004年7月29日 - 夏少女 -Promised Summer-（發行單位：[Success](https://zh.wikipedia.org/wiki/Success "wikilink")、機種：PS2）
   - 2012年3月27日 - てとてトライオン\! TROPICAL（發行單位：、機種：[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")）
   - 2012年7月26日 - しろくまベルスターズ♪ハッピーホリデーズ！（發行單位：BOOST ON、機種：PSP）
   - 2016年3月31日 - [この大空に、翼をひろげて -CRUISE SIGN-](https://zh.wikipedia.org/wiki/この大空に、翼をひろげて "wikilink")（發行單位：[5pb.](../Page/5pb..md "wikilink")、機種：[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")/[PS Vita](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")）

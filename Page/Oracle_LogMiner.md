@@ -5,7 +5,7 @@
 
 LogMiner turns the concept and practices of [数据挖掘](../Page/数据挖掘.md "wikilink")on the internal processes of the database itself.
 
-使用LogMiner，[数据库管理员](../Page/数据库管理员.md "wikilink")可以进行：
+使用LogMiner，[数据库管理员可以进行](https://zh.wikipedia.org/wiki/数据库管理员 "wikilink")：
 
   - 识别数据库事件的时间
   - isolate [数据库事务](../Page/数据库事务.md "wikilink")s carried out in error by users

@@ -1,7 +1,7 @@
 > 本文内容由[PONPONPON](https://zh.wikipedia.org/wiki/PONPONPON)转换而来。
 
 
-「**PONPONPON**」是[日本流行](https://zh.wikipedia.org/wiki/J-POP "wikilink")[歌手](../Page/歌手.md "wikilink")[Kyary Pamyu Pamyu的首張](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")[數位單曲](https://zh.wikipedia.org/wiki/數位 "wikilink")，也是她的出道作品。2011年7月20日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")以[電子軟體分發](https://zh.wikipedia.org/wiki/電子軟體分發 "wikilink")\[1\]。單曲由電子音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")的[中田康貴](../Page/中田康貴.md "wikilink")製作。
+「**PONPONPON**」是[日本流行](https://zh.wikipedia.org/wiki/J-POP "wikilink")[歌手](../Page/歌手.md "wikilink")[Kyary Pamyu Pamyu的首張](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")[數位單曲](https://zh.wikipedia.org/wiki/數位 "wikilink")，也是她的出道作品。2011年7月20日由[日本華納音樂以](https://zh.wikipedia.org/wiki/日本華納音樂 "wikilink")[電子軟體分發](https://zh.wikipedia.org/wiki/電子軟體分發 "wikilink")\[1\]。單曲由電子音樂組合[CAPSULE的](https://zh.wikipedia.org/wiki/CAPSULE "wikilink")[中田康貴](../Page/中田康貴.md "wikilink")製作。
 
 ## 收錄曲
 

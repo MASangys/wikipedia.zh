@@ -38,7 +38,7 @@
 <td><p>哭過的天空</p></td>
 <td><p><a href="../Page/李子恆.md" title="wikilink">李子恆</a></p></td>
 <td><p>李子恆</p></td>
-<td><p><a href="../Page/洪敬堯.md" title="wikilink">洪敬堯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪敬堯" title="wikilink">洪敬堯</a></p></td>
 <td><p>第三主打</p></td>
 </tr>
 <tr class="odd">

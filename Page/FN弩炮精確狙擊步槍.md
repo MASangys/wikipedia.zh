@@ -1,7 +1,7 @@
 > 本文内容由[FN弩炮精確狙擊步槍](https://zh.wikipedia.org/wiki/FN弩炮精確狙擊步槍)转换而来。
 
 
-**FN「弩炮」**（，[中文意為](../Page/汉语.md "wikilink")：「**弩車**」、「**弩炮**」，音譯：「巴利斯坦」，尤尼克阿爾卑斯命名為**TPG-3 A4**）是一款由奧地利[尤尼克阿爾卑斯](https://zh.wikipedia.org/wiki/尤尼克阿爾卑斯公司 "wikilink")[TPG-1為藍本重新設計](../Page/TPG-1狙擊步槍.md "wikilink")，[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）競標及向市場上銷售的新一代模塊化及多種口徑設計[手動](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，其後這槍亦在2012年1月位於[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）上展出。分為三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")（或是民用狩獵市場的[.308 Winchester](../Page/.308_Winchester.md "wikilink")）、[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（.300 Win Mag，7.62×67毫米）和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）三種[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**FN「弩炮」**（，[中文意為](../Page/汉语.md "wikilink")：「**弩車**」、「**弩炮**」，音譯：「巴利斯坦」，尤尼克阿爾卑斯命名為**TPG-3 A4**）是一款由奧地利[尤尼克阿爾卑斯](https://zh.wikipedia.org/wiki/尤尼克阿爾卑斯公司 "wikilink")[TPG-1為藍本重新設計](../Page/TPG-1狙擊步槍.md "wikilink")，[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）競標及向市場上銷售的新一代模塊化及多種口徑設計[手動](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，其後這槍亦在2012年1月位於[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）上展出。分為三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")（或是民用狩獵市場的[.308 Winchester](../Page/.308_Winchester.md "wikilink")）、[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（.300 Win Mag，7.62×67毫米）和[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）三種[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
 
@@ -13,7 +13,7 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
 
 ## 設計細節
 
-弩炮狙擊步槍是一款採用了[模塊化設計的](https://zh.wikipedia.org/wiki/模塊化 "wikilink")[旋转后拉式手動槍機](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")。這槍有三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別為[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")、[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（.300 Win Mag，7.62×67毫米）和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338 Lapua，8.6×70毫米或8.58×70毫米）。三種口徑的[槍管](../Page/槍管.md "wikilink")等部件可以使用工具進行快速更換，而且可以在2[分鐘以內更換完畢](https://zh.wikipedia.org/wiki/分鐘 "wikilink")。不同口徑槍管分為標準型和加長型兩種長度。
+弩炮狙擊步槍是一款採用了[模塊化設計的](https://zh.wikipedia.org/wiki/模塊化 "wikilink")[旋转后拉式手動槍機](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")。這槍有三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別為[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")、[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（.300 Win Mag，7.62×67毫米）和[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")（.338 Lapua，8.6×70毫米或8.58×70毫米）。三種口徑的[槍管](../Page/槍管.md "wikilink")等部件可以使用工具進行快速更換，而且可以在2[分鐘以內更換完畢](https://zh.wikipedia.org/wiki/分鐘 "wikilink")。不同口徑槍管分為標準型和加長型兩種長度。
 
 弩炮狙擊步槍全槍外表塗裝為沙色，是近年來流行的一種槍械塗裝顏色。全槍可分為[槍管](../Page/槍管.md "wikilink")、[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、上／下[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[槍機和](https://zh.wikipedia.org/wiki/槍機 "wikilink")[槍托](../Page/槍托.md "wikilink")等多個大型組件。
 
@@ -21,7 +21,7 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
 
 弩炮狙擊步槍使用精密[不鏽鋼](../Page/不鏽鋼.md "wikilink")製造的[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[錘鍛式](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")[槍管](../Page/槍管.md "wikilink")。槍管長度有2種，分別為609.6[毫米](../Page/毫米.md "wikilink")（24[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）和332毫米（26英吋）。槍管外表面有縱向長型散熱凹槽，既能夠減輕重量也增加了剛性，而且提高了散熱效率。\[2\]
 
-另外，[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")口徑槍管內部採用了世界上比較少數[長管槍械上使用](https://zh.wikipedia.org/wiki/長管槍械 "wikilink")[膛線](../Page/膛線.md "wikilink")，它消除了正常膛線的凹膛，在武器系統上取代它們的是一種如平滑的斜坡和凹處的膛線。雖然會十分昂貴，但好處是這個系統使膛線和槍管壽命更長和更準確。
+另外，[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")和[.338拉普麥格農口徑槍管內部採用了世界上比較少數](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")[長管槍械上使用](https://zh.wikipedia.org/wiki/長管槍械 "wikilink")[膛線](../Page/膛線.md "wikilink")，它消除了正常膛線的凹膛，在武器系統上取代它們的是一種如平滑的斜坡和凹處的膛線。雖然會十分昂貴，但好處是這個系統使膛線和槍管壽命更長和更準確。
 
 而[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308 Winchester口徑槍管則仍然採用傳統](../Page/.308_Winchester.md "wikilink")[拉刀](https://zh.wikipedia.org/wiki/膛線#多點式拉削法（broached_rifling） "wikilink")（）切削製成膛線輪廓和常數膛線纏距以整合現有的彈藥。
 
@@ -51,7 +51,7 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
 
 ### 保險系統
 
-槍機尾部是弩炮狙擊步槍的主要手動保險，當使用[拇指向下按動保險到位就處於保險位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，保險會卡住[擊針以起到保險作用](../Page/撞針.md "wikilink")；而當使用[拇指向上扳動保險就處於待擊位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，可以隨時扣動扳機進行射擊。弩炮狙擊步槍亦設有[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")（）。防跌落保險可以防止[擊針在此槍不慎摔落或受到各種巨大的撞擊以下釋放並且撞擊](../Page/撞針.md "wikilink")[底火](https://zh.wikipedia.org/wiki/底火 "wikilink")。手動保險和防跌落保險是弩炮狙擊步槍最初帶有的雙重保險系統。
+槍機尾部是弩炮狙擊步槍的主要手動保險，當使用[拇指向下按動保險到位就處於保險位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，保險會卡住[擊針以起到保險作用](https://zh.wikipedia.org/wiki/撞針 "wikilink")；而當使用[拇指向上扳動保險就處於待擊位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，可以隨時扣動扳機進行射擊。弩炮狙擊步槍亦設有[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")（）。防跌落保險可以防止[擊針在此槍不慎摔落或受到各種巨大的撞擊以下釋放並且撞擊](https://zh.wikipedia.org/wiki/撞針 "wikilink")[底火](https://zh.wikipedia.org/wiki/底火 "wikilink")。手動保險和防跌落保險是弩炮狙擊步槍最初帶有的雙重保險系統。
 
 目前版本更改進設計，新增了在狙擊步槍設計史上極其罕見的[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")。該保險位於背部，必需按壓才可發射以減低了[走火機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。新增握把式保險的原因是為了讓使用者在攜帶狙擊步槍進入作戰區域後，槍彈上膛和手動保險向上扳動保險到待擊位置時，供使用者安全攜帶狙擊步槍的最後一道保險，增加攜帶時的安全性。一般而言，握把式保險只在[手枪](../Page/手枪.md "wikilink")（例如[M1911系列和](../Page/M1911手槍.md "wikilink")[HS2000系列](../Page/HS2000半自動手槍.md "wikilink")）和[冲锋枪](../Page/冲锋枪.md "wikilink")（例如[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")系列和[QCW-05系列](../Page/05式微声冲锋枪.md "wikilink")）上使用。不過從弩炮狙擊步槍的[精度測試結果而言](../Page/準確與精密.md "wikilink")，並未發現握把式保險會影響使用者的握持和射擊表現。
 
@@ -75,7 +75,7 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
 
 ### 附件
 
-[機匣和前托的頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")（12點位置）裝有全長的[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，弩炮狙擊步槍沒有內置其[機械瞄具](../Page/機械瞄具.md "wikilink")，必須利用其機匣頂部所設有的一條全長式MIL-STD-1913戰術導軌安裝日間／夜間望遠式狙擊鏡、[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪](../Page/热成像仪.md "wikilink")和／或以戰術導軌安裝的機械瞄具作為弩炮狙擊步槍的瞄準具，亦可以使用流行的前後串連式安裝配置模式擴大瞄準具附件的加裝應用模式。狙擊鏡座預設為20[角分](https://zh.wikipedia.org/wiki/角分 "wikilink")，另外軍用型有30[角分選項](https://zh.wikipedia.org/wiki/角分 "wikilink")。而八角型前托上有6個導軌安裝孔，繞著前托的6個方向上都能安裝MIL-STD-1913戰術導軌片。每個附件導軌片具有內置式反後座鎖耳，並且有各種長度選項，以便安裝[前握把](../Page/輔助握把.md "wikilink")、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")（例如原廠的[Harris LM-S兩腳架](https://zh.wikipedia.org/wiki/哈里斯兩腳架 "wikilink")）、[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器可拆卸的導軌片保證正確的戰術配件可以安裝在正確的位置上](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
+[機匣和前托的頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")（12點位置）裝有全長的[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，弩炮狙擊步槍沒有內置其[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，必須利用其機匣頂部所設有的一條全長式MIL-STD-1913戰術導軌安裝日間／夜間望遠式狙擊鏡、[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪](../Page/热成像仪.md "wikilink")和／或以戰術導軌安裝的機械瞄具作為弩炮狙擊步槍的瞄準具，亦可以使用流行的前後串連式安裝配置模式擴大瞄準具附件的加裝應用模式。狙擊鏡座預設為20[角分](https://zh.wikipedia.org/wiki/角分 "wikilink")，另外軍用型有30[角分選項](https://zh.wikipedia.org/wiki/角分 "wikilink")。而八角型前托上有6個導軌安裝孔，繞著前托的6個方向上都能安裝MIL-STD-1913戰術導軌片。每個附件導軌片具有內置式反後座鎖耳，並且有各種長度選項，以便安裝[前握把](../Page/輔助握把.md "wikilink")、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")（例如原廠的[Harris LM-S兩腳架](https://zh.wikipedia.org/wiki/哈里斯兩腳架 "wikilink")）、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器可拆卸的導軌片保證正確的戰術配件可以安裝在正確的位置上](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
 弩炮狙擊步槍的其他配件包括[硬式攜帶盒](https://zh.wikipedia.org/wiki/硬式攜帶盒 "wikilink")、[軟式攜帶袋](https://zh.wikipedia.org/wiki/軟式攜帶袋 "wikilink")、[射擊墊](https://zh.wikipedia.org/wiki/射擊墊 "wikilink")、[清潔套件和](https://zh.wikipedia.org/wiki/清潔套件 "wikilink")[操作手冊](https://zh.wikipedia.org/wiki/操作手冊 "wikilink")，以及根據客戶訂單的要求選擇配備[軍械士專用零部件清單包和備用零件](https://zh.wikipedia.org/wiki/軍械士 "wikilink")。
 
@@ -84,8 +84,8 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
 ### [电子游戏](../Page/电子游戏.md "wikilink")
 
   - 2007年—《[穿越火线](../Page/穿越火线.md "wikilink")》：最早由中国大陆服务器于2015年3月18日推出，命名为“FN弩炮”，使用15发弹匣装填，价格为15000GP永久。
-  - 2008年—《[戰地之王](../Page/戰地之王.md "wikilink")》：命名為FN Ballista。於2014年5月8號改版時推出，被定位為原[TPG-1的升級版本](../Page/TPG-1狙擊步槍.md "wikilink")。可改裝.338拉普麥格農槍管、板機、握把、[槍托](../Page/槍托.md "wikilink")等零件。
-  - 2012年—《[-{zh-hans:使命召唤：黑色行动2; zh-hant:決勝時刻：黑色行動2; zh-cn:使命召唤：黑色行动2; zh-tw:決勝時刻：黑暗行動2; zh-hk:使命召喚：黑色行動2; zh-mo:使命召喚：黑色行動2;}-](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》（Call of Duty: Black Ops II）：於故事模式、聯機模式及殭屍模式中皆有出現，命名為「弩炮」，序列號是00040212，預設使用黑色和沙色槍身，發射.338拉普麥格農子彈，7發（故事模式及聯機模式）和8發（殭屍模式）[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長彈匣增至10發），初始攜彈量為63發（故事模式）和21發（聯機模式），最高攜彈量為140發（故事模式）、56發（聯機模式）和64發（殭屍模式），具有其預設狙擊鏡。故事模式之中被[美國海豹第六小隊](https://zh.wikipedia.org/wiki/美國海軍特戰開發小組 "wikilink")（SEALs）、「核心之日」（Cordis Die）的[僱傭兵](../Page/僱傭兵.md "wikilink")（Mercs）所使用；聯機模式之中於等級43解鎖，並可以使用[消音器](../Page/抑制器.md "wikilink")、[彈道](../Page/弹道学.md "wikilink")[處理器](../Page/中央处理器.md "wikilink")、[可變倍率式瞄準鏡](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")（狙擊鏡）、快速重裝彈匣、、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[AN/PEQ-2A](https://zh.wikipedia.org/wiki/AN/PEQ-2雷射瞄準器 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[雙波段式瞄準鏡](https://zh.wikipedia.org/wiki/雙波段式瞄準鏡 "wikilink")、後備[機械瞄具](../Page/機械瞄具.md "wikilink")（亦是聯機模式中唯一可安裝機械瞄具附件的狙擊步槍）；殭屍模式時以500點打開神秘箱取得，亦有一款衍生型稱作「灌能強弩」（Infused Arbalest），10發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量提升至120發，並可以使用[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、後備[機械瞄具](../Page/機械瞄具.md "wikilink")。
+  - 2008年—《[戰地之王](https://zh.wikipedia.org/wiki/戰地之王 "wikilink")》：命名為FN Ballista。於2014年5月8號改版時推出，被定位為原[TPG-1的升級版本](../Page/TPG-1狙擊步槍.md "wikilink")。可改裝.338拉普麥格農槍管、板機、握把、[槍托](../Page/槍托.md "wikilink")等零件。
+  - 2012年—《[-{zh-hans:使命召唤：黑色行动2; zh-hant:決勝時刻：黑色行動2; zh-cn:使命召唤：黑色行动2; zh-tw:決勝時刻：黑暗行動2; zh-hk:使命召喚：黑色行動2; zh-mo:使命召喚：黑色行動2;}-](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》（Call of Duty: Black Ops II）：於故事模式、聯機模式及殭屍模式中皆有出現，命名為「弩炮」，序列號是00040212，預設使用黑色和沙色槍身，發射.338拉普麥格農子彈，7發（故事模式及聯機模式）和8發（殭屍模式）[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長彈匣增至10發），初始攜彈量為63發（故事模式）和21發（聯機模式），最高攜彈量為140發（故事模式）、56發（聯機模式）和64發（殭屍模式），具有其預設狙擊鏡。故事模式之中被[美國海豹第六小隊](https://zh.wikipedia.org/wiki/美國海軍特戰開發小組 "wikilink")（SEALs）、「核心之日」（Cordis Die）的[僱傭兵](../Page/僱傭兵.md "wikilink")（Mercs）所使用；聯機模式之中於等級43解鎖，並可以使用[消音器](../Page/抑制器.md "wikilink")、[彈道](../Page/弹道学.md "wikilink")[處理器](../Page/中央处理器.md "wikilink")、[可變倍率式瞄準鏡](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")（狙擊鏡）、快速重裝彈匣、、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[AN/PEQ-2A](https://zh.wikipedia.org/wiki/AN/PEQ-2雷射瞄準器 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[雙波段式瞄準鏡](https://zh.wikipedia.org/wiki/雙波段式瞄準鏡 "wikilink")、後備[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")（亦是聯機模式中唯一可安裝機械瞄具附件的狙擊步槍）；殭屍模式時以500點打開神秘箱取得，亦有一款衍生型稱作「灌能強弩」（Infused Arbalest），10發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量提升至120發，並可以使用[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、後備[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")。
 
 ## 參見
 
@@ -118,11 +118,11 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
   - [黑內爾RS8狙擊步槍](https://zh.wikipedia.org/wiki/黑內爾RS8狙擊步槍 "wikilink")
   - [黑內爾RS9狙擊步槍](../Page/黑內爾RS9狙擊步槍.md "wikilink")
   - [IWI DAN](../Page/IWI_DAN狙擊步槍.md "wikilink")
-  - [JNG-90](../Page/JNG-90狙擊步槍.md "wikilink")
-  - [JS 7.62](../Page/JS_7.62毫米狙击步枪.md "wikilink")
+  - [JNG-90](https://zh.wikipedia.org/wiki/JNG-90狙擊步槍 "wikilink")
+  - [JS 7.62](https://zh.wikipedia.org/wiki/JS_7.62毫米狙击步枪 "wikilink")
   - [Kefefs](https://zh.wikipedia.org/wiki/Kefefs狙擊步槍 "wikilink")
   - [金柏M8400戰術型](../Page/金柏M8400戰術型狙擊步槍.md "wikilink")
-  - [KNT-308](../Page/KNT-308狙擊步槍.md "wikilink")
+  - [KNT-308](https://zh.wikipedia.org/wiki/KNT-308狙擊步槍 "wikilink")
   - [帕克黑爾M82](../Page/帕克黑爾M82狙擊步槍.md "wikilink")
   - [帕克黑爾M85](../Page/帕克黑爾M85狙擊步槍.md "wikilink")
   - [PGM 338](../Page/PGM_338狙擊步槍.md "wikilink")
@@ -132,11 +132,11 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
   - [雷明登M40](../Page/M40狙擊步槍.md "wikilink")
   - [雷明登SR8](../Page/雷明登SR8狙擊步槍.md "wikilink")
   - [雷明登M40-XS](https://zh.wikipedia.org/wiki/雷明登M40-XS狙擊步槍 "wikilink")
-  - [雷明登M2010](../Page/M2010增強型狙擊步槍.md "wikilink")
+  - [雷明登M2010](https://zh.wikipedia.org/wiki/M2010增強型狙擊步槍 "wikilink")
   - [雷明登MSR](../Page/雷明登MSR狙擊步槍.md "wikilink")
   - [儒格M77](../Page/儒格M77步槍.md "wikilink")
   - [薩科蒂卡T3](../Page/薩科蒂卡T3步槍.md "wikilink")
-  - [薩科TRG-21／22／41／42](../Page/薩科TRG狙擊步槍.md "wikilink")
+  - [薩科TRG-21／22／41／42](https://zh.wikipedia.org/wiki/薩科TRG狙擊步槍 "wikilink")
   - [薩科TRG M10](https://zh.wikipedia.org/wiki/薩科TRG_M10狙擊步槍 "wikilink")
   - [薩維奇10FP](https://zh.wikipedia.org/wiki/薩維奇10FP狙擊步槍 "wikilink")
   - [薩維奇110BA](https://zh.wikipedia.org/wiki/薩維奇110BA狙擊步槍 "wikilink")
@@ -144,14 +144,14 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
   - [SIG SSG 3000](../Page/SIG_SSG_3000狙擊步槍.md "wikilink")
   - [斯泰爾SSG 69](../Page/斯泰爾SSG_69狙擊步槍.md "wikilink")
   - [斯泰爾SSG 04](../Page/斯泰爾SSG_04狙擊步槍.md "wikilink")
-  - [斯泰爾SSG 08](../Page/斯泰爾SSG_08狙擊步槍.md "wikilink")
-  - [SV-98](../Page/SV-98狙擊步槍.md "wikilink")
+  - [斯泰爾SSG 08](https://zh.wikipedia.org/wiki/斯泰爾SSG_08狙擊步槍 "wikilink")
+  - [SV-98](https://zh.wikipedia.org/wiki/SV-98狙擊步槍 "wikilink")
   - [T-76“長弓”](https://zh.wikipedia.org/wiki/T-76長弓狙擊步槍 "wikilink")
   - [T93狙擊步槍](../Page/T93狙擊步槍.md "wikilink")
   - [特維洛狙擊步槍](https://zh.wikipedia.org/wiki/特維洛狙擊步槍 "wikilink")
   - [NM149](https://zh.wikipedia.org/wiki/NM149狙擊步槍 "wikilink")
   - [Voere BW-M](https://zh.wikipedia.org/wiki/Voere_BW-M狙擊步槍 "wikilink")
-  - [風行者M98](../Page/風行者M96狙擊步槍.md "wikilink")
+  - [風行者M98](https://zh.wikipedia.org/wiki/風行者M96狙擊步槍 "wikilink")
 
 ## 資料來源
 

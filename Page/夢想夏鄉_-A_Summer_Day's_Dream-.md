@@ -30,7 +30,7 @@
 
 ### 第2話登場
 
-  - [西行寺幽幽子](https://zh.wikipedia.org/wiki/西行寺幽幽子 "wikilink")（聲優：[茅野愛衣](../Page/茅野愛衣.md "wikilink")）
+  - [西行寺幽幽子](https://zh.wikipedia.org/wiki/西行寺幽幽子 "wikilink")（聲優：[茅野愛衣](https://zh.wikipedia.org/wiki/茅野愛衣 "wikilink")）
   - [魂魄妖夢](https://zh.wikipedia.org/wiki/魂魄妖夢 "wikilink")（聲優：[悠木碧](../Page/悠木碧.md "wikilink")）
   - [鈴仙·優曇華院·稻葉](https://zh.wikipedia.org/wiki/鈴仙·優曇華院·稻葉 "wikilink")（聲優：[矢作紗友里](../Page/矢作紗友里.md "wikilink")）
   - [因幡帝](https://zh.wikipedia.org/wiki/因幡帝 "wikilink")（聲優：[井口裕香](../Page/井口裕香.md "wikilink")）

@@ -106,7 +106,7 @@ Radeon HD 3400 系列採用 RV620 核心，該核心是將 RV610 核心利用55�
 <th><p>顯示記憶體容量 (<a href="https://zh.wikipedia.org/wiki/MiB" title="wikilink">MiB</a>)</p></th>
 <th><p>時鐘頻率</p></th>
 <th><p>核心佈置</p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>顯示記憶體類型</p></th>
 <th><p>運算效能<br />
 GFLOPS</p></th>
@@ -455,7 +455,7 @@ GDDR4</p></td>
 <th><p>記憶體容量<sup>3</sup> (<a href="https://zh.wikipedia.org/wiki/MiB" title="wikilink">MiB</a>)</p></th>
 <th><p>核心時脈<sup>2</sup> (<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
 <th><p>核心佈置<sup>1</sup></p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>顯示記憶體類型</p></th>
 <th><p>運算效能<br />
 GFLOPS</p></th>
@@ -591,7 +591,7 @@ GFLOPS</p></th>
 <th><p>時鐘頻率 (<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
 <th><p>記憶體時脈 (<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
 <th><p>核心佈置<sup>1</sup></p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API相容性</a> (版本)</p></th>
 <th><p>運算能力<br />

@@ -23,7 +23,7 @@
   -
     D10AD01 [维A酸](https://zh.wikipedia.org/wiki/维A酸 "wikilink")（Tretinoin）
     D10AD02 [视黄醇](../Page/视黄醇.md "wikilink")（Retinol）
-    D10AD03 [阿达帕林](../Page/阿达帕林.md "wikilink")（Adapalene）
+    D10AD03 [阿达帕林](https://zh.wikipedia.org/wiki/阿达帕林 "wikilink")（Adapalene）
     D10AD04 [异维A酸](https://zh.wikipedia.org/wiki/异维A酸 "wikilink")（Isotretinoin）
     D10AD05 [莫维A胺](https://zh.wikipedia.org/wiki/莫维A胺 "wikilink")（Motretinide）
     D10AD51 维A酸，复方（Tretinoin, combinations）
@@ -42,7 +42,7 @@
     D10AF01 [克林霉素](https://zh.wikipedia.org/wiki/克林霉素 "wikilink")（Clindamycin）
     D10AF02 [红霉素](../Page/红霉素.md "wikilink")（Erythromycin）
     D10AF03 [氯霉素](../Page/氯霉素.md "wikilink")（Chloramphenicol）
-    D10AF04 [甲氯环素](../Page/甲氯环素.md "wikilink")（Meclocycline）
+    D10AF04 [甲氯环素](https://zh.wikipedia.org/wiki/甲氯环素 "wikilink")（Meclocycline）
     D10AF51 克林霉素，复方（clindamycin, combinations）
     D10AF52 红霉素，复方（Erythromycin, combinations）
 

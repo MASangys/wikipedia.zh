@@ -183,7 +183,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Internet_Explorer_10.md" title="wikilink">Internet Explorer 10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Internet_Explorer_10" title="wikilink">Internet Explorer 10</a></p></td>
 <td></td>
 <td></td>
 <td></td>

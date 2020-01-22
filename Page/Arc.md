@@ -5,7 +5,7 @@
 
 ## 歷史
 
-2001年，[保罗·格雷厄姆](../Page/保罗·格雷厄姆.md "wikilink")宣布正在制作一个名为“Arc”的新的[Lisp](../Page/LISP.md "wikilink")。多年以来，他已撰写数篇文章描述该语言的特点与目标，并且Y Combinator的一些内部项目已经用Arc编写，最受关注的是[Hacker News网络论坛和新闻聚合程序](../Page/Hacker_News.md "wikilink")。Arc本身以[Racket](../Page/Racket.md "wikilink")编写。\[1\]
+2001年，[保罗·格雷厄姆](../Page/保罗·格雷厄姆.md "wikilink")宣布正在制作一个名为“Arc”的新的[Lisp](../Page/LISP.md "wikilink")。多年以来，他已撰写数篇文章描述该语言的特点与目标，并且Y Combinator的一些内部项目已经用Arc编写，最受关注的是[Hacker News网络论坛和新闻聚合程序](https://zh.wikipedia.org/wiki/Hacker_News "wikilink")。Arc本身以[Racket编写](https://zh.wikipedia.org/wiki/Racket "wikilink")。\[1\]
 
 在论文“Being Popular”\[2\]中，格雷厄姆描述了他对该语言的一些目标。虽然许多目标非常普遍（“Arc应该是可hack”、“它应该是良好的[函式庫](../Page/函式庫.md "wikilink")”），但也确实提供了一些细节。例如，他认为一门语言的简练很重要：
 
@@ -38,7 +38,7 @@ Arc的[Hello world程式碼](https://zh.wikipedia.org/wiki/Hello_world "wikilink
 
 ### 官方版本
 
-Arc的第一个公开发布版本出现于2008年1月29日，\[9\]以[Racket](../Page/Racket.md "wikilink")（那时为“PLT-Scheme”）实现。该版本以.tar压缩包形式发布，包含Arc的Racket源代码。一份教程\[10\] and a discussion forum\[11\]同时可用。论坛使用也本身以Arc编写[Hacker News程序](../Page/Hacker_News.md "wikilink")。
+Arc的第一个公开发布版本出现于2008年1月29日，\[9\]以[Racket](https://zh.wikipedia.org/wiki/Racket "wikilink")（那时为“PLT-Scheme”）实现。该版本以.tar压缩包形式发布，包含Arc的Racket源代码。一份教程\[10\] and a discussion forum\[11\]同时可用。论坛使用也本身以Arc编写[Hacker News程序](https://zh.wikipedia.org/wiki/Hacker_News "wikilink")。
 
 ### 非官方版本
 

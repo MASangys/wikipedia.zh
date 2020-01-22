@@ -1,7 +1,7 @@
 > 本文内容由[Acer Iconia Tab A500](https://zh.wikipedia.org/wiki/Acer_Iconia_Tab_A500)转换而来。
 
 
-Acer Iconia A500 是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦製造商](https://zh.wikipedia.org/wiki/電腦 "wikilink")[宏碁](../Page/宏碁.md "wikilink")開發及生產，採用[Android](../Page/Android.md "wikilink")[操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。
+Acer Iconia A500 是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦製造商](https://zh.wikipedia.org/wiki/電腦 "wikilink")[宏碁](../Page/宏碁.md "wikilink")開發及生產，採用[Android](https://zh.wikipedia.org/wiki/Android "wikilink")[操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。
 
 ## 硬件
 

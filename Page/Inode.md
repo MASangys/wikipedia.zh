@@ -1,11 +1,13 @@
 > 本文内容由[Inode](https://zh.wikipedia.org/wiki/Inode)转换而来。
 
 
-**inode**是指在许多“类[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[文件系统](../Page/文件系统.md "wikilink")”中的一种[数据结构](../Page/数据结构.md "wikilink")。每个inode保存了文件系统中的一个**文件系统对象**（包括[文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")、[目录](../Page/目录_\(文件系统\).md "wikilink")、[设备文件](https://zh.wikipedia.org/wiki/设备文件 "wikilink")、[socket](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")、[管道](../Page/管道_\(Unix\).md "wikilink"), 等等）的元信息数据，但不包括数据内容或者文件名\[1\]。
+**inode(index node)**是指在许多“类[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[文件系统](../Page/文件系统.md "wikilink")”中的一种[数据结构](../Page/数据结构.md "wikilink")，用于描述 **[文件系统](../Page/文件系统.md "wikilink")对象（包括[文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")、[目录](../Page/目录_\(文件系统\).md "wikilink")、[设备文件](https://zh.wikipedia.org/wiki/设备文件 "wikilink")、[socket](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")、[管道](../Page/管道_\(Unix\).md "wikilink"), 等等）**。每个inode保存了 **[文件系统](../Page/文件系统.md "wikilink")对象数据** 的属性和磁盘块位置\[1\]。**[文件系统](../Page/文件系统.md "wikilink")对象属性** 包含了各种[元数据](../Page/元数据.md "wikilink")（如：最后修改时间\[2\]） ，也包含用户组（owner ）和权限数据\[3\]。
+
+文件夹是inode的名字。一个文件夹包含自身节点，父节点和每个子节点。
 
 ## 命名
 
-Unix先驱[丹尼斯·里奇](../Page/丹尼斯·里奇.md "wikilink")说\[2\]，inode这个命名的来源可能是文件系统的存储组织为一个扁平数组，分层目录資訊使用一个数作为文件系统这个扁平数组的索引值（index）。
+Unix先驱[丹尼斯·里奇](../Page/丹尼斯·里奇.md "wikilink")说\[4\]，inode这个命名的来源可能是文件系统的存储组织为一个扁平数组，分层目录資訊使用一个数作为文件系统这个扁平数组的索引值（index）。
 
 ## 细节
 
@@ -49,7 +51,7 @@ Inode存储了文件系统对象的一些元信息，如所有者、访问权限
   - 一个inode如果没有硬链接，此时inode的链接数为0，文件系统将回收该inode所指向的存储块，并回收该inode自身。
   - 从一个inode，通常是无法确定是用哪个文件名查到此inode号码的。打开一个文件后，操作系统实际上就抛掉了文件名，只保留了inode号码来访问文件的内容。库函数`getcwd()`用来查询当前工作目录的绝对路径名。其实现是从当前工作目录的inode逐级查找其上级目录的inode，最后拼出整个绝对路径的名字。
   - 历史上，对目录的硬链接是可能的。这可以使目录结构成为一个[有向图](https://zh.wikipedia.org/wiki/有向图 "wikilink")，而不是通常的目录树的[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")。一个目录甚至可以是自身的父目录。现代文件系统一般禁止这些混淆状态，只有根目录保持了特例：根目录是自身的父目录。`ls /..`就是根目录的内容。
-  - 一个文件或目录在文件系统内部移动时，其inode号码不变。文件系统[碎片整理可能会改变一个文件的物理存储位置](../Page/磁盘碎片.md "wikilink")，但其inode号码不变。非UNIX的[FAT](../Page/FAT.md "wikilink")及其衍生的文件系统是无法实现inode不变这一特点。
+  - 一个文件或目录在文件系统内部移动时，其inode号码不变。文件系统[碎片整理可能会改变一个文件的物理存储位置](https://zh.wikipedia.org/wiki/磁盘碎片 "wikilink")，但其inode号码不变。非UNIX的[FAT](../Page/FAT.md "wikilink")及其衍生的文件系统是无法实现inode不变这一特点。
   - inode文件系统中安装新库十分容易。当一些进程正在使用一个库时，其它进程可以替换该库文件名字的inode号码指向新创建的inode，随后对该库的访问都被自动引导到新inode所指向的新的库文件的内容。这减少了替换库时重启系统的需要。而舊的inode的链接数已经为0，在使用舊函式庫的进程结束后，舊的inode与舊函式庫文件会被系统自动回收。
 
 ## 实际考虑
@@ -58,7 +60,7 @@ Inode存储了文件系统对象的一些元信息，如所有者、访问权限
 
 文件系统可能会用尽inode。这导致文件系统还有空闲的存储空间，但已经没有空闲的inode可供使用了。例如，一个电子邮件服务器可能会被大量的小文件用尽所有inode，但是却没有填满文件存储空间。
 
-现代的文件系统，如[JFS和](../Page/JFS_\(文件系统\).md "wikilink")[XFS](../Page/XFS.md "wikilink")，能够动态地增加inode，因此不会用尽inode。
+现代的文件系统，如[JFS和](https://zh.wikipedia.org/wiki/JFS_\(文件系统\) "wikilink")[XFS](https://zh.wikipedia.org/wiki/XFS "wikilink")，能够动态地增加inode，因此不会用尽inode。
 
 ## 参考文献
 
@@ -73,4 +75,6 @@ Inode存储了文件系统对象的一些元信息，如所有者、访问权限
 [Category:文件系统](https://zh.wikipedia.org/wiki/Category:文件系统 "wikilink") [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
 
 1.
-2.  [Linux Kernel list archive](http://lkml.indiana.edu/hypermail/linux/kernel/0207.2/1182.html). Retrieved on 2011-01-12.
+2.
+3.
+4.  [Linux Kernel list archive](http://lkml.indiana.edu/hypermail/linux/kernel/0207.2/1182.html). Retrieved on 2011-01-12.

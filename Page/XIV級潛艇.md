@@ -71,7 +71,7 @@ XIV級潛艇是以[IX級潛艇](../Page/IX級潛艇.md "wikilink")作為基礎�
 
   - [U艇](https://zh.wikipedia.org/wiki/U型潛艇 "wikilink")
   - [I級潛艇](../Page/I級潛艇.md "wikilink")
-  - [VII級潛艇](../Page/VII級潛艇.md "wikilink")
+  - [VII級潛艇](https://zh.wikipedia.org/wiki/VII級潛艇 "wikilink")
   - [IX級潛艇](../Page/IX級潛艇.md "wikilink")
   - [XXI級潛艇](../Page/XXI級潛艇.md "wikilink")
   - [XXIII級潛艇](../Page/XXIII級潛艇.md "wikilink")

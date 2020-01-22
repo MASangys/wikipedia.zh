@@ -1,7 +1,7 @@
 > 本文内容由[Krome Studios](https://zh.wikipedia.org/wiki/Krome_Studios)转换而来。
 
 
-**Krome Studios**是一家[澳洲电子游戏公司](https://zh.wikipedia.org/wiki/澳洲 "wikilink")。总部设于[布里斯班](../Page/布里斯班.md "wikilink")（前总部设于[阿尔莱德](https://zh.wikipedia.org/wiki/阿尔莱德 "wikilink")）。Krome Studios最著名的游戏系列是[Ty the Tasmanian Tiger和](https://zh.wikipedia.org/wiki/Ty_the_Tasmanian_Tiger "wikilink")[Spyro the Dragon](https://zh.wikipedia.org/wiki/Spyro_\(series\) "wikilink")。Krome Studios成立于1999年，并由当时的[CEO](../Page/首席执行官.md "wikilink") Robert Walsh，创意总监 Steve Stamatiadisthe和2005年离开的设计总监 John Passfield创建。Krome Studios 早期 为[Xbox](../Page/Xbox.md "wikilink")，[Nintendo GameCube](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink"), [Wii](../Page/Wii.md "wikilink"), [Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink"), [Dreamcast](../Page/Dreamcast.md "wikilink"), [PlayStation](../Page/PlayStation.md "wikilink"), [PlayStation 2](../Page/PlayStation_2.md "wikilink"), 和 [PC](../Page/PC.md "wikilink"). 后期由开发了 [Xbox 360](../Page/Xbox_360.md "wikilink"), [PlayStation 3](../Page/PlayStation_3.md "wikilink"), [Wii](../Page/Wii.md "wikilink") 和 [PlayStation Portable的游戏](../Page/PlayStation_Portable.md "wikilink")
+**Krome Studios**是一家[澳洲电子游戏公司](https://zh.wikipedia.org/wiki/澳洲 "wikilink")。总部设于[布里斯班](../Page/布里斯班.md "wikilink")（前总部设于[阿尔莱德](https://zh.wikipedia.org/wiki/阿尔莱德 "wikilink")）。Krome Studios最著名的游戏系列是[Ty the Tasmanian Tiger和](https://zh.wikipedia.org/wiki/Ty_the_Tasmanian_Tiger "wikilink")[Spyro the Dragon](https://zh.wikipedia.org/wiki/Spyro_\(series\) "wikilink")。Krome Studios成立于1999年，并由当时的[CEO](../Page/首席执行官.md "wikilink") Robert Walsh，创意总监 Steve Stamatiadisthe和2005年离开的设计总监 John Passfield创建。Krome Studios 早期 为[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")，[Nintendo GameCube](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink"), [Wii](../Page/Wii.md "wikilink"), [Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink"), [Dreamcast](https://zh.wikipedia.org/wiki/Dreamcast "wikilink"), [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"), [PlayStation 2](../Page/PlayStation_2.md "wikilink"), 和 [PC](../Page/PC.md "wikilink"). 后期由开发了 [Xbox 360](../Page/Xbox_360.md "wikilink"), [PlayStation 3](../Page/PlayStation_3.md "wikilink"), [Wii](../Page/Wii.md "wikilink") 和 [PlayStation Portable的游戏](../Page/PlayStation_Portable.md "wikilink")
 
 ## 开发的游戏
 
@@ -33,6 +33,6 @@
 ## 外部链接
 
   - [Krome Studios website](http://www.kromestudios.com)
-  - [Queensland Games](http://www.queenslandgames.com)
+  - [Queensland Games](https://web.archive.org/web/20161007140732/http://queenslandgames.com/)
 
 [Category:1999年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1999年開業電子遊戲公司 "wikilink") [Category:澳洲电子游戏公司](https://zh.wikipedia.org/wiki/Category:澳洲电子游戏公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")

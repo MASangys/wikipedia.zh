@@ -5,7 +5,7 @@
 
 ## 概要
 
-與前作『[Spring is here](../Page/Spring_is_here.md "wikilink")』相隔約1年4個月發售的作品，[Blu-ray Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")『Blue Planet Box』同梱的數量限定特別仕様版，DVD同梱的限定生産盤、通常盤的3種形式發售。
+與前作『[Spring is here](https://zh.wikipedia.org/wiki/Spring_is_here "wikilink")』相隔約1年4個月發售的作品，[Blu-ray Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")『Blue Planet Box』同梱的數量限定特別仕様版，DVD同梱的限定生産盤、通常盤的3種形式發售。
 
 ## 收錄曲
 
@@ -18,7 +18,7 @@
       -
         作詞：坂井季乃、作曲・編曲：[黒須克彦](https://zh.wikipedia.org/wiki/黒須克彦 "wikilink")
     <!-- end list -->
-      - 電視動畫『[花開物語](../Page/花開物語.md "wikilink")』前期片尾曲
+      - 電視動畫『[花開物語](https://zh.wikipedia.org/wiki/花開物語 "wikilink")』前期片尾曲
 3.  **[Planet Freedom](https://zh.wikipedia.org/wiki/Planet_Freedom "wikilink")**
 4.  **[Hello, my love](../Page/HIGH_POWERED.md "wikilink")**
       -

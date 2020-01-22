@@ -1,7 +1,7 @@
 > 本文内容由[TARI TARI](https://zh.wikipedia.org/wiki/TARI_TARI)转换而来。
 
 
-《**TARI TARI**》\[1\]是以[神奈川縣](../Page/神奈川縣.md "wikilink")的[江之島](../Page/江之島.md "wikilink")為舞臺的原創動畫，由[P.A. Works製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]，2012年7月1日至9月23日首播，全13話。該片是P.A.Works繼「[真實之淚](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")」、「[花開物語](../Page/花開物語.md "wikilink")」之後第三部青春群像劇\[3\]。
+《**TARI TARI**》\[1\]是以[神奈川縣](../Page/神奈川縣.md "wikilink")的[江之島](../Page/江之島.md "wikilink")為舞臺的原創動畫，由[P.A. Works製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]，2012年7月1日至9月23日首播，全13話。該片是P.A.Works繼「[真實之淚](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")」、「[花開物語](https://zh.wikipedia.org/wiki/花開物語 "wikilink")」之後第三部青春群像劇\[3\]。
 
 ## 故事簡介
 
@@ -126,7 +126,7 @@
   - 原作︰EVERGREEN
   - 導演、劇本統籌︰[橋本昌和](../Page/橋本昌和.md "wikilink")
   - 人物原案︰tanu
-  - 人物設定、總作畫監督︰[關口可奈味](../Page/關口可奈味.md "wikilink")
+  - 人物設定、總作畫監督︰[關口可奈味](https://zh.wikipedia.org/wiki/關口可奈味 "wikilink")
   - 美術監督︰東地和生
   - 美術設定：鹽澤良憲
   - 色彩設計︰井上佳津枝
@@ -153,7 +153,7 @@
 <!-- end list -->
 
   -
-    作詞、歌：[AiRI](../Page/AiRI.md "wikilink")，作曲、編曲：[宮崎京一](https://zh.wikipedia.org/wiki/宮崎京一 "wikilink")
+    作詞、歌：[AiRI](https://zh.wikipedia.org/wiki/AiRI "wikilink")，作曲、編曲：[宮崎京一](https://zh.wikipedia.org/wiki/宮崎京一 "wikilink")
 
 <!-- end list -->
 
@@ -168,9 +168,9 @@
   -
     （第1話、第3～5話、第7～12話）：作詞：micco，作曲：[杉森舞](https://zh.wikipedia.org/wiki/杉森舞 "wikilink")，編曲：[渡邊和紀](https://zh.wikipedia.org/wiki/渡邊和紀 "wikilink")
     （第13話（\#13 ED ver.））：作詞：micco，作曲、編曲：[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")
-    歌（第1話）：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽（[早見沙織](../Page/早見沙織.md "wikilink")））
-    歌（第3～5話）：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽（[早見沙織](../Page/早見沙織.md "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")））
-    歌（第7～12話）：白浜坂高校合唱部〈坂井和奏（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）&宮本来夏 （[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽 （[早見沙織](../Page/早見沙織.md "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")）〉
+    歌（第1話）：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](https://zh.wikipedia.org/wiki/瀨戶麻沙美 "wikilink")）&沖田紗羽（[早見沙織](https://zh.wikipedia.org/wiki/早見沙織 "wikilink")））
+    歌（第3～5話）：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](https://zh.wikipedia.org/wiki/瀨戶麻沙美 "wikilink")）&沖田紗羽（[早見沙織](https://zh.wikipedia.org/wiki/早見沙織 "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")））
+    歌（第7～12話）：白浜坂高校合唱部〈坂井和奏（[高垣彩陽](https://zh.wikipedia.org/wiki/高垣彩陽 "wikilink")）&宮本来夏 （[瀨戶麻沙美](https://zh.wikipedia.org/wiki/瀨戶麻沙美 "wikilink")）&沖田紗羽 （[早見沙織](https://zh.wikipedia.org/wiki/早見沙織 "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")）〉
     歌（第13話（\#13 ED ver.））：白浜坂高校合唱部
 
 <!-- end list -->
@@ -191,7 +191,7 @@
 <!-- end list -->
 
   -
-    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")，作曲、編曲：[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")，歌：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽（[早見沙織](../Page/早見沙織.md "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")））
+    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")，作曲、編曲：[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")，歌：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](https://zh.wikipedia.org/wiki/瀨戶麻沙美 "wikilink")）&沖田紗羽（[早見沙織](https://zh.wikipedia.org/wiki/早見沙織 "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")））
 
 <!-- end list -->
 
@@ -330,7 +330,7 @@
 <td><p>第3話</p></td>
 <td></td>
 <td><p>又是擺脫 又是邂逅</p></td>
-<td><p><a href="../Page/岡村天齋.md" title="wikilink">岡村天齋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岡村天齋" title="wikilink">岡村天齋</a></p></td>
 <td><p>山本秀世</p></td>
 <td><p>鍋田香代子</p></td>
 <td></td>
@@ -457,7 +457,7 @@
 | [富山縣](../Page/富山縣.md "wikilink")                                  | [富山電視台](https://zh.wikipedia.org/wiki/富山電視台 "wikilink")       | 2012年7月6日 - 9月28日                                     | 星期五 26時35分 - 27時05分                                                                                           | 富士電視網                                                     | P.A.WORKS所在地 |
 | 日本全國                                                              | [Animax](../Page/Animax.md "wikilink")                        | 星期五 22時00分 - 22時30分                                   | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | 有重播                                                       |              |
 | 2012年7月7日 - 9月29日                                                 | 星期六 22時30分 - 23時00分                                           | BS ANIMAX免費放送                                         |                                                                                                               |                                                           |              |
-| [萬代頻道](../Page/萬代頻道.md "wikilink")                                | 星期六 23時00分 更新                                                 | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |                                                                                                               |                                                           |              |
+| [萬代頻道](https://zh.wikipedia.org/wiki/萬代頻道 "wikilink")             | 星期六 23時00分 更新                                                 | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |                                                                                                               |                                                           |              |
 | VideoMarket                                                       |                                                               |                                                       |                                                                                                               |                                                           |              |
 | [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 星期六 23時00分 - 23時30分                                           |                                                       |                                                                                                               |                                                           |              |
 | [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 星期六 23時30分 更新                                                 |                                                       |                                                                                                               |                                                           |              |

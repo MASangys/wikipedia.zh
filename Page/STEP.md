@@ -14,14 +14,14 @@
 
 ### 歌曲节目奖项
 
-| 年份    | 日期     | 電視台                                                 | 節目名稱                                                                   | 獲獎歌曲 | 排名               |
-| ----- | ------ | --------------------------------------------------- | ---------------------------------------------------------------------- | ---- | ---------------- |
-| 2011年 | 9月15日  | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | STEP | 1位               |
-| 2011年 | 9月16日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | STEP | 1位               |
-| 2011年 | 9月22日  | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | STEP | 1位               |
-| 2011年 | 9月23日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | STEP | 1位               |
-| 2011年 | 9月25日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | STEP | 1位(Mutizen Song) |
-| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | STEP | 年终总结 第13位        |
+| 年份    | 日期     | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲 | 排名               |
+| ----- | ------ | ----------------------------------------------------- | ---------------------------------------------------------------------- | ---- | ---------------- |
+| 2011年 | 9月15日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | STEP | 1位               |
+| 2011年 | 9月16日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | STEP | 1位               |
+| 2011年 | 9月22日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | STEP | 1位               |
+| 2011年 | 9月23日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | STEP | 1位               |
+| 2011年 | 9月25日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | STEP | 1位(Mutizen Song) |
+| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | STEP | 年终总结 第13位        |
 
 ## 備註
 

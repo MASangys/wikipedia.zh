@@ -27,7 +27,7 @@
   - 佐々木史朗：[小号](https://zh.wikipedia.org/wiki/小号 "wikilink")（\#10.12）
   - 小林太：小号（\#10.12）
   - 河合わかば：[长号](../Page/长号.md "wikilink")（\#10.12）
-  - 斎藤ノブ：[康加鼓](../Page/康加鼓.md "wikilink")&[铃鼓演奏](https://zh.wikipedia.org/wiki/铃鼓 "wikilink")（\#15）
+  - 斎藤ノブ：[康加鼓](https://zh.wikipedia.org/wiki/康加鼓 "wikilink")&[铃鼓演奏](https://zh.wikipedia.org/wiki/铃鼓 "wikilink")（\#15）
   - 池田大介：編曲（\#3.4.7.15.17）
   - 寺地秀行：編曲（\#1-6.8-15.17）
 

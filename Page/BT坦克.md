@@ -25,7 +25,7 @@ BT首種量產型，1932年面世，BT-2以BT-1為藍本研製而成，由於BT-
 
   - BT-5
 
-炮塔重新設計，增加了後部空間並裝上45毫米口徑反坦克炮和[DT同軸機槍](../Page/DP輕機槍.md "wikilink")，此種炮塔被分成有環形天線的指揮車型（後部放無線電機）和無環形天線的普通車型（後部作為附加彈藥箱），此種炮塔也用於[T-26坦克](../Page/T-26坦克.md "wikilink")，BT-5的發動機改用蘇聯國產M5型去取代原本可靠性不佳的美國發動機，BT-5是BT坦克其中主要參戰型號，中國也有4輛BT-5並編入第200師當中。
+炮塔重新設計，增加了後部空間並裝上45毫米口徑反坦克炮和[DT同軸機槍](../Page/DP輕機槍.md "wikilink")，此種炮塔被分成有環形天線的指揮車型（後部放無線電機）和無環形天線的普通車型（後部作為附加彈藥箱），此種炮塔也用於[T-26坦克](https://zh.wikipedia.org/wiki/T-26坦克 "wikilink")，BT-5的發動機改用蘇聯國產M5型去取代原本可靠性不佳的美國發動機，BT-5是BT坦克其中主要參戰型號，中國也有4輛BT-5並編入第200師當中。
 
   - [BT-7](../Page/BT-7.md "wikilink")
 
@@ -61,7 +61,7 @@ BT坦克的另一種主要參戰型號，車身前裝甲的斜度增加和改用
 
 ### 諾門罕戰役
 
-[Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg](https://zh.wikipedia.org/wiki/File:Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg "fig:Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg") 1939年5月由於蒙古軍和偽滿軍在哈拉哈河畔的諾門罕草原發生衝突而引發了[諾門罕戰役](../Page/諾門罕戰役.md "wikilink")，6月27日，日本關東軍派出飛機炸毀大批蘇軍飛機而令關東軍認為已取得制空權，7月3日，日軍在小松原太郎師團長的帶領下越過哈拉哈河進攻蒙古軍，在蒙古軍的求救之下蘇軍派出400多輛BT-5和BT-7迎戰日軍，日軍由於其[九四式反坦克炮](https://zh.wikipedia.org/wiki/九四式反坦克炮 "wikilink")（37毫米口徑）祇能在近距離才能對BT坦克造成傷害而日軍步兵的[九九式反坦克地雷要用](https://zh.wikipedia.org/wiki/99式地雷 "wikilink")6個才能炸毀一輛BT坦克，即是日軍並無有效的反坦克武器故被打得大敗，急忙退回哈拉哈河東岸，第二日（7月4日），蘇軍BT坦克和[T-26坦克](../Page/T-26坦克.md "wikilink")越過哈拉哈河並在諾門罕草原遇上日軍第一戰車團的[八九式中型坦克和](../Page/八九式中戰車.md "wikilink")[九五式輕型坦克以及少量](../Page/九五式輕戰車.md "wikilink")[九七式中型坦克](../Page/九七式中戰車.md "wikilink")，雙方發生坦克大決戰，但由於日軍坦克不論在攻擊火力（日軍坦克以步兵火力支援為主要任務，炮彈主要是攻擊敵方步兵的榴彈而非坦克決戰用的[穿甲彈或高爆彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")）和裝甲防護（日軍坦克仍以鉚釘接合而蘇軍坦克已採用焊接）方面皆比蘇軍坦克差，日軍坦克大敗，殘餘的日軍祇能靠一陣突然刮起的沙塵暴而逃脫。
+[Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg](https://zh.wikipedia.org/wiki/File:Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg "fig:Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg") 1939年5月由於蒙古軍和偽滿軍在哈拉哈河畔的諾門罕草原發生衝突而引發了[諾門罕戰役](../Page/諾門罕戰役.md "wikilink")，6月27日，日本關東軍派出飛機炸毀大批蘇軍飛機而令關東軍認為已取得制空權，7月3日，日軍在小松原太郎師團長的帶領下越過哈拉哈河進攻蒙古軍，在蒙古軍的求救之下蘇軍派出400多輛BT-5和BT-7迎戰日軍，日軍由於其[九四式反坦克炮](https://zh.wikipedia.org/wiki/九四式反坦克炮 "wikilink")（37毫米口徑）祇能在近距離才能對BT坦克造成傷害而日軍步兵的[九九式反坦克地雷要用](https://zh.wikipedia.org/wiki/99式地雷 "wikilink")6個才能炸毀一輛BT坦克，即是日軍並無有效的反坦克武器故被打得大敗，急忙退回哈拉哈河東岸，第二日（7月4日），蘇軍BT坦克和[T-26坦克越過哈拉哈河並在諾門罕草原遇上日軍第一戰車團的](https://zh.wikipedia.org/wiki/T-26坦克 "wikilink")[八九式中型坦克和](../Page/八九式中戰車.md "wikilink")[九五式輕型坦克以及少量](https://zh.wikipedia.org/wiki/九五式輕戰車 "wikilink")[九七式中型坦克](https://zh.wikipedia.org/wiki/九七式中戰車 "wikilink")，雙方發生坦克大決戰，但由於日軍坦克不論在攻擊火力（日軍坦克以步兵火力支援為主要任務，炮彈主要是攻擊敵方步兵的榴彈而非坦克決戰用的[穿甲彈或高爆彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")）和裝甲防護（日軍坦克仍以鉚釘接合而蘇軍坦克已採用焊接）方面皆比蘇軍坦克差，日軍坦克大敗，殘餘的日軍祇能靠一陣突然刮起的沙塵暴而逃脫。
 
 8月21日，蘇軍指揮官[朱可夫對日軍發動總攻擊](../Page/格奥尔基·康斯坦丁诺维奇·朱可夫.md "wikilink")，蘇軍和蒙古軍在空軍的支援下以BT坦克和T-26坦克作為進攻矛頭之下兵分三路把日軍重重包圍，戰至8月31日，參戰的日軍第二十三師團已幾乎全軍覆沒，日軍祇好向蘇軍求和簽下「日蘇互不攻犯條約」，日軍放棄「北進」。
 
@@ -108,7 +108,7 @@ BT坦克的另一種主要參戰型號，車身前裝甲的斜度增加和改用
 ## 相關條目
 
   - [T-34坦克](../Page/T-34坦克.md "wikilink")
-  - [T-26坦克](../Page/T-26坦克.md "wikilink")
+  - [T-26坦克](https://zh.wikipedia.org/wiki/T-26坦克 "wikilink")
   - [BT-7](../Page/BT-7.md "wikilink")
   - [BT-42](../Page/BT-42.md "wikilink")
 

@@ -56,7 +56,7 @@
 <td><p>VERNISAGE〜ELIZABET〜</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/伍代夏子.md" title="wikilink">伍代夏子</a>(2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伍代夏子" title="wikilink">伍代夏子</a>(2)</p></td>
 <td><p>恋挽歌</p></td>
 </tr>
 <tr class="even">
@@ -64,7 +64,7 @@
 <td><p>冬の華</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/永井真理子.md" title="wikilink">永井真理子</a>(1)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永井真理子" title="wikilink">永井真理子</a>(1)</p></td>
 <td><p>ZUTTO</p></td>
 </tr>
 <tr class="even">
@@ -100,7 +100,7 @@
 <td><p><a href="../Page/歌劇魅影.md" title="wikilink">歌劇魅影</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/香西薰.md" title="wikilink">香西薰</a>(1)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香西薰" title="wikilink">香西薰</a>(1)</p></td>
 <td><p>流恋草</p></td>
 </tr>
 <tr class="odd">
@@ -136,7 +136,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/坂本冬美.md" title="wikilink">坂本冬美</a>(4)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂本冬美" title="wikilink">坂本冬美</a>(4)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -165,11 +165,11 @@
   - [秋山幸二](https://zh.wikipedia.org/wiki/秋山幸二 "wikilink")（[西武獅外野手](https://zh.wikipedia.org/wiki/西武獅 "wikilink")）
   - 芦原すなお（作家）
   - 荻野アンナ（作家）
-  - [花田虎上](../Page/花田虎上.md "wikilink")（[相撲](../Page/相撲.md "wikilink")力士 - 前頭）
+  - [花田虎上](https://zh.wikipedia.org/wiki/花田虎上 "wikilink")（[相撲](../Page/相撲.md "wikilink")力士 - 前頭）
   - [貴乃花](https://zh.wikipedia.org/wiki/貴乃花 "wikilink")（[相撲](../Page/相撲.md "wikilink")力士 - 前頭）
   - [緒形直人](../Page/緒形直人.md "wikilink")（演員）
   - 鷲尾いさ子（演員）
-  - [田中好子](../Page/田中好子.md "wikilink")（演員）
+  - [田中好子](https://zh.wikipedia.org/wiki/田中好子 "wikilink")（演員）
   - 小林由紀子･NHK番組制作局長
 
 ## 收視率

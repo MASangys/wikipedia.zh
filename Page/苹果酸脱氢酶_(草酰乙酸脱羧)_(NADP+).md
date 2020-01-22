@@ -6,7 +6,7 @@
   -
     (*S*)-[苹果酸](../Page/苹果酸.md "wikilink") + [NADP<sup>+</sup>](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink") \(\rightleftharpoons\) [丙酮酸](../Page/丙酮酸.md "wikilink") + [CO<sub>2</sub>](../Page/二氧化碳.md "wikilink") + NADPH
 
-苹果酸脱氢酶 (草酰乙酸脱羧) (NADP<sup>+</sup>)是[C<sub>4</sub>和](../Page/C4类二氧化碳固定.md "wikilink")[CAM](https://zh.wikipedia.org/wiki/景天酸代谢 "wikilink")[植物](../Page/植物.md "wikilink")固定[二氧化碳](../Page/二氧化碳.md "wikilink")过程中使用的三种脱羧酶之一（其余两种分别为[苹果酸脱氢酶 (脱羧)和](../Page/苹果酸脱氢酶_\(脱羧\).md "wikilink")[磷酸烯醇丙酮酸羧化激酶](../Page/磷酸烯醇丙酮酸羧化激酶.md "wikilink")）。\[1\]\[2\]
+苹果酸脱氢酶 (草酰乙酸脱羧) (NADP<sup>+</sup>)是[C<sub>4</sub>和](../Page/C4类二氧化碳固定.md "wikilink")[CAM](https://zh.wikipedia.org/wiki/景天酸代谢 "wikilink")[植物固定](https://zh.wikipedia.org/wiki/植物 "wikilink")[二氧化碳](../Page/二氧化碳.md "wikilink")过程中使用的三种脱羧酶之一（其余两种分别为[苹果酸脱氢酶 (脱羧)和](../Page/苹果酸脱氢酶_\(脱羧\).md "wikilink")[磷酸烯醇丙酮酸羧化激酶](https://zh.wikipedia.org/wiki/磷酸烯醇丙酮酸羧化激酶 "wikilink")）。\[1\]\[2\]
 
 ## 参考文献
 

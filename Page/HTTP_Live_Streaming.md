@@ -1,7 +1,7 @@
 > 本文内容由[HTTP Live Streaming](https://zh.wikipedia.org/wiki/HTTP_Live_Streaming)转换而来。
 
 
-**HTTP Live Streaming**（缩写是**HLS**）是由[苹果公司提出基于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[HTTP的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[流媒体](../Page/流媒体.md "wikilink")[网络传输协议](../Page/网络传输协议.md "wikilink")。是苹果公司[QuickTime X和](https://zh.wikipedia.org/wiki/QuickTime_X "wikilink")[iPhone软件系统的一部分](https://zh.wikipedia.org/wiki/iPhone "wikilink")。它的工作原理是把整个流分成一个个小的基于HTTP的文件来下载，每次只下载一些。当媒体流正在播放时，客户端可以选择从许多不同的备用源中以不同的速率下载同样的资源，允许流媒体会话适应不同的数据速率。在开始一个流媒体会话时，客户端会下载一个包含元数据的[extended M3U (m3u8)](https://zh.wikipedia.org/wiki/extended_M3U "wikilink") [playlist文件](https://zh.wikipedia.org/wiki/playlist "wikilink")，用于寻找可用的媒体流。
+**HTTP Live Streaming**（缩写是**HLS**）是由[苹果公司提出基于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[HTTP的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[流媒体](https://zh.wikipedia.org/wiki/流媒体 "wikilink")[网络传输协议](../Page/网络传输协议.md "wikilink")。是苹果公司[QuickTime X和](https://zh.wikipedia.org/wiki/QuickTime_X "wikilink")[iPhone软件系统的一部分](https://zh.wikipedia.org/wiki/iPhone "wikilink")。它的工作原理是把整个流分成一个个小的基于HTTP的文件来下载，每次只下载一些。当媒体流正在播放时，客户端可以选择从许多不同的备用源中以不同的速率下载同样的资源，允许流媒体会话适应不同的数据速率。在开始一个流媒体会话时，客户端会下载一个包含元数据的[extended M3U (m3u8)](https://zh.wikipedia.org/wiki/extended_M3U "wikilink") [playlist文件](https://zh.wikipedia.org/wiki/playlist "wikilink")，用于寻找可用的媒体流。
 
 HLS只请求基本的HTTP报文，与[实时传输协议](../Page/实时传输协议.md "wikilink")（RTP）不同，HLS可以穿过任何允许HTTP数据通过的[防火墙](../Page/防火墙.md "wikilink")或者[代理服务器](../Page/代理服务器.md "wikilink")。它也很容易使用[内容分發网络来传输媒体流](https://zh.wikipedia.org/wiki/内容分發网络 "wikilink")。
 
@@ -25,7 +25,7 @@ HLS只请求基本的HTTP报文，与[实时传输协议](../Page/实时传输�
 
   - iOS从3.0开始成为标准功能。
   - Adobe Flash Player从11.0开始支持HLS。
-  - [Google](../Page/Google.md "wikilink")的[Android](../Page/Android.md "wikilink")自Honeycomb（3.0）开始支持HLS。
+  - [Google](../Page/Google.md "wikilink")的[Android自Honeycomb](https://zh.wikipedia.org/wiki/Android "wikilink")（3.0）开始支持HLS。
   - VODOBOX HLS Player (Android,iOS, Adobe Flash Player)
   - JWPlayer (Adobe Flash)
   - Flowplayer (Adobe Flash,使用hlsjs版本不使用Adobe Flash)
@@ -33,7 +33,7 @@ HLS只请求基本的HTTP报文，与[实时传输协议](../Page/实时传输�
 
 ## 参见
 
-  - [自適性串流](../Page/自適性串流.md "wikilink")
+  - [自適性串流](https://zh.wikipedia.org/wiki/自適性串流 "wikilink")
 
 ## 参考书目
 

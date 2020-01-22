@@ -17,23 +17,23 @@
 
 2013年12月，燦烈加盟《[叢林的法則](../Page/叢林的法則.md "wikilink")》並飛赴密克羅尼西亞進行拍攝。\[5\]
 
-2014年5月，燦烈加盟SBS真人秀《[Roommate](../Page/Roommate.md "wikilink")》\[6\]。7月14日，燦烈與[Henry合唱歌曲](../Page/劉憲華.md "wikilink")《Bad Girl》，此歌曲收錄於Henry第二張迷你專輯《Fantastic》。\[7\]10月31日，燦烈與[周覓的合唱曲](https://zh.wikipedia.org/wiki/周覓 "wikilink")《Rewind》收錄於周覓一張迷你專輯《Rewind》，燦烈更為《Rewind》Rap部分作詞。\[8\]
+2014年5月，燦烈加盟SBS真人秀《[Roommate](https://zh.wikipedia.org/wiki/Roommate "wikilink")》\[6\]。7月14日，燦烈與[Henry合唱歌曲](../Page/劉憲華.md "wikilink")《Bad Girl》，此歌曲收錄於Henry第二張迷你專輯《Fantastic》。\[7\]10月31日，燦烈與[周覓的合唱曲](https://zh.wikipedia.org/wiki/周覓 "wikilink")《Rewind》收錄於周覓一張迷你專輯《Rewind》，燦烈更為《Rewind》Rap部分作詞。\[8\]
 
 ### 2015年-現今：戲劇發展、《Stay With Me》、EXO-SC
 
-2015年3月，燦烈出演電影《[長壽商會](../Page/長壽商會.md "wikilink")》，飾演絕對服從女友的高中生珉盛\[9\]。5月，燦烈與成員[伯賢](../Page/伯賢.md "wikilink")、[Chen以及多位偶像共同參與KBS特輯](../Page/CHEN_\(EXO\).md "wikilink")《我是大韓民國》的主題曲《我們相遇的日子》錄製\[10\]。8月，燦烈再次出演《[叢林的法則](../Page/叢林的法則.md "wikilink")汶萊篇》，並為節目創作了主題曲《Last Hunter》\[11\]。11月，燦烈受到饒舌女歌手[Heize的邀請登上實境節目](https://zh.wikipedia.org/wiki/Heize "wikilink")《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》並一起演唱歌曲《不要掙錢（Don't Make Money）》，燦烈亦為此曲的Rap部分填詞\[12\]。 [Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg](https://zh.wikipedia.org/wiki/File:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg "fig:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg")
+2015年3月，燦烈出演電影《[長壽商會](https://zh.wikipedia.org/wiki/長壽商會 "wikilink")》，飾演絕對服從女友的高中生珉盛\[9\]。5月，燦烈與成員[伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、[Chen以及多位偶像共同參與KBS特輯](../Page/CHEN_\(EXO\).md "wikilink")《我是大韓民國》的主題曲《我們相遇的日子》錄製\[10\]。8月，燦烈再次出演《[叢林的法則](../Page/叢林的法則.md "wikilink")汶萊篇》，並為節目創作了主題曲《Last Hunter》\[11\]。11月，燦烈受到饒舌女歌手[Heize的邀請登上實境節目](https://zh.wikipedia.org/wiki/Heize "wikilink")《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》並一起演唱歌曲《不要掙錢（Don't Make Money）》，燦烈亦為此曲的Rap部分填詞\[12\]。 [Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg](https://zh.wikipedia.org/wiki/File:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg "fig:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg")
 
 2016年6月，燦烈與[袁姍姍合作的電影](../Page/袁姗姗.md "wikilink")《所以......和黑粉結婚了》上映，燦烈更與女主角袁姍姍合唱主題曲《我討厭你》\[13\]。10月14日，燦烈和美國Hip-hop團體[Far East Movement](https://zh.wikipedia.org/wiki/Far_East_Movement "wikilink")、Tinashe合作的新曲《Freal Luv》公開音源，燦烈參與了歌曲的音源製作，從作詞、作曲到Rap都有參與，展現了多樣的才能。\[14\]。12月，燦烈與[PUNCH為電視劇](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink")《[孤單又燦爛的神-鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》合唱OST《Stay With Me》，該歌曲的官方MV更於2017年11月於YouTube頻道突破1億次點擊率，為韓國OST最初突破1億次點擊率的MV。\[15\]
 
 2017年1月，燦烈於MBC電視劇《[Missing9](../Page/Missing9.md "wikilink")》中飾演李烈，為已解散樂團「Dreamers」的成員\[16\]。2月23日，燦烈與歌手[鄭基高](../Page/鄭基高.md "wikilink")推出合作區《Let Me Love You》\[17\]。9月20日，燦烈獲國際品牌Tommy Hilfiger邀請赴英國倫敦出席時裝周，受到了國際性的矚目。\[18\]12月，燦烈於2017 Instagram Awards裏拿到了 2017 Top5 Account、最多讚的照片和影片三個獎項。\[19\]
 
-2018年2月7日，燦烈與[EXO](../Page/EXO.md "wikilink")成員[世勳一同參加於首爾清潭舉辦的Prada](../Page/Sehun.md "wikilink") Comics快閃店酒會。\[20\]同月，燦烈與[TRAX的Jay共同參與](https://zh.wikipedia.org/wiki/TRAX "wikilink")[MBC偶像明星運動會的男子保齡球項目](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")，以總分157分奪得金牌。5月12日，燦烈確定出演將於11月在[tvN播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")》並飾演鄭世周，一位因小時候受到傷害而緊閉心門的天才程序員。\[21\]6月，燦烈出演樂天免稅店的網絡劇《女神締造者》\[22\]。9月14日，燦烈與[世勳合唱的歌曲](../Page/Sehun.md "wikilink")《We Young》透過[STATION X 0發佈](../Page/SM_STATION.md "wikilink")。《We Young》於17 個國家的 iTunes 綜合單曲榜上拿下冠軍，同時亦拿下中國的蝦米音樂綜合榜第一名\[23\]。
+2018年2月7日，燦烈與[EXO](../Page/EXO.md "wikilink")成員[世勳一同參加於首爾清潭舉辦的Prada](https://zh.wikipedia.org/wiki/Sehun "wikilink") Comics快閃店酒會。\[20\]同月，燦烈與[TRAX的Jay共同參與](https://zh.wikipedia.org/wiki/TRAX "wikilink")[MBC偶像明星運動會的男子保齡球項目](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")，以總分157分奪得金牌。5月12日，燦烈確定出演將於11月在[tvN播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[阿爾罕布拉宮的回憶](https://zh.wikipedia.org/wiki/阿爾罕布拉宮的回憶_\(電視劇\) "wikilink")》並飾演鄭世周，一位因小時候受到傷害而緊閉心門的天才程序員。\[21\]6月，燦烈出演樂天免稅店的網絡劇《女神締造者》\[22\]。9月14日，燦烈與[世勳合唱的歌曲](https://zh.wikipedia.org/wiki/Sehun "wikilink")《We Young》透過[STATION X 0發佈](../Page/SM_STATION.md "wikilink")。《We Young》於17 個國家的 iTunes 綜合單曲榜上拿下冠軍，同時亦拿下中國的蝦米音樂綜合榜第一名\[23\]。
 
-2019年2月，燦烈再次參與《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》的男子保齡球項目並以217分奪得金牌\[24\]。4月25日，燦烈经由[SM STATION第三季發行首支独唱曲](../Page/SM_STATION.md "wikilink")《SSFW（春夏秋冬）》 ，同时发布中日韓三個语言版本。6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈燦烈將與[世勳組成EXO第二個小分隊](../Page/Sehun.md "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What a life》出道\[25\]。9月25日，燦烈出席於首爾中區獎忠洞獎忠體育館舉辦的世界知識論壇，並於“技術創新的未來 - 未來娛樂世界”的項目中説出自己的想法\[26\]。 12月8日，燦烈於第1屆騰訊音樂娛樂盛典中獲得“最受歡迎海外藝人”獎項。\[27\]
+2019年2月，燦烈再次參與《[偶像明星運動會](https://zh.wikipedia.org/wiki/偶像明星運動會 "wikilink")》的男子保齡球項目並以217分奪得金牌\[24\]。4月25日，燦烈经由[SM STATION第三季發行首支独唱曲](../Page/SM_STATION.md "wikilink")《SSFW（春夏秋冬）》 ，同时发布中日韓三個语言版本。6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈燦烈將與[世勳組成EXO第二個小分隊](https://zh.wikipedia.org/wiki/Sehun "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What a life》出道\[25\]。9月25日，燦烈出席於首爾中區獎忠洞獎忠體育館舉辦的世界知識論壇，並於“技術創新的未來 - 未來娛樂世界”的項目中説出自己的想法\[26\]。 12月8日，燦烈於第1屆騰訊音樂娛樂盛典中獲得“最受歡迎海外藝人”獎項。\[27\]
 
 ## 個人生活
 
-朴燦烈有一個姐姐朴宥拉，曾是韓國電視台[YTN](../Page/YTN.md "wikilink")的新聞主播，於2019年轉業到金融機構。母親在首爾擁有一間意大利餐廳「Viva Polo」，於2018年結業。父親也在首爾開了一間餐廳「Good World Seoul」。
+朴燦烈有一個姐姐朴宥拉，曾是韓國電視台[YTN的新聞主播](https://zh.wikipedia.org/wiki/YTN "wikilink")，於2019年轉業到金融機構。母親在首爾擁有一間意大利餐廳「Viva Polo」，於2018年結業。父親也在首爾開了一間餐廳「Good World Seoul」。
 
 他對於音樂的熱愛不僅體現在歌唱上，也體現在了他的音樂創作上，手機裡有自己創作的歌曲，錄製節目時也會帶著吉他。並時常會在個人Instagram和Soundcloud帳號裡分享自己的自作曲。
 
@@ -49,12 +49,13 @@
 
 ### 原聲帶
 
-|            |              |                                                     |                                                                  |
-| ---------- | ------------ | --------------------------------------------------- | ---------------------------------------------------------------- |
-| 發行日期       | 歌曲名稱         | 影視名稱                                                | 合作藝人                                                             |
-| 2015年      | Last Hunter  | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》              |                                                                  |
-| 2016年6月17日 | 我討厭你         | 《[所以......和黑粉结婚了](../Page/所以，和黑粉結婚了.md "wikilink")》 | [袁姍姍](../Page/袁姗姗.md "wikilink")                                 |
-| 2016年12月2日 | Stay With Me | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》    | [Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink") |
+|            |                 |                                                     |                                                                  |
+| ---------- | --------------- | --------------------------------------------------- | ---------------------------------------------------------------- |
+| 發行日期       | 歌曲名稱            | 影視名稱                                                | 合作藝人                                                             |
+| 2015年      | Last Hunter     | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》              |                                                                  |
+| 2016年6月17日 | 我討厭你            | 《[所以......和黑粉结婚了](../Page/所以，和黑粉結婚了.md "wikilink")》 | [袁姍姍](../Page/袁姗姗.md "wikilink")                                 |
+| 2016年12月2日 | Stay With Me    | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》    | [Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink") |
+| 2020年1月20日 | Go Away Go Away | 《[浪漫醫生金師傅2](../Page/浪漫醫生金師傅2.md "wikilink")》        |                                                                  |
 
 ### 個人音樂作品
 
@@ -79,11 +80,11 @@
 | Rewind           | 《Rewind》                                                                           | [周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")                                                     |                                                         |
 | 2015年            | 不要掙錢（Don't Make Money）                                                             | 《[Unpretty Rapstar 2 Semi-Final Part 1](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》 | [Heize](https://zh.wikipedia.org/wiki/Heize "wikilink") |
 | 我們相遇的日子          | KBS特輯《我是大韓民國》                                                                      | 韓國群星                                                                                                  |                                                         |
-| 2016年            | Freal Luv                                                                          | 《Identity》                                                                                            | [東方聯盟](../Page/遠東韻律.md "wikilink")                      |
+| 2016年            | Freal Luv                                                                          | 《Identity》                                                                                            | [東方聯盟](https://zh.wikipedia.org/wiki/遠東韻律 "wikilink")   |
 | If We Love Again | 《[Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》 | [Chen](../Page/CHEN_\(EXO\).md "wikilink")                                                            |                                                         |
 | 任何話也（Confession） | 《Here I Am》                                                                        | [藝聲](../Page/藝聲.md "wikilink")                                                                        |                                                         |
 | 2017年            | Let Me Love You                                                                    |                                                                                                       | [鄭基高](../Page/鄭基高.md "wikilink")                        |
-| 2018年            | We Young                                                                           | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》                                                     | [Sehun](../Page/Sehun.md "wikilink")                    |
+| 2018年            | We Young                                                                           | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》                                                     | [Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink") |
 
 ### 創作作品
 
@@ -225,7 +226,7 @@
 <td><p>2016年</p></td>
 <td><p>Freal Luv</p></td>
 <td><p>《Identity》</p></td>
-<td><p><a href="../Page/遠東韻律.md" title="wikilink">Far East Movement</a> X <a href="../Page/棉花糖_(音乐人).md" title="wikilink">Marshmello</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/遠東韻律" title="wikilink">Far East Movement</a> X <a href="../Page/棉花糖_(音乐人).md" title="wikilink">Marshmello</a><br />
 （feat. Chanyeol&amp;Tinashe）</p></td>
 <td></td>
 <td></td>
@@ -446,21 +447,21 @@
 
 ### 電視劇
 
-|       |                                                             |                                                         |     |           |
-| ----- | ----------------------------------------------------------- | ------------------------------------------------------- | --- | --------- |
-| 年份    | 電視台                                                         | 劇名                                                      | 角色  | 性質        |
-| 2008年 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [搞笑一家親](https://zh.wikipedia.org/wiki/搞笑一家親 "wikilink") | \-  | 客串 (第71集) |
-| 2013年 | [JTBC](../Page/JTBC.md "wikilink")                          | [皇家別墅](../Page/皇家別墅.md "wikilink")                      | 朴燦烈 | 客串 (第2集)  |
-| 2017年 | MBC                                                         | [Missing9](../Page/Missing9.md "wikilink")              | 李烈  | 男配角       |
-| 2018年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")         | [阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")    | 鄭世周 |           |
+|       |                                                             |                                                                         |     |           |
+| ----- | ----------------------------------------------------------- | ----------------------------------------------------------------------- | --- | --------- |
+| 年份    | 電視台                                                         | 劇名                                                                      | 角色  | 性質        |
+| 2008年 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [搞笑一家親](https://zh.wikipedia.org/wiki/搞笑一家親 "wikilink")                 | \-  | 客串 (第71集) |
+| 2013年 | [JTBC](../Page/JTBC.md "wikilink")                          | [皇家別墅](../Page/皇家別墅.md "wikilink")                                      | 朴燦烈 | 客串 (第2集)  |
+| 2017年 | MBC                                                         | [Missing9](../Page/Missing9.md "wikilink")                              | 李烈  | 男配角       |
+| 2018年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")         | [阿爾罕布拉宮的回憶](https://zh.wikipedia.org/wiki/阿爾罕布拉宮的回憶_\(電視劇\) "wikilink") | 鄭世周 |           |
 
 ### 電影
 
-|       |                                              |    |    |
-| ----- | -------------------------------------------- | -- | -- |
-| 年份    | 劇集名稱                                         | 角色 | 性質 |
-| 2015年 | [長壽商會](../Page/長壽商會.md "wikilink")           | 珉盛 | 配角 |
-| 2016年 | [所以，和黑粉结婚了](../Page/所以，和黑粉結婚了.md "wikilink") | 后准 | 主演 |
+|       |                                                       |    |    |
+| ----- | ----------------------------------------------------- | -- | -- |
+| 年份    | 劇集名稱                                                  | 角色 | 性質 |
+| 2015年 | [長壽商會](https://zh.wikipedia.org/wiki/長壽商會 "wikilink") | 珉盛 | 配角 |
+| 2016年 | [所以，和黑粉结婚了](../Page/所以，和黑粉結婚了.md "wikilink")          | 后准 | 主演 |
 
 ### 網路劇
 
@@ -472,31 +473,31 @@
 
 ### 固定出演
 
-|                          |                                                     |                                                             |           |
-| ------------------------ | --------------------------------------------------- | ----------------------------------------------------------- | --------- |
-| 日期                       | 電視臺                                                 | 節目名稱                                                        | 備注        |
-| 2013年12月20日 - 2014年1月17日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                      | 密克羅尼西亞篇   |
-| 2014年5月4日－9月14日          | 《[Roommate](../Page/Roommate.md "wikilink")》        |                                                             |           |
-| 2015年8月21日－9月4日          | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》              | 汶萊篇                                                         |           |
-| 2018年5月26日 - 6月30日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")》\[29\] | 美國LA和舊金山篇 |
+|                          |                                                                 |                                                             |           |
+| ------------------------ | --------------------------------------------------------------- | ----------------------------------------------------------- | --------- |
+| 日期                       | 電視臺                                                             | 節目名稱                                                        | 備注        |
+| 2013年12月20日 - 2014年1月17日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                         | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                      | 密克羅尼西亞篇   |
+| 2014年5月4日－9月14日          | 《[Roommate](https://zh.wikipedia.org/wiki/Roommate "wikilink")》 |                                                             |           |
+| 2015年8月21日－9月4日          | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                          | 汶萊篇                                                         |           |
+| 2018年5月26日 - 6月30日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")             | 《[心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")》\[29\] | 美國LA和舊金山篇 |
 
 ### 主持
 
-|             |                                                                                                                                         |                                                                    |                                                                                                                                                                                 |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 日期          | 電視台                                                                                                                                     | 節目名稱                                                               | 備註                                                                                                                                                                              |
-| 2013年6月7日   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                                                               | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")  | 與[Xiumin](https://zh.wikipedia.org/wiki/金珉錫_\(歌手\) "wikilink")、[Baekhyun](../Page/伯賢.md "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink") (待機室特別MC)              |
-| 2013年7月12日  | 與[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")(待機室特別MC)                                                                          |                                                                    |                                                                                                                                                                                 |
-| 2013年8月23日  | 與[Baekhyun](../Page/伯賢.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")、[Sehun](../Page/Sehun.md "wikilink")(待機室特別MC) |                                                                    |                                                                                                                                                                                 |
-| 2013年9月6日   | 與[Baekhyun](../Page/伯賢.md "wikilink") (待機室特別MC)                                                                                         |                                                                    |                                                                                                                                                                                 |
-| 2013年10月5日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | 特別MC                                                                                                                                                                            |
-| 2013年11月14日 | KBS Joy                                                                                                                                 | [MelOn Music Awards 2013](../Page/甜瓜音樂獎.md "wikilink")             | 與[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Baekhyun](../Page/伯賢.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")、[李侑菲](../Page/李侑菲.md "wikilink") |
-| 2015年5月2日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | 特別MC                                                                                                                                                                            |
-| 2016年12月29日 | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                                                               | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                           | 後台MC                                                                                                                                                                            |
-| 2017年12月29日 | \[30\]                                                                                                                                  |                                                                    |                                                                                                                                                                                 |
-| 2018年4月5日   | V LIVE                                                                                                                                  | \!t Live Grand Opening Special with Hyundai SOLATI Moving Studio   | 與[Wendy (Red Velvet)](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[利特](../Page/利特.md "wikilink")                                                                                |
-| 2018年11月17日 | MBC                                                                                                                                     | Show\! 音樂中心                                                        | 特別MC                                                                                                                                                                            |
-| 2018年12月28日 | KBS2                                                                                                                                    | KBS歌謠盛典                                                            | 與[多賢](../Page/多賢.md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[金碩珍](../Page/金碩珍.md "wikilink")（[防彈少年團](../Page/防彈少年團.md "wikilink")）                 |
+|             |                                                                                                                                                                               |                                                                           |                                                                                                                                                                                                    |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 日期          | 電視台                                                                                                                                                                           | 節目名稱                                                                      | 備註                                                                                                                                                                                                 |
+| 2013年6月7日   | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                                                                                                     | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")         | 與[Xiumin](https://zh.wikipedia.org/wiki/金珉錫_\(歌手\) "wikilink")、[Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink") (待機室特別MC)              |
+| 2013年7月12日  | 與[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")(待機室特別MC)                                                                                                                |                                                                           |                                                                                                                                                                                                    |
+| 2013年8月23日  | 與[Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")、[Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")(待機室特別MC) |                                                                           |                                                                                                                                                                                                    |
+| 2013年9月6日   | 與[Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink") (待機室特別MC)                                                                                                            |                                                                           |                                                                                                                                                                                                    |
+| 2013年10月5日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                                                           | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")        | 特別MC                                                                                                                                                                                               |
+| 2013年11月14日 | KBS Joy                                                                                                                                                                       | [MelOn Music Awards 2013](https://zh.wikipedia.org/wiki/甜瓜音樂獎 "wikilink") | 與[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")、[李侑菲](../Page/李侑菲.md "wikilink") |
+| 2015年5月2日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                                                           | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")        | 特別MC                                                                                                                                                                                               |
+| 2016年12月29日 | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                                                                                                     | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                  | 後台MC                                                                                                                                                                                               |
+| 2017年12月29日 | \[30\]                                                                                                                                                                        |                                                                           |                                                                                                                                                                                                    |
+| 2018年4月5日   | V LIVE                                                                                                                                                                        | \!t Live Grand Opening Special with Hyundai SOLATI Moving Studio          | 與[Wendy (Red Velvet)](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[利特](../Page/利特.md "wikilink")                                                                                                   |
+| 2018年11月17日 | MBC                                                                                                                                                                           | Show\! 音樂中心                                                               | 特別MC                                                                                                                                                                                               |
+| 2018年12月28日 | KBS2                                                                                                                                                                          | KBS歌謠盛典                                                                   | 與[多賢](../Page/多賢.md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[金碩珍](../Page/金碩珍.md "wikilink")（[防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")）                 |
 
 ## 其他作品
 
@@ -516,7 +517,7 @@
 | 2016年6月17日  | 我討厭你                | Chanyeol、[袁姍姍](../Page/袁姗姗.md "wikilink")                                 | 《[所以，和黑粉结婚了](../Page/所以，和黑粉結婚了.md "wikilink")》OST          |
 | 2016年10月14日 | Freal Luv           | Far East Movement x Marshmello ft. Chanyeol & Tinashe                     | 《identity》                                                 |
 | 2016年12月2日  | Stay With Me        | Chanyeol、[Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink") | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》OST Part.1 |
-| 2018年9月14日  | We Young            | Chanyeol、[Sehun](../Page/Sehun.md "wikilink")                             | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》          |
+| 2018年9月14日  | We Young            | Chanyeol、[Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")          | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》          |
 | 2019年4月25日  | SSFW（春夏秋冬）          | Chanyeol                                                                  | 《[SM STATION第三季](../Page/SM_STATION.md "wikilink")》        |
 
 ## 影音作品
@@ -577,7 +578,7 @@
 <tr class="even">
 <td><p><a href="../Page/第51屆百想藝術大獎.md" title="wikilink">第51屆百想藝術大獎</a></p></td>
 <td><p>電影部門男子人氣賞</p></td>
-<td><p><a href="../Page/長壽商會.md" title="wikilink">長壽商會</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長壽商會" title="wikilink">長壽商會</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -617,14 +618,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">第19屆Mnet亞洲音樂大獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet亞洲音樂大獎" title="wikilink">第19屆Mnet亞洲音樂大獎</a></p></td>
 <td><p>最佳OST賞</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/甜瓜音樂獎.md" title="wikilink">第9屆Melon Music Awards</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/甜瓜音樂獎" title="wikilink">第9屆Melon Music Awards</a></p></td>
 <td><p>Top 10</p></td>
 <td></td>
 <td></td>
@@ -632,7 +633,7 @@
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p>第13屆<a href="../Page/KKBOX風雲榜.md" title="wikilink">KKBOX風雲榜</a></p></td>
+<td><p>第13屆<a href="https://zh.wikipedia.org/wiki/KKBOX風雲榜" title="wikilink">KKBOX風雲榜</a></p></td>
 <td><p>年度最佳韓語單曲獎（與 <a href="https://zh.wikipedia.org/wiki/Punch_(韓國歌手)" title="wikilink">Punch</a>）</p></td>
 <td><p>Stay With Me</p></td>
 <td></td>

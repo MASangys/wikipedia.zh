@@ -11,26 +11,26 @@
 
 ### sphere ON LOVE, ON 日本武道館 LIVE
 
-|    | Disc1                                                                                                                                | Disc2                                                                |
-| -- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-|    |                                                                                                                                      |                                                                      |
-| 01 | **芝居 『武道館物販部』**\[1\]                                                                                                                 | **[Dream sign](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**          |
-| 02 | **[MOON SIGNAL](../Page/MOON_SIGNAL.md "wikilink")**                                                                                 | **[REALOVE:REALIFE](../Page/REALOVE:REALIFE.md "wikilink")**         |
-| 03 | '''\[\[Now_loading...SKY                                                                                                            | |Now loading...SKY                                                   |
-| 04 | **[光之filment](../Page/光之filment.md "wikilink")**（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）                                                 | **[君の空が晴れるまで](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**           |
-| 05 | **[You Raise Me Up](../Page/有你的地方.md "wikilink")**（高垣彩陽）                                                                             | **[クライマックスホイッスル](../Page/MOON_SIGNAL.md "wikilink")**                |
-| 06 | **[Shiny+](https://zh.wikipedia.org/wiki/Shiny+ "wikilink")**（[寿美菜子](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")）                 | **[A.T.M.O.S.P.H.E.R.E](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")** |
-| 07 | **[Startline](../Page/Startline.md "wikilink")**（寿美菜子）                                                                               | **[Future Stream](../Page/Future_Stream.md "wikilink")**             |
-| 08 | **[love your life](https://zh.wikipedia.org/wiki/love_your_life "wikilink")**（[豊崎愛生](https://zh.wikipedia.org/wiki/豊崎愛生 "wikilink")） | **[サヨナラSEE YOU](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**         |
-| 09 | **[Dill](../Page/Dill.md "wikilink")**（豊崎愛生）                                                                                         | Making映像                                                             |
-| 10 | **[Baby Baby Love](../Page/Baby_Baby_Love.md "wikilink")**（[戶松遥](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")）                      |                                                                      |
-| 11 | シングルメドレー（戸松遥）                                                                                                                        |                                                                      |
-| 12 | **[PRINCESS CODE](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                                                       |                                                                      |
-| 13 | **[Brave my heart](https://zh.wikipedia.org/wiki/風をあつめて/Brave_my_heart "wikilink")**                                                 |                                                                      |
-| 14 | **[夢奏レコード](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                                                              |                                                                      |
-| 15 | **[Dangerous girls](../Page/Super_Noisy_Nova.md "wikilink")**                                                                        |                                                                      |
-| 16 | '''\[\[Now_loading...SKY                                                                                                            | |かってな成長期\]\]'''                                                      |
-|    |                                                                                                                                      |                                                                      |
+|    | Disc1                                                                                                                                | Disc2                                                                           |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+|    |                                                                                                                                      |                                                                                 |
+| 01 | **芝居 『武道館物販部』**\[1\]                                                                                                                 | **[Dream sign](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                     |
+| 02 | **[MOON SIGNAL](https://zh.wikipedia.org/wiki/MOON_SIGNAL "wikilink")**                                                              | **[REALOVE:REALIFE](https://zh.wikipedia.org/wiki/REALOVE:REALIFE "wikilink")** |
+| 03 | '''\[\[Now_loading...SKY                                                                                                            | |Now loading...SKY                                                              |
+| 04 | **[光之filment](../Page/光之filment.md "wikilink")**（[高垣彩陽](https://zh.wikipedia.org/wiki/高垣彩陽 "wikilink")）                              | **[君の空が晴れるまで](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                      |
+| 05 | **[You Raise Me Up](https://zh.wikipedia.org/wiki/有你的地方 "wikilink")**（高垣彩陽）                                                          | **[クライマックスホイッスル](https://zh.wikipedia.org/wiki/MOON_SIGNAL "wikilink")**        |
+| 06 | **[Shiny+](https://zh.wikipedia.org/wiki/Shiny+ "wikilink")**（[寿美菜子](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")）                 | **[A.T.M.O.S.P.H.E.R.E](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**            |
+| 07 | **[Startline](https://zh.wikipedia.org/wiki/Startline "wikilink")**（寿美菜子）                                                            | **[Future Stream](../Page/Future_Stream.md "wikilink")**                        |
+| 08 | **[love your life](https://zh.wikipedia.org/wiki/love_your_life "wikilink")**（[豊崎愛生](https://zh.wikipedia.org/wiki/豊崎愛生 "wikilink")） | **[サヨナラSEE YOU](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                    |
+| 09 | **[Dill](https://zh.wikipedia.org/wiki/Dill "wikilink")**（豊崎愛生）                                                                      | Making映像                                                                        |
+| 10 | **[Baby Baby Love](../Page/Baby_Baby_Love.md "wikilink")**（[戶松遥](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")）                      |                                                                                 |
+| 11 | シングルメドレー（戸松遥）                                                                                                                        |                                                                                 |
+| 12 | **[PRINCESS CODE](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                                                       |                                                                                 |
+| 13 | **[Brave my heart](https://zh.wikipedia.org/wiki/風をあつめて/Brave_my_heart "wikilink")**                                                 |                                                                                 |
+| 14 | **[夢奏レコード](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                                                              |                                                                                 |
+| 15 | **[Dangerous girls](../Page/Super_Noisy_Nova.md "wikilink")**                                                                        |                                                                                 |
+| 16 | '''\[\[Now_loading...SKY                                                                                                            | |かってな成長期\]\]'''                                                                 |
+|    |                                                                                                                                      |                                                                                 |
 
 ## 備註
 

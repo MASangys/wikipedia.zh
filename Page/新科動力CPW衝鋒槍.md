@@ -15,7 +15,7 @@ CPW是完全靈巧操作，它具有充分平衡的[人體工學設計](../Page/
 
 CPW具有一個內部伸縮設計式金屬製[槍托](../Page/槍托.md "wikilink")，旨在射擊期間提供穩定性。\[6\]當金屬製槍托縮進槍內後，這武器並不會比傳統的手槍大多少，易於儲藏、運輸、攜帶和隱蔽。與其他衝鋒槍不同，CPW還可使其裝入其[槍套以便像](https://zh.wikipedia.org/wiki/槍套 "wikilink")[手枪](../Page/手枪.md "wikilink")般收藏。\[7\]
 
-CPW的[機匣上下整合了共兩條](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可讓使用者於戰術導軌上自由安裝瞄準具和戰術附件。第一條為橫跨機匣頂部的全長式瞄準設備導軌，而第二條為安裝在[槍管](../Page/槍管.md "wikilink")以下、[扳機護環前面的縮短型配件導軌](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")（類似近代手槍在[套筒以下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的扳機護環前方的](../Page/机匣.md "wikilink")所整合的一條全防塵蓋尺寸型戰術燈安裝導軌）。機匣頂部的MIL-STD-1913戰術導軌上可以安裝傳統的[機械瞄具](../Page/機械瞄具.md "wikilink")、[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、光電瞄準具（[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")）、[夜視鏡](../Page/夜視鏡.md "wikilink")或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。底部的導軌，主要用於激光瞄準模塊，垂直夾具和手電筒。而底部的MIL-STD-1913戰術導軌則主要用於安裝[垂直前握把](../Page/輔助握把.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")和[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
+CPW的[機匣上下整合了共兩條](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可讓使用者於戰術導軌上自由安裝瞄準具和戰術附件。第一條為橫跨機匣頂部的全長式瞄準設備導軌，而第二條為安裝在[槍管](../Page/槍管.md "wikilink")以下、[扳機護環前面的縮短型配件導軌](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")（類似近代手槍在[套筒以下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的扳機護環前方的](../Page/机匣.md "wikilink")所整合的一條全防塵蓋尺寸型戰術燈安裝導軌）。機匣頂部的MIL-STD-1913戰術導軌上可以安裝傳統的[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、光電瞄準具（[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")）、[夜視鏡](../Page/夜視鏡.md "wikilink")或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。底部的導軌，主要用於激光瞄準模塊，垂直夾具和手電筒。而底部的MIL-STD-1913戰術導軌則主要用於安裝[垂直前握把](../Page/輔助握把.md "wikilink")、[戰術燈和](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
 ## 使用國
 
@@ -39,7 +39,7 @@ CPW的[機匣上下整合了共兩條](https://zh.wikipedia.org/wiki/機匣 "wik
   - [HK MP7衝鋒槍](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")
   - [斯泰爾TMP衝鋒槍](../Page/斯泰爾TMP衝鋒槍.md "wikilink")
   - [B\&T MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")
-  - [PP-2000冲锋枪](../Page/PP-2000冲锋枪.md "wikilink")
+  - [PP-2000冲锋枪](https://zh.wikipedia.org/wiki/PP-2000冲锋枪 "wikilink")
   - [SR-2希瑟衝鋒槍](../Page/SR-2希瑟衝鋒槍.md "wikilink")
   - [GSh-18半自動手槍](../Page/GSh-18半自動手槍.md "wikilink")
   - [MP-443烏鴉式手槍](../Page/MP-443烏鴉式手槍.md "wikilink")

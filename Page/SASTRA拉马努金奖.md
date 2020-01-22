@@ -69,7 +69,7 @@ Kannan Soundararajan</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
-<td><p><a href="../Page/皮特·舒尔策.md" title="wikilink">皮特·舒尔策</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/皮特·舒尔策" title="wikilink">皮特·舒尔策</a></p></td>
 <td><p>Peter Scholze</p></td>
 <td><p><a href="../Page/波恩大学.md" title="wikilink">波恩大学</a></p></td>
 </tr>
@@ -82,7 +82,7 @@ Kannan Soundararajan</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/雅各布·齐默尔曼.md" title="wikilink">雅各布·齐默尔曼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雅各布·齐默尔曼" title="wikilink">雅各布·齐默尔曼</a></p></td>
 <td><p>Jacob Tsimerman</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/多伦多大学" title="wikilink">多伦多大学</a></p></td>
 </tr>

@@ -5,7 +5,7 @@
 
 ## 單曲概述
 
-  - 本作為演唱者[朴政珉](../Page/朴政珉.md "wikilink")繼2011年5月25日於日本發行《[Wara Wara THE, PARK JUNGMIN](../Page/THE,_PARK_JUNGMIN_\(專輯\).md "wikilink")》日文專輯後睽違一年三個月發行的日文單曲\[2\]。是朴政珉以新人之姿另名**ROMEO**於日本發行的出道單曲，藝名是由日本大眾音樂評論家湯川れい子所賦予\[3\]，旨在將過去的成績都放下，以全新的心態出發。其普通盤封面為朴政珉戴上雕花面具後的模樣。此張單曲是由製作過[安室奈美惠](../Page/安室奈美惠.md "wikilink")和[西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")、[黑木明紗](https://zh.wikipedia.org/wiki/黑木明紗 "wikilink")、[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[JUJU](../Page/JUJU.md "wikilink")等日本TOP歌手的頂尖音樂製作人Jeff Miyahara與[UNIQLO創意總監亦是在日本作為代表性人物的藝術總監](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")[田中敬之合作](https://zh.wikipedia.org/wiki/:ja:タナカノリユキ "wikilink")，和許多美國，德國，瑞典，台灣等各種各樣的國籍的作曲家\[4\]參與以及Yamaha A\&R和Victor Entertainment協助宣傳\[5\]的作品。並於2012年7月12日起於音樂銷售網進行預購\[6\]，分為初回限定盤A、初回限定盤B、普通盤，三種版本。三版本依版本不同收錄Give Me Your Heart、DEVIL、Taste the Fever等三首新曲。朴政珉於2012年8月7日接受Newsen採訪時回應對此單曲的心情：
+  - 本作為演唱者[朴政珉](../Page/朴政珉.md "wikilink")繼2011年5月25日於日本發行《[Wara Wara THE, PARK JUNGMIN](../Page/THE,_PARK_JUNGMIN_\(專輯\).md "wikilink")》日文專輯後睽違一年三個月發行的日文單曲\[2\]。是朴政珉以新人之姿另名**ROMEO**於日本發行的出道單曲，藝名是由日本大眾音樂評論家湯川れい子所賦予\[3\]，旨在將過去的成績都放下，以全新的心態出發。其普通盤封面為朴政珉戴上雕花面具後的模樣。此張單曲是由製作過[安室奈美惠](../Page/安室奈美惠.md "wikilink")和[西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")、[黑木明紗](https://zh.wikipedia.org/wiki/黑木明紗 "wikilink")、[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[JUJU等日本TOP歌手的頂尖音樂製作人Jeff](https://zh.wikipedia.org/wiki/JUJU "wikilink") Miyahara與[UNIQLO創意總監亦是在日本作為代表性人物的藝術總監](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")[田中敬之合作](https://zh.wikipedia.org/wiki/:ja:タナカノリユキ "wikilink")，和許多美國，德國，瑞典，台灣等各種各樣的國籍的作曲家\[4\]參與以及Yamaha A\&R和Victor Entertainment協助宣傳\[5\]的作品。並於2012年7月12日起於音樂銷售網進行預購\[6\]，分為初回限定盤A、初回限定盤B、普通盤，三種版本。三版本依版本不同收錄Give Me Your Heart、DEVIL、Taste the Fever等三首新曲。朴政珉於2012年8月7日接受Newsen採訪時回應對此單曲的心情：
 
 <!-- end list -->
 
@@ -310,7 +310,7 @@
 [Category:朴政珉歌曲](https://zh.wikipedia.org/wiki/Category:朴政珉歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:勝利娛樂歌曲](https://zh.wikipedia.org/wiki/Category:勝利娛樂歌曲 "wikilink")
 
 1.
-2.  因在出演的台灣偶像劇《[翻糖花園](../Page/翻糖花園.md "wikilink")》播映期間爆發經紀合約官司（2012年4月12日朴政珉向首爾中央地方法院對其所屬經紀公司CNR Media提出停止合約效力處分，7月30日獲判勝訴），而推遲至今發行的單曲
+2.  因在出演的台灣偶像劇《[翻糖花園](https://zh.wikipedia.org/wiki/翻糖花園 "wikilink")》播映期間爆發經紀合約官司（2012年4月12日朴政珉向首爾中央地方法院對其所屬經紀公司CNR Media提出停止合約效力處分，7月30日獲判勝訴），而推遲至今發行的單曲
 3.
 4.
 5.

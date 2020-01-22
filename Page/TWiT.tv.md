@@ -15,7 +15,7 @@ Tom Merritt在2010年6月1日成为TWiT LLC的成员。目前他主持每天一�
 
 ## TWiT直播
 
-在2010年5月，Leo宣布TWiT将会直播更多的重要会议和最新新闻。自此，他们以报道了诸如[Google I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink"), [WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink"), [E3](https://zh.wikipedia.org/wiki/E3 "wikilink"), [Maker Faire](https://zh.wikipedia.org/wiki/Maker_Faire "wikilink"), [Dragon Con](https://zh.wikipedia.org/wiki/Dragon_Con "wikilink"), [西南偏南](../Page/西南偏南.md "wikilink"), Macworld Expo, 和[国际消费电子展](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")。他们也报道了诸如[埃里克·施密特](../Page/埃里克·施密特.md "wikilink")卸任[Google](../Page/Google.md "wikilink")的CEO职位, [惠普公司兼并](https://zh.wikipedia.org/wiki/惠普公司 "wikilink") [Palm公司](https://zh.wikipedia.org/wiki/Palm公司 "wikilink"), [Steve Jobs的辞职和死亡](https://zh.wikipedia.org/wiki/Steve_Jobs "wikilink"), 以及来自[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")，[Apple](https://zh.wikipedia.org/wiki/Apple_Inc. "wikilink"), [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink"), 和[Facebook](../Page/Facebook.md "wikilink")各种媒体和产品发布会的最新消息。
+在2010年5月，Leo宣布TWiT将会直播更多的重要会议和最新新闻。自此，他们以报道了诸如[Google I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink"), [WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink"), [E3](https://zh.wikipedia.org/wiki/E3 "wikilink"), [Maker Faire](https://zh.wikipedia.org/wiki/Maker_Faire "wikilink"), [Dragon Con](https://zh.wikipedia.org/wiki/Dragon_Con "wikilink"), [西南偏南](https://zh.wikipedia.org/wiki/西南偏南 "wikilink"), Macworld Expo, 和[国际消费电子展](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")。他们也报道了诸如[埃里克·施密特](../Page/埃里克·施密特.md "wikilink")卸任[Google](../Page/Google.md "wikilink")的CEO职位, [惠普公司兼并](https://zh.wikipedia.org/wiki/惠普公司 "wikilink") [Palm公司](https://zh.wikipedia.org/wiki/Palm公司 "wikilink"), [Steve Jobs的辞职和死亡](https://zh.wikipedia.org/wiki/Steve_Jobs "wikilink"), 以及来自[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")，[Apple](https://zh.wikipedia.org/wiki/Apple_Inc. "wikilink"), [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink"), 和[Facebook](../Page/Facebook.md "wikilink")各种媒体和产品发布会的最新消息。
 
 ## 现有节目
 
@@ -74,7 +74,7 @@ Tom Merritt在2010年6月1日成为TWiT LLC的成员。目前他主持每天一�
 <tr class="even">
 <td><p><a href="http://twit.tv/aaa">All About Android</a></p></td>
 <td><p>Jason Howell, Eileen Rivera和Ron Richards讨论最新和最酷的谷歌安卓的新闻。</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> OS &amp; <a href="../Page/硬件.md" title="wikilink">硬件</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Android" title="wikilink">Android</a> OS &amp; <a href="../Page/硬件.md" title="wikilink">硬件</a></p></td>
 <td><ul>
 <li>Jason Howell</li>
 <li>Eileen Rivera</li>

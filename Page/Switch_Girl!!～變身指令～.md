@@ -213,7 +213,7 @@
   - 二之原 - [桑谷夏子](../Page/桑谷夏子.md "wikilink")
   - 城崎麗香 - [小林優](../Page/小林優.md "wikilink")
   - 佐藤 - [笹島薰](https://zh.wikipedia.org/wiki/笹島薰 "wikilink")
-  - 加藤 - [又吉愛](../Page/又吉愛.md "wikilink")
+  - 加藤 - [又吉愛](https://zh.wikipedia.org/wiki/又吉愛 "wikilink")
   - 運送屋 - [高橋研二](https://zh.wikipedia.org/wiki/高橋研二 "wikilink")
 
 ## 電視劇
@@ -225,7 +225,7 @@
   - 田宮仁香 - [西內麻理耶](https://zh.wikipedia.org/wiki/西內麻理耶 "wikilink")
   - 神山新 - [桐山漣](../Page/桐山漣.md "wikilink")
   - 二之原 - [坂田梨香子](https://zh.wikipedia.org/wiki/坂田梨香子 "wikilink")
-  - 廣田正宗 - [陳內將](../Page/陳內將.md "wikilink")（[D2](https://zh.wikipedia.org/wiki/D2 "wikilink")）
+  - 廣田正宗 - [陳內將](https://zh.wikipedia.org/wiki/陳內將 "wikilink")（[D2](https://zh.wikipedia.org/wiki/D2 "wikilink")）
   - 城崎麗香 - [波瑠](../Page/波瑠.md "wikilink")
   - 木崎明花 - [篠原愛實](../Page/篠原愛實.md "wikilink")
   - 佐藤 - [谷內里早](https://zh.wikipedia.org/wiki/谷內里早 "wikilink")
@@ -253,7 +253,7 @@
 
   - 原作 - [逢田夏波](https://zh.wikipedia.org/wiki/逢田夏波 "wikilink")（）「」（[集英社](../Page/集英社.md "wikilink")刊『瑪格麗特』）
   - 劇本 - [宇山佳佑](https://zh.wikipedia.org/wiki/宇山佳佑 "wikilink")
-  - 音楽 - [MAYUKO](https://zh.wikipedia.org/wiki/MAYUKO "wikilink")、[末廣健一郎](../Page/末廣健一郎.md "wikilink")
+  - 音楽 - [MAYUKO](https://zh.wikipedia.org/wiki/MAYUKO "wikilink")、[末廣健一郎](https://zh.wikipedia.org/wiki/末廣健一郎 "wikilink")
   - 制作 - [東康之](https://zh.wikipedia.org/wiki/東康之 "wikilink")
   - 製作人 - [長澤佳也](https://zh.wikipedia.org/wiki/長澤佳也 "wikilink")（）
   - 導演 - [葉山浩樹](https://zh.wikipedia.org/wiki/葉山浩樹 "wikilink")（）、[小林和紘](https://zh.wikipedia.org/wiki/小林和紘 "wikilink")（）
@@ -279,7 +279,7 @@
   - 田宮仁香 - [西內麻理耶](https://zh.wikipedia.org/wiki/西內麻理耶 "wikilink")
   - 神山新 - [桐山漣](../Page/桐山漣.md "wikilink")
   - 二之原 - [坂田梨香子](https://zh.wikipedia.org/wiki/坂田梨香子 "wikilink")
-  - 廣田正宗 - [陳內將](../Page/陳內將.md "wikilink")（[D2](https://zh.wikipedia.org/wiki/D2 "wikilink")）
+  - 廣田正宗 - [陳內將](https://zh.wikipedia.org/wiki/陳內將 "wikilink")（[D2](https://zh.wikipedia.org/wiki/D2 "wikilink")）
   - 城崎麗香 - [岡本杏理](../Page/岡本杏理.md "wikilink")
   - 佐藤 - [谷內里早](https://zh.wikipedia.org/wiki/谷內里早 "wikilink")
   - 加藤 - [小西悠加](https://zh.wikipedia.org/wiki/小西悠加 "wikilink")
@@ -310,7 +310,7 @@
 
   - 原作 - [逢田夏波](https://zh.wikipedia.org/wiki/逢田夏波 "wikilink")（）「」（[集英社](../Page/集英社.md "wikilink")刊『瑪格麗特』）
   - 劇本 - [大浦光太](https://zh.wikipedia.org/wiki/大浦光太 "wikilink")
-  - 音樂 - [MAYUKO](https://zh.wikipedia.org/wiki/MAYUKO "wikilink")、[末廣健一郎](../Page/末廣健一郎.md "wikilink")
+  - 音樂 - [MAYUKO](https://zh.wikipedia.org/wiki/MAYUKO "wikilink")、[末廣健一郎](https://zh.wikipedia.org/wiki/末廣健一郎 "wikilink")
   - 制作 - [東康之](https://zh.wikipedia.org/wiki/東康之 "wikilink")
   - 製作人 - [阿部良太](https://zh.wikipedia.org/wiki/阿部良太 "wikilink")
   - 導演 - [小林和紘](https://zh.wikipedia.org/wiki/小林和紘 "wikilink")（）

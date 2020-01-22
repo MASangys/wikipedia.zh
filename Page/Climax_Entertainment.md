@@ -9,15 +9,15 @@
 
 ## 游戏
 
-  - [光明與黑暗](https://zh.wikipedia.org/wiki/光明與黑暗 "wikilink")（与[Camelot](../Page/Camelot.md "wikilink")协作，1991年3月,[世嘉](../Page/世嘉.md "wikilink")）（[Mega Drive](../Page/Mega_Drive.md "wikilink")）
-  - [光明與黑暗續戰篇 眾神的遺產](https://zh.wikipedia.org/wiki/光明與黑暗續戰篇_眾神的遺產 "wikilink")（与[Camelot](../Page/Camelot.md "wikilink")协作，1992年3月,世嘉）（Mega Drive）
+  - [光明與黑暗](https://zh.wikipedia.org/wiki/光明與黑暗 "wikilink")（与[Camelot协作](https://zh.wikipedia.org/wiki/Camelot "wikilink")，1991年3月,[世嘉](../Page/世嘉.md "wikilink")）（[Mega Drive](../Page/Mega_Drive.md "wikilink")）
+  - [光明與黑暗續戰篇 眾神的遺產](https://zh.wikipedia.org/wiki/光明與黑暗續戰篇_眾神的遺產 "wikilink")（与[Camelot协作](https://zh.wikipedia.org/wiki/Camelot "wikilink")，1992年3月,世嘉）（Mega Drive）
   - [光明與黑暗 黑暗龙复活](https://zh.wikipedia.org/wiki/光明與黑暗_黑暗龙复活 "wikilink")（GBA、2004年8月，世嘉）
   - [秘境魔寶](../Page/秘境魔寶.md "wikilink")（Mega Drive，1992年10月，世嘉）
   - [Lady Stalker](https://zh.wikipedia.org/wiki/Lady_Stalker "wikilink")（[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink"),1995年4月，[TAITO](https://zh.wikipedia.org/wiki/TAITO "wikilink")）
   - [黑暗救世主](https://zh.wikipedia.org/wiki/黑暗救世主 "wikilink")（[Sega Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")、1996年8月，世嘉）
   - [Runabout系列](https://zh.wikipedia.org/wiki/Runabout "wikilink")（[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")，[YANOMAN CORPORATION](https://zh.wikipedia.org/wiki/YANOMAN_CORPORATION "wikilink")）
   - [Time Stalkers](https://zh.wikipedia.org/wiki/Time_Stalkers "wikilink")（Dreamcast,1999年9月,世嘉）
-  - [Virtua Athlete 2K](https://zh.wikipedia.org/wiki/Virtua_Athlete_2K "wikilink")（与[Camelot Software Planning协作](https://zh.wikipedia.org/wiki/Camelot_Software_Planning "wikilink")）（[Dreamcast](../Page/Dreamcast.md "wikilink")）
+  - [Virtua Athlete 2K](https://zh.wikipedia.org/wiki/Virtua_Athlete_2K "wikilink")（与[Camelot Software Planning协作](https://zh.wikipedia.org/wiki/Camelot_Software_Planning "wikilink")）（[Dreamcast](https://zh.wikipedia.org/wiki/Dreamcast "wikilink")）
   - [天地之门](https://zh.wikipedia.org/wiki/天地之门 "wikilink")（[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")，2005年7月,[SCE](https://zh.wikipedia.org/wiki/SCE "wikilink")）
   - [天地之门2 武双传](https://zh.wikipedia.org/wiki/天地之门2_武双传 "wikilink")（[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")，2006年10月,[SCE](https://zh.wikipedia.org/wiki/SCE "wikilink")）
   - [我自己的迷宫](https://zh.wikipedia.org/wiki/我自己的迷宫 "wikilink")（己のダンジョン）（PSP、2006年11月、世嘉）
@@ -26,7 +26,7 @@
   - [古代王者 恐龙王 （游戏）](https://zh.wikipedia.org/wiki/古代王者_恐龙王_（游戏） "wikilink")（任天堂DS，世嘉）
   - Oblivion Island: Kanata and the Rainbow Mirror（ホッタラケの島 カナタと虹色の鏡）（任天堂DS，2009年8月，南梦宫万代）
   - [元素猎人](https://zh.wikipedia.org/wiki/元素猎人 "wikilink")（任天堂DS，2009年10月，南梦宫万代）
-  - [Battle Spirits](../Page/Battle_Spirits.md "wikilink")（PSP、2010年3月、南梦宫万代)
+  - [Battle Spirits](https://zh.wikipedia.org/wiki/Battle_Spirits "wikilink")（PSP、2010年3月、南梦宫万代)
   - [幻想传说](https://zh.wikipedia.org/wiki/幻想传说 "wikilink")（PSP、2010年8月、南梦宫万代)
   - [BB戰士三國傳](../Page/BB戰士三國傳.md "wikilink")（任天堂DS，2010年12月，南梦宫万代）
   - [EARTH SEEKER](https://zh.wikipedia.org/wiki/EARTH_SEEKER "wikilink")（任天堂DSi，2011年6月23日,[角川游戏](https://zh.wikipedia.org/wiki/角川游戏 "wikilink")）

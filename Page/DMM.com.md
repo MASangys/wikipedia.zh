@@ -88,12 +88,12 @@
       - 1月11日 - DMM.com取得IJET股份有限公司全部股權並納入集團內成為子公司。
       - 1月27日 - DMM.com取得PicApp股份有限公司及Nana Music的全部股權並納入集團內成為子公司。
       - 2月 - DMM.com取得Synapse股份有限公司全部股權並納入集團內成為子公司。
-      - 3月 - 集團總部由惠比壽搬遷至日本[東京港](../Page/東京港.md "wikilink")區[六本木](../Page/六本木.md "wikilink")「六本木Grand Tower」。
+      - 3月 - 集團總部由惠比壽搬遷至日本[東京港區](https://zh.wikipedia.org/wiki/東京港 "wikilink")[六本木](../Page/六本木.md "wikilink")「六本木Grand Tower」。
       - 4月 - DMM.com取得於[盧旺達共和國進行軟體開發及營運的HEHE](https://zh.wikipedia.org/wiki/盧旺達 "wikilink") LABS股份有限公司全部股權並納入集團內成為子公司。
       - 4月 - DMM.com出資AC GROUP Ltd.於盧旺達共和國提供公共交通非接觸式電子票證系統[智慧卡](../Page/智慧卡.md "wikilink")服務。
       - 4月26日 - 於PlayStation 4上所提供的影片串流軟體正式對應[PlayStation VR](../Page/PlayStation_VR.md "wikilink")。
       - 5月 - DMM集團內各公司管理部門業務由原DMM.com Base股份有限公司交由DMM控股集團（現：DG控股集團）進行管理。
-      - 6月 - DMM集團成立足球事業部，並取得有參與營運[比利時足球甲級聯賽](../Page/比利時足球甲級聯賽.md "wikilink")的STVV股份有限公司的部份股份，成為商業夥伴。
+      - 6月 - DMM集團成立足球事業部，並取得有參與營運[比利時足球甲級聯賽的STVV股份有限公司的部份股份](https://zh.wikipedia.org/wiki/比利時足球甲級聯賽 "wikilink")，成為商業夥伴。
       - 7月 - 提供PC遊戲月付定額任玩的「DMM GAMES PREMIUM」上線提供服務。
       - 8月 - DMM集團出資Onokuwa股份有限公司，該公司以開發使用原始加密貨幣的創建者支持服務。
       - 11月 - DMM集團發表新聞稿表示取得比利時足球甲級聯賽經營權。

@@ -1,17 +1,23 @@
 > 本文内容由[少年Pi的奇幻漂流 \(電影\)](https://zh.wikipedia.org/wiki/少年Pi的奇幻漂流_\(電影\))转换而来。
 
 
-《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-的奇幻漂流**》（；簡稱《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-**》）是一部[李安](../Page/李安.md "wikilink")执导的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，于2012年11月21日上映，编剧[David Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大](../Page/加拿大.md "wikilink")作家[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛](../Page/苏拉·沙玛.md "wikilink")飾演主角「-{Pi}-」（又譯「-{派}-」）。
+《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-的奇幻漂流**》（；簡稱《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-**》）是一部[李安](../Page/李安.md "wikilink")执导的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，于2012年11月21日上映，编剧[David Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大](../Page/加拿大.md "wikilink")作家[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](https://zh.wikipedia.org/wiki/少年Pi的奇幻漂流 "wikilink")。印度演員[苏拉·沙玛](../Page/苏拉·沙玛.md "wikilink")飾演主角「-{Pi}-」（又譯「-{派}-」）。
 
 影片收获了很好的口碑和6.09亿美元的全球票房，本片为摄影师[克劳迪奥·米兰达](../Page/克劳迪奥·米兰达.md "wikilink")赢得多个影评人协会奖的最佳摄影奖，更获得[第85届奥斯卡金像奖最佳导演](https://zh.wikipedia.org/wiki/第85届奥斯卡金像奖 "wikilink")、摄影、配乐和视觉效果四个奖项，让李安继《[断背山](https://zh.wikipedia.org/wiki/断背山 "wikilink")》后赢得第二座[奥斯卡最佳导演奖](../Page/奥斯卡最佳导演奖.md "wikilink")。
 
 ## 剧情简介
 
-派西尼·莫利托·帕特尔（綽號「-{Pi}-」）是個出身[印度](../Page/印度.md "wikilink")的男孩，他熱愛宗教（他同時信仰[基督教](../Page/基督教.md "wikilink")、[印度教](../Page/印度教.md "wikilink")及[伊斯蘭教](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")），由于家裡開[動物園](../Page/動物園.md "wikilink")，對[動物十分了解](https://zh.wikipedia.org/wiki/動物 "wikilink")，有一對愛他的父母跟一個哥哥拉維。1976年2月，印度的[塔米納杜政府解體](../Page/泰米尔纳德邦.md "wikilink")，皮辛的爸爸認為這是[甘地夫人踏上極權](https://zh.wikipedia.org/wiki/甘地夫人 "wikilink")[專制](../Page/專制.md "wikilink")之路的最-{zh:後;zh-hans:后;zh-hant:後;}-一擊，於是決定舉家遷移到[加拿大](../Page/加拿大.md "wikilink")。
+在加拿大，一位作家聽說Pi的生平是一個難得的好故事，便向Pi詢問了他的生平。
 
-在前往加拿大的過程中，他們以及他們動物園的動物所搭乘的[輪船](../Page/輪船.md "wikilink")「奇桑號」因為一場[暴風雨意外沉沒](https://zh.wikipedia.org/wiki/暴風雨 "wikilink")。在混亂之中，Pi 被[水手](../Page/水手.md "wikilink")丟上一艘載滿動物的[救生艇](https://zh.wikipedia.org/wiki/救生艇 "wikilink")，上面有一隻[斑馬](../Page/斑馬.md "wikilink")、一隻[鬣狗](https://zh.wikipedia.org/wiki/鬣狗 "wikilink")、一隻[紅毛猩猩及一隻](https://zh.wikipedia.org/wiki/紅毛猩猩 "wikilink")[孟加拉虎](../Page/孟加拉虎.md "wikilink")Richard Parker。Pi 運用他的動物知識與動物和平共處，靠著宗教信仰堅定意志，开始了他在[太平洋的奇幻漂流](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。
+Pi的父親以法國游泳池將他命名為皮辛·墨利多·帕帖爾，但因為Piscine的發音聽起來像Pissing（小便），讓他在學校飽受霸凌，因此他自稱「Pi」。Pi在印度教家庭中成長，在12歲時接觸基督教，之後是伊斯蘭教，他同時信奉這三種宗教，因為他只想愛上帝。Pi的母親支持他的想法，但他那理性主義者的父親勸他學習科學。Pi的家庭經營動物園，Pi對動物園裡一隻名為理查·帕克的[孟加拉虎](../Page/孟加拉虎.md "wikilink")特別感興趣，某次Pi試圖接近理查·帕克，但Pi的父親阻止他並強迫他觀看老虎殺死山羊的畫面，以此作為警告。
 
-Pi 獲救之後，日本海運公司人員來到 Pi 的病床來了解狀況。Pi 照實說出了動物版本：鬣狗殺了斑馬和猩猩之後被孟加拉虎殺掉，剩下 Pi 和老虎共存在船上。海運公司人員沒有相信，并再三要求 Pi 說出真相。Pi 隨後就說了人類版本：廚師殺了水手跟 Pi 的母親之後被 Pi 殺掉；鬣狗代表廚師，斑馬代表水手，猩猩代表母親，而老虎就代表 Pi 的獸性本能。
+在Pi16歲時，他的父親決定舉家搬到加拿大定居，因此必須出售動物。一家人帶著動物搭上一艘日本貨船。船遇到了暴風雨，Pi試圖救出自己的家人，但一名水手將他丟到了救生艇上。一隻斷了腿的斑馬跳上救生艇，船在[馬里亞納海溝沉沒](https://zh.wikipedia.org/wiki/馬里亞納海溝 "wikilink")，Pi的家人都身亡了。暴風雨過後，清醒的Pi注意到一隻在海上漂浮的猩猩，便把牠拉上救生挺，一隻班鬣狗從覆蓋著一半救生艇的防水布下衝出，咬死了斑馬並殺死猩猩，接著理查·帕克也從防水布下衝出，殺死了斑鬣狗。
+
+出於安全考量，Pi待在一個用救生背心和魚網自製的小艇上，並用繩子與救生挺相連，Pi出於道德原因不願殺死理查·帕克，因此只好釣魚餵牠，以免理查·帕克飢不擇食。但在理查·帕克跳下海中捉魚並朝Pi游去時，Pi趕忙逃回救生艇上，因為不願讓牠淹死，Pi又帶著補給品回到小艇。一天晚上，座頭鯨衝出海面，把小艇摧毀，迫使Pi回到救生艇上與理查·帕克對峙，Pi透過訓練理查·帕克，讓自己能與牠在船上共存。幾週後，他們漂流到一座佈滿叢林的島，上面有著可食植物、淡水和大量[狐獴](../Page/狐獴.md "wikilink")，Pi在上面恢復了體力。但到了晚上，小島變得十分危險，淡水變成酸液、狐獴四處逃竄，理查·帕克跑回救生艇上，Pi在一朵花裡發現人類的牙齒，推斷整座島是食肉植物，便趕緊逃離。
+
+Pi和理查·帕克漂流到墨西哥海岸，理查·帕克頭也不回地消失在森林中，Pi對此感到難過。Pi獲救後被送往醫院，兩名日本貨輪公司的保險經紀人向他詢問事情經過，但並不相信Pi的敘述，因此Pi說了另一個故事，其中的動物被倖存的人類代替，Pi的母親是猩猩，水手是斑馬，船上的凶悍廚師是斑鬣狗。在這個故事中，廚師殺死水手並吃他的肉，他還殺死了Pi的母親，之後Pi砍死了廚師並以其遺體做為食物和魚餌。雖然保險經紀人對此故事不甚滿意，但他們並沒有進一步質疑。
+
+作家發現這兩個故事有相似之處，他指出第二個故事裡的Pi就是理查·帕克，Pi表示，無論哪個故事是真的，都不會改變自己家人已死的事實，並問作家喜歡哪個故事，作家選擇第一個，Pi回答「那麼神與你同在」。作家看了一眼保險公司報告的副本，上面提到Pi在「成年孟加拉虎的陪伴下」倖免於難。
 
 ## 故事版本差異
 
@@ -100,7 +106,7 @@ Buddhist Sailor</p></td>
 <td><p>Pi一家在船上認識的<a href="../Page/佛教.md" title="wikilink">佛教</a>徒華人水手。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃健瑋.md" title="wikilink">黃健瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃健瑋" title="wikilink">黃健瑋</a></p></td>
 <td><p>船員<br />
 </p></td>
 <td><p>桑奇號上的臺灣船員</p></td>
@@ -119,7 +125,7 @@ Buddhist Sailor</p></td>
 
 ### 音樂
 
-原聲帶結合東西方聲韻，由來自[加拿大](../Page/加拿大.md "wikilink")的配樂家[麥可·唐納](../Page/麥可·唐納.md "wikilink")（Mychael Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink")》、《[與魔鬼共騎](../Page/與魔鬼共騎.md "wikilink")》後，三度與李安合作。麥可主要利用[管弦樂的搭配](https://zh.wikipedia.org/wiki/管弦樂 "wikilink")，呈現海浪來襲的不安定感，充斥著危險、緊張與和平，人獸之間命懸一念之氣氛。
+原聲帶結合東西方聲韻，由來自[加拿大](../Page/加拿大.md "wikilink")的配樂家[麥可·唐納](https://zh.wikipedia.org/wiki/麥可·唐納 "wikilink")（Mychael Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink")》、《[與魔鬼共騎](https://zh.wikipedia.org/wiki/與魔鬼共騎 "wikilink")》後，三度與李安合作。麥可主要利用[管弦樂的搭配](https://zh.wikipedia.org/wiki/管弦樂 "wikilink")，呈現海浪來襲的不安定感，充斥著危險、緊張與和平，人獸之間命懸一念之氣氛。
 
 ### 原聲帶曲目
 
@@ -205,7 +211,7 @@ Buddhist Sailor</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>最佳電影配樂</strong></p></td>
-<td><p><a href="../Page/麥可·唐納.md" title="wikilink">麥可·唐納</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麥可·唐納" title="wikilink">麥可·唐納</a></p></td>
 <td></td>
 <td></td>
 </tr>

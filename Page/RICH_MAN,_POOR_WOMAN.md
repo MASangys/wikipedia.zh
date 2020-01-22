@@ -114,7 +114,7 @@
 
 ## 歌曲
 
-  - 主題曲：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink") 《[向着光](../Page/向着光.md "wikilink")》（[Sony Music Records](../Page/Sony_Music_Records.md "wikilink")）
+  - 主題曲：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink") 《[向着光](../Page/向着光.md "wikilink")》（[Sony Music Records](https://zh.wikipedia.org/wiki/Sony_Music_Records "wikilink")）
   - 插曲：miwa《Napa》（Sony Music Records）
 
 ## 收視率

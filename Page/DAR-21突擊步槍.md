@@ -20,7 +20,7 @@
   - [M16](../Page/M16突擊步槍.md "wikilink")
   - [TAR-21](../Page/IMI_TAR-21突擊步槍.md "wikilink")
   - [CR-21](../Page/CR-21突擊步槍.md "wikilink")
-  - [SAR 21](../Page/SAR_21突擊步槍.md "wikilink")
+  - [SAR 21](https://zh.wikipedia.org/wiki/SAR_21突擊步槍 "wikilink")
   - [XM8](../Page/XM8突擊步槍.md "wikilink")
   - [XM25](../Page/XM25反防禦目標應對系統.md "wikilink")
   - [XM29 OICW](../Page/XM29_OICW.md "wikilink")

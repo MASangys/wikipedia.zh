@@ -1,7 +1,7 @@
 > 本文内容由[Little Girl](https://zh.wikipedia.org/wiki/Little_Girl)转换而来。
 
 
-《**Little Girl**》（）是日本女歌手[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")2張單曲，於2010年6月23日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
+《**Little Girl**》（）是日本女歌手[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")2張單曲，於2010年6月23日由[Sony Music Records發行](https://zh.wikipedia.org/wiki/Sony_Music_Records "wikilink")。
 
 ## 概要
 

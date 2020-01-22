@@ -94,7 +94,7 @@ VS系列</p></td>
     **雷亞爾<small>｜**[服卷浩司](https://zh.wikipedia.org/wiki/服卷浩司 "wikilink")／台配：[符爽](../Page/符爽.md "wikilink") 聲</small>
       -
         於電視版33話中登場的惡德金融業者·多葛爾的雙胞胎弟弟。和其他囚犯為了引出時連者而破壞城市。接受了皮耶爾「闇之力」的強化。之後，和波利巴爾在史前時代與龍也、纏對決。
-    **露比婭<small>｜**[小松由佳](../Page/小松由佳_\(声优\).md "wikilink")／台配：[汪世瑋](../Page/汪世瑋.md "wikilink") 聲</small>
+    **露比婭<small>｜**[小松由佳](https://zh.wikipedia.org/wiki/小松由佳_\(声优\) "wikilink")／台配：[汪世瑋](../Page/汪世瑋.md "wikilink") 聲</small>
       -
         於電視版15話中登場的狙擊手·蕾荷的姐姐。以[雷射槍為武器](https://zh.wikipedia.org/wiki/雷射 "wikilink")。和其他囚犯為了引出時連者而破壞城市。接受了皮耶爾「闇之力」的強化。之後，和狄納爾在穿越時空後的[西部時代與綾瀨](https://zh.wikipedia.org/wiki/美國舊西部 "wikilink")、優理、流水、祭展開戰鬥。
     **帕茲<small>｜**[前原實](https://zh.wikipedia.org/wiki/前原實 "wikilink") 聲</small>

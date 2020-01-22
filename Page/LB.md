@@ -5,7 +5,7 @@
 
 ## 縮寫
 
-  - [香港警務處](../Page/香港警務處.md "wikilink")[聯絡事務科](../Page/聯絡事務科.md "wikilink")
+  - [香港警務處](../Page/香港警務處.md "wikilink")[聯絡事務科](https://zh.wikipedia.org/wiki/聯絡事務科 "wikilink")
 
 ## 代碼
 
@@ -26,7 +26,7 @@
 
 ## 科學及計算
 
-  - [以2為底對數](../Page/以2爲底的對數.md "wikilink"), 。
+  - [以2為底對數](https://zh.wikipedia.org/wiki/以2爲底的對數 "wikilink"), 。
 
   - , a class of computational fluid dynamics (CFD) methods for fluid simulation.
 

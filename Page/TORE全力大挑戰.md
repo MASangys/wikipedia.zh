@@ -11,13 +11,13 @@
 
 節目的內容，是以隊伍與隊伍之間的對抗方式，於遊戲內，取得一定數量的「黃金法老男像」（），晉級成為最後獎金挑戰賽的資格。
 
-此節目可說是《[DERO密室遊戲大脫逃](../Page/DERO密室遊戲大脫逃.md "wikilink")》（以下簡稱《DERO\!》）的姊妹作品，但由於《DERO\!》節目播至2011年3月9日，因為2011年3月11日，發生了[2011年日本東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")所造成的[福島第一核電站事故](https://zh.wikipedia.org/wiki/福島第一核電站事故 "wikilink")，DERO的遊戲內容使人想起[海嘯](https://zh.wikipedia.org/wiki/海嘯 "wikilink")，造成節目斬腰。沉寂了四個月的製作單位，於是再推出《TORE全力大挑戰》節目。
+此節目可說是《[DERO密室遊戲大脫逃](https://zh.wikipedia.org/wiki/DERO密室遊戲大脫逃 "wikilink")》（以下簡稱《DERO\!》）的姊妹作品，但由於《DERO\!》節目播至2011年3月9日，因為2011年3月11日，發生了[2011年日本東北地方太平洋近海地震所造成的](https://zh.wikipedia.org/wiki/2011年日本東北地方太平洋近海地震 "wikilink")[福島第一核電站事故](https://zh.wikipedia.org/wiki/福島第一核電站事故 "wikilink")，DERO的遊戲內容使人想起[海嘯](https://zh.wikipedia.org/wiki/海嘯 "wikilink")，造成節目斬腰。沉寂了四個月的製作單位，於是再推出《TORE全力大挑戰》節目。
 
 ## 演出者
 
 ### 主持人
 
-  - 法老男（），配音人員：[山里亮太](../Page/山里亮太.md "wikilink")
+  - 法老男（），配音人員：[山里亮太](https://zh.wikipedia.org/wiki/山里亮太 "wikilink")
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
   - 特別魔人（）[藤原龍也](../Page/藤原龍也.md "wikilink")（），在日本首播於2011年10月30日的節目，以電腦繪圖面孔搭配電腦動畫呈現。
   - 實習魔人法老蒙（）[小暮閣下](../Page/小暮閣下.md "wikilink")（），在日本首播於2012年2月13日的節目，以電腦繪圖搭配電腦動畫呈現。
   - 魔宮魔人實習生法老大本（）天野博之（），在日本首播於2012年4月2日的節目，以電腦繪圖搭配電腦動畫呈現。
-  - [山里亮太](../Page/山里亮太.md "wikilink")以參賽者參加時，法老王配音人員由[若林正恭](../Page/若林正恭.md "wikilink")代替。
+  - [山里亮太以參賽者參加時](https://zh.wikipedia.org/wiki/山里亮太 "wikilink")，法老王配音人員由[若林正恭](../Page/若林正恭.md "wikilink")代替。
 
 ### 準參賽者
 

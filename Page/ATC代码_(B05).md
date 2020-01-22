@@ -9,7 +9,7 @@
     B05AA01 [白蛋白](../Page/白蛋白.md "wikilink")（Serum albumin）
     B05AA02 其它血浆蛋白成分（Other plasma protein fractions）
     B05AA03 氟烃类血液代用品（Fluorocarbon blood substitutes）
-    B05AA05 [右旋糖酐](../Page/右旋糖酐.md "wikilink")（Dextran）
+    B05AA05 [右旋糖酐](https://zh.wikipedia.org/wiki/右旋糖酐 "wikilink")（Dextran）
     B05AA06 [明胶](https://zh.wikipedia.org/wiki/明胶 "wikilink")（Gelatin agents）
     B05AA07 [羟乙基淀粉](https://zh.wikipedia.org/wiki/羟乙基淀粉 "wikilink")（Hydroxyethylstarch）
     B05AA08 [血红蛋白](../Page/血红蛋白.md "wikilink")crosfumari（Hemoglobin crosfumaril）
@@ -129,7 +129,7 @@
 
 ## B05Z 血液透析和血液过滤（Hemodialytics and hemofiltrates）
 
-### B05ZA [血液透析](../Page/血液透析.md "wikilink")（Hemodialytics, concentrates）
+### B05ZA [血液透析](https://zh.wikipedia.org/wiki/血液透析 "wikilink")（Hemodialytics, concentrates）
 
 ### B05ZB [血液过滤](https://zh.wikipedia.org/wiki/血液过滤 "wikilink")（Hemofiltrates）
 

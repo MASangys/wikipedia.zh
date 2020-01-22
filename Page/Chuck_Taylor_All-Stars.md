@@ -5,7 +5,7 @@
 
 ## 历史
 
-[匡威](../Page/匡威.md "wikilink")橡胶鞋公司是于1908年在[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[莫尔登](../Page/莫尔登.md "wikilink")成立的企业。1917年，公司设计了名为All Star的鞋。此鞋由[橡胶底和](https://zh.wikipedia.org/wiki/橡胶 "wikilink")[帆布鞋帮组成](https://zh.wikipedia.org/wiki/帆布 "wikilink")，并作为专业运动鞋为职业篮球队设计。1921年，篮球运动员[查克·泰勒在匡威公司的赞助之下加入了一家名为](https://zh.wikipedia.org/wiki/查克·泰勒 "wikilink")的篮球队。泰勒加入县里高中的职业篮球联盟并在教比赛技能时推销All Star。\[4\]作为运动员及推销员，泰勒还对他喜爱的鞋的款式做了改进。他对该鞋的设计的意见是增强柔韧性及支持性能并且以并拢的补片保护脚踝。
+[匡威](../Page/匡威.md "wikilink")橡胶鞋公司是于1908年在[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[莫尔登成立的企业](https://zh.wikipedia.org/wiki/莫尔登 "wikilink")。1917年，公司设计了名为All Star的鞋。此鞋由[橡胶底和](https://zh.wikipedia.org/wiki/橡胶 "wikilink")[帆布鞋帮组成](https://zh.wikipedia.org/wiki/帆布 "wikilink")，并作为专业运动鞋为职业篮球队设计。1921年，篮球运动员[查克·泰勒在匡威公司的赞助之下加入了一家名为](https://zh.wikipedia.org/wiki/查克·泰勒 "wikilink")的篮球队。泰勒加入县里高中的职业篮球联盟并在教比赛技能时推销All Star。\[4\]作为运动员及推销员，泰勒还对他喜爱的鞋的款式做了改进。他对该鞋的设计的意见是增强柔韧性及支持性能并且以并拢的补片保护脚踝。
 
 All Stars很快就被大批专业篮球选手穿着并且为所有怀有抱负的篮球选手所羡慕。不久，All Stars成为[奥运会选手的装备](https://zh.wikipedia.org/wiki/奥运会 "wikilink")，并且在[二战期间](https://zh.wikipedia.org/wiki/二战 "wikilink")，[美军](../Page/美军.md "wikilink")士兵也开始在训练时穿着All Stars。\[5\]
 

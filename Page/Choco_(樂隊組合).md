@@ -83,7 +83,7 @@ CHOCO首隻MV - EVERYBODY LISTEN TO ME\!
 
 \- <https://www.youtube.com/user/wearechoco>
 
-CHOCO友情演出 - 時差 (CATHY) - [ToNick](../Page/ToNick.md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")《水滾茶靚》(2013年農曆新年賀年歌)
+CHOCO友情演出 - 時差 (CATHY) - [ToNick](https://zh.wikipedia.org/wiki/ToNick "wikilink")、[Kolor](../Page/Kolor.md "wikilink")《水滾茶靚》(2013年農曆新年賀年歌)
 
 ## 外部連結
 

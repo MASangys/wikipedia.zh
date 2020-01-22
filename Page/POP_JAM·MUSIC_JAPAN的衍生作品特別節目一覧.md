@@ -4,7 +4,7 @@
   -
 **POP JAM·MUSIC JAPAN的衍生作品特別節目一覧**
 
-本項目是[NHK由](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")1993年4月～2007年3月播放的[音樂節目](https://zh.wikipedia.org/wiki/音樂節目 "wikilink")『[POP JAM](https://zh.wikipedia.org/wiki/POP_JAM "wikilink")』（通称：**PJ**）和2007年4月開始播放的『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』（通称：**MJ**）的衍生作品特別節目一覧。
+本項目是[NHK由](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")1993年4月～2007年3月播放的[音樂節目](https://zh.wikipedia.org/wiki/音樂節目 "wikilink")『[POP JAM](https://zh.wikipedia.org/wiki/POP_JAM "wikilink")』（通称：**PJ**）和2007年4月開始播放的『[MUSIC JAPAN](https://zh.wikipedia.org/wiki/MUSIC_JAPAN "wikilink")』（通称：**MJ**）的衍生作品特別節目一覧。
 
 ## POP JAM的衍生作品企劃
 
@@ -36,7 +36,7 @@
 
   - **夏歌'06** - 2006年8月5日 24:20 - 25:05播放。[絢香](../Page/絢香.md "wikilink")、[大田クルー和](https://zh.wikipedia.org/wiki/大田クルー "wikilink")[温水洋一](https://zh.wikipedia.org/wiki/温水洋一 "wikilink")、[大塚愛](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")、[KREVA](https://zh.wikipedia.org/wiki/KREVA "wikilink")、[黑川芽以](https://zh.wikipedia.org/wiki/黑川芽以 "wikilink")、可苦可樂、[無限開關](../Page/無限開關.md "wikilink")、[鈴木亞美](../Page/鈴木亞美.md "wikilink")、[DJ OZMA](https://zh.wikipedia.org/wiki/DJ_OZMA "wikilink")、[手嶌葵](../Page/手嶌葵.md "wikilink")、[mihimaru GT](https://zh.wikipedia.org/wiki/mihimaru_GT "wikilink")、[WaT](../Page/WaT.md "wikilink")（50音順）出演。当時還是播放『POP JAM』，正式名稱是「**POP JAM夏歌'06**」。
   - **夏天的歌2007** - 2007年8月14日 19:30 - 20:45播放。aiko、[秋川雅史](../Page/秋川雅史.md "wikilink")、[中孝介](../Page/中孝介.md "wikilink")、絢香、安潔拉亞季、[Cocco](../Page/Cocco.md "wikilink")、[坂本龍一](../Page/坂本龍一.md "wikilink")、[SPITZ](../Page/SPITZ.md "wikilink")、[元千歲](../Page/元千歲.md "wikilink")（50音順）出演。坂本和元合作演奏『[死んだ女の子](https://zh.wikipedia.org/wiki/死んだ女の子 "wikilink")』。[松本真理香](../Page/松本真理香.md "wikilink")担当旁白。
-  - **夏天的歌2008** - 2008年7月26日 21:00 - 22:00播放。aiko、[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")、Mr.Children、[MONGOL800](../Page/MONGOL800.md "wikilink")、Remioromen（50音順）出演。MONGOL800在[沖繩縣](../Page/沖繩縣.md "wikilink")[浦添市](../Page/浦添市.md "wikilink")、Remioromen在[東京](../Page/東京都.md "wikilink")・[国立霞ヶ丘競技場在直播登場](https://zh.wikipedia.org/wiki/国立霞ヶ丘競技場 "wikilink")。
+  - **夏天的歌2008** - 2008年7月26日 21:00 - 22:00播放。aiko、[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")、Mr.Children、[MONGOL800](https://zh.wikipedia.org/wiki/MONGOL800 "wikilink")、Remioromen（50音順）出演。MONGOL800在[沖繩縣](../Page/沖繩縣.md "wikilink")[浦添市](../Page/浦添市.md "wikilink")、Remioromen在[東京](../Page/東京都.md "wikilink")・[国立霞ヶ丘競技場在直播登場](https://zh.wikipedia.org/wiki/国立霞ヶ丘競技場 "wikilink")。
 
 ### 情歌〜Autumn & Winter〜
 
@@ -47,7 +47,7 @@
 
 ### 2007年〜2008年
 
-  - **やさしい歌は世界を変える 〜[MONGOL800](../Page/MONGOL800.md "wikilink") 沖繩・奄美トロピカルツアー〜** - 2007年9月21日 22:00 - 23:30\[13\] 播放200
+  - **やさしい歌は世界を変える 〜[MONGOL800](https://zh.wikipedia.org/wiki/MONGOL800 "wikilink") 沖繩・奄美トロピカルツアー〜** - 2007年9月21日 22:00 - 23:30\[13\] 播放200
   - **[可苦可樂](../Page/可苦可樂.md "wikilink") 〜蕾から花へ 180日の軌跡〜** - 2008年1月25日 22:00 - 23:00\[14\] 播放
   - **[德永英明](../Page/德永英明.md "wikilink")・あなたに贈るぼくの歌** - 2008年3月1日 17:00 - 17:30播放
   - **[新垣結衣](../Page/新垣結衣.md "wikilink") 一歩ずつ 少しずつ 〜二十歳の今〜** - 2008年10月18日 15:50 - 16:30播放
@@ -78,7 +78,7 @@
 
 ## 相關項目
 
-  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")
+  - [MUSIC JAPAN](https://zh.wikipedia.org/wiki/MUSIC_JAPAN "wikilink")
 
 [Category:NHK電視音樂節目](https://zh.wikipedia.org/wiki/Category:NHK電視音樂節目 "wikilink")
 

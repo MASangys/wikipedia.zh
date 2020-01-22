@@ -55,7 +55,7 @@
 
 ### 索尼平台
 
-#### [PlayStation](../Page/PlayStation.md "wikilink")
+#### [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
 
   - 《[Galaxy Fraulein Yuna 3: Final Edition](https://zh.wikipedia.org/wiki/Galaxy_Fraulein_Yuna "wikilink")》
   - 《[Mitsumete Knight](https://zh.wikipedia.org/wiki/Mitsumete_Knight "wikilink")》
@@ -89,7 +89,7 @@
 
 ### 微软平台
 
-#### [Xbox](../Page/Xbox.md "wikilink")
+#### [Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")
 
   - 《[N.U.D.E.@ Natural Ultimate Digital Experiment](https://zh.wikipedia.org/wiki/N.U.D.E.@_Natural_Ultimate_Digital_Experiment "wikilink")》
 
@@ -120,7 +120,7 @@
   - 《[Super Tempo](https://zh.wikipedia.org/wiki/Super_Tempo "wikilink")》
   - 《[Tengai Makyou: Daiyon no Mokushiroku: The Apocalypse IV](https://zh.wikipedia.org/wiki/Tengai_Makyou:_Daiyon_no_Mokushiroku:_The_Apocalypse_IV "wikilink")》
 
-#### [Dreamcast](../Page/Dreamcast.md "wikilink")
+#### [Dreamcast](https://zh.wikipedia.org/wiki/Dreamcast "wikilink")
 
   - 《[櫻花大戰3 ～巴里在燃燒嗎～](https://zh.wikipedia.org/wiki/櫻花大戰3_～巴里在燃燒嗎～ "wikilink")》
   - 《[櫻花大戰4](https://zh.wikipedia.org/wiki/櫻花大戰4 "wikilink")》
@@ -142,7 +142,7 @@
 
   - 《[Legend of Himiko](https://zh.wikipedia.org/wiki/Legend_of_Himiko "wikilink")》
   - 《[Shuraki Trinity](https://zh.wikipedia.org/wiki/Shuraki_Trinity "wikilink")》
-  - 《[朱羅姬](../Page/朱羅姬.md "wikilink")》
+  - 《[朱羅姬](https://zh.wikipedia.org/wiki/朱羅姬 "wikilink")》
 
 ## 参考资料
 

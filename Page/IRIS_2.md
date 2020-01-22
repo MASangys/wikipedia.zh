@@ -1,7 +1,7 @@
 > 本文内容由[IRIS 2](https://zh.wikipedia.org/wiki/IRIS_2)转换而来。
 
 
-《**IRIS 2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2013年2月13日起播出的[水木迷你連續劇](../Page/KBS水木連續劇.md "wikilink")，2009年熱播諜報電視劇《[IRIS](../Page/IRIS_\(電視劇\).md "wikilink")》之續集，由《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》、《[他們的世界](../Page/他們的世界.md "wikilink")》[表民秀](../Page/表民秀.md "wikilink")導演及《[雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink")》[金泰勳導演共同執導](https://zh.wikipedia.org/wiki/金泰勳 "wikilink")，《[lRlS](../Page/IRIS_\(電視劇\).md "wikilink")》、《[Poseidon](../Page/波塞冬_\(電視劇\).md "wikilink")》[趙奎元作家擔任編劇](https://zh.wikipedia.org/wiki/趙奎元 "wikilink")，[張赫與](https://zh.wikipedia.org/wiki/張赫 "wikilink")[李多海](../Page/李多海.md "wikilink")繼《[不汗黨](../Page/不汗黨.md "wikilink")》、《[推奴](../Page/推奴.md "wikilink")》之後第三度攜手演出的電視劇。好萊塢電影《[終極警探：跨國救援](https://zh.wikipedia.org/wiki/終極警探：跨國救援 "wikilink")》製作團隊加盟匈牙利當地的拍攝，在動作、武打、裝備等方面給予許多幫助。\[1\]
+《**IRIS 2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2013年2月13日起播出的[水木迷你連續劇](../Page/KBS水木連續劇.md "wikilink")，2009年熱播諜報電視劇《[IRIS](../Page/IRIS_\(電視劇\).md "wikilink")》之續集，由《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》、《[他們的世界](../Page/他們的世界.md "wikilink")》[表民秀導演及](https://zh.wikipedia.org/wiki/表民秀 "wikilink")《[雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink")》[金泰勳導演共同執導](https://zh.wikipedia.org/wiki/金泰勳 "wikilink")，《[lRlS](../Page/IRIS_\(電視劇\).md "wikilink")》、《[Poseidon](https://zh.wikipedia.org/wiki/波塞冬_\(電視劇\) "wikilink")》[趙奎元作家擔任編劇](https://zh.wikipedia.org/wiki/趙奎元 "wikilink")，[張赫與](https://zh.wikipedia.org/wiki/張赫 "wikilink")[李多海](../Page/李多海.md "wikilink")繼《[不汗黨](../Page/不汗黨.md "wikilink")》、《[推奴](../Page/推奴.md "wikilink")》之後第三度攜手演出的電視劇。好萊塢電影《[終極警探：跨國救援](https://zh.wikipedia.org/wiki/終極警探：跨國救援 "wikilink")》製作團隊加盟匈牙利當地的拍攝，在動作、武打、裝備等方面給予許多幫助。\[1\]
 
 ## 故事簡介
 
@@ -72,7 +72,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/李準_(歌手).md" title="wikilink">李準</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李準_(歌手)" title="wikilink">李準</a></p></td>
 <td><center>
 <p>尹時赫</p></td>
 <td><p>時赫所進行的每件事起初都是因為很帥，在副局長崔敏的提議之下決定不做警護隊要員，轉而加入了追蹤暗殺者6組。</p></td>
@@ -81,7 +81,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/金日宇.md" title="wikilink">金日宇</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金日宇" title="wikilink">金日宇</a></p></td>
 <td><center>
 <p>姜哲煥</p></td>
 <td><p>NSS局長，曾經在國情院和NTS任職，他的想法很堅決，「按需要廢除NSS」彷彿是個打從一開始就想拆解NSS的人。將NSS相對自由的氣氛評價為墮落，並且與新任副局長崔敏針鋒相對。</p></td>
@@ -108,7 +108,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/尹朱尚.md" title="wikilink">尹朱尚</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/尹朱尚" title="wikilink">尹朱尚</a></p></td>
 <td><center>
 <p>吳賢圭</p></td>
 <td><p>NSS科學搜查室長，為NSS中最年長者，愛炒股票的他不久前才大賺一筆。雖然常說著任何時候都可以辭職不做，但因為某種原因一直沒有離開。</p></td>
@@ -140,7 +140,7 @@
 <p>金智憲</p></td>
 <td><p>暗號破解要員</p></td>
 <td><center>
-<p><a href="../Page/林筠翔.md" title="wikilink">林筠翔</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林筠翔" title="wikilink">林筠翔</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -179,7 +179,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/李正吉.md" title="wikilink">李正吉</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李正吉" title="wikilink">李正吉</a></p></td>
 <td><center>
 <p>趙明浩</p></td>
 <td><p>前任總統，卸任後成為「朝鮮半島統一準備委員會」代表並為了大韓民國的和平而費心，希望挖掘出更多關於IRIS的事情。</p></td>
@@ -188,7 +188,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/趙成夏.md" title="wikilink">趙成夏</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/趙成夏" title="wikilink">趙成夏</a></p></td>
 <td><center>
 <p>何承鎮</p></td>
 <td><p>現任總統，檢察官出身。與趙明浩的想法相異，堅持反對朝鮮的核開發，認為在核開發中斷之前必須停止對朝鮮的援助。</p></td>
@@ -271,7 +271,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/金永哲.md" title="wikilink">金永哲</a><br />
+<p><a href="https://zh.wikipedia.org/wiki/金永哲" title="wikilink">金永哲</a><br />
 <small>青年：<a href="https://zh.wikipedia.org/wiki/鄭錫遠" title="wikilink">鄭錫遠</a></small></p></td>
 <td><center>
 <p>白山</p></td>
@@ -287,7 +287,7 @@
 <p>金妍華</p></td>
 <td><p>IRIS所屬女殺手，找出了消聲匿跡的仲元，為了完成任務，讓他捲入匈牙利的暗殺事件。對於追趕自己的朴哲榮相當憤怒，妍華認為姊姊善華的失蹤是由他在背後操控的。</p></td>
 <td><center>
-<p><a href="../Page/羅杏芝.md" title="wikilink">羅杏芝</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/羅杏芝" title="wikilink">羅杏芝</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -300,7 +300,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/金甲洙.md" title="wikilink">金甲洙</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金甲洙" title="wikilink">金甲洙</a></p></td>
 <td><center>
 <p>Mr. Black</p></td>
 <td><p>IRIS亞洲負責人，一切都無比神祕的謎團人物。以英文名「Anthony崔」的身分，代表Zenon公司斡旋於南北韓核武器爭議中。為第一季核科學家俞政勳的哥哥，化名為「俞政哲」。</p></td>
@@ -354,7 +354,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/朱鎮模_(1958年).md" title="wikilink">朱鎮模</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朱鎮模_(1958年)" title="wikilink">朱鎮模</a></p></td>
 <td><center>
 <p>何在龍</p></td>
 <td></td>
@@ -370,7 +370,7 @@
 <td></td>
 <td><center>
 <p><a href="../Page/雷碧娜.md" title="wikilink">雷碧娜</a><br />
-青年:<a href="../Page/吳羨婷.md" title="wikilink">吳羨婷</a></p></td>
+青年:<a href="https://zh.wikipedia.org/wiki/吳羨婷" title="wikilink">吳羨婷</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>

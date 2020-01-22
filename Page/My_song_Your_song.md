@@ -9,7 +9,7 @@
 
 共收錄了《[想回去了啊](../Page/想回去了啊.md "wikilink")》、《[青鳥](../Page/青鳥_\(生物股長單曲\).md "wikilink")》、《[Planetarium](https://zh.wikipedia.org/wiki/Planetarium "wikilink")》、《[搖擺不定的羅曼蒂克](../Page/搖擺不定的羅曼蒂克.md "wikilink")》四首[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。主唱[吉岡聖惠](../Page/吉岡聖惠.md "wikilink")首次嘗試作詞與作曲的作品也收錄其中。
 
-得到兩個星期的[Oricon公信榜週榜冠軍](../Page/2009年Oricon專輯週榜冠軍作品列表.md "wikilink")，憑此生物股長首次獲得月榜冠軍的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，並獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")雙白金認證，是2009年日本專輯銷量第14位。
+得到兩個星期的[Oricon公信榜週榜冠軍](https://zh.wikipedia.org/wiki/2009年Oricon專輯週榜冠軍作品列表 "wikilink")，憑此生物股長首次獲得月榜冠軍的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，並獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")雙白金認證，是2009年日本專輯銷量第14位。
 
 ## 收錄曲目
 
@@ -29,7 +29,7 @@
       -
         生物股長的第10張單曲。
 4.  ****（4:45）
-      - 作詞・作曲:[山下穗尊](../Page/山下穗尊.md "wikilink") / 編曲:西川進
+      - 作詞・作曲:[山下穗尊](https://zh.wikipedia.org/wiki/山下穗尊 "wikilink") / 編曲:西川進
     <!-- end list -->
       -
         [手機小說](https://zh.wikipedia.org/wiki/手機小說 "wikilink")「愛的便利商店」歌曲。
@@ -54,7 +54,7 @@
       - 作詞・作曲:山下穗尊 / 編曲:西川進
     <!-- end list -->
       -
-        地下時期專輯中的歌曲，之後也被收錄在[生物百科圖鑑～團員精選～](../Page/生物百科圖鑑～團員精選～.md "wikilink")。
+        地下時期專輯中的歌曲，之後也被收錄在[生物百科圖鑑～團員精選～](https://zh.wikipedia.org/wiki/生物百科圖鑑～團員精選～ "wikilink")。
 10. ****（5:03）
       - 作詞・作曲:吉岡聖惠 / 編曲:渡邊善太郎
     <!-- end list -->

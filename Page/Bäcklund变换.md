@@ -11,9 +11,9 @@
 
 \(phi[2](u,x,t,u_x,u_t,w,xi,eta,w_xi,w_eta)=0\)
 
-是'''Bäcklund变换是求[非线性偏微分方程](../Page/非线性偏微分方程.md "wikilink")精确解的一种重要的变换。
+是'''Bäcklund变换是求[非线性偏微分方程精确解的一种重要的变换](https://zh.wikipedia.org/wiki/非线性偏微分方程 "wikilink")。
 
-1876年瑞典数学家[巴克隆德发现](../Page/阿尔伯特·维克多·巴克隆德.md "wikilink")[Sine-Gordon方程](../Page/Sine-Gordon方程.md "wikilink")的不同解u、v
+1876年瑞典数学家[巴克隆德发现](https://zh.wikipedia.org/wiki/阿尔伯特·维克多·巴克隆德 "wikilink")[Sine-Gordon方程](../Page/Sine-Gordon方程.md "wikilink")的不同解u、v
 
 \[u_{xt} = \sin u.\,\]
 

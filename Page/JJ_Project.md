@@ -1,16 +1,16 @@
 > 本文内容由[JJ Project](https://zh.wikipedia.org/wiki/JJ_Project)转换而来。
 
 
-**JJ Project**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")於2012年推出的雙人男子團體，成員包括[JB及](../Page/林在範.md "wikilink")[珍榮](../Page/朴珍榮.md "wikilink")（舊藝名為Jr.、Junior）。團名由[朴軫永](../Page/朴軫永.md "wikilink")命名，JJ為團員JB以及Jr.的兩個J，Project意味著兩人出道後能與粉絲一同成長\[1\]，合在一起即為團名JJ Project。2014年1月16日，JB與珍榮作為[GOT7](../Page/GOT7.md "wikilink")成員出道。
+**JJ Project**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")於2012年推出的雙人男子團體，成員包括[JB及](https://zh.wikipedia.org/wiki/林在範 "wikilink")[珍榮](../Page/朴珍榮.md "wikilink")（舊藝名為Jr.、Junior）。團名由[朴軫永](../Page/朴軫永.md "wikilink")命名，JJ為團員JB以及Jr.的兩個J，Project意味著兩人出道後能與粉絲一同成長\[1\]，合在一起即為團名JJ Project。2014年1月16日，JB與珍榮作為[GOT7成員出道](https://zh.wikipedia.org/wiki/GOT7 "wikilink")。
 
 ## 成員資料
 
-| 成員列表                            |
-| ------------------------------- |
-| 藝名                              |
-| 藝名                              |
-| [JB](../Page/林在範.md "wikilink") |
-| [珍榮](../Page/朴珍榮.md "wikilink") |
+| 成員列表                                               |
+| -------------------------------------------------- |
+| 藝名                                                 |
+| 藝名                                                 |
+| [JB](https://zh.wikipedia.org/wiki/林在範 "wikilink") |
+| [珍榮](../Page/朴珍榮.md "wikilink")                    |
 
 ## 發展歷程
 
@@ -20,13 +20,13 @@
 
 ### 2012年－2014年：以《Bounce》出道及GOT7
 
-出道單曲《[Bounce](../Page/Bounce_\(JJ_Project歌曲\).md "wikilink")》於2012年5月19日正式公開，單曲在5月20日登上[iTunes舞曲專輯榜第](https://zh.wikipedia.org/wiki/iTunes "wikilink")10名\[4\]。《Bounce》音樂錄影帶自公開以來得到許多關注，其在YouTube世界頻道影片排行榜中，獲得最受喜歡影片第4名、觀看次數最多第7名以及最多評論第10名，在韓國地區則得到4個排行榜冠軍\[5\]，此外音樂錄影帶在2天內即超過100萬次觀看\[6\]。 2012年5月24日，於[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》首次演出《Bounce》\[7\]。6月26日，重新錄製的歌曲〈Na Na Na〉並在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《MM Choice》中演出。\[8\]
+出道單曲《[Bounce](../Page/Bounce_\(JJ_Project歌曲\).md "wikilink")》於2012年5月19日正式公開，單曲在5月20日登上[iTunes舞曲專輯榜第](https://zh.wikipedia.org/wiki/iTunes "wikilink")10名\[4\]。《Bounce》音樂錄影帶自公開以來得到許多關注，其在YouTube世界頻道影片排行榜中，獲得最受喜歡影片第4名、觀看次數最多第7名以及最多評論第10名，在韓國地區則得到4個排行榜冠軍\[5\]，此外音樂錄影帶在2天內即超過100萬次觀看\[6\]。 2012年5月24日，於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》首次演出《Bounce》\[7\]。6月26日，重新錄製的歌曲〈Na Na Na〉並在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《MM Choice》中演出。\[8\]
 
-2014年1月16日，JB與珍榮作為[GOT7](../Page/GOT7.md "wikilink")成員出道。\[9\]
+2014年1月16日，JB與珍榮作為[GOT7成員出道](https://zh.wikipedia.org/wiki/GOT7 "wikilink")。\[9\]
 
 ### 2017年：回歸
 
-2017年6月26日，時隔5年多沒有回歸的JJ Project確定在2017年7月31日回歸\[10\]\[11\]\[12\]。7月15日，在[GOT7](../Page/GOT7.md "wikilink")官方網站、臉書、推特同步公開回歸日程表，並於7月21日陸續公開專輯曲目清單\[13\]。7月31日，正式攜帶迷你專輯《[Verse 2](../Page/Verse_2.md "wikilink")》回歸並於當日舉行Showcase，主打歌為〈明天，今天〉，此外也在7月31日至8月6日期間舉行攝影展。\[14\] 9月8日，《Verse2》銷量在Hanteo榜累計破十萬，Gaon榜截至8月底累計銷量116,404張，至此《Verse2》成為2017年第14張銷量破十萬的專輯，JJ Project成為2017年第12組銷量破十萬的藝人，也成為Hanteo榜成立以來第2組擁有十萬銷量的二人組\[15\]。
+2017年6月26日，時隔5年多沒有回歸的JJ Project確定在2017年7月31日回歸\[10\]\[11\]\[12\]。7月15日，在[GOT7官方網站](https://zh.wikipedia.org/wiki/GOT7 "wikilink")、臉書、推特同步公開回歸日程表，並於7月21日陸續公開專輯曲目清單\[13\]。7月31日，正式攜帶迷你專輯《[Verse 2](../Page/Verse_2.md "wikilink")》回歸並於當日舉行Showcase，主打歌為〈明天，今天〉，此外也在7月31日至8月6日期間舉行攝影展。\[14\] 9月8日，《Verse2》銷量在Hanteo榜累計破十萬，Gaon榜截至8月底累計銷量116,404張，至此《Verse2》成為2017年第14張銷量破十萬的專輯，JJ Project成為2017年第12組銷量破十萬的藝人，也成為Hanteo榜成立以來第2組擁有十萬銷量的二人組\[15\]。
 
 ## 音樂作品
 
@@ -233,11 +233,11 @@
 
 ### 廣告代言
 
-| 日期         | 廣告名稱                                         | 參與成員 |
-| ---------- | -------------------------------------------- | ---- |
-| 2012年5月25日 | 青少年專用化妝品品牌                                   | 全體   |
-| 2012年7月2日  | TBJ休閒服飾品牌                                    |      |
-| 2012年12月1日 | Reebok運動鞋（與[安昭熙](../Page/安昭熙.md "wikilink")） |      |
+| 日期         | 廣告名稱                                                            | 參與成員 |
+| ---------- | --------------------------------------------------------------- | ---- |
+| 2012年5月25日 | 青少年專用化妝品品牌                                                      | 全體   |
+| 2012年7月2日  | TBJ休閒服飾品牌                                                       |      |
+| 2012年12月1日 | Reebok運動鞋（與[安昭熙](https://zh.wikipedia.org/wiki/安昭熙 "wikilink")） |      |
 
 ## 演唱會及巡演
 
@@ -279,7 +279,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
 《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》<br />
 <ref>歌曲在Mnet《M! Countdown》成績：</p>
 <ul>

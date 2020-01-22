@@ -70,7 +70,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/李慧仁_(演員).md" title="wikilink">李慧仁</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李慧仁_(演員)" title="wikilink">李慧仁</a></p></td>
 <td><center>
 <p>白秀晶</p></td>
 <td><center>
@@ -113,7 +113,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/柳承秀.md" title="wikilink">柳承秀</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/柳承秀" title="wikilink">柳承秀</a></p></td>
 <td><center>
 <p>崔政宇</p></td>
 <td><center>
@@ -122,7 +122,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/朴孝珠.md" title="wikilink">朴孝珠</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朴孝珠" title="wikilink">朴孝珠</a></p></td>
 <td><center>
 <p>趙南淑</p></td>
 <td><center>
@@ -140,7 +140,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/崔俊用.md" title="wikilink">崔俊用</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/崔俊用" title="wikilink">崔俊用</a></p></td>
 <td><center>
 <p>尹昌民</p></td>
 <td><center>
@@ -262,7 +262,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/全國煥.md" title="wikilink">全國煥</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/全國煥" title="wikilink">全國煥</a></p></td>
 <td><center>
 <p>張炳浩</p></td>
 <td><center>
@@ -289,7 +289,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/李龍宇.md" title="wikilink">李龍宇</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李龍宇" title="wikilink">李龍宇</a></p></td>
 <td><center>
 <p>PK俊</p></td>
 <td><center>
@@ -309,7 +309,7 @@
 
 ## 獲獎
 
-  - 2012年[第5屆韓國電視劇節](../Page/韓國電視劇節.md "wikilink")
+  - 2012年[第5屆韓國電視劇節](https://zh.wikipedia.org/wiki/韓國電視劇節 "wikilink")
       - 最佳男演員：[金相中](../Page/金相中.md "wikilink")
 
 <!-- end list -->
@@ -331,7 +331,7 @@
       - 迷你系列劇部門 女子優秀演技獎：[金成鈴](../Page/金成鈴.md "wikilink")
       - 迷你系列劇部門 女子特別演技獎：[張新英](https://zh.wikipedia.org/wiki/張新英 "wikilink")
       - 10大明星奬：孫賢周
-      - New Star奬：[朴孝珠](../Page/朴孝珠.md "wikilink")、[高濬熙](https://zh.wikipedia.org/wiki/高濬熙 "wikilink")
+      - New Star奬：[朴孝珠](https://zh.wikipedia.org/wiki/朴孝珠 "wikilink")、[高濬熙](https://zh.wikipedia.org/wiki/高濬熙 "wikilink")
 
 <!-- end list -->
 

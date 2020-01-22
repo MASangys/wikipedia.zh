@@ -24,7 +24,7 @@
   - 9/4 發佈要延遲出道至9月中旬
   - 9/12 公開出道歌曲《이별파티Farewell Party》的預告一和成員的個人資料
   - 9/17 公開各成員面貌的新聞圖片
-  - 9/19 公開出道歌曲預告二, 並透露由[ZE:A](../Page/ZE:A.md "wikilink")的[桐俊做MV的男主角](https://zh.wikipedia.org/wiki/桐俊 "wikilink")
+  - 9/19 公開出道歌曲預告二, 並透露由[ZE:A的](https://zh.wikipedia.org/wiki/ZE:A "wikilink")[桐俊做MV的男主角](https://zh.wikipedia.org/wiki/桐俊 "wikilink")
   - 9/21 於[KBS音樂銀行中初次登場和表演主打曲](https://zh.wikipedia.org/wiki/KBS "wikilink")"Farewell Party"(Break-up-party)\[4\]
   - 9/22 於[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") MUSIC CORE中登場，表演"Farewell Party"\[5\]
   - 9/28 正式出道，並發行出道單張和於[KBS音樂銀行中表演](https://zh.wikipedia.org/wiki/KBS "wikilink")

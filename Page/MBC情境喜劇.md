@@ -28,7 +28,7 @@
   - 《[泰熙慧喬智賢](../Page/泰熙慧喬智賢.md "wikilink")》（）: 2009年3月2日 \~ 2009年9月4日
   - 《[穿透屋頂的High Kick](https://zh.wikipedia.org/wiki/穿透屋頂的High_Kick "wikilink")》（）: 2009年9月7日 \~ 2010年3月19日
   - 《[越看越可愛](../Page/越看越可愛.md "wikilink")》（）: 2010年3月22日 \~ 2010年11月2日
-  - 《[金枝玉葉向錢衝](../Page/金枝玉葉向錢衝.md "wikilink")》（）: 2010年11月8日 \~ 2011年9月16日
+  - 《[金枝玉葉向錢衝](https://zh.wikipedia.org/wiki/金枝玉葉向錢衝 "wikilink")》（）: 2010年11月8日 \~ 2011年9月16日
   - 《[Highkick3短腿的反擊](https://zh.wikipedia.org/wiki/Highkick3短腿的反擊 "wikilink")》（）: 2011年9月19日 \~ 2012年3月29日
   - 《[Stand-By](https://zh.wikipedia.org/wiki/Stand-By "wikilink")》（）: 2012年4月9日 \~ 2012年10月5日
   - 《[媽媽是什麼](../Page/媽媽是什麼.md "wikilink")》（）: 2012年10月8日 \~ 2012年11月2日（移至月火晚間播出，結局後，MBC便廢除情境喜劇的製作，目前為MBC最後一部情境喜劇）

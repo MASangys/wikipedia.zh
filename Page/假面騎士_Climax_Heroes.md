@@ -33,7 +33,7 @@
 <!-- end list -->
 
   - 假面騎士 Climax Heroes Fourze/
-    2011年12月1日發售。機種為Wii・PSP兩種類。主角騎士是[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")。以下簡稱為『**Fourze**』。
+    2011年12月1日發售。機種為Wii・PSP兩種類。主角騎士是[假面騎士Fourze](https://zh.wikipedia.org/wiki/假面騎士Fourze "wikilink")。以下簡稱為『**Fourze**』。
 
 <!-- end list -->
 

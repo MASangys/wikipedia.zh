@@ -5,7 +5,7 @@
 
 成員全員現居住在大分縣内・高中生，進行原創歌曲公演。
 
-2007年在学生向的[免費報紙](../Page/免費報紙.md "wikilink")『[CHIME](https://zh.wikipedia.org/wiki/CHIME_\(雜誌\) "wikilink")』組成的[専屬模特兒](https://zh.wikipedia.org/wiki/専屬模特兒 "wikilink")。
+2007年在学生向的[免費報紙](https://zh.wikipedia.org/wiki/免費報紙 "wikilink")『[CHIME](https://zh.wikipedia.org/wiki/CHIME_\(雜誌\) "wikilink")』組成的[専屬模特兒](https://zh.wikipedia.org/wiki/専屬模特兒 "wikilink")。
 
 ## 活動
 

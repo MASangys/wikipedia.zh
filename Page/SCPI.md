@@ -9,7 +9,7 @@ SCPI于1990与[IEEE 488.2协议一起面世](https://zh.wikipedia.org/wiki/IEEE_
 
 需要注意的是，SCPI并未定义物理层的传输信道的实现方法。虽然上文指出它最开始是和IEEE 488.2(即GPIB)面世的，但SCPI控制命令也可用于串口([RS-232](https://zh.wikipedia.org/wiki/RS-232 "wikilink"))，以太网，[USB](../Page/USB.md "wikilink")接口，[VXIbus等若干硬件总线](https://zh.wikipedia.org/wiki/VXIbus "wikilink")。
 
-SCPI命令是[ASCII](../Page/ASCII.md "wikilink")字符串，通过物理传输层传入仪器。命令由一连串的关键字构成，有的还需要包括参数。在协议中，命令规定为如下形式：`CONFigure`。在使用中，即可以写全名，也可以仅写仅包含大写字母的缩写。通常仪器对于查询命令的反馈也为ASCII代码。在传输大量数据时，二进制数据也是可以使用的。
+SCPI命令是[ASCII字符串](https://zh.wikipedia.org/wiki/ASCII "wikilink")，通过物理传输层传入仪器。命令由一连串的关键字构成，有的还需要包括参数。在协议中，命令规定为如下形式：`CONFigure`。在使用中，即可以写全名，也可以仅写仅包含大写字母的缩写。通常仪器对于查询命令的反馈也为ASCII代码。在传输大量数据时，二进制数据也是可以使用的。
 
 ## 语法
 
@@ -33,7 +33,7 @@ SCPI命令大致分为两种功能，
 
 ## 历史
 
-首次发布于1990年\[1\]，SCPI的起源是[IEEE-488](../Page/IEEE-488.md "wikilink")的另外一个层。 IEEE-488.1指定了物理和电气总线，IEEE488.2指定了协议和数据格式，但是都没有指定仪器的指令。不同的制造商，甚至不同的型号、相同类型的仪器都需要使用不同的命令集。 SCPI创建了一个标准，可以在所有的制造商和所有型号中通用。它需要使用的IEEE488.2数据格式，但不必非得是-488.1总线\[2\] 在2002-2003年，SCPI协会投票成为[IVI基金会的一部分](https://zh.wikipedia.org/wiki/IVI基金会 "wikilink")（可互换虚拟仪器）\[3\].
+首次发布于1990年\[1\]，SCPI的起源是[IEEE-488的另外一个层](https://zh.wikipedia.org/wiki/IEEE-488 "wikilink")。 IEEE-488.1指定了物理和电气总线，IEEE488.2指定了协议和数据格式，但是都没有指定仪器的指令。不同的制造商，甚至不同的型号、相同类型的仪器都需要使用不同的命令集。 SCPI创建了一个标准，可以在所有的制造商和所有型号中通用。它需要使用的IEEE488.2数据格式，但不必非得是-488.1总线\[2\] 在2002-2003年，SCPI协会投票成为[IVI基金会的一部分](https://zh.wikipedia.org/wiki/IVI基金会 "wikilink")（可互换虚拟仪器）\[3\].
 
 ## 参见
 

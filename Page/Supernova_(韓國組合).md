@@ -1,7 +1,7 @@
 > 本文内容由[Supernova \(韓國組合\)](https://zh.wikipedia.org/wiki/Supernova_\(韓國組合\))转换而来。
 
 
-**SUPERNOVA**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CJ E\&M在](../Page/CJ_E&M.md "wikilink")2007年推出的六人[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，原團名為**超新星**（）。由允鶴、成帝、光秀、晟慔、智赫、健一所組成，於2007年9月31日在[音樂銀行出道](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。經紀公司花費三年時間訓練歌唱及舞蹈，2007年9月於韓國出道，擁有模特兒身材的超新星，團員平均身高180公分以上，2009年加入日本環球音樂，九月正式於日本出道。
+**SUPERNOVA**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CJ E\&M在](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")2007年推出的六人[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，原團名為**超新星**（）。由允鶴、成帝、光秀、晟慔、智赫、健一所組成，於2007年9月31日在[音樂銀行出道](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。經紀公司花費三年時間訓練歌唱及舞蹈，2007年9月於韓國出道，擁有模特兒身材的超新星，團員平均身高180公分以上，2009年加入日本環球音樂，九月正式於日本出道。
 
 2018年6月6日，日本官方TWITTER帳號突然宣佈日本會員將暫停營運以及入會，隔兩天日本媒體批露允鶴、成帝、光秀、智赫、健一合約到期，未與Maroo娛樂續約，只剩成員晟慔的合約尚未結束留在Maroo；其中五人於2018年7月13日公布成立經紀公司SV Entertainment。也傳出Maroo娛樂提出註冊超新星這個名字。
 
@@ -149,14 +149,14 @@ Rapper</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>2014年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/來了！張寶利.md" title="wikilink">來了！張寶利</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/來了！張寶利" title="wikilink">來了！張寶利</a></p></td>
 <td style="text-align: center;"><p>健一</p></td>
 <td style="text-align: center;"><p>姜有川</p></td>
 <td style="text-align: center;"><p>男配角</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2015年</p></td>
-<td style="text-align: center;"><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Drama</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Drama</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/我的遺憾男友.md" title="wikilink">我的遺憾男友</a></p></td>
 <td style="text-align: center;"><p>允鶴</p></td>
 <td style="text-align: center;"><p>姜熙哲</p></td>

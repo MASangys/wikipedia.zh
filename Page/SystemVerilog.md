@@ -3,7 +3,7 @@
 
 在现代的[集成电路](../Page/集成电路.md "wikilink")（尤其是[超大规模集成电路](../Page/超大规模集成电路.md "wikilink")）的[设计和验证流程中](../Page/集成电路设计.md "wikilink")，**SystemVerilog**是一种由[Verilog](../Page/Verilog.md "wikilink")发展而来的[硬件描述](../Page/硬件描述语言.md "wikilink")、[硬件验证统一语言](https://zh.wikipedia.org/wiki/硬件验证语言 "wikilink")，前一部分基本上是2005年版[Verilog](../Page/Verilog.md "wikilink")的扩展，而后一部分[功能验证](../Page/功能验证.md "wikilink")特性则是一门[面向对象程序设计](../Page/面向对象程序设计.md "wikilink")语言。面向对象特性很好地弥补了传统Verilog在芯片验证领域的缺陷，改善了代码可重用性，同时可以让验证工程师在比[寄存器传输级](../Page/寄存器传输级.md "wikilink")更高的抽象级别，以[事务而非单个信号作为监测对象](../Page/事务级建模方法.md "wikilink")，这些都大大提高了验证平台搭建的效率。
 
-SystemVerilog已经被采纳为[电气电子工程师学会](../Page/电气电子工程师学会.md "wikilink")1800-2009标准，并获得了主流[电子设计自动化工具供应商的支持](https://zh.wikipedia.org/wiki/电子设计自动化 "wikilink")。虽然没有哪一个仿真系统能够声称自己完全支持SystemVerilog语言参考手册（Language Reference Manual, LRM）里介绍的所有语言结构，要改善测试平台的互操作性相当困难，但是推进跨平台兼容性的研究开发工作已经在进行。若干种验证方法学相继出现，以预定义类的形式对测试平台模块进行标准化，如今最新的基于SystemVerilog的验证方法学为[通用验证方法学](../Page/通用验证方法学.md "wikilink")。这一方法学主要包括[开放源代码](../Page/开放源代码.md "wikilink")的[类库以及支持](https://zh.wikipedia.org/wiki/类库 "wikilink")[可重用测试平台](https://zh.wikipedia.org/wiki/集成电路设计#可重用设计方法学 "wikilink")、开发验证[IP核的预置格式](https://zh.wikipedia.org/wiki/IP核 "wikilink")。许多第三方提供商则开始推出基于SystemVerilog的验证[IP核](https://zh.wikipedia.org/wiki/IP核 "wikilink")。
+SystemVerilog已经被采纳为[电气电子工程师学会](../Page/电气电子工程师学会.md "wikilink")1800-2009标准，并获得了主流[电子设计自动化工具供应商的支持](https://zh.wikipedia.org/wiki/电子设计自动化 "wikilink")。虽然没有哪一个仿真系统能够声称自己完全支持SystemVerilog语言参考手册（Language Reference Manual, LRM）里介绍的所有语言结构，要改善测试平台的互操作性相当困难，但是推进跨平台兼容性的研究开发工作已经在进行。若干种验证方法学相继出现，以预定义类的形式对测试平台模块进行标准化，如今最新的基于SystemVerilog的验证方法学为[通用验证方法学](https://zh.wikipedia.org/wiki/通用验证方法学 "wikilink")。这一方法学主要包括[开放源代码](../Page/开放源代码.md "wikilink")的[类库以及支持](https://zh.wikipedia.org/wiki/类库 "wikilink")[可重用测试平台](https://zh.wikipedia.org/wiki/集成电路设计#可重用设计方法学 "wikilink")、开发验证[IP核的预置格式](https://zh.wikipedia.org/wiki/IP核 "wikilink")。许多第三方提供商则开始推出基于SystemVerilog的验证[IP核](https://zh.wikipedia.org/wiki/IP核 "wikilink")。
 
 ## 发展历史
 
@@ -60,7 +60,7 @@ initial $display("The color is %s", my_color.name());
 
 #### 结构体和联合体
 
-这两种数据类型和[C语言中的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[结构体和](../Page/结构体_\(C语言\).md "wikilink")[联合体类似](https://zh.wikipedia.org/wiki/联合体 "wikilink")。在SystemVerilog中，与这两种数据类型相关的增强特性为压缩属性（`packed`）和标签属性（`tagged`）。压缩属性使得mapped 1:1 onto a packed array of bits，而标签属性允许跟踪当前联合体中实际被使用的成员。这些结构占据了连续的存储空间。
+这两种数据类型和[C语言中的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[结构体和](https://zh.wikipedia.org/wiki/结构体_\(C语言\) "wikilink")[联合体类似](https://zh.wikipedia.org/wiki/联合体 "wikilink")。在SystemVerilog中，与这两种数据类型相关的增强特性为压缩属性（`packed`）和标签属性（`tagged`）。压缩属性使得mapped 1:1 onto a packed array of bits，而标签属性允许跟踪当前联合体中实际被使用的成员。这些结构占据了连续的存储空间。
 
 ``` verilog
 typedef struct packed {
@@ -173,7 +173,7 @@ end
 
 SystemVerilog为验证代码的编写提供了[面向对象程序设计](../Page/面向对象程序设计.md "wikilink")的模型。
 
-SystemVerilog支持类的单一继承，即不允许一个类继承多个基本类。需要注意的是, 虽然SystemVerilog里提供了与[Java](../Page/Java.md "wikilink")中名称相同的“接口”概念，但是二者的实际含义际ha却大有不同，后者的接口能够提供类似多继承的功能。SystemVerilog的类可以自带配置参数，这种类被称为参数化的类，其功能与C++的模板类似，不过SystemVerilog不支持模板特化和函数模板。SystemVerilog的[多态性和C](https://zh.wikipedia.org/wiki/多态性 "wikilink")++类似，在子类中被覆盖的同名方法在基本类中必须使用关键字`virtual`予以标识。SystemVerilog里也有诸如`local`、`protected`等关键字来管理数据、方法成员的可见性。默认情况下，所有方法、数据都是对外公有的。类的示例由构造函数`new`来创建，而析构函数则无需验证人员手动创建。如果某个对象没有被任何句柄指向，系统会自动销毁它。SystemVerilog的类是构建诸如[通用验证方法学](../Page/通用验证方法学.md "wikilink")[类库结构的基础](https://zh.wikipedia.org/wiki/类库 "wikilink")。
+SystemVerilog支持类的单一继承，即不允许一个类继承多个基本类。需要注意的是, 虽然SystemVerilog里提供了与[Java](../Page/Java.md "wikilink")中名称相同的“接口”概念，但是二者的实际含义际ha却大有不同，后者的接口能够提供类似多继承的功能。SystemVerilog的类可以自带配置参数，这种类被称为参数化的类，其功能与C++的模板类似，不过SystemVerilog不支持模板特化和函数模板。SystemVerilog的[多态性和C](https://zh.wikipedia.org/wiki/多态性 "wikilink")++类似，在子类中被覆盖的同名方法在基本类中必须使用关键字`virtual`予以标识。SystemVerilog里也有诸如`local`、`protected`等关键字来管理数据、方法成员的可见性。默认情况下，所有方法、数据都是对外公有的。类的示例由构造函数`new`来创建，而析构函数则无需验证人员手动创建。如果某个对象没有被任何句柄指向，系统会自动销毁它。SystemVerilog的类是构建诸如[通用验证方法学](https://zh.wikipedia.org/wiki/通用验证方法学 "wikilink")[类库结构的基础](https://zh.wikipedia.org/wiki/类库 "wikilink")。
 
 ``` systemverilog
 virtual class Memory;
@@ -221,7 +221,7 @@ endclass
 
 #### 随机化方法
 
-每一个SystemVerilog类都有隐含的三个与[随机化有关的方法](https://zh.wikipedia.org/wiki/随机化 "wikilink")，它们是`pre_randomize`、`randomize`和`post_randomize`。其中，`randomize`方法为整个随机化过程中最重要的方法，验证人员可以在过程代码中使用该方法来启动变量的随机化过程。注意该方法的主体是事务对象本身（在[通用验证方法学](../Page/通用验证方法学.md "wikilink")中，事务一般是一个具有`uvm_sequence_item`类型或从它继承而来的类型），因此需要用`object.randomize()`来调用该方法，每执行一次该方法，该对象所有的随机变量将会得到满足约束条件（如果有）的随机数值。如果随机化失败，例如没能找到满足工程师定义约束的数值，则该方法将返回0表示随机化存在问题。另外两个方法`pre_randomize`和`post_randomize`则可以被用来处理随机化主过程之前、之后其他需要的事情。
+每一个SystemVerilog类都有隐含的三个与[随机化有关的方法](https://zh.wikipedia.org/wiki/随机化 "wikilink")，它们是`pre_randomize`、`randomize`和`post_randomize`。其中，`randomize`方法为整个随机化过程中最重要的方法，验证人员可以在过程代码中使用该方法来启动变量的随机化过程。注意该方法的主体是事务对象本身（在[通用验证方法学中](https://zh.wikipedia.org/wiki/通用验证方法学 "wikilink")，事务一般是一个具有`uvm_sequence_item`类型或从它继承而来的类型），因此需要用`object.randomize()`来调用该方法，每执行一次该方法，该对象所有的随机变量将会得到满足约束条件（如果有）的随机数值。如果随机化失败，例如没能找到满足工程师定义约束的数值，则该方法将返回0表示随机化存在问题。另外两个方法`pre_randomize`和`post_randomize`则可以被用来处理随机化主过程之前、之后其他需要的事情。
 
 #### 控制约束条件
 

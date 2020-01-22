@@ -1,13 +1,13 @@
 > 本文内容由[Razor-qt](https://zh.wikipedia.org/wiki/Razor-qt)转换而来。
 
 
-**Razor-qt**是一款在[X Window系統底下的輕量級的](../Page/X_Window系統.md "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")，Razor-qt和[KDE](../Page/KDE.md "wikilink")一樣使用[Qt](../Page/Qt.md "wikilink")及[C++](../Page/C++.md "wikilink")攥寫，但不同之處在於Razor-qt在老舊及低階電腦下仍挪有相當的流暢度且其所需的資源相較於KDE少上許多。**Razor-qt**為[Qt Desktop的成員之一](https://zh.wikipedia.org/wiki/Qt_Desktop "wikilink")，其原始碼是基於[Antico](https://zh.wikipedia.org/wiki/Antico "wikilink")[桌面環境改寫的](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。
+**Razor-qt**是一款在[X Window系統底下的輕量級的](https://zh.wikipedia.org/wiki/X_Window系統 "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")，Razor-qt和[KDE](../Page/KDE.md "wikilink")一樣使用[Qt](../Page/Qt.md "wikilink")及[C++](../Page/C++.md "wikilink")攥寫，但不同之處在於Razor-qt在老舊及低階電腦下仍挪有相當的流暢度且其所需的資源相較於KDE少上許多。**Razor-qt**為[Qt Desktop的成員之一](https://zh.wikipedia.org/wiki/Qt_Desktop "wikilink")，其原始碼是基於[Antico](https://zh.wikipedia.org/wiki/Antico "wikilink")[桌面環境改寫的](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。
 
 ## 特色
 
 儘管是剛起步的計畫，挪有的夠多的基本功能。經過開發者的努力，這款桌面環境現況如下：
 
-  - 整個Razor-qt包含面板（Panel）、會話（Session）、桌面（Desktop）、設定中心（Settings Center）、電源管理（Power Management）、程式切換（Appliation Switcher）、快速執行（Runner）、[LightDM](../Page/LightDM.md "wikilink")的登入界面（LightDM Greeter）以及OSD通知攔（Notification）
+  - 整個Razor-qt包含面板（Panel）、會話（Session）、桌面（Desktop）、設定中心（Settings Center）、電源管理（Power Management）、程式切換（Appliation Switcher）、快速執行（Runner）、[LightDM的登入界面](https://zh.wikipedia.org/wiki/LightDM "wikilink")（LightDM Greeter）以及OSD通知攔（Notification）
   - 支援桌面小工具（時鐘、筆記、檔案管理及範例程式）
   - 支援主題（包含Razor-qt的[API以及Qt原生的主題](https://zh.wikipedia.org/wiki/API "wikilink")）
   - 會話支援[XDG自動啟動及](../Page/Freedesktop.org.md "wikilink")[XDG選單](../Page/Freedesktop.org.md "wikilink")

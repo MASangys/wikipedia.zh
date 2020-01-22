@@ -28,7 +28,7 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 6月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高橋みなみ" title="wikilink">高橋みなみ</a></p></td>
 <td><p>13</p></td>
-<td><p>在1小時內記住<a href="../Page/JKT48.md" title="wikilink">JKT48</a> 24名成員的全名挑戰!</p></td>
+<td><p>在1小時內記住<a href="https://zh.wikipedia.org/wiki/JKT48" title="wikilink">JKT48</a> 24名成員的全名挑戰!</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲</a></p></td>
@@ -194,7 +194,7 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>9月21日</p></td>
-<td><p><a href="../Page/鈴木紫帆里.md" title="wikilink">鈴木紫帆里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鈴木紫帆里" title="wikilink">鈴木紫帆里</a></p></td>
 <td><p>40</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/心算" title="wikilink">心算</a>!連續15題正解</p></td>
 </tr>
@@ -222,12 +222,12 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>10月5日</p></td>
-<td><p><a href="../Page/高橋朱里.md" title="wikilink">高橋朱里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋朱里" title="wikilink">高橋朱里</a></p></td>
 <td><p>12</p></td>
 <td><p>去尋宝找到“宝藏”吧</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/市川美織.md" title="wikilink">市川美織</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/市川美織" title="wikilink">市川美織</a></p></td>
 <td><p>30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/學生" title="wikilink">幼稚園兒童</a>21人的全名在2小時以内記住!</p></td>
 <td></td>
@@ -236,7 +236,7 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>10月12日</p></td>
-<td><p><a href="../Page/川榮李奈.md" title="wikilink">川榮李奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川榮李奈" title="wikilink">川榮李奈</a></p></td>
 <td><p>7</p></td>
 <td><p>記住AKB48的前輩全員的生日!</p></td>
 </tr>
@@ -255,7 +255,7 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 <td><p>讓<a href="https://zh.wikipedia.org/wiki/紙飛機" title="wikilink">紙飛機着陸在距離</a>20米外的<a href="../Page/跑道.md" title="wikilink">跑道</a>上!</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/入山杏奈.md" title="wikilink">入山杏奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/入山杏奈" title="wikilink">入山杏奈</a></p></td>
 <td><p>47</p></td>
 <td><p><a href="../Page/稻草富翁.md" title="wikilink">稻草富翁</a>!通過<a href="https://zh.wikipedia.org/wiki/以物易物" title="wikilink">以物易物獲取</a>48000圓以上的物品!</p></td>
 <td></td>
@@ -264,12 +264,12 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 <tr class="odd">
 <td><p>18</p></td>
 <td><p>10月26日</p></td>
-<td><p><a href="../Page/大場美奈.md" title="wikilink">大場美奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大場美奈" title="wikilink">大場美奈</a></p></td>
 <td><p>5</p></td>
 <td><p>48cm的巨大<a href="https://zh.wikipedia.org/wiki/御好燒" title="wikilink">御好燒</a>!不會崩壞的逆襲!</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中村麻里子.md" title="wikilink">中村麻里子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中村麻里子" title="wikilink">中村麻里子</a></p></td>
 <td><p>36</p></td>
 <td><p>"通過<a href="https://zh.wikipedia.org/wiki/路上默劇" title="wikilink">路上默劇</a>"賺4800圓!</p></td>
 <td></td>
@@ -334,7 +334,7 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>11月30日</p></td>
-<td><p><a href="../Page/島田晴香.md" title="wikilink">島田晴香</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/島田晴香" title="wikilink">島田晴香</a></p></td>
 <td><p>45</p></td>
 <td><p>學會職業摔跤48技並同職業摔跤手過招!</p></td>
 </tr>
@@ -367,7 +367,7 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 <td><p>90分以内獲得AKB48成員過半数的鬼臉<a href="https://zh.wikipedia.org/wiki/電子郵件#概要" title="wikilink">郵件</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/岩田華怜.md" title="wikilink">岩田華怜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩田華怜" title="wikilink">岩田華怜</a></p></td>
 <td><p>18</p></td>
 <td><p>在10小時内騎<a href="../Page/自行車.md" title="wikilink">自行車</a>轉完<a href="https://zh.wikipedia.org/wiki/東京都区部" title="wikilink">東京23区的</a>4丁目8番地</p></td>
 <td></td>
@@ -440,7 +440,7 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 <tr class="even">
 <td><p>名取稚菜</p></td>
 <td><p>7</p></td>
-<td><p>用<a href="https://zh.wikipedia.org/wiki/斯瓦希里語" title="wikilink">外語來唱</a><a href="../Page/飛翔入手.md" title="wikilink">飛翔入手</a>!</p></td>
+<td><p>用<a href="https://zh.wikipedia.org/wiki/斯瓦希里語" title="wikilink">外語來唱</a><a href="https://zh.wikipedia.org/wiki/飛翔入手" title="wikilink">飛翔入手</a>!</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -556,5 +556,5 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
 3.  小森在AKB48第27張單曲選拔總選舉的排名（64位）。
 4.  挑戰時的峯岸以外的正規成員有68人。
 5.  佐藤亞在AKB48第27張單曲選拔總選舉的排名（21位）。
-6.  [AKB48劇場](../Page/AKB48劇場.md "wikilink")與[東京巨蛋](../Page/東京巨蛋.md "wikilink")的直線距離1830m。
+6.  [AKB48劇場與](https://zh.wikipedia.org/wiki/AKB48劇場 "wikilink")[東京巨蛋](../Page/東京巨蛋.md "wikilink")的直線距離1830m。
 7.  これまでのチャレンジの中から赤ジャケットディレクターが選ぶアワード形式の総集編。

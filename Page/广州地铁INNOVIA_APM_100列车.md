@@ -1,7 +1,7 @@
 > 本文内容由[广州地铁INNOVIA APM 100列车](https://zh.wikipedia.org/wiki/广州地铁INNOVIA_APM_100列车)转换而来。
 
 
-**广州地铁INNOVIA APM 100列车**是[广州地铁](../Page/广州地铁.md "wikilink")的电动列车车款之一，目前在[珠江新城旅客自动输送系统](../Page/珠江新城旅客自动输送系统.md "wikilink")营运。
+**广州地铁INNOVIA APM 100列车**是[广州地铁的电动列车车款之一](https://zh.wikipedia.org/wiki/广州地铁 "wikilink")，目前在[珠江新城旅客自动输送系统](../Page/珠江新城旅客自动输送系统.md "wikilink")营运。
 
 ## 简介
 

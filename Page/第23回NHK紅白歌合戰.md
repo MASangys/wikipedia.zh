@@ -83,7 +83,7 @@
 (國語版：就這樣甜蜜活到底)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/小柳留美子.md" title="wikilink">小柳留美子</a>(2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小柳留美子" title="wikilink">小柳留美子</a>(2)</p></td>
 <td><p><a href="../Page/瀨戶的新娘.md" title="wikilink">瀨戶的新娘</a></p></td>
 </tr>
 <tr class="even">
@@ -91,7 +91,7 @@
 <td><p>ハチのムサシは死んだのさ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/島倉千代子.md" title="wikilink">島倉千代子</a>(16)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/島倉千代子" title="wikilink">島倉千代子</a>(16)</p></td>
 <td><p>すみだ川</p></td>
 </tr>
 <tr class="even">
@@ -103,7 +103,7 @@
 <td><p>喝采</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/青江三奈.md" title="wikilink">青江三奈</a>(6)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青江三奈" title="wikilink">青江三奈</a>(6)</p></td>
 <td><p>日本列島・みなと町</p></td>
 </tr>
 <tr class="odd">

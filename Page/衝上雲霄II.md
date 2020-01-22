@@ -1,17 +1,17 @@
 > 本文内容由[衝上雲霄II](https://zh.wikipedia.org/wiki/衝上雲霄II)转换而来。
 
 
-《**衝上雲霄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")及[吳卓羲](../Page/吳卓羲.md "wikilink")\[1\]領銜主演，並由[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")\[2\]、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[江美儀](../Page/江美儀.md "wikilink")及[羅仲謙](../Page/羅仲謙.md "wikilink")聯合主演，監製[歐冠英及](https://zh.wikipedia.org/wiki/歐冠英 "wikilink")[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。
+《**衝上雲霄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](https://zh.wikipedia.org/wiki/張智霖 "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")及[吳卓羲](../Page/吳卓羲.md "wikilink")\[1\]領銜主演，並由[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")\[2\]、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[江美儀](../Page/江美儀.md "wikilink")及[羅仲謙](../Page/羅仲謙.md "wikilink")聯合主演，監製[歐冠英及](https://zh.wikipedia.org/wiki/歐冠英 "wikilink")[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。
 
 此劇是《[衝上雲霄系列](../Page/衝上雲霄系列.md "wikilink")》第二輯，[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")劇集，亦為第17屆香港國際影視展中無綫電視推介的17部劇集之一，以及「[TVB Amazing Summer](../Page/TVB_Amazing_Summer.md "wikilink") 2013」暑期宣傳活動的推介劇集，由[香港航空](../Page/香港航空.md "wikilink")贊助、[香港機場管理局](../Page/香港機場管理局.md "wikilink")協助拍攝。
 
-此劇播出後收視一直高企，以36點平均綜合收視點榮登[2010年代無綫電視劇集平均綜合收視點最高劇集](../Page/無綫電視劇集收視列表_\(2010年代\).md "wikilink")，電視收視所錄得的41點最高收視為大結局中[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")與[陳法拉](../Page/陳法拉.md "wikilink")的「航機意外」，為無綫於2013年唯一一部突破40點收視劇集，亦是該年全年錄得最高收視的電視節目。
+此劇播出後收視一直高企，以36點平均綜合收視點榮登[2010年代無綫電視劇集平均綜合收視點最高劇集](../Page/無綫電視劇集收視列表_\(2010年代\).md "wikilink")，電視收視所錄得的41點最高收視為大結局中[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖與](https://zh.wikipedia.org/wiki/張智霖 "wikilink")[陳法拉](../Page/陳法拉.md "wikilink")的「航機意外」，為無綫於2013年唯一一部突破40點收視劇集，亦是該年全年錄得最高收視的電視節目。
 
-此劇在[TVB 馬來西亞星光薈萃頒獎典禮2013及](../Page/TVB_馬來西亞星光薈萃頒獎典禮2013.md "wikilink")[萬千星輝頒獎典禮2013](../Page/萬千星輝頒獎典禮2013.md "wikilink")成為大贏家，分別獲得11及4個獎項，包括囊括兩個頒獎典禮的「（最佳／最喜愛TVB電視）劇集」獎，而劇中的三位主角[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")及[陳法拉](../Page/陳法拉.md "wikilink")亦全部打入兩個頒獎的「（最佳／最喜愛TVB）男／女主角」最後五強。
+此劇在[TVB 馬來西亞星光薈萃頒獎典禮2013及](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2013 "wikilink")[萬千星輝頒獎典禮2013成為大贏家](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2013 "wikilink")，分別獲得11及4個獎項，包括囊括兩個頒獎典禮的「（最佳／最喜愛TVB電視）劇集」獎，而劇中的三位主角[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖及](https://zh.wikipedia.org/wiki/張智霖 "wikilink")[陳法拉](../Page/陳法拉.md "wikilink")亦全部打入兩個頒獎的「（最佳／最喜愛TVB）男／女主角」最後五強。
 
 ## 劇情簡介
 
-晉升高級副機長的唐亦風（[吳卓羲](../Page/吳卓羲.md "wikilink")飾）離開飛揚航空後，加入天頌航空（Skylette），他非常崇拜公司的明星機長顧夏陽（[張智霖](../Page/張智霖.md "wikilink")飾），並漸漸與酷似其大嫂蘇怡、夏陽的妹妹顧夏晨（[胡杏兒](../Page/胡杏兒.md "wikilink")飾）發生情愫。機長唐亦琛（[吳鎮宇](../Page/吳鎮宇.md "wikilink")飾）因蘇怡（[胡杏兒](../Page/胡杏兒.md "wikilink")分飾）之死在英國倫敦渡過悠長假期，直至他遇到破壞他蛋糕的瘋癲何年希（[陳法拉](../Page/陳法拉.md "wikilink")飾），令他提早結束假期回港並加入天頌航空再次飛翔，與夏陽亦敵亦友。兩人性格南轅北轍，亦琛內斂，夏陽張揚，加上亦琛擔任訓練機長考核夏陽，他們在事業和愛情上都有一番較量。高級副機長高志宏（[馬國明飾](https://zh.wikipedia.org/wiki/馬國明 "wikilink")）有兩個女朋友，難以取捨又不忍傷害。他與高級機艙事務長方芮嘉（[江美儀](../Page/江美儀.md "wikilink")飾）分享祕密成為知己，最後竟發生一夜情。本是港隊游泳選手的詹子麟（[羅仲謙](../Page/羅仲謙.md "wikilink")飾），為退役籌謀投考機師，卻愛上代友懷孕的機艙事務長凌卓芝（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）……隨著飛機起落升降，繪成一段段傷感、離別、喜悅與重逢的故事。
+晉升高級副機長的唐亦風（[吳卓羲](../Page/吳卓羲.md "wikilink")飾）離開飛揚航空後，加入天頌航空（Skylette），他非常崇拜公司的明星機長顧夏陽（[張智霖飾](https://zh.wikipedia.org/wiki/張智霖 "wikilink")），並漸漸與酷似其大嫂蘇怡、夏陽的妹妹顧夏晨（[胡杏兒](../Page/胡杏兒.md "wikilink")飾）發生情愫。機長唐亦琛（[吳鎮宇](../Page/吳鎮宇.md "wikilink")飾）因蘇怡（[胡杏兒](../Page/胡杏兒.md "wikilink")分飾）之死在英國倫敦渡過悠長假期，直至他遇到破壞他蛋糕的瘋癲何年希（[陳法拉](../Page/陳法拉.md "wikilink")飾），令他提早結束假期回港並加入天頌航空再次飛翔，與夏陽亦敵亦友。兩人性格南轅北轍，亦琛內斂，夏陽張揚，加上亦琛擔任訓練機長考核夏陽，他們在事業和愛情上都有一番較量。高級副機長高志宏（[馬國明飾](https://zh.wikipedia.org/wiki/馬國明 "wikilink")）有兩個女朋友，難以取捨又不忍傷害。他與高級機艙事務長方芮嘉（[江美儀](../Page/江美儀.md "wikilink")飾）分享祕密成為知己，最後竟發生一夜情。本是港隊游泳選手的詹子麟（[羅仲謙](../Page/羅仲謙.md "wikilink")飾），為退役籌謀投考機師，卻愛上代友懷孕的機艙事務長凌卓芝（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）……隨著飛機起落升降，繪成一段段傷感、離別、喜悅與重逢的故事。
 
 ## 演員表
 
@@ -112,7 +112,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/張智霖.md" title="wikilink">張智霖</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/張智霖" title="wikilink">張智霖</a></strong></p></td>
 <td><p><strong>顧夏陽</strong></p></td>
 <td><p>天頌航空機長，曾經參加<a href="https://zh.wikipedia.org/wiki/澳洲皇家空軍" title="wikilink">澳洲皇家空軍</a><br />
 顧風流之子<br />
@@ -135,7 +135,7 @@
 <td><p><strong>Summer</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃山怡.md" title="wikilink">黃山怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃山怡" title="wikilink">黃山怡</a></p></td>
 <td><p>顧阿里詩</p></td>
 <td><p>顧風流之女<br />
 顧夏陽、顧夏晨同父異母之妹<br />
@@ -219,7 +219,7 @@
 <td><p><strong>Matthew</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/張智霖.md" title="wikilink">張智霖</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/張智霖" title="wikilink">張智霖</a></strong></p></td>
 <td><p><strong>顧夏陽</strong></p></td>
 <td><p>機長，曾經參加澳洲<a href="https://zh.wikipedia.org/wiki/空軍" title="wikilink">空軍</a><br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#顧家" title="wikilink">顧家</a></strong></p></td>
@@ -255,10 +255,10 @@
 <td><p><strong>Issac</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/黃子恆.md" title="wikilink">黃子恆</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃子恆" title="wikilink">黃子恆</a></strong></p></td>
 <td><p><strong>鍾世沛</strong></p></td>
 <td><p>高級副機長<br />
-前飛揚航空高級副機長<br />
+前飛揚航空二副機長<br />
 唐亦風、高志宏之好友<br />
 凌卓芝之男友，後分手<br />
 參見上輯《<strong><a href="../Page/衝上雲霄.md" title="wikilink">衝上雲霄</a></strong>》</p></td>
@@ -310,7 +310,7 @@ King Kong之相睇對象<br />
 <strong>阿B</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/何君誠.md" title="wikilink">何君誠</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/何君誠" title="wikilink">何君誠</a></strong></p></td>
 <td><p><strong>雍少雄</strong></p></td>
 <td><p>PPP學員<br />
 後為二副機長<br />
@@ -327,7 +327,7 @@ King Kong之相睇對象<br />
 <td><p><strong>Peter</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/夏竹欣.md" title="wikilink">夏竹欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夏竹欣" title="wikilink">夏竹欣</a></p></td>
 <td><p>明日夢</p></td>
 <td><p>PPP學員<br />
 後為二副機長<br />
@@ -474,7 +474,7 @@ Head姐</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/謝卓言.md" title="wikilink">謝卓言</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝卓言" title="wikilink">謝卓言</a></p></td>
 <td><p>華　堅</p></td>
 <td><p><strong>Kenneth</strong></p></td>
 <td></td>
@@ -520,7 +520,7 @@ Head姐</strong></p></td>
 <strong>阿B</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊潮凱" title="wikilink">楊潮凱</a></p></td>
 <td><p>姚　浩</p></td>
 <td><p>飛機維修員<br />
 顧夏晨家中租客之一</p></td>
@@ -623,19 +623,19 @@ Head姐</strong></p></td>
 <td><p><strong>Sandy</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭俊弘" title="wikilink">鄭俊弘</a></p></td>
 <td><p>邱天慶</p></td>
 <td><p><strong>Water</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張秀文.md" title="wikilink">張秀文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張秀文" title="wikilink">張秀文</a></p></td>
 <td><p>田天儀</p></td>
 <td><p><strong>Tinnie</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李晉強.md" title="wikilink">李晉強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李晉強" title="wikilink">李晉強</a></p></td>
 <td><p>文振朗</p></td>
 <td><p><strong>Gentl</strong></p></td>
 <td></td>
@@ -660,7 +660,7 @@ Head姐</strong></p></td>
 <td><p><strong>暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/傅嘉莉.md" title="wikilink">傅嘉莉</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/傅嘉莉" title="wikilink">傅嘉莉</a></strong></p></td>
 <td><p><strong>喬祖思</strong></p></td>
 <td><p>咖啡店職員<br />
 暗戀唐亦風<br />
@@ -672,13 +672,13 @@ Head姐</strong></p></td>
 <td><p>'''Jose 咖啡妺</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張韋怡.md" title="wikilink">張韋怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張韋怡" title="wikilink">張韋怡</a></p></td>
 <td></td>
 <td><p>咖啡店職員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林秀怡.md" title="wikilink">林秀怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林秀怡" title="wikilink">林秀怡</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -753,7 +753,7 @@ Head姐</strong></p></td>
 PPP 贊助者</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃栢文.md" title="wikilink">黃栢文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃栢文" title="wikilink">黃栢文</a></p></td>
 <td><p>Angus</p></td>
 <td><p>香先生之飛機教練<br />
 （第6集）</p></td>
@@ -796,7 +796,7 @@ PPP 贊助者</p></td>
 （第8、33集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳婉婷_(演員).md" title="wikilink">陳婉婷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳婉婷_(演員)" title="wikilink">陳婉婷</a></p></td>
 <td></td>
 <td><p>PPP職員<br />
 （第9集）</p></td>
@@ -814,12 +814,12 @@ PPP 贊助者</p></td>
 （第9、10、12、14、15集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/譚坤倫.md" title="wikilink">譚坤倫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/譚坤倫" title="wikilink">譚坤倫</a></p></td>
 <td><p>阿　倫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張明偉.md" title="wikilink">張明偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張明偉" title="wikilink">張明偉</a></p></td>
 <td><p>阿　偉</p></td>
 <td></td>
 </tr>
@@ -829,7 +829,7 @@ PPP 贊助者</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曾建怡.md" title="wikilink">曾建怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾建怡" title="wikilink">曾建怡</a></p></td>
 <td><p>Elaine</p></td>
 <td><p>顧夏陽之旅伴<br />
 （第10集）</p></td>
@@ -887,13 +887,13 @@ PPP 贊助者</p></td>
 <td><p>（第17集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/陳芷尤" title="wikilink">陳芷尤</a><br />
 </p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳幸美" title="wikilink">吳幸美</a></p></td>
 <td><p>主　持</p></td>
 <td><p>（第19集）</p></td>
 </tr>
@@ -904,7 +904,7 @@ PPP 贊助者</p></td>
 （第21集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/倫紫玄.md" title="wikilink">倫紫玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倫紫玄" title="wikilink">倫紫玄</a></p></td>
 <td><p>美　女</p></td>
 <td><p>顧夏陽之酒伴<br />
 （第22集）</p></td>
@@ -935,7 +935,7 @@ PPP 贊助者</p></td>
 <td><p>（第25、27、31、38集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何佩珉.md" title="wikilink">何佩珉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何佩珉" title="wikilink">何佩珉</a></p></td>
 <td><p>接待員</p></td>
 <td><p>（第24集）</p></td>
 </tr>
@@ -955,7 +955,7 @@ PPP 贊助者</p></td>
 <td><p>（第25、28、31、38集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朱敏瀚.md" title="wikilink">朱敏瀚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱敏瀚" title="wikilink">朱敏瀚</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1128,17 +1128,17 @@ BJ Chong之朋友，後為其女友</p></td>
 | 8      | 36－41     | 2013年9月2日－9月6日   | 34點      | 39點      |
 | 42－43  | 2013年9月8日 | 38點              | 41點      |          |
 
-  - 《衝上雲霄II》兩小時大結局平均收視38點，最高收視41點\*為唐亦琛（[吳鎮宇](../Page/吳鎮宇.md "wikilink")飾）、顧夏陽（[張智霖](../Page/張智霖.md "wikilink")飾）與何年希（[陳法拉](../Page/陳法拉.md "wikilink")飾）的「航機意外」，為無綫於2013年唯一一部突破40點收視劇集。
+  - 《衝上雲霄II》兩小時大結局平均收視38點，最高收視41點\*為唐亦琛（[吳鎮宇](../Page/吳鎮宇.md "wikilink")飾）、顧夏陽（[張智霖飾](https://zh.wikipedia.org/wiki/張智霖 "wikilink")）與何年希（[陳法拉](../Page/陳法拉.md "wikilink")飾）的「航機意外」，為無綫於2013年唯一一部突破40點收視劇集。
 
 ## 記事
 
   - 2011年6月7日：過百位TVB藝人及行政人員，與廣告客戶一同出席在[天際100](../Page/天際100.md "wikilink")舉行的「TVB POWER天際任飛翔」活動，介紹即將拍攝的新劇，其中 [胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")、[吳卓羲](../Page/吳卓羲.md "wikilink")、[黃宗澤及](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")[胡定欣等穿上機師及空中服務員制服亮相](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")\[3\]。
-  - 2011年10月12日：[張智霖](../Page/張智霖.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、胡杏兒、陳法拉、吳卓羲、黃宗澤、徐子珊及胡定欣等到[香港國際機場](../Page/香港國際機場.md "wikilink")為本劇拍攝[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")片段\[4\]，[吳鎮宇](../Page/吳鎮宇.md "wikilink")於片尾以客串形式露面。
+  - 2011年10月12日：[張智霖](https://zh.wikipedia.org/wiki/張智霖 "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、胡杏兒、陳法拉、吳卓羲、黃宗澤、徐子珊及胡定欣等到[香港國際機場](../Page/香港國際機場.md "wikilink")為本劇拍攝[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")片段\[4\]，[吳鎮宇](../Page/吳鎮宇.md "wikilink")於片尾以客串形式露面。
   - [林峰因为要拍摄](https://zh.wikipedia.org/wiki/林峰 "wikilink")《[雷霆扫毒](https://zh.wikipedia.org/wiki/雷霆扫毒 "wikilink")》，档期问题跟冲2相撞，所以无法参演
   - [黄宗泽因为要拍摄](https://zh.wikipedia.org/wiki/黄宗泽 "wikilink")《[面包树的女人](https://zh.wikipedia.org/wiki/面包树的女人 "wikilink")》，档期跟冲2相撞，所以无法参演。
   - 2012年7月18日：於15:00在尖沙咀[The Mira Hong Kong](../Page/The_Mira_Hong_Kong.md "wikilink") 18樓宴會廳1舉行記者會\[5\]。
   - 2012年7月24日：於15:00在將軍澳[電視廣播城](../Page/電視廣播城.md "wikilink")城一廠Common Room及停車場舉行造型記者會以及開鏡拜神儀式\[6\]。
-  - 2012年8月14日：[張智霖](../Page/張智霖.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")在中環拍街頭鬧交場面。
+  - 2012年8月14日：[張智霖](https://zh.wikipedia.org/wiki/張智霖 "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")在中環拍街頭鬧交場面。
   - 2012年8月15日：[吳卓羲](../Page/吳卓羲.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")在石澳拍攝踩單車戲。\[7\]
   - 2012年9月11日：出發至海南三亞拍攝外景。
   - 2012年9月16日：海南三亞外景煞科。
@@ -1165,7 +1165,7 @@ BJ Chong之朋友，後為其女友</p></td>
 
 前劇以[陳奕迅](../Page/陳奕迅.md "wikilink")《歲月如歌》為主題曲，本劇預告片亦以該曲作宣傳，但最終由[林子祥](../Page/林子祥.md "wikilink")主唱主題曲，引起網民反對，認為該曲與主題並不相襯\[18\]，未播映已接獲51宗投訴\[19\]，後來通訊事務管理局也接獲11宗投訴，其中10宗投訴主題曲太悲觀，令人產生負面情緒、令社會不和諧、不切合劇集主題及劇情、不動聽及令人不安，另一宗指劇集誤導觀眾，又被稱主題曲為一個失敗。\[20\] [林峯主唱的插曲就好評如潮](https://zh.wikipedia.org/wiki/林峯 "wikilink")，被指比[林子祥](../Page/林子祥.md "wikilink")主唱的主題曲動聽萬倍，應作為此劇的主題曲。其後，林子祥親身回應指《歲月如歌》是十年前的事，又表示每首歌也有人喜歡或不喜歡，每首歌不值得比較。\[21\]
 
-[張智霖](../Page/張智霖.md "wikilink")飾演的「Cool魔」顧夏陽大受歡迎\[22\]\[23\]\[24\]，張智霖的對白更被列為金句，角色成為城中熱話\[25\]，後來有數集沒有出現，通訊事務管理局收到三宗投訴\[26\]。最後劇情無故由「萬人迷」變為痴迷前女友更惹來爭議及反感，張智霖亦暗示不滿指劇情角色被剪接過。\[27\]。另外，吳卓羲的英文發音再受爭議\[28\]。
+[張智霖飾演的](https://zh.wikipedia.org/wiki/張智霖 "wikilink")「Cool魔」顧夏陽大受歡迎\[22\]\[23\]\[24\]，張智霖的對白更被列為金句，角色成為城中熱話\[25\]，後來有數集沒有出現，通訊事務管理局收到三宗投訴\[26\]。最後劇情無故由「萬人迷」變為痴迷前女友更惹來爭議及反感，張智霖亦暗示不滿指劇情角色被剪接過。\[27\]。另外，吳卓羲的英文發音再受爭議\[28\]。
 
 女主角方面，不少網民希望「Sam」可與前劇[陳慧珊](../Page/陳慧珊.md "wikilink")飾演的「Belle」或本劇仍有演出的[胡杏兒](../Page/胡杏兒.md "wikilink")飾演的「Zoe」再續前緣\[29\]\[30\]。[胡杏兒](../Page/胡杏兒.md "wikilink")新角色出場時收視雖一度跌至27點\[31\]，哭戲也被指稍露出「囧」樣\[32\]，但後來冷酷的角色演出也頗受歡迎，她原本的角色蘇怡與「Sam哥」的感情仍受關注\[33\]，不過角色叫「Summer」卻被指無新意，因與其他劇集角色一樣\[34\]。另一女主角[陳法拉](../Page/陳法拉.md "wikilink")演技被觀眾認為有待進步。\[35\]\[36\]\[37\]。本劇最受歡迎的女演員是第三女主角[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，代孕產子的劇情備受爭議，\[38\]但整體演出獲三位男主角點名讚賞。\[39\]
 
@@ -1183,10 +1183,10 @@ BJ Chong之朋友，後為其女友</p></td>
 
   - 我最愛TVB電視劇集
   - 本地传媒最爱TVB剧集
-  - 我最愛TVB電視男角色：顧夏陽（[張智霖](../Page/張智霖.md "wikilink")）
+  - 我最愛TVB電視男角色：顧夏陽（[張智霖](https://zh.wikipedia.org/wiki/張智霖 "wikilink")）
   - 我最愛TVB電視女角色：顧夏晨（[胡杏兒](../Page/胡杏兒.md "wikilink")）
 
-### [TVB 馬來西亞星光薈萃頒獎典禮2013](../Page/TVB_馬來西亞星光薈萃頒獎典禮2013.md "wikilink")
+### [TVB 馬來西亞星光薈萃頒獎典禮2013](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2013 "wikilink")
 
 <table style="width:64%;">
 <colgroup>
@@ -1211,7 +1211,7 @@ BJ Chong之朋友，後為其女友</p></td>
 <td><p>入圍最後五強</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張智霖.md" title="wikilink">張智霖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張智霖" title="wikilink">張智霖</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1238,7 +1238,7 @@ BJ Chong之朋友，後為其女友</p></td>
 <tr class="even">
 <td><p>最喜愛TVB電視角色</p></td>
 <td><p>唐亦琛（<a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>飾）<br />
-顧夏陽（<a href="../Page/張智霖.md" title="wikilink">張智霖</a>飾）<br />
+顧夏陽（<a href="https://zh.wikipedia.org/wiki/張智霖" title="wikilink">張智霖飾</a>）<br />
 何年希（<a href="../Page/陳法拉.md" title="wikilink">陳法拉</a>飾）<br />
 顧夏晨（<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>飾）<br />
 唐亦風（<a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a>飾）<br />
@@ -1291,7 +1291,7 @@ BJ Chong之朋友，後為其女友</p></td>
 <tr class="even">
 <td><p>最喜愛TVB熒幕情侶</p></td>
 <td><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/陳法拉.md" title="wikilink">陳法拉</a><br />
-<a href="../Page/張智霖.md" title="wikilink">張智霖</a>、<a href="../Page/陳法拉.md" title="wikilink">陳法拉</a><br />
+<a href="https://zh.wikipedia.org/wiki/張智霖" title="wikilink">張智霖</a>、<a href="../Page/陳法拉.md" title="wikilink">陳法拉</a><br />
 <a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a>、<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a></p></td>
 <td><p>入圍最後五強</p></td>
 <td></td>
@@ -1317,7 +1317,7 @@ BJ Chong之朋友，後為其女友</p></td>
 </tbody>
 </table>
 
-### [YAHOO\!人氣大獎2013](../Page/2013年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
+### [YAHOO\!人氣大獎2013](https://zh.wikipedia.org/wiki/2013年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
 
 <table style="width:64%;">
 <colgroup>
@@ -1350,7 +1350,7 @@ BJ Chong之朋友，後為其女友</p></td>
 </tbody>
 </table>
 
-### [萬千星輝頒獎典禮2013](../Page/萬千星輝頒獎典禮2013.md "wikilink")
+### [萬千星輝頒獎典禮2013](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2013 "wikilink")
 
 <table style="width:56%;">
 <colgroup>
@@ -1480,7 +1480,7 @@ BJ Chong之朋友，後為其女友</p></td>
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p>最受歡迎港台男演員</p></td>
-<td><p><a href="../Page/張智霖.md" title="wikilink">張智霖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張智霖" title="wikilink">張智霖</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1561,16 +1561,12 @@ BJ Chong之朋友，後為其女友</p></td>
 
 ### 香港播放
 
-#### 首播
-
-#### 重播
-
 ### 香港以外地區播放
 
 [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink") [Category:2012無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2012無綫節目巡禮劇集 "wikilink") [Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink") [Category:機場背景作品](https://zh.wikipedia.org/wiki/Category:機場背景作品 "wikilink") [Category:衝上雲霄系列](https://zh.wikipedia.org/wiki/Category:衝上雲霄系列 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
 
 1.  吳卓羲在《[2013年TVB馬來西亞星光薈萃頒獎典禮提名最佳男主角](https://zh.wikipedia.org/wiki/2013年TVB馬來西亞星光薈萃頒獎典禮 "wikilink")，所以算是領銜主演
-2.  馬國明在《[萬千星輝頒獎典禮2013](../Page/萬千星輝頒獎典禮2013.md "wikilink")》提名最佳男配角，亦沒有在其他頒獎典禮憑此劇提名最佳男主角，所以不是領銜主演
+2.  馬國明在《[萬千星輝頒獎典禮2013](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2013 "wikilink")》提名最佳男配角，亦沒有在其他頒獎典禮憑此劇提名最佳男主角，所以不是領銜主演
 3.
 4.
 5.  [藝人月曆 - 7月18日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)

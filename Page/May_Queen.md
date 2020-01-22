@@ -28,7 +28,7 @@
 <tr class="even">
 <td><center>
 <p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a><br />
-<small>少年：<a href="../Page/金裕貞.md" title="wikilink">金裕貞</a></small></p></td>
+<small>少年：<a href="https://zh.wikipedia.org/wiki/金裕貞" title="wikilink">金裕貞</a></small></p></td>
 <td><center>
 <p>天海珠</p></td>
 <td><center>
@@ -38,11 +38,11 @@
 <tr class="odd">
 <td><center>
 <p><a href="../Page/金載沅.md" title="wikilink">金載沅</a><br />
-<small>少年：<a href="../Page/朴智彬.md" title="wikilink">朴智彬</a></small></p></td>
+<small>少年：<a href="https://zh.wikipedia.org/wiki/朴智彬" title="wikilink">朴智彬</a></small></p></td>
 <td><center>
 <p>姜山</p></td>
 <td><center>
-<p><a href="../Page/梁皓翔.md" title="wikilink">梁皓翔</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/梁皓翔" title="wikilink">梁皓翔</a></p></td>
 <td><p>海風集團姜大平的孫子，昌熙的中學同學。</p></td>
 </tr>
 <tr class="even">
@@ -62,7 +62,7 @@
 <td><center>
 <p>張仁花</p></td>
 <td><center>
-<p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
 <td><p>天地集團張道賢的女兒</p></td>
 </tr>
 </tbody>
@@ -86,7 +86,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/安內相.md" title="wikilink">安內相</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/安內相" title="wikilink">安內相</a></p></td>
 <td><center>
 <p>天洪哲</p></td>
 <td><center>
@@ -95,7 +95,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/琴寶羅.md" title="wikilink">琴寶羅</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/琴寶羅" title="wikilink">琴寶羅</a></p></td>
 <td><center>
 <p>趙多純</p></td>
 <td><center>
@@ -172,16 +172,16 @@
 <td><center>
 <p>張日文</p></td>
 <td><center>
-<p><a href="../Page/陳健豪.md" title="wikilink">陳健豪</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳健豪" title="wikilink">陳健豪</a></p></td>
 <td><p>張道賢的兒子</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/金圭哲.md" title="wikilink">金圭哲</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金圭哲" title="wikilink">金圭哲</a></p></td>
 <td><center>
 <p>朴基柱</p></td>
 <td><center>
-<p><a href="../Page/李家輝.md" title="wikilink">李家輝</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李家輝" title="wikilink">李家輝</a></p></td>
 <td><p>天地集團管家，昌熙的父親。</p></td>
 </tr>
 </tbody>
@@ -223,16 +223,16 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/高仁範.md" title="wikilink">高仁範</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/高仁範" title="wikilink">高仁範</a></p></td>
 <td><center>
 <p>姜大平</p></td>
 <td><center>
-<p><a href="../Page/李家輝.md" title="wikilink">李家輝</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李家輝" title="wikilink">李家輝</a></p></td>
 <td><p>姜山的爺爺，海風造船會長。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/鮮于在德.md" title="wikilink">鮮-{于}-在德</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鮮于在德" title="wikilink">鮮-{于}-在德</a></p></td>
 <td><center>
 <p>尹學秀</p></td>
 <td></td>
@@ -332,7 +332,7 @@
 </tr>
 <tr class="even">
 <td><p>最佳女童星賞</p></td>
-<td><p><a href="../Page/金裕貞.md" title="wikilink">金裕貞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金裕貞" title="wikilink">金裕貞</a></p></td>
 <td></td>
 <td></td>
 <td></td>

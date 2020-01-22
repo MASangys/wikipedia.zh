@@ -1,7 +1,7 @@
 > 本文内容由[Spotify](https://zh.wikipedia.org/wiki/Spotify)转换而来。
 
 
-**Spotify技术股份公司**（，，中文名：**聲田**、**声破天**、**斯波蒂菲**）是一家[流媒体](../Page/流媒体.md "wikilink")[在线音乐平台](https://zh.wikipedia.org/wiki/在线音乐 "wikilink")。2006年4月，由Daniel Ek和Martin Lorentzon在[瑞典](../Page/瑞典.md "wikilink")创立。Spotify与[苹果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iTunes是竞争关系](https://zh.wikipedia.org/wiki/iTunes "wikilink")，苹果后推出Apple Music与其竞争。
+**Spotify技术股份公司**（，，中文名：**聲田**、**声破天**、**斯波蒂菲**）是一家[流媒体](https://zh.wikipedia.org/wiki/流媒体 "wikilink")[在线音乐平台](https://zh.wikipedia.org/wiki/在线音乐 "wikilink")。2006年4月，由Daniel Ek和Martin Lorentzon在[瑞典](../Page/瑞典.md "wikilink")创立。Spotify与[苹果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iTunes是竞争关系](https://zh.wikipedia.org/wiki/iTunes "wikilink")，苹果后推出Apple Music与其竞争。
 
 Spotify是目前全球最大的串流音樂服務商，与[環球音樂集團](../Page/环球音乐集团.md "wikilink")、[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[華納音樂集團](../Page/華納音樂集團.md "wikilink")三大唱片公司及其它唱片公司合作授权、由[数字版权管理](../Page/数字版权管理.md "wikilink")保護的音樂\[1\]，用户规模截至2019年10月至2.48亿\[2\]。
 
@@ -138,13 +138,11 @@ Spotify的軟體是[專有的](https://zh.wikipedia.org/wiki/專有 "wikilink") 
 
 Spotify有265毫秒或390毫秒本機的暫存播放延遲功能\[12\]，0.4.3軟體版本可以播放電腦儲存的[MP3](../Page/MP3.md "wikilink")和[AAC音樂檔案](https://zh.wikipedia.org/wiki/AAC "wikilink")。除了在電腦或手機播放，Spotify也可透過藍牙在一些廠牌的[車載娛樂系統中操作播放](https://zh.wikipedia.org/wiki/車載娛樂系統 "wikilink")，例如[福特](https://zh.wikipedia.org/wiki/福特 "wikilink")[SYNC系統](https://zh.wikipedia.org/wiki/SYNC系統 "wikilink")。
 
-可使用的裝置平台為[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BlackBerry OS](../Page/BlackBerry_OS.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Chrome OS](../Page/Chrome_OS.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")（[PlayStation 3](../Page/PlayStation_3.md "wikilink") 、[PlayStation 4](../Page/PlayStation_4.md "wikilink")）等。
+可使用的裝置平台為[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BlackBerry OS](../Page/BlackBerry_OS.md "wikilink")、[Android](https://zh.wikipedia.org/wiki/Android "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Chrome OS](../Page/Chrome_OS.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")（[PlayStation 3](../Page/PlayStation_3.md "wikilink") 、[PlayStation 4](../Page/PlayStation_4.md "wikilink")）等。
 
 ## 爭議
 
 Spotify和其他[串流媒體行業共同面臨著](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")，因為串流媒體造成實體專輯銷售下滑，導致歌手及詞曲作家聲稱得到不公平的工作報酬作等一些批評。Spotify會與藝人進行收入分為3：7，即為唱片公司和藝人獲得收入的70%，而Spotify抽30%。Spotify會將應支付的版稅全部一起-{zh-tw:透過;zh-hk:通過;zh-hans:通过}-算法去計算，每位藝人應當獲得多少的比例。解釋起來很簡單，但操作時並不容易。\[13\]除了上述的版稅支付差異之外，唱片公司和藝人還認為，免費服務帶來了更大的問題，因為Spotify為這類服務支付的版稅太低。
-
-2014年，美国乡村音乐歌手[泰勒·斯威夫特](../Page/泰勒·斯威夫特.md "wikilink")在其专辑《1989》发行后宣布从Spotify下架所有音乐。泰勒对Spotify[免费增值商业模式提出](../Page/免費增值.md "wikilink")：“我不同意音乐不仅没有价值，还应该是免费的这一观念。”
 
 亞太區總監Sunita Kaur澄清，Spotify取得授權只面對版權所有人，如唱片公司、發行單位、著作權集體管理團體等居中、匯聚內容單位，Spotify也只會與匯聚所有音樂版權、將音樂數位化的版權所有人進行分潤。Sunita Kaur強調平台不會直接面對歌手、樂團或詞曲作家，是由這些版權所有人自行與音樂人協商分潤，Spotify一直以來都無從置喙。而Spotify近年都如實支出七成以上的營收都作為權利金，支付給版權所有人；所以在版權所有者與音樂人之間如何溝通分潤、比率，並不是Spotify卸責，是因為此類合議行為平台根本無權居中干涉。「Spotify為求公開透明，自2013年開始便提供上架的音樂人申請帳號進入後台、瀏覽Dashboard的服務，讓音樂人直接了解自己的作品被串流的次數等數據，方便與權利所有人進行款項核對，音樂人有所疑慮皆可主動申請此項服務\[14\]。
 

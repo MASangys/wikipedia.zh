@@ -5,7 +5,7 @@
 
 ## 概要
 
-之前是[DefSTAR Records所屬的AKB](../Page/DefSTAR_Records.md "wikilink")48，移籍國王唱片至發行第1張單曲《[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")》發售時中發表移籍該品牌。
+之前是[DefSTAR Records所屬的AKB](https://zh.wikipedia.org/wiki/DefSTAR_Records "wikilink")48，移籍國王唱片至發行第1張單曲《[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")》發售時中發表移籍該品牌。
 
 ## 所屬藝人
 
@@ -21,13 +21,13 @@
 
   - [STU48](../Page/STU48.md "wikilink")
 
-  - [fairy w\!nk](../Page/天使在哪裡？.md "wikilink") - 通過AKB48集團猜拳大會勝出得以出道。
+  - [fairy w\!nk](https://zh.wikipedia.org/wiki/天使在哪裡？ "wikilink") - 通過AKB48集團猜拳大會勝出得以出道。
 
 ## 前屬藝人
 
   - [板野友美](../Page/板野友美.md "wikilink") - AKB48在籍時即以個人歌手身分出道，AKB48畢業後转至主厂牌[國王唱片](../Page/國王唱片.md "wikilink")。
   - [NO NAME](../Page/NO_NAME_\(偶像組合\).md "wikilink") - 仅发行第二张单曲。
-  - [渡邊美優紀](../Page/渡邊美優紀.md "wikilink")（元[NMB48](../Page/NMB48.md "wikilink")）
+  - [渡邊美優紀](https://zh.wikipedia.org/wiki/渡邊美優紀 "wikilink")（元[NMB48](https://zh.wikipedia.org/wiki/NMB48 "wikilink")）
 
 ## 備註
 

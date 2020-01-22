@@ -1,7 +1,7 @@
 > 本文内容由[One off](https://zh.wikipedia.org/wiki/One_off)转换而来。
 
 
-《**One off**》（）是一部在2012年推出的[日本](../Page/日本.md "wikilink")原創[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由導演[佐藤順一](../Page/佐藤順一.md "wikilink")策劃和執導，將於冬天以[OVA形式推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。此外，本動畫乃由[本田技研工業特別贊助播出](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")。
+《**One off**》（）是一部在2012年推出的[日本](../Page/日本.md "wikilink")原創[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由導演[佐藤順一策劃和執導](https://zh.wikipedia.org/wiki/佐藤順一 "wikilink")，將於冬天以[OVA形式推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。此外，本動畫乃由[本田技研工業特別贊助播出](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")。
 
 ## 故事概要
 
@@ -16,7 +16,7 @@
     本作的主人公。
     愛車為[ホンダ・ジョルノ](https://zh.wikipedia.org/wiki/ホンダ・ジョルノ "wikilink")。
   - 鏑木 小夜（）
-    聲 - [早見沙織](../Page/早見沙織.md "wikilink")
+    聲 - [早見沙織](https://zh.wikipedia.org/wiki/早見沙織 "wikilink")
     高中二年級生。
     愛車為[本田小狼](../Page/本田小狼.md "wikilink")
   - 別所 杏里（）
@@ -45,7 +45,7 @@
 
 ## 製作人員
 
-  - 原案、監督：[佐藤順一](../Page/佐藤順一.md "wikilink")
+  - 原案、監督：[佐藤順一](https://zh.wikipedia.org/wiki/佐藤順一 "wikilink")
   - 角色設計原案：[黑星红白](https://zh.wikipedia.org/wiki/黑星红白 "wikilink")
   - 系列導演：
   - 劇本：鈴木雅詞
@@ -54,7 +54,7 @@
   - 美術監督：田尻健一
   - 3D監督：下山博嗣
   - 攝影監督：荻原猛夫
-  - 音響監督：[若林和弘](../Page/若林和弘.md "wikilink")、原口昇
+  - 音響監督：[若林和弘](https://zh.wikipedia.org/wiki/若林和弘 "wikilink")、原口昇
   - 音樂：原田節（）
   - 音樂製作：[flying DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
   - 動画製作：[TYO Animations](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")

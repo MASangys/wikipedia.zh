@@ -44,10 +44,10 @@
   - [夏侯惇](../Page/夏侯惇.md "wikilink")**（声：[山本圭一郎](https://zh.wikipedia.org/wiki/山本圭一郎 "wikilink")）**-字元让，曹操配下大将。
   - [夏侯渊](../Page/夏侯渊.md "wikilink")**（声：[挂川裕彦](https://zh.wikipedia.org/wiki/挂川裕彦 "wikilink")）**-字妙才，曹操配下大将。在博望坡被张飞击败，战死。
   - [夏侯霸](../Page/夏侯霸.md "wikilink")**（声：[吉水孝宏](../Page/吉水孝宏.md "wikilink")）**-字仲权，曹操配下大将，夏侯渊的長子，父亲死后为父亲报仇雪恨，对张飞仇恨万分。
-  - 虎稚**（声：[野田顺子](https://zh.wikipedia.org/wiki/野田顺子 "wikilink")）**-原名[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")，字仲康,曹操配下猛将。
+  - 虎稚**（声：[野田顺子](https://zh.wikipedia.org/wiki/野田顺子 "wikilink")）**-原名[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")，字仲康，曹操配下猛将。
   - [郭嘉](../Page/郭嘉.md "wikilink")**（声：[山本圭一郎](https://zh.wikipedia.org/wiki/山本圭一郎 "wikilink")）**-字奉孝，曹操的军师之一。
   - 荀郁**（声：[岛本须美](https://zh.wikipedia.org/wiki/岛本须美 "wikilink")）**-原名[荀彧](../Page/荀彧.md "wikilink")，字文若，曹操的军师之一。
-  - [张辽](https://zh.wikipedia.org/wiki/张辽 "wikilink")**（声：[田中秀幸](../Page/田中秀幸.md "wikilink")）**-字文遠，原本为吕布配下大将，后来受到关羽的说服，并加入曹操军。
+  - [张辽](https://zh.wikipedia.org/wiki/张辽 "wikilink")**（声：[田中秀幸](https://zh.wikipedia.org/wiki/田中秀幸 "wikilink")）**-字文遠，原本为吕布配下大将，后来受到关羽的说服，并加入曹操军。
   - 程育**（声：[岛田敏](https://zh.wikipedia.org/wiki/岛田敏 "wikilink")）**-原名[程昱](../Page/程昱.md "wikilink")，字仲德，曹操的谋士之一。
   - [于禁](../Page/于禁.md "wikilink")**（声：[阪口大助](../Page/阪口大助.md "wikilink")）**-字文则，曹操配下大将。
   - [李典](../Page/李典.md "wikilink")**（声：[田中大文](../Page/田中大文.md "wikilink")）**-字曼成，曹操配下大将。
@@ -55,15 +55,15 @@
   - 奉徳'''（声：[江川央生](../Page/江川央生.md "wikilink")）-原名[龐德](../Page/龐德.md "wikilink")，字令明，曹操配下大将,原本为馬超配下副將,在潼關之戰后被曹軍所虜,受到曹操的說服，並加入曹操軍。
   - 張興'''（声：草尾毅）-原名[張郃](../Page/張郃.md "wikilink")，字儁乂，曹操配下大将,原本为袁紹配下大將,在官渡之戰期間被郭圖誣告，投降曹操。
   - 登涯'''（声：渡辺武彦）-原名[鄧艾](https://zh.wikipedia.org/wiki/鄧艾 "wikilink")，字士載。
-  - 郭昭'''（声：北谷彰基）-原名[郝昭](../Page/郝昭.md "wikilink")，字郝昭。
-  - [蔡文姬](../Page/蔡文姬.md "wikilink")
+  - 郭昭'''（声：北谷彰基）-原名[郝昭](../Page/郝昭.md "wikilink")，字伯道。
+  - [蔡文姬](https://zh.wikipedia.org/wiki/蔡文姬 "wikilink")
 
 ### （孙权军）
 
   - [孙权](../Page/孙权.md "wikilink")**（声：[森功至](../Page/森功至.md "wikilink")）**-字仲谋，江东牧及[东吴开国皇帝](https://zh.wikipedia.org/wiki/东吴 "wikilink")。在赤壁之战和刘备一同对抗曹操，后来和刘备反目成仇，成为三国之一霸主。
   - 孙丽**（声：[野村惠里](https://zh.wikipedia.org/wiki/野村惠里 "wikilink")）**-原名[孙尚香](https://zh.wikipedia.org/wiki/孙尚香 "wikilink")，是孙权的妹妹，也是刘备的妻子之一。
   - [周瑜](../Page/周瑜.md "wikilink")**（声：[速水奨](https://zh.wikipedia.org/wiki/速水奨 "wikilink")）**-字公瑾，孙权的军师，人称周郎。在赤壁之战和诸葛亮一起联合击败曹操，后来和诸葛亮成为敌友。
-  - [鲁肃](../Page/鲁肃.md "wikilink")**（声：[田中秀幸](../Page/田中秀幸.md "wikilink")）**-字子敬，孙权的副军师，为人中立，是稳定派军师型。
+  - [鲁肃](../Page/鲁肃.md "wikilink")**（声：[田中秀幸](https://zh.wikipedia.org/wiki/田中秀幸 "wikilink")）**-字子敬，孙权的副军师，为人中立，是稳定派军师型。
   - [吕蒙](../Page/吕蒙.md "wikilink")**（声：[田中一成](../Page/田中一成.md "wikilink")）**-字子明，孙权配下大将之一，具有文武活跃一面。
   - [甘宁](../Page/甘宁.md "wikilink")**（声：[大场真人](https://zh.wikipedia.org/wiki/大场真人 "wikilink")）**-字兴霸，江东海贼及[黄祖配下大将](https://zh.wikipedia.org/wiki/黄祖 "wikilink")，后来投靠孙权军。
   - [陆逊](https://zh.wikipedia.org/wiki/陆逊 "wikilink")**（声：[徳山靖彦](https://zh.wikipedia.org/wiki/徳山靖彦 "wikilink")）**-字伯言，周瑜病逝后，继承军师之职。
@@ -76,7 +76,7 @@
   - [蔡瑁](../Page/蔡瑁.md "wikilink")**（声：[田中一成](../Page/田中一成.md "wikilink")）**-字德圭，刘表的妻子蔡夫人的兄长，刘氏一族。对水上战具有活跃一面，刘表死后投降曹操，后来受到诸葛亮的要求便加入刘备军。
   - [刘璋](https://zh.wikipedia.org/wiki/刘璋 "wikilink")**（声：[大场真人](https://zh.wikipedia.org/wiki/大场真人 "wikilink")）**-字季玉，益州牧及益州王，刘焉之子。是汉室宗亲，刘备的外甥。为了益州江山而与刘备作战到底。
   - [张任](https://zh.wikipedia.org/wiki/张任 "wikilink")**（声：[吉水孝宏](../Page/吉水孝宏.md "wikilink")）**-刘璋配下大将。
-  - 吴偉**（声：[塩川亮介](https://zh.wikipedia.org/wiki/塩川亮介 "wikilink")）**-原名[吴懿](https://zh.wikipedia.org/wiki/吴懿 "wikilink"),字子辽，刘璋配下大将。
+  - 吴偉**（声：[塩川亮介](https://zh.wikipedia.org/wiki/塩川亮介 "wikilink")）**-原名[吴懿](https://zh.wikipedia.org/wiki/吴懿 "wikilink")，字子遠，刘璋配下大将。
   - [严颜](https://zh.wikipedia.org/wiki/严颜 "wikilink")**（声：[掛川裕彦](https://zh.wikipedia.org/wiki/掛川裕彦 "wikilink")）**-刘璋配下老将，后来在陈仓之战加入刘备军。
   - [孟獲](../Page/孟獲.md "wikilink")
   - [祝融](../Page/祝融.md "wikilink")

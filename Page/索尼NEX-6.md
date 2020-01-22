@@ -13,7 +13,7 @@ NEX-6和同批的[NEX-5R都具备了](https://zh.wikipedia.org/wiki/索尼_NEX-5
 
 ## 相关条目
 
-  - [無反光鏡可換鏡頭相機](../Page/無反光鏡可換鏡頭相機.md "wikilink")
+  - [無反光鏡可換鏡頭相機](https://zh.wikipedia.org/wiki/無反光鏡可換鏡頭相機 "wikilink")
   - [索尼 NEX 系列](https://zh.wikipedia.org/wiki/索尼_NEX_系列 "wikilink")
 
 ## 外部链接

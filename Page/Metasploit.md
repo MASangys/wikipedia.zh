@@ -39,7 +39,7 @@ Metasploit有多个可用的用户界面，最流行的界面由Rapid7和Strateg
 
 ### Metasploit Pro
 
-在2011年10月， Rapid7 添加了开放核心的付费版本Metasploit Pro。它使用网页界面，拥有Metasploit Express的所有功能和闭环弱点验证，模拟[钓鱼式攻击](../Page/钓鱼式攻击.md "wikilink")等[社会工程学](../Page/社会工程学.md "wikilink")功能，[网络应用程序](../Page/网络应用程序.md "wikilink")测试，攻击自动化，和其他Express版所没有的功能。
+在2011年10月， Rapid7 添加了开放核心的付费版本Metasploit Pro。它使用网页界面，拥有Metasploit Express的所有功能和闭环弱点验证，模拟[钓鱼式攻击](../Page/钓鱼式攻击.md "wikilink")等[社会工程学功能](https://zh.wikipedia.org/wiki/社会工程学 "wikilink")，[网络应用程序](../Page/网络应用程序.md "wikilink")测试，攻击自动化，和其他Express版所没有的功能。
 
 ### Armitage
 

@@ -308,7 +308,7 @@
 <tr class="odd">
 <td><p>第七話</p></td>
 <td></td>
-<td><p>-{<a href="../Page/米谷良知.md" title="wikilink">米谷良知</a>}-<br />
+<td><p>-{<a href="https://zh.wikipedia.org/wiki/米谷良知" title="wikilink">米谷良知</a>}-<br />
 高谷浩利</p></td>
 <td><p>原田奈奈</p></td>
 <td><p>安藤義信</p></td>

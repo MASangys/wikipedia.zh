@@ -1,7 +1,7 @@
 > 本文内容由[Here文档](https://zh.wikipedia.org/wiki/Here文档)转换而来。
 
 
-**here文档**\[1\]，又称作**heredoc**、**hereis**、**here-字串**或**here-脚本**，是一种在命令行shell（如[sh](https://zh.wikipedia.org/wiki/Bourne_Shell "wikilink")、[csh](https://zh.wikipedia.org/wiki/C_shell "wikilink")、[ksh](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")、[bash](https://zh.wikipedia.org/wiki/bash "wikilink")、[PowerShell和](https://zh.wikipedia.org/wiki/PowerShell "wikilink")[zsh](../Page/Z_shell.md "wikilink")）和程序语言（像[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Python](../Page/Python.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")）里定义一个[字串的方法](https://zh.wikipedia.org/wiki/字串 "wikilink")。它可以保存文字裡面的换行或是縮排等空白字元。一些语言允许在字串里执行[变量替换和](https://zh.wikipedia.org/wiki/变量 "wikilink")[命令替换](https://zh.wikipedia.org/wiki/命令替换 "wikilink")。
+**here文档**\[1\]，又称作**heredoc**、**hereis**、**here-字串**或**here-脚本**，是一种在命令行shell（如[sh](https://zh.wikipedia.org/wiki/Bourne_Shell "wikilink")、[csh](https://zh.wikipedia.org/wiki/C_shell "wikilink")、[ksh](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")、[bash](https://zh.wikipedia.org/wiki/bash "wikilink")、[PowerShell和](https://zh.wikipedia.org/wiki/PowerShell "wikilink")[zsh](https://zh.wikipedia.org/wiki/Z_shell "wikilink")）和程序语言（像[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Python](../Page/Python.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")）里定义一个[字串的方法](https://zh.wikipedia.org/wiki/字串 "wikilink")。它可以保存文字裡面的换行或是縮排等空白字元。一些语言允许在字串里执行[变量替换和](https://zh.wikipedia.org/wiki/变量 "wikilink")[命令替换](https://zh.wikipedia.org/wiki/命令替换 "wikilink")。
 
 here文档最通用的语法是`<<`紧跟一个标识符，从下一行开始是想要引用的文字，然后再在单独的一行用相同的标识符关闭。在Unix shell里，here文档通常用于给命令提供输入内容。
 
@@ -387,7 +387,7 @@ x <- read.table(textConnection(str), header=TRUE, row.names=1)
 
 #### Racket
 
-[Racket](../Page/Racket.md "wikilink")的here字串以`#<<`开始，紧跟定义字串终止的标识符\[8\]。
+[Racket的here字串以](https://zh.wikipedia.org/wiki/Racket "wikilink")`#<<`开始，紧跟定义字串终止的标识符\[8\]。
 
 字串的内容包括所有的在`#<<`一行和仅包括定义了的终止符的那一行。即：字串的内容开始于`#<<`后的新行，结束于终止符之前的一行。
 

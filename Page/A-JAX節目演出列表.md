@@ -59,7 +59,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月21日</p></td>
-<td><p><a href="../Page/新傳媒U頻道.md" title="wikilink">新傳媒U頻道</a>、<a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/新傳媒U頻道.md" title="wikilink">新傳媒U頻道</a>、<a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>我和韓星有個約會</p></td>
 <td><p>Ep.5</p></td>
 <td><p>在亨、承曄</p></td>
@@ -428,7 +428,7 @@ Ep.175</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月7日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet japan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet japan</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a> Back stage</p></td>
 <td><center>
 <p>-</p>
@@ -483,7 +483,7 @@ Ep.175</p></td>
 </tr>
 <tr class="even">
 <td><p>7月12日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>Wide 娛樂News<br />
 （M/V拍攝花絮）[12]</p></td>
 <td><p>Ep.554</p></td>
@@ -528,7 +528,7 @@ Ep.175</p></td>
 </tr>
 <tr class="even">
 <td><p>8月27日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>他沒那麼喜歡妳</p></td>
 <td><p>Ep.10</p></td>
 <td><p>在亨</p></td>

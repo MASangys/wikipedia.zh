@@ -9,7 +9,7 @@
 2.  [焦躁 來襲](../Page/焦躁_來襲.md "wikilink")
 3.  [笑吧 BOYFRIEND](../Page/笑吧_BOYFRIEND.md "wikilink")
 4.  [忐忑難安的嫣紅](../Page/忐忑難安的嫣紅.md "wikilink")
-5.  [VERY BEAUTY](../Page/VERY_BEAUTY.md "wikilink")
+5.  [VERY BEAUTY](https://zh.wikipedia.org/wiki/VERY_BEAUTY "wikilink")
 6.  [告白的噴水廣場](../Page/告白的噴水廣場.md "wikilink")
 7.  [交往中卻像單相思](../Page/交往中卻像單相思.md "wikilink")
 

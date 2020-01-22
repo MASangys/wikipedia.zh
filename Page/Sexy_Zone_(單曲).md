@@ -5,7 +5,7 @@
 
 ## 概要
 
-標題曲《Sexy Zone》是『[世界盃女子排球賽2011](../Page/2011年世界盃女子排球賽.md "wikilink")』的富士電視台系節目印象歌曲\[1\]\[2\]\[3\]\[4\]\[5\]。以初回限定盤A・B・C・D和通常盤的5種形式發售\[6\]。
+標題曲《Sexy Zone》是『[世界盃女子排球賽2011](https://zh.wikipedia.org/wiki/2011年世界盃女子排球賽 "wikilink")』的富士電視台系節目印象歌曲\[1\]\[2\]\[3\]\[4\]\[5\]。以初回限定盤A・B・C・D和通常盤的5種形式發售\[6\]。
 
 ## 收錄曲目
 
@@ -15,7 +15,7 @@
       -
         作詞：[Satomi](https://zh.wikipedia.org/wiki/Satomi "wikilink")、作曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")、編曲：[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")
     <!-- end list -->
-      - 『[世界盃女子排球賽2011](../Page/2011年世界盃女子排球賽.md "wikilink")』印象歌曲
+      - 『[世界盃女子排球賽2011](https://zh.wikipedia.org/wiki/2011年世界盃女子排球賽 "wikilink")』印象歌曲
 2.  **With you** \[4:11\]
       -
         作詞：ケリー、作曲：DAICHI・Samuli Laiho、編曲：清水哲平

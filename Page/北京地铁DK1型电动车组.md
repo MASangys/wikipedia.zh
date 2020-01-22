@@ -23,7 +23,7 @@
 
 ## 列车运送过程
 
-列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[京哈铁路](../Page/京哈铁路.md "wikilink")、[沈山铁路](../Page/沈山铁路.md "wikilink")、[津山铁路](../Page/津山铁路.md "wikilink")、[京沪铁路](../Page/京沪铁路.md "wikilink")、[丰沙铁路](../Page/丰沙铁路.md "wikilink")到达[三家店站](https://zh.wikipedia.org/wiki/三家店站 "wikilink")，之后进入[京门铁路](../Page/京门铁路.md "wikilink")，再通过联络线，到达[古城车辆段](../Page/古城车辆段.md "wikilink")。此后的[DK2型](../Page/北京地铁DK2型电动车组.md "wikilink")、[DK3型也是通过这种途径运送而来](../Page/北京地铁DK3型电动车组.md "wikilink")。
+列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[京哈铁路](../Page/京哈铁路.md "wikilink")、[沈山铁路](https://zh.wikipedia.org/wiki/沈山铁路 "wikilink")、[津山铁路](https://zh.wikipedia.org/wiki/津山铁路 "wikilink")、[京沪铁路](../Page/京沪铁路.md "wikilink")、[丰沙铁路](../Page/丰沙铁路.md "wikilink")到达[三家店站](https://zh.wikipedia.org/wiki/三家店站 "wikilink")，之后进入[京门铁路](../Page/京门铁路.md "wikilink")，再通过联络线，到达[古城车辆段](../Page/古城车辆段.md "wikilink")。此后的[DK2型](../Page/北京地铁DK2型电动车组.md "wikilink")、[DK3型也是通过这种途径运送而来](../Page/北京地铁DK3型电动车组.md "wikilink")。
 
 ## 参见
 

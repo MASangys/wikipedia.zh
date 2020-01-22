@@ -9,7 +9,7 @@
 
 ## \[Ru(bipy)<sub>3</sub>\]<sup>2+</sup>的光化学性质
 
-\[Ru(bipy)<sub>3</sub>\]<sup>2+</sup>对[紫外线](../Page/紫外线.md "wikilink")和[可见光](../Page/可见光.md "wikilink")均有吸收。它的水溶液对452 (+/-3 [nm](../Page/纳米.md "wikilink"))的可见光有吸收，对应该波长下的消光系数达到11,500 M<sup>−1</sup>cm<sup>−1</sup>。在乙腈和水溶液中的[激发态](../Page/激发态.md "wikilink")寿命分别达到890纳秒\[3\]和690纳秒\[4\]。通过释放出波长为600纳米的光子激发态弛豫至[基态](https://zh.wikipedia.org/wiki/基态 "wikilink")。由于\[Ru(bipy)<sub>3</sub>\]<sup>2+</sup>的激发态是三线态的，而因分子结构的影响存在配合物离子的电荷分离使得基态为单线态的，三线态向基态的转变是禁阻的，转变速度慢，所以激发态的存在寿命较长。
+\[Ru(bipy)<sub>3</sub>\]<sup>2+</sup>对[紫外线](../Page/紫外线.md "wikilink")和[可见光](../Page/可见光.md "wikilink")均有吸收。它的水溶液对452 (+/-3 [nm](../Page/纳米.md "wikilink"))的可见光有吸收，对应该波长下的消光系数达到11,500 M<sup>−1</sup>cm<sup>−1</sup>。在乙腈和水溶液中的[激发态寿命分别达到](https://zh.wikipedia.org/wiki/激发态 "wikilink")890纳秒\[3\]和690纳秒\[4\]。通过释放出波长为600纳米的光子激发态弛豫至[基态](https://zh.wikipedia.org/wiki/基态 "wikilink")。由于\[Ru(bipy)<sub>3</sub>\]<sup>2+</sup>的激发态是三线态的，而因分子结构的影响存在配合物离子的电荷分离使得基态为单线态的，三线态向基态的转变是禁阻的，转变速度慢，所以激发态的存在寿命较长。
 
 ## 参考资料
 

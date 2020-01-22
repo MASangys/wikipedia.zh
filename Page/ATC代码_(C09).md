@@ -45,7 +45,7 @@
 
   -
     C09BB02 依那普利和[乐卡地平](https://zh.wikipedia.org/wiki/乐卡地平 "wikilink")（Enalapril and lercanidipine）
-    C09BB03 赖诺普利和[氨氯地平](../Page/氨氯地平.md "wikilink")（Lisinopril and amlodipine）
+    C09BB03 赖诺普利和[氨氯地平](https://zh.wikipedia.org/wiki/氨氯地平 "wikilink")（Lisinopril and amlodipine）
     C09BB04 培哚普利和氨氯地平（Perindopril and amlodipine）
     C09BB05 雷米普利和[非洛地平](https://zh.wikipedia.org/wiki/非洛地平 "wikilink")（Ramipril and felodipine）
     C09BB06 依那普利和[尼群地平](https://zh.wikipedia.org/wiki/尼群地平 "wikilink")（Enalapril and nitrendipine）
@@ -60,11 +60,11 @@
   -
     C09CA01 [氯沙坦](https://zh.wikipedia.org/wiki/氯沙坦 "wikilink")（Losartan）
     C09CA02 [依普罗沙坦](https://zh.wikipedia.org/wiki/依普罗沙坦 "wikilink")（Eprosartan）
-    C09CA03 [缬沙坦](../Page/缬沙坦.md "wikilink")（Valsartan）
-    C09CA04 [厄贝沙坦](../Page/厄贝沙坦.md "wikilink")（Irbesartan）
+    C09CA03 [缬沙坦](https://zh.wikipedia.org/wiki/缬沙坦 "wikilink")（Valsartan）
+    C09CA04 [厄贝沙坦](https://zh.wikipedia.org/wiki/厄贝沙坦 "wikilink")（Irbesartan）
     C09CA05 [他索沙坦](https://zh.wikipedia.org/wiki/他索沙坦 "wikilink")（Tasosartan）
-    C09CA06 [坎地沙坦](../Page/坎地沙坦.md "wikilink")（Candesartan）
-    C09CA07 [替米沙坦](../Page/替米沙坦.md "wikilink")（Telmisartan）
+    C09CA06 [坎地沙坦](https://zh.wikipedia.org/wiki/坎地沙坦 "wikilink")（Candesartan）
+    C09CA07 [替米沙坦](https://zh.wikipedia.org/wiki/替米沙坦 "wikilink")（Telmisartan）
     C09CA08 [奥美沙坦美索酯](https://zh.wikipedia.org/wiki/奥美沙坦美索酯 "wikilink")（Olmesartan medoxomil）
     C09CA09 [阿齐沙坦酯](https://zh.wikipedia.org/wiki/阿齐沙坦酯 "wikilink")（Azilsartan medoxomil）
 

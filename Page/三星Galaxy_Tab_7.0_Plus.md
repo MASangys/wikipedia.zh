@@ -1,7 +1,7 @@
 > 本文内容由[三星Galaxy Tab 7.0 Plus](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_7.0_Plus)转换而来。
 
 
-**Samsung Galaxy Tab 7.0 Plus**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")生產的[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink") [Android](../Page/Android.md "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，支援[3G](../Page/3G.md "wikilink")[話音通話功能](https://zh.wikipedia.org/wiki/話音 "wikilink")，可作為手機使用，在2011年11月推出。
+**Samsung Galaxy Tab 7.0 Plus**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")生產的[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink") [Android](https://zh.wikipedia.org/wiki/Android "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，支援[3G](../Page/3G.md "wikilink")[話音通話功能](https://zh.wikipedia.org/wiki/話音 "wikilink")，可作為手機使用，在2011年11月推出。
 
 ## 硬件
 
@@ -9,7 +9,7 @@ Samsung Galaxy Tab 7.0 Plus使用[Exynos](https://zh.wikipedia.org/wiki/Exynos "
 
 ## 軟件
 
-Samsung Galaxy Tab 7.0 Plus採用[Android](../Page/Android.md "wikilink") 3.2 Honeycomb，可升級到Android 4.0.4 Ice Cream Sandwich操作系統。內置三星[Touchwiz](https://zh.wikipedia.org/wiki/Touchwiz "wikilink") v4.0[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")。
+Samsung Galaxy Tab 7.0 Plus採用[Android](https://zh.wikipedia.org/wiki/Android "wikilink") 3.2 Honeycomb，可升級到Android 4.0.4 Ice Cream Sandwich操作系統。內置三星[Touchwiz](https://zh.wikipedia.org/wiki/Touchwiz "wikilink") v4.0[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")。
 
 ## 參考資料
 

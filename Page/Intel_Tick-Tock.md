@@ -120,7 +120,7 @@ Intel的主要對手AMD歷年來也跟隨著Intel的製程腳步做處理器演�
 <tr class="odd">
 <td><p>Optimization</p></td>
 <td><p>優化</p></td>
-<td><p><a href="../Page/Coffee_Lake微架构.md" title="wikilink">Coffee Lake</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Coffee_Lake微架构" title="wikilink">Coffee Lake</a></p></td>
 <td><p>14奈米++</p></td>
 <td><p>2017年10月5日</p></td>
 </tr>

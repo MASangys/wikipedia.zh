@@ -13,7 +13,7 @@ Sony Xperia T具備4.55吋Reality Display屏幕，解像度為1280 x 720 HD。�
 
 ## 作業系統
 
-2012/09 [Sony發布Xperia](https://zh.wikipedia.org/wiki/Sony "wikilink") T的上市版本採用[Android](../Page/Android.md "wikilink") 4.0.4 Ice Cream Sandwich作業系統，取得[PlayStation](../Page/PlayStation.md "wikilink") Certified認證，並可登入Sony Entertainment Network。
+2012/09 [Sony發布Xperia](https://zh.wikipedia.org/wiki/Sony "wikilink") T的上市版本採用[Android](https://zh.wikipedia.org/wiki/Android "wikilink") 4.0.4 Ice Cream Sandwich作業系統，取得[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink") Certified認證，並可登入Sony Entertainment Network。
 
 2013/2 [Sony發布Xperia](https://zh.wikipedia.org/wiki/Sony "wikilink") T的發行版本Android 4.1.2 Jelly Bean。
 
@@ -43,7 +43,7 @@ Sony Xperia T具備4.55吋Reality Display屏幕，解像度為1280 x 720 HD。�
 ## 參見
 
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
-  - [Xperia](../Page/Xperia.md "wikilink")
+  - [Xperia](https://zh.wikipedia.org/wiki/Xperia "wikilink")
   - [Sony Xperia TX](../Page/Sony_Xperia_TX.md "wikilink")
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")

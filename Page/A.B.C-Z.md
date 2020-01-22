@@ -1,7 +1,7 @@
 > 本文内容由[A.B.C-Z](https://zh.wikipedia.org/wiki/A.B.C-Z)转换而来。
 
 
-**A.B.C-Z**，是隸屬於日本[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的五人團體。2008年組成，前身團體為A.B.C。2012年以「Za ABC〜5stars〜」正式出道。
+**A.B.C-Z**，是隸屬於日本[傑尼斯事務所的五人團體](https://zh.wikipedia.org/wiki/傑尼斯事務所 "wikilink")。2008年組成，前身團體為A.B.C。2012年以「Za ABC〜5stars〜」正式出道。
 
 ## 團體介紹
 
@@ -618,7 +618,7 @@
 ### Event
 
   - A.B.C-Z出道紀念Event （2012年1月31日、東京・[渋谷](https://zh.wikipedia.org/wiki/渋谷 "wikilink")　[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")）
-  - A.B.C-Z全國公演紀念[握手會](../Page/握手會.md "wikilink")（2012年3月5日～7日、4月3日‧17日‧21日‧26日、5月5日、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")‧[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")‧[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")‧[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")‧[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")‧[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")）
+  - A.B.C-Z全國公演紀念[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")（2012年3月5日～7日、4月3日‧17日‧21日‧26日、5月5日、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")‧[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")‧[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")‧[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")‧[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")‧[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")）
 
 ## A.B.C.
 

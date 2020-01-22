@@ -1,7 +1,7 @@
 > 本文内容由[人人彈起 \(Twins專輯\)](https://zh.wikipedia.org/wiki/人人彈起_\(Twins專輯\))转换而来。
 
 
-《**人人彈起**》，為[香港](../Page/香港.md "wikilink")女子雙人歌唱組合[Twins的第四張精選專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，該精選與[鍾欣桐的首張個人EP](https://zh.wikipedia.org/wiki/鍾欣桐 "wikilink")[人人彈起一起捆紮銷售](../Page/人人彈起_\(鍾欣桐專輯\).md "wikilink")，於2010年3月27日在香港一同發行，主要收錄兩首新歌「人人彈起」、「成長」。專輯封面分藍色版與橙色版兩種版本。
+《**人人彈起**》，為[香港](../Page/香港.md "wikilink")女子雙人歌唱組合[Twins的第四張精選專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，該精選與[鍾欣桐的首張個人EP](https://zh.wikipedia.org/wiki/鍾欣桐 "wikilink")[人人彈起一起捆紮銷售](https://zh.wikipedia.org/wiki/人人彈起_\(鍾欣桐專輯\) "wikilink")，於2010年3月27日在香港一同發行，主要收錄兩首新歌「人人彈起」、「成長」。專輯封面分藍色版與橙色版兩種版本。
 
 ## 曲目
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-1.  人人彈起（「[Twins人人彈起演唱會2010](../Page/人人彈起世界巡迴演唱會.md "wikilink")」主題曲）（New）
+1.  人人彈起（「[Twins人人彈起演唱會2010](https://zh.wikipedia.org/wiki/人人彈起世界巡迴演唱會 "wikilink")」主題曲）（New）
 2.  眼紅紅
 3.  風箏與風
 4.  戀愛大過天

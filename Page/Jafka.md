@@ -3,7 +3,7 @@
 
 **Jafka** 是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")、高性能的、跨语言分布式，使用[GitHub](../Page/GitHub.md "wikilink")托管\[1\]。
 
-Jafka 最早是由[Apache孵化的](https://zh.wikipedia.org/wiki/Apache "wikilink")[Kafka](../Page/Kafka.md "wikilink")（由[LinkedIn捐助给Apache](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")）克隆而来。
+Jafka 最早是由[Apache孵化的](https://zh.wikipedia.org/wiki/Apache "wikilink")[Kafka](https://zh.wikipedia.org/wiki/Kafka "wikilink")（由[LinkedIn捐助给Apache](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")）克隆而来。
 
 ## 特色
 

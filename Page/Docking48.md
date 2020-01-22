@@ -12,13 +12,13 @@
 <!-- end list -->
 
   - [陣内智則](https://zh.wikipedia.org/wiki/陣内智則 "wikilink")（主持）
-  - [小林劍道](../Page/小林劍道.md "wikilink")（演講嘉賓）
+  - [小林劍道](https://zh.wikipedia.org/wiki/小林劍道 "wikilink")（演講嘉賓）
   - [たむらけんじ](https://zh.wikipedia.org/wiki/たむらけんじ "wikilink")（演講嘉賓）
   - [高橋真理惠](https://zh.wikipedia.org/wiki/高橋真理惠 "wikilink")（關西電視台播音員）
   - [中島めぐみ](https://zh.wikipedia.org/wiki/中島めぐみ_\(アナウンサー\) "wikilink")（關西電視台播音員）
   - [菱田盛之](https://zh.wikipedia.org/wiki/菱田盛之 "wikilink")（旁白、どっキングマ之声）
   - 柳原沙知（旁白、どっキンクイーン之声）
-  - [NMB48](../Page/NMB48.md "wikilink")（最新的選抜成員16人）
+  - [NMB48](https://zh.wikipedia.org/wiki/NMB48 "wikilink")（最新的選抜成員16人）
 
 <table>
 <colgroup>
@@ -36,7 +36,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2011年4月19日 - 2011年6月21日</p></td>
-<td><p><a href="../Page/小笠原茉由.md" title="wikilink">小笠原茉由</a>、<a href="../Page/門脇佳奈子.md" title="wikilink">門脇佳奈子</a>、<a href="../Page/岸野里香.md" title="wikilink">岸野里香</a>、<a href="../Page/木下春奈.md" title="wikilink">木下春奈</a>、<a href="https://zh.wikipedia.org/wiki/小谷里步" title="wikilink">小谷里步</a>、<a href="../Page/近藤里奈.md" title="wikilink">近藤里奈</a>、篠原栞那、<a href="../Page/上西惠.md" title="wikilink">上西惠</a>、<a href="../Page/白間美瑠.md" title="wikilink">白間美瑠</a>、<a href="../Page/福本愛菜.md" title="wikilink">福本愛菜</a>、松田栞、森彩華、<a href="https://zh.wikipedia.org/wiki/山田菜々" title="wikilink">山田菜々</a>、<a href="../Page/山本彩.md" title="wikilink">山本彩</a>、<a href="../Page/吉田朱里.md" title="wikilink">吉田朱里</a>、<a href="https://zh.wikipedia.org/wiki/渡辺美優紀" title="wikilink">渡辺美優紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小笠原茉由" title="wikilink">小笠原茉由</a>、<a href="../Page/門脇佳奈子.md" title="wikilink">門脇佳奈子</a>、<a href="../Page/岸野里香.md" title="wikilink">岸野里香</a>、<a href="https://zh.wikipedia.org/wiki/木下春奈" title="wikilink">木下春奈</a>、<a href="https://zh.wikipedia.org/wiki/小谷里步" title="wikilink">小谷里步</a>、<a href="https://zh.wikipedia.org/wiki/近藤里奈" title="wikilink">近藤里奈</a>、篠原栞那、<a href="../Page/上西惠.md" title="wikilink">上西惠</a>、<a href="../Page/白間美瑠.md" title="wikilink">白間美瑠</a>、<a href="../Page/福本愛菜.md" title="wikilink">福本愛菜</a>、松田栞、森彩華、<a href="https://zh.wikipedia.org/wiki/山田菜々" title="wikilink">山田菜々</a>、<a href="https://zh.wikipedia.org/wiki/山本彩" title="wikilink">山本彩</a>、<a href="https://zh.wikipedia.org/wiki/吉田朱里" title="wikilink">吉田朱里</a>、<a href="https://zh.wikipedia.org/wiki/渡辺美優紀" title="wikilink">渡辺美優紀</a></p></td>
 <td><p>TeamN初期成員。</p></td>
 </tr>
 <tr class="even">
@@ -47,7 +47,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011年10月4日 - 2012年1月10日</p></td>
-<td><p>小笠原茉由、門脇佳奈子、岸野里香、木下春奈、小谷里歩、<a href="../Page/城惠理子.md" title="wikilink">城惠理子</a>、上西恵、白間美瑠、福本愛菜、<a href="../Page/村上文香.md" title="wikilink">村上文香</a>、<a href="../Page/矢倉楓子.md" title="wikilink">矢倉楓子</a>、山岸奈津美、山口夕輝、山田菜々、山本彩、<a href="../Page/與儀凱拉.md" title="wikilink">與儀凱拉</a></p></td>
+<td><p>小笠原茉由、門脇佳奈子、岸野里香、木下春奈、小谷里歩、<a href="https://zh.wikipedia.org/wiki/城惠理子" title="wikilink">城惠理子</a>、上西恵、白間美瑠、福本愛菜、<a href="https://zh.wikipedia.org/wiki/村上文香" title="wikilink">村上文香</a>、<a href="../Page/矢倉楓子.md" title="wikilink">矢倉楓子</a>、山岸奈津美、山口夕輝、山田菜々、山本彩、<a href="../Page/與儀凱拉.md" title="wikilink">與儀凱拉</a></p></td>
 <td><p>2nd單曲選抜成員。<br />
 近藤、篠原、松田、吉田、渡辺が抜けて城、村上、矢倉、山岸、與儀新加入[2]。</p></td>
 </tr>
@@ -73,7 +73,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012年9月25日</p></td>
-<td><p><a href="../Page/太田里織菜.md" title="wikilink">太田里織菜</a>、沖田彩華、川上礼奈、木下百花、島田玲奈、城恵理子、<a href="https://zh.wikipedia.org/wiki/高野祐衣" title="wikilink">高野祐衣</a>、谷川愛梨<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/太田里織菜" title="wikilink">太田里織菜</a>、沖田彩華、川上礼奈、木下百花、島田玲奈、城恵理子、<a href="https://zh.wikipedia.org/wiki/高野祐衣" title="wikilink">高野祐衣</a>、谷川愛梨<br />
 <a href="../Page/肥川彩愛.md" title="wikilink">肥川彩愛</a>、藤田留奈、<a href="../Page/三田麻央.md" title="wikilink">三田麻央</a>、村上文香、<a href="https://zh.wikipedia.org/wiki/村瀬紗英" title="wikilink">村瀬紗英</a>、矢倉楓子、山岸奈津美、與儀ケイラ</p></td>
 <td><p>Team M成員。<br />
 太田、沖田、川上、肥川是初出演。</p></td>
@@ -188,14 +188,14 @@
 <tr class="even">
 <td><p>9</p></td>
 <td><p>6月14日</p></td>
-<td><p><a href="../Page/武田修宏.md" title="wikilink">武田修宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/武田修宏" title="wikilink">武田修宏</a></p></td>
 <td><p>モテ男のモテクニック</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/かるた" title="wikilink">競技かるたで</a>48</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>6月21日</p></td>
-<td><p><a href="../Page/熊田曜子.md" title="wikilink">熊田曜子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熊田曜子" title="wikilink">熊田曜子</a></p></td>
 <td><p>グッとくる女</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ダーツ" title="wikilink">ダーツでピッタリ</a>48</p></td>
 </tr>
@@ -292,7 +292,7 @@
 <td><p>9月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/出川哲朗" title="wikilink">出川哲朗</a></p></td>
 <td><p>たむけん王子プレゼンツ 淡路島ゴージャスツアー</p></td>
-<td><p><a href="../Page/淡路島.md" title="wikilink">淡路島</a>で<a href="https://zh.wikipedia.org/wiki/釣り堀" title="wikilink">釣り堀</a>48</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/淡路島" title="wikilink">淡路島で</a><a href="https://zh.wikipedia.org/wiki/釣り堀" title="wikilink">釣り堀</a>48</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
@@ -587,7 +587,7 @@
 <tr class="even">
 <td><p>52</p></td>
 <td><p>4月17日</p></td>
-<td><p><a href="../Page/NON_STYLE.md" title="wikilink">NON STYLE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NON_STYLE" title="wikilink">NON STYLE</a></p></td>
 <td><p>どっキンググルメ四十八手 粉もん編</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/絶叫マシン" title="wikilink">絶叫マシーンみつめて</a>48</p></td>
 </tr>
@@ -1151,11 +1151,11 @@
   - 2011年1月度：[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink") feat. [史努比狗狗](../Page/史努比狗狗.md "wikilink")『カリフォルニア・ガールズ』
   - 2011年2月度：[ももちひろこ](https://zh.wikipedia.org/wiki/ももちひろこ "wikilink")『明日、キミと手をつなぐよ』
   - 2011年3月度：bump.y『卒業までに…』
-  - 2011年4月5日：[Not yet](../Page/Not_yet.md "wikilink")『[週末Not yet](../Page/週末Not_yet.md "wikilink")』
+  - 2011年4月5日：[Not yet](https://zh.wikipedia.org/wiki/Not_yet "wikilink")『[週末Not yet](https://zh.wikipedia.org/wiki/週末Not_yet "wikilink")』
   - 2011年4月19日・26日：[Lady Gaga](../Page/Lady_Gaga.md "wikilink")『ボーン・ディス・ウェイ』
   - 2011年5月3日 - 5月31日：[黑夢](https://zh.wikipedia.org/wiki/黑夢 "wikilink")『アロン』
-  - 2011年6月7日 - 6月28日：[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")『MAX\!乙女心』
-  - 2011年7月5日 - 9月13日：NMB48『[絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")』
+  - 2011年6月7日 - 6月28日：[SUPER☆GiRLS](https://zh.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")『MAX\!乙女心』
+  - 2011年7月5日 - 9月13日：NMB48『[絕滅黑髮少女](https://zh.wikipedia.org/wiki/絕滅黑髮少女 "wikilink")』
   - 2011年9月20日 - 12月27日：NMB48『[Oh My God\!](../Page/Oh_My_God!.md "wikilink")』
   - 2012年1月10日 - 4月17日：NMB48『[純情U-19](../Page/純情U-19.md "wikilink")』
   - 2012年2月7日・14日：[安田奈央](https://zh.wikipedia.org/wiki/安田奈央 "wikilink")『真夜中のひだまり』\[5\]

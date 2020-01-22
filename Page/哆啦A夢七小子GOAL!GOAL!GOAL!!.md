@@ -1,7 +1,7 @@
 > 本文内容由[哆啦A夢七小子GOAL!GOAL!GOAL!!](https://zh.wikipedia.org/wiki/哆啦A夢七小子GOAL!GOAL!GOAL!!)转换而来。
 
 
-《**哆啦A夢七小子GOAL\!GOAL\!GOAL\!\!**》（），[哆啦A夢七小子](../Page/哆啦A夢七小子.md "wikilink")的第七部動畫，於2002年3月9日和《[大雄與機器人王國](../Page/大雄與機器人王國.md "wikilink")》、《[我出生的那一天](../Page/我出生的那一天.md "wikilink")》同時上映。片長7分鐘，是[哆啦A夢附篇電影系列中最短的一部作品](../Page/哆啦A夢_\(動畫\).md "wikilink")。
+《**哆啦A夢七小子GOAL\!GOAL\!GOAL\!\!**》（），[哆啦A夢七小子](../Page/哆啦A夢七小子.md "wikilink")的第七部動畫，於2002年3月9日和《[大雄與機器人王國](../Page/大雄與機器人王國.md "wikilink")》、《[我出生的那一天](https://zh.wikipedia.org/wiki/我出生的那一天 "wikilink")》同時上映。片長7分鐘，是[哆啦A夢附篇電影系列中最短的一部作品](../Page/哆啦A夢_\(動畫\).md "wikilink")。
 
 ## 劇情概要
 

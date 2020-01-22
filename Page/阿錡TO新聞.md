@@ -13,7 +13,7 @@
 
 ## 參見
 
-  - [關鍵時刻](../Page/關鍵時刻_\(東森\).md "wikilink")
+  - [關鍵時刻](https://zh.wikipedia.org/wiki/關鍵時刻_\(東森\) "wikilink")
 
 ## 註釋
 

@@ -1,7 +1,7 @@
 > 本文内容由[AKB48 in TOKYO DOME ～1830m的夢想～](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的夢想～)转换而来。
 
 
-**AKB48 in TOKYO DOME ～1830m的夢想～**（）是[AKB48](../Page/AKB48.md "wikilink")於2012年8月24日 - 26日在[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉辦的演唱會。「1830m」指的是從[AKB48劇場](../Page/AKB48劇場.md "wikilink")到東京巨蛋之間的實際距離。
+**AKB48 in TOKYO DOME ～1830m的夢想～**（）是[AKB48](../Page/AKB48.md "wikilink")於2012年8月24日 - 26日在[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉辦的演唱會。「1830m」指的是從[AKB48劇場到東京巨蛋之間的實際距離](https://zh.wikipedia.org/wiki/AKB48劇場 "wikilink")。
 
 ## 第1日
 
@@ -28,24 +28,24 @@
 19. **哇修K\!** - Team K
 20. **[唔吼大遊行](https://zh.wikipedia.org/wiki/teamK_6th_Stage「RESET」 "wikilink")** - Team K
 21. **[關於希望](../Page/關於希望.md "wikilink")** - NO NAME
-22. **[妳正在看著夕陽嗎？](../Page/妳正在看著夕陽嗎？.md "wikilink")** - 1期生6名
-23. **[風正在吹](../Page/風正在吹.md "wikilink")** - 1期生6名＆高城亞樹・大島優子・河西智美・柏木由紀・北原里英・渡辺麻友・宮澤佐江・指原莉乃・島崎遙香・橫山由依
-24. **[你與彩虹與太陽](../Page/神曲集.md "wikilink")** - Team B・Team 4・Team 未定
-25. **[BINGO\!](../Page/BINGO!.md "wikilink")** - SKE48
-26. **[10年櫻](../Page/10年櫻.md "wikilink")** - NMB48
-27. **[與核桃對話](../Page/機會的順序.md "wikilink")** - Team A＆武藤十夢
+22. **[妳正在看著夕陽嗎？](https://zh.wikipedia.org/wiki/妳正在看著夕陽嗎？ "wikilink")** - 1期生6名
+23. **[風正在吹](https://zh.wikipedia.org/wiki/風正在吹 "wikilink")** - 1期生6名＆高城亞樹・大島優子・河西智美・柏木由紀・北原里英・渡辺麻友・宮澤佐江・指原莉乃・島崎遙香・橫山由依
+24. **[你與彩虹與太陽](https://zh.wikipedia.org/wiki/神曲集 "wikilink")** - Team B・Team 4・Team 未定
+25. **[BINGO\!](https://zh.wikipedia.org/wiki/BINGO! "wikilink")** - SKE48
+26. **[10年櫻](https://zh.wikipedia.org/wiki/10年櫻 "wikilink")** - NMB48
+27. **[與核桃對話](https://zh.wikipedia.org/wiki/機會的順序 "wikilink")** - Team A＆武藤十夢
 28. **[RUN RUN RUN](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage「我的太阳」 "wikilink")** - Team 4
-29. **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")** - JKT48
+29. **[Baby\! Baby\! Baby\!](https://zh.wikipedia.org/wiki/Baby!_Baby!_Baby! "wikilink")** - JKT48
 30. **[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")** - HKT48
 31. **[崇尚麻里子](../Page/崇尚麻里子.md "wikilink")**
 32. **[因為喜歡你](../Page/RIVER_\(AKB48單曲\).md "wikilink")**
 33. **[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")**
-34. **[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")**
+34. **[Beginner](https://zh.wikipedia.org/wiki/Beginner_\(AKB48單曲\) "wikilink")**
 35. **[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")**
 36. **[Maybe是藉口](../Page/Maybe是藉口.md "wikilink")**
-37. **[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")**
+37. **[Everyday、髮箍](https://zh.wikipedia.org/wiki/Everyday、髮箍 "wikilink")**
 38. **[馬尾與髮圈](../Page/馬尾與髮圈.md "wikilink")**
-39. **[飛翔入手](../Page/飛翔入手.md "wikilink")**
+39. **[飛翔入手](https://zh.wikipedia.org/wiki/飛翔入手 "wikilink")**
 40. **[仲夏的Sounds good\!](../Page/仲夏的Sounds_good!.md "wikilink")**
 41. **[在藍天旁](https://zh.wikipedia.org/wiki/TeamA_1st_Stage「PARTY开始了」 "wikilink")**
 
@@ -56,8 +56,8 @@
 <!-- end list -->
 
 1.  **[格子花紋](../Page/格子花紋.md "wikilink")**
-2.  **[因為有你在](../Page/SET_LIST～Greatest_Songs～完全盤.md "wikilink")**
-3.  **[少女們](../Page/就是在這裡.md "wikilink")**
+2.  **[因為有你在](https://zh.wikipedia.org/wiki/SET_LIST～Greatest_Songs～完全盤 "wikilink")**
+3.  **[少女們](https://zh.wikipedia.org/wiki/就是在這裡 "wikilink")**
 4.  **[無限重播](../Page/無限重播.md "wikilink")**
 5.  **[飛機雲](../Page/RIVER_\(AKB48單曲\).md "wikilink")**
 
@@ -72,11 +72,11 @@
 5.  **想見你**
 6.  **[而且不叫酪梨啦…](../Page/1830m.md "wikilink")** - 指原莉乃・渡辺麻友
 7.  **[睡衣兜风](https://zh.wikipedia.org/wiki/teamB_3rd_Stage「睡衣兜风」 "wikilink")** - 山内鈴蘭・渡辺美優紀・須田亜香里
-8.  **[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")** - 入山杏奈・加藤玲奈・川栄李奈・島崎遥香・木崎ゆりあ・木本花音・高橋朱里
+8.  **[裙襬飄飄](https://zh.wikipedia.org/wiki/裙襬飄飄 "wikilink")** - 入山杏奈・加藤玲奈・川栄李奈・島崎遥香・木崎ゆりあ・木本花音・高橋朱里
 9.  '''[零和太陽](../Page/崇尚麻里子.md "wikilink") - Team K
 10. **[離家出走的夜晚](../Page/1830m.md "wikilink")** - Team K
 11. **[Hate](../Page/1830m.md "wikilink")** - Team A
-12. **[曾不屑一顧的愛情](../Page/曾不屑一顧的愛情.md "wikilink")** - Team A
+12. **[曾不屑一顧的愛情](https://zh.wikipedia.org/wiki/曾不屑一顧的愛情 "wikilink")** - Team A
 13. **在曾經看見的海底**
 14. **NEW SHIP**
 15. **[我們 現在 應該好好談談](../Page/1830m.md "wikilink")** - 板野友美・柏木由紀
@@ -85,7 +85,7 @@
 18. **[天使的尾巴](https://zh.wikipedia.org/wiki/teamB_3rd_Stage「睡衣兜风」 "wikilink")** - 横山由依・大島優子・峯岸みなみ
 19. **[不算](../Page/1830m.md "wikilink")** - Team B
 20. **[呀喝B！](https://zh.wikipedia.org/wiki/teamB_3rd_Stage「睡衣兜风」 "wikilink")** - Team B
-21. **[翡翠色的沙灘裙](../Page/翡翠色的沙灘裙.md "wikilink")** - SKE48
+21. **[翡翠色的沙灘裙](https://zh.wikipedia.org/wiki/翡翠色的沙灘裙 "wikilink")** - SKE48
 22. **[跑吧！企鵝](../Page/崇尚麻里子.md "wikilink")** - Team 4
 23. **[我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage「我的太阳」#AKB48_Team4_1st_Stage“我的太阳”公演 "wikilink")** - Team 4
 24. **[海岸邊最可愛的女孩！](../Page/海岸邊最可愛的女孩！.md "wikilink")** - NMB48
@@ -152,13 +152,13 @@
 16. **[Only today](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在恋爱中」 "wikilink")** - Team A
 17. **[化作滾石吧](https://zh.wikipedia.org/wiki/teamK_2nd_Stage「青春女孩」 "wikilink")** - Team K
 18. **[大家一起來](https://zh.wikipedia.org/wiki/teamB_4th_Stage「偶像的黎明」 "wikilink")** - Team B
-19. **[黄金中心](../Page/變成櫻花樹.md "wikilink")** - Team 4
+19. **[黄金中心](https://zh.wikipedia.org/wiki/變成櫻花樹 "wikilink")** - Team 4
 20. **[蟲之敘事詩](https://zh.wikipedia.org/wiki/teamK_5th_Stage「引体后空翻」 "wikilink")** - 高橋みなみ
 21. **[沙灘的櫻桃](https://zh.wikipedia.org/wiki/TeamA_2nd_Stage「想见你」 "wikilink")** - 前田敦子・川栄李奈・島崎遥香・木崎ゆりあ
 22. **[黑色天使](https://zh.wikipedia.org/wiki/teamA_5th_Stage「恋愛禁止条例」 "wikilink")** - 渡辺麻友・前田敦子・松井珠理奈
 23. **[不要叫我偶像](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage「我的太阳」 "wikilink")** - 小嶋陽菜・大島優子・前田敦子・板野友美
 24. **[你就是我](../Page/你就是我.md "wikilink")** - 前田敦子
-25. **[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")**
+25. **[Everyday、髮箍](https://zh.wikipedia.org/wiki/Everyday、髮箍 "wikilink")**
 26. **無限重播**
 27. **妳正在看著夕陽嗎？** - 1期生6名
 28. **風正在吹**
@@ -179,7 +179,7 @@
 43. **馬尾與髮圈**
 44. **飛翔入手**
 45. **仲夏的Sounds good\!**
-46. **[就是在這裡](../Page/就是在這裡.md "wikilink")**
+46. **[就是在這裡](https://zh.wikipedia.org/wiki/就是在這裡 "wikilink")**
 
 <!-- end list -->
 
@@ -196,8 +196,8 @@
 
 ## DVD
 
-  - 「AKB48 in TOKYO DOME 〜1830mの夢〜」DVD（2012年11月28日、[AKS](../Page/AKS.md "wikilink")）
-  - 「AKB48 in TOKYO DOME 〜1830mの夢〜」Blu-ray（2012年12月19日、[AKS](../Page/AKS.md "wikilink")）
+  - 「AKB48 in TOKYO DOME 〜1830mの夢〜」DVD（2012年11月28日、[AKS](https://zh.wikipedia.org/wiki/AKS "wikilink")）
+  - 「AKB48 in TOKYO DOME 〜1830mの夢〜」Blu-ray（2012年12月19日、[AKS](https://zh.wikipedia.org/wiki/AKS "wikilink")）
 
 ## 外部連結
 

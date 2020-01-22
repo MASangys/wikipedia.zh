@@ -11,7 +11,7 @@
 
 ## 相关
 
-[K-15海洋导弹](../Page/K-15海洋导弹.md "wikilink")
+[K-15海洋导弹](https://zh.wikipedia.org/wiki/K-15海洋导弹 "wikilink")
 
 ## 参考文獻
 

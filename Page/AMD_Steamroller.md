@@ -12,8 +12,8 @@
   - 和AMD Bulldozer/Piledriver一致的“M-SPACE”模組化設計；
   - 使用[格羅方德的](https://zh.wikipedia.org/wiki/格羅方德 "wikilink")28納米[SOI](../Page/SOI.md "wikilink") [HKMG製程](https://zh.wikipedia.org/wiki/HKMG "wikilink")
   - 優化線程[排程](../Page/排程.md "wikilink")方式，增強線程並行性以提升線程執行效率；\[10\]
-  - 基於Steamroller架構的AMD Fusion，[顯示核心部分全面使用](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[AMD Radeon HD 7900/7800/7700系列的GCN](../Page/AMD_Radeon_HD_7000.md "wikilink")（Graphics Core Next）架構，並且CPU和內建GPU將實現[統一記憶體定址空間](https://zh.wikipedia.org/wiki/定址空間 "wikilink")。\[11\]
-  - 沿用的[處理器插座](../Page/CPU插座.md "wikilink")，即[Socket FM2+](../Page/Socket_FM2+.md "wikilink")（AMD Fusion）、仍然繼續使用，[晶片組除了可配套新發布的FCH晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")（AMD Fusion晶片組代號代號“Bolton”）；\[12\]
+  - 基於Steamroller架構的AMD Fusion，[顯示核心部分全面使用](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[AMD Radeon HD 7900/7800/7700系列的GCN](https://zh.wikipedia.org/wiki/AMD_Radeon_HD_7000 "wikilink")（Graphics Core Next）架構，並且CPU和內建GPU將實現[統一記憶體定址空間](https://zh.wikipedia.org/wiki/定址空間 "wikilink")。\[11\]
+  - 沿用的[處理器插座](../Page/CPU插座.md "wikilink")，即[Socket FM2+](https://zh.wikipedia.org/wiki/Socket_FM2+ "wikilink")（AMD Fusion）、仍然繼續使用，[晶片組除了可配套新發布的FCH晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")（AMD Fusion晶片組代號代號“Bolton”）；\[12\]
   - 已确认放弃发布除桌面Athlon II X4外的独立CPU 现已发布Athlon x4 860K 后者被认为是体质较差的A10-7850K屏蔽核显而来
   - 單核心同頻效能約Phenom II(K10.5架構)下的0.9倍
   - Steamroller將會採用radix-8 SRT浮點模塊，每週期運行指令將從目前的radix- 4單元的2條提高到3條。

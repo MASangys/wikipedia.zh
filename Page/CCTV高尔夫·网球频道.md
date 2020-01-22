@@ -9,4 +9,4 @@
 
 2020年1月1日4:00，高尔夫·网球频道与央视其余12套付费频道的高清版本正式上星播出；标清版本至同年4月1日4:00停播。
 
-[Category:中国中央电视台数字频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台数字频道 "wikilink")
+[Category:中国中央电视台数字频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台数字频道 "wikilink") [Category:中国中央电视台体育类频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台体育类频道 "wikilink")

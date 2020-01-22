@@ -1,11 +1,11 @@
 > 本文内容由[MIRACLE RUSH](https://zh.wikipedia.org/wiki/MIRACLE_RUSH)转换而来。
 
 
-「**MIRACLE RUSH**」是[StylipS](../Page/StylipS.md "wikilink")的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月16日由[Lantis](../Page/Lantis.md "wikilink")發售。
+「**MIRACLE RUSH**」是[StylipS的第](https://zh.wikipedia.org/wiki/StylipS "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月16日由[Lantis](../Page/Lantis.md "wikilink")發售。
 
 ## 概要
 
-與前作「[STUDY×STUDY](../Page/STUDY×STUDY.md "wikilink")」相隔約3個月發售的作品，是2012年的第2張單曲。標題曲「MIRACLE RUSH」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[咲-Saki- episode of side-A](../Page/咲-Saki-.md "wikilink")阿知賀編』的[主題曲](../Page/主題曲.md "wikilink")。
+與前作「[STUDY×STUDY](https://zh.wikipedia.org/wiki/STUDY×STUDY "wikilink")」相隔約3個月發售的作品，是2012年的第2張單曲。標題曲「MIRACLE RUSH」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[咲-Saki- episode of side-A](../Page/咲-Saki-.md "wikilink")阿知賀編』的[主題曲](../Page/主題曲.md "wikilink")。
 
 ## 收錄曲
 

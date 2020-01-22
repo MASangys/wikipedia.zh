@@ -5,7 +5,7 @@
 
 ## 行星系統
 
-2008年使用[XO望遠鏡](../Page/XO望遠鏡.md "wikilink")以[凌日法發現該恆星旁有一顆](https://zh.wikipedia.org/wiki/凌日法 "wikilink")[熱木星](../Page/熱木星.md "wikilink") [XO-4b](../Page/XO-4b.md "wikilink")\[2\]。
+2008年使用[XO望遠鏡以](https://zh.wikipedia.org/wiki/XO望遠鏡 "wikilink")[凌日法發現該恆星旁有一顆](https://zh.wikipedia.org/wiki/凌日法 "wikilink")[熱木星](../Page/熱木星.md "wikilink") [XO-4b](../Page/XO-4b.md "wikilink")\[2\]。
 
 ## 參考資料
 

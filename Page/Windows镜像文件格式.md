@@ -1,11 +1,11 @@
 > 本文内容由[Windows镜像文件格式](https://zh.wikipedia.org/wiki/Windows镜像文件格式)转换而来。
 
 
-**Windows 映像文件格式**（）是一个基于[文件的](https://zh.wikipedia.org/wiki/文件 "wikilink")[磁盘映像](../Page/磁盘映像.md "wikilink")[格式](https://zh.wikipedia.org/wiki/格式 "wikilink")。它由[微软公司设计且发布于](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Windows Vista及其之后的Windows](../Page/Windows_Vista.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，用来支持他们的一部分标准安装过程。它与旧版Windows操作系统兼容良好，且部分用于[Windows Fundamentals for Legacy PCs中](../Page/Windows_Fundamentals_for_Legacy_PCs.md "wikilink")。\[1\]。
+**Windows 映像文件格式**（）是一个基于[文件的](https://zh.wikipedia.org/wiki/文件 "wikilink")[磁盘映像](https://zh.wikipedia.org/wiki/磁盘映像 "wikilink")[格式](https://zh.wikipedia.org/wiki/格式 "wikilink")。它由[微软公司设计且发布于](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Windows Vista及其之后的Windows](../Page/Windows_Vista.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，用来支持他们的一部分标准安装过程。它与旧版Windows操作系统兼容良好，且部分用于[Windows Fundamentals for Legacy PCs中](../Page/Windows_Fundamentals_for_Legacy_PCs.md "wikilink")。\[1\]。
 
 ## 设计
 
-与其它[磁盘镜像格式类似](../Page/磁盘映像.md "wikilink")，WIM格式包含一系列的文件与所关联的[文件系统](../Page/文件系统.md "wikilink")[元数据](../Page/元数据.md "wikilink")。然而，与其他基于[磁盘扇区的格式](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")（如[ISO格式](https://zh.wikipedia.org/wiki/ISO "wikilink"),[CUE格式](https://zh.wikipedia.org/wiki/CUE "wikilink"),[BIN格式的光盘格式](https://zh.wikipedia.org/wiki/BIN "wikilink")）不同，WIM是基于文件的。这意味着信息的最小单元是一个[文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")。这使其最主要的优点是硬件独立，且一个文件的[SIS可在系统中被使用多次](https://zh.wikipedia.org/wiki/单一实例存储 "wikilink")。
+与其它[磁盘镜像格式类似](https://zh.wikipedia.org/wiki/磁盘映像 "wikilink")，WIM格式包含一系列的文件与所关联的[文件系统](../Page/文件系统.md "wikilink")[元数据](../Page/元数据.md "wikilink")。然而，与其他基于[磁盘扇区的格式](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")（如[ISO格式](https://zh.wikipedia.org/wiki/ISO "wikilink"),[CUE格式](https://zh.wikipedia.org/wiki/CUE "wikilink"),[BIN格式的光盘格式](https://zh.wikipedia.org/wiki/BIN "wikilink")）不同，WIM是基于文件的。这意味着信息的最小单元是一个[文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")。这使其最主要的优点是硬件独立，且一个文件的[SIS可在系统中被使用多次](https://zh.wikipedia.org/wiki/单一实例存储 "wikilink")。
 
 ## 文件布局
 

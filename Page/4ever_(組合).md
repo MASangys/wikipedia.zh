@@ -1,7 +1,7 @@
 > 本文内容由[4ever \(組合\)](https://zh.wikipedia.org/wiki/4ever_\(組合\))转换而来。
 
 
-**4ever**是[周子娛樂](../Page/周子娛樂.md "wikilink")於2012年推出的組合，團體目前已解散。由[孫沁岳](https://zh.wikipedia.org/wiki/Draft:孫沁岳 "wikilink")（沁岳）、[簡宏霖](../Page/言明澔.md "wikilink")（Jolin）、[李迪恩](https://zh.wikipedia.org/wiki/李迪恩 "wikilink")（迪恩）、[張洛偍組成](https://zh.wikipedia.org/wiki/張洛偍 "wikilink")。2012年6月10日發行首張EP《4ever》，後各自專注於戲劇演出。2018年初，孫沁岳、簡宏霖、李迪恩約滿，孫沁岳前往北京中央戲劇學院進修，重回學生生活。李迪恩於5月入伍服消防替代役，為期一年。簡宏霖於10月爆出與經紀人交惡，雙方在社群平台互掀醜事，2019年1月改用藝名言明澔參與蔡依林《腦公》MV，演出秋生一角。
+**4ever**是[周子娛樂於](https://zh.wikipedia.org/wiki/周子娛樂 "wikilink")2012年推出的組合，團體目前已解散。由[孫沁岳](https://zh.wikipedia.org/wiki/Draft:孫沁岳 "wikilink")（沁岳）、[簡宏霖](../Page/言明澔.md "wikilink")（Jolin）、[李迪恩](https://zh.wikipedia.org/wiki/李迪恩 "wikilink")（迪恩）、[張洛偍組成](https://zh.wikipedia.org/wiki/張洛偍 "wikilink")。2012年6月10日發行首張EP《4ever》，後各自專注於戲劇演出。2018年初，孫沁岳、簡宏霖、李迪恩約滿，孫沁岳前往北京中央戲劇學院進修，重回學生生活。李迪恩於5月入伍服消防替代役，為期一年。簡宏霖於10月爆出與經紀人交惡，雙方在社群平台互掀醜事，2019年1月改用藝名言明澔參與蔡依林《腦公》MV，演出秋生一角。
 
 ## 團體沿革
 
@@ -70,7 +70,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/簡宏霖" title="wikilink">簡宏霖</a></p></td>
-<td><p>Jolin</p></td>
+<td><p>言明澔</p></td>
 <td><p>Jolin Chien</p></td>
 <td><p>感動</p></td>
 <td></td>
@@ -431,7 +431,7 @@
 <td><center>
 <p>2010年5月14日</p></td>
 <td><center>
-<p><a href="../Page/清蜜星體驗.md" title="wikilink">清蜜星體驗</a>－女生版：第十篇－魔羯座學會輕鬆</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/清蜜星體驗" title="wikilink">清蜜星體驗</a>－女生版：第十篇－魔羯座學會輕鬆</p></td>
 <td><center>
 <p>李迪恩</p></td>
 <td><center>
@@ -447,7 +447,7 @@
 <td><center>
 <p>2011年9月24日</p></td>
 <td><center>
-<p><a href="../Page/我可能不會愛你.md" title="wikilink">我可能不會愛你</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/我可能不會愛你" title="wikilink">我可能不會愛你</a></p></td>
 <td><center>
 <p>拿鐵</p></td>
 <td><center>
@@ -469,7 +469,7 @@
 <td><center>
 <p>森</p></td>
 <td><center>
-<p><a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>、<a href="../Page/郭雪芙.md" title="wikilink">郭雪芙</a></p></td>
+<p><a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>、<a href="https://zh.wikipedia.org/wiki/郭雪芙" title="wikilink">郭雪芙</a></p></td>
 <td><center>
 <p>6,9,13-14,16</p></td>
 <td><center>
@@ -485,7 +485,7 @@
 <td><center>
 <p>Simon</p></td>
 <td><center>
-<p><a href="../Page/隋棠.md" title="wikilink">隋棠</a>、<a href="../Page/楊祐寧.md" title="wikilink">楊祐寧</a>、<a href="../Page/謝沛恩.md" title="wikilink">謝沛恩</a></p></td>
+<p><a href="../Page/隋棠.md" title="wikilink">隋棠</a>、<a href="../Page/楊祐寧.md" title="wikilink">楊祐寧</a>、<a href="https://zh.wikipedia.org/wiki/謝沛恩" title="wikilink">謝沛恩</a></p></td>
 <td><center>
 <p>全劇</p></td>
 <td><center>
@@ -501,7 +501,7 @@
 <td><center>
 <p>韓鋼/Andy</p></td>
 <td><center>
-<p><a href="../Page/楊一展.md" title="wikilink">楊一展</a>、<a href="../Page/王樂妍.md" title="wikilink">王樂妍</a>、<a href="../Page/方志友.md" title="wikilink">方志友</a>、<a href="../Page/張甯兒.md" title="wikilink">張甯兒</a></p></td>
+<p><a href="../Page/楊一展.md" title="wikilink">楊一展</a>、<a href="../Page/王樂妍.md" title="wikilink">王樂妍</a>、<a href="https://zh.wikipedia.org/wiki/方志友" title="wikilink">方志友</a>、<a href="../Page/張甯兒.md" title="wikilink">張甯兒</a></p></td>
 <td><center>
 <p>21-26</p></td>
 <td><center>
@@ -511,13 +511,13 @@
 <td><center>
 <p>2014年5月23日</p></td>
 <td><center>
-<p><a href="../Page/喜歡·一個人.md" title="wikilink">喜歡·一個人</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/喜歡·一個人" title="wikilink">喜歡·一個人</a></p></td>
 <td><center>
 <p>簡宏霖</p></td>
 <td><center>
 <p>程浩威</p></td>
 <td><center>
-<p><a href="../Page/郭雪芙.md" title="wikilink">郭雪芙</a>、<a href="../Page/劉以豪.md" title="wikilink">劉以豪</a>、<a href="../Page/賴琳恩.md" title="wikilink">賴琳恩</a>、<a href="../Page/邵翔.md" title="wikilink">邵翔</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/郭雪芙" title="wikilink">郭雪芙</a>、<a href="../Page/劉以豪.md" title="wikilink">劉以豪</a>、<a href="../Page/賴琳恩.md" title="wikilink">賴琳恩</a>、<a href="../Page/邵翔.md" title="wikilink">邵翔</a></p></td>
 <td><center>
 <p>3-4,7-20-22</p></td>
 <td><center>
@@ -559,7 +559,7 @@
 <td><center>
 <p>小寶</p></td>
 <td><center>
-<p><a href="../Page/鄭元暢.md" title="wikilink">鄭元暢</a>、<a href="../Page/張鈞甯.md" title="wikilink">張鈞甯</a>、<a href="../Page/孟耿如.md" title="wikilink">孟耿如</a>、<a href="../Page/邱昊奇.md" title="wikilink">邱昊奇</a></p></td>
+<p><a href="../Page/鄭元暢.md" title="wikilink">鄭元暢</a>、<a href="../Page/張鈞甯.md" title="wikilink">張鈞甯</a>、<a href="../Page/孟耿如.md" title="wikilink">孟耿如</a>、<a href="https://zh.wikipedia.org/wiki/邱昊奇" title="wikilink">邱昊奇</a></p></td>
 <td><center>
 <p>9-10</p></td>
 <td><center>
@@ -569,7 +569,7 @@
 <td><center>
 <p>2014年10月5日</p></td>
 <td><center>
-<p><a href="../Page/謊言遊戲.md" title="wikilink">謊言遊戲</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/謊言遊戲" title="wikilink">謊言遊戲</a></p></td>
 <td><center>
 <p>李迪恩</p></td>
 <td><center>
@@ -591,7 +591,7 @@
 <td><center>
 <p>郭熙明</p></td>
 <td><center>
-<p><a href="../Page/洪小鈴.md" title="wikilink">洪小鈴</a>、<a href="../Page/修杰楷.md" title="wikilink">修杰楷</a>、<a href="../Page/曾之喬.md" title="wikilink">曾之喬</a>、<a href="../Page/謝佳見.md" title="wikilink">謝佳見</a>、<a href="../Page/黃瀞怡.md" title="wikilink">小薰</a>、<a href="https://zh.wikipedia.org/wiki/黎登勤" title="wikilink">Duncan</a>、<a href="../Page/方志友.md" title="wikilink">方志友</a>、<a href="../Page/李運慶.md" title="wikilink">李運慶</a></p></td>
+<p><a href="../Page/洪小鈴.md" title="wikilink">洪小鈴</a>、<a href="../Page/修杰楷.md" title="wikilink">修杰楷</a>、<a href="../Page/曾之喬.md" title="wikilink">曾之喬</a>、<a href="../Page/謝佳見.md" title="wikilink">謝佳見</a>、<a href="../Page/黃瀞怡.md" title="wikilink">小薰</a>、<a href="https://zh.wikipedia.org/wiki/黎登勤" title="wikilink">Duncan</a>、<a href="https://zh.wikipedia.org/wiki/方志友" title="wikilink">方志友</a>、<a href="../Page/李運慶.md" title="wikilink">李運慶</a></p></td>
 <td><center>
 <p>7,23,37,39</p></td>
 <td><center>
@@ -607,7 +607,7 @@
 <td><center>
 <p>向子諺</p></td>
 <td><center>
-<p><a href="../Page/唐禹哲.md" title="wikilink">唐禹哲</a>、<a href="../Page/李佳穎.md" title="wikilink">李佳穎</a>、<a href="../Page/王思平.md" title="wikilink">王思平</a></p></td>
+<p><a href="../Page/唐禹哲.md" title="wikilink">唐禹哲</a>、<a href="../Page/李佳穎.md" title="wikilink">李佳穎</a>、<a href="https://zh.wikipedia.org/wiki/王思平" title="wikilink">王思平</a></p></td>
 <td><center>
 <p>2-9,12-19</p></td>
 <td><center>
@@ -652,7 +652,7 @@
 <td><center>
 <p>姜安傑</p></td>
 <td><center>
-<p><a href="../Page/修杰楷.md" title="wikilink">修杰楷</a>、<a href="../Page/張勛傑.md" title="wikilink">張勛傑</a>、<a href="../Page/孫其君.md" title="wikilink">孫其君</a>、<a href="../Page/林珈安.md" title="wikilink">林珈安</a>、<a href="../Page/馬之秦.md" title="wikilink">馬之秦</a>、<a href="../Page/寇世勳.md" title="wikilink">寇世勳</a>、<a href="../Page/劉品言.md" title="wikilink">劉品言</a>、<a href="../Page/周采詩.md" title="wikilink">周采詩</a>、<a href="../Page/陽詠存.md" title="wikilink">陽詠存</a></p></td>
+<p><a href="../Page/修杰楷.md" title="wikilink">修杰楷</a>、<a href="../Page/張勛傑.md" title="wikilink">張勛傑</a>、<a href="https://zh.wikipedia.org/wiki/孫其君" title="wikilink">孫其君</a>、<a href="../Page/林珈安.md" title="wikilink">林珈安</a>、<a href="https://zh.wikipedia.org/wiki/馬之秦" title="wikilink">馬之秦</a>、<a href="../Page/寇世勳.md" title="wikilink">寇世勳</a>、<a href="../Page/劉品言.md" title="wikilink">劉品言</a>、<a href="../Page/周采詩.md" title="wikilink">周采詩</a>、<a href="../Page/陽詠存.md" title="wikilink">陽詠存</a></p></td>
 <td><center>
 <p>10,13-20,22,24,26-28,30-32,35-36,39-40,43-51,53-74</p></td>
 <td><center>
@@ -668,7 +668,7 @@
 <td><center>
 <p>唐豪（唐小牛）</p></td>
 <td><center>
-<p><a href="../Page/李國毅.md" title="wikilink">李國毅</a>、<a href="../Page/林予晞.md" title="wikilink">林予晞</a>、<a href="../Page/周群達.md" title="wikilink">周群達</a>、<a href="../Page/雷瑟琳.md" title="wikilink">雷瑟琳</a></p></td>
+<p><a href="../Page/李國毅.md" title="wikilink">李國毅</a>、<a href="../Page/林予晞.md" title="wikilink">林予晞</a>、<a href="../Page/周群達.md" title="wikilink">周群達</a>、<a href="https://zh.wikipedia.org/wiki/雷瑟琳" title="wikilink">雷瑟琳</a></p></td>
 <td><center>
 <p>全劇</p></td>
 <td><center>
@@ -713,7 +713,7 @@
 <td><center>
 <p>唐豪（唐小牛）</p></td>
 <td><center>
-<p><a href="../Page/洪言翔.md" title="wikilink">洪言翔</a>、<a href="https://zh.wikipedia.org/wiki/易光" title="wikilink">易光</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/洪言翔" title="wikilink">洪言翔</a>、<a href="https://zh.wikipedia.org/wiki/易光" title="wikilink">易光</a></p></td>
 <td><center>
 <p>110</p></td>
 <td><center>
@@ -760,7 +760,7 @@
 <td><center>
 <p>楊振凱</p></td>
 <td><center>
-<p><a href="../Page/林佑威.md" title="wikilink">林佑威</a>、<a href="../Page/黃騰浩.md" title="wikilink">黃騰浩</a>、<a href="../Page/連俞涵.md" title="wikilink">連俞涵</a>、<a href="../Page/林逸欣.md" title="wikilink">林逸欣</a>、<a href="../Page/林可彤.md" title="wikilink">林可彤</a>、等</p></td>
+<p><a href="../Page/林佑威.md" title="wikilink">林佑威</a>、<a href="../Page/黃騰浩.md" title="wikilink">黃騰浩</a>、<a href="../Page/連俞涵.md" title="wikilink">連俞涵</a>、<a href="https://zh.wikipedia.org/wiki/林逸欣" title="wikilink">林逸欣</a>、<a href="https://zh.wikipedia.org/wiki/林可彤" title="wikilink">林可彤</a>、等</p></td>
 <td><center>
 <p>男主角之一</p></td>
 <td></td>
@@ -805,7 +805,7 @@
 <td><center>
 <p>喬襲明</p></td>
 <td><center>
-<p><a href="../Page/李沛旭.md" title="wikilink">李沛旭</a>、<a href="https://zh.wikipedia.org/wiki/小薰" title="wikilink">小薰</a>、<a href="https://zh.wikipedia.org/wiki/嚴正嵐" title="wikilink">嚴正嵐等</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李沛旭" title="wikilink">李沛旭</a>、<a href="https://zh.wikipedia.org/wiki/小薰" title="wikilink">小薰</a>、<a href="https://zh.wikipedia.org/wiki/嚴正嵐" title="wikilink">嚴正嵐等</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -877,7 +877,7 @@
 <td><center>
 <p>季言希</p></td>
 <td><center>
-<p><a href="../Page/謝祖武.md" title="wikilink">謝祖武</a>、<a href="../Page/苗可麗.md" title="wikilink">苗可麗</a>、<a href="../Page/李維維.md" title="wikilink">李維維</a>、<a href="../Page/陽詠存.md" title="wikilink">陽詠存</a>等</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/謝祖武" title="wikilink">謝祖武</a>、<a href="../Page/苗可麗.md" title="wikilink">苗可麗</a>、<a href="../Page/李維維.md" title="wikilink">李維維</a>、<a href="../Page/陽詠存.md" title="wikilink">陽詠存</a>等</p></td>
 <td><center></td>
 <td><center>
 <p>第一男主角</p></td>
@@ -886,12 +886,12 @@
 <td><center>
 <p>2018年</p></td>
 <td><center>
-<p><a href="../Page/三明治女孩的逆襲.md" title="wikilink">三明治女孩的逆襲</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/三明治女孩的逆襲" title="wikilink">三明治女孩的逆襲</a></p></td>
 <td><center>
 <p>張洛偍</p></td>
 <td><center>
 <p>王子仁</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張立昂" title="wikilink">張立昂</a>、<a href="../Page/葉星辰.md" title="wikilink">葉星辰</a> 、<a href="https://zh.wikipedia.org/wiki/林子閎" title="wikilink">林子閎</a> 、<a href="../Page/邵翔.md" title="wikilink">邵翔</a> 、<a href="../Page/廖奕琁.md" title="wikilink">廖奕琁</a> 等</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張立昂" title="wikilink">張立昂</a>、<a href="../Page/葉星辰.md" title="wikilink">葉星辰</a> 、<a href="https://zh.wikipedia.org/wiki/林子閎" title="wikilink">林子閎</a> 、<a href="../Page/邵翔.md" title="wikilink">邵翔</a> 、<a href="https://zh.wikipedia.org/wiki/廖奕琁" title="wikilink">廖奕琁</a> 等</p></td>
 <td></td>
 <td><center></td>
 </tr>
@@ -943,7 +943,7 @@
 <tr class="odd">
 <td><p>2014年9月5日</p></td>
 <td><center>
-<p><a href="../Page/軍中樂園_(電影).md" title="wikilink">軍中樂園</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/軍中樂園_(電影)" title="wikilink">軍中樂園</a></p></td>
 <td><center>
 <p>李迪恩</p></td>
 <td><center>
@@ -962,7 +962,7 @@
 <td><center>
 <p>高富帥</p></td>
 <td><center>
-<p><a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>、<a href="../Page/江疏影.md" title="wikilink">江疏影</a>、<a href="../Page/吳中天.md" title="wikilink">吳中天</a></p></td>
+<p><a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>、<a href="../Page/江疏影.md" title="wikilink">江疏影</a>、<a href="https://zh.wikipedia.org/wiki/吳中天" title="wikilink">吳中天</a></p></td>
 <td><center>
 <p>客串</p></td>
 </tr>
@@ -995,11 +995,11 @@
 
 ### 網路劇
 
-| 首播時間    | 劇名                                           | 成員 | 角色      | 合作演員                                                                                                                       | 性質 |
-| ------- | -------------------------------------------- | -- | ------- | -------------------------------------------------------------------------------------------------------------------------- | -- |
-| 2016年3月 | 《[青春自拍團](../Page/青春自拍團.md "wikilink")：愛上她的他》 | 沁岳 | 張信俞（阿信） | [阿喜](https://zh.wikipedia.org/wiki/阿喜_\(藝人\) "wikilink")、[林珈安](../Page/林珈安.md "wikilink")和[黃甄妮](../Page/黃甄妮.md "wikilink") | 主演 |
-| 迪恩      | 偉嘉                                           |    |         |                                                                                                                            |    |
-|         |                                              |    |         |                                                                                                                            |    |
+| 首播時間    | 劇名                                           | 成員 | 角色      | 合作演員                                                                                                                                          | 性質 |
+| ------- | -------------------------------------------- | -- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| 2016年3月 | 《[青春自拍團](../Page/青春自拍團.md "wikilink")：愛上她的他》 | 沁岳 | 張信俞（阿信） | [阿喜](https://zh.wikipedia.org/wiki/阿喜_\(藝人\) "wikilink")、[林珈安](../Page/林珈安.md "wikilink")和[黃甄妮](https://zh.wikipedia.org/wiki/黃甄妮 "wikilink") | 主演 |
+| 迪恩      | 偉嘉                                           |    |         |                                                                                                                                               |    |
+|         |                                              |    |         |                                                                                                                                               |    |
 
 ## 平面作品
 

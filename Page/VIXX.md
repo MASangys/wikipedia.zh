@@ -1,9 +1,11 @@
 > 本文内容由[VIXX](https://zh.wikipedia.org/wiki/VIXX)转换而来。
 
 
+[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink"){{•}}[KEN](https://zh.wikipedia.org/wiki/李在焕 "wikilink"){{•}}[RAVI](../Page/金元植.md "wikilink"){{•}}[HONGBIN](../Page/李弘彬.md "wikilink"){{•}}[HYUK](https://zh.wikipedia.org/wiki/韓相爀 "wikilink") | 相關團體 = [VIXX LR](../Page/VIXX_LR.md "wikilink") |N = }}
+
 **VIXX**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2012年所推出的六人[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，由[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")、[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[KEN](../Page/李宰焕.md "wikilink")、[RAVI](../Page/金元植.md "wikilink")、[HONGBIN](../Page/李弘彬.md "wikilink")、[HYUK六名成員組成](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")。
 
-團名寓意「Voice, Visual, Value In Excelsis」，代表最佳的聲音，視覺和價值，寓意要成為歌壇的最佳。出道前粉絲就已破千人，有「霸道之聲」的美譽。出道前透過[Mnet](../Page/Mnet.md "wikilink")實境節目《Mydol》紀錄練習生生活，並於2012年5月24日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》節目中出道。
+團名寓意「Voice, Visual, Value In Excelsis」，代表最佳的聲音，視覺和價值，寓意要成為歌壇的最佳。出道前粉絲就已破千人，有「霸道之聲」的美譽。出道前透過[Mnet實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Mydol》紀錄練習生生活，並於2012年5月24日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》節目中出道。
 
 VIXX的官方粉絲名稱為「ST★RLIGHT」（；），意味著VIXX的粉絲在VIXX眼中像星光一樣存在著，成為其動力並引領他們前進。應援口號為「Real V\! V.I.X.X VIXX\!」；應援物為官方毛巾及手燈，官方應援色是海軍藍+金色。（出道初期曾用angel天使做為粉絲名稱，此為出道節目《MyDol》節目所稱。）
 
@@ -20,9 +22,9 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
   - 5月24日以《Super Hero》在[M\! Countdown出道](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。
   - 6月20日專屬節目*VIXX TV*於官方Youtube頻道首播。
   - 7月27日在美國馬里蘭州巴爾的摩舉行的奧泰康動漫節舉辦第一場海外演出。
-  - 8月24日發行第二張單曲Rock Ur Body，MV由[SISTAR](../Page/SISTAR.md "wikilink")的[多順](../Page/多順.md "wikilink")出演。
+  - 8月24日發行第二張單曲Rock Ur Body，MV由[SISTAR的](https://zh.wikipedia.org/wiki/SISTAR "wikilink")[多順](../Page/多順.md "wikilink")出演。
   - 10月12日首次參與在美國洛杉磯舉行的 *KCON2012*。
-  - 12月5日參與公司Jellyfish娛樂的冬日計劃*Jelly Christmas 2012 heart project*,發佈與同公司藝人[朴孝信](../Page/朴孝信.md "wikilink")、[成詩京](https://zh.wikipedia.org/wiki/成詩京 "wikilink")、[李錫勳](https://zh.wikipedia.org/wiki/李錫勳 "wikilink")、[徐仁國](../Page/徐仁國.md "wikilink")合作的聖誕單曲《因為是聖誕》。
+  - 12月5日參與公司Jellyfish娛樂的冬日計劃*Jelly Christmas 2012 heart project*,發佈與同公司藝人[朴孝信](https://zh.wikipedia.org/wiki/朴孝信 "wikilink")、[成詩京](https://zh.wikipedia.org/wiki/成詩京 "wikilink")、[李錫勳](https://zh.wikipedia.org/wiki/李錫勳 "wikilink")、[徐仁國合作的聖誕單曲](https://zh.wikipedia.org/wiki/徐仁國 "wikilink")《因為是聖誕》。
 
 ### 2013年：轉型、概念偶像的誕生、第三張單曲《On and On》、首張迷你專輯《Hyde》、首張正規專輯《Voodoo》、首次全球巡迴Showcase、首個一位
 
@@ -102,7 +104,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
   - 6月27日，RAVI宣布成立嘻哈品牌「GROOVL1N」。
   - 12月2日，LEO因健康因素 社會服務要員身份服役。
 
-## 列表
+## 成員列表
 
 | 成員列表                                                     |
 | -------------------------------------------------------- |
@@ -121,9 +123,9 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 
 #### 正規專輯
 
-  - 2013年：[VOODOO](../Page/VOODOO.md "wikilink")
+  - 2013年：[VOODOO](https://zh.wikipedia.org/wiki/VOODOO "wikilink")
   - 2015年：[Chained Up](../Page/Chained_Up.md "wikilink")
-  - 2018年：[EAU DE VIXX](../Page/EAU_DE_VIXX.md "wikilink")
+  - 2018年：[EAU DE VIXX](https://zh.wikipedia.org/wiki/EAU_DE_VIXX "wikilink")
 
 #### 精選輯
 
@@ -140,6 +142,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
   - 2017年：Whisper（[VIXX LR](../Page/VIXX_LR.md "wikilink")）
   - 2018年：CANVAS（[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")）
   - 2019年：R.OOK BOOK（[RAVI](../Page/金元植.md "wikilink")）
+  - 2019年: 冬日蝴蝶 （[Hyuk](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")）
 
 #### 單曲專輯
 
@@ -327,21 +330,21 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="even">
 <td><p>2011年8月10日</p></td>
-<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Shake It Up[65]》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐仁國" title="wikilink">徐仁國</a>《Shake It Up[65]》</p></td>
 <td><p>Shake It Up</p></td>
 <td><p>N、LEO、RAVI</p></td>
 <td><p>練習生時期</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年1月26日</p></td>
-<td><p><a href="../Page/朱玟奎.md" title="wikilink">Brian Joo</a>《Let This Die 》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱玟奎" title="wikilink">Brian Joo</a>《Let This Die 》</p></td>
 <td><p>ReBorn Part 1</p></td>
 <td><p>N、LEO、RAVI、HONGBIN</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2012年4月12日</p></td>
-<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Tease Me[66]》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐仁國" title="wikilink">徐仁國</a>《Tease Me[66]》</p></td>
 <td><p>Perfect Fit</p></td>
 <td><p>HONGBIN</p></td>
 <td></td>
@@ -387,7 +390,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="even">
 <td><p>2015年6月1日</p></td>
-<td><p><a href="../Page/陸翊.md" title="wikilink">陸翊</a>《四次元愛情[72]》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陸翊" title="wikilink">陸翊</a>《四次元愛情[72]》</p></td>
 <td><p>第八天</p></td>
 <td><p>KEN</p></td>
 <td></td>
@@ -423,8 +426,8 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | ----------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------- | ------ | --------- | -------------- |
 | **日期 (首播)** | **電視台**                                                               | **戲劇名稱**                                                                  | **參與成員**    | **性質** | **演出角色**  | **備註**         |
 | 2013年10月9日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")                               | [欲戴王冠，必承其重－繼承者們](https://zh.wikipedia.org/wiki/欲戴王冠，必承其重－繼承者們 "wikilink") | VIXX        | 客串     | VIXX      | EP.4 (44分23秒)  |
-| 2014年4月5日   | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")           | [Hotel King](../Page/Hotel_King.md "wikilink")                            | N           | 出演     | Noa（諾亞）   |                |
-| 2014年4月26日  | SBS                                                                   | [心情好的日子](../Page/心情好的日子.md "wikilink")                                    | HONGBIN     | 出演     | 柳志浩       |                |
+| 2014年4月5日   | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")           | [Hotel King](https://zh.wikipedia.org/wiki/Hotel_King "wikilink")         | N           | 出演     | Noa（諾亞）   |                |
+| 2014年4月26日  | SBS                                                                   | [心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink")                 | HONGBIN     | 出演     | 柳志浩       |                |
 | LEO、HYUK    | 客串                                                                    | LEO、HYUK（VIXX）                                                            | EP.43       |        |           |                |
 | 2014年9月23日  | MBC every1                                                            | 合宿24號房                                                                    | KEN         | 主演     | 李在煥       |                |
 | 2015年1月3日   | SBS                                                                   | [誕生吧！家族](../Page/誕生吧！家族.md "wikilink")                                    | N           | 出演     | 車學沇       |                |
@@ -437,23 +440,23 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2017年2月27日  | KBS                                                                   | [完美的妻子](../Page/完美的妻子.md "wikilink")                                      | N           | 出演     | Brian Lee |                |
 | 2017年3月25日  | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")                   | [隧道](../Page/隧道_\(電視劇\).md "wikilink")                                    | N           | 出演     | 朴光浩       |                |
 | 2017年5月31日  | SBS plus                                                              | [星期三下午3點30分](../Page/星期三下午3點30分.md "wikilink")                            | HONGBIN     | 主演     | 尹在元       |                |
-| 2017年10月24日 | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")         | [羅曼史特別法](../Page/羅曼史特別法.md "wikilink")                                    | HYUK        | 主演     | 姜世雄       |                |
+| 2017年10月24日 | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")         | [羅曼史特別法](https://zh.wikipedia.org/wiki/羅曼史特別法 "wikilink")                 | HYUK        | 主演     | 姜世雄       |                |
 | 2018年4月20日  | KBS2                                                                  | [一閃一閃聽到了](https://zh.wikipedia.org/wiki/一閃一閃聽到了 "wikilink")               | HONGBIN     | 主演     | 賢星        | 獨幕劇（為殘障人士公益出演） |
 | 2018年7月17日  | Haeyo TV                                                              | 豆腐的擬人化                                                                    | KEN         | 主演     | 金柱憲       |                |
 | 2018年7月25日  | MBN                                                                   | [魔女之愛](../Page/魔女之愛.md "wikilink")                                        | HONGBIN     | 主演     | 黃濟旭       |                |
-| 2018年8月1日   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                   | [認識的妻子](../Page/認識的妻子.md "wikilink")                                      | N           | 出演     | 金煥        |                |
+| 2018年8月1日   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                   | [認識的妻子](https://zh.wikipedia.org/wiki/認識的妻子 "wikilink")                   | N           | 出演     | 金煥        |                |
 | 2018年10月3日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                   | [從天而降的一億顆星](../Page/從天而降的一億顆星.md "wikilink")                              | HONGBIN     | 出演     | 盧熙俊       |                |
 | 2018年11月21日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                   | [赤月青日](../Page/赤月青日.md "wikilink")                                        | N           | 主演     | 李恩浩       |                |
 
 ### 電視劇原聲帶
 
-|            |                                                            |                |
-| ---------- | ---------------------------------------------------------- | -------------- |
-| **發佈日期**   | **專輯名稱**                                                   | **歌曲**         |
-| 2016年1月18日 | 《[武林學校](../Page/武林學校.md "wikilink")》OST Part.1             | Alive          |
-| 2016年2月1日  | 《[武林學校](../Page/武林學校.md "wikilink")》OST Part.2             | The King       |
-| 2017年4月21日 | 《[Man to Man](../Page/Man_to_Man.md "wikilink")》OST Part.1 | Take Your Hand |
-| 2018年6月4日  | 《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》OST Part.1         | Is It Love?    |
+|            |                                                                       |                |
+| ---------- | --------------------------------------------------------------------- | -------------- |
+| **發佈日期**   | **專輯名稱**                                                              | **歌曲**         |
+| 2016年1月18日 | 《[武林學校](../Page/武林學校.md "wikilink")》OST Part.1                        | Alive          |
+| 2016年2月1日  | 《[武林學校](../Page/武林學校.md "wikilink")》OST Part.2                        | The King       |
+| 2017年4月21日 | 《[Man to Man](../Page/Man_to_Man.md "wikilink")》OST Part.1            | Take Your Hand |
+| 2018年6月4日  | 《[你也是人類嗎](https://zh.wikipedia.org/wiki/你也是人類嗎 "wikilink")》OST Part.1 | Is It Love?    |
 
 ### 電影
 
@@ -534,7 +537,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2013年2月24日     | KBS        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")      | N、HONGBIN             | Ep.173      |
 | 2013年3月3日      | KBS        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")      | N、HONGBIN             | Ep.174      |
 | 2013年3月10日     | KBS        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")      | LEO                   | Ep.175      |
-| 2013年3月16日     | JTBC       | [隱藏歌手](../Page/隱藏歌手.md "wikilink")                             | N、KEN、HONGBIN         |             |
+| 2013年3月16日     | JTBC       | [隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")          | N、KEN、HONGBIN         |             |
 | 2013年3月17日     | tvN        | 三個傻瓜                                                           | KEN、RAVI、HONGBIN、HYUK |             |
 | 2013年3月5日、12日  | MBC Music  | All The K-pop                                                  | N、KEN、HONGBIN         | EP.18、EP.19 |
 | 2013年3月23日     | Y-Star     | 食神之路                                                           | N、KEN                 |             |
@@ -558,47 +561,47 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2013年12月20日    | tvN        | Perfect Singer VS                                              | KEN                   |             |
 | 2013年12月21日    | SBS        | STARKING                                                       | N、KEN                 |             |
 
-|                |            |                                                                 |                 |                 |
-| -------------- | ---------- | --------------------------------------------------------------- | --------------- | --------------- |
-| **日期**         | **電視台**    | **節目名稱**                                                        | **參與成員**        | **備註**          |
-| 2014年1月4日      | KBS2       | 柳熙烈寫生簿                                                          | VIXX            |                 |
-| 2014年1月30日、31日 | MBC        | 偶像明星運動會春節特辑                                                     | VIXX（LEO除外）     |                 |
-| 2014年2月4日      | Mnet       | Beatles Code 3D                                                 | VIXX            |                 |
-| 2014年5月29日     | Mnet       | 音談故事                                                            | N、KEN、RAVI、HYUK |                 |
-| 2014年6月6日-7月4日 | SBS        | [叢林的法則](../Page/叢林的法則.md "wikilink")                            | HYUK            | 巴西篇 Ep.5-9      |
-| 2014年6月7日、14日  | MBC        | [我們結婚了](../Page/我們結婚了.md "wikilink")                            | VIXX（N除外）       | 悠閒夫婦篇客串         |
-| 2014年6月8日      | SBS        | [Running Man](../Page/Running_Man.md "wikilink")                | LEO             | Ep.199（客串）      |
-| 2014年6月10日     | Mnet       | [沒禮貌的四種採訪秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")       | VIXX            | Ep.7（N專訪）       |
-| 2014年6月12日     | MBC        | 偶像明星足球世界盃                                                       | LEO、RAVI        |                 |
-| 2014年7月13日     | KBS        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")       | LEO、RAVI        |                 |
-| 2014年7月15日     | Mnet       | [沒禮貌的四種採訪秀](https://zh.wikipedia.org/wiki/沒禮貌的四種採訪秀 "wikilink") | VIXX            | Ep.12           |
-| 2014年7月29日     | MBC every1 | [HitMaker](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink")     | N、HYUK          | 第一季             |
-| 2014年8月12日     | Mnet       | [沒禮貌的四種採訪秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")       | RAVI            | Ep.16（Swings專訪） |
-| 2014年8月14日     | BAND TV    | Agora é Tarde（巴西深夜脫口秀）                                          | N、LEO、RAVI、HYUK |                 |
-| 2014年8月19日     | Mnet       | [沒禮貌的四種採訪秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")       | RAVI            | Ep.17（泰民專訪）     |
-| 2014年8月20日     | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                | N、HYUK          | Ep.160          |
-| 2014年10月21日    | Arirang    | [After School Club](../Page/After_School_Club.md "wikilink")    | VIXX（KEN除外）     |                 |
-| 2014年10月29日    | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                | VIXX            | Ep.170          |
-| 2014年11月12日    | 香港TVB      | [超齡打工假期](../Page/超齡打工假期.md "wikilink")                          | VIXX            | Ep.4            |
-| 2014年11月23日    | KBS        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")       | LEO、KEN、HONGBIN |                 |
-| 2014年11月27日    | tvN        | [今天開始上班](../Page/今天開始上班.md "wikilink")                          | N               | 第三季             |
-| 2014年12月12日    | MBC every1 | [HitMaker](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink")     | N、HYUK          | 第二季             |
-| 2014年12月13日    | KBS World  | Global Request Show : A Song For U 3                            | VIXX            | Ep.18           |
-| 2014年12月28日    | KBS        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")       | LEO             |                 |
+|                |            |                                                                     |                 |                 |
+| -------------- | ---------- | ------------------------------------------------------------------- | --------------- | --------------- |
+| **日期**         | **電視台**    | **節目名稱**                                                            | **參與成員**        | **備註**          |
+| 2014年1月4日      | KBS2       | 柳熙烈寫生簿                                                              | VIXX            |                 |
+| 2014年1月30日、31日 | MBC        | 偶像明星運動會春節特辑                                                         | VIXX（LEO除外）     |                 |
+| 2014年2月4日      | Mnet       | Beatles Code 3D                                                     | VIXX            |                 |
+| 2014年5月29日     | Mnet       | 音談故事                                                                | N、KEN、RAVI、HYUK |                 |
+| 2014年6月6日-7月4日 | SBS        | [叢林的法則](../Page/叢林的法則.md "wikilink")                                | HYUK            | 巴西篇 Ep.5-9      |
+| 2014年6月7日、14日  | MBC        | [我們結婚了](../Page/我們結婚了.md "wikilink")                                | VIXX（N除外）       | 悠閒夫婦篇客串         |
+| 2014年6月8日      | SBS        | [Running Man](https://zh.wikipedia.org/wiki/Running_Man "wikilink") | LEO             | Ep.199（客串）      |
+| 2014年6月10日     | Mnet       | [沒禮貌的四種採訪秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")           | VIXX            | Ep.7（N專訪）       |
+| 2014年6月12日     | MBC        | 偶像明星足球世界盃                                                           | LEO、RAVI        |                 |
+| 2014年7月13日     | KBS        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")           | LEO、RAVI        |                 |
+| 2014年7月15日     | Mnet       | [沒禮貌的四種採訪秀](https://zh.wikipedia.org/wiki/沒禮貌的四種採訪秀 "wikilink")     | VIXX            | Ep.12           |
+| 2014年7月29日     | MBC every1 | [HitMaker](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink")         | N、HYUK          | 第一季             |
+| 2014年8月12日     | Mnet       | [沒禮貌的四種採訪秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")           | RAVI            | Ep.16（Swings專訪） |
+| 2014年8月14日     | BAND TV    | Agora é Tarde（巴西深夜脫口秀）                                              | N、LEO、RAVI、HYUK |                 |
+| 2014年8月19日     | Mnet       | [沒禮貌的四種採訪秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")           | RAVI            | Ep.17（泰民專訪）     |
+| 2014年8月20日     | MBC every1 | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink") | N、HYUK          | Ep.160          |
+| 2014年10月21日    | Arirang    | [After School Club](../Page/After_School_Club.md "wikilink")        | VIXX（KEN除外）     |                 |
+| 2014年10月29日    | MBC every1 | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink") | VIXX            | Ep.170          |
+| 2014年11月12日    | 香港TVB      | [超齡打工假期](../Page/超齡打工假期.md "wikilink")                              | VIXX            | Ep.4            |
+| 2014年11月23日    | KBS        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")           | LEO、KEN、HONGBIN |                 |
+| 2014年11月27日    | tvN        | [今天開始上班](../Page/今天開始上班.md "wikilink")                              | N               | 第三季             |
+| 2014年12月12日    | MBC every1 | [HitMaker](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink")         | N、HYUK          | 第二季             |
+| 2014年12月13日    | KBS World  | Global Request Show : A Song For U 3                                | VIXX            | Ep.18           |
+| 2014年12月28日    | KBS        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")           | LEO             |                 |
 
 |                    |            |                                                                     |                 |               |
 | ------------------ | ---------- | ------------------------------------------------------------------- | --------------- | ------------- |
 | **日期**             | **電視台**    | **節目名稱**                                                            | **參與成員**        | **備註**        |
 | 2015年2月6日、13日      | MBC every1 | [HitMaker](https://zh.wikipedia.org/wiki/HIT製造機 "wikilink") Season2 | N、HYUK          | Ep.9、Ep.10    |
-| 2015年2月8日          | SBS        | [Running Man](../Page/Running_Man.md "wikilink")                    | N               | Ep.233        |
+| 2015年2月8日          | SBS        | [Running Man](https://zh.wikipedia.org/wiki/Running_Man "wikilink") | N               | Ep.233        |
 | 2015年4月9日          | MBC        | 申東燁的單身派對                                                            | VIXX            | Ep.9          |
 | 2015年4月30日         | MBC        | 申東燁的單身派對                                                            | VIXX            | Ep.12         |
 | 2015年5月5日、12日      | JTBC       | [百人百曲-走到最後](../Page/百人百曲-走到最後.md "wikilink")                        | N、KEN           | Ep.27-28      |
 | 2015年5月9日、16日      | MBC        | [我們結婚了](../Page/我們結婚了.md "wikilink")                                | N               | 幸運夫婦篇客串       |
-| 2015年6月1日          | KBS2       | [全民脫口秀 你好](../Page/大國民脫口秀-你好.md "wikilink")                         | KEN             | Ep.227        |
+| 2015年6月1日          | KBS2       | [全民脫口秀 你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")      | KEN             | Ep.227        |
 | 2015年6月14日、21日     | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                      | KEN             | Ep.11-12      |
 | 2015年6月26日、7月3日    | Mnet       | [Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink")    | RAVI            | Ep.1-2        |
-| 2015年7月21日－8月11日   | JTBC       | [我去上學啦](../Page/我去上學啦_\(韓國\).md "wikilink")                         | N               | Ep.53-56      |
+| 2015年7月21日－8月11日   | JTBC       | [我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")      | N               | Ep.53-56      |
 | 2015年8月25日         | Arirang    | [After School Club](../Page/After_School_Club.md "wikilink")        | VIXX LR         |               |
 | 2015年9月6日、13日      | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                      | HYUK            | Ep.23-24（聽審團） |
 | 2015年9月20日         | KBS        | A Song For You 4                                                    | VIXX LR         | Ep.10         |
@@ -608,13 +611,13 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2015年10月3日         | KBS & 深圳衛視 | 中韓夢之隊                                                               | LEO、HONGBIN     | Ep.3          |
 | 2015年10月4日         | KBS        | A Song For You 4                                                    | HONGBIN         | Ep.11(MC至親特輯) |
 | 2015年10月17日        | KBS & 深圳衛視 | 中韓夢之隊                                                               | HONGBIN         | Ep.5          |
-| 2015年10月14日        | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                    | HYUK            | Ep.220        |
-| 2015年12月2日         | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                    | VIXX（HONGBIN除外） | Ep.227        |
+| 2015年10月14日        | MBC every1 | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink") | HYUK            | Ep.220        |
+| 2015年12月2日         | MBC every1 | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink") | VIXX（HONGBIN除外） | Ep.227        |
 
 |                                   |                  |                                                                     |                 |                      |
 | --------------------------------- | ---------------- | ------------------------------------------------------------------- | --------------- | -------------------- |
 | **日期**                            | **電視台**          | **節目名稱**                                                            | **參與成員**        | **備註**               |
-| 2016年1月4日                         | KBS2             | [全民脫口秀 你好](../Page/大國民脫口秀-你好.md "wikilink")                         | HONGBIN         | Ep.257               |
+| 2016年1月4日                         | KBS2             | [全民脫口秀 你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")      | HONGBIN         | Ep.257               |
 | 2016年1月31日                        | 富士電視台            | PROJECT VIXX 來自宇宙的侵略者                                               | VIXX            |                      |
 | 2016年2月8日                         | KBS              | 全國偶像親友歌唱大賽                                                          | Ken             |                      |
 | 2016年2月9日、10日                     | MBC              | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")   | VIXX（HONGBIN缺席） |                      |
@@ -622,7 +625,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2016年3月6日、13日                     | MBC              | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                      | Leo             | Ep.49-50             |
 | 2016年3月13日                        | MBC              | Section TV 演藝通信                                                     | Leo             |                      |
 | 2016年4月1日                         | MBC              | [能力者們](https://zh.wikipedia.org/wiki/能力者們 "wikilink")               | Ken             | Ep.20                |
-| 2016年4月6日                         | MBC every1       | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                    | Ken             | Ep.245(電話連線)         |
+| 2016年4月6日                         | MBC every1       | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink") | Ken             | Ep.245(電話連線)         |
 | 2016年4月16日                        | MBig TV          | 2016 對口型比賽 藍色颶風                                                     | Ken、HONGBIN、赫   | Ep.3-1&3-2           |
 | 2016年4月22日─5月20日                  | MBC              | [二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")           | Ken             | Ep.3-Ep.7            |
 | 2016年4月26日                        | Arirang          | [After School Club](../Page/After_School_Club.md "wikilink")        | VIXX            |                      |
@@ -643,7 +646,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2016年9月14日                        | KBS2             | Trick\&True                                                         | Ken             |                      |
 | 2016年9月15日                        | MBC              | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")   | VIXX            |                      |
 | 2016年9月26日、10月3日                  | MBC music        | STAR SHOW 360                                                       | VIXX            | EP.2、3               |
-| 2016年10月2日                        | SBS              | [Running Man](../Page/Running_Man.md "wikilink")                    | KEN、RAVI、HYUK   | EP.319（鐘國隊）          |
+| 2016年10月2日                        | SBS              | [Running Man](https://zh.wikipedia.org/wiki/Running_Man "wikilink") | KEN、RAVI、HYUK   | EP.319（鐘國隊）          |
 | 2016年10月17日、24日、31日，11月7日、14日、21日 | Mobidic          | 頂.對.見                                                               | HONGBIN、HYUK    | EP.6、7、8、9、10、11     |
 | 2016年10月31日                       | KBS2             | 你好                                                                  | HONGBIN、Ken     |                      |
 | 2016年11月1日、8日、15日、22日             | MBC              | [花美男Bromance](../Page/花美男Bromance.md "wikilink")                    | HONGBIN         | 第十一季                 |
@@ -670,7 +673,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2017年5月20日        | KBS2                                    | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")             | VIXX                                                        |                   |
 | 2017年6月8日         | Mwave                                   | MEET\&GREET                                                             | VIXX                                                        |                   |
 | 2017年8月18日- 8月25日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [叢林的法則](../Page/叢林的法則.md "wikilink")                                    | [HONGBIN](https://zh.wikipedia.org/wiki/HONGBIN "wikilink") | 印度尼西亞科莫多島篇 Ep.5-9 |
-| 2017年11月11日       | SBS                                     | [Master Key](../Page/Master_Key.md "wikilink")                          | HONGBIN                                                     |                   |
+| 2017年11月11日       | SBS                                     | [Master Key](https://zh.wikipedia.org/wiki/Master_Key "wikilink")       | HONGBIN                                                     |                   |
 | 2017年12月2日        | 富士電視台                                   | PROJECT VIXX 4 來自宇宙的侵略者們Genesis                                         | VIXX（Leo缺席）                                                 |                   |
 
 |                   |            |                                                                             |              |                        |
@@ -683,17 +686,17 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2018年3月11日        | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | N            | 特別記者                   |
 | 2018年3月14日        | KBS        | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                                          | N            | EP.78（Special MC）      |
 | 2018年4月1、8日       | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                              | KEN          | Ep.147-148（聽審團）        |
-| 2018年4月25日        | MBC        | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                            | VIXX         | EP.352                 |
+| 2018年4月25日        | MBC        | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")         | VIXX         | EP.352                 |
 | 2018年5月12、19、26日  | KBS        | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                                          | N、HONGBIN    | EP.91\~93              |
 | 2018年6月12日        | MBC every1 | [Video Star](../Page/Video_Star.md "wikilink")                              | RAVI         | ‘Too much是一流的’特辑       |
 | 2018年6月13日        | tvN        | [周三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")                     | RAVI         | EP.174                 |
-| 2018年7月15日        | JTBC       | [隱藏歌手](../Page/隱藏歌手.md "wikilink")                                          | KEN          |                        |
+| 2018年7月15日        | JTBC       | [隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")                       | KEN          |                        |
 | 2018年7月20日        | MBN        | 美食CLUB                                                                      | RAVI         |                        |
 | 2018年7月23日        | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | RAVI         | 特別記者                   |
 | 2018年7月30日        | EBS        | 縮小我們家的距離 - 父母成績單                                                            | RAVI         |                        |
 | 2018年8月5日、12日     | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                              | RAVI         | Ep.165-166（聽審團）        |
 | 2018年8月6日         | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | RAVI         | 一日記者                   |
-| 2018年8月8日         | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                            | Leo          |                        |
+| 2018年8月8日         | MBC every1 | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")         | Leo          |                        |
 | 2018年9月3、17日      | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | RAVI         | 一日記者                   |
 | 2018年9月15日        | KBS2       | [不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")                     | KEN          |                        |
 | 2018年9月16、23日     | SBS MTV    | 最高外生                                                                        | RAVI         |                        |
@@ -710,30 +713,30 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 | 2018年12月22日       | MBC        | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")   | KEN、RAVI     | Ep.8                   |
 | 2018年12月23、30日    | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                              | KEN、RAVI     | Ep.183-184（聽審團）        |
 
-|                   |            |                                                                |          |             |
-| ----------------- | ---------- | -------------------------------------------------------------- | -------- | ----------- |
-| **日期**            | **電視台**    | **節目名稱**                                                       | **參與成員** | **備註**      |
-| 2019年1月20、27日     | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                 | KEN      | Ep.187-188  |
-| 2019年3月4日         | KBS        | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                   | RAVI     |             |
-| 2019年4月5、12日      | On Style   | [Get it beauty](../Page/Get_it_beauty.md "wikilink")           | RAVI     |             |
-| 2019年4月20日        | tvN        | [驚人的星期六](../Page/驚人的星期六.md "wikilink")                         | RAVI     | Ep.55       |
-| 2019年5月26日        | JTBC       | [K-POP CHALLENGE \< Stage K \>](../Page/Stage_K.md "wikilink") | RAVI     | Ep.7        |
-| 2019年6月18日        | MBC every1 | [Video Star](../Page/Video_Star.md "wikilink")                 | KEN      |             |
-| 2019年7月7日         | tvN        | [Super Hearer](../Page/Super_Hearer.md "wikilink")             | RAVI     |             |
-| 2019年7月13日        | ChannelA   | 一起玩吧? GG                                                       | HONGBIN  |             |
-| 2019年7月16日        | Olive      | [週三美食匯](../Page/週三美食匯.md "wikilink")                           | HONGBIN  |             |
-| 2019年7月27日        | JTBC2      | [RUN.wav](../Page/RUN.wav.md "wikilink")                       | LEO      | Ep.6        |
-| 2019年8月15日        | Mnet       | [不是你所認識的我V2](../Page/不是你所認識的我V2.md "wikilink")                 | RAVI     |             |
-| 2019年8月17日        | tvN        | [驚人的星期六](../Page/驚人的星期六.md "wikilink")                         | RAVI     | Ep.72（特別MC） |
-| 2019年8月17日        | JTBC       | [完美搭檔](../Page/完美搭檔.md "wikilink")                             | RAVI     | Ep.10       |
-| 2019年8月20、27日     | JTBC       | [快點說話吧](../Page/快點說話吧.md "wikilink")                           | RAVI     | Ep.2-3      |
-| 2019年8月20日-10月10日 | Mnet       | [戀愛捕手2](../Page/Love_Catcher_2.md "wikilink")                  | HONGBIN  | 第二季         |
-| 2019年9月1日         | tvN        | [PLAYER](../Page/Player_\(韓國綜藝\).md "wikilink")                | RAVI     | Ep.8        |
-| 2019年9月19-26日     | MBC        | [海市蜃樓食堂](../Page/海市蜃樓食堂.md "wikilink")                         | RAVI     |             |
-| 2019年9月22日        | JTBC2      | [RUN.wav](../Page/RUN.wav.md "wikilink")                       | RAVI     | Ep.14       |
-| 2019年10月13日       | tvN        | [PLAYER](../Page/Player_\(韓國綜藝\).md "wikilink")                | RAVI     | Ep.13       |
-| 2019年10月30日       | JTBC       | 旋律書房                                                           | RAVI     | Ep.4        |
-| 2019年11月6日        | MBC every1 | 大韓外國人                                                          | RAVI     | Ep.8        |
+|                   |            |                                                                 |          |             |
+| ----------------- | ---------- | --------------------------------------------------------------- | -------- | ----------- |
+| **日期**            | **電視台**    | **節目名稱**                                                        | **參與成員** | **備註**      |
+| 2019年1月20、27日     | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                  | KEN      | Ep.187-188  |
+| 2019年3月4日         | KBS        | [大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink") | RAVI     |             |
+| 2019年4月5、12日      | On Style   | [Get it beauty](../Page/Get_it_beauty.md "wikilink")            | RAVI     |             |
+| 2019年4月20日        | tvN        | [驚人的星期六](https://zh.wikipedia.org/wiki/驚人的星期六 "wikilink")       | RAVI     | Ep.55       |
+| 2019年5月26日        | JTBC       | [K-POP CHALLENGE \< Stage K \>](../Page/Stage_K.md "wikilink")  | RAVI     | Ep.7        |
+| 2019年6月18日        | MBC every1 | [Video Star](../Page/Video_Star.md "wikilink")                  | KEN      |             |
+| 2019年7月7日         | tvN        | [Super Hearer](../Page/Super_Hearer.md "wikilink")              | RAVI     |             |
+| 2019年7月13日        | ChannelA   | 一起玩吧? GG                                                        | HONGBIN  |             |
+| 2019年7月16日        | Olive      | [週三美食匯](../Page/週三美食匯.md "wikilink")                            | HONGBIN  |             |
+| 2019年7月27日        | JTBC2      | [RUN.wav](../Page/RUN.wav.md "wikilink")                        | LEO      | Ep.6        |
+| 2019年8月15日        | Mnet       | [不是你所認識的我V2](../Page/不是你所認識的我V2.md "wikilink")                  | RAVI     |             |
+| 2019年8月17日        | tvN        | [驚人的星期六](https://zh.wikipedia.org/wiki/驚人的星期六 "wikilink")       | RAVI     | Ep.72（特別MC） |
+| 2019年8月17日        | JTBC       | [完美搭檔](../Page/完美搭檔.md "wikilink")                              | RAVI     | Ep.10       |
+| 2019年8月20、27日     | JTBC       | [快點說話吧](../Page/快點說話吧.md "wikilink")                            | RAVI     | Ep.2-3      |
+| 2019年8月20日-10月10日 | Mnet       | [戀愛捕手2](../Page/Love_Catcher_2.md "wikilink")                   | HONGBIN  | 第二季         |
+| 2019年9月1日         | tvN        | [PLAYER](../Page/Player_\(韓國綜藝\).md "wikilink")                 | RAVI     | Ep.8        |
+| 2019年9月19-26日     | MBC        | [海市蜃樓食堂](../Page/海市蜃樓食堂.md "wikilink")                          | RAVI     |             |
+| 2019年9月22日        | JTBC2      | [RUN.wav](../Page/RUN.wav.md "wikilink")                        | RAVI     | Ep.14       |
+| 2019年10月13日       | tvN        | [PLAYER](../Page/Player_\(韓國綜藝\).md "wikilink")                 | RAVI     | Ep.13       |
+| 2019年10月30日       | JTBC       | 旋律書房                                                            | RAVI     | Ep.4        |
+| 2019年11月6日        | MBC every1 | 大韓外國人                                                           | RAVI     | Ep.8        |
 
 ### 廣播節目
 
@@ -917,26 +920,26 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 
 #### 音樂節目主持
 
-|                  |                                    |                                                                     |                |            |
-| ---------------- | ---------------------------------- | ------------------------------------------------------------------- | -------------- | ---------- |
-| **日期**           | **電視台**                            | **節目名稱**                                                            | **參與成員**       | '''備註 '''  |
-| 2014年1月10日       | KBS                                | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N、LEO          | 待機室訪問特別 MC |
-| 2015年3月3日─10月13日 | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 固定MC       |
-| 2015年5月9日─11月14日 | MBC                                | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 固定MC       |
-| 2015年11月17日      | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
-| 2016年4月24日       | SBS                                | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")               | HONGBIN        | 特別 MC      |
-| 2016年4月26日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
-| 2016年5月3日        | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | KEN            | 特別 MC      |
-| 2016年5月10日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
-| 2016年8月16日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
-| 2016年8月23日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
-| 2016年8月30日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
-| 2017年2月14日       | SBS MTV                            | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
-| 2017年5月18日       | [Mnet](../Page/Mnet.md "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | N、HONGBIN、HYUK | 特別 MC      |
-| 2017年9月2日        | MBC                                | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 特別 MC      |
-| 2018年5月18日       | KBS                                | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N              | 特別 MC      |
-| 2019年1月10日       | [Mnet](../Page/Mnet.md "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI、HYUK      | 特別 MC      |
-| 2019年3月21日       | [Mnet](../Page/Mnet.md "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI           | 特別 MC      |
+|                  |                                                       |                                                                     |                |            |
+| ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------- | -------------- | ---------- |
+| **日期**           | **電視台**                                               | **節目名稱**                                                            | **參與成員**       | '''備註 '''  |
+| 2014年1月10日       | KBS                                                   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N、LEO          | 待機室訪問特別 MC |
+| 2015年3月3日─10月13日 | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 固定MC       |
+| 2015年5月9日─11月14日 | MBC                                                   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 固定MC       |
+| 2015年11月17日      | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
+| 2016年4月24日       | SBS                                                   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")               | HONGBIN        | 特別 MC      |
+| 2016年4月26日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
+| 2016年5月3日        | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | KEN            | 特別 MC      |
+| 2016年5月10日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
+| 2016年8月16日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
+| 2016年8月23日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
+| 2016年8月30日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
+| 2017年2月14日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
+| 2017年5月18日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | N、HONGBIN、HYUK | 特別 MC      |
+| 2017年9月2日        | MBC                                                   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 特別 MC      |
+| 2018年5月18日       | KBS                                                   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N              | 特別 MC      |
+| 2019年1月10日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI、HYUK      | 特別 MC      |
+| 2019年3月21日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI           | 特別 MC      |
 
 #### 綜藝節目主持
 
@@ -949,14 +952,14 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 
 #### 綜藝節目固定
 
-|                        |            |                                                             |          |
-| ---------------------- | ---------- | ----------------------------------------------------------- | -------- |
-| **日期**                 | **電視台**    | **節目名稱**                                                    | **參與成員** |
-| 2015年9月2日─2016年3月23日   | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")            | N        |
-| 2017年3月30日─2017年6月1日   | On Style   | [Lipstick Prince](../Page/Lipstick_Prince.md "wikilink") 2  | N        |
-| 2018年9月14日─2018年10月26日 | MBN        | [現實男女](../Page/現實男女.md "wikilink") 2                        | KEN      |
-| 2018年11月23日─2019年1月25日 | MBC        | [真正的男人300](../Page/真正的男人300.md "wikilink")第三季               | RAVI     |
-| 2018年11月24日─2019年1月6日  | tvN        | [令人垂涎的游轮](https://zh.wikipedia.org/wiki/令人垂涎的游轮 "wikilink") | HYUK     |
+|                        |            |                                                                     |          |
+| ---------------------- | ---------- | ------------------------------------------------------------------- | -------- |
+| **日期**                 | **電視台**    | **節目名稱**                                                            | **參與成員** |
+| 2015年9月2日─2016年3月23日   | MBC every1 | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink") | N        |
+| 2017年3月30日─2017年6月1日   | On Style   | [Lipstick Prince](../Page/Lipstick_Prince.md "wikilink") 2          | N        |
+| 2018年9月14日─2018年10月26日 | MBN        | [現實男女](https://zh.wikipedia.org/wiki/現實男女 "wikilink") 2             | KEN      |
+| 2018年11月23日─2019年1月25日 | MBC        | [真正的男人300](../Page/真正的男人300.md "wikilink")第三季                       | RAVI     |
+| 2018年11月24日─2019年1月6日  | tvN        | [令人垂涎的游轮](https://zh.wikipedia.org/wiki/令人垂涎的游轮 "wikilink")         | HYUK     |
 
 #### 廣播節目主持
 
@@ -973,8 +976,8 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
   - 2013年：Jowissa 瑞士腕錶代言
   - 2014年：STAFF Korea 服飾品牌代言
   - 2014年：TIO Iced Tea 水果茶飲料代言
-  - 2014年：Korea Brand & Entertainment Expo 2014 品牌暨韓流商品博覽會 宣傳大使（與[徐仁國](../Page/徐仁國.md "wikilink")）
-  - 2015年-2018年：釜山樂天酒店 形象代言人（與[防彈少年團](../Page/防彈少年團.md "wikilink")、[Rain](../Page/Rain.md "wikilink")、[BTOB](../Page/BTOB.md "wikilink")、[Boyfriend](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")）
+  - 2014年：Korea Brand & Entertainment Expo 2014 品牌暨韓流商品博覽會 宣傳大使（與[徐仁國](https://zh.wikipedia.org/wiki/徐仁國 "wikilink")）
+  - 2015年-2018年：釜山樂天酒店 形象代言人（與[防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")、[Rain](../Page/Rain.md "wikilink")、[BTOB](../Page/BTOB.md "wikilink")、[Boyfriend](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")）
   - 2015年：Feltics 服飾品牌代言
   - 2016年：SK PLANET 11號街(韓國綜合網上商城)Plus篇 廣告
   - 2016年-2017年：JAMBANGEE 服飾品牌代言
@@ -1526,7 +1529,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="odd">
 <td><p>6月11日</p></td>
-<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1582,7 +1585,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="even">
 <td><p>3月4日</p></td>
-<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1590,7 +1593,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="odd">
 <td><p>3月5日</p></td>
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet媒體" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
@@ -1646,7 +1649,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="even">
 <td><p>11月18日</p></td>
-<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1670,7 +1673,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="odd">
 <td><p>4月27日</p></td>
-<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1710,7 +1713,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tr>
 <tr class="even">
 <td><p>8月24日</p></td>
-<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1785,7 +1788,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 <td><p><a href="https://zh.wikipedia.org/wiki/hyde_(EP)" title="wikilink">Jekyll</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/VOODOO.md" title="wikilink">VOODOO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VOODOO" title="wikilink">VOODOO</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Jelly_Christmas_2013" title="wikilink">Jelly Christmas 2013</a></p></td>
@@ -1848,7 +1851,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 <td><p>2018年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/EAU_DE_VIXX.md" title="wikilink">EAU DE VIXX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EAU_DE_VIXX" title="wikilink">EAU DE VIXX</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Canvas_(Leo迷你專輯)" title="wikilink">CANVAS</a></p></td>
@@ -1876,11 +1879,11 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 </tbody>
 </table>
 
-| 各台冠軍歌曲統計                             |
-| ------------------------------------ |
-| [Mnet](../Page/Mnet媒體.md "wikilink") |
-| 1                                    |
-| 冠軍歌曲總數：30                            |
+| 各台冠軍歌曲統計                                                |
+| ------------------------------------------------------- |
+| [Mnet](https://zh.wikipedia.org/wiki/Mnet媒體 "wikilink") |
+| 1                                                       |
+| 冠軍歌曲總數：30                                               |
 
 ### 偶像運動會獎項
 
@@ -1900,7 +1903,7 @@ VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出�
 
 ## 音樂創作
 
-[社團法人韓國音樂著作權協會(KOMCA)登記之資料](../Page/韓國音樂著作權協會.md "wikilink")
+[社團法人韓國音樂著作權協會(KOMCA)登記之資料](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
 
 |        |            |          |            |
 | ------ | ---------- | -------- | ---------- |

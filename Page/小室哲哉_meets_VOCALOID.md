@@ -5,7 +5,7 @@
 
 ## 收錄曲
 
-1.  [I BELIEVE](https://zh.wikipedia.org/wiki/I_BELIEVE_\(華原朋美歌曲\) "wikilink") / Dios/シグナルP feat. [鏡音鈴](../Page/鏡音鈴、連.md "wikilink")
+1.  [I BELIEVE](https://zh.wikipedia.org/wiki/I_BELIEVE_\(華原朋美歌曲\) "wikilink") / Dios/シグナルP feat. [鏡音鈴](https://zh.wikipedia.org/wiki/鏡音鈴、連 "wikilink")
       -
         原曲：[華原朋美](../Page/華原朋美.md "wikilink") （1995年）
 2.  [愛戀 心痛 堅強](../Page/愛戀_心痛_堅強.md "wikilink") / mathru(かにみそP) feat. [初音未來](../Page/初音未來.md "wikilink")

@@ -10,7 +10,7 @@
   - [天龍座CM](../Page/天龍座CM.md "wikilink")
   - [室女座QS](../Page/室女座QS.md "wikilink")
   - [巨蛇座NN](../Page/巨蛇座NN.md "wikilink")
-  - [開普勒16](../Page/開普勒16.md "wikilink")
+  - [開普勒16](https://zh.wikipedia.org/wiki/開普勒16 "wikilink")
 
 ## 參考資料
 

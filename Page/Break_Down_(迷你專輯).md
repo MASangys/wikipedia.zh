@@ -1,7 +1,7 @@
 > 本文内容由[Break Down \(迷你專輯\)](https://zh.wikipedia.org/wiki/Break_Down_\(迷你專輯\))转换而来。
 
 
-《**Break Down**》是韓國人氣組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")於2011年6月7日由CJ E\&M所發行的首張個人迷你專輯。
+《**Break Down**》是韓國人氣組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重於](https://zh.wikipedia.org/wiki/金賢重 "wikilink")2011年6月7日由CJ E\&M所發行的首張個人迷你專輯。
 
 ## 概述
 
@@ -9,7 +9,7 @@
   - 在台灣，專輯發行後立即空降各大實體、網路、數位、點播榜冠軍寶座，發售當日即獲白金唱片最高殊榮，打破台灣唱片史上韓國單飛男藝人最高銷售紀錄。
   - 這張BREAK DOWN是與日本V6、KAT-TUN的音樂製作人STEVEN LEE合作，一年時間往返于美國和韓國精心製作的專輯。金賢重本人也全面參與專輯製作，為專輯的高品質做出了許多努力。特別是Ne-yo，Rihanna，Usher，Kanye West等世界知名歌手的專輯製作人Kevin Davis也共同參與了製作。\[1\]
   - 主打曲《Break Down》是一首以強烈的節奏和sound製作展現極具動感的performance的歌曲,再搭配powerful編曲使得該曲整體質量上升。除此之前,專輯中《Intro (Let Me Go)》、《拜託(Please)》、《Kiss Kiss》、《Yes I Will》等歌曲可以令人感受到至今未曾展現的金賢重僅有的音樂世界和performance。特別是為了此次專輯製作,金賢重還到訪美國進行事前準備,並與海外著名音樂人一起參與編曲和舞蹈工作,此次mv拍攝工作投入了超過兩億韓元的製作費,為了使專輯的完成度提高,金賢重也做了很多努力。
-  - 一輯中最先公開的《Please》是一首在舞曲與R\&B之間混合的抒情曲,以簡單的鋼琴伴奏開曲,小提琴的合成和鼓點節奏效果也恰到好處,收尾與鋼琴前奏都是同一段旋律,簡單卻不失華麗。儘管這是一首抒情曲,金賢重仍然編排了與節奏相合的舞步,增強了舞台的表現力。而《Please》的MV則選擇以首爾華麗的夜幕為背景,其中金賢重以短髮的干練造型亮相,展現出非凡的男性魅力，MV女主角為[金旼序](../Page/金旼序.md "wikilink")。
+  - 一輯中最先公開的《Please》是一首在舞曲與R\&B之間混合的抒情曲,以簡單的鋼琴伴奏開曲,小提琴的合成和鼓點節奏效果也恰到好處,收尾與鋼琴前奏都是同一段旋律,簡單卻不失華麗。儘管這是一首抒情曲,金賢重仍然編排了與節奏相合的舞步,增強了舞台的表現力。而《Please》的MV則選擇以首爾華麗的夜幕為背景,其中金賢重以短髮的干練造型亮相,展現出非凡的男性魅力，MV女主角為[金旼序](https://zh.wikipedia.org/wiki/金旼序 "wikilink")。
 
 ## 曲目
 
@@ -28,9 +28,9 @@
 
 ## 獲獎紀錄
 
-  - 2011年6月16日於[Mnet](../Page/Mnet.md "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」以《Break Down》一曲獲得一位。
+  - 2011年6月16日於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」以《Break Down》一曲獲得一位。
   - 2011年6月17日於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")「[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")」以《Break Down》一曲獲得K-Chart 1位。
-  - 2011年6月23日於[Mnet](../Page/Mnet.md "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」以《Break Down》一曲獲得一位。
+  - 2011年6月23日於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」以《Break Down》一曲獲得一位。
   - 2011年6月24日日於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")「[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")」以《Break Down》一曲獲得K-Chart 1位。
   - 2011年8月15日新專輯《Break Down》銷售創佳績[華納音樂大中華區總裁](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")[小杉頒發巨型](https://zh.wikipedia.org/wiki/小杉 "wikilink")[白金唱片](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")。
 

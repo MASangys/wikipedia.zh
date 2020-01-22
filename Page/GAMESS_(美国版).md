@@ -71,7 +71,7 @@ Frank Jensen, Visvaldas Kairys, Hui Li, Walt Stevens, David Garmer,
 <td><p>CDpF</p></td>
 </tr>
 <tr class="even">
-<td><p>数值计算<a href="../Page/海森矩阵.md" title="wikilink">海森矩阵</a></p></td>
+<td><p>数值计算<a href="https://zh.wikipedia.org/wiki/海森矩阵" title="wikilink">海森矩阵</a></p></td>
 <td><p>CDpF</p></td>
 <td><p>CDp</p></td>
 <td><p>CDp</p></td>
@@ -79,7 +79,7 @@ Frank Jensen, Visvaldas Kairys, Hui Li, Walt Stevens, David Garmer,
 <td><p>CDp</p></td>
 </tr>
 <tr class="odd">
-<td><p>解析计算<a href="../Page/海森矩阵.md" title="wikilink">海森矩阵</a></p></td>
+<td><p>解析计算<a href="https://zh.wikipedia.org/wiki/海森矩阵" title="wikilink">海森矩阵</a></p></td>
 <td><p>CDp</p></td>
 <td><p>CDp</p></td>
 <td><p>-</p></td>

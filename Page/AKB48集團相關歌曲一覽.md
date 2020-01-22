@@ -27,7 +27,7 @@
 
 :\* overture（Team Ogi ver.）
 
-::在“[Team Ogi](../Page/尾木製作.md "wikilink") 祭”这一演唱会中使用。
+::在“[Team Ogi](https://zh.wikipedia.org/wiki/尾木製作 "wikilink") 祭”这一演唱会中使用。
 
 :\* overture（AKB0048 ver.）
 
@@ -360,7 +360,7 @@
     **1.[櫻花花瓣](https://zh.wikipedia.org/wiki/櫻花花瓣 "wikilink")**
       - 櫻花花瓣
       - Dear my teacher
-    **2.[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")**
+    **2.[裙襬飄飄](https://zh.wikipedia.org/wiki/裙襬飄飄 "wikilink")**
       - 裙襬飄飄
       - 在蓝天旁
 
@@ -370,16 +370,16 @@
     **1.[想见你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")**
       - 想见你
       - 可是…
-    **2.[制服真碍事](../Page/制服真碍事.md "wikilink")**
+    **2.[制服真碍事](https://zh.wikipedia.org/wiki/制服真碍事 "wikilink")**
       - 制服真碍事
       - Virgin love
     **3.[曾不屑一顾的爱情](https://zh.wikipedia.org/wiki/曾不屑一顾的爱情 "wikilink")**
       - 曾不屑一顾的爱情
       - 卖眼泪的少女
-    **4.[BINGO\!](../Page/BINGO!.md "wikilink")**
+    **4.[BINGO\!](https://zh.wikipedia.org/wiki/BINGO! "wikilink")**
       - BINGO\!
       - Only today
-    **5.[我的太陽](../Page/我的太陽_\(AKB48單曲\).md "wikilink")**
+    **5.[我的太陽](https://zh.wikipedia.org/wiki/我的太陽_\(AKB48單曲\) "wikilink")**
       - 我的太陽
       - 未来的果实
     **6.[妳正在看着夕陽嗎？](https://zh.wikipedia.org/wiki/妳正在看着夕陽嗎？ "wikilink")**
@@ -387,7 +387,7 @@
       - 万岁暴风雨
       - 妳正在看着夕陽嗎？（向日葵组2.0Mix）（）
       - 妳正在看着夕陽嗎？（向日葵组2.1Mix）
-    **7.[浪漫、不需要](../Page/浪漫、不需要.md "wikilink")**
+    **7.[浪漫、不需要](https://zh.wikipedia.org/wiki/浪漫、不需要 "wikilink")**
       - 浪漫、不需要（Original Mix）
       - 爱的毛巾
       - 浪漫、不需要（向日葵组 2nd 2.0 Mix）
@@ -396,23 +396,23 @@
       - 櫻花花瓣2008（Original Mix）
       - 最后的制服（）
       - 櫻花花瓣2008（学校 Mix）
-    **9.[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**
+    **9.[Baby\! Baby\! Baby\!](https://zh.wikipedia.org/wiki/Baby!_Baby!_Baby! "wikilink")**
       - Baby\! Baby\! Baby\!
       - Baby\! Baby\! Baby\! 〜热情祈祷版〜（）
       - Baby\! Baby\! Baby\! 〜追忆太阳版〜（）
       - 不要让梦想死去
       - 初日
-    **10.[大声钻石](../Page/大声钻石.md "wikilink")**
+    **10.[大声钻石](https://zh.wikipedia.org/wiki/大声钻石 "wikilink")**
       - 大声钻石
       - 109
       - 大声钻石（teamA ver.）
       - 大声钻石（teamK ver.）
       - 大声钻石（teamB ver.）
       - 大声钻石（研究生 ver.）
-    **11.[10年櫻](../Page/10年櫻.md "wikilink")**（）
+    **11.[10年櫻](https://zh.wikipedia.org/wiki/10年櫻 "wikilink")**（）
       - 10年桜
       - 在樱花色的天空之下（）
-    **12.[惊喜之泪！](../Page/惊喜之泪！.md "wikilink")**（）
+    **12.[惊喜之泪！](https://zh.wikipedia.org/wiki/惊喜之泪！ "wikilink")**（）
       - 惊喜之泪！
       - 初日
       - FIRST LOVE
@@ -456,19 +456,19 @@
       - 距亲吻100英里（）
       - K区域（）
       - 黄金中央人物（）
-    **21.[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")**（）
+    **21.[Everyday、髮箍](https://zh.wikipedia.org/wiki/Everyday、髮箍 "wikilink")**（）
       - Everyday、髮箍
       - 现在开始 Wonderland（）
       - 斗魂（）
       - 人的力量（）
       - Anti（）
-    **22.[飛翔入手](../Page/飛翔入手.md "wikilink")**（）
+    **22.[飛翔入手](https://zh.wikipedia.org/wiki/飛翔入手 "wikilink")**（）
       - 飛翔入手
       - 不能与你相拥（）
       - 青春在不觉间逝去（）
       - 冰淇淋之吻（）
       - 野菜占卜（）
-    **23.[風正在吹](../Page/風正在吹.md "wikilink")**（）
+    **23.[風正在吹](https://zh.wikipedia.org/wiki/風正在吹 "wikilink")**（）
       - 風正在吹
       - 你的背影（）
       - Vamos
@@ -527,7 +527,7 @@
       - 浪漫手枪（）
       - Haste和Waste（）
       - LOVE修行（）
-    **32.[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")**（）
+    **32.[戀愛的幸運餅乾](https://zh.wikipedia.org/wiki/戀愛的幸運餅乾 "wikilink")**（）
       - 戀愛的幸運餅乾
       - 想了一下爱的定义（）
       - 这一次一定要心醉神迷（）
@@ -535,7 +535,7 @@
       - 最后一扇门（）
       - 不是因为眼泪（）
       - 蓝天咖啡厅（）
-    **33.[真心電流](../Page/真心電流.md "wikilink")**（）
+    **33.[真心電流](https://zh.wikipedia.org/wiki/真心電流 "wikilink")**（）
       - 真心電流
       - 快速与动体视力（）
       - 倒数KISS（）
@@ -563,7 +563,7 @@
       - B花园（）
       - 心的逃生游戏（）
       - 我倆有一腿（）
-    **37.[心意告示牌](../Page/心意告示牌.md "wikilink")** （）
+    **37.[心意告示牌](https://zh.wikipedia.org/wiki/心意告示牌 "wikilink")** （）
       - 心意告示牌（）
       - 某人投的球（）
       - 一個夏季的反抗期（）
@@ -662,10 +662,10 @@
 #### 专辑
 
   -
-    **1.[SET LIST～Greatest Songs 2006-2007～](../Page/SET_LIST～Greatest_Songs_2006-2007～.md "wikilink")**（）
+    **1.[SET LIST～Greatest Songs 2006-2007～](https://zh.wikipedia.org/wiki/SET_LIST～Greatest_Songs_2006-2007～ "wikilink")**（）
       - 裙摆飘飘（Album Mix）
       - Virgin love（Album Mix）
-    **2.[神曲集](../Page/神曲集.md "wikilink")**（）
+    **2.[神曲集](https://zh.wikipedia.org/wiki/神曲集 "wikilink")**（）
       - Baby\! Baby\! Baby\! Baby\!
       - 真实自我（）
       - 你与彩虹与太阳（）
@@ -707,7 +707,7 @@
       - 慢走（）
       - 蓝天 不会寂寞吗？（）
       - 樱花花瓣 ～前田敦子 solo ver.～（）
-    **5.[未來軌跡](../Page/未來軌跡.md "wikilink")**（）
+    **5.[未來軌跡](https://zh.wikipedia.org/wiki/未來軌跡 "wikilink")**（）
       - After rain
       - 教你 猎男的方法（）
       - 欠JJ的东西（）
@@ -798,7 +798,7 @@
 
 :: 电影《[无敌破坏王](../Page/无敌破坏王.md "wikilink")》原声带收录
 
-:\* [掌心語](../Page/掌心語.md "wikilink")（）
+:\* [掌心語](https://zh.wikipedia.org/wiki/掌心語 "wikilink")（）
 
 :: 作为“为了谁”计划支援复兴的第2首歌曲于2013年3月8日开始在全世界提供免费下载。
 
@@ -813,7 +813,7 @@
 
 :\* 这像我一样（）
 
-:: [任天堂3DS](../Page/任天堂3DS.md "wikilink")游戏「AKB48+Me」收录曲（作詞：秋元康、作曲：増田武史）
+:: [任天堂3DS游戏](https://zh.wikipedia.org/wiki/任天堂3DS "wikilink")「AKB48+Me」收录曲（作詞：秋元康、作曲：増田武史）
 
 :\* 共同的爱（）
 
@@ -974,7 +974,7 @@
   -
 
       -
-        [第3届AKB48红白对抗歌合战](../Page/第3届AKB48红白对抗歌合战.md "wikilink")中表演。
+        [第3届AKB48红白对抗歌合战中表演](https://zh.wikipedia.org/wiki/第3届AKB48红白对抗歌合战 "wikilink")。
 
     **我的YELL**
 
@@ -1019,7 +1019,7 @@
     <!-- end list -->
 
       -
-        [第3届AKB48红白对抗歌合战](../Page/第3届AKB48红白对抗歌合战.md "wikilink")中表演。
+        [第3届AKB48红白对抗歌合战中表演](https://zh.wikipedia.org/wiki/第3届AKB48红白对抗歌合战 "wikilink")。
 
 <!-- end list -->
 
@@ -1028,7 +1028,7 @@
       - 红组钻石
     <!-- end list -->
       -
-        [第3届AKB48红白对抗歌合战](../Page/第3届AKB48红白对抗歌合战.md "wikilink")中表演。
+        [第3届AKB48红白对抗歌合战中表演](https://zh.wikipedia.org/wiki/第3届AKB48红白对抗歌合战 "wikilink")。
     **为了麻友**
       - 为了美咲
     <!-- end list -->
@@ -1100,13 +1100,13 @@
 #### 单曲
 
   -
-    ''' 1.[坚强之勇者](../Page/坚强之勇者.md "wikilink") '''（）
+    ''' 1.[坚强之勇者](https://zh.wikipedia.org/wiki/坚强之勇者 "wikilink") '''（）
       - 坚强之勇者
       - 坚强之勇者（Team KII ver.）
-    '''2. [蓝天下的单相思](../Page/蓝天下的单相思.md "wikilink") '''（）
+    '''2. [蓝天下的单相思](https://zh.wikipedia.org/wiki/蓝天下的单相思 "wikilink") '''（）
       - 蓝天下的单相思
       - 蹦极宣言（）
-    *' 3. [抱歉、SUMMER](../Page/抱歉、SUMMER.md "wikilink")*' （）
+    *' 3. [抱歉、SUMMER](https://zh.wikipedia.org/wiki/抱歉、SUMMER "wikilink")*' （）
       - 抱歉、SUMMER
       - 少女在盛夏会做什么？（）
       - 羽豆岬（）
@@ -1122,7 +1122,7 @@
       - 爱之数量（）
       - 毕业式忘记的东西（）
       - 我不会怨谁（）
-    **6. [翡翠色的沙灘裙](../Page/翡翠色的沙灘裙.md "wikilink")**（）
+    **6. [翡翠色的沙灘裙](https://zh.wikipedia.org/wiki/翡翠色的沙灘裙 "wikilink")**（）
       - 翡翠色的沙灘裙
       - 心跳的足迹（）
       - 讨厌父亲（）
@@ -1168,7 +1168,7 @@
       - 穿过夜晚（）
       - 青春的水花（）
       - 来组建乐队吧（）
-    **13. [赞成卡哇伊！](../Page/赞成卡哇伊！.md "wikilink")**（）
+    **13. [赞成卡哇伊！](https://zh.wikipedia.org/wiki/赞成卡哇伊！ "wikilink")**（）
       - 赞成卡哇伊！
       - 这里来一发（）
       - 不知不觉、欺凌弱者（）
@@ -1176,7 +1176,7 @@
       - 石榴的颗粒中有多少粒忧愁在内？（）
       - 道路为什么继续下去？（）
       - 一直一直在前方的今天（）
-    **14. [未來是什麼？](../Page/未來是什麼？.md "wikilink")**（）
+    **14. [未來是什麼？](https://zh.wikipedia.org/wiki/未來是什麼？ "wikilink")**（）
       - 未來是什麼？
       - Mayflower
       - GALAXY of DREAMS
@@ -1184,7 +1184,7 @@
       - S子与测谎器（）
       - 想要约你见面（）
       - 我们的羁绊（）
-    **15. [笨拙的太陽](../Page/笨拙的太陽.md "wikilink")**（）
+    **15. [笨拙的太陽](https://zh.wikipedia.org/wiki/笨拙的太陽 "wikilink")**（）
       - 笨拙的太陽
       - 放學後的比賽 （）
       - Coming soon
@@ -1254,7 +1254,7 @@
 
 :\* 大声钻石（SKE48 ver.）
 
-:: AKB48 的第10張單曲《[大声钻石](../Page/大声钻石.md "wikilink")》收录
+:: AKB48 的第10張單曲《[大声钻石](https://zh.wikipedia.org/wiki/大声钻石 "wikilink")》收录
 
 :\* 逞强的时钟（）
 
@@ -1352,14 +1352,14 @@ style="font-size:108%;text-align:left" id="tN"|Team N
       - 恋爱被害届（）
       - 冬将军的后悔（）
       - 睡着之前没有羊出现（）
-    **7.[我們的發現](../Page/我們的發現.md "wikilink")**（）
+    **7.[我們的發現](https://zh.wikipedia.org/wiki/我們的發現 "wikilink")**（）
       - 我們的發現
       - 如触不到却碰得到（）
       - 臼齿（）
       - 野蛮的软冰淇淋（）
       - 偶人架展现不出我的魅力（）
       - 彩姐（）
-    **8.[大蔥鴨們](../Page/大蔥鴨們.md "wikilink")**（）
+    **8.[大蔥鴨們](https://zh.wikipedia.org/wiki/大蔥鴨們 "wikilink")**（）
       - 大蔥鴨們
       - 太阳镜和知心话（）
       - 在倾盆暴雨的青春之中（）
@@ -1440,7 +1440,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
       - 杏仁羊角面包计划（）
       - 读了太宰治吗?（
       -
-    2\.**[世界的中心是大阪 ～難波自治區～](../Page/世界的中心是大阪_～難波自治區～.md "wikilink")**（）
+    2\.**[世界的中心是大阪 ～難波自治區～](https://zh.wikipedia.org/wiki/世界的中心是大阪_～難波自治區～ "wikilink")**（）
       - 伊維薩女孩 （）
       - 「別在意學生手冊的照片」的法則 （）
       - 下電車 （）
@@ -1759,11 +1759,11 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/甜瓜汁_(HKT48單曲).md" title="wikilink">甜瓜汁</a>'''（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/甜瓜汁_(HKT48單曲)" title="wikilink">甜瓜汁</a>'''（）</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/井上ヨシマサ" title="wikilink">井上ヨシマサ</a></p></td>
 <td><p>井上ヨシマサ</p></td>
-<td><p>2nd <a href="../Page/甜瓜汁_(HKT48單曲).md" title="wikilink">甜瓜汁</a>'''（）</p></td>
+<td><p>2nd <a href="https://zh.wikipedia.org/wiki/甜瓜汁_(HKT48單曲)" title="wikilink">甜瓜汁</a>'''（）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1868,15 +1868,15 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="../Page/櫻花，大家一起來品嚐.md" title="wikilink">櫻花，大家一起來品嚐</a>'''（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐" title="wikilink">櫻花，大家一起來品嚐</a>'''（）</p></td>
 <td></td>
 <td><p>Ryosuke "Dr.R" Sakai</p></td>
 <td><p>野中“まさ”雄一</p></td>
-<td><p>3rd「<a href="../Page/櫻花，大家一起來品嚐.md" title="wikilink">櫻花，大家一起來品嚐</a>'''（）」</p></td>
+<td><p>3rd「<a href="https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐" title="wikilink">櫻花，大家一起來品嚐</a>'''（）」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>秋吉優花、穴井千尋、多田愛佳[40]、兒玉遥[41]、指原莉乃[42]、田島芽瑠、<a href="../Page/田中美久_(HKT48).md" title="wikilink">田中美久</a>、朝長美桜、中西智代梨[43]、渕上舞、松岡菜摘、宮脇咲良、村重杏奈、本村碧唯、森保まどか、<a href="../Page/矢吹奈子.md" title="wikilink">矢吹奈子</a></p></td>
+<td><p>秋吉優花、穴井千尋、多田愛佳[40]、兒玉遥[41]、指原莉乃[42]、田島芽瑠、<a href="../Page/田中美久_(HKT48).md" title="wikilink">田中美久</a>、朝長美桜、中西智代梨[43]、渕上舞、松岡菜摘、宮脇咲良、村重杏奈、本村碧唯、森保まどか、<a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子</a></p></td>
 <td><p>[44][45]</p></td>
 <td></td>
 <td></td>
@@ -1980,16 +1980,16 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/有所保留的我愛你！.md" title="wikilink">有所保留的我愛你！</a>'''（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有所保留的我愛你！" title="wikilink">有所保留的我愛你！</a>'''（）</p></td>
 <td></td>
 <td><p>pakorama</p></td>
 <td><p>野中“まさ”雄一</p></td>
-<td><p>4th「<a href="../Page/有所保留的我愛你！.md" title="wikilink">有所保留的我愛你！</a>'''（）」</p></td>
+<td><p>4th「<a href="https://zh.wikipedia.org/wiki/有所保留的我愛你！" title="wikilink">有所保留的我愛你！</a>'''（）」</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>穴井千尋、多田愛佳[68]、<a href="../Page/木本花音.md" title="wikilink">木本花音</a>[69]、栗原紗英、神志那結衣、兒玉遥[70]、指原莉乃[71]、田島芽瑠、田中美久、朝長美桜[72]、松岡菜摘、宮脇咲良[73]、本村碧唯、森保まどか、矢吹奈子、山本茉央</p></td>
+<td><p>穴井千尋、多田愛佳[68]、<a href="https://zh.wikipedia.org/wiki/木本花音" title="wikilink">木本花音</a>[69]、栗原紗英、神志那結衣、兒玉遥[70]、指原莉乃[71]、田島芽瑠、田中美久、朝長美桜[72]、松岡菜摘、宮脇咲良[73]、本村碧唯、森保まどか、矢吹奈子、山本茉央</p></td>
 <td><p>[74][75]</p></td>
 <td></td>
 <td></td>
@@ -2906,7 +2906,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 <td></td>
 <td><p>博多女孩</p></td>
 <td></td>
-<td><p><a href="../Page/伊維薩女孩.md" title="wikilink">伊維薩女孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊維薩女孩" title="wikilink">伊維薩女孩</a></p></td>
 <td><p>『5周年記念特別公演』中披露。</p></td>
 <td><p>[240]</p></td>
 </tr>
@@ -2984,17 +2984,17 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
 #### 其他
 
-| 年                                                                                                                                                                                                                                                | 楽曲名                   | 名義    | 作曲              | 編曲                                                 | 収録                                                           | 註解      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ----- | --------------- | -------------------------------------------------- | ------------------------------------------------------------ | ------- |
-| 歌唱成員                                                                                                                                                                                                                                             |                       |       |                 |                                                    |                                                              |         |
-| 2016                                                                                                                                                                                                                                             | Max朱鷺315號 (Maxとき315号) |       | 松本一也            | 松本一也                                               | AKB48的第43張單曲「[你就是旋律](../Page/你就是旋律.md "wikilink")」           | \[252\] |
-| 大滝友梨亜、荻野由佳、小熊倫実、[加藤美南](../Page/加藤美南.md "wikilink")、角尤利婭（角ゆりあ）、北原里英\[253\]、日下部愛菜、佐藤杏樹、菅原里子（菅原りこ）、清司麗菜、高倉萌香、髙橋真生、太野彩香、[中井莉加（中井りか)](https://zh.wikipedia.org/wiki/中井莉加（中井りか\) "wikilink")、中村歩加、奈良未遥、西潟茉莉奈、西村菜那子、長谷川玲奈、本間日陽、水澤彩佳、宮島亜弥、村雲颯香、山口真帆、山田野絵 | \[254\]\[255\]        |       |                 |                                                    |                                                              |         |
-| 你在哪裏? (君はどこにいる?)                                                                                                                                                                                                                                 |                       | 伊藤心太郎 | 若田部誠            | AKB48的第44張單曲「[不需要翅膀](../Page/不需要翅膀.md "wikilink")」 |                                                              |         |
-| 大滝友梨亜、荻野由佳、小熊倫実、柏木由紀\[256\]、加藤美南、角ゆりあ、北原里英\[257\]、日下部愛菜、佐藤杏樹、菅原りこ、清司麗菜、高倉萌香、髙橋真生、太野彩香、[中井莉加（中井りか)](https://zh.wikipedia.org/wiki/中井莉加（中井りか\) "wikilink")、中村歩加、奈良未遥、西潟茉莉奈、西村菜那子、長谷川玲奈、本間日陽、水澤彩佳、宮島亜弥、村雲颯香、山口真帆、山田野絵                               | \[258\]\[259\]        |       |                 |                                                    |                                                              |         |
-| 2017                                                                                                                                                                                                                                             | 绿色森林体育公园 （みどりと森の運動公園） |       |                 |                                                    | AKB48的第47張單曲「[Shoot Sign](../Page/Shoot_Sign.md "wikilink")」 |         |
-| 大滝友梨亜、荻野由佳、小熊倫実、柏木由紀\[260\]、加藤美南、角尤利婭、北原里英、日下部愛菜、佐藤杏樹、菅原里子、清司麗菜、高倉萌香、髙橋真生、太野彩香、中井莉加、中村歩加、奈良未遥、西潟茉莉奈、西村菜那子、長谷川玲奈、本間日陽、水澤彩佳、宮島亜弥、村雲颯香、山口真帆、山田野絵                                                                                                    | \[261\]\[262\]        |       |                 |                                                    |                                                              |         |
-| 2018                                                                                                                                                                                                                                             | 就當朋友吧(友達でいましょう)       |       | 和泉一弥、Ithoh↗kun. | 立山秋航                                               | AKB48 的第51張單曲「[Ja-Ba-Ja](../Page/Ja-Ba-Ja.md "wikilink")」    |         |
-| 荻野由佳、小熊倫実、柏木由紀\[263\]、加藤美南、北原里英、佐藤杏樹、菅原りこ、高倉萌香、太野彩香、中井りか、西潟茉莉奈、長谷川玲奈、本間日陽、村雲颯香、山口真帆、山田野絵                                                                                                                                                         | \[264\]\[265\]        |       |                 |                                                    |                                                              |         |
+| 年                                                                                                                                                                                                                                                | 楽曲名                   | 名義    | 作曲              | 編曲                                                 | 収録                                                                           | 註解      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ----- | --------------- | -------------------------------------------------- | ---------------------------------------------------------------------------- | ------- |
+| 歌唱成員                                                                                                                                                                                                                                             |                       |       |                 |                                                    |                                                                              |         |
+| 2016                                                                                                                                                                                                                                             | Max朱鷺315號 (Maxとき315号) |       | 松本一也            | 松本一也                                               | AKB48的第43張單曲「[你就是旋律](../Page/你就是旋律.md "wikilink")」                           | \[252\] |
+| 大滝友梨亜、荻野由佳、小熊倫実、[加藤美南](../Page/加藤美南.md "wikilink")、角尤利婭（角ゆりあ）、北原里英\[253\]、日下部愛菜、佐藤杏樹、菅原里子（菅原りこ）、清司麗菜、高倉萌香、髙橋真生、太野彩香、[中井莉加（中井りか)](https://zh.wikipedia.org/wiki/中井莉加（中井りか\) "wikilink")、中村歩加、奈良未遥、西潟茉莉奈、西村菜那子、長谷川玲奈、本間日陽、水澤彩佳、宮島亜弥、村雲颯香、山口真帆、山田野絵 | \[254\]\[255\]        |       |                 |                                                    |                                                                              |         |
+| 你在哪裏? (君はどこにいる?)                                                                                                                                                                                                                                 |                       | 伊藤心太郎 | 若田部誠            | AKB48的第44張單曲「[不需要翅膀](../Page/不需要翅膀.md "wikilink")」 |                                                                              |         |
+| 大滝友梨亜、荻野由佳、小熊倫実、柏木由紀\[256\]、加藤美南、角ゆりあ、北原里英\[257\]、日下部愛菜、佐藤杏樹、菅原りこ、清司麗菜、高倉萌香、髙橋真生、太野彩香、[中井莉加（中井りか)](https://zh.wikipedia.org/wiki/中井莉加（中井りか\) "wikilink")、中村歩加、奈良未遥、西潟茉莉奈、西村菜那子、長谷川玲奈、本間日陽、水澤彩佳、宮島亜弥、村雲颯香、山口真帆、山田野絵                               | \[258\]\[259\]        |       |                 |                                                    |                                                                              |         |
+| 2017                                                                                                                                                                                                                                             | 绿色森林体育公园 （みどりと森の運動公園） |       |                 |                                                    | AKB48的第47張單曲「[Shoot Sign](../Page/Shoot_Sign.md "wikilink")」                 |         |
+| 大滝友梨亜、荻野由佳、小熊倫実、柏木由紀\[260\]、加藤美南、角尤利婭、北原里英、日下部愛菜、佐藤杏樹、菅原里子、清司麗菜、高倉萌香、髙橋真生、太野彩香、中井莉加、中村歩加、奈良未遥、西潟茉莉奈、西村菜那子、長谷川玲奈、本間日陽、水澤彩佳、宮島亜弥、村雲颯香、山口真帆、山田野絵                                                                                                    | \[261\]\[262\]        |       |                 |                                                    |                                                                              |         |
+| 2018                                                                                                                                                                                                                                             | 就當朋友吧(友達でいましょう)       |       | 和泉一弥、Ithoh↗kun. | 立山秋航                                               | AKB48 的第51張單曲「[Ja-Ba-Ja](https://zh.wikipedia.org/wiki/Ja-Ba-Ja "wikilink")」 |         |
+| 荻野由佳、小熊倫実、柏木由紀\[263\]、加藤美南、北原里英、佐藤杏樹、菅原りこ、高倉萌香、太野彩香、中井りか、西潟茉莉奈、長谷川玲奈、本間日陽、村雲颯香、山口真帆、山田野絵                                                                                                                                                         | \[264\]\[265\]        |       |                 |                                                    |                                                                              |         |
 
 ### 未音源化 (NGT48)
 
@@ -3065,12 +3065,12 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 #### 单曲
 
   -
-    **1.[GAGAGA](../Page/GAGAGA.md "wikilink")**
+    **1.[GAGAGA](https://zh.wikipedia.org/wiki/GAGAGA "wikilink")**
       - GAGAGA
       - 孤独的跑者
       - 爱神触发（）
       - 佐渡向过去（）
-    **2.[請給我愛](../Page/請給我愛.md "wikilink")**（）
+    **2.[請給我愛](https://zh.wikipedia.org/wiki/請給我愛 "wikilink")**（）
       - 請給我愛
       - 天国之门在第3次的打开（）
       - 淡路岛的洋葱（）
@@ -3188,7 +3188,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
       - Fortune Cookie in Love
       - First Rabbit
       - Baby\! Baby\! Baby\! - Passionate Prayer Version -
-    **4.[Manatsu no Sounds Good\!](../Page/仲夏的Sounds_good!_\(JKT48单曲\).md "wikilink")**
+    **4.[Manatsu no Sounds Good\!](https://zh.wikipedia.org/wiki/仲夏的Sounds_good!_\(JKT48单曲\) "wikilink")**
       - Manatsu no Sounds Good\!
       - BINGO\!
       - Kimi to Boku no Kankei
@@ -3283,22 +3283,22 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 #### 单曲
 
   -
-    **1.[Relax\!](../Page/Relax!.md "wikilink")**
+    **1.[Relax\!](https://zh.wikipedia.org/wiki/Relax! "wikilink")**
       - Relax\!
       - 心之温度（）
     **2.[种子](https://zh.wikipedia.org/wiki/种子_\(no3b单曲\) "wikilink")**（）
       - 种子
       - Girls' talk
-    **3.[流星之吻](../Page/流星之吻.md "wikilink")**（）
+    **3.[流星之吻](https://zh.wikipedia.org/wiki/流星之吻 "wikilink")**（）
       - 流星之吻
       - 巴士站（）
-    **4.[Lie](../Page/Lie.md "wikilink")**
+    **4.[Lie](https://zh.wikipedia.org/wiki/Lie "wikilink")**
       - Lie
       - 3seconds Remix
     **5.[只有你](https://zh.wikipedia.org/wiki/只有你_\(no3b单曲\) "wikilink")**（）
       - 只有你
       - 青春就像树梢撒落的夏日阳光（）
-    **6.[Answer](../Page/Answer.md "wikilink")**
+    **6.[Answer](https://zh.wikipedia.org/wiki/Answer "wikilink")**
       - Answer
       - 好奇1号（）
       - Answer TV Animation ver.
@@ -3355,7 +3355,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
   -
     走廊奔跑队 名義
-    **1.[初戀衝刺／青色未來](../Page/初戀衝刺／青色未來.md "wikilink")**（）
+    **1.[初戀衝刺／青色未來](https://zh.wikipedia.org/wiki/初戀衝刺／青色未來 "wikilink")**（）
       - 初戀衝刺
       - 青色未來
       - 恋爱的咀嚼（）
@@ -3363,7 +3363,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
       - 干劲烟花
       - 恋爱运动员（）
       - 白色的郁金香（）
-    **3.[完美的Gu字音](../Page/完美的Gu字音.md "wikilink")**（）
+    **3.[完美的Gu字音](https://zh.wikipedia.org/wiki/完美的Gu字音 "wikilink")**（）
       - 完美的Gu字音
       - 冒险和等等（）
       - 风的小提琴（）
@@ -3387,7 +3387,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
       - 你好 我的初恋
       - 睡衣兜风
       - 夕阳的凌辱（）
-    **8.[笨拙的媚眼](../Page/笨拙的媚眼.md "wikilink")**（）
+    **8.[笨拙的媚眼](https://zh.wikipedia.org/wiki/笨拙的媚眼 "wikilink")**（）
       - 笨拙的媚眼
       - 那么、谢谢\!（）
       - 不适合比基尼（）
@@ -3413,7 +3413,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
   -
     走廊奔跑队 名義
-    **1.[不要在走廊奔跑！](../Page/不要在走廊奔跑！.md "wikilink")**（）
+    **1.[不要在走廊奔跑！](https://zh.wikipedia.org/wiki/不要在走廊奔跑！ "wikilink")**（）
       - 猫骗（）
       - 冒失（）
       - 骨折罗曼史（）
@@ -3436,7 +3436,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 #### 单曲
 
   -
-    **1.[很早以前](../Page/很早以前.md "wikilink")**（）
+    **1.[很早以前](https://zh.wikipedia.org/wiki/很早以前 "wikilink")**（）
       - 很早以前
       - 夜风的恶作剧
       - 一个秋天的一天（）
@@ -3476,13 +3476,13 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 #### 单曲
 
   -
-    **1.[週末Not yet](../Page/週末Not_yet.md "wikilink")**（）
+    **1.[週末Not yet](https://zh.wikipedia.org/wiki/週末Not_yet "wikilink")**（）
       - 周末Not yet
       - 飘飘（）
       - 需要诚实（）
       - 虽然很好笑（）
       - 泪中带笑（Not yet ver.）
-    **2.[破浪刨冰](../Page/破浪刨冰.md "wikilink")**（）
+    **2.[破浪刨冰](https://zh.wikipedia.org/wiki/破浪刨冰 "wikilink")**（）
       - 破浪刨冰
       - 弗美尔的信（）
       - 挚友（）
@@ -3512,7 +3512,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 #### 专辑
 
   -
-    **1.[Already](../Page/Already.md "wikilink")**
+    **1.[Already](https://zh.wikipedia.org/wiki/Already "wikilink")**
       - 我接受来自世界的风（）
       - Already
       - 从此不喝格雷伯爵茶（）
@@ -3522,13 +3522,13 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 #### 单曲
 
   -
-    **1.[月的裏側](../Page/月的裏側.md "wikilink")**（）
+    **1.[月的裏側](https://zh.wikipedia.org/wiki/月的裏側 "wikilink")**（）
       - 月的里侧
       - Fade out
       - Information（）
       - Blue rose -DiVA ver.-
       - 月的里侧 -RoyalMirrorball Mix-
-    **2.[Cry](../Page/Cry.md "wikilink")**
+    **2.[Cry](https://zh.wikipedia.org/wiki/Cry "wikilink")**
       - Cry
       - No way out
       - 地下水道（）
@@ -3567,7 +3567,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
         毕业之后发表或灌录唱片发行的歌曲，请参照个人页面。
 
   - 单曲
-    **1.[Dear J](../Page/Dear_J.md "wikilink")**
+    **1.[Dear J](https://zh.wikipedia.org/wiki/Dear_J "wikilink")**
 
       - Dear J
       - TUNNEL
@@ -3604,7 +3604,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
   - 配信限定
 
-:\* [Wanna be now](../Page/Wanna_be_now.md "wikilink")
+:\* [Wanna be now](https://zh.wikipedia.org/wiki/Wanna_be_now "wikilink")
 
 :\* [爱的耳环](https://zh.wikipedia.org/wiki/爱的耳环 "wikilink")（）
 
@@ -3666,12 +3666,12 @@ style="font-size:108%;text-align:left" id="tN"|Team N
       - 飞翔入手〈演歌版本〉
       - 紫阳花桥（）
       - 津轻海峡・冬景色（）
-    **3.[鞆之浦的爱慕之情](../Page/鞆之浦的爱慕之情.md "wikilink")** （）
+    **3.[鞆之浦的爱慕之情](https://zh.wikipedia.org/wiki/鞆之浦的爱慕之情 "wikilink")** （）
       - 鞆之浦的爱慕之情
       - 恋爱的幸运饼干〈演歌版本〉
       - 異邦人
   - 翻唱专辑
-    **1.[点播·翻唱](../Page/点播·翻唱.md "wikilink")**（）
+    **1.[点播·翻唱](https://zh.wikipedia.org/wiki/点播·翻唱 "wikilink")**（）
       - 红色的麝香豌豆（）
       - 任时光从身边流逝（）
       - Love is over（）
@@ -3785,7 +3785,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
       - 未来桥（）
       - 同窗会之后（）
       - 嫉妒之拳（）
-    **2.[Birthday wedding](../Page/Birthday_wedding.md "wikilink")**
+    **2.[Birthday wedding](https://zh.wikipedia.org/wiki/Birthday_wedding "wikilink")**
       - Birthday wedding
       - 但是一直（）
       - 你与我（）
@@ -3910,7 +3910,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 （）
 
   -
-    **[心之羽根](../Page/心之羽根.md "wikilink")**（）
+    **[心之羽根](https://zh.wikipedia.org/wiki/心之羽根 "wikilink")**（）
       - 心之羽根
       - 世界中之雨（）
     **其他**
@@ -3991,7 +3991,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
 :\* Lost the way -MOVIE MIX-
 
-:: 《[奥特曼传奇](../Page/奥特曼传奇.md "wikilink") Original Soundtrack》（）中收录。
+:: 《[奥特曼传奇](https://zh.wikipedia.org/wiki/奥特曼传奇 "wikilink") Original Soundtrack》（）中收录。
 
 :\* 大葱鸭们 ＜Remo-Con REMIX＞
 
@@ -4032,7 +4032,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
   -
 
       -
-        《[Manatsu no Sounds Good\!](../Page/仲夏的Sounds_good!_\(JKT48单曲\).md "wikilink")》中收录。
+        《[Manatsu no Sounds Good\!](https://zh.wikipedia.org/wiki/仲夏的Sounds_good!_\(JKT48单曲\) "wikilink")》中收录。
 
   - 法语
 
@@ -4050,7 +4050,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
   -
 
       -
-        SA\&KA from AKB48（[秋元才加](../Page/秋元才加.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")）演唱
+        SA\&KA from AKB48（[秋元才加](../Page/秋元才加.md "wikilink")、[野呂佳代](https://zh.wikipedia.org/wiki/野呂佳代 "wikilink")）演唱
         2006年在[东京电视台系播放的](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")《》中的环节“是Panda”（）中使用。
         （作曲：[马蒂·弗里德曼](../Page/马蒂·弗里德曼_\(音乐家\).md "wikilink")）
 
@@ -4071,7 +4071,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
     <!-- end list -->
 
       -
-        蜡笔小新Friends（） from AKB48（[大岛麻衣](https://zh.wikipedia.org/wiki/大岛麻衣 "wikilink")、[折井步](../Page/折井步.md "wikilink")、今井優、[野吕佳代](https://zh.wikipedia.org/wiki/野吕佳代 "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")）演唱
+        蜡笔小新Friends（） from AKB48（[大岛麻衣](https://zh.wikipedia.org/wiki/大岛麻衣 "wikilink")、[折井步](https://zh.wikipedia.org/wiki/折井步 "wikilink")、今井優、[野吕佳代](https://zh.wikipedia.org/wiki/野吕佳代 "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")）演唱
         《[呼风唤雨\!夕阳下的春日部男孩](https://zh.wikipedia.org/wiki/蜡笔小新#剧场版 "wikilink")》参加配音的成员所演唱的版本。
 
     <!-- end list -->
@@ -4209,7 +4209,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
     <!-- end list -->
 
       -
-        [龝田和惠](../Page/龝田和惠.md "wikilink")演唱
+        [龝田和惠演唱](https://zh.wikipedia.org/wiki/龝田和惠 "wikilink")
         2012年3月28日开始提供下载的下载限定单曲。
 
     <!-- end list -->
@@ -4239,7 +4239,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
     <!-- end list -->
 
       -
-        仲谷明香、[岩田華怜](../Page/岩田華怜.md "wikilink")参加了歌曲录制。同时单曲内也收录了岩田的个人演唱版本。
+        仲谷明香、[岩田華怜参加了歌曲录制](https://zh.wikipedia.org/wiki/岩田華怜 "wikilink")。同时单曲内也收录了岩田的个人演唱版本。
 
     <!-- end list -->
 
@@ -4280,7 +4280,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
       -
 
-        ＆[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink") from AKB48演唱
+        ＆[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[中村麻里子](https://zh.wikipedia.org/wiki/中村麻里子 "wikilink") from AKB48演唱
 
         2013年2月23日～24日在[NICONICO直播节目](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")《向谷实之NICONICO现场录音 Vol.2》（）内宣布制作的下载限定单曲。
 
@@ -4312,7 +4312,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
       - [増山加弥乃](https://zh.wikipedia.org/wiki/増山加弥乃 "wikilink")
 
-      - [折井步](../Page/折井步.md "wikilink")（）
+      - [折井步](https://zh.wikipedia.org/wiki/折井步 "wikilink")（）
 
       - [小野惠令奈](../Page/小野惠令奈.md "wikilink")
 
@@ -4326,7 +4326,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
       - [大山愛未](https://zh.wikipedia.org/wiki/大山愛未 "wikilink")
 
-      - [成田梨紗](../Page/成田梨紗.md "wikilink")
+      - [成田梨紗](https://zh.wikipedia.org/wiki/成田梨紗 "wikilink")
 
       - [小原春香](../Page/小原春香.md "wikilink")
 
@@ -4335,7 +4335,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
       - [前田敦子](../Page/前田敦子.md "wikilink")
 
       -
-      - [今吉惠](https://zh.wikipedia.org/wiki/今吉惠 "wikilink")（）、[梅田悠](../Page/梅田悠.md "wikilink")、[甲斐田樹里](../Page/甲斐田樹里.md "wikilink")、[加藤雅美](../Page/加藤雅美.md "wikilink")、[伊東愛](https://zh.wikipedia.org/wiki/伊東愛 "wikilink")、[KONAN](../Page/KONAN.md "wikilink")、[細田海友](https://zh.wikipedia.org/wiki/細田海友 "wikilink") （组成了组合[7cm](https://zh.wikipedia.org/wiki/7cm "wikilink")）
+      - [今吉惠](https://zh.wikipedia.org/wiki/今吉惠 "wikilink")（）、[梅田悠](https://zh.wikipedia.org/wiki/梅田悠 "wikilink")、[甲斐田樹里](../Page/甲斐田樹里.md "wikilink")、[加藤雅美](../Page/加藤雅美.md "wikilink")、[伊東愛](https://zh.wikipedia.org/wiki/伊東愛 "wikilink")、[KONAN](../Page/KONAN.md "wikilink")、[細田海友](https://zh.wikipedia.org/wiki/細田海友 "wikilink") （组成了组合[7cm](https://zh.wikipedia.org/wiki/7cm "wikilink")）
 
       - [光上慧爱兰](https://zh.wikipedia.org/wiki/光上慧爱兰 "wikilink")（）
 
@@ -4357,9 +4357,9 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
 ## 関連項目
 
-  - [AKB48相关作品](../Page/AKB48相关作品.md "wikilink")
+  - [AKB48相关作品](https://zh.wikipedia.org/wiki/AKB48相关作品 "wikilink")
   - [SKE48相关作品](https://zh.wikipedia.org/wiki/SKE48相关作品 "wikilink")
-  - [AKB48歌曲列表](../Page/AKB48歌曲列表.md "wikilink")
+  - [AKB48歌曲列表](https://zh.wikipedia.org/wiki/AKB48歌曲列表 "wikilink")
 
 ## 註釋
 

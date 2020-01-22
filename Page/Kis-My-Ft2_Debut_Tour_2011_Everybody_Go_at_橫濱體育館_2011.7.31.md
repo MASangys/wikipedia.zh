@@ -9,10 +9,10 @@ Kis-My-Ft2的第4次單独演唱會。
 
 ## 收錄内容
 
-1.  [Everybody Go](../Page/Everybody_Go.md "wikilink")
+1.  [Everybody Go](https://zh.wikipedia.org/wiki/Everybody_Go "wikilink")
 2.  [Kis-My-Me-Mine](../Page/Kis-My-1st.md "wikilink")
-3.  [若者たち](../Page/Everybody_Go.md "wikilink")
-4.  [S.O.KISS](../Page/Everybody_Go.md "wikilink")
+3.  [若者たち](https://zh.wikipedia.org/wiki/Everybody_Go "wikilink")
+4.  [S.O.KISS](https://zh.wikipedia.org/wiki/Everybody_Go "wikilink")
 
 \- Medley -
 
@@ -36,14 +36,14 @@ Kis-My-Ft2的第4次單独演唱會。
 9.  [世界は僕らを待っている](https://zh.wikipedia.org/wiki/Ya-ya-yah "wikilink")
 10. [祈願](https://zh.wikipedia.org/wiki/祈願 "wikilink")
 11. [FIRE BEAT](https://zh.wikipedia.org/wiki/FIRE_BEAT "wikilink")
-12. [KISS FOR U](../Page/Everybody_Go.md "wikilink")
+12. [KISS FOR U](https://zh.wikipedia.org/wiki/Everybody_Go "wikilink")
 13. Brand New Season
 14. [千年的Love Song](../Page/Kis-My-Ft2_Kis-My-MiNT_Tour_at_東京巨蛋_2012.4.8.md "wikilink")
 15. [Endless Road](../Page/Kis-My-1st.md "wikilink")
 
 \- Encore -
 
-1.  [Everybody Go](../Page/Everybody_Go.md "wikilink")
+1.  [Everybody Go](https://zh.wikipedia.org/wiki/Everybody_Go "wikilink")
 
 \- Encore -
 

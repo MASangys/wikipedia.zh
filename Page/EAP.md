@@ -13,7 +13,7 @@
 
   -
   -
-  - [东部伙伴关系](../Page/东部伙伴关系.md "wikilink")（Eastern Partnership），欧盟发起的处理欧盟国家和前苏联国家关系的计划。
+  - [东部伙伴关系](https://zh.wikipedia.org/wiki/东部伙伴关系 "wikilink")（Eastern Partnership），欧盟发起的处理欧盟国家和前苏联国家关系的计划。
 
   - , administrative board of the sport of cricket in East Asia and the Pacific area.
 
@@ -21,7 +21,7 @@
 
   - , a prototype fighter aircraft which formed the basis for the Eurofighter Typhoon
 
-  - [电活性聚合物](../Page/电活性聚合物.md "wikilink")（Electroactive polymers），能够在电场作用下，改变其形状或大小的聚合物材料
+  - [电活性聚合物](https://zh.wikipedia.org/wiki/电活性聚合物 "wikilink")（Electroactive polymers），能够在电场作用下，改变其形状或大小的聚合物材料
 
 ## 计算机
 

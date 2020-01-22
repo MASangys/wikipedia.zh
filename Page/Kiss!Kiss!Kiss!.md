@@ -23,7 +23,7 @@ AKIRASTAR(\#2、作曲) | Producer = 滝川洋 | Chart position = \*週間最高
       -
         『[守護甜心\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")』片尾曲（2008年4月 - 6月）。
 2.  **みんなだいすき**　
-    （作詞：C.Piece、作曲：AKIRASTAR、編曲：[安部潤](../Page/安部潤.md "wikilink")）
+    （作詞：C.Piece、作曲：AKIRASTAR、編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")）
       -
         『守護甜心\!』主題曲（2008年4月 - 9月）。
 3.  Kiss\!Kiss\!Kiss\! (Instrumental)

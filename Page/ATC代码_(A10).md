@@ -10,7 +10,7 @@
     A10AB02 牛胰岛素（Insulin (beef)）
     A10AB03 猪胰岛素（Insulin (pork)）
     A10AB04 [赖脯胰岛素](https://zh.wikipedia.org/wiki/赖脯胰岛素 "wikilink")（Insulin lispro）
-    A10AB05 [门冬胰岛素](../Page/门冬胰岛素.md "wikilink")（Insulin aspart）
+    A10AB05 [门冬胰岛素](https://zh.wikipedia.org/wiki/门冬胰岛素 "wikilink")（Insulin aspart）
     A10AB06 [赖谷胰岛素](https://zh.wikipedia.org/wiki/赖谷胰岛素 "wikilink")（Insulin glulisine）
     A10AB30 复方（Combinations）
 
@@ -121,7 +121,7 @@
 
   -
     A10BJ01 [艾塞那肽](https://zh.wikipedia.org/wiki/艾塞那肽 "wikilink") exenatide
-    A10BJ02 [利拉鲁肽](../Page/利拉鲁肽.md "wikilink") liraglutide
+    A10BJ02 [利拉鲁肽](https://zh.wikipedia.org/wiki/利拉鲁肽 "wikilink") liraglutide
     A10BJ03 lixisenatide
     A10BJ04 albiglutide
     A10BJ05 dulaglutide
@@ -138,7 +138,7 @@
 
   -
     A10BX01 [瓜耳树胶](https://zh.wikipedia.org/wiki/瓜耳树胶 "wikilink")（Guar gum）
-    A10BX02 [瑞格列奈](../Page/瑞格列奈.md "wikilink")（Repaglinide）
+    A10BX02 [瑞格列奈](https://zh.wikipedia.org/wiki/瑞格列奈 "wikilink")（Repaglinide）
     A10BX03 [那格列奈](https://zh.wikipedia.org/wiki/那格列奈 "wikilink")（Nateglinide）
     A10BX05 [普兰林肽](https://zh.wikipedia.org/wiki/普兰林肽 "wikilink")（Pramlintide）
     A10BX06 [苯氟雷司](https://zh.wikipedia.org/wiki/苯氟雷司 "wikilink")（Benfluorex）

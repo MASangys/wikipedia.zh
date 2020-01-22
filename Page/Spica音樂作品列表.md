@@ -1,7 +1,7 @@
 > 本文内容由[Spica音樂作品列表](https://zh.wikipedia.org/wiki/Spica音樂作品列表)转换而来。
 
 
-本頁是南韓女子團體**[Spica](../Page/SPICA_\(組合\).md "wikilink")**的音樂作品列表。自2012年出道以來共發表三張EP、兩張單曲與多部音樂錄影帶。
+本頁是南韓女子團體**[Spica](https://zh.wikipedia.org/wiki/SPICA_\(組合\) "wikilink")**的音樂作品列表。自2012年出道以來共發表三張EP、兩張單曲與多部音樂錄影帶。
 
   - 專輯/單曲資料各列出音樂作品發行日期、音樂作品發行商和音樂作品的發行類型，其中類型包括CD、DVD、數位下載等。
 
@@ -278,7 +278,7 @@
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
 <td><ul>
-<li>MNET《<a href="../Page/Dancing_9.md" title="wikilink">Dancing 9</a>》節目主題曲</li>
+<li>MNET《<a href="https://zh.wikipedia.org/wiki/Dancing_9" title="wikilink">Dancing 9</a>》節目主題曲</li>
 <li>發行日期：2013年9月26日</li>
 <li>語言：韓語</li>
 <li>歌手：SPICA</li>
@@ -308,7 +308,7 @@
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
 <td><ul>
-<li>tvN 月火剧《<a href="../Page/魔女的戀愛.md" title="wikilink">魔女的戀愛</a>》OST 1</li>
+<li>tvN 月火剧《<a href="https://zh.wikipedia.org/wiki/魔女的戀愛" title="wikilink">魔女的戀愛</a>》OST 1</li>
 <li>發行日期：2014年4月15日</li>
 <li>語言：韓語</li>
 <li>歌手：SPICA</li>
@@ -485,7 +485,7 @@
 <li>Tribe of Hiphop2 Episode 2</li>
 <li>發行日期：2016年12月21日</li>
 <li>語言：韓語</li>
-<li>歌手：<a href="../Page/金甫娥.md" title="wikilink">金甫娥</a> &amp; 朴俊勉 &amp; <a href="../Page/李伊庚.md" title="wikilink">李伊庚</a> &amp; <a href="https://zh.wikipedia.org/wiki/張基勇" title="wikilink">張基勇</a> &amp; <a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a><a href="../Page/創造_(歌手).md" title="wikilink">創造</a>（feat. Sway D）</li>
+<li>歌手：<a href="../Page/金甫娥.md" title="wikilink">金甫娥</a> &amp; 朴俊勉 &amp; <a href="https://zh.wikipedia.org/wiki/李伊庚" title="wikilink">李伊庚</a> &amp; <a href="https://zh.wikipedia.org/wiki/張基勇" title="wikilink">張基勇</a> &amp; <a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a><a href="../Page/創造_(歌手).md" title="wikilink">創造</a>（feat. Sway D）</li>
 </ul></td>
 <td></td>
 </tr>
@@ -534,20 +534,20 @@
 
 ## 客串歌曲
 
-|                                     |                   |           |       |       |
-| ----------------------------------- | ----------------- | --------- | ----- | ----- |
-| 年份                                  | 歌手                | 歌曲        | 參與成員  | 官方MV  |
-| 2008年                               | 河東均               | 再次愛的話     | 金甫娥   |       |
-| Mario                               | I'm Here          | 金甫娥       |       |       |
-| 2013年                               | Loco              | Take Care | 朴娜萊   | \[6\] |
-| Mando & Chigi                       | He Says, She Says | 朴娜萊       | \[7\] |       |
-| 2014年                               | Mario             | Damage    | 金甫娥   |       |
-| [Nicole](../Page/鄭龍珠.md "wikilink") | Innocent?         | 金甫娥       |       |       |
-| 2015年                               | 金亨中               | Zero      | 金甫娥   | \[8\] |
-| Flowsik                             | Can't Sleep       | 金保亨       |       |       |
-| 2016年                               | 金鍾西               | Home      | 金甫娥   |       |
-| Reddy                               | Even if it's you  | 金甫娥       | \[9\] |       |
-|                                     |                   |           |       |       |
+|                                                        |                   |           |       |       |
+| ------------------------------------------------------ | ----------------- | --------- | ----- | ----- |
+| 年份                                                     | 歌手                | 歌曲        | 參與成員  | 官方MV  |
+| 2008年                                                  | 河東均               | 再次愛的話     | 金甫娥   |       |
+| Mario                                                  | I'm Here          | 金甫娥       |       |       |
+| 2013年                                                  | Loco              | Take Care | 朴娜萊   | \[6\] |
+| Mando & Chigi                                          | He Says, She Says | 朴娜萊       | \[7\] |       |
+| 2014年                                                  | Mario             | Damage    | 金甫娥   |       |
+| [Nicole](https://zh.wikipedia.org/wiki/鄭龍珠 "wikilink") | Innocent?         | 金甫娥       |       |       |
+| 2015年                                                  | 金亨中               | Zero      | 金甫娥   | \[8\] |
+| Flowsik                                                | Can't Sleep       | 金保亨       |       |       |
+| 2016年                                                  | 金鍾西               | Home      | 金甫娥   |       |
+| Reddy                                                  | Even if it's you  | 金甫娥       | \[9\] |       |
+|                                                        |                   |           |       |       |
 
 ## 影像
 
@@ -555,7 +555,7 @@
 
 |                                年分                                 | 歌曲                               | 最高位置 | 長度   |
 | :---------------------------------------------------------------: | -------------------------------- | ---- | ---- |
-|                [Mnet](../Page/Mnet.md "wikilink")                 |                                  |      |      |
+|       [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       |                                  |      |      |
 |                               2012                                | [狠毒地](../Page/狠毒地.md "wikilink") | 3    | 4:28 |
 |    [Russian Roulette](../Page/Russian_Roulette.md "wikilink")     | 3                                | 3:39 |      |
 | [Painkiller](https://zh.wikipedia.org/wiki/Painkiller "wikilink") | 2                                | 4:12 |      |

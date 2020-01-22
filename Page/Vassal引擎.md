@@ -24,7 +24,7 @@ VASSAL目前包含了超過800個遊戲模組可以使用，以下列出一些�
   - [外交](../Page/外交_\(遊戲\).md "wikilink")\[7\]
   - [HeroQuest](https://zh.wikipedia.org/wiki/HeroQuest "wikilink")\[8\]
   - [Pandemic](https://zh.wikipedia.org/wiki/Pandemic "wikilink")\[9\]
-  - [宇宙荒舟](../Page/宇宙荒舟.md "wikilink")\[10\]
+  - [宇宙荒舟](https://zh.wikipedia.org/wiki/宇宙荒舟 "wikilink")\[10\]
   - [Shadows over Camelot](https://zh.wikipedia.org/wiki/Shadows_over_Camelot "wikilink") \[11\]
   - [Memoir 44](https://zh.wikipedia.org/wiki/Memoir_44 "wikilink")\[12\]
   - [World in Flames](https://zh.wikipedia.org/wiki/World_in_Flames "wikilink")\[13\]
@@ -36,7 +36,7 @@ VASSAL目前包含了超過800個遊戲模組可以使用，以下列出一些�
 
 ## 版權和授權議題
 
-在2008年9月，[Games Workshop發出一禁制命令](../Page/Games_Workshop.md "wikilink")（cease-and-desist）給Tim Davis，Vassal40k當時的開發團隊領導。\[16\]不過此模組目前仍可使用並且持續更新。
+在2008年9月，[Games Workshop發出一禁制命令](https://zh.wikipedia.org/wiki/Games_Workshop "wikilink")（cease-and-desist）給Tim Davis，Vassal40k當時的開發團隊領導。\[16\]不過此模組目前仍可使用並且持續更新。
 
 ## 參考資料
 

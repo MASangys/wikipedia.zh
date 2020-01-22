@@ -25,7 +25,7 @@
 
 ### 影片內容
 
-在影片的開始，有架[飛機帶著一面寫著](https://zh.wikipedia.org/wiki/飛機 "wikilink")「Gangnam Style」的橫幅，之後看見一個女人搧動著印有PSY頭像的扇子。隨後PSY出現在鏡頭前，在鏡頭中PSY戴著太陽鏡，好像躺在[沙灘的沙灘椅上](https://zh.wikipedia.org/wiki/沙灘 "wikilink")。但是當畫面縮小時，鏡頭顯示PSY其實只是位於一個遊樂場中，而且沒有女人為他扇動扇子。\[22\]之後鏡頭穿梭於遊樂場和馬房之間。當畫面在遊樂場時，一個男孩（黃珉宇(황민우)飾）在PSY旁邊跳舞。而當鏡頭切換至馬房后，PSY在鏡頭前表演了《江南Style》的標誌性舞步——騎馬舞。\[23\] 之後，PSY和兩個女人正在某個停車場中步行，而停車場中報紙、垃圾及雪四處橫飛。在這段中，鏡頭不斷在只有PSY步行的畫面以及PSY和兩個女人一起步行的畫面之間來回轉換。\[24\]隨後鏡頭轉到一個桑拿房中，PSY的頭靠在一個男人的肩上，而另一個紋身男人則在一旁做伸展運動。在接下來的室外畫面中，PSY在兩個下棋的老人（[大聲及](../Page/姜大聲.md "wikilink")[勝利飾](../Page/勝利_\(歌手\).md "wikilink")）前唱歌、在網球場內與另一名女子跳舞、以及在一輛載著老年人的旅遊巴士上跳來跳去。這些畫面快速地切換，直到那兩個下棋的老人的身旁發生[大爆炸](../Page/大爆炸.md "wikilink")為止。此時PSY走近鏡頭，大喊“”（Oppa Gangnam Style）。之後，他與一些舞者一起表演騎馬舞。在接下來出現的其他鏡頭當中，他亦在兩個向後走的女性前、網球場內、旋轉木馬上和旅遊巴上等不同的位置跳騎馬舞。在接下來的兩組鏡頭當中，第一組鏡頭顯示PSY走到一個戶外瑜伽培訓場地中（其中一個練瑜伽的女士由[劉寅娜](../Page/劉寅娜.md "wikilink")飾演），而第二組鏡頭又顯示PSY在一艘船上跳舞。接著，鏡頭放大到劉寅娜的[臀部](https://zh.wikipedia.org/wiki/臀部 "wikilink")，而PSY則假裝對著該臀部大喊。\[25\]\[26\]
+在影片的開始，有架[飛機帶著一面寫著](https://zh.wikipedia.org/wiki/飛機 "wikilink")「Gangnam Style」的橫幅，之後看見一個女人搧動著印有PSY頭像的扇子。隨後PSY出現在鏡頭前，在鏡頭中PSY戴著太陽鏡，好像躺在[沙灘的沙灘椅上](https://zh.wikipedia.org/wiki/沙灘 "wikilink")。但是當畫面縮小時，鏡頭顯示PSY其實只是位於一個遊樂場中，而且沒有女人為他扇動扇子。\[22\]之後鏡頭穿梭於遊樂場和馬房之間。當畫面在遊樂場時，一個男孩（黃珉宇(황민우)飾）在PSY旁邊跳舞。而當鏡頭切換至馬房后，PSY在鏡頭前表演了《江南Style》的標誌性舞步——騎馬舞。\[23\] 之後，PSY和兩個女人正在某個停車場中步行，而停車場中報紙、垃圾及雪四處橫飛。在這段中，鏡頭不斷在只有PSY步行的畫面以及PSY和兩個女人一起步行的畫面之間來回轉換。\[24\]隨後鏡頭轉到一個桑拿房中，PSY的頭靠在一個男人的肩上，而另一個紋身男人則在一旁做伸展運動。在接下來的室外畫面中，PSY在兩個下棋的老人（[大聲及](https://zh.wikipedia.org/wiki/姜大聲 "wikilink")[勝利飾](https://zh.wikipedia.org/wiki/勝利_\(歌手\) "wikilink")）前唱歌、在網球場內與另一名女子跳舞、以及在一輛載著老年人的旅遊巴士上跳來跳去。這些畫面快速地切換，直到那兩個下棋的老人的身旁發生[大爆炸](../Page/大爆炸.md "wikilink")為止。此時PSY走近鏡頭，大喊“”（Oppa Gangnam Style）。之後，他與一些舞者一起表演騎馬舞。在接下來出現的其他鏡頭當中，他亦在兩個向後走的女性前、網球場內、旋轉木馬上和旅遊巴上等不同的位置跳騎馬舞。在接下來的兩組鏡頭當中，第一組鏡頭顯示PSY走到一個戶外瑜伽培訓場地中（其中一個練瑜伽的女士由[劉寅娜飾演](https://zh.wikipedia.org/wiki/劉寅娜 "wikilink")），而第二組鏡頭又顯示PSY在一艘船上跳舞。接著，鏡頭放大到劉寅娜的[臀部](https://zh.wikipedia.org/wiki/臀部 "wikilink")，而PSY則假裝對著該臀部大喊。\[25\]\[26\]
 
 鏡頭切換到另一個停車場，PSY與一些女郎跳舞，隨後一個黃衣男人（[劉在錫](../Page/劉在錫.md "wikilink")飾）駕著一輛紅色的[梅賽德斯-奔馳SLK200進入停車場](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳SLK200 "wikilink")，然後開始和PSY鬥舞。在隨後的鏡頭中，PSY出現於一部[電梯內](https://zh.wikipedia.org/wiki/電梯 "wikilink")，他趴在一個男人（[盧弘喆](../Page/盧弘喆.md "wikilink")飾）的兩腿之間，而在PSY上方站立著的男人則反覆地做著搖晃胯部的舞蹈動作。鏡頭轉回到停車場，該黃衣男人回到他的車中，並離開停車場。接著，PSY在[仁川地鐵1號線列車快要停靠在終點站](https://zh.wikipedia.org/wiki/仁川地鐵1號線 "wikilink")[國際業務園區站](../Page/國際業務園區站.md "wikilink")時準備下車，鏡頭一轉，車廂中一位年輕貌美的女子（[泫雅飾](https://zh.wikipedia.org/wiki/泫雅 "wikilink")）正在跳舞。當列車停止時，PSY開始慢動作地走向泫雅，而泫雅也慢動作地走向PSY，兩人最後抱在一起。PSY隨後對著泫雅說“”（Oppa Gangnam Style），並開始與一些人跳騎馬舞。在跳舞的過程中，PSY爬進泫雅的雙腳中間裝作馬的樣子。接下來穿插進影片中的畫面里，他出現在了一個溫泉裡。\[27\]\[28\]
 
@@ -35,11 +35,11 @@
 
 音樂影片中有出現的一眾韓星包括：
 
-  - [泫雅](../Page/金泫雅.md "wikilink")
+  - [泫雅](https://zh.wikipedia.org/wiki/金泫雅 "wikilink")
   - [劉在錫](../Page/劉在錫.md "wikilink")與PSY鬥舞 （身穿螢光黃衣服，開紅跑車）
   - [盧弘喆](../Page/盧弘喆.md "wikilink")在[電梯裡跳舞](https://zh.wikipedia.org/wiki/電梯 "wikilink")
-  - [BIGBANG成員](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[大聲及](../Page/姜大聲.md "wikilink")[勝利客串兩個在下棋的老年人](../Page/勝利_\(歌手\).md "wikilink")
-  - [劉寅娜](../Page/劉寅娜.md "wikilink")飾演練瑜伽的女士
+  - [BIGBANG成員](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[大聲及](https://zh.wikipedia.org/wiki/姜大聲 "wikilink")[勝利客串兩個在下棋的老年人](https://zh.wikipedia.org/wiki/勝利_\(歌手\) "wikilink")
+  - [劉寅娜飾演練瑜伽的女士](https://zh.wikipedia.org/wiki/劉寅娜 "wikilink")
 
 ## 流行文化
 
@@ -215,12 +215,12 @@ Common Sense Media的金阿萊西認為《江南Style》的音樂錄影帶中顯
 
 ## 《哥哥正是我的风格》
 
-《江南Style》於2012年8月14日重新发布為《哥哥正是我的风格》（；），並由[4Minute成員](https://zh.wikipedia.org/wiki/4Minute "wikilink")[泫雅主唱](https://zh.wikipedia.org/wiki/泫雅 "wikilink")。[赫芬顿邮报](../Page/赫芬顿邮报.md "wikilink")的玛丽卡拉奥指出這音樂視頻「將原本音樂以男性的角度來演繹變為以女性的角度來演繹整個故事，並且在視頻中減少了騎馬舞，同時增加了更多引人注目的舞蹈 。」\[102\]在YouTube網站的官方音樂錄影帶已突破6億次點擊及150萬次網友點擊「喜歡」。{{-}}
+《江南Style》於2012年8月14日重新发布為《哥哥正是我的风格》（；），並由[4Minute成員](https://zh.wikipedia.org/wiki/4Minute "wikilink")[泫雅主唱](https://zh.wikipedia.org/wiki/泫雅 "wikilink")。[赫芬顿邮报的玛丽卡拉奥指出這音樂視頻](https://zh.wikipedia.org/wiki/赫芬顿邮报 "wikilink")「將原本音樂以男性的角度來演繹變為以女性的角度來演繹整個故事，並且在視頻中減少了騎馬舞，同時增加了更多引人注目的舞蹈 。」\[102\]在YouTube網站的官方音樂錄影帶已突破6億次點擊及150萬次網友點擊「喜歡」。{{-}}
 
 ## 參見
 
   - [江南區 (首爾)](../Page/江南區_\(首爾\).md "wikilink")
-  - [PSY](https://zh.wikipedia.org/wiki/PSY_\(歌手\) "wikilink")、[泫雅](../Page/金泫雅.md "wikilink")
+  - [PSY](https://zh.wikipedia.org/wiki/PSY_\(歌手\) "wikilink")、[泫雅](https://zh.wikipedia.org/wiki/金泫雅 "wikilink")
   - [韓流](../Page/韓流.md "wikilink")
 
 ## 注释

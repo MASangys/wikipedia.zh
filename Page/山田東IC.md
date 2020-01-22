@@ -11,7 +11,7 @@
 
 ### 間接連接
 
-  - [國道41號](../Page/國道41號.md "wikilink")
+  - [國道41號](https://zh.wikipedia.org/wiki/國道41號 "wikilink")
   - [愛知縣道158號小口名古屋線](https://zh.wikipedia.org/wiki/愛知縣道158號小口名古屋線 "wikilink")
 
 ## 歷史

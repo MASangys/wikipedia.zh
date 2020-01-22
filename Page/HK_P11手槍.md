@@ -21,9 +21,9 @@
   -
 ## 相關連結
 
-  - [COP 357德林加手槍](../Page/COP_357德林加手槍.md "wikilink")
+  - [COP 357德林加手槍](https://zh.wikipedia.org/wiki/COP_357德林加手槍 "wikilink")
   - [三角洲部队](https://zh.wikipedia.org/wiki/三角洲部队 "wikilink")
-  - [APS水下突擊步槍](../Page/APS水下突擊步槍.md "wikilink")
+  - [APS水下突擊步槍](https://zh.wikipedia.org/wiki/APS水下突擊步槍 "wikilink")
   - [DoubleTap德林加手槍](../Page/DoubleTap德林加手槍.md "wikilink")
 
 ## 參考文獻

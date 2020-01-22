@@ -13,13 +13,13 @@
 
 北冕座R是這一類變星的原型，迄今只有三顆北冕座R型變星是肉眼可見的，另外兩顆是[人馬座RY](../Page/人馬座RY.md "wikilink")\[6\]和[半人馬座V854](https://zh.wikipedia.org/wiki/半人馬座V854 "wikilink") \[7\]。多數時間，它在定義不明確的40天和51天的週期顯示0.1星等的變化。這些對應於略低於極端氦星的徑向脈衝的第一泛音基調\[8\]。
 
-北冕座R從正常的6等星變得黯淡的時間間隔是不規則的，可以長達幾年到幾十年，變暗的時間則從幾個月到甚至幾年；也沒有固定的極小值，光度變化可以從可見的6等到昏暗的15等，在較長[波長的變暗比較不明顯](https://zh.wikipedia.org/wiki/波長 "wikilink")。正常而言，當抵達極小值之後，幾乎就會立刻開始返回最大亮度，但是偶爾也會中斷，先變暗再變亮。這種不規則的黯淡是北冕座R型變星的定義特徵，被認為是由於[碳](../Page/碳.md "wikilink")在恆星的周圍凝結成[煙塵](../Page/炭黑.md "wikilink")。
+北冕座R從正常的6等星變得黯淡的時間間隔是不規則的，可以長達幾年到幾十年，變暗的時間則從幾個月到甚至幾年；也沒有固定的極小值，光度變化可以從可見的6等到昏暗的15等，在較長[波長的變暗比較不明顯](https://zh.wikipedia.org/wiki/波長 "wikilink")。正常而言，當抵達極小值之後，幾乎就會立刻開始返回最大亮度，但是偶爾也會中斷，先變暗再變亮。這種不規則的黯淡是北冕座R型變星的定義特徵，被認為是由於[碳在恆星的周圍凝結成](https://zh.wikipedia.org/wiki/碳 "wikilink")[煙塵](https://zh.wikipedia.org/wiki/炭黑 "wikilink")。
 
 在2007年8月，北冕座R開始黯淡至前所未有的最低限度。它在33天降至14等，然後繼續緩緩變暗，在2009年6月跌破15等。然後它開始同樣緩慢的增光，2011年底尚未達到12等。這是異常和持續最久的最低光度，甚至長過1962年至1967年的5年最低光度。然後，北冕座R繼續黯淡至接近15等，在2014年8月，仍然低於10等，期間已經長達7年。在2014年後期，北冕座R迅速憎光至7等，但又開始變得黯淡。當2015年5月，它的亮度大約是8等\[9\]。
 
 ## 光譜
 
-北冕座R在最大光度時清楚的顯示是晚期的F型或早期的G型黃色超巨星 ，但有著特異的頻譜。缺乏[氫線或是很微弱](https://zh.wikipedia.org/wiki/氫 "wikilink")，而[氰](../Page/氰.md "wikilink")（CN）和C<sub>2</sub>的[碳](../Page/碳.md "wikilink")線和分子譜帶異常強勁。[氦](../Page/氦.md "wikilink")線和像是[鈣](https://zh.wikipedia.org/wiki/鈣 "wikilink")[金屬的譜線也如預期的存在](https://zh.wikipedia.org/wiki/金屬 "wikilink")\[10\]。
+北冕座R在最大光度時清楚的顯示是晚期的F型或早期的G型黃色超巨星 ，但有著特異的頻譜。缺乏[氫線或是很微弱](https://zh.wikipedia.org/wiki/氫 "wikilink")，而[氰](../Page/氰.md "wikilink")（CN）和C<sub>2</sub>的[碳線和分子譜帶異常強勁](https://zh.wikipedia.org/wiki/碳 "wikilink")。[氦](../Page/氦.md "wikilink")線和像是[鈣](https://zh.wikipedia.org/wiki/鈣 "wikilink")[金屬的譜線也如預期的存在](https://zh.wikipedia.org/wiki/金屬 "wikilink")\[10\]。
 
 [頻譜是變化的](https://zh.wikipedia.org/wiki/頻譜 "wikilink")，在光度變暗的其間最為明顯。平常的[吸收光譜](../Page/吸收光譜.md "wikilink")被[發射譜線取代](https://zh.wikipedia.org/wiki/發射譜線 "wikilink")，特別是He<sub>I</sub>、Ca<sub>II</sub>、Na<sub>I</sub>、和其它的金屬。這些譜線有時很狹窄，氦的譜線有時顯示[天鵝座P的輪廓](https://zh.wikipedia.org/wiki/天鵝座P "wikilink")。在極深的極小值，很多的金屬線會消失，但Ca的雙線依然強勁。 In deep minima, many of the metal lines disappear although the Ca doublet remains strong. 在深極小值，很多的金屬線消失雖然 Ca 偶極子依然強勁。\[O<sub>I</sub>\]、\[O<sub>II</sub>\]、和\[N<sub>II</sub>\]的星雲禁制線也能在這時檢測到\[11\]。
 
@@ -37,7 +37,7 @@
 
 ## 光度下降
 
-這種行為的原因被認為是中心恆星[大氣層的](../Page/恆星大氣層.md "wikilink")[碳](../Page/碳.md "wikilink")粉塵定期集結。亮度的突然下降可能是粉塵快速[凝結](../Page/凝結.md "wikilink")，導致很多恆星的光被阻擋造成的。粉塵被[輻射壓](../Page/輻射壓.md "wikilink")逐漸驅散的結果，使光度恢復到正常。
+這種行為的原因被認為是中心恆星[大氣層的](../Page/恆星大氣層.md "wikilink")[碳粉塵定期集結](https://zh.wikipedia.org/wiki/碳 "wikilink")。亮度的突然下降可能是粉塵快速[凝結](../Page/凝結.md "wikilink")，導致很多恆星的光被阻擋造成的。粉塵被[輻射壓](../Page/輻射壓.md "wikilink")逐漸驅散的結果，使光度恢復到正常。
 
 直接用哈伯太空遠鏡觀測的影像顯示方圓2,000[天文單位](../Page/天文單位.md "wikilink")的範圍內有著廣泛的塵埃雲，對應著一連串定期彈出的細塵（約5nm的顆粒），伴隨著[恆星風和粗塵](https://zh.wikipedia.org/wiki/恆星風 "wikilink")（由0.14μm的顆粒組成）\[16\]。產生遮蔽的碳雲凝結似乎發生在不斷擴大的[激波](../Page/激波.md "wikilink")區域的前緣，並且越來越靠近恆星\[17\]。已在北冕座R的周圍檢測到寬約4pc，包含25K約的粉塵殼\[18\]。
 

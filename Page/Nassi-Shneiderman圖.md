@@ -5,7 +5,7 @@
 
 ## 簡介
 
-依，待處理的問題會分解成一些較小的副程式，最後只有簡單的敘述及[控制流程](../Page/控制流程.md "wikilink")結構，NS圖對應了上述的思維，利用巢狀的方塊來表示副程式。NS圖中沒有對應[Goto](../Page/Goto.md "wikilink")指令的表示，和[結構化編程中不使用GOTO的理念一致](https://zh.wikipedia.org/wiki/結構化編程 "wikilink")。NS圖的抽象層次接近結構化的程式碼，若程式重寫，NS圖就需重新繪製，不過NS圖在簡述程序及高階設計時相當方便。
+依，待處理的問題會分解成一些較小的副程式，最後只有簡單的敘述及[控制流程結構](https://zh.wikipedia.org/wiki/控制流程 "wikilink")，NS圖對應了上述的思維，利用巢狀的方塊來表示副程式。NS圖中沒有對應[Goto](../Page/Goto.md "wikilink")指令的表示，和[結構化編程中不使用GOTO的理念一致](https://zh.wikipedia.org/wiki/結構化編程 "wikilink")。NS圖的抽象層次接近結構化的程式碼，若程式重寫，NS圖就需重新繪製，不過NS圖在簡述程序及高階設計時相當方便。
 
 NS圖幾乎是流程圖的[同構](https://zh.wikipedia.org/wiki/同構 "wikilink")，任何的NS圖都可以轉換為流程圖，而大部份的流程圖也可以轉換為NS圖。其中只有像[Goto](../Page/Goto.md "wikilink")指令或是[C語言中針對迴圈的break及continue指令無法用NS圖表示](https://zh.wikipedia.org/wiki/C語言 "wikilink")。
 

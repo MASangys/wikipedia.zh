@@ -12,12 +12,12 @@ GoAgent分为两个部分，一部分是需要部署到GAE上的服务器端软�
 
 ## 特性
 
-由于使用Python开发，GoAgent支持多种操作系統，例如[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Linux](../Page/Linux.md "wikilink")（包括基于Linux开发的移动操作系统、[路由器](../Page/路由器.md "wikilink")固件，如[Android](../Page/Android.md "wikilink")和[OpenWrt](../Page/OpenWrt.md "wikilink")）\[1\]。
+由于使用Python开发，GoAgent支持多种操作系統，例如[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Linux](../Page/Linux.md "wikilink")（包括基于Linux开发的移动操作系统、[路由器](../Page/路由器.md "wikilink")固件，如[Android和](https://zh.wikipedia.org/wiki/Android "wikilink")[OpenWrt](../Page/OpenWrt.md "wikilink")）\[1\]。
 
 GoAgent的其他特性如下：
 
   - 支持作為本地[DNS伺服器使用](https://zh.wikipedia.org/wiki/DNS "wikilink")。
-  - 支持[代理自動配置（PAC）](../Page/代理自动配置.md "wikilink")。
+  - 支持[代理自動配置（PAC）](https://zh.wikipedia.org/wiki/代理自动配置 "wikilink")。
   - 支持在數據傳送過程中採用[HTTPS加密連線](https://zh.wikipedia.org/wiki/HTTPS "wikilink")。
   - 支持[Google App Engine](../Page/Google_App_Engine.md "wikilink")，[PHP](../Page/PHP.md "wikilink")和[PaaS三種模式](https://zh.wikipedia.org/wiki/PaaS "wikilink")。
   - 自2.1.17版本起支持在通信時加入混淆數據以避免數據封包在傳輸時受到特徵過濾 。
@@ -60,7 +60,7 @@ XX-Net是一个免费的桌面应用程序，是基于GoAgent的一个GUI图形�
 
 ### GreatAgent
 
-此項目旨在提供公共而開放的服務端供普通用戶使用，有GreatAgent-ga與GreatAgent-wp兩個版本，分別對應GoAgent與WallProxy這兩個常用的代理程式；除此之外，還提供配置好的[Firefox](../Page/Firefox.md "wikilink")，免去了用戶自行配置、調試的麻煩。
+此項目旨在提供公共而開放的服務端供普通用戶使用，有GreatAgent-ga與GreatAgent-wp兩個版本，分別對應GoAgent與WallProxy這兩個常用的代理程式；除此之外，還提供配置好的[Firefox](https://zh.wikipedia.org/wiki/Firefox "wikilink")，免去了用戶自行配置、調試的麻煩。
 
 目前，GreatAgent已部署830個適用於GoAgent的AppID和1210個適用於WallProxy的AppID，兩者在功能上有所不同。GreatAgent-ga版本僅支援Google的搜尋和[YouTube](../Page/YouTube.md "wikilink")的在線視訊，並且不支援中國大陸國內網站的訪問；而GreatAgent-wp則沒有上述限制，被稱為「電影 AppID」，意指其連線速率較快，但是抗干擾能力不佳。\[9\]
 
@@ -92,7 +92,7 @@ Smartladder是一个内置4947个AppID的GoAgent的打包版本集，包括单�
 
 2015年8月25日，在[Shadowsocks](../Page/Shadowsocks.md "wikilink")作者迫于警方压力删除其项目之后，GoAgent的开发者也删除了该项目。\[12\]
 
-GoAgent项目删除不久，[GitHub](../Page/GitHub.md "wikilink")即遭到了来自中国的[DDoS攻击](https://zh.wikipedia.org/wiki/DDoS "wikilink")。开发者普遍认为此次攻击与中国政府有关。\[13\]2015年8月28日，[电子前哨基金会](../Page/电子前哨基金会.md "wikilink")针对Shadowsocks和GoAgent被删除一事发表评论，对中国政府针对翻墙软件作者的打击表示了强烈的谴责。\[14\]
+GoAgent项目删除不久，[GitHub](../Page/GitHub.md "wikilink")即遭到了来自中国的[DDoS攻击](https://zh.wikipedia.org/wiki/DDoS "wikilink")。开发者普遍认为此次攻击与中国政府有关。\[13\]2015年8月28日，[电子前哨基金会针对Shadowsocks和GoAgent被删除一事发表评论](https://zh.wikipedia.org/wiki/电子前哨基金会 "wikilink")，对中国政府针对翻墙软件作者的打击表示了强烈的谴责。\[14\]
 
 ## 注释
 

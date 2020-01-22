@@ -5,7 +5,7 @@
 
 网站的大多数评论（评分为十分制）都使用欧版或PAL区游戏版本，但由于欧版和日本版或北美/NTSC版本的发布存在着时间差，一些评论则会使用后者进行评论。但是评论总会声明其使用的版本。网站其它功能还包括新闻、截图画廊、读者评论、读者评分、预展、文章、发行日期及一个讨论版。在2006年2月公司推出了Eurogamer的电视\[2\]，玩家可以直接在浏览器中使用Adobe Flash技术来观看预告片和其它视频内容。
 
-《Eurogamer》的的主编是汤姆·布拉姆韦尔，他于2008年1月克里斯坦·里德手里接任此职。布拉姆韦尔自2000年初以来开始工作，是编辑人员中任职时间最长的。而其他参与者包括《[PC Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》、《[GamesTM](../Page/GamesTM.md "wikilink")》、《[Edge](../Page/Edge_\(杂志\).md "wikilink")》和[Rock, Paper, Shotgun的编者](../Page/Rock,_Paper,_Shotgun.md "wikilink")，如奥利弗·威尔士、基隆·吉伦、吉姆·罗西尼尔、约翰·沃克、西蒙·帕金、亚历克·米尔、理查德·利百特、丹·怀特黑德和大卫·麦卡锡，以及前GamesIndustry.biz编辑罗布·费伊。
+《Eurogamer》的的主编是汤姆·布拉姆韦尔，他于2008年1月克里斯坦·里德手里接任此职。布拉姆韦尔自2000年初以来开始工作，是编辑人员中任职时间最长的。而其他参与者包括《[PC Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》、《[GamesTM](https://zh.wikipedia.org/wiki/GamesTM "wikilink")》、《[Edge](../Page/Edge_\(杂志\).md "wikilink")》和[Rock, Paper, Shotgun的编者](https://zh.wikipedia.org/wiki/Rock,_Paper,_Shotgun "wikilink")，如奥利弗·威尔士、基隆·吉伦、吉姆·罗西尼尔、约翰·沃克、西蒙·帕金、亚历克·米尔、理查德·利百特、丹·怀特黑德和大卫·麦卡锡，以及前GamesIndustry.biz编辑罗布·费伊。
 
 ## 历史
 

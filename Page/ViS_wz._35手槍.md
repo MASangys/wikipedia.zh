@@ -5,7 +5,7 @@
 
 ## 設計
 
-ViS wz. 35不少的設計是以[約翰·白朗寧的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[M1911作基礎](https://zh.wikipedia.org/wiki/M1911 "wikilink")，它採用了與M1911相同的[槍管短行程後座作用原理](../Page/後座作用.md "wikilink")，但是在外型上卻有所不同。
+ViS wz. 35不少的設計是以[約翰·白朗寧的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[M1911作基礎](https://zh.wikipedia.org/wiki/M1911 "wikilink")，它採用了與M1911相同的[槍管短行程後座作用原理](https://zh.wikipedia.org/wiki/後座作用 "wikilink")，但是在外型上卻有所不同。
 
 ## 歷史
 

@@ -11,19 +11,19 @@
 
 ### 音樂推出
 
-自Dixie Flatline發表過《Just Be Friends》之前，便曾推出藉由[初音未來](../Page/初音未來.md "wikilink")與[鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink")所創作的音樂作品，這包括有《[雙子座](https://zh.wikipedia.org/wiki/雙子座_\(歌曲\) "wikilink")》（）\[5\]、《Juvenile》（）和《[Sweetiex2](https://zh.wikipedia.org/wiki/Sweetiex2 "wikilink")》等\[6\]\[7\]。2009年7月4日時，Dixie Flatline首次嘗試使用巡音流歌創作《Just Be Friends》一曲、由[Yunomi-P](https://zh.wikipedia.org/wiki/Yunomi-P "wikilink")（）製作極高質量的動畫，且於NICONICO動畫上進行發表。2009年7月6日歌曲隨即列入にVOCALOID殿堂內，並隨即於[週刊VOCALOID排行榜](https://zh.wikipedia.org/wiki/週刊VOCALOID排行榜 "wikilink")（）上獲得第一名，在這之前Dixie Flatline創作的《雙子座》則最高排名為第四名\[8\]。到了2009年11月7日《Just Be Friends》的瀏覽次數則已經超過100萬\[9\]，而這也是Dixie Flatline的作品首次在NICONICO動畫上獲得如此高的評價\[10\]。
+自Dixie Flatline發表過《Just Be Friends》之前，便曾推出藉由[初音未來](../Page/初音未來.md "wikilink")與[鏡音鈴、連所創作的音樂作品](https://zh.wikipedia.org/wiki/鏡音鈴、連 "wikilink")，這包括有《[雙子座](https://zh.wikipedia.org/wiki/雙子座_\(歌曲\) "wikilink")》（）\[5\]、《Juvenile》（）和《[Sweetiex2](https://zh.wikipedia.org/wiki/Sweetiex2 "wikilink")》等\[6\]\[7\]。2009年7月4日時，Dixie Flatline首次嘗試使用巡音流歌創作《Just Be Friends》一曲、由[Yunomi-P](https://zh.wikipedia.org/wiki/Yunomi-P "wikilink")（）製作極高質量的動畫，且於NICONICO動畫上進行發表。2009年7月6日歌曲隨即列入にVOCALOID殿堂內，並隨即於[週刊VOCALOID排行榜](https://zh.wikipedia.org/wiki/週刊VOCALOID排行榜 "wikilink")（）上獲得第一名，在這之前Dixie Flatline創作的《雙子座》則最高排名為第四名\[8\]。到了2009年11月7日《Just Be Friends》的瀏覽次數則已經超過100萬\[9\]，而這也是Dixie Flatline的作品首次在NICONICO動畫上獲得如此高的評價\[10\]。
 
 而作為《Just Be Friends》女孩後續故事內容的《Answer》（）首先在2012年動漫博覽會公佈，並稍後於2012年7月27日上傳到NICONICO動畫上發表，內容則是描述3年過後女孩的心境轉變\[11\]。
 
 ### 商業行銷
 
-2009年8月12日時，《Just Be Friends》以同樣的名稱在[iTunes Store上進行銷售](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")。其中iTunes Store將單曲專輯設定為300日圓、將個別歌曲設定為150日圓，而在專輯下載中一次收錄了《Just Be Friends (feat. 巡音流歌)》、《Just Be Friends (Instrumental)》和《Just Be Friends (Instrumental & Chorus)》3個版本\[12\]\[13\]。歌曲亦收錄在2010年9月15日的《[EXIT TUNES PRESENTS Vocaloanthems feat.初音未來](../Page/EXIT_TUNES_PRESENTS_Vocaloanthems_feat.初音未來.md "wikilink")》（）中，並且將其安排在光碟的第一首曲目中\[14\]\[15\]。
+2009年8月12日時，《Just Be Friends》以同樣的名稱在[iTunes Store上進行銷售](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")。其中iTunes Store將單曲專輯設定為300日圓、將個別歌曲設定為150日圓，而在專輯下載中一次收錄了《Just Be Friends (feat. 巡音流歌)》、《Just Be Friends (Instrumental)》和《Just Be Friends (Instrumental & Chorus)》3個版本\[12\]\[13\]。歌曲亦收錄在2010年9月15日的《[EXIT TUNES PRESENTS Vocaloanthems feat.初音未來](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocaloanthems_feat.初音未來 "wikilink")》（）中，並且將其安排在光碟的第一首曲目中\[14\]\[15\]。
 
 另外在演奏歌譜部分，則在鋼琴樂譜《》、樂譜《》等書籍上有所收錄\[16\]\[17\]\[18\]\[19\]\[20\]。而在[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")《[初音未來 -歌姬計劃- 2nd](https://zh.wikipedia.org/wiki/初音未來_-歌姬計劃-_2nd "wikilink")》以及《[初音未來 -歌姬計劃- extend](https://zh.wikipedia.org/wiki/初音未來_-歌姬計劃-_extend "wikilink")》中，同樣也收錄了《Just Be Friends》作為使用樂曲\[21\]。
 
 ### 二次創作
 
-在《Just Be Friends》大受歡迎的同時，音樂創作者[Koma'n於](https://zh.wikipedia.org/wiki/ROOT_FIVE#koma.27n "wikilink")2009年7月20日發表了以原曲為基礎的[鋼琴彈奏版本](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")《》\[22\]。雖然在基本音樂變化上並無多大差別，然而鋼琴演奏的[二次創作](../Page/二次創作.md "wikilink")將歌曲的速度更加放慢，這使得音樂相較於原始歌曲本身更具有感傷力\[23\]。koma'n在介紹文表示之所以在短短幾天內便嘗試發表鋼琴演奏版本，主要是因為自己也十分喜愛Dixie Flatline所發佈的原作動畫\[24\]。
+在《Just Be Friends》大受歡迎的同時，音樂創作者[Koma'n於](https://zh.wikipedia.org/wiki/ROOT_FIVE#koma.27n "wikilink")2009年7月20日發表了以原曲為基礎的[鋼琴彈奏版本](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")《》\[22\]。雖然在基本音樂變化上並無多大差別，然而鋼琴演奏的[二次創作將歌曲的速度更加放慢](https://zh.wikipedia.org/wiki/二次創作 "wikilink")，這使得音樂相較於原始歌曲本身更具有感傷力\[23\]。koma'n在介紹文表示之所以在短短幾天內便嘗試發表鋼琴演奏版本，主要是因為自己也十分喜愛Dixie Flatline所發佈的原作動畫\[24\]。
 
 ## 歌曲
 

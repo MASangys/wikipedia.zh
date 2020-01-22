@@ -26,7 +26,7 @@ rm命令一般来说并不摧毁文件数据，因为其目的仅仅在于解除
 
 ## 背景
 
-rm 一般在[UNIX](../Page/UNIX.md "wikilink")及其衍生操作系统中出现，而这些系统不提供已被删除文件的恢复机制（例如[回收站](../Page/資源回收筒_\(Windows\).md "wikilink")）\[1\]，因此用户常对rm命令进行一些封装以避免意外删除文件。
+rm 一般在[UNIX](../Page/UNIX.md "wikilink")及其衍生操作系统中出现，而这些系统不提供已被删除文件的恢复机制（例如[回收站](https://zh.wikipedia.org/wiki/資源回收筒_\(Windows\) "wikilink")）\[1\]，因此用户常对rm命令进行一些封装以避免意外删除文件。
 
 也有被称为[undelete的实用工具](https://zh.wikipedia.org/wiki/undelete "wikilink")。如果被删除文件原先占用的部分未被再度利用，这一工具将尝试恢复文件的索引以将这一被删除文件恢复。
 
@@ -64,7 +64,7 @@ rm命令常常与[xargs命令一起使用](https://zh.wikipedia.org/wiki/xargs "
 
 ## 文件系统根目录保护
 
-[太阳微系统在](https://zh.wikipedia.org/wiki/太阳微系统 "wikilink")2005首次发布的[Solaris](https://zh.wikipedia.org/wiki/Solaris_\(操作系统\) "wikilink") 10中，引入了"`rm -rf /`"保护。若尝试执行这一命令，系统将汇报不允许移除根目录。\[3\] 不久之后，相同的功能引入了[FreeBSD](../Page/FreeBSD.md "wikilink")版本的`rm`实用工具。如果没有指定`--no-preserve-root`参数，[GNU](../Page/GNU.md "wikilink") `rm` 将拒绝执行`rm -rf /`。这一参数自2006年发布的[GNU核心工具组](../Page/GNU核心工具组.md "wikilink")（版本 6.4）以来成为了默认设置。
+[太阳微系统在](https://zh.wikipedia.org/wiki/太阳微系统 "wikilink")2005首次发布的[Solaris](https://zh.wikipedia.org/wiki/Solaris_\(操作系统\) "wikilink") 10中，引入了"`rm -rf /`"保护。若尝试执行这一命令，系统将汇报不允许移除根目录。\[3\] 不久之后，相同的功能引入了[FreeBSD](../Page/FreeBSD.md "wikilink")版本的`rm`实用工具。如果没有指定`--no-preserve-root`参数，[GNU](https://zh.wikipedia.org/wiki/GNU "wikilink") `rm` 将拒绝执行`rm -rf /`。这一参数自2006年发布的[GNU核心工具组](../Page/GNU核心工具组.md "wikilink")（版本 6.4）以来成为了默认设置。
 
 ## 用户确认
 

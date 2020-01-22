@@ -7,7 +7,7 @@
 
 ## 文件规格和规范命令
 
-cue脚本是一般的文本文件，默认使用[ASCII](../Page/ASCII.md "wikilink")为其文字编码，但部分解释器支持UTF-8的文字编码。如果需要输入其他特定字符的CD-TEXT内容，就要用使用.cdt文件。
+cue脚本是一般的文本文件，默认使用[ASCII为其文字编码](https://zh.wikipedia.org/wiki/ASCII "wikilink")，但部分解释器支持UTF-8的文字编码。如果需要输入其他特定字符的CD-TEXT内容，就要用使用.cdt文件。
 
 以下为规范标准命令：\[3\]
 

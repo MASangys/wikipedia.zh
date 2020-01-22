@@ -35,7 +35,7 @@ STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法�
 
 \(\mathrm{STA}_w = \left(\tfrac{1}{T}\sum_{i=1}^T\mathbf{x_i}\mathbf{x_i}^T\right)^{-1} \left(\tfrac{1}{n_{sp}} \sum_{i=1}^T y_i \mathbf{x_i}\right),\)
 
-第一项是原始视觉刺激的协方差矩阵的反转，第二项是标准STA。如果使用[矩阵](../Page/矩阵.md "wikilink")的表示，公式可以写成：
+第一项是原始视觉刺激的协方差矩阵的反转，第二项是标准STA。如果使用[矩阵的表示](https://zh.wikipedia.org/wiki/矩阵 "wikilink")，公式可以写成：
 
 \(\mathrm{STA}_w = \tfrac{T}{n_{sp}} \left(X^TX\right)^{-1}X^T \mathbf{y}.\)
 

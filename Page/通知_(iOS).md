@@ -13,7 +13,7 @@ iPhone或者iPod Touch上的通知中心还包含了天气和股票小工具，�
 
 ## 参考条目
 
-  - [苹果推送消息服务](../Page/Apple推播通知服務.md "wikilink")
+  - [苹果推送消息服务](https://zh.wikipedia.org/wiki/Apple推播通知服務 "wikilink")
 
 ## 参考资料
 

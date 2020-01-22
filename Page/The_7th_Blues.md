@@ -13,9 +13,9 @@
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：[吉他](../Page/吉他.md "wikilink")、[锡塔琴](https://zh.wikipedia.org/wiki/锡塔琴 "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")
   - [稻叶浩志](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[和声](https://zh.wikipedia.org/wiki/和声歌手 "wikilink")（DISC1 \#8,DISC2 \#7,8,9除外）、[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")
-  - [明石昌夫](../Page/明石昌夫.md "wikilink")：[电贝斯](https://zh.wikipedia.org/wiki/电贝斯 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")
+  - [明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")：[电贝斯](https://zh.wikipedia.org/wiki/电贝斯 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")
   - 青山純：[鼓手](../Page/爵士鼓.md "wikilink")、[定音鼓](../Page/定音鼓.md "wikilink")（DISC2 \#6）
-  - [增田隆宣](../Page/增田隆宣.md "wikilink")：哈蒙德风琴（DISC1 \#2,6,10,DISC2 \#1,5）、原声钢琴（DISC1 \#8）
+  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：哈蒙德风琴（DISC1 \#2,6,10,DISC2 \#1,5）、原声钢琴（DISC1 \#8）
   - 小野塚晃（DIMENSION）：原声钢琴（DISC1 \#1,3,4 DISC2 \#6,8,9,10）、KORG SG-1.KORG（DISC1 \#5）、罗兹电钢琴（DISC2 \#3）、[电钢琴（SG-1\&DX-7）](https://zh.wikipedia.org/wiki/电钢琴 "wikilink")（DISC2 \#7）
   - 厚見玲衣：哈蒙德风琴（DISC2 \#4）
   - 勝田かず樹（DIMENSION）：[喇叭指挥](https://zh.wikipedia.org/wiki/铜管乐器 "wikilink")（DISC1 \#1）

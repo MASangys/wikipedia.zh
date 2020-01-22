@@ -1,7 +1,7 @@
 > 本文内容由[Virginity](https://zh.wikipedia.org/wiki/Virginity)转换而来。
 
 
-《**Virginity**》（）是[日本](../Page/日本.md "wikilink")女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[NMB48](../Page/NMB48.md "wikilink")的第5張[單曲唱片作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月8日由[吉本R\&C旗下的唱片品牌](https://zh.wikipedia.org/wiki/吉本R&C "wikilink")[laugh out loud\! records發行](https://zh.wikipedia.org/wiki/laugh_out_loud!_records "wikilink")。
+《**Virginity**》（）是[日本](../Page/日本.md "wikilink")女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[NMB48的第](https://zh.wikipedia.org/wiki/NMB48 "wikilink")5張[單曲唱片作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月8日由[吉本R\&C旗下的唱片品牌](https://zh.wikipedia.org/wiki/吉本R&C "wikilink")[laugh out loud\! records發行](https://zh.wikipedia.org/wiki/laugh_out_loud!_records "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 與前作同様，分為通常盤Type-A、通常盤Type-B、通常盤Type-C、[chara-ani限定發售的劇場盤](https://zh.wikipedia.org/wiki/chara-ani "wikilink")4種形式發售，Type-A・Type-B・Type-C各有3首曲不同。
 
-通常盤3類型收錄不同版本[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")的入浴効果音「迷路姬的恰布恰布」\[1\]\[2\]。
+通常盤3類型收錄不同版本[渡邊美優紀的入浴効果音](https://zh.wikipedia.org/wiki/渡邊美優紀 "wikilink")「迷路姬的恰布恰布」\[1\]\[2\]。
 
 表題曲「Virginity」在2012年7月9日的『[HEY\!HEY\!HEY\!](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")』初次披露 \[3\]。
 
@@ -175,8 +175,8 @@
 
 （中心：山本彩）
 
-  - Team N：[小笠原茉由](../Page/小笠原茉由.md "wikilink")、[門脇佳奈子](../Page/門脇佳奈子.md "wikilink")、[岸野里香](../Page/岸野里香.md "wikilink")、[木下春奈](../Page/木下春奈.md "wikilink")、[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")、[上西惠](../Page/上西惠.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、[福本愛菜](../Page/福本愛菜.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")、吉田朱里、[渡辺美優紀](https://zh.wikipedia.org/wiki/渡辺美優紀 "wikilink")
-  - Team M：[城惠理子](../Page/城惠理子.md "wikilink")、[谷川愛梨](../Page/谷川愛梨.md "wikilink")
+  - Team N：[小笠原茉由](https://zh.wikipedia.org/wiki/小笠原茉由 "wikilink")、[門脇佳奈子](../Page/門脇佳奈子.md "wikilink")、[岸野里香](../Page/岸野里香.md "wikilink")、[木下春奈](https://zh.wikipedia.org/wiki/木下春奈 "wikilink")、[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")、[上西惠](../Page/上西惠.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、[福本愛菜](../Page/福本愛菜.md "wikilink")、[山田菜菜](https://zh.wikipedia.org/wiki/山田菜菜 "wikilink")、[山本彩](https://zh.wikipedia.org/wiki/山本彩 "wikilink")、吉田朱里、[渡辺美優紀](https://zh.wikipedia.org/wiki/渡辺美優紀 "wikilink")
+  - Team M：[城惠理子](https://zh.wikipedia.org/wiki/城惠理子 "wikilink")、[谷川愛梨](../Page/谷川愛梨.md "wikilink")
   - 研究生：加藤夕夏、藪下柊
       -
         加藤・藪下是3期生初次進入選抜。岸野・木下春是「[純情U-19](../Page/純情U-19.md "wikilink")」以来約半年的選抜復歸。前作的選抜成員近藤・木下百・村上・矢倉落選抜。
@@ -195,7 +195,7 @@
 
 （中心：山本彩）
 
-  - Team N：[近藤里奈](../Page/近藤里奈.md "wikilink")、上西恵、山田菜菜、山本彩
+  - Team N：[近藤里奈](https://zh.wikipedia.org/wiki/近藤里奈 "wikilink")、上西恵、山田菜菜、山本彩
   - Team M：島田玲奈、城恵理子、[三田麻央](../Page/三田麻央.md "wikilink")、村瀬紗英
   - 研究生：東由樹、久代梨奈、室加奈子、山本ひとみ
       -
@@ -220,14 +220,14 @@
 （中心：小谷里歩）
 
   - Team N：小谷里歩、松田栞
-  - Team M：[肥川彩愛](../Page/肥川彩愛.md "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink")、[與儀凱拉](../Page/與儀凱拉.md "wikilink")
+  - Team M：[肥川彩愛](../Page/肥川彩愛.md "wikilink")、[村上文香](https://zh.wikipedia.org/wiki/村上文香 "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink")、[與儀凱拉](../Page/與儀凱拉.md "wikilink")
   - 研究生：加藤夕夏、藪下柊
 
 ### 稍微彎腰
 
 （中心：川上礼奈）
 
-  - Team M：[太田里織菜](../Page/太田里織菜.md "wikilink")、川上礼奈、[木下百花](../Page/木下百花.md "wikilink")、藤田留奈
+  - Team M：[太田里織菜](https://zh.wikipedia.org/wiki/太田里織菜 "wikilink")、川上礼奈、[木下百花](../Page/木下百花.md "wikilink")、藤田留奈
   - 研究生：石田優美、石塚朱莉、井尻晏菜、植田碧麗、[梅原真子](../Page/梅原真子.md "wikilink")、鵜野みずき、太田夢莉、上枝恵美加、日下このみ、久代梨奈、黒川葉月、河野早紀、古賀成美、小林莉加子、小柳有沙、佐藤天彩、杉本香乃、高山梨子、東郷青空、中川紘美、西澤瑠莉奈、林萌々香、久田莉子、三浦亜莉沙、室加奈子、山内つばさ
       -
         主要由沒有進入「選抜」「白組」「紅組」「難波鉄砲隊其之壱」的NMB48成員構成。
@@ -248,7 +248,7 @@
   -
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:NMB48歌曲](https://zh.wikipedia.org/wiki/Category:NMB48歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")
 
-1.  「恰布恰布」是渡辺在[Google+](../Page/Google+.md "wikilink")和官方部落格使用入浴意思的用語，在今作發售前開始頻密使用。
+1.  「恰布恰布」是渡辺在[Google+和官方部落格使用入浴意思的用語](https://zh.wikipedia.org/wiki/Google+ "wikilink")，在今作發售前開始頻密使用。
 2.
 3.
 4.

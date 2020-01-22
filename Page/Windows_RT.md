@@ -1,61 +1,23 @@
 > 本文内容由[Windows RT](https://zh.wikipedia.org/wiki/Windows_RT)转换而来。
 
 
-**Windows RT** 是由[微软](../Page/微软.md "wikilink")针对移动设备开发的一款[操作系统](../Page/操作系统.md "wikilink")。它本质上是[Windows 8为](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")(ARMv7)架构而开发的定制版本。\[1\] 在2011年1月于[国际消费电子展展示](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")，Windows 8 RT在2012年10月26日与Windows8一并上市，包括三款基于Windows RT的设备，比如微软的[Surface tablet](../Page/Surface_\(2012\).md "wikilink")。与Windows 8不同，Windows RT只能被OEM预装在设备上。该系统适用于电池使用时间更长且专为在旅途中使用而设计的轻薄型电脑。Windows RT 8.1 只能运行内置应用或从 Windows 应用商店下载的应用。
+**Windows RT**是由[微软](../Page/微软.md "wikilink")针对移动设备开发的一款[操作系统](../Page/操作系统.md "wikilink")。它本质上是[Windows 8为](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")（ARMv7）架构而开发的定制版本。\[1\] 在2011年1月于[国际消费电子展展示](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")，Windows 8 RT在2012年10月26日与Windows8一并上市，包括三款基于Windows RT的设备，比如微软的[Surface tablet](../Page/Surface_\(2012\).md "wikilink")。与Windows 8不同，Windows RT只能被OEM预装在设备上。该系统适用于电池使用时间更长且专为在旅途中使用而设计的轻薄型电脑。Windows RT 8.1 只能运行内置应用或从Windows应用商店下载的应用。
 
 ## 历史
 
   - 2011年1月5日：时任微软CEO的史蒂夫·鲍尔默在CES展会上演示了运行在ARM架构上的Windows 8，正式宣告Windows 8加入ARM阵营。
-
-<!-- end list -->
-
   - 2012年4月：微软正式宣布Windows on ARM项目官方发布命名为“Windows RT”，即使用Windows Runtime架构之意。
-
-<!-- end list -->
-
   - 2012年6月：微软宣布Surface RT这款ARM架构的平板搭载Windows RT操作系统，只能运行来自Windows Store的应用，仅支持有限的桌面应用比如Office。
-
-<!-- end list -->
-
   - 2012年10月：Surface RT等一系列的搭载Windows RT系统的平板正式推出，Windows RT正式向消费者见面。
-
-<!-- end list -->
-
   - 2012年12月：有黑客声称可以让Windows RT运行完全版本的桌面应用。
-
-<!-- end list -->
-
-  - 2013年1月6日：“Surface”团队宣布已经绕过Windows RT系统的签名验证检查，可以使Windows RT运行未签名的ARM重编译桌面应用。
-
-<!-- end list -->
-
+  - 2013年1月6日：Surface团队宣布已经绕过Windows RT系统的签名验证检查，可以使Windows RT运行未签名的ARM重编译桌面应用。
   - 2013年3月11日：微软正式宣布IE解除Flash白名单限制，可浏览任意网页上的Flash内容。
-
-<!-- end list -->
-
   - 2013年6月：微软发布Windows RT 8.1系统，并且现在的Windows RT 8.0设备都可以免费升级。
-
-<!-- end list -->
-
   - 2013年9月：微软发布Surface 2平板，搭载Windows RT 8.1系统。
-
-<!-- end list -->
-
   - 2013年10月17日：微软正式通过Windows Store分发Windows RT 8.1更新，但是结果很糟糕，导致很多用户出现启动失败，微软而后又暂时下架了此更新。
-
-<!-- end list -->
-
   - 2013年10月21日：微软重新上架更新，并且提供了修复工具给Windows RT用户。
-
-<!-- end list -->
-
   - 2013年11月：XDA论坛开发者表示Windows RT 8.1封杀了越狱和桌面，他们的努力全部白费，十分失望。
-
-<!-- end list -->
-
-  - 2015年3月：微软在WinHEC上表示Windows RT无法更新至Windows 10，4月微软发布了搭载x86的Surface 3，Windows RT系统正式宣告死亡。
-
-\[2\]
+  - 2015年3月：微软在WinHEC上表示Windows RT无法更新至Windows 10，4月微软发布了搭载x86的Surface 3，Windows RT系统正式宣告死亡。\[2\]
 
 ## Windows 8和Windows RT区别
 
@@ -75,7 +37,7 @@ Windows RT将仅在ARM架构设备上运行。ARM芯片功耗更低，价格更�
 
 Windows 8设备的电池续航能力估计在6到8个小时。
 
-Windows RT设备的电池续航能力优于多数Windows 8设备。微软表示，Surface RT的电池可以用上一整天，续航能力在8到13个小时。戴尔也声称其即将推出的XPS 10 RT平板电脑的电池续航能力可达20个小时。 \[5\]
+Windows RT设备的电池续航能力优于多数Windows 8设备。微软表示，Surface RT的电池可以用上一整天，续航能力在8到13个小时。戴尔也声称其即将推出的XPS 10 RT平板电脑的电池续航能力可达20个小时。\[5\]
 
 ### 界面
 
@@ -89,16 +51,18 @@ Windows 8将能够运行Windows Store中的所有软件和以前Windows版本运
 
 Windows RT将仅支持Windows Store中的应用程序和预装版本的Office 2013。这就是说用户将无法下载任何来自网络在桌面环境下运行的软件。Windows RT不支持第三方浏览器，不支持第三方游戏，不支持第三方的任何软件。用户在Windows RT上运行的软件必须经微软认证且来自Windows Store。
 
-目前，Windows Store拥有约5000个应用，超过90%的应用可与Windows RT兼容。这个应用数量并不庞大，且像Spotify和Facebook等一些重要应用也无法在Windows RT上运行。Windows RT不具备Windows Media Player功能，但预装了如Xbox Music等其他媒体播放器。 Office RT最初被命名为Office 2013 Home & Student RT，是專門設計給[ARM設備使用的Office](https://zh.wikipedia.org/wiki/ARM "wikilink") 2013（內建于所有运行Windows RT的设备），包含Word、Excel、PowerPoint及OneNote。在Windows RT 8.1中被重新命名为Office 2013 RT并新增了Outlook。 \[7\]
+目前，Windows Store拥有约5000个应用，超过90%的应用可与Windows RT兼容。这个应用数量并不庞大，且像Spotify和Facebook等一些重要应用也无法在Windows RT上运行。Windows RT不具备Windows Media Player功能，但预装了如Xbox Music等其他媒体播放器。
+
+Office RT最初被命名为Office 2013 Home & Student RT，是專門設計給[ARM設備使用的Office](https://zh.wikipedia.org/wiki/ARM "wikilink") 2013（內建于所有运行Windows RT的设备），包含Word、Excel、PowerPoint及OneNote。在Windows RT 8.1中被重新命名为Office 2013 RT并新增了Outlook。\[7\]
 
 ### 不支持的软件
 
-  - Windows Media Player
-  - Windows Media Center
-  - 家庭组创建（你可以加入现有家庭组但无法创建新的家庭组）
+  - [Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
+  - [Windows Media Center](../Page/Windows_Media_Center.md "wikilink")
+  - [家庭组创建](https://zh.wikipedia.org/wiki/家庭组 "wikilink")（你可以加入现有家庭组但无法创建新的家庭组）
   - 远程桌面
   - 網域加入
-  - 桌面应用。
+  - 桌面应用
 
 ## 预装设备
 

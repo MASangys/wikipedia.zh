@@ -19,7 +19,7 @@
 
 3.  [VOICE](../Page/VOICE_\(Perfume單曲\).md "wikilink")
 
-4.  [エレクトロ・ワールド](../Page/Electro_World.md "wikilink")
+4.  [エレクトロ・ワールド](https://zh.wikipedia.org/wiki/Electro_World "wikilink")
 
 5.  [ワンルーム・ディスコ](../Page/One_Room_Disco.md "wikilink")
 
@@ -36,14 +36,14 @@
 
 12. JPNメドレー
 
-13. [ポリリズム](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")
+13. [ポリリズム](https://zh.wikipedia.org/wiki/Polyrhythm_\(Perfume單曲\) "wikilink")
 
 14.
 15. [FAKE IT](https://zh.wikipedia.org/wiki/喂_\(Perfume單曲\) "wikilink")
 
 16. [ねぇ](https://zh.wikipedia.org/wiki/喂_\(Perfume單曲\) "wikilink")
 
-17. [珍妮心情糟](../Page/Sweet_Donuts.md "wikilink")
+17. [珍妮心情糟](https://zh.wikipedia.org/wiki/Sweet_Donuts "wikilink")
 
 18.
 19. [MY COLOR](../Page/JPN_\(Perfume專輯\).md "wikilink")

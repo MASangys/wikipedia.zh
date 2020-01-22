@@ -1,17 +1,17 @@
 > 本文内容由[奔馳吧！Bicycle](https://zh.wikipedia.org/wiki/奔馳吧！Bicycle)转换而来。
 
 
-《**奔馳吧！Bicycle**》（）是日本女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月22日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
+《**奔馳吧！Bicycle**》（）是日本女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月22日由[Sony Music Records發行](https://zh.wikipedia.org/wiki/Sony_Music_Records "wikilink")。
 
 ## 發行及宣傳
 
-《奔馳吧！Bicycle》與上一張單曲《[來吧香波](https://zh.wikipedia.org/wiki/來吧香波 "wikilink")》相隔約三個月發售，是乃木坂46於2012年發行的第三張單曲。單曲分為附上DVD的「Type-A」、「Type-B」和「Type-C」，以及只有CD的「通常盤」，共四種形式發行。Type-A、Type-B和Type-C在首批發行期間均附送全國[握手會](../Page/握手會.md "wikilink")應徵券兼特別禮物應徵券（）以及生寫真一張。\[1\]發行日期的前一天——8月21日是乃木坂46成立一週年。\[2\]
+《奔馳吧！Bicycle》與上一張單曲《[來吧香波](https://zh.wikipedia.org/wiki/來吧香波 "wikilink")》相隔約三個月發售，是乃木坂46於2012年發行的第三張單曲。單曲分為附上DVD的「Type-A」、「Type-B」和「Type-C」，以及只有CD的「通常盤」，共四種形式發行。Type-A、Type-B和Type-C在首批發行期間均附送全國[握手會應徵券兼特別禮物應徵券](https://zh.wikipedia.org/wiki/握手會 "wikilink")（）以及生寫真一張。\[1\]發行日期的前一天——8月21日是乃木坂46成立一週年。\[2\]
 
 2012年7月7日，乃木坂46於[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦的握手活動中，於約8000名歌迷前首次演唱《奔馳吧！Bicycle》。\[3\]由於其首張單曲《[窗簾圍繞](../Page/窗簾圍繞.md "wikilink")》和第2張單曲《來吧香波》分別於[AKB48](../Page/AKB48.md "wikilink")的「[AKB48 重溫時間 最佳曲目100 2012](../Page/AKB48_重溫時間_最佳曲目100_2012.md "wikilink")」演唱會和電視上（《[乃木坂在哪裡？](../Page/乃木坂在哪裡？.md "wikilink")》）首次公開，故這首歌曲是她們第一次能夠在自己的活動上披露歌曲。\[4\]
 
 ## 歌曲
 
-A面曲《奔馳吧！Bicycle》（）共有四名作曲者，分別是Shusui、伊藤涼、木村篤史和。四名作曲者都曾為[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的藝人作曲。\[5\]這首歌的填詞人為乃木坂46的總製作人[秋元康](../Page/秋元康.md "wikilink")。\[6\]根據[每日新聞](../Page/每日新聞.md "wikilink")電子版的報導，這首歌將天愛無邪的戀愛跟迎風前進的自行車重疊描述，是一首明朗的歌曲。\[7\]乃木坂46於[Oricon](../Page/Oricon.md "wikilink")的一次訪問中指，歌中兩人雖然兩情相悅，但是沒有發現對方的愛意，由副歌起描述主角為了取回愛情，拼命地踏着自行車的情境。\[8\]
+A面曲《奔馳吧！Bicycle》（）共有四名作曲者，分別是Shusui、伊藤涼、木村篤史和。四名作曲者都曾為[傑尼斯事務所的藝人作曲](https://zh.wikipedia.org/wiki/傑尼斯事務所 "wikilink")。\[5\]這首歌的填詞人為乃木坂46的總製作人[秋元康](../Page/秋元康.md "wikilink")。\[6\]根據[每日新聞](../Page/每日新聞.md "wikilink")電子版的報導，這首歌將天愛無邪的戀愛跟迎風前進的自行車重疊描述，是一首明朗的歌曲。\[7\]乃木坂46於[Oricon](../Page/Oricon.md "wikilink")的一次訪問中指，歌中兩人雖然兩情相悅，但是沒有發現對方的愛意，由副歌起描述主角為了取回愛情，拼命地踏着自行車的情境。\[8\]
 
 《奔馳吧！Bicycle》是[好侍食品](../Page/好侍食品.md "wikilink")（）「」的廣告歌曲。\[9\]B面曲《人為什麼奔跑？》（）是[2012年U20女子世界盃的大會官方歌曲](https://zh.wikipedia.org/wiki/2012年U20女子世界盃 "wikilink")。\[10\]
 

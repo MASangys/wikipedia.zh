@@ -12,25 +12,25 @@
 ## 收錄内容
 
 1.  [GAME](../Page/GAME_\(Perfume專輯\).md "wikilink")
-2.  [エレクトロ・ワールド](../Page/Electro_World.md "wikilink")
-3.  [コンピューターシティ](../Page/Computer_City.md "wikilink")
-4.  [コンピュータードライビング](../Page/Linear_Motor_Girl.md "wikilink")
-5.  [Twinkle Snow Powdery Snow](../Page/Fan_Service［sweet］.md "wikilink")
+2.  [エレクトロ・ワールド](https://zh.wikipedia.org/wiki/Electro_World "wikilink")
+3.  [コンピューターシティ](https://zh.wikipedia.org/wiki/Computer_City "wikilink")
+4.  [コンピュータードライビング](https://zh.wikipedia.org/wiki/Linear_Motor_Girl "wikilink")
+5.  [Twinkle Snow Powdery Snow](https://zh.wikipedia.org/wiki/Fan_Service［sweet］ "wikilink")
 6.  [Baby cruising Love](https://zh.wikipedia.org/wiki/Baby_cruising_Love/Macaroni "wikilink")
-7.  [ファンデーション](../Page/Linear_Motor_Girl.md "wikilink")
+7.  [ファンデーション](https://zh.wikipedia.org/wiki/Linear_Motor_Girl "wikilink")
 8.  （过场：[Butterfly](../Page/GAME_\(Perfume專輯\).md "wikilink")）
 9.  [Take me Take me](../Page/GAME_\(Perfume專輯\).md "wikilink")
 10. [シークレットシークレット](../Page/GAME_\(Perfume專輯\).md "wikilink")
 11. [マカロニ](https://zh.wikipedia.org/wiki/Baby_cruising_Love/Macaroni "wikilink")
-12. [ポリリズム](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")
-13. [チョコレイト・ディスコ](../Page/Fan_Service［sweet］.md "wikilink")
-14. [パーフェクトスター・パーフェクトスタイル](../Page/Perfume～Complete_Best～.md "wikilink")
-15. [ジェニーはご機嫌ななめ](../Page/Sweet_Donuts.md "wikilink")
-16. [Perfume](../Page/Computer_City.md "wikilink")
+12. [ポリリズム](https://zh.wikipedia.org/wiki/Polyrhythm_\(Perfume單曲\) "wikilink")
+13. [チョコレイト・ディスコ](https://zh.wikipedia.org/wiki/Fan_Service［sweet］ "wikilink")
+14. [パーフェクトスター・パーフェクトスタイル](https://zh.wikipedia.org/wiki/Perfume～Complete_Best～ "wikilink")
+15. [ジェニーはご機嫌ななめ](https://zh.wikipedia.org/wiki/Sweet_Donuts "wikilink")
+16. [Perfume](https://zh.wikipedia.org/wiki/Computer_City "wikilink")
 
 **-ENCORE-**
 
 1.  [セラミックガール](../Page/GAME_\(Perfume專輯\).md "wikilink")
-2.  [wonder2](../Page/Electro_World.md "wikilink")
+2.  [wonder2](https://zh.wikipedia.org/wiki/Electro_World "wikilink")
 
 [Category:Perfume](https://zh.wikipedia.org/wiki/Category:Perfume "wikilink") [Category:2008年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2008年音樂相關影像作品 "wikilink")

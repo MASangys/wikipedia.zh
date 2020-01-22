@@ -18,7 +18,7 @@
 1.  **Romance Privacy** \[4:35\]
       -
         （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：若田部誠）
-        [音樂影片はシリアスドラマ仕立てで](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")、約18分鐘長­\[2\]。柏木由紀飾演[戶田惠子](../Page/戶田惠子.md "wikilink")出演的[神化領袖魅力議員繼承母親的遺願](https://zh.wikipedia.org/wiki/神化領袖魅力 "wikilink")，以政治家為目標的少女，[高城亞樹](../Page/高城亞樹.md "wikilink")飾演[SP](https://zh.wikipedia.org/wiki/SP "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")飾演[秘書](../Page/秘書.md "wikilink")\[3\]。劇中で高城はアクションシーンに挑戦している\[4\]。
+        [音樂影片はシリアスドラマ仕立てで](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")、約18分鐘長­\[2\]。柏木由紀飾演[戶田惠子出演的](https://zh.wikipedia.org/wiki/戶田惠子 "wikilink")[神化領袖魅力議員繼承母親的遺願](https://zh.wikipedia.org/wiki/神化領袖魅力 "wikilink")，以政治家為目標的少女，[高城亞樹](../Page/高城亞樹.md "wikilink")飾演[SP](https://zh.wikipedia.org/wiki/SP "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")飾演[秘書](../Page/秘書.md "wikilink")\[3\]。劇中で高城はアクションシーンに挑戦している\[4\]。
     <!-- end list -->
       - [TBS](../Page/TBS電視台.md "wikilink")[系列](https://zh.wikipedia.org/wiki/Japan_News_Network "wikilink")『[ひるおび\!](https://zh.wikipedia.org/wiki/ひるおび! "wikilink")』7月度結尾曲
 2.  **Rainy day** \[4:59\]

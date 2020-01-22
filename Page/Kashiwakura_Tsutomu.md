@@ -163,7 +163,7 @@
   - [暗黑之貓](https://zh.wikipedia.org/wiki/暗黑之貓 "wikilink")（影崎留意）
   - [Digital Devil Story 女神轉生](https://zh.wikipedia.org/wiki/Digital_Devil_Story "wikilink")（學生）
   - [正義使者-臀娘](https://zh.wikipedia.org/wiki/正義使者-臀娘 "wikilink")（恐怖新聞男）
-  - [變形金剛Z](../Page/變形金剛Z.md "wikilink")（ラビクレーター、ウィスパー）
+  - [變形金剛Z](https://zh.wikipedia.org/wiki/變形金剛Z "wikilink")（ラビクレーター、ウィスパー）
   - [我的性騷擾煩惱](https://zh.wikipedia.org/wiki/我的性騷擾煩惱 "wikilink")（望月順哉）
   - [Macross Plus](../Page/Macross_Plus.md "wikilink")
   - [勇者王 FINAL](../Page/勇者王.md "wikilink")（猿頭寺耕助、トモロ0117）

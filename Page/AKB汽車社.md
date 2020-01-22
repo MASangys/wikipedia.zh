@@ -15,12 +15,12 @@
   - AKB48
       - Team A：[高城亞樹](../Page/高城亞樹.md "wikilink")、[高橋南](../Page/高橋南.md "wikilink")\[1\]、[仲川遥香](../Page/仲川遥香.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")
       - Team K：[秋元才加](../Page/秋元才加.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[野中美鄉](../Page/野中美鄉.md "wikilink")、[藤江麗奈](../Page/藤江麗奈.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（社長）
-      - Team B：[石田晴香](../Page/石田晴香.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")（副社長）、[增田有華](../Page/增田有華.md "wikilink")
+      - Team B：[石田晴香](../Page/石田晴香.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[鈴木紫帆里](https://zh.wikipedia.org/wiki/鈴木紫帆里 "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")（副社長）、[增田有華](../Page/增田有華.md "wikilink")
   - [SKE48](../Page/SKE48.md "wikilink")
       - Team E：高木由麻奈
       - 研究生：[松村香織](../Page/松村香織.md "wikilink")
-  - [NMB48](../Page/NMB48.md "wikilink")
-      - Team N：[山田菜菜](../Page/山田菜菜.md "wikilink")
+  - [NMB48](https://zh.wikipedia.org/wiki/NMB48 "wikilink")
+      - Team N：[山田菜菜](https://zh.wikipedia.org/wiki/山田菜菜 "wikilink")
 
 ## 主要環節
 
@@ -92,7 +92,7 @@ Lesson.2 はじめての運転 <a href="../Page/手動變速器.md" title="wikil
 <td><p>Lesson.3 MT車 技能教習（2回目）<br />
 Lesson.4 特別講師による課外授業</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/細川茂樹" title="wikilink">細川茂樹</a><br />
-<a href="../Page/片山右京.md" title="wikilink">片山右京</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/片山右京" title="wikilink">片山右京</a></p></td>
 <td><p>仲川・松原・峯岸・増田（細川）<br />
 前田（片山）</p></td>
 <td><p>-</p></td>
@@ -118,7 +118,7 @@ MT技能講習3日目終了</p></td>
 <td><p>9</p></td>
 <td><p>6月23日</p></td>
 <td><p>Lesson.6 “AKB総選挙”生放送直前 抜き打ち学科テスト</p></td>
-<td><p><a href="../Page/山下真司.md" title="wikilink">山下真司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山下真司" title="wikilink">山下真司</a></p></td>
 <td><p>仲川・松原・峯岸・増田</p></td>
 <td><p>-</p></td>
 </tr>
@@ -343,7 +343,7 @@ SP</p></td>
   - 旁白 : [柳沢三千代](https://zh.wikipedia.org/wiki/柳沢三千代 "wikilink")
   - CAM：藤本裕武
   - 音声：藤本樹恒
-  - 化妝：平野琴恵（[AKS](../Page/AKS.md "wikilink")）、[山田かつら](https://zh.wikipedia.org/wiki/山田かつら "wikilink")
+  - 化妝：平野琴恵（[AKS](https://zh.wikipedia.org/wiki/AKS "wikilink")）、[山田かつら](https://zh.wikipedia.org/wiki/山田かつら "wikilink")
   - 設計師：松村純子、遊井美紀
   - 編集：青沼毅
   - MA：松尾隆裕

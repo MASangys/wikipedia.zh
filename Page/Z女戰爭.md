@@ -37,8 +37,8 @@
 2.  **PUSH**
 3.  **みてみて☆こっちっち** \[3:52\]
       -
-        作詞：、作曲・編曲：[田中宏和](../Page/田中宏和.md "wikilink")
-        [東京電視台](../Page/東京電視台.md "wikilink")系動畫『[神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")』・『[神奇寶貝BestWishes Season2](../Page/神奇寶貝超級願望.md "wikilink")』片尾曲、神奇寶貝短編電影『[メロエッタのキラキラリサイタル](https://zh.wikipedia.org/wiki/メロエッタのキラキラリサイタル "wikilink")』片尾曲
+        作詞：、作曲・編曲：[田中宏和](https://zh.wikipedia.org/wiki/田中宏和 "wikilink")
+        [東京電視台](../Page/東京電視台.md "wikilink")系動畫『[神奇寶貝超級願望](https://zh.wikipedia.org/wiki/神奇寶貝超級願望 "wikilink")』・『[神奇寶貝BestWishes Season2](https://zh.wikipedia.org/wiki/神奇寶貝超級願望 "wikilink")』片尾曲、神奇寶貝短編電影『[メロエッタのキラキラリサイタル](https://zh.wikipedia.org/wiki/メロエッタのキラキラリサイタル "wikilink")』片尾曲
 4.  Z女戦争（off vocal ver.）
 5.  PUSH（off vocal ver.）
 6.  みてみて☆こっちっち（off vocal ver.）

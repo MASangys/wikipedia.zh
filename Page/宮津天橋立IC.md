@@ -17,10 +17,10 @@
 
 ## 歷史
 
-  - 2001年1月 - [鳥取豐岡宮津自動車道宮津天橋立IC至](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[與謝天橋立IC](../Page/與謝天橋立IC.md "wikilink")之間開始動工。
-  - 2003年3月2日 - [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")[舞鶴大江IC](../Page/舞鶴大江IC.md "wikilink")至宮津天橋立IC之間開通，此交流道也同時啟用，當時此交流道還沒有ETC設施。
+  - 2001年1月 - [鳥取豐岡宮津自動車道宮津天橋立IC至](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[與謝天橋立IC之間開始動工](https://zh.wikipedia.org/wiki/與謝天橋立IC "wikilink")。
+  - 2003年3月2日 - [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")[舞鶴大江IC至宮津天橋立IC之間開通](https://zh.wikipedia.org/wiki/舞鶴大江IC "wikilink")，此交流道也同時啟用，當時此交流道還沒有ETC設施。
   - 2008年9月13日 - 當時此交流道加設ETC設施。
-  - 2011年3月12日 - [鳥取豐岡宮津自動車道宮津天橋立IC至](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[與謝天橋立IC](../Page/與謝天橋立IC.md "wikilink")之間開通。
+  - 2011年3月12日 - [鳥取豐岡宮津自動車道宮津天橋立IC至](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[與謝天橋立IC之間開通](https://zh.wikipedia.org/wiki/與謝天橋立IC "wikilink")。
 
 ## 收費站設施
 
@@ -51,9 +51,9 @@
 ## 鄰近設施
 
   - [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")
-    [舞鶴大江IC](../Page/舞鶴大江IC.md "wikilink") - **宮津天橋立IC**
+    [舞鶴大江IC](https://zh.wikipedia.org/wiki/舞鶴大江IC "wikilink") - **宮津天橋立IC**
   - [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")
-    **宮津天橋立IC** - [與謝天橋立IC](../Page/與謝天橋立IC.md "wikilink")
+    **宮津天橋立IC** - [與謝天橋立IC](https://zh.wikipedia.org/wiki/與謝天橋立IC "wikilink")
 
 ## 相關項目
 

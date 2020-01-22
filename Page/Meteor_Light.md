@@ -1,7 +1,7 @@
 > 本文内容由[Meteor Light](https://zh.wikipedia.org/wiki/Meteor_Light)转换而来。
 
 
-「**Meteor Light**」是[高垣彩陽](../Page/高垣彩陽.md "wikilink")的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年2月8日由[Music Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
+「**Meteor Light**」是[高垣彩陽的第](https://zh.wikipedia.org/wiki/高垣彩陽 "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年2月8日由[Music Ray'n發售](https://zh.wikipedia.org/wiki/Music_Ray'n "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 1.  **Meteor Light** \[4:34\]
       -
-        作詞：mavie、作曲・編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
+        作詞：mavie、作曲・編曲：[藤田淳平](https://zh.wikipedia.org/wiki/藤田淳平 "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     <!-- end list -->
       - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")』[主題曲](../Page/主題曲.md "wikilink")
 2.  **Brand New Smile** \[4:16\]

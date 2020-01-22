@@ -1,7 +1,7 @@
 > 本文内容由[SENSATION \(樂團\)](https://zh.wikipedia.org/wiki/SENSATION_\(樂團\))转换而来。
 
 
-**SENSATION**樂團成員包括主唱[曹格](../Page/曹格.md "wikilink")，及演奏團體**[MUSA's](../Page/MUSA's.md "wikilink")**的成員——帶領樂團、來自[阿根廷](../Page/阿根廷.md "wikilink")的鋼琴及鍵盤手[Martin "Musa" Musaubach](../Page/明馬丁.md "wikilink")；同樣來自阿根廷的貝斯及低音大提琴手[Lautaro "LuKa" Bellucca](../Page/Lautaro_Bellucca.md "wikilink")；來自[巴西](../Page/巴西.md "wikilink")的鼓手[Adriano Moreira (高飛)](https://zh.wikipedia.org/wiki/Adriano_Moreira_\(高飛\) "wikilink")；以及同樣來自巴西的吉他手、高飛的堂弟Fabio Moreira。音樂製作人涂惠源擔任樂團的音樂製作及現場演奏。
+**SENSATION**樂團成員包括主唱[曹格](../Page/曹格.md "wikilink")，及演奏團體**[MUSA's](../Page/MUSA's.md "wikilink")**的成員——帶領樂團、來自[阿根廷](../Page/阿根廷.md "wikilink")的鋼琴及鍵盤手[Martin "Musa" Musaubach](https://zh.wikipedia.org/wiki/明馬丁 "wikilink")；同樣來自阿根廷的貝斯及低音大提琴手[Lautaro "LuKa" Bellucca](https://zh.wikipedia.org/wiki/Lautaro_Bellucca "wikilink")；來自[巴西](../Page/巴西.md "wikilink")的鼓手[Adriano Moreira (高飛)](https://zh.wikipedia.org/wiki/Adriano_Moreira_\(高飛\) "wikilink")；以及同樣來自巴西的吉他手、高飛的堂弟Fabio Moreira。音樂製作人涂惠源擔任樂團的音樂製作及現場演奏。
 
 最新加入Project 2的成員為來自[美國的小號及富魯格號手Danny](https://zh.wikipedia.org/wiki/美國 "wikilink") Deysher，以及[北京的吉他手牛牛](https://zh.wikipedia.org/wiki/北京 "wikilink") (劉利明，「空氣罐頭」成員)。
 
@@ -64,7 +64,7 @@ MUSA's Trio亦因為在現場表演上樂團與不同音樂人的合作漸多，
 <!-- end list -->
 
   -
-    Musa，鋼琴及鍵盤手。詳見[Martin "Musa" Musaubach及](../Page/明馬丁.md "wikilink")[MUSA's](../Page/MUSA's.md "wikilink")。
+    Musa，鋼琴及鍵盤手。詳見[Martin "Musa" Musaubach及](https://zh.wikipedia.org/wiki/明馬丁 "wikilink")[MUSA's](../Page/MUSA's.md "wikilink")。
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@ MUSA's Trio亦因為在現場表演上樂團與不同音樂人的合作漸多，
 <!-- end list -->
 
   -
-    LuKa，貝斯及低音大提琴手。詳見[Lautaro "LuKa" Bellucca及](../Page/Lautaro_Bellucca.md "wikilink")[MUSA's](../Page/MUSA's.md "wikilink")。
+    LuKa，貝斯及低音大提琴手。詳見[Lautaro "LuKa" Bellucca及](https://zh.wikipedia.org/wiki/Lautaro_Bellucca "wikilink")[MUSA's](../Page/MUSA's.md "wikilink")。
 
 <!-- end list -->
 

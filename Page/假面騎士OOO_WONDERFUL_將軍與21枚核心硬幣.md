@@ -3,13 +3,13 @@
 
 《**劇場版 假面騎士OOO WONDERFUL 將軍與21枚核心硬幣**》（），是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")**》的獨立劇場版。日本於2011年8月6日2D與3D上映。
 
-此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")**》劇場版《**[海賊戰隊豪快者 The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈船.md "wikilink")**》亦同步上映。
+此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[海賊戰隊豪快者](https://zh.wikipedia.org/wiki/海賊戰隊豪快者 "wikilink")**》劇場版《**[海賊戰隊豪快者 The Movie 飛天幽靈船](https://zh.wikipedia.org/wiki/海賊戰隊豪快者_The_Movie_飛天幽靈船 "wikilink")**》亦同步上映。
 
 ## 本作特色
 
   -
     本作繼假面騎士系列劇場版《**[響鬼與七人的戰鬼](../Page/響鬼與七人的戰鬼.md "wikilink")**》後另一部加入[時代劇元素的作品](https://zh.wikipedia.org/wiki/時代劇 "wikilink")。
-    [朝日電視台](../Page/朝日電視台.md "wikilink")所播出的[時代劇](https://zh.wikipedia.org/wiki/時代劇 "wikilink")《**[暴坊將軍](../Page/暴坊將軍.md "wikilink")**》，由[松平健](../Page/松平健.md "wikilink")演出的主角德川吉宗亦在本作中進行共演。
+    [朝日電視台](../Page/朝日電視台.md "wikilink")所播出的[時代劇](https://zh.wikipedia.org/wiki/時代劇 "wikilink")《**[暴坊將軍](https://zh.wikipedia.org/wiki/暴坊將軍 "wikilink")**》，由[松平健演出的主角德川吉宗亦在本作中進行共演](https://zh.wikipedia.org/wiki/松平健 "wikilink")。
 
 ## 故事概要
 
@@ -100,7 +100,7 @@
     Greeed重力系怪人。現時與真木組織一起。
     為被Gala奪去核心硬幣的事而被迫靜觀其變，故事結尾借出核心硬幣給OOO去消滅Gala。
 
-**Mezool（）**（[矢作穗香](../Page/矢作穗香.md "wikilink")飾）
+**Mezool（）**（[矢作穗香飾](https://zh.wikipedia.org/wiki/矢作穗香 "wikilink")）
 
   -
     Greeed水棲系怪人。現時與真木組織一起。
@@ -121,7 +121,7 @@
   -
     Gala製造出的使魔，複數分身的小丑裝扮少女。
 
-**德川吉宗（）**（[松平健](../Page/松平健.md "wikilink")飾）
+**德川吉宗（）**（[松平健飾](https://zh.wikipedia.org/wiki/松平健 "wikilink")）
 
   -
     江戶幕府第八代將軍。
@@ -129,7 +129,7 @@
     因為映司作出保護民眾的舉動而決定出面幫助平息混亂。
     眼見用作變身用的硬幣後，回想起收藏的貢品中有著相同的事物，於是把三枚爬蟲系核心硬幣交給映司，令OOO變身爬蟲系聯組消滅鵺Yummy。
 
-**若葉駿（）**（[根岸泰樹](../Page/根岸泰樹.md "wikilink")飾）
+**若葉駿（）**（[根岸泰樹飾](https://zh.wikipedia.org/wiki/根岸泰樹 "wikilink")）
 
   -
     因追尋被Gala憑依母親若葉五月而遇上映司一行人。
@@ -476,7 +476,7 @@
 
 「**手をつなごう〜マツケン×仮面ライダーサンバ〜**」
 
-  - 演唱： [松平健](../Page/松平健.md "wikilink") feat.映司 & Ankh（CV：[渡部秀](../Page/渡部秀.md "wikilink")・[三浦涼介](../Page/三浦涼介.md "wikilink")）
+  - 演唱： [松平健](https://zh.wikipedia.org/wiki/松平健 "wikilink") feat.映司 & Ankh（CV：[渡部秀](../Page/渡部秀.md "wikilink")・[三浦涼介](../Page/三浦涼介.md "wikilink")）
   - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")
   - 作／編曲：
 
@@ -500,8 +500,8 @@
   - 攝影 - 倉田幸治
   - 特攝導演 -
   - 動作導演 -
-  - 《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》製作協力 -
-  - 《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》演出協力 - [坂本浩一](../Page/坂本浩一.md "wikilink")
+  - 《[假面騎士Fourze](https://zh.wikipedia.org/wiki/假面騎士Fourze "wikilink")》製作協力 -
+  - 《[假面騎士Fourze](https://zh.wikipedia.org/wiki/假面騎士Fourze "wikilink")》演出協力 - [坂本浩一](../Page/坂本浩一.md "wikilink")
   - 製作公司 - 東映TV・Production
   - 發行 - [東映](../Page/東映.md "wikilink")
   - 製作 - 劇場版「OOO・Gokaiger」製作委員會
@@ -516,8 +516,8 @@
   - 里中エリカ -  飾
   - 白石知世子 - 甲斐まり惠 飾
   - 鴻上光生 -  飾
-  - 德川吉宗 - [松平健](../Page/松平健.md "wikilink") 飾
-  - 若葉駿 - [根岸泰樹](../Page/根岸泰樹.md "wikilink") 飾
+  - 德川吉宗 - [松平健](https://zh.wikipedia.org/wiki/松平健 "wikilink") 飾
+  - 若葉駿 - [根岸泰樹](https://zh.wikipedia.org/wiki/根岸泰樹 "wikilink") 飾
   - Gala / 若葉五月 - [酒井美紀](../Page/酒井美紀.md "wikilink") 飾
   - Bell - [荻野可鈴](../Page/荻野可鈴.md "wikilink") 飾
   - 真木清人 -  飾
@@ -526,7 +526,7 @@
   - Gamel - [松本博之](https://zh.wikipedia.org/wiki/松本博之 "wikilink") 飾/聲
   - Mezuru - 未來穗香 飾
   - Rocker -  飾
-  - [假面騎士GIRLS](../Page/假面騎士GIRLS.md "wikilink")
+  - [假面騎士GIRLS](https://zh.wikipedia.org/wiki/假面騎士GIRLS "wikilink")
   - [福本清三](../Page/福本清三.md "wikilink")
   - 如月弦太朗 / 假面騎士Fourze - [福士蒼汰](../Page/福士蒼汰.md "wikilink") 飾/聲 (特別出演)
   - 城島ユウキ - [清水富美加](../Page/清水富美加.md "wikilink") 飾 (特別出演)

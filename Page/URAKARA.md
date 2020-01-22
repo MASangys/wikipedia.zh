@@ -10,8 +10,8 @@
 ## 角色
 
   - 奎利：[奎利](../Page/朴奎利.md "wikilink")
-  - 昇延：[昇延](../Page/韓昇延.md "wikilink")
-  - 妮可：[妮可](../Page/鄭龍珠.md "wikilink")
+  - 昇延：[昇延](https://zh.wikipedia.org/wiki/韓昇延 "wikilink")
+  - 妮可：[妮可](https://zh.wikipedia.org/wiki/鄭龍珠 "wikilink")
   - 荷拉：
   - 知英：[知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")
   - パク社長2号：[清水基治](https://zh.wikipedia.org/wiki/清水基治 "wikilink")
@@ -132,7 +132,7 @@
 <td><p>2011年3月25日</p></td>
 <td><p><br />
 （ハラのドッキリ作戦）</p></td>
-<td><p>武松健司（<a href="../Page/竹財輝之助.md" title="wikilink">竹財輝之助</a>）<br />
+<td><p>武松健司（<a href="https://zh.wikipedia.org/wiki/竹財輝之助" title="wikilink">竹財輝之助</a>）<br />
 武松孝明（<a href="../Page/鮎川太陽.md" title="wikilink">鮎川太陽</a>）<br />
 上杉努（<a href="https://zh.wikipedia.org/wiki/前田健_(タレント)" title="wikilink">前田健</a>）</p></td>
 </tr>

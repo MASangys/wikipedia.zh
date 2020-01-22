@@ -5,7 +5,7 @@
 
 ## 可能的行星系統
 
-2005年拉爾夫·紐豪瑟（Ralph Neuhäuser）等人報告在豺狼座GQ旁發現一顆[亚恒星](../Page/亚恒星.md "wikilink")[豺狼座GQb](../Page/豺狼座GQb.md "wikilink")。它是在第一顆直接攝影發現的系外行星候選者 [2M1207b](../Page/2M1207b.md "wikilink") 之後第二個以同樣方式發現的。該影像在2004年6月25日以位於[智利](../Page/智利.md "wikilink")[帕瑞纳天文台](../Page/帕瑞纳天文台.md "wikilink")的[甚大望远镜](../Page/甚大望远镜.md "wikilink")拍攝。根據質量和[行星定義](../Page/行星定義.md "wikilink")，豺狼座GQb不一定是行星\[3\]。2006年[國際天文學聯合會在一個系外行星的研討會上將豺狼座GQb定義為](https://zh.wikipedia.org/wiki/國際天文學聯合會 "wikilink")「一顆年輕恆星旁可能的行星質量伴星」\[4\]。
+2005年拉爾夫·紐豪瑟（Ralph Neuhäuser）等人報告在豺狼座GQ旁發現一顆[亚恒星](https://zh.wikipedia.org/wiki/亚恒星 "wikilink")[豺狼座GQb](../Page/豺狼座GQb.md "wikilink")。它是在第一顆直接攝影發現的系外行星候選者 [2M1207b](../Page/2M1207b.md "wikilink") 之後第二個以同樣方式發現的。該影像在2004年6月25日以位於[智利](../Page/智利.md "wikilink")[帕瑞纳天文台](../Page/帕瑞纳天文台.md "wikilink")的[甚大望远镜](../Page/甚大望远镜.md "wikilink")拍攝。根據質量和[行星定義](../Page/行星定義.md "wikilink")，豺狼座GQb不一定是行星\[3\]。2006年[國際天文學聯合會在一個系外行星的研討會上將豺狼座GQb定義為](https://zh.wikipedia.org/wiki/國際天文學聯合會 "wikilink")「一顆年輕恆星旁可能的行星質量伴星」\[4\]。
 
 ## 參考資料
 

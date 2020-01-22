@@ -1,7 +1,7 @@
 > 本文内容由[FOX Movies](https://zh.wikipedia.org/wiki/FOX_Movies)转换而来。
 
 
-**F-{o}-x Movies**，是亞洲的一個電影頻道，由[21世紀福斯的分支機構](https://zh.wikipedia.org/wiki/21世紀福斯 "wikilink")[福斯傳媒集團](../Page/福斯傳媒集團.md "wikilink")所擁有。
+**F-{o}-x Movies**，是亞洲的一個電影頻道，由[21世紀福斯的分支機構](https://zh.wikipedia.org/wiki/21世紀福斯 "wikilink")[福斯傳媒集團所擁有](https://zh.wikipedia.org/wiki/福斯傳媒集團 "wikilink")。
 
 2012年1月1日，香港、澳門及部分東南亞國家的[STAR Movies更名為F](../Page/STAR_Movies.md "wikilink")-{o}-x Movies Premium，但在[印度](../Page/印度.md "wikilink")、[中國](../Page/中國.md "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[台灣等地保留STAR](https://zh.wikipedia.org/wiki/台灣 "wikilink") Movies名稱。
 
@@ -26,7 +26,7 @@
 ## 外部链接
 
   -
-  - [FOX M-{o}-vies（台灣）](http://www.fictw.com/smit/)
+[台灣FOXMOVIES官方網頁](https://www.fng.tw/foxmovies/)
 
   -
 [Category:2017年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2017年成立的电视台或电视频道 "wikilink") [Category:東南亞電視台](https://zh.wikipedia.org/wiki/Category:東南亞電視台 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:星空傳媒](https://zh.wikipedia.org/wiki/Category:星空傳媒 "wikilink") [Category:福斯傳媒集團](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團 "wikilink") [Category:電影頻道](https://zh.wikipedia.org/wiki/Category:電影頻道 "wikilink")

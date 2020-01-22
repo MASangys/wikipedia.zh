@@ -20,20 +20,20 @@
     S02AA12 [利福霉素](https://zh.wikipedia.org/wiki/利福霉素 "wikilink")（Rifamycin）
     S02AA13 [咪康唑](../Page/咪康唑.md "wikilink")（Miconazole）
     S02AA14 [庆大霉素](../Page/庆大霉素.md "wikilink")（Gentamicin）
-    S02AA15 [环丙沙星](../Page/环丙沙星.md "wikilink")（Ciprofloxacin）
+    S02AA15 [环丙沙星](https://zh.wikipedia.org/wiki/环丙沙星 "wikilink")（Ciprofloxacin）
     S02AA16 [氧氟沙星](../Page/氧氟沙星.md "wikilink")（Ofloxacin）
     S02AA30 抗感染药，复方（Antiinfectives, combinations）
     QS02AA57 新霉素，复方（Neomycin, combinations）
 
-## S02B [皮質類固醇](../Page/皮質類固醇.md "wikilink")類（Corticosteroids）
+## S02B [皮質類固醇類](https://zh.wikipedia.org/wiki/皮質類固醇 "wikilink")（Corticosteroids）
 
-### S02BA [皮質類固醇](../Page/皮質類固醇.md "wikilink")類（Corticosteroids）
+### S02BA [皮質類固醇類](https://zh.wikipedia.org/wiki/皮質類固醇 "wikilink")（Corticosteroids）
 
   -
     S02BA01 [氢化可的松](https://zh.wikipedia.org/wiki/氢化可的松 "wikilink")（Hydrocortisone）
-    S02BA03 [泼尼松龙](../Page/泼尼松龙.md "wikilink")（Prednisolone）
+    S02BA03 [泼尼松龙](https://zh.wikipedia.org/wiki/泼尼松龙 "wikilink")（Prednisolone）
     S02BA06 [地塞米松](../Page/地塞米松.md "wikilink")（Dexamethasone）
-    S02BA07 [倍他米松](../Page/倍他米松.md "wikilink")（Betamethasone）
+    S02BA07 [倍他米松](https://zh.wikipedia.org/wiki/倍他米松 "wikilink")（Betamethasone）
     S02BA08 [氟轻松](https://zh.wikipedia.org/wiki/氟轻松 "wikilink")（Fluocinolone acetonide）
 
 ## S02C 复方中的皮质甾体激素类和抗感染药类（Corticosteroids and anti-infectives in combination）

@@ -76,7 +76,7 @@
   - [U艇](https://zh.wikipedia.org/wiki/U型潛艇 "wikilink")
   - [I級潛艇](../Page/I級潛艇.md "wikilink")
   - [柴電潛艇](../Page/柴電潛艇.md "wikilink")
-  - [C-56潜水艇博物馆](../Page/C-56潜水艇博物馆.md "wikilink")
+  - [C-56潜水艇博物馆](https://zh.wikipedia.org/wiki/C-56潜水艇博物馆 "wikilink")
 
 ## 注释
 

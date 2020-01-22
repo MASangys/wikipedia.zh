@@ -11,7 +11,7 @@
 
 ## 歷史背景
 
-朝鮮第25代王[哲宗在位時的](../Page/朝鮮哲宗.md "wikilink")19世紀後半期，是[純祖即位以來由](../Page/朝鮮純祖.md "wikilink")[安東金氏掌權的勢道政治鼎盛時期](https://zh.wikipedia.org/wiki/安東金氏 "wikilink")，延續了60餘年，造成王權沒落，貪官污吏的專橫導致三政紊亂現象達到最惡劣的頂峰，加上全國性的[傳染病](../Page/傳染病.md "wikilink")與民亂的發生，百姓的生活陷入苦不堪言的境地。1863年第26代王[高宗即位後](../Page/朝鮮高宗.md "wikilink")，由[興宣大院君拉下長達](https://zh.wikipedia.org/wiki/興宣大院君 "wikilink")60餘年勢道政治的帷幕。
+朝鮮第25代王[哲宗在位時的](https://zh.wikipedia.org/wiki/朝鮮哲宗 "wikilink")19世紀後半期，是[純祖即位以來由](../Page/朝鮮純祖.md "wikilink")[安東金氏掌權的勢道政治鼎盛時期](https://zh.wikipedia.org/wiki/安東金氏 "wikilink")，延續了60餘年，造成王權沒落，貪官污吏的專橫導致三政紊亂現象達到最惡劣的頂峰，加上全國性的[傳染病](../Page/傳染病.md "wikilink")與民亂的發生，百姓的生活陷入苦不堪言的境地。1863年第26代王[高宗即位後](https://zh.wikipedia.org/wiki/朝鮮高宗 "wikilink")，由[興宣大院君拉下長達](https://zh.wikipedia.org/wiki/興宣大院君 "wikilink")60餘年勢道政治的帷幕。
 
 ## 演員陣容
 
@@ -77,7 +77,7 @@
 <p><a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a></p></td>
 <td><center>
 <p><a href="../Page/曹啟謙.md" title="wikilink">曹啟謙</a></p></td>
-<td><p>永來的未婚夫，<a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏兼老論僻派的</a><a href="../Page/左議政.md" title="wikilink">左議政</a>金炳禧<a href="https://zh.wikipedia.org/wiki/庶子" title="wikilink">庶子</a>，任捕盜廳從事官一職，武藝超群。比任何人都想得到父親的認可，所以從不曾輸給任何人，也不輕易流露出脆弱的一面,深愛著永來,自從知道永來的微笑是因為陳赫而展開後，一直以來用寬容雅量包容的感情瞬間被背叛，無法再繼續看著她向陳赫靠近，決定只要得到她的心，就算拋棄努力守護到現在的一切也在所不惜。</p></td>
+<td><p>永來的未婚夫，<a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏兼老論僻派的</a><a href="https://zh.wikipedia.org/wiki/左議政" title="wikilink">左議政金炳禧</a><a href="https://zh.wikipedia.org/wiki/庶子" title="wikilink">庶子</a>，任捕盜廳從事官一職，武藝超群。比任何人都想得到父親的認可，所以從不曾輸給任何人，也不輕易流露出脆弱的一面,深愛著永來,自從知道永來的微笑是因為陳赫而展開後，一直以來用寬容雅量包容的感情瞬間被背叛，無法再繼續看著她向陳赫靠近，決定只要得到她的心，就算拋棄努力守護到現在的一切也在所不惜。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -138,7 +138,7 @@
 <p>橘恭太郎</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/關令翹.md" title="wikilink">關令翹</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/關令翹" title="wikilink">關令翹</a></p></td>
 <td><p>永來的哥哥，景卓的好友。<a href="https://zh.wikipedia.org/wiki/無名界" title="wikilink">無名界的頭領</a>。</p></td>
 </tr>
 <tr class="odd">
@@ -178,18 +178,18 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/金應洙.md" title="wikilink">金應洙</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金應洙" title="wikilink">金應洙</a></p></td>
 <td><center>
 <p>金炳禧</p></td>
 <td><center>
 <p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 <td><center>
 <p><a href="../Page/陳曙光.md" title="wikilink">陳曙光</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏最高掌權者</a><a href="../Page/左議政.md" title="wikilink">左議政</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏最高掌權者</a><a href="https://zh.wikipedia.org/wiki/左議政" title="wikilink">左議政</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/金日宇.md" title="wikilink">金日宇</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金日宇" title="wikilink">金日宇</a></p></td>
 <td><center>
 <p>劉宏畢</p></td>
 <td><center>
@@ -243,7 +243,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/鄭殷杓.md" title="wikilink">鄭殷杓</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄭殷杓" title="wikilink">鄭殷杓</a></p></td>
 <td><center>
 <p>許光</p></td>
 <td><center>
@@ -276,7 +276,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/金廣植.md" title="wikilink">金廣植</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金廣植" title="wikilink">金廣植</a></p></td>
 <td><center>
 <p>花豚</p></td>
 <td><center>
@@ -291,7 +291,7 @@
 <p>蓮心</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/陳皓宜.md" title="wikilink">陳皓宜</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳皓宜" title="wikilink">陳皓宜</a></p></td>
 <td><p>妓生，春紅的左右手</p></td>
 </tr>
 <tr class="odd">
@@ -307,9 +307,9 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/金秉世.md" title="wikilink">金秉世</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金秉世" title="wikilink">金秉世</a></p></td>
 <td><center>
-<p><a href="../Page/朝鮮哲宗.md" title="wikilink">哲宗</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朝鮮哲宗" title="wikilink">哲宗</a></p></td>
 <td><center>
 <p><a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a></p></td>
 <td><center>
@@ -320,7 +320,7 @@
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/李亨錫" title="wikilink">李亨錫</a></p></td>
 <td><center>
-<p><a href="../Page/朝鮮高宗.md" title="wikilink">命福</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朝鮮高宗" title="wikilink">命福</a></p></td>
 <td><center>
 <p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
 <td><center>
@@ -331,7 +331,7 @@
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/申素美" title="wikilink">申素美</a></p></td>
 <td><center>
-<p><a href="../Page/純穆大院妃.md" title="wikilink">府大夫人閔氏</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/純穆大院妃" title="wikilink">府大夫人閔氏</a></p></td>
 <td></td>
 <td><center>
 <p><a href="../Page/雷碧娜.md" title="wikilink">雷碧娜</a></p></td>
@@ -339,7 +339,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/張英南.md" title="wikilink">張英南</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張英南" title="wikilink">張英南</a></p></td>
 <td><center>
 <p>趙夫人</p></td>
 <td><center>
@@ -367,7 +367,7 @@
 <td><center>
 <p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
 <td><center>
-<p><a href="../Page/余欣沛.md" title="wikilink">余欣沛</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/余欣沛" title="wikilink">余欣沛</a></p></td>
 <td><p>染上<a href="../Page/梅毒.md" title="wikilink">梅毒</a>的妓生</p></td>
 </tr>
 <tr class="even">
@@ -393,7 +393,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/趙美玲.md" title="wikilink">趙美玲</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/趙美玲" title="wikilink">趙美玲</a></p></td>
 <td></td>
 <td></td>
 <td><center>
@@ -425,7 +425,7 @@
 <!-- end list -->
 
   -
-    作詞：[娃娃](../Page/娃娃.md "wikilink")　作曲：[陶喆](../Page/陶喆.md "wikilink")　主唱：[關詩敏](../Page/關詩敏.md "wikilink")
+    作詞：[娃娃](../Page/娃娃.md "wikilink")　作曲：[陶喆](../Page/陶喆.md "wikilink")　主唱：[關詩敏](https://zh.wikipedia.org/wiki/關詩敏 "wikilink")
 
 ### 首播
 

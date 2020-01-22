@@ -9,7 +9,7 @@
     N06AA01 [地昔帕明](https://zh.wikipedia.org/wiki/地昔帕明 "wikilink")（Desipramine）
     N06AA02 [米帕明](https://zh.wikipedia.org/wiki/米帕明 "wikilink")（Imipramine）
     N06AA03 [氧米帕明](https://zh.wikipedia.org/wiki/氧米帕明 "wikilink")（Imipramine oxide）
-    N06AA04 [氯米帕明](../Page/氯米帕明.md "wikilink")（Clomipramine）
+    N06AA04 [氯米帕明](https://zh.wikipedia.org/wiki/氯米帕明 "wikilink")（Clomipramine）
     N06AA05 [奥匹哌醇](https://zh.wikipedia.org/wiki/奥匹哌醇 "wikilink")（Opipramol）
     N06AA06 [曲米帕明](https://zh.wikipedia.org/wiki/曲米帕明 "wikilink")（Trimipramine）
     N06AA07 [洛非帕明](https://zh.wikipedia.org/wiki/洛非帕明 "wikilink")（Lofepramine）
@@ -70,7 +70,7 @@
     N06AX08 [二苯美仑](https://zh.wikipedia.org/wiki/二苯美仑 "wikilink")（Bifemelane）
     N06AX09 [维洛沙秦](https://zh.wikipedia.org/wiki/维洛沙秦 "wikilink")（Viloxazine）
     N06AX10 [奥沙氟生](https://zh.wikipedia.org/wiki/奥沙氟生 "wikilink")（Oxaflozane）
-    N06AX11 [米氮平](../Page/米氮平.md "wikilink")（Mirtazapine）
+    N06AX11 [米氮平](https://zh.wikipedia.org/wiki/米氮平 "wikilink")（Mirtazapine）
     N06AX12 [安非他酮](../Page/安非他酮.md "wikilink")（Bupropion）
     N06AX13 [美地沙明](https://zh.wikipedia.org/wiki/美地沙明 "wikilink")（Medifoxamine）
     N06AX14 [噻奈普汀](https://zh.wikipedia.org/wiki/噻奈普汀 "wikilink")（Tianeptine）
@@ -115,7 +115,7 @@
   -
     N06BX01 [甲氯芬酯](https://zh.wikipedia.org/wiki/甲氯芬酯 "wikilink")（Meclofenoxate）
     N06BX02 [吡硫醇](https://zh.wikipedia.org/wiki/吡硫醇 "wikilink")（Pyritinol）
-    N06BX03 [吡拉西坦](../Page/吡拉西坦.md "wikilink")（Piracetam）
+    N06BX03 [吡拉西坦](https://zh.wikipedia.org/wiki/吡拉西坦 "wikilink")（Piracetam）
     N06BX04 [地阿诺](https://zh.wikipedia.org/wiki/地阿诺 "wikilink")（Deanol）
     N06BX05 [非哌西特](https://zh.wikipedia.org/wiki/非哌西特 "wikilink")（Fipexide）
     N06BX06 [胞磷胆碱](https://zh.wikipedia.org/wiki/胞磷胆碱 "wikilink")（Citicoline）

@@ -1,7 +1,7 @@
 > 本文内容由[SAKURA, I love you\?](https://zh.wikipedia.org/wiki/SAKURA,_I_love_you\?)转换而来。
 
 
-《**SAKURA, I love you?**》是日本女歌手[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年3月7日由[SME Records發行](../Page/SME_Records.md "wikilink")。
+《**SAKURA, I love you?**》是日本女歌手[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年3月7日由[SME Records發行](https://zh.wikipedia.org/wiki/SME_Records "wikilink")。
 
 ## 概要
 

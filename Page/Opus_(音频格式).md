@@ -27,7 +27,7 @@ CELT的發展部分格式可以追溯到[Vorbis的繼任者的工作名稱Ghost�
 
 SILK部分自2007年1月起一直在Skype開發，作為其SVOPC的繼任者，該公司是一個內部項目，使公司獨立於[iSAC和](https://zh.wikipedia.org/wiki/iSAC "wikilink")[iLBC等第三方編解碼器和相應的許可證付款](https://zh.wikipedia.org/wiki/iLBC "wikilink")。
 
-2009年3月，Skype建議在IETF內開發和規範寬帶音頻格式。近一年來，成立了一個適當的工作組，進行了大量辯論\[2\]。參與專利保護競爭格式標準化的幾家公司的代表表示反對開始免版稅格式的標準化過程：[Polycom](../Page/Polycom.md "wikilink")和[愛立信](../Page/愛立信.md "wikilink")的代表（G.719的創始人和許可人）以及[法國電信](https://zh.wikipedia.org/wiki/法國電信 "wikilink")，[華為和](https://zh.wikipedia.org/wiki/華為 "wikilink")[橙色實驗室](../Page/Orange_\(公司\).md "wikilink")（法國電信部門），參與創建G.718。
+2009年3月，Skype建議在IETF內開發和規範寬帶音頻格式。近一年來，成立了一個適當的工作組，進行了大量辯論\[2\]。參與專利保護競爭格式標準化的幾家公司的代表表示反對開始免版稅格式的標準化過程：[Polycom和](https://zh.wikipedia.org/wiki/Polycom "wikilink")[愛立信](../Page/愛立信.md "wikilink")的代表（G.719的創始人和許可人）以及[法國電信](https://zh.wikipedia.org/wiki/法國電信 "wikilink")，[華為和](https://zh.wikipedia.org/wiki/華為 "wikilink")[橙色實驗室](../Page/Orange_\(公司\).md "wikilink")（法國電信部門），參與創建G.718。
 
 2010年7月，提出了一種混合格式的原型，將兩種提出格式的候選者SILK和CELT相結合。2010年9月，Opus作為標準化提案提交給IETF。在短時間內，格式在2010年10月獲得現有名稱之前，以Harmony的名義出現\[3\]。2011年2月初，比特流格式暫時凍結，但有待最後更改\[4\]。2011年7月底，Jean-Marc Valin被[Mozilla公司](../Page/Mozilla公司.md "wikilink")僱用，繼續開發Opus\[5\]。2011年11月，工作組最近發出了關於比特流格式的更改的通知。比特流自2012年1月8日以來已被凍結\[6\]。2012年7月2日，Opus被IETF批准用於標準化\[7\]。參考軟件中輸入8月8日發布的候選狀態\[8\]最後的規範發布的RFC 6716於2012年9月10日\[9\]\[10\]，和版本為1.0和1.0.1 參考實現被釋放一天之後。
 
@@ -63,7 +63,7 @@ Opus允許減少質量或提高比特率以實現更小的算法延遲（最小5
 
 ### 實作
 
-RFC 6716包含用C編寫的參考實現的完整源代碼。[FFmpeg](../Page/FFmpeg.md "wikilink")的項目\[24\]和[GStreamer](../Page/GStreamer.md "wikilink")的項目\[25\]具有編碼器和解碼器的實現不是從參考庫的。libopus引用庫已作為名為Concentus的項目的一部分移植到[C＃和](https://zh.wikipedia.org/wiki/C＃ "wikilink")[Java](../Page/Java.md "wikilink")。這些移植版本犧牲了性能，以便輕鬆集成到跨平台應用程序中。\[26\]
+RFC 6716包含用C編寫的參考實現的完整源代碼。[FFmpeg](../Page/FFmpeg.md "wikilink")的項目\[24\]和[GStreamer的項目](https://zh.wikipedia.org/wiki/GStreamer "wikilink")\[25\]具有編碼器和解碼器的實現不是從參考庫的。libopus引用庫已作為名為Concentus的項目的一部分移植到[C＃和](https://zh.wikipedia.org/wiki/C＃ "wikilink")[Java](../Page/Java.md "wikilink")。這些移植版本犧牲了性能，以便輕鬆集成到跨平台應用程序中。\[26\]
 
 ### 軟件
 
@@ -87,7 +87,7 @@ RFC 6716包含用C編寫的參考實現的完整源代碼。[FFmpeg](../Page/FFm
 <th><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/macOS" title="wikilink">macOS</a></p></th>
 <th><p><a href="../Page/Linux.md" title="wikilink">Linux</a></p></th>
-<th><p><a href="../Page/Android.md" title="wikilink">Android</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Android" title="wikilink">Android</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></th>
 </tr>
 </thead>

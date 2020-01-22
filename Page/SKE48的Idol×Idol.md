@@ -5,7 +5,7 @@
 
 ## 出演者
 
-  - [山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](https://zh.wikipedia.org/wiki/南海キャンディーズ "wikilink")）
+  - [山里亮太](https://zh.wikipedia.org/wiki/山里亮太 "wikilink")（[南海キャンディーズ](https://zh.wikipedia.org/wiki/南海キャンディーズ "wikilink")）
   - [SKE48](../Page/SKE48.md "wikilink")
 
 ## 播放日・樂曲
@@ -27,8 +27,8 @@
 <td><p>1</p></td>
 <td><p>2010年12月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浅香唯" title="wikilink">浅香唯</a></p></td>
-<td><p>（<a href="../Page/大矢真那.md" title="wikilink">大矢真那</a>、<a href="../Page/木下有希子.md" title="wikilink">木下有希子</a>、<a href="../Page/矢神久美.md" title="wikilink">矢神久美</a>・お当番）、<a href="https://zh.wikipedia.org/wiki/木崎ゆりあ" title="wikilink">木﨑ゆりあ</a>、<a href="../Page/須田亞香里.md" title="wikilink">須田亞香里</a>、赤枝里々奈、<a href="../Page/石田安奈.md" title="wikilink">石田安奈</a>、加藤智子、<br />
-<a href="../Page/高柳明音.md" title="wikilink">高柳明音</a>、<a href="../Page/向田茉夏.md" title="wikilink">向田茉夏</a>、山田澪花、磯原杏華、上野圭澄、間野春香、山田恵里伽、<a href="../Page/木本花音.md" title="wikilink">木本花音</a></p></td>
+<td><p>（<a href="../Page/大矢真那.md" title="wikilink">大矢真那</a>、<a href="https://zh.wikipedia.org/wiki/木下有希子" title="wikilink">木下有希子</a>、<a href="../Page/矢神久美.md" title="wikilink">矢神久美</a>・お当番）、<a href="https://zh.wikipedia.org/wiki/木崎ゆりあ" title="wikilink">木﨑ゆりあ</a>、<a href="https://zh.wikipedia.org/wiki/須田亞香里" title="wikilink">須田亞香里</a>、赤枝里々奈、<a href="https://zh.wikipedia.org/wiki/石田安奈" title="wikilink">石田安奈</a>、加藤智子、<br />
+<a href="https://zh.wikipedia.org/wiki/高柳明音" title="wikilink">高柳明音</a>、<a href="https://zh.wikipedia.org/wiki/向田茉夏" title="wikilink">向田茉夏</a>、山田澪花、磯原杏華、上野圭澄、間野春香、山田恵里伽、<a href="https://zh.wikipedia.org/wiki/木本花音" title="wikilink">木本花音</a></p></td>
 <td><p>高柳明音</p></td>
 </tr>
 <tr class="even">
@@ -43,8 +43,8 @@
 <td><p>3</p></td>
 <td><p>2010年12月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伊藤つかさ" title="wikilink">伊藤つかさ</a></p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/桑原みずき" title="wikilink">桑原みずき</a>、<a href="../Page/松井珠理奈.md" title="wikilink">松井珠理奈</a>、<a href="../Page/若林倫香.md" title="wikilink">若林倫香</a>・お当番）<a href="../Page/小野晴香.md" title="wikilink">小野晴香</a>、<a href="https://zh.wikipedia.org/wiki/加藤るみ" title="wikilink">加藤るみ</a>、<a href="../Page/高田志織.md" title="wikilink">高田志織</a>、<a href="../Page/出口陽.md" title="wikilink">出口陽</a>、<a href="../Page/中西優香.md" title="wikilink">中西優香</a>、<br />
-<a href="../Page/平田璃香子.md" title="wikilink">平田璃香子</a>、<a href="../Page/平松可奈子.md" title="wikilink">平松可奈子</a>、<a href="../Page/松井玲奈.md" title="wikilink">松井玲奈</a>、<a href="../Page/小木曾汐莉.md" title="wikilink">小木曾汐莉</a>、<a href="../Page/古川愛李.md" title="wikilink">古川愛李</a>、<a href="../Page/松本梨奈.md" title="wikilink">松本梨奈</a>、<a href="../Page/秦佐和子.md" title="wikilink">秦佐和子</a>、<a href="https://zh.wikipedia.org/wiki/矢方美紀" title="wikilink">矢方美紀</a></p></td>
+<td><p>（<a href="https://zh.wikipedia.org/wiki/桑原みずき" title="wikilink">桑原みずき</a>、<a href="../Page/松井珠理奈.md" title="wikilink">松井珠理奈</a>、<a href="https://zh.wikipedia.org/wiki/若林倫香" title="wikilink">若林倫香</a>・お当番）<a href="https://zh.wikipedia.org/wiki/小野晴香" title="wikilink">小野晴香</a>、<a href="https://zh.wikipedia.org/wiki/加藤るみ" title="wikilink">加藤るみ</a>、<a href="../Page/高田志織.md" title="wikilink">高田志織</a>、<a href="https://zh.wikipedia.org/wiki/出口陽" title="wikilink">出口陽</a>、<a href="https://zh.wikipedia.org/wiki/中西優香" title="wikilink">中西優香</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/平田璃香子" title="wikilink">平田璃香子</a>、<a href="https://zh.wikipedia.org/wiki/平松可奈子" title="wikilink">平松可奈子</a>、<a href="../Page/松井玲奈.md" title="wikilink">松井玲奈</a>、<a href="https://zh.wikipedia.org/wiki/小木曾汐莉" title="wikilink">小木曾汐莉</a>、<a href="https://zh.wikipedia.org/wiki/古川愛李" title="wikilink">古川愛李</a>、<a href="https://zh.wikipedia.org/wiki/松本梨奈" title="wikilink">松本梨奈</a>、<a href="https://zh.wikipedia.org/wiki/秦佐和子" title="wikilink">秦佐和子</a>、<a href="https://zh.wikipedia.org/wiki/矢方美紀" title="wikilink">矢方美紀</a></p></td>
 <td><p>平松可奈子</p></td>
 </tr>
 <tr class="even">
@@ -86,7 +86,7 @@
 
   -
     「[センチメンタル・ジャーニー](https://zh.wikipedia.org/wiki/センチメンタル・ジャーニー_\(松本伊代の曲\) "wikilink")」（須田、矢神、赤枝、磯原、上野、間野、山田恵）
-    「[悠然銀光中](../Page/悠然銀光中.md "wikilink")」（全員）
+    「[悠然銀光中](https://zh.wikipedia.org/wiki/悠然銀光中 "wikilink")」（全員）
     「[ハロー・グッバイ](https://zh.wikipedia.org/wiki/柏原芳恵#作品 "wikilink")」（加藤智、山田澪、間野）
     「[夏の扉](https://zh.wikipedia.org/wiki/夏の扉 "wikilink")」（全員）
     嘉賓LIVE「[まちぶせ](https://zh.wikipedia.org/wiki/まちぶせ#石川ひとみのシングル "wikilink")」（大矢、木﨑、木下、須田、矢神、上野、木本、山田恵）
@@ -110,14 +110,14 @@
 <!-- end list -->
 
   -
-    「[因為是偶像](../Page/因為是偶像.md "wikilink")」（小野、加藤る、桑原、高田、出口、中西、平田、平松、松井珠、小木曽、松本、若林、秦）
+    「[因為是偶像](https://zh.wikipedia.org/wiki/因為是偶像 "wikilink")」（小野、加藤る、桑原、高田、出口、中西、平田、平松、松井珠、小木曽、松本、若林、秦）
     「[1986年のマリリン](https://zh.wikipedia.org/wiki/1986年のマリリン "wikilink")」（松井玲、古川、矢方）
     「[不要脫了水手服](https://zh.wikipedia.org/wiki/不要脫了水手服 "wikilink")」（全員）
     嘉賓LIVE「[冬のオペラグラス](https://zh.wikipedia.org/wiki/冬のオペラグラス "wikilink")」（小野、桑原、中西、松井珠、古川、松本、若林、矢方）
 
 ## 主題曲
 
-  - 「[1！2！3！4！ 請多關照！](../Page/1！2！3！4！_請多關照！.md "wikilink")」SKE48
+  - 「[1！2！3！4！ 請多關照！](https://zh.wikipedia.org/wiki/1！2！3！4！_請多關照！ "wikilink")」SKE48
 
 ## 播放電視台
 

@@ -86,7 +86,7 @@
 
   - [長行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")
   - [轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")
-  - [開放式槍栓](../Page/開放式槍栓.md "wikilink")
+  - [開放式槍栓](https://zh.wikipedia.org/wiki/開放式槍栓 "wikilink")
   - [恆定後坐](https://zh.wikipedia.org/wiki/恆定後坐 "wikilink")
 
 </div>
@@ -104,7 +104,7 @@
 
 <div class="NavContent" style="background:#fff; margin:0 auto; padding:0 10px;">
 
-  - [機械瞄具](../Page/機械瞄具.md "wikilink")：表尺[照門和折疊式](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")\[31\]
+  - [機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")：表尺[照門和折疊式](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")\[31\]
     [瞄準基線](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")：1,000毫米（39.37英吋）\[32\]
   - [反射式瞄準鏡](../Page/紅點鏡.md "wikilink")\[33\]
   - [夜視鏡](../Page/夜視鏡.md "wikilink")\[34\]

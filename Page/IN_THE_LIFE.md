@@ -17,7 +17,7 @@ Oricon年榜第二位，為B'z原創專輯年度排行最高的一張。
   - [稻叶浩志](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")・全曲[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・和声（\#10）
   - 明石昌夫：[贝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")（\#7）・和声（\#9）・全曲編曲
   - 青山純：[鼓手](../Page/爵士鼓.md "wikilink")（\#1-5,8）
-  - 田中一光：鼓手（\#6,7,10）・[鈴鼓](../Page/鈴鼓.md "wikilink")（\#9）・和声（\#9）
+  - 田中一光：鼓手（\#6,7,10）・[鈴鼓](https://zh.wikipedia.org/wiki/鈴鼓 "wikilink")（\#9）・和声（\#9）
   - 小野塚晃：[电子琴](https://zh.wikipedia.org/wiki/电子琴 "wikilink")（\#3,6,10）
   - 古村敏比古：[萨克斯管](https://zh.wikipedia.org/wiki/萨克斯管 "wikilink")（\#1-3）
   - [大黒摩季](https://zh.wikipedia.org/wiki/大黒摩季 "wikilink")：和声（\#1,2）

@@ -35,7 +35,7 @@
 ### D06BA [磺胺类](https://zh.wikipedia.org/wiki/磺胺类 "wikilink")（Sulfonamides）
 
   -
-    D06BA01 [磺胺嘧啶银](../Page/磺胺嘧啶银.md "wikilink")（Silver sulfadiazine）
+    D06BA01 [磺胺嘧啶银](https://zh.wikipedia.org/wiki/磺胺嘧啶银 "wikilink")（Silver sulfadiazine）
     D06BA02 [磺胺噻唑](../Page/磺胺噻唑.md "wikilink")（Sulfathiazole）
     D06BA03 [磺胺米隆](https://zh.wikipedia.org/wiki/磺胺米隆 "wikilink")（Mafenide）
     D06BA04 [磺胺美唑](https://zh.wikipedia.org/wiki/磺胺美唑 "wikilink")（Sulfamethizole）

@@ -621,7 +621,7 @@
 
 ### 假面騎士
 
-  - 假面騎士Fourze《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》（CV：[福士蒼汰](../Page/福士蒼汰.md "wikilink")）
+  - 假面騎士Fourze《[假面騎士Fourze](https://zh.wikipedia.org/wiki/假面騎士Fourze "wikilink")》（CV：[福士蒼汰](../Page/福士蒼汰.md "wikilink")）
 
 | Battle Style       | 登場形態                   | 超必殺技                          |
 | ------------------ | ---------------------- | ----------------------------- |
@@ -689,7 +689,7 @@
 | **Assault**  | Normal | Shadow Kick |
 |              |        |             |
 
-  - 假面騎士Black RX《[假面騎士BLACK RX](../Page/假面騎士BLACK_RX.md "wikilink")》
+  - 假面騎士Black RX《[假面騎士BLACK RX](https://zh.wikipedia.org/wiki/假面騎士BLACK_RX "wikilink")》
 
 | Battle Style | 登場形態   | 超必殺技         |
 | ------------ | ------ | ------------ |

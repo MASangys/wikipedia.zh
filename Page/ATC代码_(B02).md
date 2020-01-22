@@ -38,7 +38,7 @@
     B02BC02 [氧化纤维素](https://zh.wikipedia.org/wiki/氧化纤维素 "wikilink")（Oxidized cellulose）
     B02BC03 [四半乳糖醛酸羟甲酯](https://zh.wikipedia.org/wiki/四半乳糖醛酸羟甲酯 "wikilink")（Tetragalacturonic acid hydroxymethylester）
     B02BC05 [肾上腺酮](https://zh.wikipedia.org/wiki/肾上腺酮 "wikilink")（Adrenalone）
-    B02BC06 [凝血酶](../Page/凝血酶.md "wikilink")（Thrombin）
+    B02BC06 [凝血酶](https://zh.wikipedia.org/wiki/凝血酶 "wikilink")（Thrombin）
     B02BC07 [胶原](https://zh.wikipedia.org/wiki/胶原 "wikilink")（Collagen）
     B02BC08 [海藻酸钙](https://zh.wikipedia.org/wiki/海藻酸钙 "wikilink")（Calcium alginate）
     B02BC09 [肾上腺素](../Page/肾上腺素.md "wikilink")（Epinephrine）
@@ -59,7 +59,7 @@
     B02BD09 [诺那凝血素α](https://zh.wikipedia.org/wiki/诺那凝血素α "wikilink")（Nonacog alfa）
     B02BD10 [血管性血友病因子](https://zh.wikipedia.org/wiki/血管性血友病因子 "wikilink")（von Willebrand factor）
     B02BD11 [卡曲得考](https://zh.wikipedia.org/wiki/卡曲得考 "wikilink")（Catridecacog）
-    B02BD30 [凝血酶](../Page/凝血酶.md "wikilink")（Thrombin）
+    B02BD30 [凝血酶](https://zh.wikipedia.org/wiki/凝血酶 "wikilink")（Thrombin）
 
 ### B02BX 其它系统止血药（Other systemic hemostatics）
 

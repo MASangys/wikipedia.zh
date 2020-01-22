@@ -15,7 +15,7 @@
   - [DocumentCloud](https://zh.wikipedia.org/wiki/DocumentCloud "wikilink") \[8\]
   - [Flixster](https://zh.wikipedia.org/wiki/Flixster "wikilink")
   - [Foursquare](../Page/Foursquare.md "wikilink") \[9\]
-  - [Groupon](../Page/Groupon.md "wikilink") Now \[10\]
+  - [Groupon](https://zh.wikipedia.org/wiki/Groupon "wikilink") Now \[10\]
   - [Hulu](../Page/Hulu.md "wikilink") \[11\]
   - [HackerRank](https://zh.wikipedia.org/wiki/HackerRank "wikilink") \[12\]
   - [LinkedIn](https://zh.wikipedia.org/wiki/LinkedIn "wikilink") Mobile
@@ -23,9 +23,9 @@
   - [Pandora Radio](https://zh.wikipedia.org/wiki/Pandora_Radio "wikilink") \[14\]
   - [Pinterest](../Page/Pinterest.md "wikilink")
   - [Soundcloud](https://zh.wikipedia.org/wiki/Soundcloud "wikilink") \[15\]
-  - [Trello](../Page/Trello.md "wikilink") \[16\]
+  - [Trello](https://zh.wikipedia.org/wiki/Trello "wikilink") \[16\]
   - [USA Today](https://zh.wikipedia.org/wiki/USA_Today "wikilink").com \[17\]
-  - [WordPress.com](../Page/WordPress.com.md "wikilink") \[18\]
+  - [WordPress.com](https://zh.wikipedia.org/wiki/WordPress.com "wikilink") \[18\]
   - [Strideapp.com](https://zh.wikipedia.org/wiki/Strideapp.com "wikilink") \[19\]
 
 ## 參考資料

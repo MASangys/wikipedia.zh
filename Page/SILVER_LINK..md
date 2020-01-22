@@ -21,7 +21,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
   - [惡作劇之吻](https://zh.wikipedia.org/wiki/惡作劇之吻 "wikilink")（與[TMS Entertainment共同製作](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")）
   - [二十面相少女](../Page/二十面相少女.md "wikilink")（與[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")、共同製作）
   - [西洋骨董洋菓子店](https://zh.wikipedia.org/wiki/西洋骨董洋菓子店 "wikilink")（與[日本動畫公司](../Page/日本動畫公司.md "wikilink")共同製作）
-  - [戀姬†無雙](../Page/戀姬†無雙.md "wikilink")（與[動畫工房](../Page/動畫工房.md "wikilink")共同製作）
+  - [戀姬†無雙](../Page/戀姬†無雙.md "wikilink")（與[動畫工房共同製作](https://zh.wikipedia.org/wiki/動畫工房 "wikilink")）
   - [ef - a tale of melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")（與[SHAFT](../Page/SHAFT.md "wikilink")共同製作）
 
 <!-- end list -->
@@ -32,7 +32,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 
   - [黑神 The Animation](../Page/黑神.md "wikilink")（與[SUNRISE共同製作](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")）
   - [遊魂 -kiss on my deity-](https://zh.wikipedia.org/wiki/遊魂 "wikilink")
-  - [化物語](../Page/化物語.md "wikilink")（與[SHAFT](../Page/SHAFT.md "wikilink")共同製作）
+  - [化物語](https://zh.wikipedia.org/wiki/化物語 "wikilink")（與[SHAFT](../Page/SHAFT.md "wikilink")共同製作）
   - [夢色蛋糕師](../Page/夢色蛋糕師.md "wikilink")（與[PIERROT](../Page/PIERROT.md "wikilink")共同製作）
   - [貓願三角戀](../Page/貓願三角戀.md "wikilink")（與[AIC共同製作](https://zh.wikipedia.org/wiki/AIC "wikilink")）
 
@@ -57,9 +57,9 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
   - [緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")（與[J.C.STAFF共同製作](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")）
   - [SKET DANCE](../Page/SKET_DANCE.md "wikilink")（與[龍之子Production共同製作](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")）
   - [白兔玩偶](https://zh.wikipedia.org/wiki/白兔玩偶 "wikilink")（與[Production I.G共同製作](../Page/Production_I.G.md "wikilink")）
-  - [C³ -魔幻三次方-](../Page/C³_-魔幻三次方-.md "wikilink")
-  - [迴轉企鵝罐](https://zh.wikipedia.org/wiki/迴轉企鵝罐 "wikilink")（與[Brain's Base共同製作](../Page/Brain's_Base.md "wikilink")）
-  - [少年同盟](../Page/少年同盟.md "wikilink")（與[J.C.STAFF共同製作](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")）
+  - [C³ -魔幻三次方-](https://zh.wikipedia.org/wiki/C³_-魔幻三次方- "wikilink")
+  - [迴轉企鵝罐](https://zh.wikipedia.org/wiki/迴轉企鵝罐 "wikilink")（與[Brain's Base共同製作](https://zh.wikipedia.org/wiki/Brain's_Base "wikilink")）
+  - [少年同盟](https://zh.wikipedia.org/wiki/少年同盟 "wikilink")（與[J.C.STAFF共同製作](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")）
 
 <!-- end list -->
 
@@ -79,11 +79,11 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 
 <!-- end list -->
 
-  - [戀曲寫真](../Page/戀曲寫真.md "wikilink")（與[MADHOUSE](../Page/MADHOUSE.md "wikilink")共同製作）
+  - [戀曲寫真](https://zh.wikipedia.org/wiki/戀曲寫真 "wikilink")（與[MADHOUSE](../Page/MADHOUSE.md "wikilink")共同製作）
   - [Fate/kaleid liner 魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [我不受歡迎，怎麼想都是你們的錯！](../Page/我不受歡迎，怎麼想都是你們的錯！.md "wikilink")
-  - [噬血狂襲](../Page/噬血狂襲.md "wikilink")（與CONNECT共同製作）
-  - [悠悠哉哉少女日和](../Page/悠悠哉哉少女日和.md "wikilink")
+  - [噬血狂襲](https://zh.wikipedia.org/wiki/噬血狂襲 "wikilink")（與CONNECT共同製作）
+  - [悠悠哉哉少女日和](https://zh.wikipedia.org/wiki/悠悠哉哉少女日和 "wikilink")
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
   - [農林](../Page/農林.md "wikilink")
   - [Fate/kaleid liner 魔法少女☆伊莉雅 2wei](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [三坪房間的侵略者！？](../Page/三坪房間的侵略者！？.md "wikilink")
-  - [临时女友](../Page/临时女友.md "wikilink")
+  - [临时女友](https://zh.wikipedia.org/wiki/临时女友 "wikilink")
 
 <!-- end list -->
 
@@ -102,11 +102,11 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 
 <!-- end list -->
 
-  - [百合熊風暴](../Page/百合熊風暴.md "wikilink")
+  - [百合熊風暴](https://zh.wikipedia.org/wiki/百合熊風暴 "wikilink")
   - [Chaos Dragon 赤龍戰役](../Page/赤龍_\(小說\).md "wikilink")（與CONNECT共同製作）
   - [Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
-  - [悠悠哉哉少女日和 Repeat](../Page/悠悠哉哉少女日和.md "wikilink")
-  - [我被抓到貴族女校當「庶民樣本」](../Page/我被綁架到貴族女校當「庶民樣本」.md "wikilink")
+  - [悠悠哉哉少女日和 Repeat](https://zh.wikipedia.org/wiki/悠悠哉哉少女日和 "wikilink")
+  - [我被抓到貴族女校當「庶民樣本」](https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」 "wikilink")
   - [對魔導學園35試驗小隊](../Page/對魔導學園35試驗小隊.md "wikilink")
   - [落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")（與[Nexus共同製作](../Page/Nexus_\(動畫製作公司\).md "wikilink")）
 
@@ -270,7 +270,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <td><p>與CONNECT共同製作</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Butlers～千年百年物語～.md" title="wikilink">Butlers～千年百年物語～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Butlers～千年百年物語～" title="wikilink">Butlers～千年百年物語～</a></p></td>
 <td></td>
 <td><p>4月11日－6月27日</p></td>
 <td><p>高橋賢</p></td>
@@ -278,7 +278,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/春原莊的管理員小姐.md" title="wikilink">春原莊的管理員小姐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/春原莊的管理員小姐" title="wikilink">春原莊的管理員小姐</a></p></td>
 <td></td>
 <td><p>7月5日－9月20日</p></td>
 <td><p>湊未來</p></td>
@@ -336,7 +336,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <tr class="odd">
 <td><p><a href="../Page/喜歡本大爺的竟然就妳一個？.md" title="wikilink">喜歡本大爺的竟然就妳一個？</a></p></td>
 <td></td>
-<td><p>10月2日－播放中</p></td>
+<td><p>10月2日－12月25日</p></td>
 <td></td>
 <td><p>輕小說</p></td>
 <td><p>CONNECT獨立製作</p></td>
@@ -352,10 +352,27 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/怕痛的我，把防御力點滿就對了" title="wikilink">怕痛的我，把防御力點滿就對了</a></p></td>
 <td></td>
-<td></td>
-<td><p><a href="../Page/大沼心.md" title="wikilink">大沼心</a><br />
+<td><p>1月8日－播放中</p></td>
+<td><p>大沼心<br />
 湊未來</p></td>
 <td><p>輕小說</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/轉生成女性向遊戲只有毀滅END的壞人大小姐.md" title="wikilink">轉生成女性向遊戲只有毀滅END的壞人大小姐</a></p></td>
+<td></td>
+<td><p>4月－預定</p></td>
+<td><p>井上圭介</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～" title="wikilink">魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～</a></p></td>
+<td></td>
+<td><p>大沼心<br />
+田村正文</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -375,7 +392,7 @@ SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONT
 
   - [今際之國的闖關者](../Page/今際之國的闖關者.md "wikilink")（與CONNECT共同製作，2014年）
 
-  - [噬血狂襲 OVA](../Page/噬血狂襲.md "wikilink")Ⅱ（與CONNECT共同製作，2016年 - 2017年）
+  - [噬血狂襲Ⅱ OVA](https://zh.wikipedia.org/wiki/噬血狂襲 "wikilink")（與CONNECT共同製作，2016年 - 2017年）
 
   - 噬血狂襲Ⅲ OVA（與CONNECT共同製作，2018年 - 2019年）
 

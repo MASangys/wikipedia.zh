@@ -1,9 +1,9 @@
 > 本文内容由[AOA](https://zh.wikipedia.org/wiki/AOA)转换而来。
 
 
-**AOA**（；**Ace of Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下第一支[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，最初由8名成員組成，現任成員包括[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[雪炫和](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")，由智珉擔任隊長。AOA的子團包括、[AOA White和](https://zh.wikipedia.org/wiki/AOA_White "wikilink")[AOA Cream](https://zh.wikipedia.org/wiki/AOA_Cream "wikilink")。
+**AOA**（；**Ace of Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下第一支](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，最初由8名成員組成，現任成員包括[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[雪炫和](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")，由智珉擔任隊長。AOA的子團包括、[AOA White和](https://zh.wikipedia.org/wiki/AOA_White "wikilink")[AOA Cream](https://zh.wikipedia.org/wiki/AOA_Cream "wikilink")。
 
-2012年7月30日，AOA釋出首張單曲專辑《[Angels' Story](../Page/Angels'_Story.md "wikilink")》主打歌《Elvis》MV。之後於8月9日於[M\! Countdown出道並進行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音樂银行表演](https://zh.wikipedia.org/wiki/KBS音樂银行 "wikilink")。10月第二張單曲專輯發行《[Wanna Be](../Page/Wanna_Be_\(AOA單曲\).md "wikilink")》。2013年，AOA發行《MOYA》及《[Red Motion](../Page/RED_MOTION.md "wikilink")》。2014年，主打性感風的《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》和《[短髮](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》讓AOA的人氣逐漸上升，且前者使該组合獲得了首個一位。
+2012年7月30日，AOA釋出首張單曲專辑《[Angels' Story](https://zh.wikipedia.org/wiki/Angels'_Story "wikilink")》主打歌《Elvis》MV。之後於8月9日於[M\! Countdown出道並進行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音樂银行表演](https://zh.wikipedia.org/wiki/KBS音樂银行 "wikilink")。10月第二張單曲專輯發行《[Wanna Be](../Page/Wanna_Be_\(AOA單曲\).md "wikilink")》。2013年，AOA發行《MOYA》及《[Red Motion](https://zh.wikipedia.org/wiki/RED_MOTION "wikilink")》。2014年，主打性感風的《[短裙](https://zh.wikipedia.org/wiki/短裙_\(AOA单曲\) "wikilink")》和《[短髮](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》讓AOA的人氣逐漸上升，且前者使該组合獲得了首個一位。
 
 2014年10月，AOA发行首张日文单曲专辑《短裙》，在日本出道。次月发行的《[猫步轻悄](../Page/猫步轻悄.md "wikilink")》使AOA人气再度高涨。2015年2月，AOA发行《猫步轻悄》的日语版。6月，AOA发行第三张迷你专辑《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA迷你專輯\) "wikilink")》，并首次发布中文歌曲。[KCON 2015期间](https://zh.wikipedia.org/wiki/KCON "wikilink")，AOA首次于美国亮相。2015年11月，AOA发行首张日语正规专辑《Ace of Angels》，再度进军日本。2016年5月，AOA发行第四张迷你专辑《Good Luck》，後發行日語專輯《Run Way》。2017年1月1日發行韓語正規專輯《[Angel's Knock](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》歌曲《[Excuse me](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》和《[Bing Bing](../Page/ANGEL'S_KNOCK_\(AOA專輯\).md "wikilink")》。2018年5月28日AOA发行第五张迷你专辑《[Bingle Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilink")》。2019年8月，出演綜藝節目《Queendom》。2019年11月26日發行第六張迷你專輯 《[New Moon](../Page/NEW_MOON_\(AOA迷你專輯\).md "wikilink")》。
 
@@ -11,9 +11,9 @@
 
 ### 2012－2013年：出道
 
-2012年7月16日至23日，AOA的8名成员[雪炫](../Page/雪炫.md "wikilink")、[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[澯美](../Page/澯美.md "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[智珉](../Page/智珉.md "wikilink")和有庆依次通过照片公开\[1\]\[2\]。AOA以舞团形式公开，一些成员也演奏乐器。
+2012年7月16日至23日，AOA的8名成员[雪炫](../Page/雪炫.md "wikilink")、[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[澯美](../Page/澯美.md "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/酉奈 "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[智珉](../Page/智珉.md "wikilink")和有庆依次通过照片公开\[1\]\[2\]。AOA以舞团形式公开，一些成员也演奏乐器。
 
-FNC解释了她们首次亮相的含义：[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](../Page/雪炫.md "wikilink")、[澯美](../Page/澯美.md "wikilink")以及队长[智珉](../Page/智珉.md "wikilink")为“全天使”\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]，而[有庆则为](https://zh.wikipedia.org/wiki/有庆 "wikilink")“半天使”，因为她只在组合以乐队形式活动时参加\[10\]。这也是AOA自称“7+1”组合的原因\[11\]。
+FNC解释了她们首次亮相的含义：[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/酉奈 "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](../Page/雪炫.md "wikilink")、[澯美](../Page/澯美.md "wikilink")以及队长[智珉](../Page/智珉.md "wikilink")为“全天使”\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]，而[有庆则为](https://zh.wikipedia.org/wiki/有庆 "wikilink")“半天使”，因为她只在组合以乐队形式活动时参加\[10\]。这也是AOA自称“7+1”组合的原因\[11\]。
 
 首张专辑《Angel's Story》于7月28日官方发布两天前泄露\[12\]，主打歌《Elvis》的MV于7月30日释出。之后AOA于8月9日于[M\! Countdown进行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音乐银行表演](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")。
 
@@ -21,13 +21,13 @@ FNC解释了她们首次亮相的含义：[草娥](https://zh.wikipedia.org/wiki
 
 9月，FNC确认AOA将于10月10日以第二张单曲专辑《[Wanna Be](https://zh.wikipedia.org/wiki/Wanna_Be_\(AOA单曲\) "wikilink")》回归，专辑封面一同发布，封面上8名成员扮演了8个虚构人物\[13\]。五人乐队组AOA Black将为主打歌《Get Out》登台表演\[14\]。10月10日，AOA Black在KM音乐三角进行了复出演出\[15\]，12日在音乐银行进行了第二次表演\[16\]。
 
-2013年7月11日，AOA宣布子团AOA Black将携第三张单曲专辑以及主打歌《MOYA》回归。23日，AOA赴日本[东京](../Page/东京.md "wikilink")[Shibuya AX上演首秀](../Page/SHIBUYA-AX.md "wikilink")，献唱了《ELVIS》和《Get Out》，还将日本组合[AKB48](../Page/AKB48.md "wikilink")的单曲《[无限重播](../Page/無限重播.md "wikilink")》重新编曲表演\[17\]。专辑和《MOYA》的MV于7月26日发布，AOA Black同日在KBS音乐银行登台表演\[18\]。10月9日，第四张单曲专辑《[Red Motion](../Page/RED_MOTION.md "wikilink")》的主打歌《动摇》的MV公布\[19\]。完整专辑于10月13日发行，一同公开的还有一段“眼神交流版”的练习室舞蹈剪辑\[20\]。11月，AOA全员出演FNC娱乐筹拍的真人秀《[清潭洞111](../Page/清潭洞111.md "wikilink")》，节目公开了娱乐经纪公司内部发生的故事\[21\]。
+2013年7月11日，AOA宣布子团AOA Black将携第三张单曲专辑以及主打歌《MOYA》回归。23日，AOA赴日本[东京](../Page/东京.md "wikilink")[Shibuya AX上演首秀](../Page/SHIBUYA-AX.md "wikilink")，献唱了《ELVIS》和《Get Out》，还将日本组合[AKB48](../Page/AKB48.md "wikilink")的单曲《[无限重播](../Page/無限重播.md "wikilink")》重新编曲表演\[17\]。专辑和《MOYA》的MV于7月26日发布，AOA Black同日在KBS音乐银行登台表演\[18\]。10月9日，第四张单曲专辑《[Red Motion](https://zh.wikipedia.org/wiki/RED_MOTION "wikilink")》的主打歌《动摇》的MV公布\[19\]。完整专辑于10月13日发行，一同公开的还有一段“眼神交流版”的练习室舞蹈剪辑\[20\]。11月，AOA全员出演FNC娱乐筹拍的真人秀《[清潭洞111](https://zh.wikipedia.org/wiki/清潭洞111 "wikilink")》，节目公开了娱乐经纪公司内部发生的故事\[21\]。
 
 ### 2014－2015年：人气上涨与日本出道
 
-2014年1月16日，AOA发行了第五张单曲专辑《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》，以性感风格回归。专辑由[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")、ElephantKingdom和Galactika制作\[22\]。成员[雪炫](../Page/雪炫.md "wikilink")當時因意外负伤，缺席回归活动，组合該時期以6人组形式亮相\[23\]。2月9日，AOA在[SBS人气歌谣上凭](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")《短裙》赢得了首个音乐节目一位\[24\]。
+2014年1月16日，AOA发行了第五张单曲专辑《[短裙](https://zh.wikipedia.org/wiki/短裙_\(AOA单曲\) "wikilink")》，以性感风格回归。专辑由[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")、ElephantKingdom和Galactika制作\[22\]。成员[雪炫](../Page/雪炫.md "wikilink")當時因意外负伤，缺席回归活动，组合該時期以6人组形式亮相\[23\]。2月9日，AOA在[SBS人气歌谣上凭](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")《短裙》赢得了首个音乐节目一位\[24\]。
 
-6月19日，AOA发布了第一张迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》\[25\]。《短发》的MV在6月的[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")“全球观看次数最多的K-pop视频”（）中排名第8\[26\]。6月27日，AOA于音乐银行的“半年度特别”版和[BESTie](../Page/BESTie.md "wikilink")与[Girl's Day表演了](../Page/Girl's_Day.md "wikilink")[少女时代](../Page/少女时代.md "wikilink")的歌曲《Mr.Mr》\[27\]。10月1日，AOA发行首张日语单曲专辑《短裙》，正式在日本出道\[28\]。
+6月19日，AOA发布了第一张迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》\[25\]。《短发》的MV在6月的[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")“全球观看次数最多的K-pop视频”（）中排名第8\[26\]。6月27日，AOA于音乐银行的“半年度特别”版和[BESTie与](https://zh.wikipedia.org/wiki/BESTie "wikilink")[Girl's Day表演了](https://zh.wikipedia.org/wiki/Girl's_Day "wikilink")[少女时代](../Page/少女时代.md "wikilink")的歌曲《Mr.Mr》\[27\]。10月1日，AOA发行首张日语单曲专辑《短裙》，正式在日本出道\[28\]。
 
 11月11日，AOA发行第二张迷你专辑《[猫步轻悄](../Page/猫步轻悄.md "wikilink")》\[29\]。19日，AOA在Show Champion上以歌曲《猫步轻悄》获得一位\[30\]。主打歌在[YouTube](../Page/YouTube.md "wikilink")点击率突破300万，为感谢粉丝支持，AOA公开了她们身着睡衣的练习室版MV\[31\]。
 
@@ -35,7 +35,7 @@ FNC解释了她们首次亮相的含义：[草娥](https://zh.wikipedia.org/wiki
 
 2015年2月2日，AOA公布了《猫步轻悄》的短MV版本\[32\]，2月25日，AOA发布第二张日语单曲专辑《猫步轻悄》；一同发布的还有《Elvis》和《只有两个人》的日语版\[33\]。《猫步轻悄》登上了[Oricon榜第四名](https://zh.wikipedia.org/wiki/Oricon榜 "wikilink")\[34\]。AOA的真人秀节目《Open Up\! AOA》于2月26日起在门户网站[Naver播出](../Page/NAVER.md "wikilink")。该系列共有10集，包括前鼓手[有庆在内的](https://zh.wikipedia.org/wiki/有庆 "wikilink")8名成员全部参演。\[35\]
 
-2015年4月27日，FNC娛樂推出由[智珉](../Page/智珉.md "wikilink")與[N.Flying](../Page/N.Flying.md "wikilink") [J.Don組成的N](https://zh.wikipedia.org/wiki/李承協 "wikilink") PROJECT \#1的企劃組合，並推出歌曲《GOD》。
+2015年4月27日，FNC娛樂推出由[智珉](../Page/智珉.md "wikilink")與[N.Flying](https://zh.wikipedia.org/wiki/N.Flying "wikilink") [J.Don組成的N](https://zh.wikipedia.org/wiki/李承協 "wikilink") PROJECT \#1的企劃組合，並推出歌曲《GOD》。
 
 6月起，AOA开始拍摄新的真人秀节目——的《美好的一天》，该节目于中国[海南](../Page/海南省.md "wikilink")[南湾猴岛摄制](https://zh.wikipedia.org/wiki/南湾猴岛 "wikilink")，6月13日开播\[36\]。6月2日，AOA证实组合将于本月中旬携《怦然心动》复出，并于6月22日在首尔AX-厅进行表演\[37\]。6月22日，AOA发行第三张迷你专辑《怦然心动》，并首次发布中文歌曲《怦然心动》\[38\]。
 
@@ -45,7 +45,7 @@ FNC解释了她们首次亮相的含义：[草娥](https://zh.wikipedia.org/wiki
 
 ### 2016年：AOA Cream、《Good Luck》、有庆退出
 
-[AOA_Ellesse_Fansign_160408.jpg](https://zh.wikipedia.org/wiki/File:AOA_Ellesse_Fansign_160408.jpg "fig:AOA_Ellesse_Fansign_160408.jpg") 2016年1月1日，AOA宣布将于今年上半年回归，AOA Black也将发行新的歌曲\[42\]。1月21日，AOA获韩国第30届[金唱片奖音源部门本赏](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")\[43\]。1月27日，经纪公司FNC娱乐在接受采访时称[酉奈](../Page/酉奈.md "wikilink")、[惠晶](../Page/惠晶.md "wikilink")和[澯美](../Page/澯美.md "wikilink")将成立一个全新的子组合\[44\]。2月1日，FNC宣布新的子组合名为“[AOA Cream](../Page/AOA_CREAM.md "wikilink")”，她们将于2月12日首次亮相\[45\]\[46\]。2月4日，官方发布了新歌预告，主打歌《会嫉妒哦 BABY》（）由[黑眼必胜打造](https://zh.wikipedia.org/wiki/黑眼必胜 "wikilink")\[47\]。
+[AOA_Ellesse_Fansign_160408.jpg](https://zh.wikipedia.org/wiki/File:AOA_Ellesse_Fansign_160408.jpg "fig:AOA_Ellesse_Fansign_160408.jpg") 2016年1月1日，AOA宣布将于今年上半年回归，AOA Black也将发行新的歌曲\[42\]。1月21日，AOA获韩国第30届[金唱片奖音源部门本赏](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")\[43\]。1月27日，经纪公司FNC娱乐在接受采访时称[酉奈](https://zh.wikipedia.org/wiki/酉奈 "wikilink")、[惠晶](../Page/惠晶.md "wikilink")和[澯美](../Page/澯美.md "wikilink")将成立一个全新的子组合\[44\]。2月1日，FNC宣布新的子组合名为“[AOA Cream](../Page/AOA_CREAM.md "wikilink")”，她们将于2月12日首次亮相\[45\]\[46\]。2月4日，官方发布了新歌预告，主打歌《会嫉妒哦 BABY》（）由[黑眼必胜打造](https://zh.wikipedia.org/wiki/黑眼必胜 "wikilink")\[47\]。
 
 3月2日，[智珉](../Page/智珉.md "wikilink")正式solo出道，推出其首個出道企劃《Outfit Of The Day》，並釋出出道曲《CALL YOU BAE》。
 
@@ -57,9 +57,9 @@ FNC解释了她们首次亮相的含义：[草娥](https://zh.wikipedia.org/wiki
 
 1月2日發行正規專輯《ANGEL'S KNOCK》\[56\]。專輯共收錄十首歌曲，並以兩首主打曲《Excuse Me》及《Bing Bing》正式回歸\[57\]。
 
-5月3日，[AOA於](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")「漣川全谷裡舊石器慶典」表演，[草娥缺席](https://zh.wikipedia.org/wiki/草娥 "wikilink")，其先前演唱歌曲的部分亦改由[酉奈](../Page/酉奈.md "wikilink")及[惠晶](../Page/惠晶.md "wikilink")進行重新錄製。
+5月3日，[AOA於](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")「漣川全谷裡舊石器慶典」表演，[草娥缺席](https://zh.wikipedia.org/wiki/草娥 "wikilink")，其先前演唱歌曲的部分亦改由[酉奈及](https://zh.wikipedia.org/wiki/酉奈 "wikilink")[惠晶](../Page/惠晶.md "wikilink")進行重新錄製。
 
-6月22日，成員[草娥於個人Instagram上正式宣布退出AOA](https://zh.wikipedia.org/wiki/草娥 "wikilink")；[草娥表示退隊原因是目前自己因失眠跟憂鬱症正在接受藥物治療](https://zh.wikipedia.org/wiki/草娥 "wikilink")，兩年前就開始減少活動，但察覺不是身體上的疲勞，而全面停止了活動，因此決定退出團體\[58\]\[59\]。而後[FNC娛樂](../Page/FNC娛樂.md "wikilink")官方聲明，對於[草娥退團此事並不知情](https://zh.wikipedia.org/wiki/草娥 "wikilink")，一切尚在討論中，[草娥退團仍不是確定的事實](https://zh.wikipedia.org/wiki/草娥 "wikilink")。\[60\]《首爾體育》刊出[草娥與Najin產業代表李石鎮從日本旅行後回國時在金浦機場被拍的照片](https://zh.wikipedia.org/wiki/草娥 "wikilink")\[61\]。
+6月22日，成員[草娥於個人Instagram上正式宣布退出AOA](https://zh.wikipedia.org/wiki/草娥 "wikilink")；[草娥表示退隊原因是目前自己因失眠跟憂鬱症正在接受藥物治療](https://zh.wikipedia.org/wiki/草娥 "wikilink")，兩年前就開始減少活動，但察覺不是身體上的疲勞，而全面停止了活動，因此決定退出團體\[58\]\[59\]。而後[FNC娛樂官方聲明](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，對於[草娥退團此事並不知情](https://zh.wikipedia.org/wiki/草娥 "wikilink")，一切尚在討論中，[草娥退團仍不是確定的事實](https://zh.wikipedia.org/wiki/草娥 "wikilink")。\[60\]《首爾體育》刊出[草娥與Najin產業代表李石鎮從日本旅行後回國時在金浦機場被拍的照片](https://zh.wikipedia.org/wiki/草娥 "wikilink")\[61\]。
 
 6月23日，[草娥在個人SNS發文](https://zh.wikipedia.org/wiki/草娥 "wikilink")，再親自表示宣布退團與個人感情無關，本人也沒有懷孕或墮胎\[62\]\[63\]。亦指發文前曾與FNC調節，SNS內容亦是經公司修改後才發文，不明白為何公司會說不知情。
 
@@ -91,6 +91,10 @@ FNC解释了她们首次亮相的含义：[草娥](https://zh.wikipedia.org/wiki
 
 11月14日，確定以迷你6輯《NEW MOON》於11月26日回歸歌壇，主打曲為《날보러와요（Come See Me）》。
 
+### 2020年：《AOA金雪炫生日再捐款30万元为青少年建立休息区》
+
+1月3日，LOVE FNC方面表示：“雪炫在今日生日之际，决定为韩国青少年捐出5000万韩元。”金雪炫所捐赠的款项将用于建立青少年休息场所，保护校外青少年及自立。据悉，金雪炫多年来持续实践着善行，曾在2017年为庆北浦项地震灾民捐赠了5000万韩元，向首尔农业学校捐赠了5000万韩元。去年还为支援低收入青少年和儿童福利中心，向社会福利共同募捐会捐赠了1亿韩元等。
+
 ## 成員列表
 
   - 名字**粗斜體**為隊長
@@ -114,7 +118,7 @@ FNC解释了她们首次亮相的含义：[草娥](https://zh.wikipedia.org/wiki
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2012 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2012 till:2020 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -176,9 +180,9 @@ PlotData =
 
 ### 韓語單曲
 
-  - 《[Angels' Story](../Page/Angels'_Story.md "wikilink")》(2012)
+  - 《[Angels' Story](https://zh.wikipedia.org/wiki/Angels'_Story "wikilink")》(2012)
   - 《[Wanna Be](../Page/Wanna_Be_\(AOA單曲\).md "wikilink")》(2012)
-  - 《[RED MOTION](../Page/RED_MOTION.md "wikilink")》(2013)
+  - 《[RED MOTION](https://zh.wikipedia.org/wiki/RED_MOTION "wikilink")》(2013)
   - 《[短裙](https://zh.wikipedia.org/wiki/短裙_\(AOA單曲\) "wikilink")》(2014)
   - 《[Sorry](https://zh.wikipedia.org/wiki/Sorry_\(AOA單曲\) "wikilink")》(2019)
 
@@ -199,7 +203,7 @@ PlotData =
 
   - 《[怦然心動](https://zh.wikipedia.org/wiki/怦然心動_\(AOA\) "wikilink")》（2015）
 
-### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
+### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
 
 | 成員                                                  | 登記名字      | 編號        | 登記著作   |
 | --------------------------------------------------- | --------- | --------- | ------ |
@@ -229,7 +233,7 @@ PlotData =
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p><a href="../Page/清潭洞111.md" title="wikilink">清潭洞111</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/清潭洞111" title="wikilink">清潭洞111</a></p></td>
 <td><p>全员</p></td>
 <td><p>FNC娱乐的真人秀</p></td>
 </tr>
@@ -282,7 +286,7 @@ PlotData =
 <td><p>10月14日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/挑戰千曲" title="wikilink">挑戰千曲</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a></p></td>
 </tr>
 <tr class="even">
 <td><p>11月11日 - 12月30日</p></td>
@@ -321,7 +325,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>6月29日</p></td>
-<td><p><a href="../Page/兩天一夜.md" title="wikilink">兩天一夜</a>S3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兩天一夜" title="wikilink">兩天一夜S</a>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 <td></td>
@@ -335,7 +339,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>7月22日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/四種秀" title="wikilink">四種秀</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
@@ -344,14 +348,14 @@ PlotData =
 <td><p>7月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/出發吧!夢之隊" title="wikilink">出發吧!夢之隊S</a>2</p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/一週偶像" title="wikilink">一週偶像</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -364,21 +368,21 @@ PlotData =
 <tr class="odd">
 <td><p>8月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/A_Song_For_You" title="wikilink">A Song For YouS</a>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="../Page/我是男人.md" title="wikilink">我是男人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我是男人" title="wikilink">我是男人</a></p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11月1日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="../Page/隱藏歌手.md" title="wikilink">隱藏歌手</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/隱藏歌手" title="wikilink">隱藏歌手</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
@@ -386,13 +390,13 @@ PlotData =
 <td><p>11月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNL" title="wikilink">SNL</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大國民脫口秀-你好" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
@@ -400,7 +404,7 @@ PlotData =
 <td><p>11月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/一週偶像" title="wikilink">一週偶像</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -420,8 +424,8 @@ PlotData =
 <tr class="odd">
 <td><p>12月7日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="../Page/隱藏歌手.md" title="wikilink">隱藏歌手</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/隱藏歌手" title="wikilink">隱藏歌手</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -434,7 +438,7 @@ PlotData =
 <tr class="odd">
 <td><p>12月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/偶像本色.md" title="wikilink">偶像本色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/偶像本色" title="wikilink">偶像本色</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
@@ -456,13 +460,13 @@ PlotData =
 <td><p>1月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/A_Song_For_You" title="wikilink">A Song For YouS</a>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/出發吧!夢之隊" title="wikilink">出發吧!夢之隊S</a>2</p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -475,9 +479,9 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>1月22日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭容和的Hologram" title="wikilink">鄭容和的Hologram</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -490,7 +494,7 @@ PlotData =
 <tr class="odd">
 <td><p>1月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭容和的Hologram" title="wikilink">鄭容和的Hologram</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -498,7 +502,7 @@ PlotData =
 <td><p>2月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/出發吧!夢之隊" title="wikilink">出發吧!夢之隊</a></p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -511,20 +515,20 @@ PlotData =
 <tr class="even">
 <td><p>2月20日</p></td>
 <td><p>新春特輯 <a href="https://zh.wikipedia.org/wiki/王者的游戲" title="wikilink">王者的游戲</a></p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
-<td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little Television試播</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little Television試播</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月28日</p></td>
-<td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little Television試播</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little Television試播</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -539,34 +543,34 @@ PlotData =
 <tr class="even">
 <td><p>4月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
-<td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-1 (MLT-01-上半部)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little TelevisionEP</a>-1 (MLT-01-上半部)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Running_Man" title="wikilink">Running Man</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
-<td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-2 (MLT-01-下半部)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little TelevisionEP</a>-2 (MLT-01-下半部)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月9日</p></td>
-<td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-3 (MLT-02-上半部)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little TelevisionEP</a>-3 (MLT-02-上半部)</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月12日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/四種秀" title="wikilink">四種秀</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
@@ -574,7 +578,7 @@ PlotData =
 <tr class="odd">
 <td><p>5月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
-<td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-4 (MLT-02-下半部)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little TelevisionEP</a>-4 (MLT-02-下半部)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
@@ -610,7 +614,7 @@ PlotData =
 <td><p>6月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/一週偶像" title="wikilink">一週偶像</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -630,14 +634,14 @@ PlotData =
 <tr class="odd">
 <td><p>7月15日</p></td>
 <td><p>维他命<a href="https://zh.wikipedia.org/wiki/비타민" title="wikilink">비타민</a></p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大國民脫口秀-你好" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
 <td></td>
 </tr>
@@ -645,7 +649,7 @@ PlotData =
 <td><p>7月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/A_Song_For_You" title="wikilink">A Song For YouS</a>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -665,13 +669,13 @@ PlotData =
 <tr class="even">
 <td><p>10月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
-<td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-1 (MLT-12-上半部)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little TelevisionEP</a>-1 (MLT-12-上半部)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10月10日</p></td>
-<td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little TelevisionEP</a>-2 (MLT-12-下半部)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little TelevisionEP</a>-2 (MLT-12-下半部)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -693,7 +697,7 @@ PlotData =
 <tr class="even">
 <td><p>11月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/兩天一夜.md" title="wikilink">兩天一夜</a>S3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兩天一夜" title="wikilink">兩天一夜S</a>3</p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a> 早安天使</p></td>
 <td></td>
 </tr>
@@ -707,7 +711,7 @@ PlotData =
 <tr class="even">
 <td><p>1月16日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="../Page/隱藏歌手.md" title="wikilink">隱藏歌手</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/隱藏歌手" title="wikilink">隱藏歌手</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a></p></td>
 <td></td>
 </tr>
@@ -729,7 +733,7 @@ PlotData =
 <td><p>2月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">偶像明星運動會</a>（春節特輯）</p></td>
-<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -742,13 +746,13 @@ PlotData =
 <tr class="odd">
 <td><p>2月15日</p></td>
 <td></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月15日</p></td>
-<td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大國民脫口秀-你好" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 <td></td>
@@ -770,7 +774,7 @@ PlotData =
 <tr class="odd">
 <td><p>4月3日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Running_Man" title="wikilink">Running Man</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -805,7 +809,7 @@ PlotData =
 <tr class="even">
 <td><p>6月2日、9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/維他命" title="wikilink">維他命</a></p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -862,14 +866,14 @@ PlotData =
 <td><p>1月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/TRICK&amp;TRUE.md" title="wikilink">TRICK&amp;TRUE</a></p></td>
-<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月7日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a></p></td>
-<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="../Page/酉奈.md" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a> <a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a> <a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a> <a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -882,7 +886,7 @@ PlotData =
 <tr class="odd">
 <td><p>1月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大國民脫口秀-你好" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a> <a href="../Page/惠晶.md" title="wikilink">惠晶</a></p></td>
 <td></td>
 </tr>
@@ -924,7 +928,7 @@ PlotData =
 <tr class="odd">
 <td><p>2月11日、18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/My_Little_Television.md" title="wikilink">My Little Television</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Little_Television" title="wikilink">My Little Television</a></p></td>
 <td><p><a href="../Page/珉娥.md" title="wikilink">珉娥</a> <a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
@@ -1001,7 +1005,7 @@ PlotData =
 <tr class="even">
 <td><p>5月27日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Running_Man" title="wikilink">Running Man</a></p></td>
 <td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
@@ -1013,7 +1017,7 @@ PlotData =
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a></p></td>
 <td><p>全員</p></td>
 <td></td>
 <td></td>
@@ -1042,7 +1046,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>6月4日</p></td>
-<td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大國民脫口秀-你好" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p><a href="../Page/珉娥.md" title="wikilink">珉娥</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 <td></td>
@@ -1050,14 +1054,14 @@ PlotData =
 <tr class="odd">
 <td><p>6月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p><a href="../Page/SUPER_TV.md" title="wikilink">SUPER TV</a> 2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUPER_TV" title="wikilink">SUPER TV</a> 2</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2 TV</a></p></td>
 <td><p><a href="../Page/歡樂在一起.md" title="wikilink">Happy Together</a> 3</p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1079,7 +1083,7 @@ PlotData =
 <td><p>6月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2 TV</a></p></td>
 <td><p><a href="../Page/歡樂在一起.md" title="wikilink">Happy Together</a> 3</p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1106,15 +1110,15 @@ PlotData =
 <tr class="odd">
 <td><p>6月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/意外的Q.md" title="wikilink">意外的Q</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/意外的Q" title="wikilink">意外的Q</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月1日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="../Page/隱藏歌手.md" title="wikilink">隱藏歌手</a></p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a>、<a href="../Page/惠晶.md" title="wikilink">惠晶</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/隱藏歌手" title="wikilink">隱藏歌手</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a>、<a href="../Page/惠晶.md" title="wikilink">惠晶</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1135,7 +1139,7 @@ PlotData =
 <td><p>11月11日、18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a></p></td>
-<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酉奈" title="wikilink">酉奈</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1147,14 +1151,14 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>12月1日、8日</p></td>
-<td><p><a href="../Page/Lifestyle.md" title="wikilink">Lifestyle</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lifestyle" title="wikilink">Lifestyle</a></p></td>
 <td><p><a href="../Page/睡衣朋友.md" title="wikilink">睡衣朋友</a></p></td>
 <td><p><a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>12月20日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="../Page/不是你所認識的我.md" title="wikilink">不是你所認識的我</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
@@ -1163,12 +1167,12 @@ PlotData =
 <td><p>2019</p></td>
 <td><p>1月16日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/白種元的胡同餐館.md" title="wikilink">白種元的胡同餐館</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白種元的胡同餐館" title="wikilink">白種元的胡同餐館</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1月27日</p></td>
-<td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Running_Man" title="wikilink">Running Man</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
 <td></td>
 <td></td>
@@ -1196,7 +1200,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>8月29日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="../Page/Queendom_(韓國綜藝).md" title="wikilink">Queendom</a></p></td>
 <td><p>全員</p></td>
 <td></td>
@@ -1210,7 +1214,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>11月26日</p></td>
-<td><p><a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1225,14 +1229,14 @@ PlotData =
 <tr class="even">
 <td><p>12月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Running_Man" title="wikilink">Running Man</a></p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月21日、28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/全知干預視角.md" title="wikilink">全知干預視角</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全知干預視角" title="wikilink">全知干預視角</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
 </tr>
@@ -1419,53 +1423,53 @@ PlotData =
 
   - 其他大型演唱會
 
-| 年份       | |日期                                   | |演唱會名稱                                                              | |舉行地點                                           |
-| -------- | ------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------- |
-| 2013年    | 5月24日                                 | 2013 Digital & Music Matters K-POP Night Out                        | 新加坡-克拉碼頭廣場                                      |
-| 11月16日   | Sundown Festival 2013                 | 新加坡-濱海灣                                                             |                                                 |
-| 2014年    | 3月15-16日                              | 2013 FNC KINGDOM IN JAPAN -Fantastic & Crazy                        | [日本武道館](../Page/日本武道館.md "wikilink")            |
-| 8月17日    | Japan's A-Nation (Nation Day) 2014    | Asia Progress ～Departure～                                           |                                                 |
-| 9月7日     | Tokyo Runway 2014                     | 日本千葉縣[幕張展覽館](../Page/幕張展覽館.md "wikilink")                           |                                                 |
-| 12月20日   | 2014 FNC KINGDOM IN JAPAN -Starlight- | 日本千葉縣[幕張展覽館](../Page/幕張展覽館.md "wikilink")                           |                                                 |
-| 12月27日   | 2014 FNC KINGDOM IN JAPAN -Starlight- | 大阪-大阪城Hall                                                          |                                                 |
-| 2015年    | 4月25日                                 | Unpretty Rapstar Concert                                            | [高麗大學](../Page/高麗大學.md "wikilink")花亭體育館         |
-| 5月02-03日 | 2015 FNC KINGDOM IN SEOUL             | [首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")                            |                                                 |
-| 5月16-17日 | 2015 FNC KINGDOM IN HONG KONG         | 香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")                          |                                                 |
-| 8月2日     | KCON 2015 LA                          | 洛杉磯[史坦波中心](https://zh.wikipedia.org/wiki/史坦波中心 "wikilink")          |                                                 |
-| 8月8日     | KCON 2015 NY                          | 紐華克普天壽中心                                                            |                                                 |
-| 2016年    | 1月20-21日                              | 第30屆金唱片獎                                                            | [慶熙大學](../Page/慶熙大學.md "wikilink")平和殿堂          |
-| 2月17日    | Gaon Chart K-POP Awards               | [奧林匹克公園奧林匹克館](https://zh.wikipedia.org/wiki/奧林匹克公園 "wikilink")      |                                                 |
-| 3月18日    | 香港亞洲流行音樂節                             | [香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")                          |                                                 |
-| 4月9日     | KCON 2016 in JAPAN                    | 日本千葉縣[幕張展覽館](../Page/幕張展覽館.md "wikilink")                           |                                                 |
-| 7月30-31日 | MBC Korean Music Wave                 | 日本[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")                                |                                                 |
-| 9月3日     | MBC Show Champion in 馬尼拉              | [亞洲購物中心體育館](../Page/亞洲購物中心體育館.md "wikilink")                        |                                                 |
-| 9月7日     | 2018年平昌冬季奧運會                          | 首爾高尺洞巨蛋                                                             |                                                 |
-| 9月24日    | 仁川 K-POP 演唱會                          | 首爾仁川文鶴競技場                                                           |                                                 |
-| 9月30日    | 韓流慶典 K-POP 演唱會                        | 首爾江南永東大路 COEX 廣場                                                    |                                                 |
-| 10月8日    | DMC Festival 2016 Korean Music Wave   | 首爾上岩文化廣場                                                            |                                                 |
-| 10月23日   | 釜山 One-Asia Festival                  | 釜山亞運會主競技場                                                           |                                                 |
-| 11月11日   | KBS Open Concert                      | 濟州綜合體育場                                                             |                                                 |
-| 11月16日   | 2016 Asia Artist Award                | [慶熙大學](../Page/慶熙大學.md "wikilink")和平殿堂                              |                                                 |
-| 11月27日   | 2016 Super Seoul Dream Concert        | 首爾高尺洞巨蛋                                                             |                                                 |
-| 12月26日   | 2016 SBS 歌謠大戰                         | 首爾江南區三成洞COEX                                                        |                                                 |
-| 12月29日   | 2016 KBS 歌謠大慶典                        | 首爾汝矣島KBS HALL                                                       |                                                 |
-| 12月31日   | 2016 MBC 歌謠大祭典                        | 首爾MBC夢想中心                                                           |                                                 |
-| 2017年    | 3月2日                                  | 2017 GLOBAL PEACE CONCERT ONE K                                     | 馬尼拉[亞洲購物中心體育館](../Page/亞洲購物中心體育館.md "wikilink") |
-| 4月11日    | 2017 SHOW DC SUMMER FEST              | 曼谷-SHOW DC                                                          |                                                 |
-| 7月18日    | EXPO 2017 Astana K-Culture Party      | 哈薩克-Saryarka Velodrome                                              |                                                 |
-| 2018年    | 8月2日                                  | 2018 KOREA MUSIC FESTIVAL                                           | 首爾[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")        |
-| 8月18日    | 2018 K-WAVE 3 Music Festival Malaysia | 馬來西亞莎亚南[美拉华蒂体育馆](../Page/美拉华蒂体育馆.md "wikilink")                     |                                                 |
-| 8月30日    | 2018 SORIBADA BEST K-MUSIC AWARDS     | [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |                                                 |
-| 9月1日     | 2018 Incheon K-POP Concert            | [仁川文鶴競技場](../Page/仁川文鶴競技場.md "wikilink")                            |                                                 |
-| 9月8日     | 2018 Hallyu Pop Fest                  | [新加坡室內體育館](https://zh.wikipedia.org/wiki/新加坡室內體育館 "wikilink")       |                                                 |
-| 9月9日     | 2018 大邱路 K-POP FESTIVAL               | 大邱 頭流棒球場                                                            |                                                 |
-| 9月14日    | 第29屆 慶尚南道生活體育大祝祭                      | 金海運動場                                                               |                                                 |
-| 10月11日   | 馬來西亞 三星Galaxy Event                   | 吉隆坡W酒店                                                              |                                                 |
-| 10月13日   | 2018 亞洲帕拉運動會 閉幕式                      | [朋卡諾體育場](../Page/朋卡諾體育場.md "wikilink")                              |                                                 |
-| 10月20日   | 第四屆 馬漢文化節                             | 國立羅州博物館                                                             |                                                 |
-| 10月27日   | 浦項 2018 BIG K-POP FESTIVA             | 浦項運動場                                                               |                                                 |
-| 11月4日    | 2018 濟州 韓流慶典                          | 濟州綜合競技場                                                             |                                                 |
-|          |                                       |                                                                     |                                                 |
+| 年份       | |日期                                   | |演唱會名稱                                                              | |舉行地點                                                              |
+| -------- | ------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 2013年    | 5月24日                                 | 2013 Digital & Music Matters K-POP Night Out                        | 新加坡-克拉碼頭廣場                                                         |
+| 11月16日   | Sundown Festival 2013                 | 新加坡-濱海灣                                                             |                                                                    |
+| 2014年    | 3月15-16日                              | 2013 FNC KINGDOM IN JAPAN -Fantastic & Crazy                        | [日本武道館](../Page/日本武道館.md "wikilink")                               |
+| 8月17日    | Japan's A-Nation (Nation Day) 2014    | Asia Progress ～Departure～                                           |                                                                    |
+| 9月7日     | Tokyo Runway 2014                     | 日本千葉縣[幕張展覽館](../Page/幕張展覽館.md "wikilink")                           |                                                                    |
+| 12月20日   | 2014 FNC KINGDOM IN JAPAN -Starlight- | 日本千葉縣[幕張展覽館](../Page/幕張展覽館.md "wikilink")                           |                                                                    |
+| 12月27日   | 2014 FNC KINGDOM IN JAPAN -Starlight- | 大阪-大阪城Hall                                                          |                                                                    |
+| 2015年    | 4月25日                                 | Unpretty Rapstar Concert                                            | [高麗大學](../Page/高麗大學.md "wikilink")花亭體育館                            |
+| 5月02-03日 | 2015 FNC KINGDOM IN SEOUL             | [首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")                            |                                                                    |
+| 5月16-17日 | 2015 FNC KINGDOM IN HONG KONG         | 香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")                          |                                                                    |
+| 8月2日     | KCON 2015 LA                          | 洛杉磯[史坦波中心](https://zh.wikipedia.org/wiki/史坦波中心 "wikilink")          |                                                                    |
+| 8月8日     | KCON 2015 NY                          | 紐華克普天壽中心                                                            |                                                                    |
+| 2016年    | 1月20-21日                              | 第30屆金唱片獎                                                            | [慶熙大學](../Page/慶熙大學.md "wikilink")平和殿堂                             |
+| 2月17日    | Gaon Chart K-POP Awards               | [奧林匹克公園奧林匹克館](https://zh.wikipedia.org/wiki/奧林匹克公園 "wikilink")      |                                                                    |
+| 3月18日    | 香港亞洲流行音樂節                             | [香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")                          |                                                                    |
+| 4月9日     | KCON 2016 in JAPAN                    | 日本千葉縣[幕張展覽館](../Page/幕張展覽館.md "wikilink")                           |                                                                    |
+| 7月30-31日 | MBC Korean Music Wave                 | 日本[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")                                |                                                                    |
+| 9月3日     | MBC Show Champion in 馬尼拉              | [亞洲購物中心體育館](https://zh.wikipedia.org/wiki/亞洲購物中心體育館 "wikilink")     |                                                                    |
+| 9月7日     | 2018年平昌冬季奧運會                          | 首爾高尺洞巨蛋                                                             |                                                                    |
+| 9月24日    | 仁川 K-POP 演唱會                          | 首爾仁川文鶴競技場                                                           |                                                                    |
+| 9月30日    | 韓流慶典 K-POP 演唱會                        | 首爾江南永東大路 COEX 廣場                                                    |                                                                    |
+| 10月8日    | DMC Festival 2016 Korean Music Wave   | 首爾上岩文化廣場                                                            |                                                                    |
+| 10月23日   | 釜山 One-Asia Festival                  | 釜山亞運會主競技場                                                           |                                                                    |
+| 11月11日   | KBS Open Concert                      | 濟州綜合體育場                                                             |                                                                    |
+| 11月16日   | 2016 Asia Artist Award                | [慶熙大學](../Page/慶熙大學.md "wikilink")和平殿堂                              |                                                                    |
+| 11月27日   | 2016 Super Seoul Dream Concert        | 首爾高尺洞巨蛋                                                             |                                                                    |
+| 12月26日   | 2016 SBS 歌謠大戰                         | 首爾江南區三成洞COEX                                                        |                                                                    |
+| 12月29日   | 2016 KBS 歌謠大慶典                        | 首爾汝矣島KBS HALL                                                       |                                                                    |
+| 12月31日   | 2016 MBC 歌謠大祭典                        | 首爾MBC夢想中心                                                           |                                                                    |
+| 2017年    | 3月2日                                  | 2017 GLOBAL PEACE CONCERT ONE K                                     | 馬尼拉[亞洲購物中心體育館](https://zh.wikipedia.org/wiki/亞洲購物中心體育館 "wikilink") |
+| 4月11日    | 2017 SHOW DC SUMMER FEST              | 曼谷-SHOW DC                                                          |                                                                    |
+| 7月18日    | EXPO 2017 Astana K-Culture Party      | 哈薩克-Saryarka Velodrome                                              |                                                                    |
+| 2018年    | 8月2日                                  | 2018 KOREA MUSIC FESTIVAL                                           | 首爾[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")                           |
+| 8月18日    | 2018 K-WAVE 3 Music Festival Malaysia | 馬來西亞莎亚南[美拉华蒂体育馆](../Page/美拉华蒂体育馆.md "wikilink")                     |                                                                    |
+| 8月30日    | 2018 SORIBADA BEST K-MUSIC AWARDS     | [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |                                                                    |
+| 9月1日     | 2018 Incheon K-POP Concert            | [仁川文鶴競技場](../Page/仁川文鶴競技場.md "wikilink")                            |                                                                    |
+| 9月8日     | 2018 Hallyu Pop Fest                  | [新加坡室內體育館](https://zh.wikipedia.org/wiki/新加坡室內體育館 "wikilink")       |                                                                    |
+| 9月9日     | 2018 大邱路 K-POP FESTIVAL               | 大邱 頭流棒球場                                                            |                                                                    |
+| 9月14日    | 第29屆 慶尚南道生活體育大祝祭                      | 金海運動場                                                               |                                                                    |
+| 10月11日   | 馬來西亞 三星Galaxy Event                   | 吉隆坡W酒店                                                              |                                                                    |
+| 10月13日   | 2018 亞洲帕拉運動會 閉幕式                      | [朋卡諾體育場](https://zh.wikipedia.org/wiki/朋卡諾體育場 "wikilink")           |                                                                    |
+| 10月20日   | 第四屆 馬漢文化節                             | 國立羅州博物館                                                             |                                                                    |
+| 10月27日   | 浦項 2018 BIG K-POP FESTIVA             | 浦項運動場                                                               |                                                                    |
+| 11月4日    | 2018 濟州 韓流慶典                          | 濟州綜合競技場                                                             |                                                                    |
+|          |                                       |                                                                     |                                                                    |
 
 ## 奖项与提名
 
@@ -1494,7 +1498,7 @@ PlotData =
 <td><p>2013年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/RED_MOTION.md" title="wikilink">RED MOTION</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RED_MOTION" title="wikilink">RED MOTION</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
@@ -1561,7 +1565,7 @@ PlotData =
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet媒體" title="wikilink">Mnet</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -1575,7 +1579,7 @@ PlotData =
 
 ## 爭議
 
-  - 2016年5月3日，在一段 Channel AOA 實境秀上歷史測驗的環節，智珉與雪炫兩人在答題時，沒有認出朝鮮著名的獨立運動家[安重根](../Page/安重根.md "wikilink")，誤答成[金斗漢](../Page/金斗漢.md "wikilink")，最後透過網路搜索尋得答案，但節目播出後引起許多爭議和不滿\[80\]。5月12日，智珉、雪炫發文表達歉意。\[81\]5月13日Channel AOA 製作公司OnStyle 方面表示“該集是以速度遊戲的概念進行，由於雪炫、智珉組要與其他組競爭，所以狀況較為緊急。關於我們國家的重要歷史，製作單位應該更謹慎地進行製作，造成大家的困擾，我們非常抱歉，未來會多加注意\[82\]。”
+  - 2016年5月3日，在一段 Channel AOA 實境秀上歷史測驗的環節，智珉與雪炫兩人在答題時，沒有認出朝鮮著名的獨立運動家[安重根](../Page/安重根.md "wikilink")，誤答成[金斗漢](https://zh.wikipedia.org/wiki/金斗漢 "wikilink")，最後透過網路搜索尋得答案，但節目播出後引起許多爭議和不滿\[80\]。5月12日，智珉、雪炫發文表達歉意。\[81\]5月13日Channel AOA 製作公司OnStyle 方面表示“該集是以速度遊戲的概念進行，由於雪炫、智珉組要與其他組競爭，所以狀況較為緊急。關於我們國家的重要歷史，製作單位應該更謹慎地進行製作，造成大家的困擾，我們非常抱歉，未來會多加注意\[82\]。”
   - 2016年5月16日，AOA在凌晨12點公開新歌《Good Luck》MV，被指MV中出現日本汽車標誌，引起網友反彈。經紀公司FNC在公開MV數小時後，刪除並上傳新版本，把日系車品牌標誌打上馬賽克\[83\]。
 
 ## 參考資料
@@ -1605,7 +1609,6 @@ PlotData =
 
 <!-- end list -->
 
-  -
   -
   -
   -

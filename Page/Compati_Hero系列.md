@@ -14,14 +14,14 @@
   - 《[SD大相扑](https://zh.wikipedia.org/wiki/SD大相扑 "wikilink")》（*SD Battle Ōzumō: Heisei Hero Basho*，[FC游戏机](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")－1990年4月20日）
       -
         Compati Hero首部作品，以日本傳統[相撲](../Page/相撲.md "wikilink")為題材的距作品聯乘遊戲，也是[超級戰隊系列唯一出現作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")。
-        參與作品﹕[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人七號](../Page/超人七號.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")、[幪面超人V3](../Page/假面騎士V3.md "wikilink")、[幪面超人Black RX](../Page/假面騎士BLACK_RX.md "wikilink")、[高速戰隊渦輪連者](../Page/高速戰隊渦輪連者.md "wikilink")、[超獸戰隊生命人](../Page/超獸戰隊生命人.md "wikilink")、[光戰隊覆面人](../Page/光戰隊覆面人.md "wikilink")
+        參與作品﹕[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人七號](../Page/超人七號.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")、[幪面超人V3](../Page/假面騎士V3.md "wikilink")、[幪面超人Black RX](https://zh.wikipedia.org/wiki/假面騎士BLACK_RX "wikilink")、[高速戰隊渦輪連者](../Page/高速戰隊渦輪連者.md "wikilink")、[超獸戰隊生命人](../Page/超獸戰隊生命人.md "wikilink")、[光戰隊覆面人](../Page/光戰隊覆面人.md "wikilink")
 
 <!-- end list -->
 
   - 《[SD英雄总决战: 打倒\!邪恶军团](https://zh.wikipedia.org/wiki/SD英雄总决战:_打倒!邪恶军团 "wikilink")》（FC游戏机－1990年7月7日）
       -
         Compati Hero第二作、也是首部橫向捲軸動作遊戲，成為日後[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")「SD英雄之挑戰(SD快打系列)」遊戲基礎。
-        參與作品﹕[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")、[幪面超人V3](../Page/假面騎士V3.md "wikilink")、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")、[宇宙刑事Shaider](../Page/宇宙刑事Shaider.md "wikilink")、[機動刑事](../Page/機動刑事.md "wikilink")
+        參與作品﹕[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")、[幪面超人V3](../Page/假面騎士V3.md "wikilink")、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")、[宇宙刑事Shaider](../Page/宇宙刑事Shaider.md "wikilink")、[機動刑事](../Page/機動刑事.md "wikilink")
 
 <!-- end list -->
 
@@ -42,29 +42,29 @@
 
   - 《SD英雄之挑战2》（*The Great Battle II: Last Fighter Twin*，港譯「SD快打2」，超级任天堂－1992年3月27日）
       -
-        SD英雄之挑戰第二部作、超任主機中回歸橫向捲軸方式的首部遊戲。遊戲以拳腳格鬥為主，本作首次加入[バンプレストオリジナル角色羅亞](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")。自此確立系列裡只有「高達—超人—幪面超人—羅亞」四大系列出場的慣例。
-        參與作品﹕[機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人Black RX](../Page/假面騎士BLACK_RX.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")
+        SD英雄之挑戰第二部作、超任主機中回歸橫向捲軸方式的首部遊戲。遊戲以拳腳格鬥為主，本作首次加入[バンプレストオリジナル角色羅亞](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")。自此確立系列裡只有「高達—超人—幪面超人—羅亞」四大系列出場的慣例。
+        參與作品﹕[機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0080：口袋裡的戰爭 "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人Black RX](https://zh.wikipedia.org/wiki/假面騎士BLACK_RX "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")
 
 <!-- end list -->
 
   - 《SD英雄之挑战3》（*The Great Battle III*，港譯「SD快打3」，超级任天堂－1993年3月26日）
       -
         SD英雄之挑戰第三部作、舞台變成中世紀騎士風格，因此武器也變成長劍、鐵球、長槍、弓箭。本作也是首次加入「商店」模式。
-        參與作品﹕[機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")(敵方角色)、[機動戰士GUNDAM0083](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083 "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人Black RX](../Page/假面騎士BLACK_RX.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")
+        參與作品﹕[機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0080：口袋裡的戰爭 "wikilink")(敵方角色)、[機動戰士GUNDAM0083](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083 "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人Black RX](https://zh.wikipedia.org/wiki/假面騎士BLACK_RX "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")
 
 <!-- end list -->
 
   - 《SD英雄之挑战4》（*The Great Battle IV*，港譯「SD快打4」，超级任天堂－1994年12月17日）
       -
         SD英雄之挑戰第四部作、舞台變成未來風格，武器也從格鬥為主，一律變成鎗、炮等射擊武器。本作最大特色，是在Boss決戰時，變成操作巨大機器人、透過指定按鈕組合進行戰鬥方式。
-        參與作品﹕[機動戰士VGUNDAM](https://zh.wikipedia.org/wiki/機動戰士VGUNDAM "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")(敵方角色)、[機動戰士GUNDAM0083](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083 "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[帕瓦特·奥特曼](../Page/帕瓦特·奥特曼.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")(敵方角色)、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人ZO](../Page/假面騎士ZO.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")
+        參與作品﹕[機動戰士VGUNDAM](https://zh.wikipedia.org/wiki/機動戰士VGUNDAM "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0080：口袋裡的戰爭 "wikilink")(敵方角色)、[機動戰士GUNDAM0083](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083 "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[帕瓦特·奥特曼](../Page/帕瓦特·奥特曼.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")(敵方角色)、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人ZO](https://zh.wikipedia.org/wiki/假面騎士ZO "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")
 
 <!-- end list -->
 
   - 《SD英雄之挑战5》（*The Great Battle V*，港譯「SD快打5」，超级任天堂－1995年12月22日）
       -
         SD英雄之挑戰第五部作，也是超任系列最後一款正傳遊戲、舞台變成西部牛仔風格，本作最大特色，是在Boss決戰時，變成主觀視角射擊模式。此舉是為了支援當時推出的超任手槍遊戲把手。
-        參與作品﹕[機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人Black RX](../Page/假面騎士BLACK_RX.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")
+        參與作品﹕[機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0080：口袋裡的戰爭 "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人Black RX](https://zh.wikipedia.org/wiki/假面騎士BLACK_RX "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")
 
 <!-- end list -->
 
@@ -158,7 +158,7 @@
 ### 其他
 
   - *Battle Formation*（[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")－1997年11月13日）
-  - *Tokusatsu Bouken Katsugeki Super Hero Retsuden*（[Dreamcast](../Page/Dreamcast.md "wikilink")－2000年7月27日）（由[ALU開發](https://zh.wikipedia.org/wiki/ALU_\(公司\) "wikilink"))
+  - *Tokusatsu Bouken Katsugeki Super Hero Retsuden*（[Dreamcast](https://zh.wikipedia.org/wiki/Dreamcast "wikilink")－2000年7月27日）（由[ALU開發](https://zh.wikipedia.org/wiki/ALU_\(公司\) "wikilink"))
   - *The Great Battle III*（[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")）
 
 ## 相关条目
@@ -170,7 +170,7 @@
 ## 外部链接
 
   - [Official web portal](https://web.archive.org/web/20111227160951/http://compati.channel.or.jp/)
-  - [Fighter Roar](http://www.giantbomb.com/fighter-roar/94-23148/) at [Giant Bomb](../Page/Giant_Bomb.md "wikilink")
+  - [Fighter Roar](http://www.giantbomb.com/fighter-roar/94-23148/) at [Giant Bomb](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")
 
 [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:SD作品](https://zh.wikipedia.org/wiki/Category:SD作品 "wikilink")
 

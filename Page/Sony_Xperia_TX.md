@@ -15,8 +15,8 @@ Sony Xperia TX具備4.55吋Reality Display屏幕，解像度為1280 x 720 HD。�
 
 ## 作業系統
 
-Xperia TX採用[Android](../Page/Android.md "wikilink") 4.0.4 Ice Cream Sandwich作業系統，取得[PlayStation](../Page/PlayStation.md "wikilink") Certified認證，並可登入Sony Entertainment Network。
-現已可升級至[Android](../Page/Android.md "wikilink") 4.3 Jelly Bean作業系統，不過不支援升級至[Android](../Page/Android.md "wikilink") 4.4。
+Xperia TX採用[Android](https://zh.wikipedia.org/wiki/Android "wikilink") 4.0.4 Ice Cream Sandwich作業系統，取得[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink") Certified認證，並可登入Sony Entertainment Network。
+現已可升級至[Android](https://zh.wikipedia.org/wiki/Android "wikilink") 4.3 Jelly Bean作業系統，不過不支援升級至[Android](https://zh.wikipedia.org/wiki/Android "wikilink") 4.4。
 
 ## 顏色
 
@@ -39,7 +39,7 @@ Xperia TX採用[Android](../Page/Android.md "wikilink") 4.0.4 Ice Cream Sandwich
 ## 參見
 
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
-  - [Xperia](../Page/Xperia.md "wikilink")
+  - [Xperia](https://zh.wikipedia.org/wiki/Xperia "wikilink")
   - [Sony Xperia T](https://zh.wikipedia.org/wiki/Sony_Xperia_T "wikilink")
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")

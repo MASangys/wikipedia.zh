@@ -1,7 +1,7 @@
 > 本文内容由[志和IC](https://zh.wikipedia.org/wiki/志和IC)转换而来。
 
 
-**志和IC**（平假名：しわインターチェンジ）是位於[廣島縣](../Page/廣島縣.md "wikilink")[東廣島市](../Page/東廣島市.md "wikilink")的[山陽自動車道](../Page/山陽自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
+**志和IC**（平假名：しわインターチェンジ）是位於[廣島縣](../Page/廣島縣.md "wikilink")[東廣島市](../Page/東廣島市.md "wikilink")的[山陽自動車道之](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -16,7 +16,7 @@
 
 ## 歷史
 
-  - 1987年3月24日 - [山陽自動車道](../Page/山陽自動車道.md "wikilink")志和IC至[廣島東IC之間開通](https://zh.wikipedia.org/wiki/廣島東IC "wikilink")，此交流道也同時啟用。
+  - 1987年3月24日 - [山陽自動車道志和IC至](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[廣島東IC之間開通](https://zh.wikipedia.org/wiki/廣島東IC "wikilink")，此交流道也同時啟用。
   - 1988年7月27日 - 山陽自動車道[西條IC](../Page/西條IC.md "wikilink")至志和IC之間開通。
 
 ## 收費站設施
@@ -38,7 +38,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
+  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
     (26)[西條IC](../Page/西條IC.md "wikilink") - (27)**志和IC** - [奧屋PA](https://zh.wikipedia.org/wiki/奧屋PA "wikilink") - (28,28-1)[廣島東IC](https://zh.wikipedia.org/wiki/廣島東IC "wikilink")
 
 ## 相關項目

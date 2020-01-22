@@ -7,7 +7,7 @@
 
 Lizzy的家鄉為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")，她因為參加當地音樂選秀節目，偶然在後台遇到[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")公司的企劃長，被邀請去試音而錄取成為練習生，並於2010年3月加入女團[After School出道](../Page/After_School.md "wikilink")。\[3\]
 
-Lizzy出道初期，由於尚未熟悉首爾方言，時常在節目中使用釜山方言，因而有了「方言少女」、「釜山少女」等綽號，使用方言的習慣也廣受喜愛，再加上活潑開朗的個性，於節目中直白而不扭捏造作的表現，使得Lizzy儼然成為了綜藝界的新寵，在當時接下許多綜藝節目的邀約，例如《[Happy Together](https://zh.wikipedia.org/wiki/Happy_Together "wikilink")》、\[4\]《改變世界問答》，並成為《[Running Man](../Page/Running_Man.md "wikilink")》的固定成員，\[5\]但後來因表現不理想而被迫離開主持。\[6\]
+Lizzy出道初期，由於尚未熟悉首爾方言，時常在節目中使用釜山方言，因而有了「方言少女」、「釜山少女」等綽號，使用方言的習慣也廣受喜愛，再加上活潑開朗的個性，於節目中直白而不扭捏造作的表現，使得Lizzy儼然成為了綜藝界的新寵，在當時接下許多綜藝節目的邀約，例如《[Happy Together](https://zh.wikipedia.org/wiki/Happy_Together "wikilink")》、\[4\]《改變世界問答》，並成為《[Running Man](https://zh.wikipedia.org/wiki/Running_Man "wikilink")》的固定成員，\[5\]但後來因表現不理想而被迫離開主持。\[6\]
 
 在綜藝節目裡用釜山方言發揮口才活躍的Lizzy也進軍演劇界，於《[全部我的愛](https://zh.wikipedia.org/wiki/全部我的愛 "wikilink")》、《[兒子傢伙們](../Page/兒子傢伙們.md "wikilink")》兩部劇中飾演的角色都有內心苦惱的愛情線，和男主角有眾多對手戲。Lizzy累積一些演戲經驗後，把握機會參加試鏡爭取到《今天的戀愛》與《MOMO髮廊》演出，其中《MOMO髮廊》還是首部擔任女主角的作品。\[7\]
 
@@ -41,19 +41,19 @@ Lizzy剛加入After School時，最早在〈Bang\!〉的歌曲中，歌詞僅有
 
 ## 綜藝節目
 
-  - 2010年： [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") 《[Running Man](../Page/Running_Man.md "wikilink")》 固定成员 (第20－25集) 、嘉宾 （第13－14、18－19、292集）
+  - 2010年： [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") 《[Running Man](https://zh.wikipedia.org/wiki/Running_Man "wikilink")》 固定成员 (第20－25集) 、嘉宾 （第13－14、18－19、292集）
   - 2014年： [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 《人類的條件》 嘉宾 (第86－88集)
   - 2015年： [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") 《亨敦與大俊的HIT制造機》 (第二季) 固定出演 (第6－12集)
   - 2015年： [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》 藝人評審團 （第9－10集) 、參賽者（第45集）
-  - 2015年： MBC every1 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》 嘉宾 (第183集)
-  - 2017年： [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》 參賽者 （第27－28集)
+  - 2015年： MBC every1 《[Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》 嘉宾 (第183集)
+  - 2017年： [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[Fantastic Duo 2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")》 參賽者 （第27－28集)
 
 ## 電視劇
 
   - 2011年： MBC 日日劇《[全部我的愛](https://zh.wikipedia.org/wiki/全部我的愛 "wikilink")》飾演 朴順德 （第64集、第78－210集）\[11\] \[12\]
   - 2012年： MBC 周末劇《[兒子傢伙們](../Page/兒子傢伙們.md "wikilink")》飾演 秦宥梨 （第11－50集）\[13\]
   - 2012年： MBC 日日劇《[媽媽是什麼](../Page/媽媽是什麼.md "wikilink")》飾演 朴修映（客串）
-  - 2013年： MBS・TBS 《[惡靈病棟](../Page/惡靈病棟.md "wikilink")》飾演 泰希（第3－4集）\[14\]
+  - 2013年： MBS・TBS 《[惡靈病棟](https://zh.wikipedia.org/wiki/惡靈病棟 "wikilink")》飾演 泰希（第3－4集）\[14\]
   - 2015年： MBC 水木剧《[憤怒的媽媽](../Page/憤怒的媽媽.md "wikilink")》飾演 王靜熙
   - 2018年：MBN 水土劇《[馬成的喜悅](../Page/馬成的喜悅.md "wikilink")》飾演 姜松花（客串）（第10集）
   - 2018年：oksusu《我在路上撿到了藝人》飾演 世羅
@@ -89,9 +89,9 @@ Lizzy剛加入After School時，最早在〈Bang\!〉的歌曲中，歌詞僅有
   - 2015年1月22日： Mnet《M\!Countdown》特別MC
   - 2015年1月23日： MBC《音乐中心》特別MC
   - 2015年2月7日： MBC《音乐中心》特別MC
-  - 2015年： Olive TV 《Tasty Road》第六季 MC (與 [朴秀真](../Page/朴秀真.md "wikilink"))\[16\]
+  - 2015年： Olive TV 《Tasty Road》第六季 MC (與 [朴秀真](https://zh.wikipedia.org/wiki/朴秀真 "wikilink"))\[16\]
   - 2015年： KBS 《後繼者》 MC
-  - 2016年： K Star 《完成夢想》 MC (與 [曹世鎬](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")、 [崔熙](../Page/崔熙.md "wikilink") 、[許卿煥](../Page/許卿煥.md "wikilink"))
+  - 2016年： K Star 《完成夢想》 MC (與 [曹世鎬](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")、 [崔熙](https://zh.wikipedia.org/wiki/崔熙 "wikilink") 、[許卿煥](https://zh.wikipedia.org/wiki/許卿煥 "wikilink"))
   - 2016年： KBS2 《小區大明星》 MC (與 [李秀根](https://zh.wikipedia.org/wiki/李秀根 "wikilink")、[洪真英](../Page/洪真英.md "wikilink")、[安所美](https://zh.wikipedia.org/wiki/安所美 "wikilink"))
   - 2016年： FashionN《拜託了梳妝台2》 MC (與 [利特](../Page/利特.md "wikilink")、[韩彩英](https://zh.wikipedia.org/wiki/韩彩英 "wikilink"))
 
@@ -145,13 +145,13 @@ Lizzy剛加入After School時，最早在〈Bang\!〉的歌曲中，歌詞僅有
 
 ### 合作
 
-| 發行日         | 歌手名                              | 歌曲名          | 備註                                                                                                                                                                                        |
-| ----------- | -------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2012年12月17日 | Cupcake Project                  | Cosmetic     | 與Andup演唱                                                                                                                                                                                  |
-| 2012年12月26日 | Mystic White                     | 人魚公主         | 與[尹寶拉](https://zh.wikipedia.org/wiki/尹寶拉 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")、[姜知英組Mystic](https://zh.wikipedia.org/wiki/姜知英 "wikilink") White合唱 |
-| 2014年11月18日 | Yoon Gun                         | Chemistry    | 與Zizo參與Yoon Gun的歌曲演唱                                                                                                                                                                      |
-| 2015年2月13日  | [朴明洙](../Page/朴明洙.md "wikilink") | Good bye PMS | 與[朴明洙](../Page/朴明洙.md "wikilink")演唱                                                                                                                                                       |
-| 2015年2月20日  | 真少女                              | 年度咒語         | 與[G.Na](https://zh.wikipedia.org/wiki/G.Na "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")、[許齡智](../Page/許齡智.md "wikilink")組真少女合唱                                                            |
+| 發行日         | 歌手名                              | 歌曲名          | 備註                                                                                                                                                                                                           |
+| ----------- | -------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2012年12月17日 | Cupcake Project                  | Cosmetic     | 與Andup演唱                                                                                                                                                                                                     |
+| 2012年12月26日 | Mystic White                     | 人魚公主         | 與[尹寶拉](https://zh.wikipedia.org/wiki/尹寶拉 "wikilink")、[許嘉允](https://zh.wikipedia.org/wiki/許嘉允 "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")、[姜知英組Mystic](https://zh.wikipedia.org/wiki/姜知英 "wikilink") White合唱 |
+| 2014年11月18日 | Yoon Gun                         | Chemistry    | 與Zizo參與Yoon Gun的歌曲演唱                                                                                                                                                                                         |
+| 2015年2月13日  | [朴明洙](../Page/朴明洙.md "wikilink") | Good bye PMS | 與[朴明洙](../Page/朴明洙.md "wikilink")演唱                                                                                                                                                                          |
+| 2015年2月20日  | 真少女                              | 年度咒語         | 與[G.Na](https://zh.wikipedia.org/wiki/G.Na "wikilink")、[權昭賢](https://zh.wikipedia.org/wiki/權昭賢 "wikilink")、[許齡智](../Page/許齡智.md "wikilink")組真少女合唱                                                            |
 
 ## 主打歌曲紀錄
 

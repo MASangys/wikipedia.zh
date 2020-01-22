@@ -13,7 +13,7 @@
 | --- | ---- | --------------------------------------------------- | ----- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | 第1話 | 万華鏡  | [會川昇](../Page/會川昇.md "wikilink")                    | \-    | \-                                                         | [大平晉也](https://zh.wikipedia.org/wiki/大平晉也 "wikilink")、[橋本晉治](https://zh.wikipedia.org/wiki/橋本晉治 "wikilink") |
 | 第2話 | 闇神樂  | \-                                                  | 岡本有樹郎 | [二村秀樹](https://zh.wikipedia.org/wiki/二村秀樹 "wikilink")、山形厚史 |                                                                                                             |
-| 第3話 | 婆娑羅舞 | [山崎理](../Page/山崎理.md "wikilink")                    | 青木武   | [越智博之](https://zh.wikipedia.org/wiki/越智博之 "wikilink")      |                                                                                                             |
+| 第3話 | 婆娑羅舞 | [山崎理](https://zh.wikipedia.org/wiki/山崎理 "wikilink") | 青木武   | [越智博之](https://zh.wikipedia.org/wiki/越智博之 "wikilink")      |                                                                                                             |
 | 第4話 | 芳琉閣  | [鳴海丈](https://zh.wikipedia.org/wiki/鳴海丈 "wikilink") | \-    | [中村孝](https://zh.wikipedia.org/wiki/中村孝 "wikilink")        |                                                                                                             |
 | 第5話 | 夜叉囃子 | 會川昇                                                 | \-    | 岡本有樹郎                                                      | 奧田淳、池畑文子                                                                                                    |
 | 第6話 | 鬼哭蟬  | \-                                                  | 青木武   | [本橋秀之](https://zh.wikipedia.org/wiki/本橋秀之 "wikilink")、山形厚史 |                                                                                                             |
@@ -100,9 +100,9 @@
   - 犬塚信乃：[關俊彦](https://zh.wikipedia.org/wiki/關俊彦 "wikilink")
   - 犬田小文吾：[玄田哲章](../Page/玄田哲章.md "wikilink")
   - 浜路：[本多知惠子](../Page/本多知惠子.md "wikilink")・[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")
-  - 網干左母二郎：[鈴置洋孝](../Page/鈴置洋孝.md "wikilink")・[池田秀一](../Page/池田秀一.md "wikilink")
+  - 網干左母二郎：[鈴置洋孝](https://zh.wikipedia.org/wiki/鈴置洋孝 "wikilink")・[池田秀一](../Page/池田秀一.md "wikilink")
   - [足利成氏](https://zh.wikipedia.org/wiki/足利成氏 "wikilink")：[今西正男](https://zh.wikipedia.org/wiki/今西正男 "wikilink")
-  - [里見義實](https://zh.wikipedia.org/wiki/里見義實 "wikilink")：[大木民夫](../Page/大木民夫.md "wikilink")
+  - [里見義實](https://zh.wikipedia.org/wiki/里見義實 "wikilink")：[大木民夫](https://zh.wikipedia.org/wiki/大木民夫 "wikilink")
   - [里見義成](https://zh.wikipedia.org/wiki/里見義成 "wikilink")：[森川智之](../Page/森川智之.md "wikilink")・[坂東尚樹](https://zh.wikipedia.org/wiki/坂東尚樹 "wikilink")
   - 犬塚番作：[青野武](../Page/青野武.md "wikilink")
   - 丶大法師：[江原正士](../Page/江原正士.md "wikilink")
@@ -117,7 +117,7 @@
   - 亀篠：[野澤雅子](../Page/野澤雅子.md "wikilink")
   - 馬加大記：[西村知道](../Page/西村知道.md "wikilink")
   - 赤岩一角：[大塚周夫](../Page/大塚周夫.md "wikilink")
-  - 四六城木工作：[糸博](../Page/糸博.md "wikilink")
+  - 四六城木工作：[糸博](https://zh.wikipedia.org/wiki/糸博 "wikilink")
   - 篭山逸東太：[宇垣秀成](../Page/宇垣秀成.md "wikilink")
   - 墓田須藤：[澤りつお](https://zh.wikipedia.org/wiki/澤りつお "wikilink")
   - ひくて：[井上喜久子](../Page/井上喜久子.md "wikilink")

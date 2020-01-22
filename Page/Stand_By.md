@@ -28,7 +28,7 @@
       -
         魅力四射的高中生。學習好，擅長體育，還會拉小提琴，擁有不亞於偶像明星的唱功和舞技......可謂無所不能。他當然因此深受女學生的青睞，成為她們嚮往的對象，但他本人對此漠不關心。對他來說就是一切的媽媽在即將與真行再婚時死於車禍，使他開始飽受磨難。
   - [崔政宇](../Page/崔政宇.md "wikilink") 飾演 柳正佑
-  - [朴俊錦](../Page/朴俊錦.md "wikilink") 飾演 朴俊琴
+  - [朴俊錦](https://zh.wikipedia.org/wiki/朴俊錦 "wikilink") 飾演 朴俊琴
   - [金延佑](https://zh.wikipedia.org/wiki/金延佑 "wikilink") 飾演 金延佑
   - [高庚杓](../Page/高庚杓.md "wikilink") 飾演 金庚杓
   - [Simon D](../Page/Simon_D.md "wikilink") 飾演 Sam D

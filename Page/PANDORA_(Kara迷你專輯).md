@@ -10,7 +10,7 @@
 
 ### 音樂錄影帶
 
-  - 2012年8月13日起5日内正午通過NAVER MUSIC依序公開成員[姜知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")、[具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")、[朴奎利](../Page/朴奎利.md "wikilink")、[妮可](../Page/鄭龍珠.md "wikilink")、[韓昇延](../Page/韓昇延.md "wikilink")五人五色個別M/V teaser\[8\]\[9\]，五部成員個人預告片累計22日止點擊率突破200萬次\[10\]。
+  - 2012年8月13日起5日内正午通過NAVER MUSIC依序公開成員[姜知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")、[具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")、[朴奎利](../Page/朴奎利.md "wikilink")、[妮可](https://zh.wikipedia.org/wiki/鄭龍珠 "wikilink")、[韓昇延五人五色個別M](https://zh.wikipedia.org/wiki/韓昇延 "wikilink")/V teaser\[8\]\[9\]，五部成員個人預告片累計22日止點擊率突破200萬次\[10\]。
   - 2012年8月19日通過MBC Section TV演藝通信Ep.638公開Kara時隔一年回歸的M/V拍攝現場花絮。
   - 2012年8月20日通過NAVER MUSIC公開絢爛光影場景與成員身著黑白雙色緊身正裝的二十秒《PANDORA》M/V預告\[11\]。
   - 2012年8月22日正午12時起在Kara舉行新專輯發佈ShowCase前通過NAVER MUSIC公開迷你專輯主打歌曲《PANDORA》完整版M/V。男主角為韓國模特兒김재영（Kim Jae Young）。
@@ -171,7 +171,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>08月30日、09月6日、09月13日<small>（1位）</small></p></td>
-<td style="text-align: center;"><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

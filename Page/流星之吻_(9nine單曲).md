@@ -1,11 +1,11 @@
 > 本文内容由[流星之吻 \(9nine單曲\)](https://zh.wikipedia.org/wiki/流星之吻_\(9nine單曲\))转换而来。
 
 
-《**流星之吻**》（）是[日本](../Page/日本.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[9nine](../Page/9nine.md "wikilink")的第10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年6月20日由[SME Records發售](../Page/SME_Records.md "wikilink")。
+《**流星之吻**》（）是[日本](../Page/日本.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[9nine的第](https://zh.wikipedia.org/wiki/9nine "wikilink")10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年6月20日由[SME Records發售](https://zh.wikipedia.org/wiki/SME_Records "wikilink")。
 
 ## 概要
 
-本作是前作《[少女旅行者](../Page/少女旅行者.md "wikilink")》後相隔5個月發售，為[9nine](../Page/9nine.md "wikilink")在2012年發行的第2張單曲，也是發行專輯[9nine後首張單曲](../Page/9nine_\(專輯\).md "wikilink")。此作被[TBS電視台](../Page/TBS電視台.md "wikilink")NEO電視劇系列《[放學後再推理](../Page/放學後再推理.md "wikilink")》選為[主題曲](../Page/主題曲.md "wikilink")\[1\]，成為9nine首張為電視連續劇的歌曲，也從第五張單曲《[Cross Over](../Page/Cross_Over.md "wikilink")》以來，已經連續六張作品作商業搭配。總共分為四種版本，除了通常盤之外，此作[MV收錄在](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")「初回生產限定盤A」中，「初回生産限定盤B」與「初回生産限定盤C」則是收錄2012年1月28日在品川Stellar Ball舉行的「ワンマン9nine〜略して”ワンナイ”スペシャル\!\!〜」演唱會影片\[2\]。
+本作是前作《[少女旅行者](https://zh.wikipedia.org/wiki/少女旅行者 "wikilink")》後相隔5個月發售，為[9nine在](https://zh.wikipedia.org/wiki/9nine "wikilink")2012年發行的第2張單曲，也是發行專輯[9nine後首張單曲](https://zh.wikipedia.org/wiki/9nine_\(專輯\) "wikilink")。此作被[TBS電視台](../Page/TBS電視台.md "wikilink")NEO電視劇系列《[放學後再推理](../Page/放學後再推理.md "wikilink")》選為[主題曲](../Page/主題曲.md "wikilink")\[1\]，成為9nine首張為電視連續劇的歌曲，也從第五張單曲《[Cross Over](../Page/Cross_Over.md "wikilink")》以來，已經連續六張作品作商業搭配。總共分為四種版本，除了通常盤之外，此作[MV收錄在](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")「初回生產限定盤A」中，「初回生産限定盤B」與「初回生産限定盤C」則是收錄2012年1月28日在品川Stellar Ball舉行的「ワンマン9nine〜略して”ワンナイ”スペシャル\!\!〜」演唱會影片\[2\]。
 
 ## 歌曲列表
 

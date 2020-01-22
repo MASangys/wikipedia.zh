@@ -3,7 +3,7 @@
 
 **Digia**是一家芬兰软件公司，在赫尔辛基证券交易所上市。Digia拥有近1200名员工，业务遍及亚洲、欧洲和美洲，在芬兰，中国，挪威，瑞典，俄罗斯和美国设有办事处。
 
-2011年，Digia收购了[诺基亚](../Page/诺基亚.md "wikilink")的[Qt](../Page/Qt.md "wikilink")商业授权业务\[1\]\[2\]。2012年8月9日，Digia宣布已完成对诺基亚Qt业务及软件技术的全面收购，并计划将Qt应用到[Android](../Page/Android.md "wikilink")、[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows 8平台上](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")\[3\]\[4\]。
+2011年，Digia收购了[诺基亚](../Page/诺基亚.md "wikilink")的[Qt](../Page/Qt.md "wikilink")商业授权业务\[1\]\[2\]。2012年8月9日，Digia宣布已完成对诺基亚Qt业务及软件技术的全面收购，并计划将Qt应用到[Android](https://zh.wikipedia.org/wiki/Android "wikilink")、[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows 8平台上](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")\[3\]\[4\]。
 
 ## 参考文献
 

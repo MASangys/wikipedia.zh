@@ -7,15 +7,15 @@
 
 此年度的平均收視率只有**59.4%**，創下**紅白**史上首次平均收視率不足60%。
 
-**白組**主持人[加山雄三](../Page/加山雄三.md "wikilink")在介紹[少年隊](../Page/少年隊.md "wikilink")出場時，將《[假面舞會](../Page/假面舞會_\(少年隊單曲\).md "wikilink")》（仮面舞踏会）誤說成《[幪面超人](../Page/幪面超人.md "wikilink")》（仮面ライダー），是**紅白**史上其中一個經典的口誤。
+**白組**主持人[加山雄三](../Page/加山雄三.md "wikilink")在介紹[少年隊](../Page/少年隊.md "wikilink")出場時，將《[假面舞會](https://zh.wikipedia.org/wiki/假面舞會_\(少年隊單曲\) "wikilink")》（仮面舞踏会）誤說成《[幪面超人](../Page/幪面超人.md "wikilink")》（仮面ライダー），是**紅白**史上其中一個經典的口誤。
 
 ## 主持人
 
 ### 紅組
 
-[齊藤由貴](../Page/齊藤由貴.md "wikilink")
+[齊藤由貴](https://zh.wikipedia.org/wiki/齊藤由貴 "wikilink")
 
-  - 該年主演的[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")《[跳駒](../Page/跳駒.md "wikilink")》，獲得了平均收視率高達41.7%的好成績，因此話題性與評價都非常高。《跳駒》的熱潮還延伸到[亞洲許多其它國家或地區](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。因此[NHK紅白歌合戰力邀為主持人](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，並因此成為當年**紅白**史上最年輕的紅組主持人，但她既負責主持，又演出節目，本屆紅白被稱為是「**齊藤由貴的天下**」。\[1\]
+  - 該年主演的[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")《[跳駒](https://zh.wikipedia.org/wiki/跳駒 "wikilink")》，獲得了平均收視率高達41.7%的好成績，因此話題性與評價都非常高。《跳駒》的熱潮還延伸到[亞洲許多其它國家或地區](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。因此[NHK紅白歌合戰力邀為主持人](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，並因此成為當年**紅白**史上最年輕的紅組主持人，但她既負責主持，又演出節目，本屆紅白被稱為是「**齊藤由貴的天下**」。\[1\]
 
 ### 白組
 
@@ -33,8 +33,8 @@
 | [荻野目洋子](https://zh.wikipedia.org/wiki/荻野目洋子 "wikilink")(1)  | ダンシング・ヒーロー (Eat You Up)                                   |
 | 大月みやこ(1)                                                    | 女の港                                                       |
 | [小泉今日子](../Page/小泉今日子.md "wikilink")(3)                     | 夜明けのMEW                                                   |
-| [齊藤由貴](../Page/齊藤由貴.md "wikilink")(1)                       | 悲しみよこんにちは                                                 |
-| [小柳留美子](../Page/小柳留美子.md "wikilink")(16)                    | 乱                                                         |
+| [齊藤由貴](https://zh.wikipedia.org/wiki/齊藤由貴 "wikilink")(1)    | 悲しみよこんにちは                                                 |
+| [小柳留美子](https://zh.wikipedia.org/wiki/小柳留美子 "wikilink")(16) | 乱                                                         |
 | [中森明菜](../Page/中森明菜.md "wikilink")(4)                       | DESIRE -情熱-                                               |
 | [鄧麗君](../Page/鄧麗君.md "wikilink")(2)                         | [任时光从身边流逝](../Page/任时光从身边流逝.md "wikilink")                |
 | 研ナオコ(10)                                                    | Tokyo見返り美人                                                |
@@ -47,7 +47,7 @@
 | [水前寺清子](https://zh.wikipedia.org/wiki/水前寺清子 "wikilink")(22) | [男三百六十度](https://zh.wikipedia.org/wiki/男三百六十度 "wikilink") |
 | 松原のぶえ(2)                                                    | 演歌みち                                                      |
 | [八代亞紀](../Page/八代亞紀.md "wikilink")(14)                      | 港町純情                                                      |
-| [島倉千代子](../Page/島倉千代子.md "wikilink")(30)                    | くちべに挽歌                                                    |
+| [島倉千代子](https://zh.wikipedia.org/wiki/島倉千代子 "wikilink")(30) | くちべに挽歌                                                    |
 | [小林幸子](../Page/小林幸子.md "wikilink")(8)                       | 別離                                                        |
 | [石川小百合](../Page/石川小百合.md "wikilink")(9)                     | [越过天城](https://zh.wikipedia.org/wiki/越过天城 "wikilink")     |
 |                                                             |                                                           |

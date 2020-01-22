@@ -124,7 +124,7 @@
 <tr class="odd">
 <td></td>
 <td><p>10月24日至27日</p></td>
-<td><p><a href="../Page/蘇珊·彼特森.md" title="wikilink">蘇珊·彼特森</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇珊·彼特森" title="wikilink">蘇珊·彼特森</a></p></td>
 <td></td>
 <td><p>68-69-73-69=279</p></td>
 <td><p>−9</p></td>
@@ -136,7 +136,7 @@
 <tr class="even">
 <td></td>
 <td><p>10月25日至28日</p></td>
-<td><p><a href="../Page/蘇珊·彼特森.md" title="wikilink">蘇珊·彼特森</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇珊·彼特森" title="wikilink">蘇珊·彼特森</a></p></td>
 <td></td>
 <td><p>69-65-66-69=269</p></td>
 <td><p>−19</p></td>

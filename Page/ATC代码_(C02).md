@@ -3,7 +3,7 @@
 
 ## C02A 起中心作用的[抗肾上腺素能药](https://zh.wikipedia.org/wiki/抗肾上腺素 "wikilink")（Antiadrenergic agents, centrally acting）
 
-### C02AA [蛇根木](../Page/蛇根木.md "wikilink")[生物碱类](https://zh.wikipedia.org/wiki/生物碱 "wikilink")（Rauwolfia alkaloids）
+### C02AA [蛇根木](https://zh.wikipedia.org/wiki/蛇根木 "wikilink")[生物碱类](https://zh.wikipedia.org/wiki/生物碱 "wikilink")（Rauwolfia alkaloids）
 
   -
     C02AA01 [瑞西那明](https://zh.wikipedia.org/wiki/瑞西那明 "wikilink")（Rescinnamine）

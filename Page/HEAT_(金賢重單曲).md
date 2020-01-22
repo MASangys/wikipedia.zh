@@ -1,7 +1,7 @@
 > 本文内容由[HEAT \(金賢重單曲\)](https://zh.wikipedia.org/wiki/HEAT_\(金賢重單曲\))转换而来。
 
 
-《**HEAT**》（）是[金賢重](../Page/金賢重.md "wikilink")在2012年7月4日於日本發行的第二張個人單曲。
+《**HEAT**》（）是[金賢重在](https://zh.wikipedia.org/wiki/金賢重 "wikilink")2012年7月4日於日本發行的第二張個人單曲。
 
 ## 單曲概述
 
@@ -55,7 +55,7 @@
 | Let's Party | 2012年7月4日  |
 |             |            |
 
-  - 2012年5月26日，[金賢重](../Page/金賢重.md "wikilink")於首爾廣壯洞(AX-KOREA)舉行的樂天免稅店 FanMeeting中透露隔日5月27日進行《HEAT》[Music Video的拍攝](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。幾日後因拍攝畫面遭群眾演員外洩至網路，已擇日進行重拍作業。
+  - 2012年5月26日，[金賢重於首爾廣壯洞](https://zh.wikipedia.org/wiki/金賢重 "wikilink")(AX-KOREA)舉行的樂天免稅店 FanMeeting中透露隔日5月27日進行《HEAT》[Music Video的拍攝](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。幾日後因拍攝畫面遭群眾演員外洩至網路，已擇日進行重拍作業。
   - 2012年6月14日，日本富士電視台晨間新聞《[鬧鐘電視](../Page/鬧鐘電視.md "wikilink")》播放娛樂新聞時公開《HEAT》音樂錄影帶片段畫面，畫面中金賢重化身搖滾樂團主唱搭配著真實的搖滾樂隊站上近500名聽眾團團包圍的舞台中盡情的演唱著新曲，展現了新鮮的“玩樂團的金賢重”樣貌\[2\]\[3\]，官方預告亦於[YOUTUBE公開](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")\[4\]。MV中金賢重所引領的樂團為韓國人氣搖滾團體-Downhell。
   - 台灣CHANNEL\[V\]頻道於2012年7月12日至7月14日兩日首播《HEAT》完整版Music Video。
   - 另《Let's Party》完整版Music Video於2012年7月4日通過日本Space Shower TV、MUSIC ON\! TV等頻道公開。
@@ -93,20 +93,20 @@
 
 ### 宣傳
 
-  - 2012年7月1日，[NHK綜合](../Page/NHK綜合頻道.md "wikilink")《[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》
+  - 2012年7月1日，[NHK綜合](../Page/NHK綜合頻道.md "wikilink")《[MUSIC JAPAN](https://zh.wikipedia.org/wiki/MUSIC_JAPAN "wikilink")》
   - 2012年7月4日，[富士電視系列](../Page/富士電視台.md "wikilink")《[NON STOP\!](../Page/NON_STOP!.md "wikilink")》
   - 2012年7月6日，[NTV](../Page/日本電視台.md "wikilink")《》
   - 2012年8月20日，[富士電視台](../Page/富士電視台.md "wikilink")《HEY！HEY！HEY！》
 
 ### 活動
 
-  - 2012年7月3日於東京台場Palette town舉辦『購入CD者[握手會](../Page/握手會.md "wikilink")』\[8\]
+  - 2012年7月3日於東京台場Palette town舉辦『購入CD者[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")』\[8\]
   - 2012年7月4日於台場Diver City東京Festival廣場舉行Live「LET'S PARTY」的『露天游擊音樂會』\[9\]
   - 2012年7月5日非公開行程『突擊 Tsutaya、Tower Records澀谷店、銀座山野楽器總店』留下簽名
   - 2012年7月7日於大阪湊町River Place舉辦『限定購入CD者握手會』
   - 2012年7月8日於名古屋Sunshine Sakae B1F Grand Canyon廣場、中央公園入口處、綠洲21舉行Live『露天游擊Showcase』
   - 2012年7月14日與日本音樂人[NAOTO INTI RAYMI攜手合作於](https://zh.wikipedia.org/wiki/NAOTO_INTI_RAYMI "wikilink")[日本](../Page/日本.md "wikilink")[埼玉超級體育館舉辦兩場名為](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")『金賢重與NAOTO INTIRAY 「DOUBLE FANTASISTA」』的公演\[10\]
-  - 2012年7月15日另一次購齊五種版本免費參與[金賢重](../Page/金賢重.md "wikilink")於與上述同場地舉行的『Kim Hyun Joong HEAT 2012 in JAPAN二單販售紀念會』，名額3萬2000人次\[11\]\[12\]\[13\]。上午場次綵排途中因喉嚨不適前往就醫，導致延遲1個小時開演，隨後演唱「如果妳也和我一樣」前淚灑舞台
+  - 2012年7月15日另一次購齊五種版本免費參與[金賢重於與上述同場地舉行的](https://zh.wikipedia.org/wiki/金賢重 "wikilink")『Kim Hyun Joong HEAT 2012 in JAPAN二單販售紀念會』，名額3萬2000人次\[11\]\[12\]\[13\]。上午場次綵排途中因喉嚨不適前往就醫，導致延遲1個小時開演，隨後演唱「如果妳也和我一樣」前淚灑舞台
 
 ### 展覽
 

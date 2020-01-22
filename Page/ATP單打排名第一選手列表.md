@@ -699,7 +699,7 @@
 <tr class="even">
 <td><p>18</p></td>
 <td></td>
-<td><p><a href="../Page/马拉特·萨芬.md" title="wikilink">马拉特·萨芬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马拉特·萨芬" title="wikilink">马拉特·萨芬</a></p></td>
 <td></td>
 <td></td>
 <td><p>2</p></td>
@@ -1274,7 +1274,7 @@
   -
 ## 另見
 
-  - [WTA單打與雙打世界第一列表](../Page/WTA單打與雙打世界第一列表.md "wikilink")
+  - [WTA單打與雙打世界第一列表](https://zh.wikipedia.org/wiki/WTA單打與雙打世界第一列表 "wikilink")
 
 ## 外部連結
 

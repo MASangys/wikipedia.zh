@@ -1,15 +1,15 @@
 > 本文内容由[潛龍諜影V 幻痛](https://zh.wikipedia.org/wiki/潛龍諜影V_幻痛)转换而来。
 
 
-是一款由[小島製作开发](https://zh.wikipedia.org/wiki/小島製作 "wikilink")，小岛秀夫参与主要设计的[隐蔽类](https://zh.wikipedia.org/wiki/隐蔽类游戏 "wikilink")[开放世界](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。游戏在2015年9月1日发行于[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Xbox One平台](../Page/Xbox_One.md "wikilink")\[1\]\[2\]。由小島製作研發的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")「狐引擎」（FOX Engine）打造。本作是[合金装备系列的第](https://zh.wikipedia.org/wiki/合金装备系列 "wikilink")11款遊戲，也是小島自科乐美離職前主導的最后一部正传作品，但科乐美表示将会继续推展《合金装备》系列。\[3\]
+是一款由[小島製作开发](https://zh.wikipedia.org/wiki/小島製作 "wikilink")，小岛秀夫参与主要设计的[隐蔽类](https://zh.wikipedia.org/wiki/隐蔽类游戏 "wikilink")[开放世界](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。游戏在2015年9月1日发行于[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Xbox One平台](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")\[1\]\[2\]。由小島製作研發的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")「狐引擎」（FOX Engine）打造。本作是[合金装备系列的第](https://zh.wikipedia.org/wiki/合金装备系列 "wikilink")11款遊戲，也是小島自科乐美離職前主導的最后一部正传作品，但科乐美表示将会继续推展《合金装备》系列。\[3\]
 
-遊戲內容的時間設定在《[潛龍諜影V 原爆點](../Page/潛龍諜影V_原爆點.md "wikilink")》九年之後，即1984年。玩家将在[阿富汗](../Page/阿富汗.md "wikilink")和[安哥拉](../Page/安哥拉.md "wikilink")-[扎伊尔边境进行冒险](https://zh.wikipedia.org/wiki/扎伊尔 "wikilink")，以向九年前摧毁无国界军队MSF的神秘人物"Skull Face"复仇。游戏被设计成开放世界的形式，玩家可以自由探索[阿富汗战争期间的阿富汗荒漠](https://zh.wikipedia.org/wiki/阿富汗战争_\(1979年\) "wikilink")，以及[安哥拉内战](../Page/安哥拉内战.md "wikilink")期间的非洲中部丛林，同时搜集资源建造和经营自己的母基地。游戏也包含了线上模式——「前进基地」(Forward Operating Base)，玩家可以潜入其他玩家的基地窃取资源和武器。
+遊戲內容的時間設定在《[潛龍諜影V 原爆點](https://zh.wikipedia.org/wiki/潛龍諜影V_原爆點 "wikilink")》九年之後，即1984年。玩家将在[阿富汗](../Page/阿富汗.md "wikilink")和[安哥拉](../Page/安哥拉.md "wikilink")-[扎伊尔边境进行冒险](https://zh.wikipedia.org/wiki/扎伊尔 "wikilink")，以向九年前摧毁无国界军队MSF的神秘人物"Skull Face"复仇。游戏被设计成开放世界的形式，玩家可以自由探索[阿富汗战争期间的阿富汗荒漠](https://zh.wikipedia.org/wiki/阿富汗战争_\(1979年\) "wikilink")，以及[安哥拉内战](../Page/安哥拉内战.md "wikilink")期间的非洲中部丛林，同时搜集资源建造和经营自己的母基地。游戏也包含了线上模式——「前进基地」(Forward Operating Base)，玩家可以潜入其他玩家的基地窃取资源和武器。
 
-遊戲原先被分別公佈為2個不同的項目，一個是在潛龍諜影25週年紀念會上公佈，名為《潛龍諜影 原爆點》（，），另一個則是由Moby Dick Studio開發的《幻痛》（，）。至2013年3月遊戲網頁正式上線，名稱才確定為《潛龍諜影V 幻痛》\[4\]。2013年11月11日，科樂美宣布《[潛龍諜影V 原爆點](../Page/潛龍諜影V_原爆點.md "wikilink")》獨立於2014年春季發行。\[5\]2014年德國[Gamescom](../Page/Gamescom.md "wikilink")展，小島秀夫宣佈《幻痛》將藉由[Steam](../Page/Steam.md "wikilink")登上電腦平台。\[6\]
+遊戲原先被分別公佈為2個不同的項目，一個是在潛龍諜影25週年紀念會上公佈，名為《潛龍諜影 原爆點》（，），另一個則是由Moby Dick Studio開發的《幻痛》（，）。至2013年3月遊戲網頁正式上線，名稱才確定為《潛龍諜影V 幻痛》\[4\]。2013年11月11日，科樂美宣布《[潛龍諜影V 原爆點](https://zh.wikipedia.org/wiki/潛龍諜影V_原爆點 "wikilink")》獨立於2014年春季發行。\[5\]2014年德國[Gamescom展](https://zh.wikipedia.org/wiki/Gamescom "wikilink")，小島秀夫宣佈《幻痛》將藉由[Steam](../Page/Steam.md "wikilink")登上電腦平台。\[6\]
 
 ## 故事
 
-故事开始于[原爆點事件的九年之後](../Page/潛龍諜影V_原爆點.md "wikilink")，1984年「Big Boss」終於在[泽凯利亚的醫院中甦醒](../Page/亞克羅提利與德凱利亞.md "wikilink")；XOF部隊得到消息，很快的到達醫院並試圖抹殺剛甦醒的Snake，Snake在名為Ishmael的男子的幫助下逃離了醫院。並在Ocelot的帮助下離開了塞浦路斯，隨後救出Kaz並向造成這一切的Cipher進行復仇。
+故事开始于[原爆點事件的九年之後](https://zh.wikipedia.org/wiki/潛龍諜影V_原爆點 "wikilink")，1984年「Big Boss」終於在[泽凯利亚的醫院中甦醒](../Page/亞克羅提利與德凱利亞.md "wikilink")；XOF部隊得到消息，很快的到達醫院並試圖抹殺剛甦醒的Snake，Snake在名為Ishmael的男子的幫助下逃離了醫院。並在Ocelot的帮助下離開了塞浦路斯，隨後救出Kaz並向造成這一切的Cipher進行復仇。
 
 ## 登場角色
 
@@ -50,7 +50,7 @@
 <!-- end list -->
 
   -
-    （[3D掃描](https://zh.wikipedia.org/wiki/3D "wikilink")、英文配音：Christopher Randolph／日文配音：[田中秀幸](../Page/田中秀幸.md "wikilink")，動態擷取：Sebastian Le Floch）
+    （[3D掃描](https://zh.wikipedia.org/wiki/3D "wikilink")、英文配音：Christopher Randolph／日文配音：[田中秀幸](https://zh.wikipedia.org/wiki/田中秀幸 "wikilink")，動態擷取：Sebastian Le Floch）
     [「和平行者事件」中的美国机械专家](https://zh.wikipedia.org/wiki/潜龙谍影_和平先驱 "wikilink")，之后帮助MSF研发ZEKE。原爆点事件后下落不明，如今被发现在帮助Skull Face研发Sahelanthropus以及双足武器系统。「唯一一个没失去任何东西的人」
 
 <!-- end list -->
@@ -161,7 +161,7 @@
 <!-- end list -->
 
   -
-    （英文配音：Time Winters／日文配音：[銀河萬丈](../Page/銀河萬丈.md "wikilink")）
+    （英文配音：Time Winters／日文配音：[銀河萬丈](https://zh.wikipedia.org/wiki/銀河萬丈 "wikilink")）
     [「食蛇者行动」中Snake的指挥官](https://zh.wikipedia.org/wiki/潜龙谍影3_食蛇者 "wikilink")，「魔童计划」实施后与Snake分道扬镳。被視为是九年前原爆点事件的始作俑者。
 
 <!-- end list -->
@@ -258,11 +258,11 @@
 
 [IGN](../Page/IGN.md "wikilink")的评论称赞本作的开放性游戏机制，它允许玩家自由地选择执行任务的方式，创造属于自己的解决方法，而不需要担心打破潜行所带来惩罚。但同时也指出故事的后半部分缺乏力度。评论最后总结说《潛龍諜影V 幻痛》是游戏性的巨大突破，这种程度的智慧和创意很少有游戏能够做到。\[28\][GameSpot](../Page/GameSpot.md "wikilink")同样称赞本作「近乎无可挑剔的游戏性」。评论说到：“除了主线和支线任务，逐步浮现的剧情充当了幻痛开放世界游戏体验的第三根支柱。”评论还称赞了《幻痛》颇为成功的人物塑造，身为一部填补空白的前传，本作将新人物塑造得十分丰满，而非仅拘泥于对系列已有故事的自圆其说。\[29\]另外，《潛龍諜影V 幻痛》是第23部——合金装备系列中的第3部——获得日本游戏杂志《[FAMI通](https://zh.wikipedia.org/wiki/FAMI通 "wikilink")》40/40满分评价的游戏。\[30\]
 
-[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")对本作给出了9.5/10的评价，称赞本作故事所具有的戏剧张力与情感深度。与[战地系列和](https://zh.wikipedia.org/wiki/战地系列 "wikilink")[使命召唤系列相比](https://zh.wikipedia.org/wiki/使命召唤系列 "wikilink")，本作以一种非常有趣及吸引人的方式——即玩家所处的开放世界对玩家的行为做出有机反应，刻画出“战争的徒劳无益”这一主题。但是，评论批评了游戏对资源搜集的过分强调，尤其是“前进基地”(FOB)被入侵会时常打断主要任务的执行，影响游戏体验。\[31\]游戏博客Destructoid对本作给出了9/10的评价，评价本作为“即朴实又华丽，配得上作为小岛秀夫的最后一部合金装备，他这次是在辉煌中离去。”\[32\]
+[电子游戏月刊对本作给出了](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")9.5/10的评价，称赞本作故事所具有的戏剧张力与情感深度。与[战地系列和](https://zh.wikipedia.org/wiki/战地系列 "wikilink")[使命召唤系列相比](https://zh.wikipedia.org/wiki/使命召唤系列 "wikilink")，本作以一种非常有趣及吸引人的方式——即玩家所处的开放世界对玩家的行为做出有机反应，刻画出“战争的徒劳无益”这一主题。但是，评论批评了游戏对资源搜集的过分强调，尤其是“前进基地”(FOB)被入侵会时常打断主要任务的执行，影响游戏体验。\[31\]游戏博客Destructoid对本作给出了9/10的评价，评价本作为“即朴实又华丽，配得上作为小岛秀夫的最后一部合金装备，他这次是在辉煌中离去。”\[32\]
 
 [Game Informer的Joe](../Page/Game_Informer.md "wikilink") Juba对本作给出9.25/10的评价，称赞本作灵活的关卡设计，这给玩家如何完成任务目标提供了多样化的选择，而不再需要为武器及装备上的限制而烦恼。但是，本作未能将叙事改造到与开放世界的游戏模式相兼容的程度。现有的章节式结构给原本就显得复杂的系列故事又蒙上了一层迷雾。Juba认为这种情况所造成的严重结果就是，玩家会在不知道来龙去脉的情况下，茫然地进入故事的关键点。\[33\]
 
-[Polygon](../Page/Polygon.md "wikilink")的Michael McWhertor对本作给出了9/10的评价，同样称赞游戏灵活的机制。但批评本作令人费解的故事，这让对整个系列缺乏了解的新玩家难以接受。McWhertor同时批评了本作人物**Quiet**的人物设计过于暴露，他认为这种暴露完全是无意义的，而且不利于这个人物的整体塑造。\[34\]
+[Polygon的Michael](https://zh.wikipedia.org/wiki/Polygon "wikilink") McWhertor对本作给出了9/10的评价，同样称赞游戏灵活的机制。但批评本作令人费解的故事，这让对整个系列缺乏了解的新玩家难以接受。McWhertor同时批评了本作人物**Quiet**的人物设计过于暴露，他认为这种暴露完全是无意义的，而且不利于这个人物的整体塑造。\[34\]
 
 本作还获得了一些来自传统游戏媒体之外的褒扬。[每日电讯报](../Page/每日电讯报.md "wikilink")的Kirk McKeand在给出满分评价之后说道：“这是在不断的进步中创造的系列最佳之作。”\[35\][时代杂志评论赞扬了本作天衣无缝地集合了多种游戏模式](https://zh.wikipedia.org/wiki/时代_\(杂志\) "wikilink")，例如母基地的建设给人以巨大的满足感。\[36\]
 

@@ -1,19 +1,19 @@
 > 本文内容由[DJMAX TECHNIKA 3](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA_3)转换而来。
 
 
-是由[Pentavision](../Page/Pentavision.md "wikilink")研发并销售的[街机](../Page/街机.md "wikilink")平台[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。此游戏是[DJ Max Technika系列的第三作](https://zh.wikipedia.org/wiki/DJ_Max_Technika系列 "wikilink")。
+是由[Pentavision研发并销售的](https://zh.wikipedia.org/wiki/Pentavision "wikilink")[街机](../Page/街机.md "wikilink")平台[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。此游戏是[DJ Max Technika系列的第三作](https://zh.wikipedia.org/wiki/DJ_Max_Technika系列 "wikilink")。
 
 ## 游戏介绍
 
 ### 与前作相比的变动
 
-  - 取消了[前作的Duo](../Page/DJMAX_TECHNIKA_2.md "wikilink") Mixing模式。
+  - 取消了[前作的Duo](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA_2 "wikilink") Mixing模式。
   - 各曲目的难度标识最大值由10级变为12级。
   - 增加了新的Extra Pattern难度，本难度在游戏与白金会员官方网站中以紫色表示。
 
 ### 游戏模式
 
-  - Star Mixing：与《[Technika 2](../Page/DJMAX_TECHNIKA_2.md "wikilink")》相同，本模式有3行音轨，音符相比与其他模式更大，适合初学者与新玩家游戏。Star Mixing曲目谱面孤立于其他模式，每首歌只有Normal难度。一次游玩允许玩家选择三首歌。
+  - Star Mixing：与《[Technika 2](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA_2 "wikilink")》相同，本模式有3行音轨，音符相比与其他模式更大，适合初学者与新玩家游戏。Star Mixing曲目谱面孤立于其他模式，每首歌只有Normal难度。一次游玩允许玩家选择三首歌。
   - Pop Mixing：与《Technika 2》相同，本模式的音轨为4行，一次游玩允许玩家选择三首歌。
   - Club Mixing：与《Technika 2》相同，一次游玩允许玩家选择四首歌。玩家可选择一组曲目，在一组曲目中的六首歌挑选三首进行游玩。第一首曲目完成后能量条扣减不得多于四分之一，以此类推，第二首不得多于一半，第三首不得多于四分之三。当三首曲目完成后，将会出现第四首曲目（出现的曲目由前三首曲目的选择而定）。玩家也可选择Nonstop曲目，与组曲不同，Nonstop的曲目与普通曲目相比较长，且一次游玩只可选择一首。
   - Crew Race：本模式加入战队方可使用。与《Technika 2》相同，玩家可以以自己的Pop Mixing成绩为基础上传组曲。玩家可挑战各战队的自订组曲并进行分数对战。本模式不可以使用Fever系统，与此相同，当玩家上传组曲时Fever系统补正的分数不计入组曲成绩中。

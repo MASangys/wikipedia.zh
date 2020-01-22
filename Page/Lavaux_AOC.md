@@ -5,7 +5,7 @@
 
 ## 命名区域
 
-葡萄种植园面积为921公顷，沿[萊芒湖](../Page/萊芒湖.md "wikilink")畔贯穿Lausanne（[洛桑](../Page/洛桑.md "wikilink")）至Veytaux（[维托](../Page/维托.md "wikilink")）40公里区域，途径Lutry（[吕特里](../Page/吕特里.md "wikilink")）, Villette, Grandvaux, Cully, Riex, Épesses, Chexbres, Rivaz和Saint-Saphorin。
+葡萄种植园面积为921公顷，沿[萊芒湖](../Page/萊芒湖.md "wikilink")畔贯穿Lausanne（[洛桑](../Page/洛桑.md "wikilink")）至Veytaux（[维托](https://zh.wikipedia.org/wiki/维托 "wikilink")）40公里区域，途径Lutry（[吕特里](../Page/吕特里.md "wikilink")）, Villette, Grandvaux, Cully, Riex, Épesses, Chexbres, Rivaz和Saint-Saphorin。
 
 ## 历史
 

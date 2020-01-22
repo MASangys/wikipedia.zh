@@ -1,7 +1,7 @@
 > 本文内容由[紙箱戰機W](https://zh.wikipedia.org/wiki/紙箱戰機W)转换而来。
 
 
-《**紙箱戰機W**》為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》的第二季，於2012年1月18日至2013年3月20日，逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19:27 - 19:55於[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播出，全58話。香港於2013年8月22日開始播放。
+《**紙箱戰機W**》為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[紙箱戰機](https://zh.wikipedia.org/wiki/紙箱戰機 "wikilink")》的第二季，於2012年1月18日至2013年3月20日，逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19:27 - 19:55於[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播出，全58話。香港於2013年8月22日開始播放。
 
 ## 故事概要
 
@@ -786,7 +786,7 @@
 <td><p>播放開始後1週免費</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
 <td><p>2012年1月26日 - 2013年<a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
 <td></td>
 <td></td>
@@ -842,7 +842,7 @@
 </tr>
 <tr class="even">
 <td><p>日本全域</p></td>
-<td><p><a href="../Page/Kids_Station.md" title="wikilink">Kids Station</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kids_Station" title="wikilink">Kids Station</a></p></td>
 <td><p>2012年5月5日 - 2013年<a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
 <td><p>週六 17:30 - 18:00</p></td>
 <td><p>CS放送</p></td>
@@ -912,7 +912,7 @@
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax HD</a></p></td>
 <td><p>2015年8月3日－9月29日</p></td>
 <td><p>每天 15:30－16:00</p></td>
-<td><p><a href="../Page/中華電信MOD.md" title="wikilink">中華電信MOD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華電信MOD" title="wikilink">中華電信MOD</a></p></td>
 <td></td>
 <td></td>
 </tr>

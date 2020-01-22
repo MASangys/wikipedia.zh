@@ -21,7 +21,7 @@
   - 興趣：上網玩遊戲
   - 特長：鋼琴、電吉他
   - 曾屬團體：[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")
-  - 曾屬公司：、[MBK娛樂](../Page/MBK娛樂.md "wikilink")（[Core Contents Media](../Page/MBK娛樂.md "wikilink")）
+  - 曾屬公司：、[MBK娛樂](https://zh.wikipedia.org/wiki/MBK娛樂 "wikilink")（[Core Contents Media](https://zh.wikipedia.org/wiki/MBK娛樂 "wikilink")）
   - 經歷：曾與[SPICA](https://zh.wikipedia.org/wiki/Spica_\(組合\) "wikilink")[知元作為](../Page/楊知元.md "wikilink")[T-ara成員](https://zh.wikipedia.org/wiki/T-ara "wikilink")，也是出道前選的第一位[T-ara隊長](https://zh.wikipedia.org/wiki/T-ara "wikilink")，但因不同音樂風格於正式出道前脫離組合。
   - 出道前作品：MBC《[男版灰姑娘](../Page/男版灰姑娘.md "wikilink")》演唱[OST](https://zh.wikipedia.org/wiki/OST "wikilink")〈好人〉時是[T-ara的身分](https://zh.wikipedia.org/wiki/T-ara "wikilink")。
 

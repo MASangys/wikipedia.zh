@@ -5,7 +5,7 @@
 
 ## 劇情
 
-對[新聞工作充滿使命感的](https://zh.wikipedia.org/wiki/新聞 "wikilink")[記者](../Page/記者.md "wikilink")藍苡晴（[郭雪芙](../Page/郭雪芙.md "wikilink")飾），追求真理、報導事實真相是她對自己的要求。原以為踏進報社就能發揮所長，卻只能聽命長官指示在網路論壇上找新聞。藍苡晴闖入數十萬網友聚集的BBS論壇，看到所有網友群起攻擊夢想板板主——湘（李澄湘，[陳意涵](../Page/陳意涵.md "wikilink")飾），湘創立夢想板之原意是讓網友們分享彼此的夢想。
+對[新聞工作充滿使命感的](https://zh.wikipedia.org/wiki/新聞 "wikilink")[記者](../Page/記者.md "wikilink")藍苡晴（[郭雪芙飾](https://zh.wikipedia.org/wiki/郭雪芙 "wikilink")），追求真理、報導事實真相是她對自己的要求。原以為踏進報社就能發揮所長，卻只能聽命長官指示在網路論壇上找新聞。藍苡晴闖入數十萬網友聚集的BBS論壇，看到所有網友群起攻擊夢想板板主——湘（李澄湘，[陳意涵](../Page/陳意涵.md "wikilink")飾），湘創立夢想板之原意是讓網友們分享彼此的夢想。
 
 因為一段不該外流的影片，湘成為人肉搜索的主角，電腦工程師黃冠軍（[修杰楷](../Page/修杰楷.md "wikilink")飾）雖挺身而出為湘說話，要大家冷靜。但排山倒海而來的辱罵、一通接著一通無法辨識的來電號碼，她無法承受這一切且瀕臨崩潰邊緣。
 
@@ -42,7 +42,7 @@
 在駭客大賽秒殺對手而成為網路上擁有一定知名度及支持者的名人。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/郭雪芙.md" title="wikilink">郭雪芙</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/郭雪芙" title="wikilink">郭雪芙</a></strong><br />
 <small>前導:<a href="https://zh.wikipedia.org/wiki/豆花妹" title="wikilink">豆花妹</a></small></p></td>
 <td><center>
 <p>藍苡晴</p>
@@ -88,25 +88,25 @@
 
 ### 相關演員
 
-|                                                     |                                                     |                                                   |
-| --------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------- |
-| **演員**                                              | **角色**                                              | **備註**                                            |
-| [蔡阿嘎](https://zh.wikipedia.org/wiki/蔡緯嘉 "wikilink") | [酸　民](../Page/鄉民_\(網路用語\).md "wikilink")            | ID:acid，因白文慧與其他版主罵鄉民而感到不滿，把所有鄉民聚集起來叫白文慧下台。        |
-| [麥　基](https://zh.wikipedia.org/wiki/謝凱仲 "wikilink") | 鄉　民                                                 | 因白文慧與其他版主罵鄉民而感到不滿，把所有鄉民聚集起來叫白文慧下台。                |
-| [龜　臉](https://zh.wikipedia.org/wiki/龜臉 "wikilink")  | 鄉　民                                                 | 因白文慧與其他版主罵鄉民而感到不滿，把所有鄉民聚集起來叫白文慧下台。                |
-| [李鳳新](../Page/李鳳新.md "wikilink")                    | 李組長                                                 | 58歲。ID:Captain Lee，警局榮譽警官，專門處理各種詭譎的案件，遇到事情經常眉頭一皺。 |
-| [廖苡喬](https://zh.wikipedia.org/wiki/廖苡喬 "wikilink") |                                                     | Beauty板主。                                         |
-| [金　勤](../Page/金勤.md "wikilink")                     | 站　長                                                 | BBS站站長。                                           |
-| [梁正群](../Page/梁正群.md "wikilink")                    | 林醫師                                                 | 湘的主治醫生。曾經也是BBS版主之一。                               |
-| [劉紀範](../Page/劉紀範.md "wikilink")                    | 金剛芭比                                                | ID:KongGirl，服飾店老闆，鄉民。                             |
-| [甘宗哲](https://zh.wikipedia.org/wiki/甘宗哲 "wikilink") | [兵馬俑](https://zh.wikipedia.org/wiki/兵馬俑 "wikilink") | 街頭藝人，鄉民。                                          |
-| [蔡越昀](https://zh.wikipedia.org/wiki/蔡越昀 "wikilink") | 老　闆                                                 | 香腸攤老闆，鄉民。                                         |
-| [林明翰](https://zh.wikipedia.org/wiki/林明翰 "wikilink") | 小　開                                                 | 香腸攤小開，鄉民。                                         |
-| [林亮君](../Page/林亮君.md "wikilink")                    | 老闆娘                                                 | 香腸攤老闆娘，鄉民。                                        |
-| [林恩進](https://zh.wikipedia.org/wiki/林恩進 "wikilink") | 法　官                                                 | ID:judge，法官，鄉民。                                   |
-| [高瑋圻](https://zh.wikipedia.org/wiki/高瑋圻 "wikilink") | 主　管                                                 | 雷報報社主管，藍苡晴上司，個性偏激。                                |
-| [王　師](https://zh.wikipedia.org/wiki/王師 "wikilink")  | 總經理                                                 | FOUR SQUARE 總經理，因King的駭客身分而無法雇用他。                 |
-|                                                     |                                                     |                                                   |
+|                                                     |                                                             |                                                   |
+| --------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------- |
+| **演員**                                              | **角色**                                                      | **備註**                                            |
+| [蔡阿嘎](https://zh.wikipedia.org/wiki/蔡緯嘉 "wikilink") | [酸　民](https://zh.wikipedia.org/wiki/鄉民_\(網路用語\) "wikilink") | ID:acid，因白文慧與其他版主罵鄉民而感到不滿，把所有鄉民聚集起來叫白文慧下台。        |
+| [麥　基](https://zh.wikipedia.org/wiki/謝凱仲 "wikilink") | 鄉　民                                                         | 因白文慧與其他版主罵鄉民而感到不滿，把所有鄉民聚集起來叫白文慧下台。                |
+| [龜　臉](https://zh.wikipedia.org/wiki/龜臉 "wikilink")  | 鄉　民                                                         | 因白文慧與其他版主罵鄉民而感到不滿，把所有鄉民聚集起來叫白文慧下台。                |
+| [李鳳新](../Page/李鳳新.md "wikilink")                    | 李組長                                                         | 58歲。ID:Captain Lee，警局榮譽警官，專門處理各種詭譎的案件，遇到事情經常眉頭一皺。 |
+| [廖苡喬](https://zh.wikipedia.org/wiki/廖苡喬 "wikilink") |                                                             | Beauty板主。                                         |
+| [金　勤](../Page/金勤.md "wikilink")                     | 站　長                                                         | BBS站站長。                                           |
+| [梁正群](https://zh.wikipedia.org/wiki/梁正群 "wikilink") | 林醫師                                                         | 湘的主治醫生。曾經也是BBS版主之一。                               |
+| [劉紀範](../Page/劉紀範.md "wikilink")                    | 金剛芭比                                                        | ID:KongGirl，服飾店老闆，鄉民。                             |
+| [甘宗哲](https://zh.wikipedia.org/wiki/甘宗哲 "wikilink") | [兵馬俑](https://zh.wikipedia.org/wiki/兵馬俑 "wikilink")         | 街頭藝人，鄉民。                                          |
+| [蔡越昀](https://zh.wikipedia.org/wiki/蔡越昀 "wikilink") | 老　闆                                                         | 香腸攤老闆，鄉民。                                         |
+| [林明翰](https://zh.wikipedia.org/wiki/林明翰 "wikilink") | 小　開                                                         | 香腸攤小開，鄉民。                                         |
+| [林亮君](https://zh.wikipedia.org/wiki/林亮君 "wikilink") | 老闆娘                                                         | 香腸攤老闆娘，鄉民。                                        |
+| [林恩進](https://zh.wikipedia.org/wiki/林恩進 "wikilink") | 法　官                                                         | ID:judge，法官，鄉民。                                   |
+| [高瑋圻](https://zh.wikipedia.org/wiki/高瑋圻 "wikilink") | 主　管                                                         | 雷報報社主管，藍苡晴上司，個性偏激。                                |
+| [王　師](https://zh.wikipedia.org/wiki/王師 "wikilink")  | 總經理                                                         | FOUR SQUARE 總經理，因King的駭客身分而無法雇用他。                 |
+|                                                     |                                                             |                                                   |
 
 ### 客串演出
 
@@ -126,12 +126,12 @@
 
 ### 配音演出
 
-|                                  |                                                     |                                                                                |
-| -------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **演員**                           | **角色**                                              | **備註**                                                                         |
-| [蔣鐵城](../Page/蔣鐵城.md "wikilink") | [木偶人](https://zh.wikipedia.org/wiki/木偶人 "wikilink") | BBS言語過濾程式，W-Virus。站方用於管理、刪除鄉民不當之言論。                                            |
-| [蔣篤慧](../Page/蔣篤慧.md "wikilink") | 女　皇                                                 | 黃冠軍另一網路分身，利用[木馬病毒駭進湘的電腦散播不實謠言](https://zh.wikipedia.org/wiki/木馬病毒 "wikilink")。 |
-| 藏鏡人                              | 鬧　鐘                                                 | King自己撰寫的鬧鐘程式，用來提醒重要事項，但卻成為第一次與木偶人交手時的絆腳石。                                     |
+|                                                     |                                                     |                                                                                |
+| --------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **演員**                                              | **角色**                                              | **備註**                                                                         |
+| [蔣鐵城](https://zh.wikipedia.org/wiki/蔣鐵城 "wikilink") | [木偶人](https://zh.wikipedia.org/wiki/木偶人 "wikilink") | BBS言語過濾程式，W-Virus。站方用於管理、刪除鄉民不當之言論。                                            |
+| [蔣篤慧](../Page/蔣篤慧.md "wikilink")                    | 女　皇                                                 | 黃冠軍另一網路分身，利用[木馬病毒駭進湘的電腦散播不實謠言](https://zh.wikipedia.org/wiki/木馬病毒 "wikilink")。 |
+| 藏鏡人                                                 | 鬧　鐘                                                 | King自己撰寫的鬧鐘程式，用來提醒重要事項，但卻成為第一次與木偶人交手時的絆腳石。                                     |
 
 ## 音樂
 
@@ -166,7 +166,7 @@ Hero</p></td>
   - 2010年6月26日 前導片正式在[Youtube推出](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[6\]，不到一個月，點閱人數突破50萬人。
   - 2010年10月 木偶人工作室轉型為[星木映像股份有限公司](https://zh.wikipedia.org/wiki/星木映像股份有限公司 "wikilink")，為了完成電影，一邊接案一邊尋求各種補助機制。
   - 2010年年底 推出[BBS鄉民小劇場](../Page/木偶人_\(動畫\).md "wikilink")
-  - [2011年5月](../Page/2011年5月.md "wikilink") BBS鄉民的正義前導短片突破百萬瀏覽人次，BBS鄉民小劇場突破三百萬人次。由聯華食品可樂果的贊助，而展開電影的正式製作
+  - [2011年5月](https://zh.wikipedia.org/wiki/2011年5月 "wikilink") BBS鄉民的正義前導短片突破百萬瀏覽人次，BBS鄉民小劇場突破三百萬人次。由聯華食品可樂果的贊助，而展開電影的正式製作
   - 2011年7月4日 星木團隊正式宣佈，BBS鄉民的正義正式開拍
   - 2012年8月17日 正式上映。
 

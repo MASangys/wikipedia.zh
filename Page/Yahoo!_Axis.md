@@ -1,7 +1,7 @@
 > 本文内容由[Yahoo! Axis](https://zh.wikipedia.org/wiki/Yahoo!_Axis)转换而来。
 
 
-**Yahoo\! Axis**是由[Yahoo\!開發的](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")“[-{zh-hans:搜索;zh-hant:搜尋;}-瀏覽器](../Page/搜索引擎.md "wikilink")\[1\]”\[2\]，於2012年5月23日發布\[3\]。該瀏覽器包括iPhone、iPad版[移動瀏覽器](https://zh.wikipedia.org/wiki/移動瀏覽器 "wikilink")，和桌面端[Google Chrome](../Page/Google_Chrome.md "wikilink")、Mozilla [Firefox](../Page/Firefox.md "wikilink")、Microsoft Windows [Internet Explorer和Apple](../Page/Internet_Explorer.md "wikilink") [Safari](../Page/Safari.md "wikilink")等[網頁瀏覽器的](../Page/网页浏览器.md "wikilink")。於2013年6月28日,Yahoo\!宣布終止開發\[4\]。
+**Yahoo\! Axis**是由[Yahoo\!開發的](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")“[-{zh-hans:搜索;zh-hant:搜尋;}-瀏覽器](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")\[1\]”\[2\]，於2012年5月23日發布\[3\]。該瀏覽器包括iPhone、iPad版[移動瀏覽器](https://zh.wikipedia.org/wiki/移動瀏覽器 "wikilink")，和桌面端[Google Chrome](../Page/Google_Chrome.md "wikilink")、Mozilla [Firefox](https://zh.wikipedia.org/wiki/Firefox "wikilink")、Microsoft Windows [Internet Explorer和Apple](../Page/Internet_Explorer.md "wikilink") [Safari](../Page/Safari.md "wikilink")等[網頁瀏覽器的](../Page/网页浏览器.md "wikilink")。於2013年6月28日,Yahoo\!宣布終止開發\[4\]。
 
 ## 設計
 
@@ -27,7 +27,7 @@ Yahoo\! Axis瀏覽器的搜尋列，在搜尋時會顯示圖像化的建議结�
 目前适用的桌面端網頁瀏覽器有：
 
   - [Google Chrome](../Page/Google_Chrome.md "wikilink")
-  - Mozilla [Firefox](../Page/Firefox.md "wikilink")（版本7及以上版本）
+  - Mozilla [Firefox](https://zh.wikipedia.org/wiki/Firefox "wikilink")（版本7及以上版本）
   - Microsoft Windows [Internet Explorer](../Page/Internet_Explorer.md "wikilink")（版本9及以上版本）
   - Apple [Safari](../Page/Safari.md "wikilink")（版本5及以上版本）\[11\]
 
@@ -35,7 +35,7 @@ Yahoo\! Axis瀏覽器的搜尋列，在搜尋時會顯示圖像化的建議结�
 
   - [Yahoo\!](../Page/雅虎.md "wikilink")
       - [Yahoo\! Search](../Page/Yahoo!_Search.md "wikilink")
-  - [搜索引擎](../Page/搜索引擎.md "wikilink")
+  - [搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")
 
 ## 注釋及參考資料
 
@@ -53,5 +53,5 @@ Yahoo\! Axis瀏覽器的搜尋列，在搜尋時會顯示圖像化的建議结�
 7.
 8.
 9.
-10. 以[Android](../Page/Android.md "wikilink")為移动操作系統裝置的Yahoo\! Axis移動瀏覽器尚未释出，參見
+10. 以[Android為移动操作系統裝置的Yahoo](https://zh.wikipedia.org/wiki/Android "wikilink")\! Axis移動瀏覽器尚未释出，參見
 11.

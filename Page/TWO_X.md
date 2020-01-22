@@ -252,23 +252,23 @@
 | ---------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------- |
 | 名稱                                                                     | 頻道                                                              | 日期                                 |
 | Double Up                                                              |                                                                 |                                    |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                              | 8月16日、8月23日、9月6日、9月13日、9月20日、9月27日 |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           | 8月16日、8月23日、9月6日、9月13日、9月20日、9月27日 |
 | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")             | 8月17日、8月24日、8月31日、9月7日、9月14日、9月28日 |
 | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")             | 8月18日、8月25日、9月1日、9月8日、9月29日        |
 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")             | 8月19日、8月26日、9月9日、9月16日、9月30日       |
 | [Show Champion](../Page/Show_Champion.md "wikilink")                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")             | 8月28日、9月4日、9月18日                   |
 | [Simply K-pop](https://zh.wikipedia.org/wiki/Simply_K-pop "wikilink")  | [ArirangTV](https://zh.wikipedia.org/wiki/ArirangTV "wikilink") | 9月5日                               |
 
-|                                                                           |                                                     |                             |
-| ------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------- |
-| 名稱                                                                        | 頻道                                                  | 日期                          |
-| Ring Ma Bell                                                              |                                                     |                             |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")    | [Mnet](../Page/Mnet.md "wikilink")                  | 2月14日、2月21日、2月28日、3月7日      |
-| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 2月15日、3月1日、3月8日、4月5日        |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 2月16日、2月23日、3月9日、3月23日、4月6日 |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 2月17日、2月24日                 |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 2月20日、2月27日、3月6日            |
-| [Music Triangle](https://zh.wikipedia.org/wiki/Music_Triangle "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                  | 3月13日                       |
+|                                                                           |                                                       |                             |
+| ------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------- |
+| 名稱                                                                        | 頻道                                                    | 日期                          |
+| Ring Ma Bell                                                              |                                                       |                             |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")    | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 2月14日、2月21日、2月28日、3月7日      |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 2月15日、3月1日、3月8日、4月5日        |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 2月16日、2月23日、3月9日、3月23日、4月6日 |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 2月17日、2月24日                 |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 2月20日、2月27日、3月6日            |
+| [Music Triangle](https://zh.wikipedia.org/wiki/Music_Triangle "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 3月13日                       |
 
 <table>
 <tbody>
@@ -294,7 +294,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet媒體" title="wikilink">Mnet</a></p></td>
 <td><p>9月1日</p></td>
 </tr>
 <tr class="even">

@@ -51,7 +51,7 @@ Jolla每周都会有员工来到中国，以了解中国市场。除了在中国
 
 2012年7月6日，Jolla 公开宣布它将在国际范围内的独立投资人和合作伙伴的支持下，设计、开发、销售新的智能手机；新手机将搭载Sailfish OS基于[Linux](../Page/Linux.md "wikilink")的操作系统和Jolla设计的全新的用户界面。Sailfish OS将“建立在[MeeGo](../Page/MeeGo.md "wikilink")操作系统之上，以[Mer](../Page/Mer.md "wikilink")为核心”。(Mer是诺基亚抛弃MeeGo之后，MeeGo社区继续开发的MeeGo的分支。)\[13\]因此，Sailfish OS包含Mer的核心。Mer是MeeGo的分支，是专为设备厂商(如Jolla)设计的核心操作系统发行版。它仅提供最基本的操作系统核心，而界面和交互方式等则由设备厂商定制。它支持[Qt](../Page/Qt.md "wikilink")、[QML](../Page/QML.md "wikilink")、[HTML5](../Page/HTML5.md "wikilink")开发平台。Jolla团队由前诺基亚MeeGo项目的核心工程师和领导组成，他们打算借助[MeeGo](../Page/MeeGo.md "wikilink")的卓越性能创造新的智能手机和新产品。 \[14\]\[15\]
 
-Jolla的CEO Jussi Hurmola谈竞争时说：“让Jolla的手机与众不同的是[用户体验](https://zh.wikipedia.org/wiki/用户体验 "wikilink")。这正是我们所做的。Jolla致力于创造崭新的，区别于[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")的东西。我们想为MeeGo引入受欢迎的特性：原生的多任务，应用整合，以及数据整合。我现在使用[诺基亚N9手机来完成我所有的移动工作任务](https://zh.wikipedia.org/wiki/诺基亚N9 "wikilink")。我非常高兴地看到所有这些应用一直都在运行。我们想帮助用户避免不停地切回初始界面，关闭当前应用程序的情况。此外，用户界面必须是可定制的。“\[16\]
+Jolla的CEO Jussi Hurmola谈竞争时说：“让Jolla的手机与众不同的是[用户体验](https://zh.wikipedia.org/wiki/用户体验 "wikilink")。这正是我们所做的。Jolla致力于创造崭新的，区别于[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android的东西](https://zh.wikipedia.org/wiki/Android "wikilink")。我们想为MeeGo引入受欢迎的特性：原生的多任务，应用整合，以及数据整合。我现在使用[诺基亚N9手机来完成我所有的移动工作任务](https://zh.wikipedia.org/wiki/诺基亚N9 "wikilink")。我非常高兴地看到所有这些应用一直都在运行。我们想帮助用户避免不停地切回初始界面，关闭当前应用程序的情况。此外，用户界面必须是可定制的。“\[16\]
 
 ### 经营管理
 
@@ -73,7 +73,7 @@ Jolla的领导阶层：[主席](../Page/主席.md "wikilink") [Antti Saarnio](ht
 
 Jolla计划的第一款产品是面向大众市场的智能手机，目标对象是普通用户。这款产品还附加了“开发者模式”，以满足开发者和发烧友的需求。”Jolla将会发布一款开发者版本的设备，为Linux黑客和科技发烧友提供完整的访问入口。Jolla将会全力支持社区，并成为他们的一员，也希望他们能够参与到我们的设备研发过程中。“\[19\]
 
-[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink") [Jussi Hurmola](https://zh.wikipedia.org/wiki/Jussi_Hurmola "wikilink") 曾说评论此计划：“我们以起源——MeeGo，Maemo，Moblin和其他计划为荣。””UI是重大的事情，也是我们选择MeeGo的原因之一。若采用[Android](../Page/Android.md "wikilink")我们能做的只是复制——而选择MeeGo我们可以引入一些全新的特性。“”我们想要在技术和UI两方面成为业界的领导者，这就是我们要做的。我们不想复制其他Android厂商。“\[20\] 他还声明，只有在产品可以被交付的时候，才会正式发布它，因此产品规格和上市时间目前都不会公布。第一款产品将会在2012年面世。\[21\]
+[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink") [Jussi Hurmola](https://zh.wikipedia.org/wiki/Jussi_Hurmola "wikilink") 曾说评论此计划：“我们以起源——MeeGo，Maemo，Moblin和其他计划为荣。””UI是重大的事情，也是我们选择MeeGo的原因之一。若采用[Android我们能做的只是复制](https://zh.wikipedia.org/wiki/Android "wikilink")——而选择MeeGo我们可以引入一些全新的特性。“”我们想要在技术和UI两方面成为业界的领导者，这就是我们要做的。我们不想复制其他Android厂商。“\[20\] 他还声明，只有在产品可以被交付的时候，才会正式发布它，因此产品规格和上市时间目前都不会公布。第一款产品将会在2012年面世。\[21\]
 
 ### 软件
 

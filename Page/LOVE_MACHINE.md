@@ -52,7 +52,7 @@
 
 ## 電視劇
 
-《**"青澀時代"名曲劇集系列 「早安少女組。“LOVE MACHINE”」**》為[2017年](../Page/2017年.md "wikilink")[3月25日](../Page/3月25日.md "wikilink")22:00 - 23:00[NHK BS Premium播出的日本](../Page/NHK_BS_Premium.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")\[1\]。以早安少女組。〈LOVE MACHINE〉1999年日本背景為主題\[2\]。
+《**"青澀時代"名曲劇集系列 「早安少女組。“LOVE MACHINE”」**》為[2017年](../Page/2017年.md "wikilink")[3月25日](../Page/3月25日.md "wikilink")22:00 - 23:00[NHK BS Premium播出的日本](https://zh.wikipedia.org/wiki/NHK_BS_Premium "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")\[1\]。以早安少女組。〈LOVE MACHINE〉1999年日本背景為主題\[2\]。
 
 ### キャスト
 

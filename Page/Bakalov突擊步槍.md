@@ -33,9 +33,9 @@ Bakalov的基本設計是以[AK槍族作雛型](https://zh.wikipedia.org/wiki/AK
   - [K-3](../Page/K3突擊步槍.md "wikilink")
   - [86S式](../Page/86S式自動步槍.md "wikilink")
   - [95式](../Page/95式自動步槍.md "wikilink")
-  - [AKM](../Page/AKM突擊步槍.md "wikilink")
+  - [AKM](https://zh.wikipedia.org/wiki/AKM突擊步槍 "wikilink")
   - [AK-74](../Page/AK-74突击步枪.md "wikilink")
-  - [AKU-94](../Page/AKU-94突擊步槍.md "wikilink")
+  - [AKU-94](https://zh.wikipedia.org/wiki/AKU-94突擊步槍 "wikilink")
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink") [Category:保加利亞槍械](https://zh.wikipedia.org/wiki/Category:保加利亞槍械 "wikilink") [Category:試驗和研究槍械](https://zh.wikipedia.org/wiki/Category:試驗和研究槍械 "wikilink")
 

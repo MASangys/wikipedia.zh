@@ -5,7 +5,7 @@
 
 ## 簡介
 
-因為健康原因宣布休息半年，復歸後的首張作品。自2006年發售銷量超過300萬張的大熱精選輯《[ALL SINGLES BEST](../Page/ALL_SINGLES_BEST_\(可苦可樂專輯\).md "wikilink")》後的第二張精選輯。收錄前一張精選輯後發行的所有單曲A面及部份c/w曲、合作歌曲加上初次CD化的歌曲總共21首歌曲。Disc-2的收錄曲除了《太陽的旋律》以外皆為初收錄新曲。
+因為健康原因宣布休息半年，復歸後的首張作品。自2006年發售銷量超過300萬張的大熱精選輯《[ALL SINGLES BEST](https://zh.wikipedia.org/wiki/ALL_SINGLES_BEST_\(可苦可樂專輯\) "wikilink")》後的第二張精選輯。收錄前一張精選輯後發行的所有單曲A面及部份c/w曲、合作歌曲加上初次CD化的歌曲總共21首歌曲。Disc-2的收錄曲除了《太陽的旋律》以外皆為初收錄新曲。
 
 初回限定盤分為兩種類，A盤附送收錄從出道至今所有單曲A面[音樂錄像帶](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")（包括[絢香×可苦可樂](../Page/絢香×可苦可樂.md "wikilink")名義發表的）的DVD，B盤（[7\&I限定盤](../Page/7&I控股.md "wikilink")）附送收錄《ALL SINGLES BEST》所有收錄曲現場音源的2CD。
 
@@ -17,7 +17,7 @@
 
 ## 商業成績
 
-發行首週登上[公信榜週榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1位，成為自《[NAMELESS WORLD](../Page/NAMELESS_WORLD.md "wikilink")》連續第6張冠軍專輯\[1\]，同時為《[ALL SINGLES BEST](../Page/ALL_SINGLES_BEST_\(可苦可樂專輯\).md "wikilink")》以來的最高首週紀錄。
+發行首週登上[公信榜週榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1位，成為自《[NAMELESS WORLD](../Page/NAMELESS_WORLD.md "wikilink")》連續第6張冠軍專輯\[1\]，同時為《[ALL SINGLES BEST](https://zh.wikipedia.org/wiki/ALL_SINGLES_BEST_\(可苦可樂專輯\) "wikilink")》以來的最高首週紀錄。
 
 本作發行後，可苦可樂的總銷量突破了1000萬張\[2\]。發行次週出貨量突破百萬\[3\]，成為組合第4張突破百萬出貨量的作品\[4\]。
 

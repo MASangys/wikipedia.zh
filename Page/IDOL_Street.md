@@ -1,7 +1,7 @@
 > 本文内容由[IDOL Street](https://zh.wikipedia.org/wiki/IDOL_Street)转换而来。
 
 
-**iDOL Street**是[日本愛貝克思集團在](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")2010年設立的偶像專屬唱片品牌與企劃。同年12月22日發行[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")的[超絶少女](https://zh.wikipedia.org/wiki/超絶少女 "wikilink")，也是該品牌第一個發行的作品。目前旗下主要有SUPER☆GiRLS與[Cheeky Parade團體](../Page/Cheeky_Parade.md "wikilink")。
+**iDOL Street**是[日本愛貝克思集團在](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")2010年設立的偶像專屬唱片品牌與企劃。同年12月22日發行[SUPER☆GiRLS的](https://zh.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")[超絶少女](https://zh.wikipedia.org/wiki/超絶少女 "wikilink")，也是該品牌第一個發行的作品。目前旗下主要有SUPER☆GiRLS與[Cheeky Parade團體](../Page/Cheeky_Parade.md "wikilink")。
 
 ## iDOL Street Project
 
@@ -39,7 +39,7 @@ iDOL Street中目標正式出道的候補成員。根據成員所在地的不同
 
 ## 相關條目
 
-  - [SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")
+  - [SUPER☆GiRLS](https://zh.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")
   - [Cheeky Parade](../Page/Cheeky_Parade.md "wikilink")
 
 [Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")

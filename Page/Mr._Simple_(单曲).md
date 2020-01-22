@@ -7,7 +7,7 @@
 
 《Mr. Simple》是Super Junior第五張正規專輯《[Mr. Simple](../Page/Mr._Simple.md "wikilink")》主打曲《Mr. Simple》的日語版本。
 
-## 曲目
+## 收錄內容
 
   - DVD
 

@@ -1,7 +1,7 @@
 > 本文内容由[X射线衍射仪](https://zh.wikipedia.org/wiki/X射线衍射仪)转换而来。
 
 
-[DX-2700_01.jpg](https://zh.wikipedia.org/wiki/File:DX-2700_01.jpg "fig:DX-2700_01.jpg") **X射线繞射儀**（X-ray diffractometer，XRD）是利用[X射线](../Page/X射线.md "wikilink")[繞射原理研究物质内部结构的一种大型分析仪器](https://zh.wikipedia.org/wiki/繞射 "wikilink")。令一束X射线和样品交互，用生成的衍射图谱来分析物质结构。它是在[X射线晶体学](../Page/X射线晶体学.md "wikilink")领域中在[原子](../Page/原子.md "wikilink")尺度范围内研究材料结构的主要仪器，也可用于研究[非晶体](https://zh.wikipedia.org/wiki/非晶体 "wikilink")。
+[DX-2700_01.jpg](https://zh.wikipedia.org/wiki/File:DX-2700_01.jpg "fig:DX-2700_01.jpg") **X射线繞射儀**（X-ray diffractometer，XRD）是利用[X射线](../Page/X射线.md "wikilink")[繞射原理研究物质内部结构的一种大型分析仪器](https://zh.wikipedia.org/wiki/繞射 "wikilink")。令一束X射线和样品交互，用生成的衍射图谱来分析物质结构。它是在[X射线晶体学](../Page/X射线晶体学.md "wikilink")领域中在[原子尺度范围内研究材料结构的主要仪器](https://zh.wikipedia.org/wiki/原子 "wikilink")，也可用于研究[非晶体](https://zh.wikipedia.org/wiki/非晶体 "wikilink")。
 
 ## 原理
 

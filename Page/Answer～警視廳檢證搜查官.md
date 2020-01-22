@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - **薄井昭三（50）**：[松重豐](../Page/松重豐.md "wikilink") 飾
+  - **薄井昭三（50）**：[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink") 飾
 
 <!-- end list -->
 
@@ -101,7 +101,7 @@
 **第1集**
 
   - 塚田綾乃：[高岡早紀](../Page/高岡早紀.md "wikilink")
-  - 柴田雪實：[小澤真珠](../Page/小澤真珠.md "wikilink")
+  - 柴田雪實：[小澤真珠](https://zh.wikipedia.org/wiki/小澤真珠 "wikilink")
   - 塚田裕三：[並木史朗](https://zh.wikipedia.org/wiki/並樹史朗 "wikilink")
 
 **第2集**
@@ -111,8 +111,8 @@
 
 **第3集**
 
-  - 寺本大輝：[石黑英雄](../Page/石黑英雄.md "wikilink")（少年時期：[山田日向](https://zh.wikipedia.org/wiki/山田日向 "wikilink")）
-  - 山根里櫻：[廣瀨愛麗絲](../Page/廣瀨愛麗絲.md "wikilink")
+  - 寺本大輝：[石黑英雄](https://zh.wikipedia.org/wiki/石黑英雄 "wikilink")（少年時期：[山田日向](https://zh.wikipedia.org/wiki/山田日向 "wikilink")）
+  - 山根里櫻：[廣瀨愛麗絲](https://zh.wikipedia.org/wiki/廣瀨愛麗絲 "wikilink")
 
 **第4集**
 

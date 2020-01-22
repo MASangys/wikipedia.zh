@@ -1,7 +1,7 @@
 > 本文内容由[La-7戰鬥機](https://zh.wikipedia.org/wiki/La-7戰鬥機)转换而来。
 
 
-**La-7**是苏联[第二次世界大战](../Page/第二次世界大战.md "wikilink")的主力活塞式歼击机。
+**La-7**是苏联[第二次世界大战的主力活塞式歼击机](https://zh.wikipedia.org/wiki/第二次世界大战 "wikilink")。
 
 ## 历史
 

@@ -44,7 +44,7 @@ LTE國際航空在2008年夏季時有以下航點：
 
 1.
 2.
-3.  [CH Aviation](http://www.ch-aviation.ch/news.php) 26 March 2005
+3.  [CH Aviation](http://www.ch-aviation.ch/news.php)  26 March 2005
 4.  [Lte suspends operations](http://www.elmundo.es/mundodinero/2008/10/16/economia/1224188868.html)
 5.  [西班牙 LTE 国际航空：暂停包机航班 flight global](http://www.flightglobal.com/airspace/blogs/chati/archive/2008/10/20/_7f89ed735972_-lte-_fd5645962a827a7a1aff82665c5005533a672a82ed73_.aspx)
 6.  [Lte Fleet](http://www.airfleets.net/flottecie/LTE.htm)

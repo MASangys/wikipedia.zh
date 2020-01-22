@@ -1,7 +1,7 @@
 > 本文内容由[LOVELY×CATION](https://zh.wikipedia.org/wiki/LOVELY×CATION)转换而来。
 
 
-《**LOVELY×CATION**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")旗下品牌曉WORKS-响-（現hibiki works）在2011年6月24日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2011年7月1日發售通常版。\[2\]2013年5月31日由[DMM.com](../Page/DMM.com.md "wikilink")獨占發售DL版。\[3\]2013年6月28日由hibiki works發售包含全部APPEND LIFE的合集版《**LOVELY×CATION -もうずっと初恋の日々エディション-**》。\[4\]2015年5月21日由5pb.發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION 1&2**》。\[5\]衍生[書籍](https://zh.wikipedia.org/wiki/書籍 "wikilink")、[OVA也陸續推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。
+《**LOVELY×CATION**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")旗下品牌曉WORKS-响-（現hibiki works）在2011年6月24日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2011年7月1日發售通常版。\[2\]2013年5月31日由[DMM.com](../Page/DMM.com.md "wikilink")獨占發售DL版。\[3\]2013年6月28日由hibiki works發售包含全部APPEND LIFE的合集版《**LOVELY×CATION -もうずっと初恋の日々エディション-**》。\[4\]2015年5月21日由5pb.發售[PlayStation Vita版](https://zh.wikipedia.org/wiki/PlayStation_Vita "wikilink")《**LOVELY×CATION 1&2**》。\[5\]衍生[書籍](https://zh.wikipedia.org/wiki/書籍 "wikilink")、[OVA也陸續推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
 ## 故事
 

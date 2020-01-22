@@ -41,7 +41,7 @@
   -
     QJ51CF01 [双氯](https://zh.wikipedia.org/wiki/双氯 "wikilink")（Dicloxacillin）
     QJ51CF02 [氯唑西林](https://zh.wikipedia.org/wiki/氯唑西林 "wikilink")（Cloxacillin）
-    QJ51CF03 [甲氧西林](../Page/甲氧西林.md "wikilink")（Meticillin）
+    QJ51CF03 [甲氧西林](https://zh.wikipedia.org/wiki/甲氧西林 "wikilink")（Meticillin）
     QJ51CF04 [苯唑](https://zh.wikipedia.org/wiki/苯唑 "wikilink")（Oxacillin）
     QJ51CF05 [氟氯西林](../Page/氟氯西林.md "wikilink")（Flucloxacillin）
 
@@ -172,7 +172,7 @@
 
   -
     QJ51XB01 [多粘菌素](https://zh.wikipedia.org/wiki/多粘菌素 "wikilink")（Colistin）
-    QJ51XB02 [多粘菌素B](../Page/多粘菌素B.md "wikilink")（Polymyxin B）
+    QJ51XB02 [多粘菌素B](https://zh.wikipedia.org/wiki/多粘菌素B "wikilink")（Polymyxin B）
 
 ### QJ51XX 其他乳房内使用抗菌药物（Other antibacterials for intramammary use）
 

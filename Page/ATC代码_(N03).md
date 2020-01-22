@@ -23,11 +23,11 @@
     N03AB52 苯妥英，复方（Phenytoin, combinations）
     N03AB54 美芬妥英，复方（Mephenytoin, combinations）
 
-### N03AC [噁唑烷](../Page/噁唑烷.md "wikilink")衍生物类（Oxazolidine derivatives）
+### N03AC [噁唑烷衍生物类](https://zh.wikipedia.org/wiki/噁唑烷 "wikilink")（Oxazolidine derivatives）
 
   -
-    N03AC01 [甲乙双酮](../Page/甲乙双酮.md "wikilink")（Paramethadione）
-    N03AC02 [三甲双酮](../Page/三甲双酮.md "wikilink")（Trimethadione）
+    N03AC01 [甲乙双酮](https://zh.wikipedia.org/wiki/甲乙双酮 "wikilink")（Paramethadione）
+    N03AC02 [三甲双酮](https://zh.wikipedia.org/wiki/三甲双酮 "wikilink")（Trimethadione）
     N03AC03 [依沙双酮](https://zh.wikipedia.org/wiki/依沙双酮 "wikilink")（Ethadione）
 
 ### N03AD [琥珀酰胺衍生物类](https://zh.wikipedia.org/wiki/琥珀酰胺 "wikilink")（Succinimide derivatives）
@@ -72,7 +72,7 @@
     N03AX12 [加巴喷丁](../Page/加巴喷丁.md "wikilink")（Gabapentin）
     N03AX13 [苯丁酰脲](https://zh.wikipedia.org/wiki/苯丁酰脲 "wikilink")（Pheneturide）
     N03AX14 [左乙拉西坦](https://zh.wikipedia.org/wiki/左乙拉西坦 "wikilink")（Levetiracetam）
-    N03AX15 [唑尼沙胺](../Page/唑尼沙胺.md "wikilink")（Zonisamide）
+    N03AX15 [唑尼沙胺](https://zh.wikipedia.org/wiki/唑尼沙胺 "wikilink")（Zonisamide）
     N03AX16 [普瑞巴林](https://zh.wikipedia.org/wiki/普瑞巴林 "wikilink")（Pregabalin）
     N03AX17 [司替戊醇](https://zh.wikipedia.org/wiki/司替戊醇 "wikilink")（Stiripentol）
     N03AX18 [拉科酰胺](https://zh.wikipedia.org/wiki/拉科酰胺 "wikilink")（Lacosamide）

@@ -7,7 +7,7 @@
 
 ## 概要
 
-本作是繼《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》之後，[5pb.](../Page/5pb..md "wikilink")和[Nitro+](../Page/Nitro+.md "wikilink")的[協作企劃](https://zh.wikipedia.org/wiki/協作 "wikilink")「[科學ADV系列](../Page/科學ADV系列.md "wikilink")」的第三部作品。
+本作是繼《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》之後，[5pb.](../Page/5pb..md "wikilink")和[Nitro+](../Page/Nitro+.md "wikilink")的[協作企劃](https://zh.wikipedia.org/wiki/協作 "wikilink")「[科學ADV系列](https://zh.wikipedia.org/wiki/科學ADV系列 "wikilink")」的第三部作品。
 
 故事背景位於2019年的種子島，世界線變動率「1.048596％」，也就是《Steins;Gate》中 TRUE END 的世界線。\[2\] 因此部份《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》的角色也會在本作中登場。
 
@@ -297,7 +297,7 @@
 </tbody>
 </table>
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[空十雲](https://zh.wikipedia.org/wiki/空十雲 "wikilink")《**-{ROBOTICS;NOTES}- -Pleiades Ambition-**》Media Factory〈[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")〉
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[空十雲](https://zh.wikipedia.org/wiki/空十雲 "wikilink")《**-{ROBOTICS;NOTES}- -Pleiades Ambition-**》Media Factory〈[月刊Comic Alive](https://zh.wikipedia.org/wiki/月刊Comic_Alive "wikilink")〉
 
 <table>
 <thead>
@@ -526,7 +526,7 @@
 
 ### 出演演員
 
-  - 八汐海翔：[小澤亮太](../Page/小澤亮太.md "wikilink")
+  - 八汐海翔：[小澤亮太](https://zh.wikipedia.org/wiki/小澤亮太 "wikilink")
   - 瀬乃宮あき穂：[小宮有紗](../Page/小宮有紗.md "wikilink")
   - 日高昴：[戶谷公人](../Page/戶谷公人.md "wikilink")
   - 神代フラウ：大野未来
@@ -565,7 +565,7 @@
   - 色彩設定 - 田中美穗
   - 撮影監督 - 小西庸平
   - 編集 - 植松淳一
-  - 音響監督 - [若林和弘](../Page/若林和弘.md "wikilink")
+  - 音響監督 - [若林和弘](https://zh.wikipedia.org/wiki/若林和弘 "wikilink")
   - 音響効果 - 石野貴久（[サウンドリング](https://zh.wikipedia.org/wiki/サウンドリング "wikilink")）
   - 音樂 - [阿保剛](../Page/阿保剛.md "wikilink")、[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")
   - 動畫制作 - [Production I.G](../Page/Production_I.G.md "wikilink")
@@ -666,7 +666,7 @@
 <td><p>#06</p></td>
 <td></td>
 <td><p>夢想要是結束了，會很寂寞</p></td>
-<td><p><a href="../Page/橫谷昌宏.md" title="wikilink">橫谷昌宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橫谷昌宏" title="wikilink">橫谷昌宏</a></p></td>
 <td><p>矢萩利幸</p></td>
 <td><p>羽多野浩平</p></td>
 <td><p>須賀重行<br />

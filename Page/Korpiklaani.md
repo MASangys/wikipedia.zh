@@ -11,7 +11,7 @@
 
 Korpiklaani和芬兰颂歌之间已经有了一些合作，如芬兰颂歌的萨穆·鲁奥察莱宁（Samu Ruotsalainen）为Korpiklaani的首张专辑《Spirit of the Forest》提供了录音室鼓音，耶尔韦莱也为芬兰颂歌专辑《Jaktens Tid》的主打歌提供了约伊克。
 
-尤哈·于尔凯斯（Juha Jyrkäs）为Korpiklanni写了使用《[卡勒瓦拉](../Page/卡勒瓦拉.md "wikilink")》韵律中的芬兰文歌词。此外，于尔凯斯亦以“维尔娃·霍尔蒂通”（Virva Holtiton）的化名在两首Korpiklaani歌曲《Kädet siipinä》和《Tuli kokko》中演奏了[康特勒琴](../Page/康特勒琴.md "wikilink")。新《Manala》专辑有很大一部分内容是由诗人托马斯·凯斯基麦基（Tuomas Keskimäki）写的，他亦运用了《卡勒瓦拉》韵律中的歌词。
+尤哈·于尔凯斯（Juha Jyrkäs）为Korpiklanni写了使用《[卡勒瓦拉](../Page/卡勒瓦拉.md "wikilink")》韵律中的芬兰文歌词。此外，于尔凯斯亦以“维尔娃·霍尔蒂通”（Virva Holtiton）的化名在两首Korpiklaani歌曲《Kädet siipinä》和《Tuli kokko》中演奏了[康特勒琴](https://zh.wikipedia.org/wiki/康特勒琴 "wikilink")。新《Manala》专辑有很大一部分内容是由诗人托马斯·凯斯基麦基（Tuomas Keskimäki）写的，他亦运用了《卡勒瓦拉》韵律中的歌词。
 
 Korpiklaani在2009年夏发行了第六张录音室专辑《[Karkelo](../Page/Karkelo.md "wikilink")》\[10\]\[11\]。他们在2011年2月上旬发布新专辑《Ukon Wacka》。
 

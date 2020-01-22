@@ -1,13 +1,13 @@
 > 本文内容由[AKMSU卡賓槍](https://zh.wikipedia.org/wiki/AKMSU卡賓槍)转换而来。
 
 
-**AKMSU**是[AKMS的短槍管卡賓槍型](../Page/AKM突擊步槍.md "wikilink")，但由於產量極為稀少，故難以尋找其蹤跡，而且還被認為不是蘇聯製的武器。
+**AKMSU**是[AKMS的短槍管卡賓槍型](https://zh.wikipedia.org/wiki/AKM突擊步槍 "wikilink")，但由於產量極為稀少，故難以尋找其蹤跡，而且還被認為不是蘇聯製的武器。
 
 ## 歷史
 
 根據部份消息指，AKMSU為[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1977年測試的武器之一，主要是打算供當時的[特種部隊](../Page/特種部隊.md "wikilink")和[空降兵試用](https://zh.wikipedia.org/wiki/空降兵 "wikilink")。然而期間發現7.62×39毫米中間型威力彈槍並不適合用在如此短槍管的武器上，這會導致在全自動射擊時[後座力](../Page/後座力.md "wikilink")和太大，令射手難以控制武器。再加上5.45×39毫米口徑的[AKS-74U即將裝備部隊](https://zh.wikipedia.org/wiki/AKS-74U "wikilink")，所以AKMSU還沒被正式採用就撤裝了。
 
-AKMSU較具特色的是其具[穿孔式握把的下](../Page/輔助握把.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。另外它採用了[AKMS樣式的摺疊式](../Page/AKM突擊步槍.md "wikilink")[槍托](../Page/槍托.md "wikilink")，也跟AKS-74U不同。
+AKMSU較具特色的是其具[穿孔式握把的下](../Page/輔助握把.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。另外它採用了[AKMS樣式的摺疊式](https://zh.wikipedia.org/wiki/AKM突擊步槍 "wikilink")[槍托](../Page/槍托.md "wikilink")，也跟AKS-74U不同。
 
 此外，[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")的[PM md.90和前](https://zh.wikipedia.org/wiki/AIM突擊步槍 "wikilink")[南斯拉夫的](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")[Zastava M92的許多設計和構念似乎都是參考了AKMSU](https://zh.wikipedia.org/wiki/Zastava_M92卡賓槍 "wikilink")。
 
@@ -54,7 +54,7 @@ AKMSU很可能是由一名[巴基斯坦](../Page/巴基斯坦.md "wikilink")枪�
 
 ## 参见
 
-  - [AKM突擊步槍](../Page/AKM突擊步槍.md "wikilink")
+  - [AKM突擊步槍](https://zh.wikipedia.org/wiki/AKM突擊步槍 "wikilink")
   - [AK突擊步槍](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")
   - [AKS-74U卡賓槍](https://zh.wikipedia.org/wiki/AKS-74U卡賓槍 "wikilink")
   - [扎斯塔瓦M92卡賓槍](../Page/扎斯塔瓦M92卡賓槍.md "wikilink")

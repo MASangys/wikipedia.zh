@@ -1,7 +1,7 @@
 > 本文内容由[CR彈珠機AKB48](https://zh.wikipedia.org/wiki/CR彈珠機AKB48)转换而来。
 
 
-**CR柏青哥AKB48**（）是[日本](../Page/日本.md "wikilink")[柏青哥機台製造商](https://zh.wikipedia.org/wiki/柏青哥 "wikilink")[京樂產業於](https://zh.wikipedia.org/wiki/京樂產業 "wikilink")2012年8月開始發售的[彈珠機](../Page/彈珠機.md "wikilink")遊戲機台。此機種是京樂產業與女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的幕後營運單位[AKS](../Page/AKS.md "wikilink")跨業合作的企畫產品，為了新機種的上市，部分AKB48成員組成命名為Team Surprise（）的臨時衍生團體。除了針對柏青哥的遊戲內容特別設計了[卡通](../Page/卡通.md "wikilink")化的人物專屬圖像外，也演唱與拍攝了12首全新的[單曲與搭配的](https://zh.wikipedia.org/wiki/單曲 "wikilink")[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，在CR柏青哥AKB48的機台與網路上進行每週一首新歌的《重力共鳴公演》（）。
+**CR柏青哥AKB48**（）是[日本](../Page/日本.md "wikilink")[柏青哥機台製造商](https://zh.wikipedia.org/wiki/柏青哥 "wikilink")[京樂產業於](https://zh.wikipedia.org/wiki/京樂產業 "wikilink")2012年8月開始發售的[彈珠機](../Page/彈珠機.md "wikilink")遊戲機台。此機種是京樂產業與女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的幕後營運單位[AKS跨業合作的企畫產品](https://zh.wikipedia.org/wiki/AKS "wikilink")，為了新機種的上市，部分AKB48成員組成命名為Team Surprise（）的臨時衍生團體。除了針對柏青哥的遊戲內容特別設計了[卡通](../Page/卡通.md "wikilink")化的人物專屬圖像外，也演唱與拍攝了12首全新的[單曲與搭配的](https://zh.wikipedia.org/wiki/單曲 "wikilink")[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，在CR柏青哥AKB48的機台與網路上進行每週一首新歌的《重力共鳴公演》（）。
 
 ## 簡介
 
@@ -62,7 +62,7 @@ Team Surprise是由AKB48與其姊妹團體中知名度較高的16位成員所組
 <tr class="even">
 <td><p>2</p></td>
 <td><p>未知</p></td>
-<td><p><a href="../Page/渡邊美優紀.md" title="wikilink">渡邊美優紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡邊美優紀" title="wikilink">渡邊美優紀</a></p></td>
 <td><p>NMB48 Team BII<br />
 兼任SKE48 Team S</p></td>
 <td></td>
@@ -77,7 +77,7 @@ Team Surprise是由AKB48與其姊妹團體中知名度較高的16位成員所組
 <tr class="even">
 <td><p>4</p></td>
 <td><p>未知</p></td>
-<td><p><a href="../Page/山本彩.md" title="wikilink">山本彩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山本彩" title="wikilink">山本彩</a></p></td>
 <td><p>NMB48 Team N<br />
 兼任AKB48 Team K</p></td>
 <td></td>
@@ -186,7 +186,7 @@ Team Surprise是由AKB48與其姊妹團體中知名度較高的16位成員所組
 
 進行過公演發表的新歌之後會以單曲唱片的形式發行，編號M01至M12的每張單曲唱片都會個別發行「一般發售版」與被稱為「柏青哥廳版」（）的唱片版本，其中一般發售版是透過[網路專賣](https://zh.wikipedia.org/wiki/網路 "wikilink")，而柏青哥廳版則只有在有導入「CR柏青哥AKB48」機台的柏青哥中心與[SUNSHINE SAKAE](../Page/SUNSHINE_SAKAE.md "wikilink")（[SKE48](../Page/SKE48.md "wikilink")的公演主場）網路商店才購買得到。兩版本的收錄曲目與音樂影片都相同，但封面設計不同。與AKB48其他的單曲與專輯唱片作法雷同，重力共鳴公演的各單曲唱片中都會附贈3張被稱為「生寫真」的成員宣傳照。這3張照片是自45張不同的照片中隨機選擇出來的，但因為一般發售版與柏青哥廳版所附贈的生寫真是從兩套完全不同的照片集中挑選出來的，因此照片的種類實際上高達90種。
 
-在重力共鳴公演的12首歌曲發行約一年後，AKB48的幕後營運單位[AKS](../Page/AKS.md "wikilink")又公佈自2013年7月起陸續推出第二階段4首新曲的訊息。由於這4首新曲實際上是在一年前就已經陸續錄製完成，因此發行時畢業已將近一年的前田敦子仍然有參與單曲的錄製與MV的拍攝。
+在重力共鳴公演的12首歌曲發行約一年後，AKB48的幕後營運單位[AKS又公佈自](https://zh.wikipedia.org/wiki/AKS "wikilink")2013年7月起陸續推出第二階段4首新曲的訊息。由於這4首新曲實際上是在一年前就已經陸續錄製完成，因此發行時畢業已將近一年的前田敦子仍然有參與單曲的錄製與MV的拍攝。
 
 在下表的演唱成員名單中，標示「\*」號者為該曲的中央位置（center）成員，而所有Team Suprise的全員合唱曲則都是以前田敦子為center。
 

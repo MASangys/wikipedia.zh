@@ -43,7 +43,7 @@
 <p>朴-{太強}-</p></td>
 <td><p>27歲，皮鞋公司新人設計師。想成為只收取半月房租的慷慨富豪，在江南核心地區建一棟大樓。但只有高中學歷，從事皮鞋假冒仿製的工作，遇到管制的話就只能趕緊逃跑。太強不懈怠地提昇品味和擴充人脈，終於進入首屈一指的大型企業，在出眾的設計師中開始了艱難的生存戰。</p></td>
 <td><center>
-<p><a href="../Page/李凱傑.md" title="wikilink">李凱傑</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李凱傑" title="wikilink">李凱傑</a></p></td>
 <td><center>
 <p><a href="../Page/李景唐.md" title="wikilink">李景唐</a></p></td>
 </tr>
@@ -65,7 +65,7 @@
 <p>廉娜莉</p></td>
 <td><p>20代後半，皮鞋公司副社長，擁有學歷、外貌、家境三大完美元素。直言直說，表情冷漠，眼神傲慢，不會輕易動搖。因為不是正室的孩子而是私生女，所以從小就得隱密地生活，仗著會長的寵愛，讓她成為有力的經營繼承者。和芝安對立，一心想牽制她並設法趕走她。</p></td>
 <td><center>
-<p><a href="../Page/羅杏芝.md" title="wikilink">羅杏芝</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/羅杏芝" title="wikilink">羅杏芝</a></p></td>
 <td><center>
 <p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
 </tr>
@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/尹朱尚.md" title="wikilink">尹朱尚</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/尹朱尚" title="wikilink">尹朱尚</a></p></td>
 <td><center>
 <p>-{智}-安父</p></td>
 <td><p>初中國語老師，作為校長退休後，為地區社會發展活動中。秉持傳統教育，對家人很嚴厲。就算女兒事業成功得到認證，也只是認為年紀大嫁不出去真是煩心。</p></td>
@@ -115,7 +115,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/金惠恩.md" title="wikilink">金惠恩</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金惠恩" title="wikilink">金惠恩</a></p></td>
 <td><center>
 <p>奉俊熙</p></td>
 <td><p>芝安的好友，高中畢業就和富豪結婚，但只維持四年婚姻，靠著贍養費享受第二全盛期。</p></td>
@@ -149,7 +149,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/朴英奎.md" title="wikilink">朴英奎</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朴英奎" title="wikilink">朴英奎</a></p></td>
 <td><center>
 <p>朴光錫</p></td>
 <td><p>-{太強}-的爸爸，曾是皮鞋設計師，但現在在梨泰院製作仿製品牌過活。</p></td>
@@ -201,7 +201,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/李對淵.md" title="wikilink">李對淵</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李對淵" title="wikilink">李對淵</a></p></td>
 <td><center>
 <p>廉社長</p></td>
 <td><p>會長的堂弟，娜莉的叔叔。</p></td>
@@ -210,7 +210,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/曹熙奉.md" title="wikilink">曹熙奉</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/曹熙奉" title="wikilink">曹熙奉</a></p></td>
 <td><center>
 <p>薛奉秀</p></td>
 <td><p>被稱為「萬年雪」的男人，開發隊的傳奇。</p></td>
@@ -224,7 +224,7 @@
 <p>宋河尹</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/巫哲棋.md" title="wikilink">巫哲棋</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/巫哲棋" title="wikilink">巫哲棋</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -251,7 +251,7 @@
 <p>馬勝美</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/黃淑芬.md" title="wikilink">黃淑芬</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃淑芬" title="wikilink">黃淑芬</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>

@@ -1,7 +1,7 @@
 > 本文内容由[豐田藤岡IC](https://zh.wikipedia.org/wiki/豐田藤岡IC)转换而来。
 
 
-**豐田藤岡IC**（平假名：とよたふじおかインターチェンジ）是位於[愛知縣](../Page/愛知縣.md "wikilink")[豐田市的](https://zh.wikipedia.org/wiki/豐田市 "wikilink")[東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
+**豐田藤岡IC**（平假名：とよたふじおかインターチェンジ）是位於[愛知縣](../Page/愛知縣.md "wikilink")[豐田市的](https://zh.wikipedia.org/wiki/豐田市 "wikilink")[東海環狀自動車道之](https://zh.wikipedia.org/wiki/東海環狀自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -16,7 +16,7 @@
 
 ## 歷史
 
-  - 2005年3月19日 - [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")[美濃關JCT至](https://zh.wikipedia.org/wiki/美濃關JCT "wikilink")[豐田東JCT開通](https://zh.wikipedia.org/wiki/豐田東JCT "wikilink")，此交流道也同時啟用。
+  - 2005年3月19日 - [東海環狀自動車道](https://zh.wikipedia.org/wiki/東海環狀自動車道 "wikilink")[美濃關JCT至](https://zh.wikipedia.org/wiki/美濃關JCT "wikilink")[豐田東JCT開通](https://zh.wikipedia.org/wiki/豐田東JCT "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -37,7 +37,7 @@
 
 ## 鄰近設施
 
-  - [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")
+  - [東海環狀自動車道](https://zh.wikipedia.org/wiki/東海環狀自動車道 "wikilink")
     (3)[豐田勘八IC](https://zh.wikipedia.org/wiki/豐田勘八IC "wikilink") - (4)**豐田藤岡IC** - (5)[瀨戶赤津IC](https://zh.wikipedia.org/wiki/瀨戶赤津IC "wikilink")/[PA](https://zh.wikipedia.org/wiki/瀨戶赤津PA "wikilink")
 
 ## 相關項目

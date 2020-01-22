@@ -11,7 +11,7 @@
 
 <div class="notice metadata" id="spoiler">
 
-<small>**※動畫版已近[二次創作](../Page/二次創作.md "wikilink")程度，請勿與原作混淆。**</small>
+<small>**※動畫版已近[二次創作程度](https://zh.wikipedia.org/wiki/二次創作 "wikilink")，請勿與原作混淆。**</small>
 
 </div>
 
@@ -527,7 +527,7 @@
   - 角色原案：
   - 監督：[高橋丈夫](../Page/高橋丈夫.md "wikilink")
   - 助監督：末田宣史
-  - 系列構成：[荒川稔久](../Page/荒川稔久.md "wikilink")
+  - 系列構成：[荒川稔久](https://zh.wikipedia.org/wiki/荒川稔久 "wikilink")
   - 角色設定：神本兼利
   - 動物效果設計：村山公輔
   - 美術監督：小野由起子、小濱俊裕
@@ -540,7 +540,7 @@
   - 音樂：
   - 音樂制作：[Lantis](../Page/Lantis.md "wikilink")
   - 動畫製作：[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
-  - 製作：我H製作委員会（[T.O Entertainment](https://zh.wikipedia.org/wiki/T.O_Entertainment "wikilink")、[Geneon Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")、KlockWorx、Lantis、[創通](../Page/創通.md "wikilink")、富士見書房、DAX International、[AT-X](../Page/AT-X.md "wikilink")）
+  - 製作：我H製作委員会（[T.O Entertainment](https://zh.wikipedia.org/wiki/T.O_Entertainment "wikilink")、[Geneon Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")、KlockWorx、Lantis、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、富士見書房、DAX International、[AT-X](../Page/AT-X.md "wikilink")）
 
 ### 主題曲
 
@@ -569,7 +569,7 @@
 <td><p>第1話</p></td>
 <td></td>
 <td><p>命運的紅線！？</p></td>
-<td><p><a href="../Page/荒川稔久.md" title="wikilink">荒川稔久</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒川稔久" title="wikilink">荒川稔久</a></p></td>
 <td><p><a href="../Page/高橋丈夫.md" title="wikilink">高橋丈夫</a></p></td>
 <td><p>園田雅裕</p></td>
 <td><p>齋藤雅和、川島尚<br />
@@ -580,7 +580,7 @@
 <td><p>第2話</p></td>
 <td></td>
 <td><p>色慾對環境有益</p></td>
-<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網谷正治" title="wikilink">網谷正治</a></p></td>
 <td><p>島津裕行</p></td>
 <td><p>小野田雄亮</p></td>
 <td><p>中本尚、川島尚<br />
@@ -596,7 +596,7 @@
 <td></td>
 <td><p>危險的偶像</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長谷川勝己" title="wikilink">長谷川勝己</a></p></td>
-<td><p><a href="../Page/川崎逸朗.md" title="wikilink">川崎逸朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川崎逸朗" title="wikilink">川崎逸朗</a></p></td>
 <td><p><a href="../Page/福本潔.md" title="wikilink">福本潔</a></p></td>
 <td><p>李相辰、長谷川亨雄<br />
 小山知洋、清水勝祐<br />
@@ -613,7 +613,7 @@
 <td><p>成田歲法</p></td>
 <td><p>所俊克</p></td>
 <td><p>山本善哉、山村俊了<br />
-佐藤元昭、<a href="../Page/實原登.md" title="wikilink">實原登</a><br />
+佐藤元昭、<a href="https://zh.wikipedia.org/wiki/實原登" title="wikilink">實原登</a><br />
 中本尚、川島尚<br />
 齋藤雅和、小澤圓</p></td>
 <td><p>神本兼利</p></td>

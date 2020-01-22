@@ -276,11 +276,11 @@ Toonami於1999年改革後，就不時在廣告時段播放由T.O.M.或SARA作�
 
 <!-- end list -->
 
-  - [宇宙浪子](../Page/宇宙浪子.md "wikilink")（adult swim投資作品）
+  - [宇宙浪子](https://zh.wikipedia.org/wiki/宇宙浪子 "wikilink")（adult swim投資作品）
   - [火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")
   - [青之祓魔師](https://zh.wikipedia.org/wiki/青之祓魔師 "wikilink")
   - [黑礁](https://zh.wikipedia.org/wiki/黑礁 "wikilink")
-  - [進擊的巨人](../Page/進擊的巨人.md "wikilink")
+  - [進擊的巨人](https://zh.wikipedia.org/wiki/進擊的巨人 "wikilink")
   - [當心蝙蝠俠](../Page/蝙蝠俠.md "wikilink")
   - [天元突破紅蓮螺巖](https://zh.wikipedia.org/wiki/天元突破紅蓮螺巖 "wikilink")
   - [厄夜怪客 OVA](../Page/厄夜怪客.md "wikilink")
@@ -293,7 +293,7 @@ Toonami於1999年改革後，就不時在廣告時段播放由T.O.M.或SARA作�
 
 <!-- end list -->
 
-  - [KILL la KILL](../Page/KILL_la_KILL.md "wikilink")
+  - [KILL la KILL](https://zh.wikipedia.org/wiki/KILL_la_KILL "wikilink")
   - [刀劍神域Ⅱ](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")
   - [道子與哈金](../Page/道子與哈金.md "wikilink")
   - [斬！赤紅之瞳](../Page/斬！赤紅之瞳.md "wikilink")

@@ -70,7 +70,7 @@
 
   - [Windows 8移除的功能](../Page/Windows_8移除的功能.md "wikilink")
   - [Windows 7新功能](../Page/Windows_7新功能.md "wikilink")
-  - [Windows Vista新功能](../Page/Windows_Vista新功能.md "wikilink")
+  - [Windows Vista新功能](https://zh.wikipedia.org/wiki/Windows_Vista新功能 "wikilink")
   - [Windows XP新功能](../Page/Windows_XP新功能.md "wikilink")
 
 {{-}}

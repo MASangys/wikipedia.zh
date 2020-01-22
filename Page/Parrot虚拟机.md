@@ -5,7 +5,7 @@
 
 ## 历史
 
-Parrot名字的来自一个[愚人节](../Page/愚人节.md "wikilink")的玩笑。2001年愚人节，[歐萊禮](../Page/歐萊禮.md "wikilink")张贴了一则新闻，宣布一个名叫Parrot的[编程语言](../Page/编程语言.md "wikilink")整合了[Perl](../Page/Perl.md "wikilink")和[Python](../Page/Python.md "wikilink")\[1\]\[2\]。后来这个名字被正式用在一个由Perl开发者发起的计划，旨在创造一个能够支持[Perl 6和其他编程语言的虚拟机环境](../Page/Perl_6.md "wikilink")。
+Parrot名字的来自一个[愚人节](../Page/愚人节.md "wikilink")的玩笑。2001年愚人节，[歐萊禮张贴了一则新闻](https://zh.wikipedia.org/wiki/歐萊禮 "wikilink")，宣布一个名叫Parrot的[编程语言](../Page/编程语言.md "wikilink")整合了[Perl](../Page/Perl.md "wikilink")和[Python](../Page/Python.md "wikilink")\[1\]\[2\]。后来这个名字被正式用在一个由Perl开发者发起的计划，旨在创造一个能够支持[Perl 6和其他编程语言的虚拟机环境](https://zh.wikipedia.org/wiki/Perl_6 "wikilink")。
 
 ## 参考文献
 

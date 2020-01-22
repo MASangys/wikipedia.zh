@@ -31,7 +31,7 @@
       -
         6th單曲
 7.  **みんなだいすき**
-    （作詞：C.Piece、作曲：AKIRASTAR、編曲：[安部潤](../Page/安部潤.md "wikilink")）
+    （作詞：C.Piece、作曲：AKIRASTAR、編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")）
       -
         3rd單曲c/w曲
 8.  **I NEED YOU**

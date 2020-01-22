@@ -1,9 +1,9 @@
 > 本文内容由[Google潮流同步](https://zh.wikipedia.org/wiki/Google潮流同步)转换而来。
 
 
-**Google潮流同步**（，官方又译**Google新鲜汇**）是一个[Google](../Page/Google.md "wikilink")于2011年11月发布的社会化移动阅读器。支持[Android](../Page/Android.md "wikilink")以及[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。
+**Google潮流同步**（，官方又译**Google新鲜汇**）是一个[Google](../Page/Google.md "wikilink")于2011年11月发布的社会化移动阅读器。支持[Android以及](https://zh.wikipedia.org/wiki/Android "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
-Google Currents会处理包括[Forbes](https://zh.wikipedia.org/wiki/Forbes "wikilink")，[CNET](../Page/CNET.md "wikilink")，[ReadWriteWeb](../Page/ReadWriteWeb.md "wikilink")，[IBN Live](https://zh.wikipedia.org/wiki/IBN_Live "wikilink")，[Zigwheels等相关资源后展示给用户](https://zh.wikipedia.org/wiki/Zigwheels "wikilink")。并且还支持离线阅读，可以展示世界、娱乐、体育和科学等各类最热门的突发新闻。Google Currents还支持将期刊内容翻译成多达44种用户喜好的语言。 \[1\]并且还支持离线阅读，Google Currents还支持将期刊内容翻译成多达44种用户喜好的语言。此外，Google Currents还可以阅读来自用户的[Google阅读器](../Page/Google阅读器.md "wikilink")中已订阅的内容。
+Google Currents会处理包括[Forbes](https://zh.wikipedia.org/wiki/Forbes "wikilink")，[CNET](../Page/CNET.md "wikilink")，[ReadWriteWeb](https://zh.wikipedia.org/wiki/ReadWriteWeb "wikilink")，[IBN Live](https://zh.wikipedia.org/wiki/IBN_Live "wikilink")，[Zigwheels等相关资源后展示给用户](https://zh.wikipedia.org/wiki/Zigwheels "wikilink")。并且还支持离线阅读，可以展示世界、娱乐、体育和科学等各类最热门的突发新闻。Google Currents还支持将期刊内容翻译成多达44种用户喜好的语言。 \[1\]并且还支持离线阅读，Google Currents还支持将期刊内容翻译成多达44种用户喜好的语言。此外，Google Currents还可以阅读来自用户的[Google阅读器](../Page/Google阅读器.md "wikilink")中已订阅的内容。
 
 Google Currents已于2013年11月20日与[Google Play杂志合并成Google](../Page/Google_Play.md "wikilink") Play报亭，新版应用也于同日上架 Play 商店。
 
@@ -19,7 +19,7 @@ Google Currents已于2013年11月20日与[Google Play杂志合并成Google](../P
   - [Editions](https://zh.wikipedia.org/wiki/Editions_\(software\) "wikilink")
   - [News.me](https://zh.wikipedia.org/wiki/News.me "wikilink")
   - [Zite](https://zh.wikipedia.org/wiki/Zite "wikilink")
-  - [Feedly](../Page/Feedly.md "wikilink")
+  - [Feedly](https://zh.wikipedia.org/wiki/Feedly "wikilink")
   - [The Old Reader](https://zh.wikipedia.org/wiki/The_Old_Reader "wikilink")
 
 ## 相关产品

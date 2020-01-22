@@ -62,16 +62,16 @@
 </tr>
 <tr class="odd">
 <td><p>4月－6月</p></td>
-<td><p><a href="../Page/革命機Valvrave.md" title="wikilink">革命機Valvrave</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/革命機Valvrave" title="wikilink">革命機Valvrave</a></p></td>
 <td></td>
 <td><p>12</p></td>
-<td><p><a href="../Page/日昇動畫.md" title="wikilink">日昇動畫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日昇動畫" title="wikilink">日昇動畫</a></p></td>
 <td><p>25時35分－26時05分</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月－9月</p></td>
-<td><p><a href="../Page/槍彈辯駁_希望學園與絕望高中生.md" title="wikilink">槍彈辯駁 希望學園與絕望高中生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/槍彈辯駁_希望學園與絕望高中生" title="wikilink">槍彈辯駁 希望學園與絕望高中生</a></p></td>
 <td></td>
 <td><p>13</p></td>
 <td><p><a href="../Page/雲雀工作室.md" title="wikilink">Lerche</a></p></td>
@@ -80,7 +80,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月－12月</p></td>
-<td><p><a href="../Page/革命機Valvrave.md" title="wikilink">革命機Valvrave 第2季</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/革命機Valvrave" title="wikilink">革命機Valvrave 第2季</a></p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>日昇動畫</p></td>
@@ -93,7 +93,7 @@
 <td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a></p></td>
 <td></td>
 <td><p>13</p></td>
-<td><p><a href="../Page/WIT_STUDIO.md" title="wikilink">WIT STUDIO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WIT_STUDIO" title="wikilink">WIT STUDIO</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -138,7 +138,7 @@
 <td><p><a href="../Page/夏色奇蹟.md" title="wikilink">夏色奇蹟</a></p></td>
 <td></td>
 <td><p>12</p></td>
-<td><p><a href="../Page/日昇動畫.md" title="wikilink">日昇動畫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日昇動畫" title="wikilink">日昇動畫</a></p></td>
 <td><p>26時25分－26時55分</p></td>
 </tr>
 <tr class="even">
@@ -170,29 +170,29 @@
 </tr>
 <tr class="odd">
 <td><p>7月4日－9月26日</p></td>
-<td><p><a href="../Page/戀愛研究所.md" title="wikilink">戀愛研究所</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀愛研究所" title="wikilink">戀愛研究所</a></p></td>
 <td></td>
 <td><p>13</p></td>
-<td><p><a href="../Page/動畫工房.md" title="wikilink">動畫工房</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/動畫工房" title="wikilink">動畫工房</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10月3日－2014年3月27日</p></td>
-<td><p><a href="../Page/KILL_la_KILL.md" title="wikilink">KILL la KILL</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KILL_la_KILL" title="wikilink">KILL la KILL</a></p></td>
 <td></td>
 <td><p>24</p></td>
-<td><p><a href="../Page/TRIGGER.md" title="wikilink">TRIGGER</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TRIGGER" title="wikilink">TRIGGER</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>4月3日－6月19日</p></td>
-<td><p><a href="../Page/惡魔的謎語.md" title="wikilink">惡魔的謎語</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/惡魔的謎語" title="wikilink">惡魔的謎語</a></p></td>
 <td></td>
 <td><p>12</p></td>
-<td><p><a href="../Page/Diomedéa.md" title="wikilink">Diomedéa</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Diomedéa" title="wikilink">Diomedéa</a></p></td>
 <td><p>26時19分－26時49分</p></td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@
 <td><p><a href="../Page/結城友奈是勇者.md" title="wikilink">結城友奈是勇者</a></p></td>
 <td></td>
 <td><p>12</p></td>
-<td><p><a href="../Page/Studio五組.md" title="wikilink">Studio五組</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Studio五組" title="wikilink">Studio五組</a></p></td>
 <td></td>
 <td></td>
 </tr>

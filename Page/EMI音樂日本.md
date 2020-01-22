@@ -21,7 +21,7 @@
   - 2005（平成17）年12月26日，與製造部門（東芝EMI御殿場工場）進行分割。專心製作於音樂軟體方面之業務。
   - 2006（平成18）年12月14日，東芝將其擁有的剩餘股份售出，東芝EMI成為EMI的完全子公司。
   - 2007（平成19）年6月30日，社名由東芝イーエムアイ株式会社改為「**株式会社EMI音樂・日本**」。但規格編號TOCT、TOCP不變。
-  - 2008（平成20）年2月18日，本社由赤坂5丁目的[赤坂Sacas](../Page/赤坂Sacas.md "wikilink")轉移至[赤坂Biz塔樓大廈](https://zh.wikipedia.org/wiki/赤坂Biz塔樓大廈 "wikilink")。
+  - 2008（平成20）年2月18日，本社由赤坂5丁目的[赤坂Sacas轉移至](https://zh.wikipedia.org/wiki/赤坂Sacas "wikilink")[赤坂Biz塔樓大廈](https://zh.wikipedia.org/wiki/赤坂Biz塔樓大廈 "wikilink")。
   - 2008年3月5日，開始進入[Blu-ray Disc市場](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")，第1彈為[松任谷由實](../Page/松任谷由實.md "wikilink")的演唱會「YUMING SPECTACLE SHANGRILA Ⅲ」[DVD-Video](../Page/DVD-Video.md "wikilink")與Blu-ray Disc同時發行。
   - 2010年10月1日，迎向創立50周年（從東芝音工時代算起）。
   - 2012年10月1日 - 由於EMI將唱片部門售予[環球音樂的關係](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")，日本EMI成為[日本環球音樂的子公司](../Page/環球音樂_\(日本\).md "wikilink")\[2\]。
@@ -38,7 +38,7 @@
   - [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")
   - [SHINee](../Page/SHINee.md "wikilink")
   - [A Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")
-  - [艾迪塔·歌娳婭](../Page/艾迪塔·歌娳婭.md "wikilink")(エディータ・グルニャク/Edyta Górniak)（唱片發行 1997年－1998年）
+  - [艾迪塔·歌娳婭](https://zh.wikipedia.org/wiki/艾迪塔·歌娳婭 "wikilink")(エディータ・グルニャク/Edyta Górniak)（唱片發行 1997年－1998年）
   - [東京事變](../Page/東京事變.md "wikilink")
   - [松任谷由実](https://zh.wikipedia.org/wiki/松任谷由実 "wikilink")
   - [湯川潮音](https://zh.wikipedia.org/wiki/湯川潮音 "wikilink")
@@ -54,7 +54,7 @@
   - [宇野ゆう子](https://zh.wikipedia.org/wiki/宇野ゆう子 "wikilink")
   - [大城バネサ](https://zh.wikipedia.org/wiki/大城バネサ "wikilink")
   - [岡林信康](https://zh.wikipedia.org/wiki/岡林信康 "wikilink")
-  - [加藤清史郎](../Page/加藤清史郎.md "wikilink")with[アンクル☆させ](https://zh.wikipedia.org/wiki/佐瀬寿一 "wikilink")
+  - [加藤清史郎with](https://zh.wikipedia.org/wiki/加藤清史郎 "wikilink")[アンクル☆させ](https://zh.wikipedia.org/wiki/佐瀬寿一 "wikilink")
   - [KAME\&L.N.K](https://zh.wikipedia.org/wiki/KAME&L.N.K "wikilink")
   - [岸千恵子](https://zh.wikipedia.org/wiki/岸千恵子 "wikilink")
   - [9mm Parabellum Bullet](https://zh.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")
@@ -64,7 +64,7 @@
   - [黒木憲ジュニア](https://zh.wikipedia.org/wiki/黒木憲ジュニア "wikilink")
   - [小林桂](https://zh.wikipedia.org/wiki/小林桂 "wikilink")
   - [阪井あゆみ](https://zh.wikipedia.org/wiki/阪井あゆみ "wikilink")
-  - [坂本冬美](../Page/坂本冬美.md "wikilink")
+  - [坂本冬美](https://zh.wikipedia.org/wiki/坂本冬美 "wikilink")
   - [the telephones](https://zh.wikipedia.org/wiki/the_telephones "wikilink")
   - [しおり](https://zh.wikipedia.org/wiki/しおり_\(シンガーソングライター\) "wikilink")
   - [JYONGRI](https://zh.wikipedia.org/wiki/JYONGRI "wikilink")
@@ -104,7 +104,7 @@
   - [雅-miyavi-](../Page/雅-miyavi-.md "wikilink")
   - [村松崇継](https://zh.wikipedia.org/wiki/村松崇継 "wikilink")
   - [MASS OF THE FERMENTING DREGS](https://zh.wikipedia.org/wiki/MASS_OF_THE_FERMENTING_DREGS "wikilink")
-  - [森山愛子](../Page/森山愛子.md "wikilink")
+  - [森山愛子](https://zh.wikipedia.org/wiki/森山愛子 "wikilink")
   - [安田祥子](https://zh.wikipedia.org/wiki/安田祥子 "wikilink")
   - [山川豊](https://zh.wikipedia.org/wiki/山川豊 "wikilink")
   - [由紀さおり](https://zh.wikipedia.org/wiki/由紀さおり "wikilink")
@@ -112,7 +112,7 @@
   - 弓木英梨乃
   - [吉井和哉](https://zh.wikipedia.org/wiki/吉井和哉 "wikilink")
   - [より子](https://zh.wikipedia.org/wiki/より子 "wikilink")
-  - [RADWIMPS](../Page/RADWIMPS.md "wikilink")
+  - [RADWIMPS](https://zh.wikipedia.org/wiki/RADWIMPS "wikilink")
   - [らっぷびと](https://zh.wikipedia.org/wiki/らっぷびと "wikilink")
   - [LIL](https://zh.wikipedia.org/wiki/LIL "wikilink")
   - [LEO今井](https://zh.wikipedia.org/wiki/LEO今井 "wikilink")

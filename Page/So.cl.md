@@ -5,7 +5,7 @@
 
 ## 设计
 
-So.cl看起来类似[Google+](../Page/Google+.md "wikilink")而且借用了来自[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")和[Pinterest](../Page/Pinterest.md "wikilink")的概念。但它并不准备面对大众市场，而且仅打算增加而不是代替这些上述[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")。\[1\]
+So.cl看起来类似[Google+而且借用了来自](https://zh.wikipedia.org/wiki/Google+ "wikilink")[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")和[Pinterest](../Page/Pinterest.md "wikilink")的概念。但它并不准备面对大众市场，而且仅打算增加而不是代替这些上述[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")。\[1\]
 
 注册和登录需要一个[Windows Live账号或者与So](../Page/Windows_Live.md "wikilink").cl联系的Facebook账号。\[2\]
 

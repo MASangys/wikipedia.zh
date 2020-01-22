@@ -13,7 +13,7 @@
 
 ### 总体结构
 
-O'Z-Y型电力机车是六轴干线客运电力机车，适用于供电制式为25千伏工频[单相交流电的电气化铁路](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")，[机车轴式](../Page/机车轴式.md "wikilink")[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")，持续功率6,000千瓦，构造速度为160公里/小时。机车采用全钢焊接结构的整体承载车体，设中间贯穿走廊、双端司机室，车头采用光滑[流线型外形](https://zh.wikipedia.org/wiki/流线型 "wikilink")。车顶装有两台单臂式[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")、高压隔离开关、接地装置、真空断路器、避雷器等高压组件，II端司机室顶部并设有[无线电台和](https://zh.wikipedia.org/wiki/无线电台 "wikilink")[卫星天线](https://zh.wikipedia.org/wiki/卫星天线 "wikilink")。车内设备以斜对称布置，机车采用独立通风方式，从车顶顶盖夹层风道吸入冷风，为牵引电动机、复合冷却器、辅助变流柜等通风冷却，并维持机械间呈[微正压](../Page/正壓.md "wikilink")，改善机车防尘效果及防寒性能。卧式主变压器安装于车体底架之下\[7\]。
+O'Z-Y型电力机车是六轴干线客运电力机车，适用于供电制式为25千伏工频[单相交流电的电气化铁路](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")，[机车轴式](https://zh.wikipedia.org/wiki/机车轴式 "wikilink")[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")，持续功率6,000千瓦，构造速度为160公里/小时。机车采用全钢焊接结构的整体承载车体，设中间贯穿走廊、双端司机室，车头采用光滑[流线型外形](https://zh.wikipedia.org/wiki/流线型 "wikilink")。车顶装有两台单臂式[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")、高压隔离开关、接地装置、真空断路器、避雷器等高压组件，II端司机室顶部并设有[无线电台和](https://zh.wikipedia.org/wiki/无线电台 "wikilink")[卫星天线](https://zh.wikipedia.org/wiki/卫星天线 "wikilink")。车内设备以斜对称布置，机车采用独立通风方式，从车顶顶盖夹层风道吸入冷风，为牵引电动机、复合冷却器、辅助变流柜等通风冷却，并维持机械间呈[微正压](../Page/正壓.md "wikilink")，改善机车防尘效果及防寒性能。卧式主变压器安装于车体底架之下\[7\]。
 
 ### 电路系统
 

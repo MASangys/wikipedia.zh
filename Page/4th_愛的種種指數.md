@@ -8,7 +8,7 @@
   - 與上一張迷你專輯「[③夏夏迷你Berryz](../Page/③夏夏迷你Berryz.md "wikilink")」相距約1年1個月。與上一張專輯「[第②成長記](../Page/第②成長記.md "wikilink")」相距約1年8個月。
   - 收錄第11張單曲「[笑吧 BOYFRIEND](../Page/笑吧_BOYFRIEND.md "wikilink")」至第14張單曲「[告白的噴水廣場](../Page/告白的噴水廣場.md "wikilink")」，一共4首A面曲。
   - 本作分「初回限定盤」和「CD盤」2種版本
-  - 「初回限定盤」收錄了「[笑吧 BOYFRIEND](../Page/笑吧_BOYFRIEND.md "wikilink")」、「[忐忑難安的嫣紅](../Page/忐忑難安的嫣紅.md "wikilink")」和「[VERY BEAUTY](../Page/VERY_BEAUTY.md "wikilink")」的Live片段。
+  - 「初回限定盤」收錄了「[笑吧 BOYFRIEND](../Page/笑吧_BOYFRIEND.md "wikilink")」、「[忐忑難安的嫣紅](../Page/忐忑難安的嫣紅.md "wikilink")」和「[VERY BEAUTY](https://zh.wikipedia.org/wiki/VERY_BEAUTY "wikilink")」的Live片段。
   - 在8月14日於公信榜專輯週排行榜取得第14位。
 
 ## 收錄內容
@@ -25,7 +25,7 @@
     （作詞・作曲：淳君 編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
       -
         [徳永千奈美](https://zh.wikipedia.org/wiki/徳永千奈美 "wikilink")・[須藤茉麻](../Page/須藤茉麻.md "wikilink")・[熊井友理奈](../Page/熊井友理奈.md "wikilink")主唱
-4.  **[VERY BEAUTY](../Page/VERY_BEAUTY.md "wikilink")**
+4.  **[VERY BEAUTY](https://zh.wikipedia.org/wiki/VERY_BEAUTY "wikilink")**
     （作詞・作曲：淳君 編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
       -
         13th單曲

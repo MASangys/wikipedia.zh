@@ -1,7 +1,7 @@
 > 本文内容由[Windows To Go](https://zh.wikipedia.org/wiki/Windows_To_Go)转换而来。
 
 
-**Windows To Go**是[Windows 8.1与](../Page/Windows_8.1.md "wikilink")[Windows 10的一种企业功能](../Page/Windows_10.md "wikilink")，被内置于Windows 8企业版（Windows 8 Enterprise）与Windows 10企业版（Windows 10 Enterprise）中。对于满足Windows 8或Windows10硬件要求的电脑，Windows To Go可使Windows 7以后的系统从[USB](../Page/USB.md "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")中启动并运行，不必考虑电脑上运行的[操作系统](../Page/操作系统.md "wikilink")（Mac和[Windows RT不被支持](../Page/Windows_RT.md "wikilink")）。此功能已停止开发，在Windows 10版本1903中弃用。将来，该功能将被删除。\[1\]
+**Windows To Go**是[Windows 8.1与](https://zh.wikipedia.org/wiki/Windows_8.1 "wikilink")[Windows 10的一种企业功能](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，被内置于Windows 8企业版（Windows 8 Enterprise）与Windows 10企业版（Windows 10 Enterprise）中。对于满足Windows 8或Windows10硬件要求的电脑，Windows To Go可使Windows 7以后的系统从[USB](../Page/USB.md "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")中启动并运行，不必考虑电脑上运行的[操作系统](../Page/操作系统.md "wikilink")（Mac和[Windows RT不被支持](../Page/Windows_RT.md "wikilink")）。此功能已停止开发，在Windows 10版本1903中弃用。将来，该功能将被删除。\[1\]
 
 这是一個完全的可管理的電腦環境，Windows To Go工作区可将相同的映像企业版功能用于其台式计算机和便携式计算机，还可采用相同的方式加以管理。Windows To Go可以为有效使用备用的工作场所方案资源提供支持。
 
@@ -90,18 +90,18 @@ Windows To Go工作区的操作和任何其他Windows一样，但一些例外情
 
 ## 安装步骤
 
-Windows To Go可使用标准Windows 8部署工具（如DISM部署映像服务和管理（仅限于[Windows 8與](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Windows 10](../Page/Windows_10.md "wikilink")）、DiskPart、ImageX等工具）进行安装，也可使用Windows To Go安装向导进行安装（仅限于[Windows 8企业版](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows 10企业版和專業版](../Page/Windows_10.md "wikilink")）。企业可使用配置管理软件（如System Center Configuration Manager）将 Windows 安装到很大一组计算机中。\[12\]
+Windows To Go可使用标准Windows 8部署工具（如DISM部署映像服务和管理（仅限于[Windows 8與](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")）、DiskPart、ImageX等工具）进行安装，也可使用Windows To Go安装向导进行安装（仅限于[Windows 8企业版](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows 10企业版和專業版](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")）。企业可使用配置管理软件（如System Center Configuration Manager）将 Windows 安装到很大一组计算机中。\[12\]
 
 相比较而言，使用Windows To Go安装向导进行安装步骤比较简单，但对USB驱动器有较高的要求，且仅限于[Windows 8企业版的环境下安装](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")；ImageX和DISM步骤较繁琐，但对USB驱动器无较高的要求，不仅限于[Windows 8企业版环境](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。
 
 安装完成后，就可以从USB驱动器进入Windows To Go，启动方式如下
 
-  - 在[Windows 8企业版](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows 10企业版和專業版的系统环境下](../Page/Windows_10.md "wikilink")，进入“控制面板”的“Windows To Go”的选项，选择Windows To Go驱动器启动。
+  - 在[Windows 8企业版](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows 10企业版和專業版的系统环境下](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，进入“控制面板”的“Windows To Go”的选项，选择Windows To Go驱动器启动。
   - 在BIOS中，设置USB启动设置为首选项。
 
 ### Windows To Go安装向导
 
-  - 在[Windows 8企业版](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows 10企业版和專業版的系统环境下](../Page/Windows_10.md "wikilink")，双击或右键ISO镜像文件进行“装载”，使镜像装载到虚拟光驱。
+  - 在[Windows 8企业版](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows 10企业版和專業版的系统环境下](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，双击或右键ISO镜像文件进行“装载”，使镜像装载到虚拟光驱。
 
 <!-- end list -->
 

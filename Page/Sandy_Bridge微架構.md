@@ -37,7 +37,7 @@ Intel在Sandy Bridge上新增了[Intel Quick Sync Video](https://zh.wikipedia.or
 
 ### [指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")
 
-提升處理器運算[超越函數](../Page/超越函數.md "wikilink")的效能，優化[AES加密效能](https://zh.wikipedia.org/wiki/AES "wikilink")（[AES指令集](../Page/AES指令集.md "wikilink")）和[SHA-1切細效能](https://zh.wikipedia.org/wiki/SHA "wikilink")；新增256[位元](../Page/位元.md "wikilink")指令集[AVX指令集](../Page/AVX指令集.md "wikilink")，增強[矢量運算能力和](https://zh.wikipedia.org/wiki/矢量運算 "wikilink")[浮點運算能力](https://zh.wikipedia.org/wiki/浮點運算 "wikilink")。
+提升處理器運算[超越函數](../Page/超越函數.md "wikilink")的效能，優化[AES加密效能](https://zh.wikipedia.org/wiki/AES "wikilink")（[AES指令集](../Page/AES指令集.md "wikilink")）和[SHA-1切細效能](https://zh.wikipedia.org/wiki/SHA "wikilink")；新增256[位元](../Page/位元.md "wikilink")指令集[AVX指令集](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")，增強[矢量運算能力和](https://zh.wikipedia.org/wiki/矢量運算 "wikilink")[浮點運算能力](https://zh.wikipedia.org/wiki/浮點運算 "wikilink")。
 
 ### 晶片組、處理器插座
 
@@ -105,7 +105,7 @@ L3快取容量</p></th>
 <td><p>Sandy Bridge-EP-8</p></td>
 <td><p>0206D6h</p></td>
 <td><p>C1</p></td>
-<td><p><a href="../Page/LGA_2011.md" title="wikilink">LGA 2011</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_2011" title="wikilink">LGA 2011</a></p></td>
 <td><p>435 mm²</p></td>
 <td><p>22.7億</p></td>
 <td><p>8</p></td>
@@ -127,7 +127,7 @@ L3快取容量</p></th>
 <td><p>Sandy Bridge-EP-4</p></td>
 <td><p>0206D6h</p></td>
 <td><p>M0</p></td>
-<td><p><a href="../Page/LGA_2011.md" title="wikilink">LGA 2011</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_2011" title="wikilink">LGA 2011</a></p></td>
 <td><p>294 mm²</p></td>
 <td><p>12.7億</p></td>
 <td><p>4</p></td>
@@ -189,17 +189,11 @@ Intel從Sandy Bridge微架構開始，處理器與PCH晶片組、晶片組與各
 
 ### 晶片組
 
-在6系列晶片組中，全線均採用[LGA1155之處理器插座](https://zh.wikipedia.org/wiki/LGA1155 "wikilink")。H6X系列型號的H61晶片組不支援[RAID](../Page/RAID.md "wikilink")，H67和H61不支援超頻（即使是不鎖倍頻的K系列處理器），但支援核芯[顯卡顯示輸出](https://zh.wikipedia.org/wiki/顯卡 "wikilink")；而P6X系列則支援H6X所不支援的功能，但不支援核芯顯卡的顯示輸出；而Z6X系列則支援P6X和H6X的所有功能。
+在6系列晶片組中，全線均採用[LGA1155之處理器插座](https://zh.wikipedia.org/wiki/LGA1155 "wikilink")。H6X系列型號的H61晶片組不支援[RAID](../Page/RAID.md "wikilink")，H67和H61不支援超頻（即使是不鎖倍頻的K系列處理器），但支援核芯[顯卡顯示輸出](https://zh.wikipedia.org/wiki/顯卡 "wikilink")；而P6X系列不支援核芯顯卡的顯示輸出。
 
-2012年中期推出的7系列全系列晶片組，除了供Intel Ivy Bridge使用以外，還可與Intel Sandy Bridge相容，其中的H7X、Z7X型號的晶片組全面支援顯示訊號輸出，以及Turbo Boost（除H7X型號之晶片組以外）。而2011年後期發布的供Sandy Bridge-E處理器使用的X79晶片組，採用LGA2011插座，無顯示輸出支援，除了支援K/X系列不鎖倍頻的處理器，還支援多個基準時鐘頻率預設值的調整，這些值由Intel官方預設。
+2012年中期推出的7系列全系列晶片組，除了供Intel Ivy Bridge使用以外，還可與Intel Sandy Bridge相容，其中的H7X、Z7X型號的晶片組全面支援顯示訊號輸出。而2011年後期發布的供Sandy Bridge-E處理器使用的X79晶片組，採用LGA2011插座，無顯示輸出支援，除了支援K/X系列不鎖倍頻的處理器，還支援多個基準時鐘頻率預設值的調整，這些值由Intel官方預設。
 
-此外，P6X、Z6X系列晶片組還可以支援非K系列處理器的倍頻調整，但最多只能到達渦輪加速的倍頻上限。7系列晶片組類似。
-
-## Intel Insider和遠端控制
-
-Intel在Sandy Bridge微架構中還整合了一個名為Intel Insider的[DRM服務](https://zh.wikipedia.org/wiki/DRM "wikilink")，公司宣稱這是“一層額外的內容保護層”。\[24\]
-
-Intel Sandy Bridge微架構處理器均帶有[vPro功能](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")（需配合支持vPro的Intel芯片组），出於安全目的，該功能可以從遠端停止[PC](../Page/PC.md "wikilink")的使用或者是從磁碟機上擦除資料，這個功能在PC丟失或被盜竊的情況下不失為一個實用的功能，處理器可以透過接受[3G](../Page/3G.md "wikilink")信號、[以太網或者是](https://zh.wikipedia.org/wiki/以太網 "wikilink")[網際網路連線接收這些命令](https://zh.wikipedia.org/wiki/網際網路 "wikilink")；此外新增的AES指令集可以在此時“大展拳腳”，充分展示處理器進行AES[硬體加速](https://zh.wikipedia.org/wiki/硬體加速 "wikilink")[加密](../Page/加密.md "wikilink")/[解密的能力](https://zh.wikipedia.org/wiki/解密 "wikilink")，這對於[企業內部的](https://zh.wikipedia.org/wiki/企業 "wikilink")[電視會議](https://zh.wikipedia.org/wiki/電視會議 "wikilink")、[VoIP](../Page/VoIP.md "wikilink")應用等方面非常實用。\[25\]
+此外，P6X、Z6X系列晶片組還可以支援非K系列處理器的倍頻調整，但最多只能到達Turbo Boost的倍頻上限。7系列晶片組類似。
 
 ## 繼任微架構
 
@@ -258,5 +252,3 @@ Intel依照[Tick-Tock策略](../Page/Intel_Tick-Tock.md "wikilink")，於2012年
 21. <http://benchmarkreviews.com/index.php?option=com_content&task=view&id=874&Itemid=63&limit=1&limitstart=14>
 22. [YouTube - ‪Intel demos Sandy Bridge running at 4.9GHz‬‏](http://www.youtube.com/watch?v=hKGnaTrxS_k)
 23.
-24.
-25.

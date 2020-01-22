@@ -17,7 +17,7 @@
 
 ### 光碟六：[Bad Romance](https://zh.wikipedia.org/wiki/Bad_Romance "wikilink")
 
-### 光碟七：[Telephone (feat. Beyoncé)](../Page/電話_\(歌曲\).md "wikilink")
+### 光碟七：[Telephone (feat. Beyoncé)](https://zh.wikipedia.org/wiki/電話_\(歌曲\) "wikilink")
 
 ### 光碟八：[Alejandro](https://zh.wikipedia.org/wiki/Alejandro "wikilink")
 

@@ -1,24 +1,24 @@
 > 本文内容由[NO NAME \(偶像組合\)](https://zh.wikipedia.org/wiki/NO_NAME_\(偶像組合\))转换而来。
 
 
-**NO NAME**是從[日本](../Page/日本.md "wikilink")的[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")的成员中选出负责電視動畫《[AKB0048](../Page/AKB0048.md "wikilink")》的[声優组成](https://zh.wikipedia.org/wiki/声優 "wikilink")「**声優選抜**」名义的偶像組合。
+**NO NAME**是從[日本](../Page/日本.md "wikilink")的[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48的成员中选出负责電視動畫](https://zh.wikipedia.org/wiki/NMB48 "wikilink")《[AKB0048](../Page/AKB0048.md "wikilink")》的[声優组成](https://zh.wikipedia.org/wiki/声優 "wikilink")「**声優選抜**」名义的偶像組合。
 
 ## 成員
 
 表記順序是根據《AKB0048》的節目片尾，成员所属以动画结束放映时的状态为准。
 
-|                                                           | 動畫的飾演名稱                   | 所屬團體                           |
-| --------------------------------------------------------- | ------------------------- | ------------------------------ |
-| **[渡邊麻友](../Page/渡邊麻友.md "wikilink")**<small>（）</small>   | **園智恵理**<small>（）</small> | AKB48 Team B→A                 |
-| **[仲谷明香](../Page/仲谷明香.md "wikilink")**<small>（）</small>   | **藍田織音**<small>（）</small> | 原 AKB48 Team A→K （2013年3月6日毕业） |
-| **[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")**<small>（）</small> | **一条友歌**<small>（）</small> | AKB48 Team B→K                 |
-| **[石田晴香](../Page/石田晴香.md "wikilink")**<small>（）</small>   | **東雲彼方**<small>（）</small> | AKB48 Team B                   |
-| **[矢神久美](../Page/矢神久美.md "wikilink")**<small>（）</small>   | **東雲楚方**<small>（）</small> | SKE48 Team S                   |
-| **[佐藤堇](../Page/佐藤堇.md "wikilink")**（）<small>（）</small>   | **岸田美森**<small>（）</small> | AKB48 Team B→A                 |
-| **[秦佐和子](../Page/秦佐和子.md "wikilink")**<small>（）</small>   | **神埼鈴子**<small>（）</small> | SKE48 Team KII                 |
-| **[三田麻央](../Page/三田麻央.md "wikilink")**<small>（）</small>   | **横溝真琴**<small>（）</small> | NMB48 Team M                   |
-| **[岩田華怜](../Page/岩田華怜.md "wikilink")**<small>（）</small>   | **本宮凪沙**<small>（）</small> | AKB48 Team 4→A                 |
-|                                                           |                           |                                |
+|                                                                            | 動畫的飾演名稱                   | 所屬團體                           |
+| -------------------------------------------------------------------------- | ------------------------- | ------------------------------ |
+| **[渡邊麻友](../Page/渡邊麻友.md "wikilink")**<small>（）</small>                    | **園智恵理**<small>（）</small> | AKB48 Team B→A                 |
+| **[仲谷明香](../Page/仲谷明香.md "wikilink")**<small>（）</small>                    | **藍田織音**<small>（）</small> | 原 AKB48 Team A→K （2013年3月6日毕业） |
+| **[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")**<small>（）</small>                  | **一条友歌**<small>（）</small> | AKB48 Team B→K                 |
+| **[石田晴香](../Page/石田晴香.md "wikilink")**<small>（）</small>                    | **東雲彼方**<small>（）</small> | AKB48 Team B                   |
+| **[矢神久美](../Page/矢神久美.md "wikilink")**<small>（）</small>                    | **東雲楚方**<small>（）</small> | SKE48 Team S                   |
+| **[佐藤堇](../Page/佐藤堇.md "wikilink")**（）<small>（）</small>                    | **岸田美森**<small>（）</small> | AKB48 Team B→A                 |
+| **[秦佐和子](https://zh.wikipedia.org/wiki/秦佐和子 "wikilink")**<small>（）</small> | **神埼鈴子**<small>（）</small> | SKE48 Team KII                 |
+| **[三田麻央](../Page/三田麻央.md "wikilink")**<small>（）</small>                    | **横溝真琴**<small>（）</small> | NMB48 Team M                   |
+| **[岩田華怜](https://zh.wikipedia.org/wiki/岩田華怜 "wikilink")**<small>（）</small> | **本宮凪沙**<small>（）</small> | AKB48 Team 4→A                 |
+|                                                                            |                           |                                |
 
 ## 略歴
 
@@ -77,7 +77,7 @@ type-B 通常盤</p></td>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2013年4月10日</p></td>
-<td><p><strong><a href="../Page/將淚水獻給你.md" title="wikilink">將淚水獻給你</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/將淚水獻給你" title="wikilink">將淚水獻給你</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/King_Records" title="wikilink">King Records</a></p></td>
 <td><p>第2名</p></td>
 <td><p>48,720張</p></td>

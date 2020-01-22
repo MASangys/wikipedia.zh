@@ -23,7 +23,7 @@
 
 ### 與[智慧型手機連動](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")
 
-在日本，[Android](../Page/Android.md "wikilink")和[iOS都有對應名為](https://zh.wikipedia.org/wiki/iOS "wikilink")「アーマード・コア Ｖ パーツライブラリー(機戰傭兵V零件[函式庫](../Page/函式庫.md "wikilink"))」的[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")\[13\]。
+在日本，[Android和](https://zh.wikipedia.org/wiki/Android "wikilink")[iOS都有對應名為](https://zh.wikipedia.org/wiki/iOS "wikilink")「アーマード・コア Ｖ パーツライブラリー(機戰傭兵V零件[函式庫](../Page/函式庫.md "wikilink"))」的[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")\[13\]。
 
 ## 世界觀
 
@@ -33,11 +33,11 @@
 
 ## 开发与发行
 
-[From Software最早在](https://zh.wikipedia.org/wiki/From_Software "wikilink")2010年初公佈[機戰傭兵系列將推出新作](https://zh.wikipedia.org/wiki/機戰傭兵系列 "wikilink")\[15\]，當時的[標誌是紅黃交織的](https://zh.wikipedia.org/wiki/標誌 "wikilink")[印度數字](../Page/印度數字.md "wikilink")５，簡稱AC5。但之後就了無音訊，只有持續地把舊作移植到[掌上型遊樂器](https://zh.wikipedia.org/wiki/掌上型遊樂器 "wikilink")。直到時隔一年的2011年[From Software才打破沉默](https://zh.wikipedia.org/wiki/From_Software "wikilink")，除了公佈海外經銷交給[萬代南夢宮外](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")，[標誌也成了白色的](https://zh.wikipedia.org/wiki/標誌 "wikilink")[羅馬數字V](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")\[16\]，甚至連網路宣傳轉播MIDNIGHT LIVE\[17\]最後都會讓三人擺出ACV三個字的姿勢。
+[From Software最早在](https://zh.wikipedia.org/wiki/From_Software "wikilink")2010年初公佈[機戰傭兵系列將推出新作](https://zh.wikipedia.org/wiki/機戰傭兵系列 "wikilink")\[15\]，當時的[標誌是紅黃交織的](https://zh.wikipedia.org/wiki/標誌 "wikilink")[印度數字](https://zh.wikipedia.org/wiki/印度數字 "wikilink")５，簡稱AC5。但之後就了無音訊，只有持續地把舊作移植到[掌上型遊樂器](https://zh.wikipedia.org/wiki/掌上型遊樂器 "wikilink")。直到時隔一年的2011年[From Software才打破沉默](https://zh.wikipedia.org/wiki/From_Software "wikilink")，除了公佈海外經銷交給[萬代南夢宮外](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")，[標誌也成了白色的](https://zh.wikipedia.org/wiki/標誌 "wikilink")[羅馬數字V](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")\[16\]，甚至連網路宣傳轉播MIDNIGHT LIVE\[17\]最後都會讓三人擺出ACV三個字的姿勢。
 
 起因是[From Software在](https://zh.wikipedia.org/wiki/From_Software "wikilink")2009年推出[惡魔靈魂](../Page/惡魔靈魂.md "wikilink")，當初曾因為背離潮流而不被看好，後來卻傳出口碑叫好叫座\[18\]，從歐美紅回日本。跟[From Software有業務往來的日本玩具巨擎](https://zh.wikipedia.org/wiki/From_Software "wikilink")[萬代南夢宮因此表達了合作意願](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")，可以提供資金與全球經銷－只要能做出全球都能賣的大作。
 
-[From Software因此把即將完工的AC](https://zh.wikipedia.org/wiki/From_Software "wikilink")5收回去重作。大幅度補強了連線功能，時隔一年後完成的就是《機戰傭兵V》。但2011年先是發生311[東日本大震災](../Page/東日本大震災.md "wikilink")，接著又是[PSN遇駭](https://zh.wikipedia.org/wiki/PSN "wikilink")\[19\]，最重要的[連線實測只得延到下半年](https://zh.wikipedia.org/wiki/連線 "wikilink")\[20\]，再加上發布體驗版後修正用戶意見，最後遲至2012年才正式發售。
+[From Software因此把即將完工的AC](https://zh.wikipedia.org/wiki/From_Software "wikilink")5收回去重作。大幅度補強了連線功能，時隔一年後完成的就是《機戰傭兵V》。但2011年先是發生311[東日本大震災](https://zh.wikipedia.org/wiki/東日本大震災 "wikilink")，接著又是[PSN遇駭](https://zh.wikipedia.org/wiki/PSN "wikilink")\[19\]，最重要的[連線實測只得延到下半年](https://zh.wikipedia.org/wiki/連線 "wikilink")\[20\]，再加上發布體驗版後修正用戶意見，最後遲至2012年才正式發售。
 
 ### 英語版
 

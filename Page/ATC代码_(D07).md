@@ -8,7 +8,7 @@
   -
     D07AA01 [甲泼尼龙](https://zh.wikipedia.org/wiki/甲泼尼龙 "wikilink")（Methylprednisolone）
     D07AA02 [氢化可的松](https://zh.wikipedia.org/wiki/氢化可的松 "wikilink")（Hydrocortisone）
-    D07AA03 [泼尼松龙](../Page/泼尼松龙.md "wikilink")（Prednisolone）
+    D07AA03 [泼尼松龙](https://zh.wikipedia.org/wiki/泼尼松龙 "wikilink")（Prednisolone）
 
 ### D07AB 皮质类固醇类，中强（II 组）（Corticosteroids, moderately potent (group II)）
 
@@ -31,7 +31,7 @@
 ### D07AC 皮质类固醇类，强（III 组）Corticosteroids, potent (group III)
 
   -
-    D07AC01 [倍他米松](../Page/倍他米松.md "wikilink")（Betamethasone）
+    D07AC01 [倍他米松](https://zh.wikipedia.org/wiki/倍他米松 "wikilink")（Betamethasone）
     D07AC02 [氟氯洛龙](https://zh.wikipedia.org/wiki/氟氯洛龙 "wikilink")（Fluclorolone）
     D07AC03 [去羟米松](https://zh.wikipedia.org/wiki/去羟米松 "wikilink")（Desoximetasone）
     D07AC04 [氟轻松](https://zh.wikipedia.org/wiki/氟轻松 "wikilink")（Fluocinolone acetonide）
@@ -47,7 +47,7 @@
     D07AC14 [醋丙甲泼尼龙](https://zh.wikipedia.org/wiki/醋丙甲泼尼龙 "wikilink")（Methylprednisolone aceponate）
     D07AC15 [倍氯米松](https://zh.wikipedia.org/wiki/倍氯米松 "wikilink")（Beclometasone）
     D07AC16 [醋丙氢可的松](https://zh.wikipedia.org/wiki/醋丙氢可的松 "wikilink")（Hydrocortisone aceponate）
-    D07AC17 [氟替卡松](../Page/氟替卡松.md "wikilink")（Fluticasone）
+    D07AC17 [氟替卡松](https://zh.wikipedia.org/wiki/氟替卡松 "wikilink")（Fluticasone）
     D07AC18 [泼尼卡酯](https://zh.wikipedia.org/wiki/泼尼卡酯 "wikilink")（Prednicarbate）
     D07AC19 [二氟泼尼酯](https://zh.wikipedia.org/wiki/二氟泼尼酯 "wikilink")（Difluprednate）
     D07AC21 [卤倍他松](https://zh.wikipedia.org/wiki/卤倍他松 "wikilink")（Ulobetasol）

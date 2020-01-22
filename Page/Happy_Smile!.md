@@ -1,7 +1,7 @@
 > 本文内容由[Happy Smile!](https://zh.wikipedia.org/wiki/Happy_Smile!)转换而来。
 
 
-**Happy Smile\!**　為[蘆田愛菜](../Page/蘆田愛菜.md "wikilink")第一張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2011年11月23日由環球唱片發售。
+**Happy Smile\!**為[蘆田愛菜第一張音樂專輯](https://zh.wikipedia.org/wiki/蘆田愛菜 "wikilink")。2011年11月23日由日本環球唱片發售。
 
 ## 概要
 
@@ -9,22 +9,6 @@
   - 本單曲共有初回生産限定盤（CD+DVD）、普通盤（只有CD）兩種類進行販售。
 
 ## 收錄曲目
-
-1.  愛菜的可愛Rock ‘n’ Roll（）
-
-      - 作詞・作曲：
-
-2.
-3.  [美好的星期天 Gyu Good Day！～](../Page/美好的星期天.md "wikilink")～Gyu
-
-4.
-5.  閃亮亮小兔子進行曲（）
-
-6.  [Maru Maru Mori Mori\!](../Page/Maru_Maru_Mori_Mori!.md "wikilink")
-
-7.  大家的生日快樂歌（）
-
-      - 作詞・作曲：[竹內瑪莉亞](../Page/竹內瑪莉亞.md "wikilink")
 
 ### DVD
 
@@ -40,4 +24,4 @@
 
   - [蘆田愛菜（環球音樂官方網站）](https://archive.is/20130501070900/http://beta.universal-music.co.jp/ashida-mana/products/umca-19001)
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")

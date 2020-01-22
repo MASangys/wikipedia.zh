@@ -15,7 +15,7 @@
 
 ## 音乐
 
-游戏夜曲由[樱庭统](../Page/樱庭统.md "wikilink")谱写，除了本游戏外，樱庭还为Camelot游戏《[光明力量III](https://zh.wikipedia.org/wiki/光明力量III "wikilink")》和[黄金太阳系列](https://zh.wikipedia.org/wiki/黄金太阳系列 "wikilink")，以及[星海游侠](https://zh.wikipedia.org/wiki/星海游侠 "wikilink")、[北欧女神等其他游戏进行了作曲](https://zh.wikipedia.org/wiki/北欧女神 "wikilink")。游戏音乐没有完全利用预先录制的红皮书音频，而代之使用了[MIDI](../Page/MIDI.md "wikilink")音频格式。
+游戏夜曲由[樱庭统谱写](https://zh.wikipedia.org/wiki/樱庭统 "wikilink")，除了本游戏外，樱庭还为Camelot游戏《[光明力量III](https://zh.wikipedia.org/wiki/光明力量III "wikilink")》和[黄金太阳系列](https://zh.wikipedia.org/wiki/黄金太阳系列 "wikilink")，以及[星海游侠](https://zh.wikipedia.org/wiki/星海游侠 "wikilink")、[北欧女神等其他游戏进行了作曲](https://zh.wikipedia.org/wiki/北欧女神 "wikilink")。游戏音乐没有完全利用预先录制的红皮书音频，而代之使用了[MIDI](../Page/MIDI.md "wikilink")音频格式。
 
 ## 评价
 

@@ -38,7 +38,7 @@
     J06BB12 [蜱传播脑炎免疫球蛋白](https://zh.wikipedia.org/wiki/蜱传播脑炎 "wikilink")（Encephalitis, tick borne immunoglobulin）
     J06BB13 [百日咳](../Page/百日咳.md "wikilink")免疫球蛋白（Pertussis immunoglobulin）
     J06BB14 [麻疹](../Page/麻疹.md "wikilink")免疫球蛋白（Morbilli immunoglobulin）
-    J06BB15 [流行性腮腺炎](../Page/流行性腮腺炎.md "wikilink")免疫球蛋白（Parotitis immunoglobulin）
+    J06BB15 [流行性腮腺炎免疫球蛋白](https://zh.wikipedia.org/wiki/流行性腮腺炎 "wikilink")（Parotitis immunoglobulin）
     J06BB16 [帕利珠单抗](https://zh.wikipedia.org/wiki/帕利珠单抗 "wikilink")（Palivizumab）
     J06BB17 [莫维珠单抗](https://zh.wikipedia.org/wiki/莫维珠单抗 "wikilink")（Motavizumab）
     J06BB30 复方（Combinations）

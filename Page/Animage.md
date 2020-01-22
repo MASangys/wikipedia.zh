@@ -37,7 +37,7 @@
   - [風之谷](https://zh.wikipedia.org/wiki/風之谷 "wikilink")（1982～1994）：[宮崎駿著](https://zh.wikipedia.org/wiki/宮崎駿 "wikilink")
   - [東京物語](../Page/東京物語.md "wikilink")（1987～1992）：[福山慶子著](https://zh.wikipedia.org/wiki/福山慶子 "wikilink")
   - D\[di:\]（1989～1990）：[洞澤由美子著](https://zh.wikipedia.org/wiki/洞澤由美子 "wikilink")
-  - [小魔女得意妹](../Page/小魔女得意妹.md "wikilink")（1992～1994）：[SUEZEN](https://zh.wikipedia.org/wiki/SUEZEN "wikilink")（飯田史雄）著
+  - [小魔女得意妹](https://zh.wikipedia.org/wiki/小魔女得意妹 "wikilink")（1992～1994）：[SUEZEN](https://zh.wikipedia.org/wiki/SUEZEN "wikilink")（飯田史雄）著
   - 賽拉弗2億6661萬3336之翼（1994～1995）：[今敏](../Page/今敏.md "wikilink")著（押井守原作，未完結）
   - KAZE：[神崎將臣著](https://zh.wikipedia.org/wiki/神崎將臣 "wikilink")
   - [貓男爵](https://zh.wikipedia.org/wiki/貓的報恩#原作漫畫 "wikilink")：[柊葵](../Page/柊葵.md "wikilink")著

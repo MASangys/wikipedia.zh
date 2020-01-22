@@ -1,7 +1,7 @@
 > 本文内容由[Limited addiction](https://zh.wikipedia.org/wiki/Limited_addiction)转换而来。
 
 
-「**Limited addiction**」是[東京女子流](../Page/東京女子流.md "wikilink")的2nd[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2012年3月14日由[avex trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Limited addiction**」是[東京女子流的](https://zh.wikipedia.org/wiki/東京女子流 "wikilink")2nd[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2012年3月14日由[avex trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

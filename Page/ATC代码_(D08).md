@@ -81,7 +81,7 @@
     D08AK03 [氯化汞](../Page/氯化汞.md "wikilink")（Mercuric chloride）
     D08AK04 [汞溴红](https://zh.wikipedia.org/wiki/汞溴红 "wikilink")（Mercurochrome）
     D08AK05 金属汞（Mercury, metallic）
-    D08AK06 [硫柳汞](../Page/硫柳汞.md "wikilink")（Thiomersal）
+    D08AK06 [硫柳汞](https://zh.wikipedia.org/wiki/硫柳汞 "wikilink")（Thiomersal）
     D08AK30 [碘化汞](../Page/碘化汞.md "wikilink")（Mercuric iodide）
     QD08AK52 硼酸苯汞（Phenylmercuric borate, combinations）
 

@@ -5,7 +5,7 @@
 
 ## 社名
 
-「PHP」取自「」。松下幸之助希望透過[心靈與](https://zh.wikipedia.org/wiki/心靈 "wikilink")[物質兩方面的繁榮興盛](https://zh.wikipedia.org/wiki/物質 "wikilink")，以達到[和平](../Page/和平.md "wikilink")與[幸福](../Page/幸福.md "wikilink")。
+「PHP」取自「」。松下幸之助希望透過[心靈與](https://zh.wikipedia.org/wiki/心靈 "wikilink")[物質兩方面的繁榮興盛](https://zh.wikipedia.org/wiki/物質 "wikilink")，以達到[和平](../Page/和平.md "wikilink")與[幸福](https://zh.wikipedia.org/wiki/幸福 "wikilink")。
 
 ## 概要
 

@@ -5,7 +5,7 @@
 
 ## 可用性
 
-支持的瀏覽器包括[Internet Explorer 11版本](../Page/Internet_Explorer_11.md "wikilink")，最新版本的[Firefox](../Page/Firefox.md "wikilink")和[Google Chrome](../Page/Google_Chrome.md "wikilink")，以及[Safari OS X v10.6或更高版本](../Page/Safari.md "wikilink")的Mac\[1\]
+支持的瀏覽器包括[Internet Explorer 11版本](https://zh.wikipedia.org/wiki/Internet_Explorer_11 "wikilink")，最新版本的[Firefox和](https://zh.wikipedia.org/wiki/Firefox "wikilink")[Google Chrome](../Page/Google_Chrome.md "wikilink")，以及[Safari OS X v10.6或更高版本](../Page/Safari.md "wikilink")的Mac\[1\]
 
 ## 参考资料
 

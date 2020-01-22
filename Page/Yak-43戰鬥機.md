@@ -9,7 +9,7 @@
   - [Yak-38戰鬥機](https://zh.wikipedia.org/wiki/Yak-38戰鬥機 "wikilink")
   - [Yak-36實驗機](https://zh.wikipedia.org/wiki/Yak-36實驗機 "wikilink")
   - [T-50戰鬥機](https://zh.wikipedia.org/wiki/T-50戰鬥機 "wikilink")
-  - [隱形戰機](../Page/隱形戰機.md "wikilink")
+  - [隱形戰機](https://zh.wikipedia.org/wiki/隱形戰機 "wikilink")
 
 ## 參考文獻
 

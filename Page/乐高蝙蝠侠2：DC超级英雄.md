@@ -1,7 +1,7 @@
 > 本文内容由[乐高蝙蝠侠2：DC超级英雄](https://zh.wikipedia.org/wiki/乐高蝙蝠侠2：DC超级英雄)转换而来。
 
 
-《**乐高蝙蝠侠2：DC超级英雄**》（）是由Traveller's Tales開發的[乐高](https://zh.wikipedia.org/wiki/乐高 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")，游戏于2012发行，并运行于[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")、[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[Wii](../Page/Wii.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]\[2\]\[3\]。游戏是《[樂高蝙蝠俠](https://zh.wikipedia.org/wiki/樂高蝙蝠俠 "wikilink")》的续作；後繼作品《[乐高蝙蝠侠3：飞越高谭市](../Page/乐高蝙蝠侠3：飞越高谭市.md "wikilink")》將於2014年推出。
+《**乐高蝙蝠侠2：DC超级英雄**》（）是由Traveller's Tales開發的[乐高](https://zh.wikipedia.org/wiki/乐高 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")，游戏于2012发行，并运行于[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita "wikilink")、[任天堂3DS](https://zh.wikipedia.org/wiki/任天堂3DS "wikilink")、[Wii](../Page/Wii.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]\[2\]\[3\]。游戏是《[樂高蝙蝠俠](https://zh.wikipedia.org/wiki/樂高蝙蝠俠 "wikilink")》的续作；後繼作品《[乐高蝙蝠侠3：飞越高谭市](../Page/乐高蝙蝠侠3：飞越高谭市.md "wikilink")》將於2014年推出。
 
 ## 遊戲系統
 
@@ -11,7 +11,7 @@
 
 ## 劇情
 
-[高譚市](../Page/高譚市.md "wikilink")年度人物選舉由[布魯斯·韋恩](https://zh.wikipedia.org/wiki/布魯斯·韋恩 "wikilink")（Bruce Wayne）勝出而[雷克斯·路瑟](../Page/雷克斯·路瑟.md "wikilink")（Lex Luthor）屈居第二，會場突然受[企鵝人](https://zh.wikipedia.org/wiki/企鵝人 "wikilink")（Penguin）、[謎語人](../Page/謎語人.md "wikilink")（Riddler）、[哈莉·奎茵](../Page/哈莉·奎茵.md "wikilink")（Harley Quinn）、[雙面人](https://zh.wikipedia.org/wiki/雙面人 "wikilink")（Two-Face）及[小丑](../Page/小丑.md "wikilink")（Joker）襲擊，布魯斯換裝變成蝙蝠俠後與[羅賓](../Page/羅賓.md "wikilink")（Robin）擊敗了眾人並把小丑送進[阿卡漢精神病院](https://zh.wikipedia.org/wiki/阿卡漢精神病院 "wikilink")（Arkham Asylum）。雷克斯帶著其新發明、由[氪石驅動之](https://zh.wikipedia.org/wiki/氪石 "wikilink")「解體槍」（The Deconstructor）劫獄，所有罪犯包括小丑逃離了精神病院，蝙蝠俠與羅賓趕至並在捕回部分罪犯後發現瓦礫上帶有雷克斯之解體槍殘餘能量。
+[高譚市](../Page/高譚市.md "wikilink")年度人物選舉由[布魯斯·韋恩](https://zh.wikipedia.org/wiki/布魯斯·韋恩 "wikilink")（Bruce Wayne）勝出而[雷克斯·路瑟](https://zh.wikipedia.org/wiki/雷克斯·路瑟 "wikilink")（Lex Luthor）屈居第二，會場突然受[企鵝人](https://zh.wikipedia.org/wiki/企鵝人 "wikilink")（Penguin）、[謎語人](../Page/謎語人.md "wikilink")（Riddler）、[哈莉·奎茵](https://zh.wikipedia.org/wiki/哈莉·奎茵 "wikilink")（Harley Quinn）、[雙面人](https://zh.wikipedia.org/wiki/雙面人 "wikilink")（Two-Face）及[小丑](../Page/小丑.md "wikilink")（Joker）襲擊，布魯斯換裝變成蝙蝠俠後與[羅賓](../Page/羅賓.md "wikilink")（Robin）擊敗了眾人並把小丑送進[阿卡漢精神病院](https://zh.wikipedia.org/wiki/阿卡漢精神病院 "wikilink")（Arkham Asylum）。雷克斯帶著其新發明、由[氪石驅動之](https://zh.wikipedia.org/wiki/氪石 "wikilink")「解體槍」（The Deconstructor）劫獄，所有罪犯包括小丑逃離了精神病院，蝙蝠俠與羅賓趕至並在捕回部分罪犯後發現瓦礫上帶有雷克斯之解體槍殘餘能量。
 
 不久化學大樓Ace Chemicals受襲擊，蝙蝠俠與羅賓發現大樓內被盜之化學品均是製作人造氪石之原料，並在大樓被炸毀前被[超人](../Page/超人.md "wikilink")（Superman）所救。二人其後把從追截雷克斯時所取得之人造氪石帶返蝙蝠洞調查，隨即被小丑和雷克斯發現－該人造氪石乃偽裝之追蹤器。小丑和雷克斯以解體槍對蝙蝠洞造成嚴重破壞，二人於被困時再次被超人救出。
 
